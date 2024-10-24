@@ -1,0 +1,30 @@
+[
+    {
+        "case": "Case A",
+        "duration": 10,
+        "precedents": 5,
+        "jurisdiction": 7,
+        "complexity": 4
+    },
+    {
+        "case": "Case B",
+        "duration": 8,
+        "precedents": 3,
+        "jurisdiction": 6,
+        "complexity": 5
+    },
+    {
+        "case": "Case C",
+        "duration": 12,
+        "precedents": 6,
+        "jurisdiction": 9,
+        "complexity": 7
+    },
+    {
+        "case": "Case D",
+        "duration": 14,
+        "precedents": 8,
+        "jurisdiction": 10,
+        "complexity": 6
+    }
+]

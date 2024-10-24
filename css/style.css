@@ -1,0 +1,121 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f7f8fc;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Style the title */
+h1 {
+    color: #333;
+    margin-bottom: 10px;  /* Space below the title */
+    font-size: 2em;
+    text-align: center;    /* Center the title */
+    width: 100%;           /* Ensure it spans full width */
+    padding-top: 20px;     /* Add padding at the top */
+    box-sizing: border-box; /* To include padding in the element's total width */
+}
+
+/* ---- Container for Table and Plot ---- */
+#content-container {
+    display: flex;
+    justify-content: space-between;  /* Creates space between the table and plot */
+    align-items: flex-start;  /* Align table and plot to the top */
+    width: 100%;  /* Take up the full width of the page */
+    max-width: 1200px;  /* Adjust based on desired layout */
+    margin-top: 20px;
+}
+
+
+/* Table container styling */
+#table-area {
+    width: 60%;  /* Adjust width as necessary */
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-left: 0;  /* Keep table aligned with the left side of the screen */
+    /* margin-top: -300px; Adjust margin to reduce space above the table */
+    padding: 20px;
+    /* align-self: flex-start; Align table to the left (within the container) */
+    height: 200px;  /* Set fixed height for scrolling */
+    overflow-y: auto;  /* Enable vertical scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+/* Table styling */
+#table-area table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 1em;
+    color: #333;
+}
+
+/* Table headers */
+#table-area th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    position: sticky;
+    top: 0;  /* Keep headers visible when scrolling */
+    z-index: 1;  /* Ensure headers stay on top */
+}
+
+/* Table cells */
+#table-area td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    font-size: 0.9em;
+}
+
+/* Alternating row colors */
+#table-area tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Hover effect on rows */
+#table-area tr:hover {
+    background-color: #f1f1f1;
+    transition: background-color 0.3s;
+}
+
+/* First column styling */
+#table-area td:first-child {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+/* Parallel coordinates plot styling */
+#parallel-coordinates {
+    width: 50%;  /* Adjust to control the width of the plot area */
+    padding: 0;
+    box-sizing: border-box;  /* Include padding in width calculation */
+}
+
+/* Apply the background directly to the SVG
+#parallel-coordinates svg {
+    background-color: white;  /* This will ensure the background is only for the plot */
+/*} 
+*/
+
+#parallel-coordinates path {
+    stroke-width: 2;
+}
+
+#parallel-coordinates path:hover {
+    stroke: orange;
+    stroke-width: 4;
+    opacity: 1;
+}
+
+#parallel-coordinates g.axis text {
+    font-size: 12px;
+    fill: black;
+}
