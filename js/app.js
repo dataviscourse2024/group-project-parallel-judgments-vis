@@ -230,19 +230,30 @@ function createRadarChart(data) {
  */
 function processParallelData(data) {
     const maxOpinionLength = d3.max(data, d => d.casebody.opinions.reduce((acc, op) => acc + op.text.length, 0));
-    const maxCiteRatio = d3.max(data, d => (d.citations ? d.citations.length : 1) / (d.cites_to ? d.cites_to.length : 1));
+
+    const maxCiteRatio = d3.max(data, d => {
+        const citesCount = d.cites_to ? d.cites_to.length : 0;
+        return citesCount > 0 ? (d.citations ? d.citations.length : 1) / citesCount : 0;
+    });
 
     // Normalize data for each metric
     return data.map(d => {
         const opinionLength = d.casebody.opinions.reduce((acc, op) => acc + op.text.length, 0);
-        const citeRatio = (d.citations ? d.citations.length : 1) / (d.cites_to ? d.cites_to.length : 1);
+        
+        const citationsCount = d.citations ? d.citations.length : 0;
+        const citesToCount = d.cites_to ? d.cites_to.length : 0;
+
+        // Conditional cite ratio calculation to handle empty cites_to arrays
+        const citeRatio = citesToCount > 0 ? citationsCount / citesToCount : 0;
+
+        // Determine jurisdiction level using the existing function
         const jurisdictionLevel = getJurisdictionLevel(d.jurisdiction);
 
         return {
             name: d.name || 'Unknown Case',
             opinion_length: opinionLength / maxOpinionLength,
-            cite_ratio: citeRatio / maxCiteRatio,
-            jurisdiction_level: jurisdictionLevel / 3 // Normalize to [0, 1] with max level as 3
+            cite_ratio: citeRatio / maxCiteRatio, // Normalized cite ratio
+            jurisdiction_level: jurisdictionLevel / 3 // Normalize with max level as 3
         };
     });
 }
