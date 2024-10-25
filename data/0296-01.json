@@ -1,0 +1,1599 @@
+{
+  "id": 5868041,
+  "name": "BLAKELY v. WASHINGTON",
+  "name_abbreviation": "Blakely v. Washington",
+  "decision_date": "2004-06-24",
+  "docket_number": "No. 02-1632",
+  "first_page": "296",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "542 U.S. 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "159 L. Ed. 2d 403"
+    },
+    {
+      "type": "parallel",
+      "cite": "124 S. Ct. 2531"
+    },
+    {
+      "type": "vendor",
+      "cite": "2004 U.S. LEXIS 4573"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 2003-080"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "21 U. S. C. \u00a7\u00a7 841",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Stan. L. Rev. 295",
+      "category": "journals:journal",
+      "reporter": "Stan. L. Rev.",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "296",
+          "parenthetical": "\"Every prosecuto-rial bargaining chip mentioned by Professor Bibas existed pro-Apprendi exactly as it does post-Apprendi\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 Yale L. J. 1097",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1131-1132",
+          "parenthetical": "conceding that Bishop's treatise supports Apprendi, while criticizing its \"natural-law theorizing\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 U. S. 145",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767723
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0145-01"
+      ]
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a721-4718",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "2003 Cum. Supp."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 P. 3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        613036,
+        613028
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "809-814"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/271/0394-01",
+        "/kan/271/0310-01"
+      ]
+    },
+    {
+      "cite": "271 Kan. 394",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        613036
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "404-414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/271/0394-01"
+      ]
+    },
+    {
+      "cite": "Wash. Rev. Code Ann. \u00a79",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code Ann.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "919 P. 2d 1228",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1235",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 Wash. 2d 635",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        904197
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "650",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/129/0635-01"
+      ]
+    },
+    {
+      "cite": "723 P. 2d 1123",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1125, 1128",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Wash. 2d 525",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1195544
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "528, 533",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/106/0525-01"
+      ]
+    },
+    {
+      "cite": "526 U. S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133049
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "244-248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0227-01"
+      ]
+    },
+    {
+      "cite": "837 U. S. 241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1949,
+      "opinion_index": 0
+    },
+    {
+      "cite": "477 U. S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203837
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "81"
+        },
+        {
+          "page": "82"
+        },
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0079-01"
+      ]
+    },
+    {
+      "cite": "536 U. S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254843
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "563",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "567"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0545-01"
+      ]
+    },
+    {
+      "cite": "536 U. S. 584",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254507
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "592-593"
+        },
+        {
+          "page": "603-609"
+        },
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0584-01"
+      ]
+    },
+    {
+      "cite": "530 U. S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 12,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "490"
+        },
+        {
+          "page": "476-483, 489-490, n. 15"
+        },
+        {
+          "page": "501-518",
+          "parenthetical": "Thomas, J., concurring"
+        },
+        {
+          "page": "468-469"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "488",
+          "parenthetical": "facts admitted by the defendant"
+        },
+        {
+          "page": "552-553",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "540 U. S. 965",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8976965,
+        8976998,
+        8977035,
+        8977165,
+        8977137,
+        8977109,
+        8977016,
+        8977082,
+        8977051,
+        8976990
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/540/0965-01",
+        "/us/540/0965-03",
+        "/us/540/0965-05",
+        "/us/540/0965-10",
+        "/us/540/0965-09",
+        "/us/540/0965-08",
+        "/us/540/0965-04",
+        "/us/540/0965-07",
+        "/us/540/0965-06",
+        "/us/540/0965-02"
+      ]
+    },
+    {
+      "cite": "62 P. 3d 889",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 Wash. 2d 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 P. 3d 149",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "159"
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "158-159"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Wash. App. 851",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1071926
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "870-871"
+        },
+        {
+          "page": "869"
+        },
+        {
+          "page": "868-870"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/111/0851-01"
+      ]
+    },
+    {
+      "cite": "21 P. 3d 262",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "277"
+        },
+        {
+          "page": "315"
+        },
+        {
+          "page": "275-277"
+        },
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Wash. 2d 288",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425210
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "315-316"
+        },
+        {
+          "page": "315-316"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/143/0288-01"
+      ]
+    },
+    {
+      "cite": "2003 WL 21321425",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "unpublished opinion"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "548 S. E. 2d 712",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 2001,
+      "opinion_index": 1
+    },
+    {
+      "cite": "353 N. C. 568",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        135574
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/nc/353/0568-01"
+      ]
+    },
+    {
+      "cite": "336 Ore. 158",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        60647
+      ],
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/or/336/0158-01"
+      ]
+    },
+    {
+      "cite": "251 F. 3d 1041",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3677876,
+        11099783
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us-app-dc/346/0226-01",
+        "/f3d/251/1041-01"
+      ]
+    },
+    {
+      "cite": "269 F. 3d 1250",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9472813
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/269/1250-01"
+      ]
+    },
+    {
+      "cite": "296 F. 3d 1013",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9406134
+      ],
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/296/1013-01"
+      ]
+    },
+    {
+      "cite": "351 F. 3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9048999
+      ],
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/351/0423-01"
+      ]
+    },
+    {
+      "cite": "316 F. 3d 789",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9378936
+      ],
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/316/0789-01"
+      ]
+    },
+    {
+      "cite": "335 F. 3d 589",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1533895
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/335/0589-01"
+      ]
+    },
+    {
+      "cite": "349 F. 3d 295",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9066835
+      ],
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/349/0295-01"
+      ]
+    },
+    {
+      "cite": "304 F. 3d 373",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11400605
+      ],
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/304/0373-01"
+      ]
+    },
+    {
+      "cite": "235 F. 3d 192",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11167405
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/235/0192-01"
+      ]
+    },
+    {
+      "cite": "272 F. 3d 176",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1953038
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/272/0176-01"
+      ]
+    },
+    {
+      "cite": "311 F. 3d 146",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9301407
+      ],
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/311/0146-01"
+      ]
+    },
+    {
+      "cite": "326 F. 3d 26",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9311257
+      ],
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/326/0026-01"
+      ]
+    },
+    {
+      "cite": "508 U. S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11850
+      ],
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/508/0036-01"
+      ]
+    },
+    {
+      "cite": "489 U. S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032050
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "301",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0288-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7991",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "18 U. S. C. \u00a73553",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "204 Pa. Code \u00a7 303",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Minn. Stat. \u00a7244.10",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "Mich. Comp. Laws Ann. \u00a7769.34",
+      "category": "laws:leg_statute",
+      "reporter": "Mich. Comp. Laws Ann.",
+      "year": 2004,
+      "opinion_index": 1
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a721-4701",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Fla. Stat. \u00a7921.0016",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 2003,
+      "opinion_index": 1
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a716-90-804",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 12.55.155",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "year": 2002,
+      "opinion_index": 1
+    },
+    {
+      "cite": "488 U. S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1494660
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "Federal Sentencing Guidelines do not violate separation of powers"
+        },
+        {
+          "page": "393-394"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/488/0361-01"
+      ]
+    },
+    {
+      "cite": "497 U. S. 639",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218483
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "aggravating factors need not be found by a jury in capital case"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/497/0639-01"
+      ]
+    },
+    {
+      "cite": "515 U. S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1563793
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "no double jeopardy bar against consideration of uncharged conduct in imposition of guidelines enhancement"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/515/0389-01"
+      ]
+    },
+    {
+      "cite": "519 U. S. 148",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595117
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/519/0148-01"
+      ]
+    },
+    {
+      "cite": "523 U. S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503479
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "fact of prior conviction not an element of aggravated recidivist offense"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/523/0224-01"
+      ]
+    },
+    {
+      "cite": "597 P. 2d 1367",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1369",
+          "parenthetical": "citing second degree kidnaping provision as existed in 1977"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "23 Wash. App. 226",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        462051
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "228-229",
+          "parenthetical": "citing second degree kidnaping provision as existed in 1977"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-app/23/0226-01"
+      ]
+    },
+    {
+      "cite": "284 U. S. 299",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5719289
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "parenthetical": "government cannot prosecute for separate offenses unless each offense has at least one element that the other does not"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/284/0299-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "year": 1970,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "17 Hofstra L. Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Hofstra L. Rev.",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "5",
+          "parenthetical": "elimination of racial disparity one reason behind Congress' creation of the Federal Sentencing Commission"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "Wash. Rev. Code Ann. \u00a7\u00a79.95.010-9",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code Ann.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "23 P. 3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        613036,
+        613028
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/271/0394-01",
+        "/kan/271/0310-01"
+      ]
+    },
+    {
+      "cite": "271 Kan. 394",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        613036
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/271/0394-01"
+      ]
+    },
+    {
+      "cite": "Wash. Rev. Code Ann. \u00a79",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code Ann.",
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "126",
+          "parenthetical": "Racial disparities that do exist \"are accounted for by differences in legally relevant variables - the offense of conviction and prior criminal record\""
+        },
+        {
+          "page": "127",
+          "parenthetical": "\"[J]udicial authority to impose exceptional sentences under the court's departure, authority shows little evidence of disparity correlated with race\""
+        },
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "477 U. S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203837
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "facts increasing mandatory minimum sentence are not necessarily elements"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/477/0079-01"
+      ]
+    },
+    {
+      "cite": "536 U. S. 584",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254507
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "613",
+          "parenthetical": "Scalia, J., concurring"
+        },
+        {
+          "page": "619-621",
+          "parenthetical": "O'Connor, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/536/0584-01"
+      ]
+    },
+    {
+      "cite": "530 U. S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 9,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "552-554",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "523-554",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "525-528",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "496-497"
+        },
+        {
+          "page": "497, n. 21",
+          "parenthetical": "reserving question of Federal Sentencing Guidelines"
+        },
+        {
+          "page": "549-559",
+          "parenthetical": "O'Connor, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "21 P. 3d 262",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "opinion_index": 1
+    },
+    {
+      "cite": "143 Wash. 2d 288",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        425210
+      ],
+      "year": 2001,
+      "opinion_index": 1,
+      "case_paths": [
+        "/wash-2d/143/0288-01"
+      ]
+    },
+    {
+      "cite": "285 U. S. 262",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1175402
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "311",
+          "parenthetical": "Brandeis, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/285/0262-01"
+      ]
+    },
+    {
+      "cite": "343 U. S. 579",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341177
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "635",
+          "parenthetical": "Jackson, J., concurring"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/343/0579-01"
+      ]
+    },
+    {
+      "cite": "488 U. S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1494660
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "408"
+        },
+        {
+          "page": "381"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/488/0361-01"
+      ]
+    },
+    {
+      "cite": "541 U. S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5873383
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "63, 68",
+          "parenthetical": "clarifying the Sixth Amendment's requirement of confrontation with respect to testimonial hearsay"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/541/0036-01"
+      ]
+    },
+    {
+      "cite": "83 Cornell L. Rev. 1431",
+      "category": "journals:journal",
+      "reporter": "Cornell L. Rev.",
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1439-1440",
+          "parenthetical": "attributing the greater cost of death penalty cases in part to bifurcated proceedings"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "46 Case W. Res. L. Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Case W. Res. L. Rev.",
+      "pin_cites": [
+        {
+          "page": "13-15"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "337 U. S. 241",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572499
+      ],
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/337/0241-01"
+      ]
+    },
+    {
+      "cite": "501 U. S. 808",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108176
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/501/0808-01"
+      ]
+    },
+    {
+      "cite": "29 Am. Crim. L. Rev. 833",
+      "category": "journals:journal",
+      "reporter": "Am. Crim. L. Rev.",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "847",
+          "parenthetical": "arguing that the \"most important problem under the Guidelines system is not too much disparity, but rather excessive uniformity\" and arguing for adjustments, including elimination of mandatory minimums, to make the Guidelines system more responsive to relevant differences"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "82 N. C. L. Rev. 621",
+      "category": "journals:journal",
+      "reporter": "N.C. L. Rev.",
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "630"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "524 U. S. 721",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11183048
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "728-729",
+          "parenthetical": "O'Connor, J."
+        },
+        {
+          "page": "729"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/524/0721-01"
+      ]
+    },
+    {
+      "cite": "515 U. S. 389",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1563793
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "399-401",
+          "parenthetical": "evidence of uncharged criminal conduct used in determining sentence"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/515/0389-01"
+      ]
+    },
+    {
+      "cite": "519 U. S. 148",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595117
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "153-157",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/519/0148-01"
+      ]
+    },
+    {
+      "cite": "110 Yale L. J. 1097",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1100-1101",
+          "parenthetical": "explaining that the rule of Apprendi hurts defendants by depriving them of sentencing hearings, \"the only hearings they were likely to have\"; forcing defendants to surrender sentencing issues like drug quantity when they agree to the plea; and transferring power to prosecutors"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a721-4718",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "2003 Cum. Supp."
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "23 P. 3d 801",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        613036,
+        613028
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "809-814"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/kan/271/0394-01",
+        "/kan/271/0310-01"
+      ]
+    },
+    {
+      "cite": "271 Kan. 394",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        613036
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "404-414"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/kan/271/0394-01"
+      ]
+    },
+    {
+      "cite": "526 U. S. 227",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133049
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "254, 264-272",
+          "parenthetical": "Kennedy, J., dissenting"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/526/0227-01"
+      ]
+    },
+    {
+      "cite": "477 U. S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203837
+      ],
+      "weight": 4,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "86-91",
+          "parenthetical": "Rehnquist, C. J."
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "85-88"
+        },
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/477/0079-01"
+      ]
+    },
+    {
+      "cite": "536 U. S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254843
+      ],
+      "weight": 2,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "549-550, 556-569",
+          "parenthetical": "Kennedy, J."
+        },
+        {
+          "page": "569-572",
+          "parenthetical": "Breyer, J., concurring in part and concurring in judgment"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/536/0545-01"
+      ]
+    },
+    {
+      "cite": "530 U. S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 9,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "490"
+        },
+        {
+          "page": "523-554",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "555-566",
+          "parenthetical": "Breyer, J., dissenting"
+        },
+        {
+          "page": "557-558",
+          "parenthetical": "Breyer, J., dissenting"
+        },
+        {
+          "page": "541-542",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "525-528",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "526",
+          "parenthetical": "O'Connor, J., dissenting"
+        },
+        {
+          "page": "526-527",
+          "parenthetical": "O'Connor, J., dissenting"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 3095,
+    "char_count": 102133,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 0.0001455436104734103,
+      "percentile": 0.9999918914191522
+    },
+    "sha256": "42e231af61e06bb3770a6143fedcb85c499d18ef9d525142bf28083759854acd",
+    "simhash": "1:4e64d609a3afd4da",
+    "word_count": 16208
+  },
+  "last_updated": "2024-02-27T20:28:23.451866+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BLAKELY v. WASHINGTON"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Scalia\ndelivered the opinion of the Court.\nPetitioner Ralph Howard Blakely, Jr., pleaded guilty to the kidnaping of his estranged wife. The facts admitted in his plea, standing alone, supported a maximum sentence of 53 months. Pursuant to state law, the court imposed an \u201cexceptional\u201d sentence of 90 months after making a judicial determination that he had acted with \u201cdeliberate cruelty.\u201d App. 40, 49. We consider whether this violated petitioner\u2019s Sixth Amendment right to trial by jury.\nI\nPetitioner married his wife Yolanda in 1973. He was evidently a difficult man to live with, having been diagnosed at various times with psychological and personality disorders including paranoid schizophrenia. His wife ultimately filed for divorce. In 1998, he abducted her from their orchard home in Grant County, Washington, binding her with duct tape and forcing her at knifepoint into a wooden box in the bed of his pickup truck. In the process, he implored her to dismiss the divorce suit and related trust proceedings.\nWhen the couple\u2019s 13-year-old son Ralphy returned home from school, petitioner ordered him to follow in another car, threatening to harm Yolanda with a shotgun if he did not do so. Ralphy escaped and sought help when they stopped at a gas station, but petitioner continued on with Yolanda to a friend\u2019s house in Montana. He was finally arrested after the friend called the police.\nThe State charged petitioner with first-degree kidnaping, Wash. Rev. Code Ann. \u00a7 9A.40.020(1) (200Q). Upon reaching a plea agreement, however, it reduced the charge to second-degree kidnaping involving domestic violence and use of a firearm, see \u00a7\u00a79A.40.030(1), 10.99.020(3)(p), 9.94A.125. Petitioner entered a guilty plea admitting the elements of second-degree kidnaping and the domestic-violence and firearm allegations, but no other relevant facts.\nThe case then proceeded to sentencing. In Washington, second-degree kidnaping is a class B felony. \u00a7 9A.40.030(3). State law provides that \u201c[n]o person convicted of a [class B] felony shall be punished by confinement... exceeding ... a term of ten years.\u201d \u00a7 9A.20.021(1)(b). Other provisions of state law, however, further limit the range of sentences a judge may impose. Washington\u2019s Sentencing Reform Act specifies, for petitioner\u2019s offense of second-degree kidnaping with a firearm, a \u201cstandard range\u201d of 49 to 53 months. See \u00a79.94A.320 (seriousness level V for second-degree kidnaping); App. 27 (offender score 2 based on \u00a79.94A.360); \u00a7 9.94A.310(1), box 2-V (standard range of 13-17 months); \u00a7 9.94A.310(3)(b) (36-month firearm enhancement). A judge may impose a sentence above the standard range if he finds \u201csubstantial and compelling reasons justifying an exceptional sentence.\u201d \u00a7 9.94A.120(2). The Act lists aggravating factors that justify such a departure, which it recites to be illustrative rather than exhaustive. \u00a7 9.94A.390. Nevertheless, \u201c[a] reason offered to justify an exceptional sentence can be considered only if it takes into account factors other than those which are used in computing the standard range sentence for the offense.\u201d State v. Gore, 143 Wash. 2d 288, 315\u2014316, 21 P. 3d 262, 277 (2001). When a judge imposes an exceptional sentence, he must set forth findings of fact and conclusions of law supporting it. \u00a7 9.94A. 120(3). A reviewing court will reverse the sentence if it finds that \u201cunder a clearly erroneous standard there is insufficient evidence in the record to support the reasons for imposing an exceptional sentence.\u201d Id., at 315, 21 P. 3d, at 277 (citing \u00a7 9.94A.210(4)).\nPursuant to the plea agreement, the State recommended a sentence within the standard range of 49 to 53 months. After hearing Yolanda\u2019s description of the kidnaping, however, the judge rejected the State\u2019s recommendation and imposed an exceptional sentence of 90 months \u2014 37 months beyond the standard maximum. He justified the sentence on the ground that petitioner had acted with \u201cdeliberate cruelty,\u201d a statutorily enumerated ground for departure in domestic-violence cases. \u00a7 9.94A.390(2)(h)(iii).\nFaced with an unexpected increase of more than three years in his sentence, petitioner objected. The judge accordingly conducted a 3-day bench hearing featuring testimony from petitioner, Yolanda, Ralphy, a police officer, and medical experts. After the hearing, he issued 32 findings of fact, concluding:\n\u201cThe defendant\u2019s motivation to commit kidnapping was complex, contributed to by his mental condition and personality disorders, the pressures of the divorce litigation, the impending trust litigation trial and anger over his troubled interpersonal relationships with his spouse and children. While he misguidedly intended to forcefully reunite his family, his attempt to do so was subservient to his desire to terminate lawsuits and modify title ownerships to his benefit.\n\u201cThe defendant\u2019s methods were more homogeneous than his motive. He used stealth and surprise, and took advantage of the victim\u2019s isolation. He immediately employed physical violence, restrained the victim with tape, and threatened her with injury and death to herself and others. He immediately coerced the victim into providing, information by the threatening application of a knife. He violated a subsisting restraining order.\u201d App. 48-49.\nThe judge adhered to his initial determination of deliberate cruelty.\nPetitioner appealed, arguing that this sentencing procedure deprived him of his federal constitutional right to have a jury determine beyond a reasonable doubt all facts legally essential to his sentence. The State Court of Appeals affirmed, 111 Wash. App. 851, 870-871, 47 P. 3d 149, 159 (2002), relying on the Washington Supreme Court\u2019s rejection of a similar challenge in Gore, supra, at 311-315, 21 P. 3d, at 275-277. The Washington Supreme Court denied discretionary review. 148 Wash. 2d 1010, 62 P. 3d 889 (2003). We granted certiorari. 540 U. S. 965 (2003).\nII\nThis case requires us to apply the rule we expressed in Apprendi v. New Jersey, 530 U. S. 466, 490 (2000): \u201cOther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.\u201d This rule reflects two longstanding tenets of common-law criminal jurisprudence: that the \u201ctruth of every accusation\u201d against a defendant \u201cshould afterwards be confirmed by the unanimous suffrage of twelve of his equals and neighbours,\u201d 4 W. Blackstone, Commentaries on the Laws of England 343 (1769), and that \u201can accusation which lacks any particular fact which the law makes essential to the punishment is ... no accusation within the requirements of the common law, and it is no accusation in reason,\u201d 1 J. Bishop, Criminal Procedure \u00a7 87, p. 55 (2d ed. 1872). These principles have been acknowledged by courts and treatises since the earliest days of graduated sentencing; we compiled the relevant authorities in Apprendi, see 530 U. S., at 476-483, 489-490, n. 15; id., at 501-518 (Thomas, J., concurring), and need not repeat them here.\nApprendi involved a New Jersey hate-crime statute that authorized a 20-year sentence, despite the usual 10-year maximum, if the judge found the crime to have been committed \u201c\u2018with a purpose to intimidate . . . because of race, color, gender, handicap, religion, sexual orientation or ethnicity.\u2019\u201d Id., at 468-469 (quoting N. J. Stat. Ann. \u00a72C:44-3(e) (West Supp. 1999-2000)). In Ring v. Arizona, 536 U. S. 584, 592-593, and n. 1 (2002), we applied Apprendi to an Arizona law that authorized the death penalty if the judge found 1 of 10 aggravating factors. In each case, we concluded that the defendant\u2019s constitutional rights had been violated because the judge had imposed a sentence greater than the maximum he could have imposed under state law without the challenged factual finding. Apprendi, supra, at 491-497; Ring, supra, at 603-609.\nIn this case, petitioner was sentenced to more than three years above the 53-month statutory maximum of the standard range because he had acted with \u201cdeliberate cruelty.\u201d The facts supporting that finding were neither admitted by petitioner nor found by a jury. The State nevertheless contends that there was no Apprendi violation because the relevant \u201cstatutory maximum\u201d is not 53 months, but the 10-year maximum for class B felonies in \u00a79A.20.021(1)(b). It observes that no exceptional sentence may exceed that limit. See \u00a7 9.94A.420. Our precedents make clear, however, that the \u201cstatutory maximum\u201d for Apprendi purposes is the maximum sentence a judge may impose solely on the basis of the fa,cts reflected in the jury verdict or admitted by the defendant. See Ring, supra, at 602 (\u201c \u2018the maximum he would receive if punished according to the facts reflected in the jury verdict alone\u2019 \u201d (quoting Apprendi, supra, at 483)); Harris v. United States, 536 U. S. 545, 563 (2002) (plurality opinion) (same); cf. Apprendi, supra, at 488 (facts admitted by the defendant). In other words, the relevant \u201cstatutory maximum\u201d is not the maximum sentence a judge may impose after finding additional facts, but the maximum he may impose without any additional findings. When a judge inflicts punishment that the jury\u2019s verdict alone does not allow, the jury has not found all the facts \u201cwhich the law makes essential to the punishment,\u201d Bishop, supra, \u00a787, at 55, and the judge exceeds his proper authority.\nThe judge in this case could not have imposed the exceptional 90-month sentence solely on the basis of the facts admitted in the guilty plea. Those facts alone were insufficient because, as the Washington Supreme Court has explained, \u201c[a] reason offered to justify an exceptional sentence can be considered only if it takes into account factors other than those which are used in computing the standard range sentence for the offense,\u201d Gore, 143 Wash. 2d, at 315-316, 21 P. 3d, at 277, which in this case included the elements of second-degree kidnaping and the use of a firearm, see \u00a7\u00a7 9.94A.320, 9.94A.310(3)(b). Had the judge imposed the 90-month sentence solely on the basis of the plea, he would have been reversed. See \u00a7 9.94A.210(4). The \u201cmaximum sentence\u201d is no more 10 years here than it was 20 years in Apprendi (because that is what the judge could have imposed upon finding a hate crime) or death in Ring (because that is what the judge could have imposed upon finding an aggravator).\nThe State defends the sentence by drawing an analogy to those we upheld in McMillan v. Pennsylvania, 477 U. S. 79 (1986), and Williams v. New York, 837 U. S. 241 (1949). Neither case is on point. McMillan involved a sentencing scheme that imposed a statutory minimum if a judge found a particular fact. 477 U. S., at 81. We specifically noted that the statute \u201cdoes not authorize a sentence in excess of that otherwise allowed for [the underlying] offense.\u201d Id., at 82; cf. Harris, supra, at 567. Williams involved an indeterminate-sentencing regime that allowed a judge (but did not compel him) to rely on facts outside the trial record in determining whether to sentence a defendant to death. 337 U. S., at 242-243, and n. 2. The judge could have \u201csentenced [the defendant] to death giving no reason at all.\u201d Id., at 252. Thus, neither case involved a sentence greater than what state law authorized on the basis of the verdict alone.\nFinally, the State tries to distinguish Apprendi and Ring by pointing out that the enumerated grounds for departure in its regime are illustrative rather than exhaustive. This distinction is immaterial. Whether the judge\u2019s authority to impose an enhanced sentence depends on finding a specified fact (as in Apprendi), one of several specified facts (as in Ring), or any aggravating fact (as here), it remains the case that the jury\u2019s verdict alone does not authorize the sentence. The judge acquires that authority only upon finding some additional fact.\nBecause the State\u2019s sentencing procedure did not comply with the Sixth Amendment, petitioner\u2019s sentence is invalid.\nIll\nOur commitment to Apprendi in this context reflects not just respect for longstanding precedent, but the need to give intelligible content to the right of jury trial. That right is no mere procedural formality, but a fundamental reservation of power in our constitutional structure. Just as suffrage ensures the people\u2019s ultimate control in the legislative and executive branches, jury trial is meant to ensure their control in the judiciary. See Letter XV by the Federal Farmer (Jan. 18, 1788), reprinted in 2 The Complete Anti-Federalist 815, 320 (H. Storing ed. 1981) (describing the jury as \u201csecuring] to the people at large, their just and rightful controul in the judicial department\u201d); John Adams, Diary Entry (Feb. 12, 1771), reprinted in 2 Works of John Adams 252, 253 (C. Adams ed. 1850) (\u201c[T]he common people, should have as complete a control... in every judgment of a court of judicature\u201d as in the legislature); Letter from Thomas Jefferson to the Abb\u00e9 Arnoux (July 19, 1789), reprinted in 15 Papers of Thomas Jefferson 282, 283 (J. Boyd ed. 1958) (\u201cWere I called upon to decide whether the people had best be omitted in the Legislative or Judiciary department, I would say it is better to leave them out of the Legislative\u201d); Jones v. United States, 526 U. S. 227, 244-248 (1999). Apprendi carries out this design by ensuring that the judge\u2019s authority to sentence derives wholly from the jury\u2019s verdict. Without that restriction, the jury would not exercise the control that the Framers intended.\nThose who would reject Apprendi we resigned to one of two alternatives. The first is that the jury need only find whatever facts the legislature chooses to label elements of the crime, and that those it labels sentencing factors \u2014 no matter how much they may increase the punishment \u2014 may be found by the judge. This would mean, for example, that a judge could sentence a man for committing murder even if the jury convicted him only of illegally possessing the firearm used to commit it \u2014 or of making an illegal lane change while fleeing the death scene. Not even Apprendi\u2019s critics would advocate this absurd result. Cf. 530 U. S., at 552-553 (O\u2019Connor, J., dissenting). The jury could not function as circuitbreaker in the State\u2019s machinery of justice if it were relegated to making a determination that the defendant at some point did something wrong, a mere preliminary to a judicial inquisition into the facts of the crime the State actually seeks to punish.\nThe second alternative is that legislatures may establish legally essential sentencing factors within limits \u2014 limits crossed when, perhaps, the \u2018sentencing factor is a \u201ctail which wags the dog of the substantive offense.\u201d McMillan, 477 U. S., at 88. Wh\u00e1t this means in operation is that the law must not go too far \u2014 it must not exceed the judicial estimation of the proper role of the judge.\nThe subjectivity of this standard is obvious. Petitioner argued below that second-degree kidnaping with deliberate cruelty was essentially the same as first-degree kidnaping, the very charge he had avoided by pleading to a lesser offense. The court conceded this might be so but held it irrelevant. See 111 Wash. App., at 869,47 P. 3d, at 158. Petitioner\u2019s 90-month sentence exceeded the 53-month standard maximum by almost 70%; the Washington Supreme Court in other cases has upheld exceptional sentences 15 times the standard maximum. See State v. Oxborrow, 106 Wash. 2d 525, 528, 533, 723 P. 2d 1123, 1125, 1128 (1986) (en banc) (15-year exceptional sentence; 1-year standard maximum sentence); State v. Branch, 129 Wash. 2d 635, 650, 919 P. 2d 1228, 1235 (1996) (en banc) (4-year exceptional sentence; 3-month standard maximum sentence). Did the court go too far in any of these cases? There is no answer that legal analysis can provide. With too far as the yardstick, it is always possible to disagree with such judgments and never to refute them.\nWhether the Sixth Amendment incorporates this manipulate standard rather than Apprendi\u2019s bright-line rule depends on the plausibility of the claim that the Framers would have left definition of the scope of jury power up to judges\u2019 intuitive sense of how far is too far. We think that claim not plausible at all, because the very reason the Framers put a jury-trial guarantee in the Constitution is that they were unwilling to trust government to mark out the role of the jury.\nIV\nBy reversing the judgment below, we are not, as the State would have it, \u201cfinding] determinate sentencing schemes unconstitutional.\u201d Brief for Respondent 34. This case is not about whether determinate sentencing is constitutional, only about how it can be implemented in a way that respects the Sixth Amendment. Several policies prompted Washington\u2019s adoption of determinate sentencing, including proportionality to the gravity of the offense and parity among defendants. See Wash. Rev. Code Ann. \u00a79.94A.010 (2000). Nothing we have said impugns those salutary objectives.\nJustice O\u2019Connor argues that, because determinate-sentencing schemes involving judicial factfinding entail less judicial, discretion than indeterminate schemes, the constitutionality of the latter implies the constitutionality of the former. Post, at 314-323. This argument is flawed on a number of levels. First, the Sixth Amendment by its terms is not a limitation on judicial power, but a reservation of jury power. It limits judicial power only to the extent that the claimed judicial power infringes on the province of the jury. Indeterminate sentencing does not do so. It increases judicial discretion, to be sure, but not at the expense of the jury\u2019s traditional function of finding the facts essential to lawful imposition of the penalty. Of course indeterminate schemes involve judicial factfinding, in that a judge (like a parole board) may implicitly rule on those facts he deems important to the exercise of his sentencing discretion. But the facts do not pertain to whether the defendant has a legal right to a lesser sentence \u2014 and that makes all the difference insofar as judicial impingement upon the traditional role of the jury is concerned. In a system that says the judge may punish burglary with 10 to 40 years, every burglar knows he is risking 40 years in jail. In a system that punishes burglary with a 10-year sentence, with another 30 added for use of a gun, the burglar who enters a home unarmed is entitled to no more than a 10-year sentence \u2014 and by reason of the Sixth Amendment the facts bearing upon that entitlement must be found by a jury.\nBut even assuming that restraint of judicial power unrelated to the jury\u2019s role is a Sixth Amendment objective, it is far from clear that Apprendi disserves that goal. Determinate judicial-factfinding schemes entail less judicial power than indeterminate schemes, but more judicial power than determinate jury-factfinding schemes. Whether Apprendi increases judicial power overall depends on what States with determinate judicial-factfinding schemes would do, given the choice between the two alternatives. Justice O\u2019Connor simply assumes that the net effect will favor judges, but she has no empirical basis for that prediction. Indeed, what evidence we have points exactly the other way: When the Kansas Supreme Court found Apprendi infirmities in that State\u2019s determinate-sentencing regime in State v. Gould, 271 Kan. 394, 404-414, 23 P. 3d 801, 809-814 (2001), the legislature responded not by reestablishing indeterminate sentencing but by applying Apprendi's requirements to its current regime. See Act of May 29, 2002, ch. 170, 2002 Kan. Sess. Laws pp. 1018-1023 (codified at Kan. Stat. Ann. \u00a721-4718 (2003 Cum. Supp.)); Brief for Kansas Appellate Defender Office as Amicus Curiae 3-7. The result was less, not more, judicial power.\nJustice Breyer argues that Apprendi works to the detriment of criminal defendants who plead guilty by depriving them of the opportunity to argue sentencing factors to a judge. Post, at 331. But nothing prevents a defendant from waiving his Apprendi rights. When a defendant pleads guilty, the State is free to seek judicial sentence enhancements so long as the defendant either stipulates to the relevant facts or consents to judicial factfinding. See Ap-prendi, 530 U. S., at 488; Duncan v. Louisiana, 391 U. S. 145, 158 (1968). If appropriate waivers are procured, States may continue to offer judicial factfinding as a matter of course to all defendants who plead guilty. Even a defendant who stands trial may consent to judicial factfinding as to sentence enhancements, which may well be in his interest if relevant evidence would prejudice him at trial. We do not understand how Apprendi can possibly work to the detriment of those who are free, if they think its costs outweigh its benefits, to render it inapplicable.\nNor do we see any merit to Justice Breyer\u2019s contention that Apprendi is unfair to criminal defendants because, if States respond by enacting \u201c17-element robbery crime[s],\u201d prosecutors will have more elements with which to bargain. Post, at 331, 335-336 (citing Bibas, Judicial Fact-Finding and Sentence Enhancements in a World of Guilty Pleas, 110 Yale L. J. 1097 (2001)). Bargaining already exists with regard to sentencing factors because defendants can either stipulate or contest the facts th\u00e1t make them applicable. If there is any difference between bargaining over sentencing factors and bargaining over elements, the latter probably favors the defendant. Every new element that a prosecutor can threaten to charge is also an element that a defendant can threaten to contest at trial and make the prosecutor prove beyond a reasonable doubt. Moreover, given the sprawling scope of most criminal codes, and the power to affect sentences by making (even nonbinding) sentencing recommendations, there is already no shortage of in terrorem tools at prosecutors\u2019 disposal. See King & Klein, Apprendi and Plea Bargaining, 54 Stan. L. Rev. 295, 296 (2001) (\u201cEvery prosecuto-rial bargaining chip mentioned by Professor Bibas existed pro-Apprendi exactly as it does post-Apprendi\u201d).\nAny evaluation of Apprendis \u201cfairness\u201d to criminal defendants must compare it with the regime it replaced, in which a defendant, with no warning in either his indictment or plea, would routinely see his maximum potential sentence balloon from as little as five years to as much as life imprisonment, see 21 U. S. C. \u00a7\u00a7 841(b)(1)(A), (D), based not on facts proved to his peers beyond a reasonable doubt, but on facts extracted after trial from a report compiled by a probation officer who the judge thinks more likely got it right than got it wrong. We can conceive of no measure of fairness that would find more fault in the utterly speculative bargaining effects Justice Breyer identifies than in the regime he champions. Suffice it to say that, if such a measure exists, it is not the one the Framers left us with.\nThe implausibility of Justice Breyer\u2019s contention that Apprendi is unfair to criminal defendants is exposed by the lineup of amici in this case. It is hard to believe that the National Association of Criminal Defense Lawyers was somehow duped into arguing for the wrong side. Justice Breyer\u2019s only authority asking that defendants be protected from Apprendi is an article written not by a criminal defense lawyer but by a law professor and former prosecutor. See post, at 331 (citing Bibas, supra)', Association of American Law Schools Directory of Law Teachers 2003-2004, p. 319.\nJustice Breyer also claims that Apprendi will attenuate the connection between \u201creal criminal conduct and real punishment\u201d by encouraging plea bargaining and by restricting alternatives to adversarial factfinding. Post, at 334, 338-339. The short answer to the former point (even assuming the questionable premise that Apprendi does encourage plea bargaining, but see supra, at 310, n. 12) is that the Sixth Amendment was not written for the benefit of those who choose to forgo its protection. It guarantees the right to jury trial. It does not guarantee that a particular number of jury trials will actually take place. That more defendants elect to waive that right (because, for example, government at the moment is not particularly oppressive) does not prove that a constitutional provision guaranteeing availability of that option is disserved.\nJustice Breyer\u2019s more general argument \u2014 that Apprendi undermines alternatives to adversarial factfinding\u2014 is not so much a criticism of Apprendi as an assault on jury trial generally. His esteem for \u201cnonadversarial\u201d truth-seeking processes, post, at 339, supports just as well an argument against either. Our Constitution and the common-law traditions it entrenches, however, do not admit the contention that facts are better discovered by judicial inquisition than by adversarial testing before a jury. See 3 Blackstone, Commentaries, at 373-374, 379-381. Justice Breyer may be convinced of the equity of the regime he favors, but his views, are not the ones we are bound to uphold.\nUltimately, our decision cannot turn on whether or to what degree trial by jury impairs the efficiency or fairness of criminal justice. One can certainly argue that both these values would be better served by leaving justice entirely in the hands of professionals; many nations of the world, particularly those following civil-law traditions, take just that course. There is not one shred of doubt, however, about the Framers\u2019 paradigm for criminal justice: not the civil-law ideal of administrative perfection, but the common-law ideal of limited state power accomplished by strict division of authority between judge and jury. As Apprendi held, every defendant has the right to insist that the prosecutor prove to a jury all facts legally essential to the punishment. Under the dissenters\u2019 alternative, he has no such right. That should be the end of the matter.\n* * *\nPetitioner was sentenced to prison for more than three years beyond what the law allowed for the crime to which he confessed, on the basis of a disputed finding that he had acted with \u201cdeliberate cruelty.\u201d The Framers would not have thought it too much to demand that, before depriving a man of three more years of his liberty, the State should suffer the modest inconvenience of submitting its accusation to \u201cthe unanimous suffrage of twelve of his equals and neigh-bours,\u201d 4 Blackstone, supra, at 343, rather than a lone employee of the State.\nThe judgment of the Washington Court of Appeals is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.\nIt is so ordered.\nParts of Washington\u2019s criminal code have been recodified and amended. We cite throughout the provisions in effect at the time of sentencing.\nPetitioner further agreed to an additional charge of second-degree asault involving domestic violence, Wash. Rev. Code Ann. \u00a7\u00a7 9A.36.021(1)(c), 10.99.020(3)(b) (2000). The 14-month sentence on that count ran concurrently and is not relevant here.\nThe domestic-violence stipulation subjected petitioner to such measures as a \u201cno-contact\u201d order, see \u00a7 10.99.040, but did not increase the standard range of his sentence.\nThe judge found other aggravating factors, but the Court of Appeals questioned their validity under state law and their independent sufficiency to support the extent of the departure. See 111 Wash. App. 851, 868-870, and n. 3, 47 P. 3d 149, 158-159, and n. 3 (2002). It affirmed the sentence solely on the finding of domestic violence with deliberate cruelty. Ibid. We therefore focus only on that factor.\nJustice Breyer cites Justice O\u2019Connor\u2019s Apprendi dissent for the point that this Bishop quotation means only that indictments must charge facts that trigger statutory aggravation of a common-law offense. Post, at 340-341 (dissenting opinion). Of course, as he notes, Justice O\u2019Con-nor was referring to an entirely different quotation, from Archbold\u2019s treatise. See 530 U. S., at 526 (citing J. Archbold, Pleading and Evidence in Criminal Cases 51, 188 (15th ed. 1862)). Justice Breyer claims the two are \u201csimilar,\u201d post, at 341, but they are as similar as chalk and cheese. Bishop was not \u201caddressing\u201d the \u201cproblem\u201d of statutes that aggravate common-law offenses. Ibid. Rather, the entire chapter of his treatise is devoted to the point that \u201cevery fact which is legally essential to the punishment,\u201d 1 Criminal Procedure \u00a781, at 51, must be charged in the indictment and proved to a jury, id., ch. 6, at 50-56. As one \u201cexample\u201d of this principle (appearing several pages before the language we quote in text above), he notes a statute aggravating common-law assault. Id., \u00a7 82, at 51-52. But nowhere is there the slightest indication that his general principle was limited to that example. Even Justice Breyer\u2019s academic supporters do not make that claim. See Bibas, Judicial Fact-Finding and Sentence Enhancements in a World of Guilty Pleas, 110 Yale L. J. 1097, 1131-1132 (2001) (conceding that Bishop\u2019s treatise supports Apprendi, while criticizing its \"natural-law theorizing\u201d).\nAs to Justice O\u2019Connor\u2019s criticism of the quantity of historical support for the Apprendi rule, post, at 323 (dissenting opinion): It bears repeating that the issue between us is not whether the Constitution limits States\u2019 authority to reclassify elements as sentencing factors (we all agree that it does); it is only which line, ours or hers, the Constitution draws. Criticism of the quantity of evidence favoring our alternative would have some force if it were accompanied by any evidence favoring hers. Justice O\u2019CONNOR does not even provide a coherent alternative meaning for the jury-trial guarantee, unless one considers \u201cwhatever the legislature chooses to leave to the jury, so long as it does not go too far\u201d coherent. See infra, at 305-308.\nThe State does not contend that the domestic-violence stipulation alone supports the departure. That the statute lists domestic violence as grounds for departure only when combined with some other aggravating factor suggests it could not. See \u00a7\u00a79.94A.390(2)(h)(i)-(iii).\nNor does it matter that the judge must, after finding aggravating facts, make a judgment that they present a compelling ground for departure. He cannot make that judgment without finding some facts to support it beyond the bare elements of the offense. Whether the judicially determined facts require a sentence enhancement or merely allow it, the verdict alone does not authorize the sentence.\nThe United States, as amicus curiae, urges us to affirm. It notes differences between Washington\u2019s sentencing regime and the Federal Sentencing Guidelines but questions whether those differences are constitutionally significant. See Brief for United States as Amicus Curiae 25-30. The Federal Guidelines are not before us, and we express no opinion on them.\nJustice O\u2019Connor believes that a \u201cbuilt-in political check\u201d will prevent lawmakers from manipulating offense elements in this fashion. Post, at 322. But the many immediate practical advantages of judicial factfinding, see post, at 318-320, suggest that political forces would, if anything, pull in the opposite direction. In any case, the Framers\u2019 decision to entrench the jury-trial right in the Constitution shows that they did not trust government to make political decisions in this area.\nAnother example of conversion from separate crime to sentence enhancement that Justice O\u2019Connor evidently does not consider going \u201ctoo far\u201d is the obstruction-of-justice enhancement, see post, at 319. Why perjury during trial should be grounds for a judicial sentence enhancement on the underlying offense, rather than an entirely separate offense to be found by a jury beyond a reasonable doubt (as it has been for centuries, see 4 W. Blackstone, Commentaries on the Laws of England 136-138 (1769)), is unclear.\nJustice Breyer responds that States are not required, to give defendants the option of waiving jury trial on some elements but not others. Post, at 335-336. True enough. But why would the States that he asserts we are coercing into hardheartedness \u2014 that is, States that want judge-pronounced determinate sentencing to be the norm but we won\u2019t let them \u2014 want to prevent a defendant from choosing that regime? Justice Breyer claims this alternative may prove \u201ctoo expensive and unwieldy for States to provide,\u201d post, at 336, but there is no obvious reason why forcing defendants to choose between contesting all elements of his hypothetical 17-element robbery crime and contesting none of them is less expensive than also giving them the third option of pleading guilty to some elements and submitting the rest to judicial factfinding. Justice Breyer\u2019s argument rests entirely on a speculative prediction about the number of defendants likely to choose the first (rather than the second) option if denied the third.\nTo be sure, Justice Breyer and the other dissenters would forbid those increases of sentence that violate the constitutional principle that tail shall not wag dog. The source of this principle is entirely unclear. Its precise effect, if precise effect it has, is presumably to require that the ratio of sentencing-factor add-on to basic criminal sentence be no greater than the ratio of caudal vertebrae to body in the breed of canine with the longest tail. Or perhaps no greater than the average such ratio for all breeds. Or perhaps the median. Regrettably, Apprendi has prevented full development of this line of jurisprudence.",
+        "type": "majority",
+        "author": "Justice Scalia"
+      },
+      {
+        "text": "Justice O\u2019Connor,\nwith whom Justice Breyer joins, and with whom The Chief Justice and Justice Kennedy join as to all but Part IV-B, dissenting.\nThe legacy of today\u2019s opinion, whether intended or not, will be the consolidation of sentencing power in the State and Federal Judiciaries. The Court says to Congress and state legislatures: If you want to constrain the sentencing discretion of judges and bring some uniformity to sentencing, it will cost you \u2014 dearly. Congress and States, faced with the burdens imposed by the extension of Apprendi v. New Jersey, 530 U. S. 466 (2000), to the present context, will either trim or eliminate altogether their sentencing guidelines schemes and, with them, 20 years of sentencing reform. It is thus of little moment that the majority does not expressly declare guidelines schemes unconstitutional, ante, at 308; for, as residents of \u201cApprendi-land\u201d are fond of saying, \u201cthe relevant inquiry is one not of form, but of effect.\u201d Ap-prendi, supra, at 494; Ring v. Arizona, 536 U. S. 584, 613 (2002) (Scalia, J., concurring). The \u201ceffect\u201d of today\u2019s decision will be greater judicial discretion and less uniformity in sentencing. Because I find it implausible that the Framers would have considered such a result to be required by the Due Process Clause or the Sixth Amendment, and because the practical consequences of today\u2019s decision may be disastrous, I respectfully dissent.\nI\nOne need look no further than the history leading up to and following the enactment of Washington\u2019s guidelines scheme to appreciate the damage that today\u2019s decision will cause. Prior to 1981, Washington, like most other States and the Federal Government, employed an indeterminate sentencing scheme. Washington\u2019s criminal code separated all felonies into three broad categories: \u201cclass A,\u201d carrying a sentence of 20 years to life; \u201cclass B,\u201d carrying a sentence of 0 to 10 years; and \u201cclass C,\u201d carrying a sentence of 0 to 5 years. Wash. Rev. Code Ann. \u00a79A.20.020 (2000); see also Sentencing Reform Act of 1981, 1981 Wash. Laws ch. 137, p. 534. Sentencing judges, in conjunction with parole boards, had virtually unfettered discretion to sentence defendants to prison terms falling anywhere within the statutory range, including probation \u2014 ! e., no jail sentence at all.' Wash. Rev. Code Ann. \u00a7\u00a79.95.010-9.95.011; Boerner & Lieb, Sentencing Reform in the Other Washington, 28 Crime and Justice 71, 73 (M. Tonry ed. 2001) (hereinafter Boerner & Lieb) (\u201cJudges were authorized to choose between prison and probation with few exceptions, subject only to review for abuse of discretion\u201d). See also D. Boerner, Sentencing in Washington \u00a7 2.4, pp. 2-27 to 2-28 (1985).\nThis system of unguided discretion inevitably resulted in severe disparities in sentences received and served by defendants committing the same offense and having similar criminal histories. Boerner & Lieb 126-127; cf. S. Rep. No. -98-225, p. 38 (1983) (Senate Report on precursor to federal Sentencing Reform Act of 1984) (\u201c[Ejvery day Federal judges mete out an unjustifiably wide range of sentences to offenders with similar histories, convicted of similar crimes, committed under similar circumstances. . . . These disparities, whether they occur at the time of the initial sentencing or at the parole stage, can be traced directly to the unfettered discretion the law confers on . those judges and parole authorities responsible for imposing and implementing the sentence\u201d). Indeed, rather than reflect legally relevant criteria, these disparities too often were correlated with constitutionally suspect variables such as race. Boerner & Lieb 126-128. See also Breyer, The Federal Sentencing Guidelines and the Key Compromises Upon Which They Rest, 17 Hofstra L. Rev. 1, 5 (1988) (elimination of racial disparity one reason behind Congress\u2019 creation of the Federal Sentencing Commission).\nTo counteract these trends, the state legislature passed the Sentencing Reform Act of 1981. The Act had the laudable purposes of \u201cmak[ing] the criminal justice system accountable to the public,\u201d and \u201c[e]nsur[ing] that the punish^ ment for a criminal offense is proportionate to the seriousness of the offense . . . [and] commensurate with the punishment imposed on others committing similar offenses.\u201d Wash. Rev. Code Ann. \u00a7 9.94A.010 (2000). The Act neither increased any of the statutory sentencing ranges for the three types of felonies (though it did eliminate the statutory mandatory minimum for class A felonies), nor reclassified any substantive offenses. 1981 Wash. Laws ch. 187, p. 534. It merely placed meaningful constraints on discretion to sentence offenders within the statutory ranges, and eliminated parole. There is thus no evidence that the legislature was attempting to manipulate the statutory elements of criminal offenses or to circumvent the procedural protections of the Bill of Rights. Rather, lawmakers were trying to bring some much-needed uniformity, transparency, and accountability to an otherwise \u201c \u2018labyrinthine\u2019 sentencing and corrections system that \u2018lack[ed] any principle except unguided discretion.\u2019\u201d Boerner & Lieb 73 (quoting F. Zimring, Making the Punishment Fit the Crime: A Consumers\u2019 Guide to Sentencing Reform, Occasional Paper No. 12, p. 6 (1977)).\nII\nFar from disregarding principles of due process and the jury trial right, as the majority today suggests, Washington\u2019s reform has served them. Before passage of the Act, a defendant charged with second degree kidnaping, like petitioner, had no idea whether he would receive a 10-year sentence or probation. The ultimate sentencing determination could turn as much on the idiosyncracies of a particular judge as on the specifics of the defendant\u2019s crime or background. A defendant did not know what facts, if any, about his offense or his history would be considered relevant by the sentencing judge or by the parole board. After passage of the Act, a defendant charged with second degree kidnaping knows what his presumptive sentence will be; he has a good idea of the types of factors that a sentencing judge can and will consider when deciding whether to sentence him outside that range; he is guaranteed meaningful appellate review to protect against a.n arbitrary sentence. Boerner & Lieb 93 (\u201cBy consulting one sheet, practitioners could identify the applicable scoring rules for criminal history, the sentencing range, and the available sentencing options for each case\u201d). Criminal defendants still face the same statutory maximum sentences, but they now at least know, much more than before, the real consequences of their actions.\nWashington\u2019s move to a system of guided discretion has served equal protection principles as well. Over the past 20 years, there has been a substantial reduction in racial disparity in sentencing across the State. Id., at 126 (Racial disparities that do exist \u201care accounted for by differences in legally relevant variables \u2014 the offense of conviction and prior criminal record\u201d); id., at 127 (\u201c[J]udicial authority to impose exceptional sentences under the court\u2019s departure, authority shows little evidence of disparity correlated with race\u201d). The reduction is directly traceable to the constraining effects of the guidelines \u2014 namely, their \u201cpresumptive range[s]\u201d and limits on the imposition of \u201cexceptional sentences\u201d outside of those ranges. Id., at 128. For instance, sentencing judges still retain unreviewable discretion in first-time offender cases and in certain sex offender cases to impose alternative sentences that are far more lenient than those contemplated by the guidelines. To the extent that unjustifiable racial disparities have persisted in Washington, it has been in the imposition of such alternative sentences: \u201cThe lesson is powerful: racial disparity is correlated with unstructured and unreviewed discretion.\u201d Ibid.; see also Washington State Minority and Justice Commission, R. Crutchfield, J. Weis, R. Engen, & R. Gainey, Raeial/Ethnie Disparities and Exceptional Sentences in Washington State, Final Report 51-53 (Sept. 1993) (\u201c[Ejxceptional sentences are not a major source of racial disparities in sentencing\u201d).\nThe majority does not, because it cannot, disagree that determinate sentencing schemes, like Washington\u2019s, serve important constitutional values. Ante, at 308. Thus, the majority says: \u201cThis case is not about whether determinate sentencing is constitutional, only about how it can be implemented in a way that respects the Sixth Amendment.\u201d Ibid. But extension of Apprendi to the present context will impose significant costs on a legislature\u2019s determination that a particular fact, not historically an element, warrants a higher sentence. While not a constitutional prohibition on guidelines schemes, the majority\u2019s decision today exacts a substantial constitutional tax.\nThe costs are substantial and real. Under the majority\u2019s approach, any fact that increases the upper bound, on a judge\u2019s sentencing discretion is an element, of the offense. Thus, facts that historically have been taken into account by sentencing judges to assess a sentence within a broad range \u2014 such as drug quantity, role in the offense, risk of bodily harm \u2014 all must now be charged in an indictment and submitted to a jury, In re Winship, 397 U. S. 358 (1970), simply because it is the legislature, rather than the judge, that constrains the extent to which such facts may be used to impose a sentence within a pre-existing statutory range.\nWhile that, alone is enough to threaten the continued use of sentencing guidelines schemes, there are additional costs. For example, a legislature might rightly think that some factors bearing on sentencing, such as prior bad acts or criminal history, should not be considered in a jury\u2019s determination of a defendant\u2019s guilt \u2014 such \u201ccharacter evidence\u201d has traditionally been off. limits during the guilt phase of criminal proceedings because of its tendency to inflame the passions of the jury. See, e. g., Fed. Rule Evid. 404; 1 E. Imwinkelried, P. Giannelli, F. Gilligan, & F. Lederer, Courtroom Criminal Evidence 285 (3d ed. 1998). If a legislature desires uniform consideration of such factors at sentencing, but does not want them to impact a jury\u2019s initial determination of guilt, the State may have to bear the additional expense of a separate, full-blown jury trial during the penalty phase proceeding.\nSome facts that bear on sentencing either will not be discovered, or are not discoverable, prior to trial. For instance, a legislature might desire that defendants who act in an obstructive manner during trial or post-trial proceedings receive a greater sentence than defendants who do not. See, e. g., United States Sentencing Commission, Guidelines Manual \u00a73C1.1 (Nov. 2003) (hereinafter USSG) (2-point increase in offense level for obstruction of justice). In such cases, the violation arises too late for the State to provide notice to the defendant or to argue the facts to the jury. A State wanting to make such facts relevant at sentencing must now either vest sufficient discretion in the judge to account for them or bring a separate criminal prosecution for obstruction of justice or perjury. And, the latter option is available only to the extent that a defendant\u2019s obstructive behavior is so severe as to constitute an already-existing separate offense, unless the legislature is willing to undertake the unlikely expense of criminalizing relatively minor obstructive behavior.\nLikewise, not all facts that historically have been relevant to sentencing always will be known prior to trial. For instance, trial or sentencing proceedings of a drug distribution defendant might reveal that he sold primarily to children. Under the majority\u2019s approach, a State wishing such a revelation to result in a higher sentence within a pre-existing statutory range either must vest judges with sufficient discretion to account for it (and trust that they exercise that discretion) or bring a separate criminal prosecution. Indeed, the latter choice might not be available \u2014 a separate prosecution, if it is for an aggravated offense, likely would be barred altogether by the Double Jeopardy Clause. Blockburger v. United States, 284 U. S. 299 (1932) (government cannot prosecute for separate offenses unless each offense has at least one element that the other does not).\nThe majority may be correct that States and the Federal Government will be willing to bear some of these costs. Ante, at 309-310. But simple economics dictate that they will not, and cannot, bear them all. To the extent that they do not, there will be an inevitable increase in judicial discretion with all of its attendant failings.\nIll\nWashington\u2019s Sentencing Reform Act did not alter the statutory maximum sentence to which petitioner was exposed. See Wash. Rev. Code Ann. \u00a7 9A.40.030 (2003) (second degree kidnaping class B felony since 1975); see also State v. Pawling, 23 Wash. App. 226, 228-229, 597 P. 2d 1367, 1369 (1979) (citing second degree kidnaping provision as existed in 1977). Petitioner was informed in the charging document, his plea agreement, and during his plea hearing that he faced a potential statutory maximum of 10 years in prison. App. 63, 66, 76. As discussed above, the guidelines served due process by providing notice to petitioner of the consequences of his acts; they vindicated his jury trial right by informing him of the stakes of risking trial; they served equal protection by ensuring petitioner that invidious characteristics such as race would not impact his sentence.\nGiven these observations, it is difficult for me to discern what principle besides doctrinaire formalism actually motivates today\u2019s decision. The majority chides the Apprendi dissenters for preferring a nuanced interpretation of the Due Process Clause and Sixth Amendment jury trial guarantee that would generally defer to legislative labels while acknowledging the existence of constitutional constraints\u2014 what the majority calls \u201cthe law must not go too far\u201d approach. Ante, at 307 (emphasis deleted). If indeed the choice is between adopting a balanced case-by-case approach that takes into consideration the values underlying the Bill of Rights, as well as the history of a particular sentencing reform law, and adopting a rigid rule that destroys everything in its path, I will choose the former. See Apprendi, 530 U. S., at 552-554 (O\u2019Connor, J., dissenting) (\u201cBecause I do not believe that the Court\u2019s \u2018increase in the maximum penalty\u2019 rule is required by the Constitution, I would evaluate New Jersey\u2019s sentence-enhancement statute by analyzing the factors we have examined in past cases\u201d (citation omitted)).\nBut even were one to accept formalism as a principle worth vindicating for its own sake, it would not explain Ap-prendi% or today\u2019s, result. A rule of deferring to legislative labels has no less formal pedigree. It would be more consistent with our decisions leading up to Apprendi, see Almendarez-Torres v. United States, 523 U. S. 224 (1998) (fact of prior conviction not an element of aggravated recidivist offense); United States v. Watts, 519 U. S. 148 (1997) (per curiam) (acquittal of offense no bar to consideration of underlying conduct for purposes of guidelines enhancement); Witte v. United States, 515 U. S. 389 (1995) (no double jeopardy bar against consideration of uncharged conduct in imposition of guidelines enhancement); Walton v. Arizona, 497 U. S. 639 (1990) (aggravating factors need not be found by a jury in capital case); Mistretta v. United States, 488 U. S. 361 (1989) (Federal Sentencing Guidelines do not violate separation of powers); McMillan v. Pennsylvania, 477 U. S. 79 (1986) (facts increasing mandatory minimum sentence are not necessarily elements); and it would vest primary authority for defining crimes in the political branches, where it belongs. Apprendi, supra, at 523-554 (O\u2019Connor, J., dissenting). It also would be easier to administer than the majority\u2019s rule, inasmuch as courts would not be forced to look behind statutes and regulations to determine whether a particular fact does or does not increase the penalty to which a defendant was exposed.\nThe majority is correct that rigid adherence to such an approach could conceivably produce absurd results, ante, at 306; but, as today\u2019s decision demonstrates, rigid adherence to the majority\u2019s approach does and will continue to produce results that disserve the very principles the majority purports to vindicate. The pre-Apprendi rule of deference to the legislature retains a built-in political check to prevent lawmakers from shifting the prosecution for crimes to the penalty phase proceedings of lesser included and easier-to-prove offenses \u2014 e.g., the majority\u2019s hypothesized prosecution of murder in the guise of a traffic offense sentencing proceeding. Ante, at 306, There is no similar check, however, on application of the majority\u2019s \u201cany fact that increases the upper bound of judicial discretion\u201d by courts.\nThe majority claims the mantle of history and original intent. But as I have explained elsewhere, a handful of state decisions in the mid-19th century and a criminal procedure treatise have little if any persuasive value as evidence of what the Framers of the Federal Constitution intended in the late 18th century. See Apprendi, 530 U. S., at 525-528 (O\u2019Connor, J., dissenting). Because broad judicial sentencing discretion was foreign to the Framers, id., at 478-479 (citing J. Archbold, Pleading and Evidence in Criminal Cases 44 (15th ed. 1862)), they were never faced with the constitutional choice between submitting every fact that increases a sentence to the jury or vesting the sentencing judge with broad discretionary authority to account for differences in offenses and offenders.\nIV\nA\nThe consequences of today\u2019s decision will be as far reaching as they are disturbing. Washington\u2019s sentencing system is by no means unique. Numerous other States have enacted guidelines systems, as has the Federal Government. See, e. g., Alaska Stat. \u00a7 12.55.155 (2002); Ark. Code Ann. \u00a716-90-804 (2003 Supp.); Fla. Stat. \u00a7921.0016 (2003); Kan. Stat. Ann. \u00a721-4701 et seq. (2003); Mich. Comp. Laws Ann. \u00a7769.34 (West Supp. 2004); Minn. Stat. \u00a7244.10 (2002); N. C. Gen. Stat. \u00a715A-1340.16 (Lexis 2003); Ore. Admin. Rule \u00a7213-008-0001 (2003); 204 Pa. Code \u00a7 303 et seq. (2004), reproduced following 42 Pa. Cons. Stat. Ann. \u00a79721 (Purdon Supp. 2004); 18 U. S. C. \u00a73553; 28 U. S. C. \u00a7991 et seq. Today\u2019s decision casts constitutional doubt over them all and, in so doing, threatens an untold number of criminal judgments. Every sentence imposed under such guidelines in cases currently pending on direct appeal is in jeopardy. And, despite the fact that we hold in Schriro v. Summerlin, post, p. 348, that Ring (and a fortiori Apprendi) does not apply retroactively on habeas review, all criminal sentences imposed under the federal and state guidelines since Apprendi was decided in 2000 arguably remain open to collateral attack. See Teague v. Lane, 489 U. S. 288, 301 (1989) (plurality opinion) (\u201c[Apease announces a new rule if the result was not dictated by precedent existing at the time the defendant's conviction became final\u201d).\nThe practical consequences for trial courts, starting today, will be equally unsettling: How are courts to mete out guidelines sentences? Do courts apply the guidelines as to mitigating factors, but not as to aggravating factors? Do they jettison the guidelines altogether? The Court ignores the havoc it is about to wreak on trial courts across the country.\nB\nIt is no answer to say that today\u2019s opinion impacts only Washington\u2019s scheme and not others, such as, for example, the Federal Sentencing Guidelines. See ante, at 305, n. 9 (\u201cThe Federal Guidelines are not before us, and we express no opinion on them\u201d); cf. Apprendi, supra, at 496-497 (claiming not to overrule Walton, supra, soon thereafter overruled in Ring); Apprendi, supra, at 497, n. 21 (reserving question of Federal Sentencing Guidelines). The fact that the Federal Sentencing Guidelines are promulgated by an administrative agency nominally located in the Judicial Branch is irrelevant to the majority\u2019s reasoning. The Guidelines have the force of law, see Stinson v. United States, 508 U. S. 36 (1993); and Congress has unfettered control to reject or accept any particular guideline, Mistretta, 488 U. S., at 393-394.\nThe structure of the Federal Guidelines likewise does not, as the Government halfheartedly suggests, provide any grounds for distinction. Brief for United States as Amicus Curiae 27-29. Washington\u2019s scheme is almost identical to the upward departure regime established by 18 U. S. C. \u00a7 3553(b) and implemented in USSG \u00a75K2.0. If anything, the structural differences that do exist make the Federal Guidelines more vulnerable to attack. The provision struck down here provides for an increase in the upper bound of the presumptive sentencing range if the sentencing court finds, \u201cconsidering the purpose of [the Act], that there are substantial and compelling reasons justifying an exceptional sentence.\u201d Wash. Rev.Code Ann. \u00a79.94A.120 (2000). The Act elsewhere provides a nonexhaustive list of aggravating factors that satisfy the definition. \u00a79.94A.390. The Court flatly rejects respondent\u2019s argument that such soft constraints, which still allow Washington judges to exercise a substantial amount of discretion, survive Apprendi. Ante, at 305. This suggests that the hard constraints found throughout chapters 2 and 3 of the Federal Sentencing Guidelines, which require an increase in the sentencing range upon specified factual findings, will meet the same fate. See, e.g., USSG \u00a72K2.1 (increases in offense level for firearms offenses based on number of firearms involved, whether possession was in connection with another offense, whether the firearm was stolen); \u00a72B1.1 (increase in offense level for financial crimes based on amount of money involved, number of victims, possession of weapon); \u00a73C1.1 (general increase in offense level for obstruction of justice).\nIndeed, the \u201cextraordinary sentence\u201d provision struck down today is as inoffensive to the holding of Apprendi as a regime of guided discretion could possibly be. The list of facts that justify an increase in the range is nonexhaustive. The State\u2019s \u201creal facts\u201d doctrine precludes reliance by sentencing courts upon facts that would constitute the elements of a different or aggravated offense. See Wash. Rev. Code Ann. \u00a7 9.94A.370(2) (2000) (codifying \u201creal facts\u201d doctrine). If the Washington scheme does not comport with the Constitution, it is hard to imagine a guidelines scheme that would.\n* * *\nWhat I have feared most has now come to pass: Over 20 years of sentencing reform are all but lost, and tens of thousands of criminal judgments are' in jeopardy. Ap-prendi, 530 U. S., at 549-559 (O\u2019Connor, J., dissenting); Ring, 536 U. S., at 619-621 (O\u2019Connor, J., dissenting). I respectfully dissent.\nThe paucity of empirical evidence regarding the impact of extending Apprendi v. New Jersey, 530 U. S. 466 (2000), to guidelines schemes should come as no surprise to the majority. Ante, at 309. Prior to today, only one court had ever applied Apprendi to invalidate application of a guidelines scheme. Compare State v. Gould, 271 Kan. 394, 23 P. 3d 801 (2001), with, e. g., United States v. Goodine, 326 F. 3d 26 (CA1 2003); United States v. Luciano, 311 F. 3d 146 (CA2 2002); United States v. DeSumma, 272 F. 3d 176 (CA3 2001); United States v. Kinter, 235 F. 3d 192 (CA4 2000); United States v. Randle, 304 F. 3d 373 (CA5 2002); United States v. Helton, 349 F. 3d 295 (CA6 2003); United States v. Johnson, 335 F. 3d 589 (CA7 2003) (per curiam); United States v. Piggie, 316 F. 3d 789 (CA8 2003); United States v. Toliver, 351 F. 3d 423 (CA9 2003); United States v. Mendez-Zamora, 296 F. 3d 1013 (CA10 2002); United States v. Sanchez, 269 F. 3d 1250 (CA11 2001); United States v. Fields, 251 F. 3d 1041 (CADC 2001); State v. Dilts, 336 Ore. 158, 82 P. 3d 593 (2003); State v. Gore, 143 Wash. 2d 288, 21 P. 3d 262 (2001); State v. Lucas, 353 N. C. 568, 548 S. E. 2d 712 (2001); State v. Dean, No. C4-02-1225, 2003 WL 21321425 (Ct. App. Minn., June 10, 2003) (unpublished opinion). Thus, there is no map of the uncharted territory blazed by today\u2019s unprecedented holding.\nThe numbers available from the federal system alone are staggering. On March 31, 2004, there were 8,320 federal criminal appeals pending in which the defendant\u2019s sentence was at issue. Memorandum from Steven Schlesinger, Administrative Office of the United States Courts, to Supreme Court Library (June 1, 2004) (available in Clerk of Court\u2019s case file). Between June 27, 2000, when Apprendi was decided, and March 31, 2004, there have been 272,191 defendants sentenced in federal court. Memorandum, supra. Given that nearly all federal sentences are governed by the Federal Sentencing Guidelines, the vast majority of these cases are Guidelines cases.",
+        "type": "dissent",
+        "author": "Justice O\u2019Connor,"
+      },
+      {
+        "text": "Justice Kennedy,\nwith whom Justice Breyer joins, dissenting.\nThe majority opinion does considerable damage to our laws and to the administration of the criminal justice system for all the reasons well stated in Justice O\u2019Connor\u2019s dissent, plus one more: The Court, in my respectful submission, disregards the fundamental principle under our constitutional system that different branches of government \u201cconverse with each other on matters of vital common interest.\u201d Mistretta v. United States, 488 U. S. 361, 408 (1989). As the Court in Mistretta explained, the Constitution establishes a system of government that presupposes, not just \u201c \u2018autonomy\u2019 \u201d and \u201c \u2018separateness,\u2019 \u201d but also \u201c \u2018interdependence\u2019 \u201d and \u201c \u2018reciprocity.\u2019 \u201d Id., at 381 (quoting Youngstown Sheet & Tube Co. v. Sawyer, 343 U. S. 579, 635 (1952) (Jackson, J., concurring)). Constant, constructive discourse between our courts and our legislatures is an integral and admirable part of the constitutional design. Case-by-case judicial determinations often yield intelligible patterns that can be refined by legislatures and codified into statutes or rules as general standards. As these legislative enactments are followed by incremental judicial interpretation, the legislatures may respond again, and the cycle repeats. This recurring dialogue, an essential source for the elaboration and the evolution of the law, is basic constitutional theory in action.\nSentencing guidelines are a prime example of this collaborative process. Dissatisfied with the wide disparity in sentencing, participants in the criminal justice system, including judges, pressed for legislative reforms. In response, legislators drew from these participants\u2019 shared experiences and enacted measures to correct the problems, which, as Justice O\u2019Connor explains, could sometimes rise to the level of a constitutional injury. As Mistretta recognized, this interchange among different actors in the constitutional scheme is consistent with the Constitution\u2019s structural protections.\nTo be sure, this case concerns the work of a state legislature, and not of Congress. If anything, however, this distinction counsels even greater judicial caution. Unlike Mistretta, the case here implicates not just the collective wisdom of legislators on the other side of the continuing dialogue over fair sentencing, but also the interest of the States to serve as laboratories for innovation and experiment. See New State Ice Co. v. Liebmann, 285 U. S. 262, 311 (1932) (Brandeis, J., dissenting). With no apparent sense of irony that the effect of today\u2019s decision is the destruction of a sentencing scheme devised by democratically elected legislators, the majority shuts down alternative, nonjudicial, sources of ideas and experience. It does so under a faintly disguised distrust of judges and their purported usurpation of the jury\u2019s function in criminal trials. It tells not only trial judges who have spent years studying the problem but also legislators who have devoted valuable time and resources \u201ccalling upon the accumulated wisdom and experience of the Judicial Branch ... on a matter uniquely within the ken of judges,\u201d Mistretta, supra, at 412, that their efforts and judgments were all for naught. Numerous States that have enacted sentencing guidelines similar to the one in Washington State are now commanded to scrap everything and start over.\nIf the Constitution required this result, the majority\u2019s decision, while unfortunate, would at least be understandable and defensible. As Justice O\u2019Connor\u2019s dissent demonstrates, however, this is simply not the case. For that reason, and because the Constitution does not prohibit the dynamic and fruitful dialogue between the judicial and legislative branches of government that has marked sentencing reform on both the state and the federal levels for more than 20 years, I dissent.",
+        "type": "dissent",
+        "author": "Justice Kennedy,"
+      },
+      {
+        "text": "Justice Breyer,\nwith whom Justice O\u2019Connor joins, dissenting.\nThe Court makes clear that it means what it said in Ap-prendi v. New Jersey, 530 U. S. 466 (2000). In its view, the Sixth Amendment says that \u201c\u2018any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury.\u2019\u201d Ante, at 301 (quoting Apprendi, supra, at 490). \u201c \u2018 [Prescribed statutory maximum\u2019 \u201d means the penalty that the relevant statute authorizes \u201csolely on the basis of the facts reflected in the jury verdict.\u201d Ante, at 301, 303 (emphasis deleted). Thus, a jury must find, not only the facts that make up the crime of which the offender is charged, but also all (punishment-increasing) facts about the way in which the offender carried out that crime.\nIt is not difficult to understand the impulse that produced this holding. Imagine a classic example \u2014 a statute (or mandatory sentencing guideline) that provides a 10-year sentence for ordinary bank robbery, but a 15-year sentence for bank robbery committed with a gun. One might ask why it should matter for jury trial purposes whether the statute (or guideline) labels the gun\u2019s presence (a) a sentencing fact about the way in which the offender carried out the lesser crime of ordinary bank robbery, or (b) a factual element of the greater crime of bank robbery with a gun? If the Sixth Amendment requires a jury finding about the gun in the latter circumstance, why should it not also require a jury to find the same fact in the former circumstance? The two sets of circumstances are functionally identical. In both instances, identical punishment follows from identical factual findings (related to, e. g., a bank, a taking, a thing-of-value, force or threat of force, and a gun). The only difference between the two circumstances concerns a legislative (or Sentencing Commission) decision about which label (\u201csentencing fact\u201d or \u201celement of a greater crime\u201d) to affix to one of the facts, namely, the presence of the gun, that will lead to the greater sentence. Given the identity of circumstances apart from the label, the jury\u2019s traditional factfinding role, and the law\u2019s insistence upon treating like cases alike, why should the legislature\u2019s labeling choice make an important Sixth Amendment difference?\nThe Court in Apprendi, and now here, concludes that it should not make a difference. The Sixth Amendment\u2019s jury trial guarantee applies similarly to both. I agree with the majority\u2019s analysis, but not with its conclusion. That is to say, I agree that, classically speaking, the difference between a traditional sentencing factor and an element of a greater offense often comes down to a legislative choice about which label to affix. But I cannot jump from there to the conclusion that the Sixth Amendment always requires identical treatment of the two scenarios. That jump is fraught with consequences that threaten the fairness of our traditional criminal justice system; it distorts historical sentencing or criminal trial practices; and it upsets settled law on which legislatures have relied in designing punishment systems.\nThe Justices who have dissented from Apprendi have written about many of these matters in other opinions. See 530 U. S., at 523-554 (O\u2019Connor, J., dissenting); id., at 555-566 (Breyer, J., dissenting); Harris v. United States, 536 U. S. 545, 549-550, 556-569 (2002) (Kennedy, J.); id., at 569-572 (Breyer, J., concurring in part and concurring in judgment); Jones v. United States, 526 U. S. 227, 254, 264-272 (1999) (Kennedy, J., dissenting); Monge v. California, 524 U. S. 721, 728-729 (1998) (O\u2019Connor, J.); McMillan v. Pennsylvania, 477 U. S. 79, 86-91 (1986) (Rehnquist, C. J.).' At the risk of some repetition, I shall set forth several of the most important considerations here. They lead me to conclude that I must again dissent.\nI\nThe majority ignores the adverse consequences inherent in its conclusion. As a result of the majority\u2019s rule, sentencing must now take one of three forms, each of which risks either impracticality, unfairness, or harm to the jury trial right the majority purports to strengthen. This circumstance shows that the majority\u2019s Sixth Amendment interpretation cannot be right.\nA\nA first option for legislators is to create a simple, pure or nearly pure \u201ccharge offense\u201d or \u201cdeterminate\u201d sentencing system. See Breyer, The Federal Sentencing Guidelines and the Key Compromises upon Which They Rest, 17 Hof-stra L. Rev. 1, 8-9 (1988). In such a system, an indictment would charge a few facts which, taken together, constitute a crime, such as robbery. Robbery would carry a single sentence, say, five years\u2019 imprisonment. And every person convicted of robbery would receive that sentence \u2014 just as, centuries ago, everyone convicted of almost any serious crime was sentenced to death. See, e.g., Lillquist, The Puzzling Return of Jury Sentencing: Misgivings About Apprendi, 82 N. C. L. Rev. 621, 630 (2004).\nSuch a system assures uniformity, but at intolerable costs. First, simple determinate sentencing systems impose identical punishments on people who committed their crimes in very different ways. MTien dramatically different conduct ends up being punished the same way, an injustice has taken place. Simple determinate sentencing has the virtue of treating like cases alike, but it simultaneously fails to treat different cases differently. Some commentators have leveled this charge at sentencing guidelines systems themselves. See, e. g., Schulhofer, Assessing the Federal Sentencing Process: The Problem Is Uniformity, Not Disparity, 29 Am. Crim. L. Rev. 833, 847 (1992) (arguing that the \u201cmost important problem under the Guidelines system is not too much disparity, but rather excessive uniformity\u201d and arguing for adjustments, including elimination of mandatory minimums, to make the Guidelines system more responsive to relevant differences). The charge is doubly applicable to simple \u201cpure charge\u201d systems that permit no departures from the prescribed sentences, even in extraordinary cases.\nSecond, in a world of statutorily fixed mandatory sentences for many crimes, determinate sentencing gives tremendous power to prosecutors to manipulate sentences through their choice of charges. Prosecutors can simply charge, or threaten to charge, defendants with crimes bearing higher mandatory sentences. Defendants, knowing that they will not have a chance to argue for a lower sentence in front of a judge, may plead to charges that they might otherwise contest. Considering that most criminal cases do not go to trial and resolution by plea bargaining is the norm, the rule of Apprendi, to the extent it results in a return to determinate sentencing, threatens serious unfairness. See Bibas, Judicial Fact-Finding and Sentence Enhancements in a World of Guilty Pleas, 110 Yale L. J. 1097, 1100-1101 (2001) (explaining that the rule of Apprendi hurts defendants by depriving them of sentencing hearings, \u201cthe only hearings they were likely to have\u201d; forcing defendants to surrender sentencing issues like drug quantity when they agree to the plea; and transferring power to prosecutors).\nB\nA second option for legislators is to return to a system of indeterminate sentencing, such as California had before the recent sentencing reform movement. See Payne v. Tennessee, 501 U. S. 808, 820 (1991) (\u201cWith the increasing importance of probation, as opposed to imprisonment, as a part of the penological process, some States such as California developed the \u2018indeterminate sentence/ where the time of incarceration was left almost entirely to the penological authorities rather than to the courts\u201d); Thompson, Navigating the Hidden Obstacles to Ex-Offender Reentry, 45 Boston College L. Rev. 255, 267 (2004) (\u201cIn the late 1970s, California switched from an indeterminate criminal sentencing scheme to .determinate sentencing\u201d). Under indeterminate systems, the length of the sentence is entirely or almost entirely within the discretion of the judge or of the parole board, which typically has broad power to decide when to release a prisoner.\nWhen such systems were in vogue, they were criticized, and rightly so, for producing unfair disparities, including race-based disparities, in the punishment of similarly situated defendants. See, e. g., ante, at 315-316 (O\u2019Connor, J., dissenting) (citing sources). The length of time a person spent in prison appeared to depend on \u201cwhat the judge ate for breakfast\u201d on the day of sentencing, on which judge you got, or on other factors that should not have made a difference to the length of the sentence. See Breyer, supra, at 4-5 (citing congressional and expert studies indicating that, before the United States Sentencing Commission Guidelines were promulgated, punishments for identical crimes in the Second Circuit ranged from 3 to 20 years\u2019 imprisonment and that sentences varied depending upon region, gender of the defendant, and race of the defendant). And under such a system, the judge could vary the sentence greatly based upon his findings about how the defendant had committed the crime \u2014 findings that might not have been made by a \u201cpreponderance of the evidence,\u201d much less \u201cbeyond a reasonable doubt.\u201d See McMillan, 477 U. S., at 91 (\u201cSentencing courts have traditionally heard evidence and found facts without any prescribed burden of proof at all\u201d (citing Williams v. New York, 337 U. S. 241 (1949))).\nReturning to such a system would diminish the \u201c \u2018reason\u2019 \u201d the majority claims it is trying to uphold. Ante, at 302 (quoting 1 J. Bishop, Criminal Procedure \u00a787, p. 55 (2d ed. 1872)). It also would do little to \u201censur[e] [the] control\u201d of what the majority calls \u201cthe peopl[e,]\u201d i. e., the jury, \u201cin the judiciary,\u201d ante, at 306, since \u201cthe peopl[e]\u201d would only decide the defendant\u2019s guilt, a finding with no effect on the duration of the sentence. While \u201cthe judge\u2019s authority to sentence\u201d would formally derive from the jury\u2019s verdict, the jury would exercise little or no control over the sentence itself. Ibid. It is difficult to see how such an outcome protects the structural safeguards the majority claims to be defending.\nC\nA third option is that which the Court seems to believe legislators will in fact take. That is the option of retaining structured schemes that attempt to punish similar conduct similarly and different conduct differently, but modifying them to conform to Apprendi's dictates. Judges would be able to depart downward from presumptive sentences upon finding that mitigating factors were present, but would not be able to depart upward unless the prosecutor charged the aggravating fact to a jury and proved it beyond a reasonable doubt. The majority argues, based on the single example of Kansas, that most legislatures will enact amendments along these lines in the face of the oncoming Apprendi train. See ante, at 309-310 (citing State v. Gould, 271 Kan. 394, 404-414, 23 P. 3d 801, 809-814 (2001); Act of May 29, 2002, ch. 170, 2002 Kan. Sess. Laws pp. 1018-1023 (codified at Kan. Stat. Ann. \u00a721-4718 (2003 Cum. Supp.)); Brief for Kansas Appellate Defender Office as Amicus Curiae 3-7). It is therefore worth exploring how this option could work in practice, as well as the assumptions on which it depends.\n1\nThis option can be implemented in one of two ways. The first way would be for legislatures to subdivide each crime into a list of complex crimes, each of which would be defined to include commonly found sentencing factors such as drug quantity, type of victim, presence of violence, degree of injury, use of gun, and so on. A legislature, for example, might enact a robbery statute, modeled on robbery sentencing guidelines, that increases punishment depending upon (1) the nature of the institution robbed, (2) the (a) presence of, (b) brandishing of, (c) other use of, a firearm, (3) making of a death threat, (4) presence of (a) ordinary, (b) serious, (c) permanent or life threatening, bodily injury, (5) abduction, (6) physical restraint, (7) taking of a firearm, (8) taking of drugs, (9) value of property loss, etc. Cf. United States Sentencing Commission, Guidelines Manual \u00a72B3.1 (Nov. 2003) (hereinafter USSG).\nThis possibility is, of course, merely a highly calibrated form of the \u201cpure charge\u201d system discussed in Part I-A, supra. And it suffers from some of the same defects. The prosecutor, through control of the precise charge, controls the punishment, thereby marching the sentencing system directly away from, not toward, one important guideline goal: rough uniformity of punishment for those who engage in roughly the same real criminal conduct. The artificial (and consequently unfair) nature of the resulting sentence is aggravated by the fact that prosecutors must charge all relevant facts about the way. the crime was committed before a presentence investigation examines the criminal conduct, perhaps before the trial itself, i. e., before many of the facts relevant to punishment are known.\nThis \u201ccomplex charge offense\u201d system also prejudices defendants who seek trial, for it can put them in the untenable position of contesting material aggravating facts in the guilt phases of their trials. Consider a defendant who is charged, not with mere possession of cocaine, but with the specific offense of possession of more than 500 grams of cocaine. Or consider a defendant charged, not with murder, but with the new crime of murder using a machete. Or consider a defendant who the prosecution wants to claim was a \u201csupervisor,\u201d rather than an ordinary gang member. How can a Constitution that guarantees due process put these defendants, as a matter of course, in the position of arguing, \u201cI did not sell drugs, and if I did, I did not sell more than 500 grams,\u201d or \u201cI did not kill him, and if I did, I did not use a machete,\u201d or \u201cI did not engage in gang activity, and certainly not as a supervisor\u201d to a single jury? See Apprendi, 530 U. S., at 557-558 (Breyer, J., dissenting); Monge, 524 U. S., at 729. The system can tolerate this kind of problem up to a point (consider the defendant who wants to argue innocence, and, in the alternative, second-degree, not first-degree, murder). But a rereading of the many distinctions made in a typical robbery guideline, see supra, at 334, suggests that an effort to incorporate any real set of guidelines in a complex statute would reach well beyond that point.\nThe majority announces that there really is no problem here because \u201cStates may continue to offer judicial factfind-ing as a matter of course to all defendants who plead guilty\u201d and defendants may \u201cstipulate] to the relevant facts or consent] to judicial factfinding.\u201d Ante, at 310. The problem, of course, concerns defendants who do not want to plead guilty to those elements that, until recently, were commonly thought of as sentencing factors. As to those defendants, the fairness problem arises because States may very well decide that they will not permit defendants to carve subsets of facts out of the new, Apprendi-required 17-element robbery crime, seeking a judicial determination as to some of those facts and a jury determination as to others. Instead, States may simply require defendants to plead guilty to all 17 elements or proceed with a (likely prejudicial) trial on all 17 elements.\nThe majority does not deny that States may make this choice; it simply fails to understand why any State would want to exercise it. Ante, at 310, n. 12. The answer is, as I shall explain in a moment, that the alternative may prove too expensive and unwieldy for States to provide. States that offer defendants the option of judicial factfinding as to some facts (i. e., sentencing facts), say, because of fairness concerns, will also have to offer the defendant a second sentencing jury \u2014 just as Kansas has done. I therefore turn to that alternative.\n2\nThe second way to make sentencing guidelines Apprendicompliant would be to require at least two juries for each defendant whenever aggravating facts are present: one jury to determine guilt of the crime charged, and an additional jury to try the disputed facts that, if found, would aggravate the sentence. Our experience with bifurcated trials in the capital punishment context suggests that reqmring them for run-of-the-mill sentences would be costly, both in money and in judicial time and resources. Cf. Kozinski & Gallagher, Death: The Ultimate Run-On Sentence, 46 Case W. Res. L. Rev. 1, 13-15, and n. 64 (1995) (estimating the costs of each capital case at around $1 million more than each noncapital case); Tabak, How Empirical Studies Can Affect Positively the Politics of the Death Penalty, 83 Cornell L. Rev. 1431, 1439-1440 (1998) (attributing the greater cost of death penalty cases in part to bifurcated proceedings). In the context of noncapital crimes, the potential need for a second indictment alleging aggravating facts, the likely need for formal evidentiary rules to prevent prejudice, and the increased difficulty of obtaining relevant sentencing information, all will mean greater complexity, added cost, and further delay. See Part V, infra. Indeed, cost and delay could lead legislatures to revert to the complex charge offense system described in Part I-C-l, supra.\nThe majority refers to an amicus curiae brief filed by the Kansas Appellate Defender Office, which suggests that a two-jury system has proved workable in Kansas. Ante, at 309-310. And that may be so. But in all likelihood, any such workability reflects an uncomfortable fact, a fact at which the majority hints, ante, at 310, but whose constitutional implications it does not seem to grasp. The uncomfortable fact that could make the system seem workable\u2014 even desirable in the minds of some, including defense attorneys \u2014 is called \u201cplea bargaining.\u201d See Bibas, 110 Yale L. J,, at 1150, and n. 330 (reporting that in 1996, fewer than 4% of adjudicated state felony defendants have jury trials, 5% have bench trials, and 91% plead guilty). See also ante, at 310 (making clear that plea bargaining applies). The Court can announce that the Constitution requires at least two jury trials for each criminal defendant \u2014 one for guilt, another for sentencing \u2014 but only because it knows full well that more than 90% of defendants will not go to trial even once, much less insist on two or more trials.\nWhat will be the consequences of the Court\u2019s holding for the 90% of defendants who do not go to trial? The truthful answer is that we do not know. Some defendants may receive bargaining advantages if the increased cost of the \u201cdouble jury trial\u201d guarantee makes prosecutors more willing to cede certain sentencing issues to the defense. Other defendants may be hurt if a \u201csingle-jury-decides-all\u201d approach makes them more reluctant to risk a trial \u2014 perhaps because they want to argue that they did not know what was in the cocaine bag, that it was a small amount regardless, that they were unaware a confederate had a gun, etc. See Bibas, 110 Yale L. J., at 1100 (\u201cBecause for many defendants going to trial is not a desirable option, they are left without any real hearings at all\u201d); id., at 1151 (\u201cThe trial right does little good when most defendants do not go to trial\u201d).\nAt the least, the greater expense attached to trials and their greater complexity, taken together in the context of an overworked criminal justice system, will likely mean, other things being equal, fewer trials and a greater reliance upon plea bargaining \u2014 a system in which punishment is set not by judges or juries but by advocates acting under bargaining constraints. At the same time, the greater power of the prosecutor to control the punishment through the charge would likely weaken the relation between real conduct and real punishment as well. See, e. g., Schulhofer, 29 Am. Crim. L. Rev., at 845 (estimating that evasion of the proper sentence under the Federal Guidelines may now occur in 20%-35% of all guilty plea cases). Even if the Court\u2019s holding does not further embed plea-bargaining practices (as I fear it will), its success depends upon the existence of present practice. I do not understand how the Sixth Amendment could require a sentencing system that will work in practice only if no more than a handful of defendants exercise their right to a jury trial.\nThe majority\u2019s only response is to state that \u201cbargaining over elements . . . probably favors the defendant,\u201d ante, at 311, adding that many criminal defense lawyers favor its position, ante, at 312. But the basic problem is not one of \u201cfairness\u201d to defendants or, for that matter, \u201cfairness\u201d to prosecutors. Rather, it concerns the greater fairness of a sentencing system that a more uniform correspondence between real criminal conduct and real punishment helps to create. At a minimum, a two-jury system, by preventing a judge from taking account of an aggravating fact without the prosecutor\u2019s acquiescence, would undercut, if not nullify, legislative efforts to ensure through guidelines that punishments reflect a convicted offender\u2019s real criminal conduct, rather than that portion of the offender\u2019s conduct that a prosecutor decides to charge and prove.\nEfforts to tie real punishment to real conduct are not new. They are embodied in well-established preguidelines sen-tenting practices \u2014 practices under which a judge, looking at a presentence report, would seek to tailor the sentence in significant part to fit the criminal conduct in which the offender actually engaged. For more than a century, questions of punishment (not those of guilt or innocence) have reflected determinations made, not only by juries, but also by judges, probation officers, and executive parole boards. Such truthseeking determinations have rested upon both adversarial and nonadversarial processes. The Court\u2019s holding undermines efforts to reform these processes, for it means that legislatures cannot both permit judges to base sentencing upon real conduct and seek, through guidelines, to make the results more uniform.\nIn these and other ways, the two-jury system would work a radical change in pre-existing criminal law. It is not surprising that this Court has never previously suggested that the Constitution \u2014 outside the unique context of the death penalty \u2014 might require bifurcated jury-based sentencing. And it is the impediment the Court\u2019s holding poses to legislative efforts to achieve that greater systematic fairness that casts doubt on its constitutional validity.\nD\nIs there a fourth option? Perhaps. Congress and state legislatures might, for example, rewrite their criminal codes, attaching astronomically high sentences to each crime, followed by long lists of mitigating facts, which, for the most part, would consist of the absence of aggravating facts. Ap-prendi, 530 U. S., at 541-542 (O\u2019Connor, J., dissenting) (explaining how legislatures can evade the majority\u2019s rule by making yet another labeling choice). But political impediments to legislative action make such rewrites difficult to achieve; and it is difficult to see why the Sixth Amendment would require legislatures to undertake them.\nIt may also prove possible to find combinations of, or variations upon, my first three options. But I am unaware of any variation that does not involve (a) the shift of power to the prosecutor (weakening the connection between real conduct and real punishment) inherent in any charge offense system, (b) the lack of uniformity inherent in any system of pure judicial discretion, or (c) the complexity, expense, and increased reliance on plea bargains involved in a \u201ctwo-jury\u201d system. The simple fact is that the design of any fair sentencing system must involve efforts to make practical compromises among competing goals. The majority\u2019s reading of the Sixth Amendment makes the effort to find those compromises \u2014 already difficult \u2014 virtually impossible.\nII\nThe majority rests its conclusion in significant part upon a claimed historical (and therefore constitutional) imperative. According to the majority, the rule it applies in this case is rooted in \u201clongstanding tenets of common-law criminal jurisprudence,\u201d ante, at 301: that every accusation against a defendant must be proved to a jury and that \u201c \u2018an accusation which lacks any particular fact which the law makes essential to the punishment is... no accusation within the requirements of the common law, and it is no accusation in reason,\u2019 \u201d ante, at 301-302 (quoting Bishop, Criminal Procedure \u00a787, at 55). The historical sources upon which the majority relies, however, do not compel the result it reaches. See ante, at 323 (O\u2019Connor, J., dissenting); Apprendi, 530 U. S., at 525-528 (O\u2019Connor, J., dissenting). The quotation from Bishop, to which the majority attributes great weight, stands for nothing more than the \u201cunremarkable proposition\u201d that where a legislature passes a statute setting forth heavier penalties than were available for committing a common-law offense and specifying those facts that triggered the statutory penalty, \u201ca defendant could receive the greater statutory punishment only, if the indictment expressly charged and the prosecutor proved the facts that made up the statutory offense, as opposed to simply those facts that made up the common-law offense.\u201d Id., at 526 (O\u2019Connor, J., dissenting) (characterizing a similar statement of the law in J. Arch-bold, Pleading and Evidence in Criminal Cases 51, 188 (15th ed. 1862)).\nThis is obvious when one considers the problem that Bishop was addressing. He provides as an example \u201cstatutes whereby, when [a common-law crime] is committed with a particular intent, or with a particular weapon, or the like, it is subjected to a particular corresponding punishment, heavier than that for\u201d the simple common-law offense (though, of course, his concerns were not \u201climited to that example,\u201d ante, at 302, n. 5). Bishop, supra, \u00a782, at 51-52 (discussing the example of common assault and enhanced-assault statutes, e. g., \u201cassaults committed with the intent to rob\u201d). That indictments historically had to charge all of the statutorily labeled elements of the offense is a proposition on which all can agree. See Apprendi, supra, at 526-527 (O\u2019Connor, J., dissenting). See also J. Archbold, Pleading and Evidence in Criminal Cases 44 (11th ed. 1849) (\u201c[E]very fact or circumstance which is a necessary ingredient in the offence must be set forth in the indictment\u201d so that \u201cthere may be no doubt as to the judgment which should be given, if the defendant be convicted\u201d); 1 T. Starkie, Criminal Pleading 68 (2d ed. 1822) (the indictment must state \u201cthe criminal nature and degree of the offence, which are conclusions of law from the facts; and also the particular facts and circumstances which render the defendant guilty of that offence\u201d).\nNeither Bishop nor any other historical treatise writer, however, disputes the proposition that judges historically had discretion to vary the sentence, within the range provided by the statute, based on facts not proved at the trial. See Bishop, supra, \u00a785, at 54 (\u201c[W]ithin the limits of any discretion as to the punishment which the law may have allowed, the judge, when he pronounces sentence, may suffer his discretion to be influenced by matter shown in aggravation or mitigation, not covered by the allegations of the indictment\u201d); K. Stith & J. Cabranes, Fear of Judging: Sentencing Guidelines in the Federal Courts 9 (1998). The modern history of preguidelines sentencing likewise indicates that judges had broad discretion to set sentences within a statutory range based on uncharged conduct. Usually, the judge based his or her sentencing decision on facts gleaned from a presentence report, which the defendant could dispute at a sentencing hearing. In the federal system, for example, Federal Rule of Criminal Procedure 32 provided that probation officers, who are employees of the Judicial Branch, prepared a presentence report for the judge, a copy of which was generally given to the prosecution and defense before the sentencing hearing. See Stith & Cabranes, supra, at 79-80, 221, n. 5. See also ante, at 315 (O\u2019Connor, J., dissenting) (describing the State of Washington\u2019s former indeterminate sentencing law).\nIn this case, the statute provides that kidnaping may be punished by up to 10 years\u2019 imprisonment. Wash. Rev. Code Ann. \u00a7\u00a7 9A.40.030(3), 9A.20.021(1)(b) (2000). Modern structured sentencing schemes like Washington\u2019s do not change the statutorily fixed maximum penalty, nor do they purport to establish new elements for the crime. Instead, they undertake to structure the previously unfettered discretion of the sentencing judge, channeling and limiting his or her discretion even within the statutory range. (Thus, contrary to the majority\u2019s arguments, ante, at 308-309, kidnapers in the State of Washington know that they risk up to 10 years\u2019 imprisonment, but they also have the benefit of additional information about how long \u2014 within the 10-year maximum \u2014 their sentences are likely to be, based on how the kidnaping was committed.)\nHistorical treatises do not speak to such a practice because it was not done in the 19th century. Cf. Jones, 526 U. S., at 244 C\u2018[T]he scholarship of which we are aware does not show that a question exactly like this one was ever raised and resolved in the period before the framing\u201d). This makes sense when one considers that, prior to the 19th century, the prescribed penalty for felonies was often death, which the judge had limited, and sometimes no, power to vary. See Lillquist, 82 N. C. L. Rev., at 628-630. The 19th century saw a movement to a rehabilitative mode of punishment in which prison terms became a norm, shifting power to the judge to impose a longer or shorter term within the statutory maximum. See ibid. The ability of legislatures to guide the judge\u2019s discretion by designating presumptive ranges, while allowing the judge to impose a more or less severe penalty in unusual cases, was therefore never considered. To argue otherwise, the majority must ignore the significant differences between modern structured sentencing schemes and the history on which it relies to strike them down. And while the majority insists that the historical sources, particularly Bishop, should not be \u201climited\u201d to the context in which they were written, ante, at 302, n. 5, it has never explained why the Court must transplant those discussions to the very different context of sentencing schemes designed to structure judges\u2019 discretion within a statutory sentencing range.\nGiven history\u2019s silence on the question of laws that structure a judge\u2019s discretion within the range provided by the legislatively labeled maximum term, it is not surprising that oiir modern, pre-Apprendi cases made clear that legislatures could, within broad limits, distinguish between \u201csentencing facts\u201d and \u201celements of crimes.\u201d See McMillan, 477 U. S., at 85-88. By their choice of label, legislatures could indicate whether a judge or a jury must make the relevant factual determination. History does not preclude legislatures from making this decision. And, as I argued in Part I, supra, allowing legislatures to structure sentencing in this way has the dual effect of enhancing and giving meaning to the Sixth Amendment\u2019s jury trial right as to core crimes, while affording additional due process to defendants in the form of sentencing hearings before judges \u2014 hearings the majority's rule will eliminate for many.\nIs there a risk of unfairness involved in permitting Congress to make this labeling decision? Of course. As we have recognized, the \u201ctail\u201d of the sentencing fact might \u201cwa[g] the dog of the substantive offense.\u201d McMillan, supra, at 88. Congress might permit a judge to sentence an individual for murder though convicted only of making an illegal lane change. See ante, at 306 (majority opinion). But that is the kind of problem that the Due Process Clause is well suited to cure. McMillan foresaw the possibility that judges would have to use their own judgment in dealing with such a problem; but that is what judges are there for. And, as Part I, supra, makes clear, the alternatives are worse \u2014 not only practically, but, although the majority refuses to admit it, constitutionally as well.\nHistoric practice, then, does not compel the result the majority reaches. And constitutional concerns counsel the opposite.\nIll\nThe majority also overlooks important institutional considerations. Congress and the States relied upon what they believed was their constitutional power to decide, within broad limits, whether to make a particular fact (a) a sentencing factor or (b) an element in a greater crime. They relied upon McMillan as guaranteeing the constitutional validity of that proposition. They created sentencing reform, an effort to change the criminal justice system so that it reflects systematically not simply upon guilt or innocence but also upon what should be done about this now-guilty offender. Those efforts have spanned a generation. They have led to state sentencing guidelines and the Federal Sentencing Guidelines system. E.g., ante, at 314-318 (O\u2019Connor, J., dissenting) (describing sentencing reform in the State of Washington). These systems are imperfect and they yield far from perfect results, but I cannot believe the Constitution forbids the state legislatures and Congress to adopt such systems and to try to improve them over time. Nor can I believe that the Constitution hamstrings legislatures in the way that Justice O\u2019Connor and I have discussed.\nIV\nNow, let us return to the question I posed at the outset. Why does the Sixth Amendment permit a jury trial right (in respect to a particular fact) to depend upon a legislative labeling decision, namely, the legislative decision to label the fact a sentencing fact, instead of an element of the crime? The answer is that the fairness and effectiveness of a sentencing system, and the related fairness and effectiveness of the criminal justice system itself, depend upon the legislature\u2019s possessing the constitutional authority (within due process limits) to make that labeling decision. To restrict radically the legislature\u2019s power in this respect, as the majority interprets the Sixth Amendment to do, prevents the legislature from seeking sentencing systems that are consistent with, and indeed may help to advance, the Constitution\u2019s greater fairness goals.\nTo say this is not simply to express concerns about fairness to defendants. It is also to express concerns about the serious practical (or impractical) changes that the Court\u2019s decision seems likely to impose upon the criminal process; about the tendency of the Court\u2019s decision to embed further plea bargaining processes that lack transparency and too often mean nonuniform, sometimes arbitrary, sentencing practices; about the obstacles the Court\u2019s decision poses to legislative efforts to bring about greater uniformity between real criminal conduct and real punishment; and ultimately about the limitations that the Court imposes upon legislatures\u2019 ability to make democratic legislative decisions. Whatever the faults of guidelines systems \u2014 and there are many \u2014 they are more likely to find their cure in legislation emerging from the experience of, and discussion among, all elements of the criminal justice community, than in a virtually unchangeable constitutional decision of this Court.\nV\nTaken together these three sets of considerations, concerning consequences, concerning history, concerning institutional reliance, leave me where I was in Apprendi, i. e., convinced that the Court is wrong. Until now, I would have thought the Court might have limited Apprendi so that its underlying principle would not undo sentencing reform efforts. Today's case dispels that illusion. At a minimum, the case sets aside numerous state efforts in that direction. Perhaps the Court will distinguish the Federal Sentencing Guidelines, but I am uncertain how. As a result of today's decision, federal prosecutors, like state prosecutors, must decide what to do next, how to handle tomorrow\u2019s case.\nConsider some of the matters that federal prosecutors must know about, or guess about, when they prosecute their next case: (1) Does today\u2019s decision apply in full force to the Federal Sentencing Guidelines? (2) If so, must the initial indictment contain all sentencing factors, charged as \u201celements\u201d of the crime? (3) What, then, are the evidentiary rules? Can the prosecution continue to use, say, presentence reports, with their conclusions reflecting layers of hearsay? Cf. Crawford v. Washington, 541 U. S. 36, 63, 68 (2004) (clarifying the Sixth Amendment\u2019s requirement of confrontation with respect to testimonial hearsay). Are the numerous cases of this Court holding that a sentencing judge may consider virtually any reliable information still good law when juries, not judges, are required to determine the matter? See, e. g., United States v. Watts, 519 U. S. 148, 153-157 (1997) (per curiam) (evidence of conduct of which the defendant has been acquitted may be considered at sentencing). Cf. Witte v. United States, 515 U. S. 389, 399-401 (1995) (evidence of uncharged criminal conduct used in determining sentence). (4) How are juries to deal with highly complex or open-ended Sentencing Guidelines obviously written for application by an experienced trial judge? See, e. g., USSG \u00a73B1.1 (requiring a greater sentence when the defendant was a leader of a criminal activity that involved four or more participants or was \u201cotherwise extensive\u201d (emphasis added)); \u00a7\u00a73D1.1-3D1.2 (highly complex \u201cmultiple count\u201d rules); \u00a7 IB 1.3 (relevant conduct rules).\nOrdinarily, this Court simply waits for cases to arise in which it can answer such questions. But this case affects tens of thousands of criminal prosecutions, including federal prosecutions. Federal prosecutors will proceed with those, prosecutions subject to the risk that all defendants in those cases will have to be sentenced, perhaps tried, anew. Given this consequence and the need for certainty, I would not proceed further piecemeal; rather, I would call for further argument on the ramifications of the concerns I have raised. But that is not the Court\u2019s view.\nFor the reasons given, I dissent.",
+        "type": "dissent",
+        "author": "Justice Breyer,"
+      }
+    ],
+    "attorneys": [
+      "Jeffrey L. Fisher argued the cause and filed briefs for petitioner.",
+      "John D. Knodell III argued the cause and filed a brief for respondent.",
+      "Deputy Solicitor General Dreeben argued the cause for the United States as amicus curiae urging affirmance. With him on the brief were Solicitor General Olson, Assistant Attorney General Wray, Matthew D. Roberts, and Nina Goodman."
+    ],
+    "corrections": "",
+    "head_matter": "BLAKELY v. WASHINGTON\nNo. 02-1632.\nArgued March 23, 2004 \u2014\nDecided June 24, 2004\nJeffrey L. Fisher argued the cause and filed briefs for petitioner.\nJohn D. Knodell III argued the cause and filed a brief for respondent.\nDeputy Solicitor General Dreeben argued the cause for the United States as amicus curiae urging affirmance. With him on the brief were Solicitor General Olson, Assistant Attorney General Wray, Matthew D. Roberts, and Nina Goodman.\nBriefs of amici curiae urging reversal were filed for the American Civil Liberties Union et al. by James E. Lobsenz, Aaron H. Captan, and Steven B. Shapiro; for the Kansas Appellate Defender Office by Randall L. Hodgkinson; and for the National Association of Criminal Defense Lawyers et al. by David M. Porter and Sheryl Gordon McCloud.\nBriefs of amici curiae urging affirmance were filed for the State of Alabama et al. by William H. Pryor, Jr., Attorney General of Alabama, Kevin C. Newsom, Solicitor General, Michael B. Billingsley, Deputy Solicitor General, and Nathan A. Forrester, and by the Attorneys General for their respective States as follows: M. Jane Brady of Delaware, Charles J. Crist, Jr., of Florida, Mark J. Bennett of Hawaii, Lisa Madigan of Illinois, Jon Bruning of Nebraska, Hardy Myers of Oregon, Greg Abbott of Texas, Mark L. Shurtleff of Utah, and Jerry W. Kilgore of Virginia; and for the Criminal Justice Legal Foundation by Kent S. Scheidegger."
+  },
+  "file_name": "0296-01",
+  "first_page_order": 338,
+  "last_page_order": 389
+}

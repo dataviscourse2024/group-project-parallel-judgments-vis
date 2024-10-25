@@ -1,0 +1,444 @@
+{
+  "id": 6229213,
+  "name": "IMMIGRATION AND NATURALIZATION SERVICE v. ELIAS-ZACARIAS",
+  "name_abbreviation": "Immigration & Naturalization Service v. Elias-Zacarias",
+  "decision_date": "1992-01-22",
+  "docket_number": "No. 90-1342",
+  "first_page": "478",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "502 U.S. 478"
+    },
+    {
+      "type": "parallel",
+      "cite": "117 L. Ed. 2d 38"
+    },
+    {
+      "type": "parallel",
+      "cite": "112 S. Ct. 812"
+    },
+    {
+      "type": "vendor",
+      "cite": "1992 U.S. LEXIS 550"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1991-029"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "464 U. S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196910
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "189"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0183-01"
+      ]
+    },
+    {
+      "cite": "369 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164460
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0001-01"
+      ]
+    },
+    {
+      "cite": "836 F. 2d 1227",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10549051
+      ],
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "1232, n. 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/836/1227-01"
+      ]
+    },
+    {
+      "cite": "306 U. S. 292",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6139294
+      ],
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/306/0292-01"
+      ]
+    },
+    {
+      "cite": "480 U. S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131295
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "423, 428, n. 5"
+        },
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0421-01"
+      ]
+    },
+    {
+      "cite": "8 U. S. C. \u00a7 1158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "500 U. S. 915",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6275777,
+        6275073,
+        6273890,
+        6273576,
+        6274634,
+        6275405,
+        6273262,
+        6272986,
+        6274268
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0915-09",
+        "/us/500/0915-07",
+        "/us/500/0915-04",
+        "/us/500/0915-03",
+        "/us/500/0915-06",
+        "/us/500/0915-08",
+        "/us/500/0915-02",
+        "/us/500/0915-01",
+        "/us/500/0915-05"
+      ]
+    },
+    {
+      "cite": "921 F. 2d 844",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546901
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "850-852"
+        },
+        {
+          "page": "850"
+        },
+        {
+          "page": "852"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/921/0844-01"
+      ]
+    },
+    {
+      "cite": "8 U. S. C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(a)(42)"
+        },
+        {
+          "page": "(a)(42)"
+        },
+        {
+          "page": "(a)(42)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 Stat. 102",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 I. & N. Dec. 311",
+      "category": "reporters:federal",
+      "reporter": "I. & N. Dec.",
+      "year": 1982,
+      "opinion_index": 1
+    },
+    {
+      "cite": "467 U. S. 407",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6201171
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/467/0407-01"
+      ]
+    },
+    {
+      "cite": "333 U. S. 6",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6156873
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/333/0006-01"
+      ]
+    },
+    {
+      "cite": "376 U. S. 120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379789
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "128"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/376/0120-01"
+      ]
+    },
+    {
+      "cite": "386 U. S. 214",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "225"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "22 U. S. C. \u00a7\u00a7441-465",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1286",
+          "parenthetical": "emphasis in original; footnote omitted"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "767 F. 2d 1277",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        349053
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "1287"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/767/1277-01"
+      ]
+    },
+    {
+      "cite": "480 U. S. 421",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131295
+      ],
+      "weight": 5,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "428, n. 5",
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "449-450"
+        },
+        {
+          "page": "440"
+        },
+        {
+          "page": "444-445"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/480/0421-01"
+      ]
+    },
+    {
+      "cite": "8 U. S. C. \u00a7 1158",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "921 F. 2d 844",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10546901
+      ],
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/921/0844-01"
+      ]
+    },
+    {
+      "cite": "8 U. S. C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(42)"
+        }
+      ],
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1036,
+    "char_count": 24618,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 0.00016127203128602874,
+      "percentile": 0.9999924706034985
+    },
+    "sha256": "ca577ae46bf8f2dcd36effe6d2e96ebad302053693cadd4079806e15158af3ba",
+    "simhash": "1:e5575ee879a325d7",
+    "word_count": 4039
+  },
+  "last_updated": "2024-02-27T21:58:33.230396+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and White, Kennedy, Souter, and Thomas, JJ., joined. Stevens, J., filed a dissenting opinion, in which Blackmun and O\u2019Connor, JJ., joined, post, p. 484."
+    ],
+    "parties": [
+      "IMMIGRATION AND NATURALIZATION SERVICE v. ELIAS-ZACARIAS"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Scalia\ndelivered the opinion of the Court.\nThe principal question presented by this case is whether a guerrilla organization\u2019s attempt to coerce a person into performing military service necessarily constitutes \u201cpersecution on account of . . . political opinion\u201d under \u00a7 101(a)(42) of the Immigration and Nationality Act, as added, 94 Stat. 102, 8 U. S. C. \u00a7 1101(a)(42).\nI\nRespondent Elias-Zacarias, a native of Guatemala, was apprehended in July 1987 for entering the United States without inspection. In deportation proceedings brought by petitioner Immigration and Naturalization Service (INS), Elias-Zacarias conceded his deportability but requested asylum and withholding of deportation.\nThe Immigration Judge summarized Elias-Zacarias\u2019 testimony as follows:\n\u201c[A]round the end of January in 1987 [when Elias-Zacarias was 18], two armed, uniformed guerrillas with handkerchiefs covering part of their faces came to his home. Only he and his parents were there. . . . [T]he guerrillas asked his parents and himself to join with them, but they all refused. The guerrillas asked them why and told them that they would be back, and that they should think it over about joining them.\n\u201c[Elias-Zacarias] did not want to join the guerrillas because the guerrillas are against the government and he was afraid that the government would retaliate against him and his family if he did join the guerrillas. [H]e left Guatemala at the end of March [1987] . . . because he was afraid that the guerrillas would return.\u201d App. to Pet. for Cert. 40a-41a.\nThe Immigration Judge understood from this testimony that Elias-Zacarias\u2019 request for asylum and for withholding of deportation was \u201cbased on this one attempted recruitment by the guerrillas.\u201d Id., at 41a. She concluded that Elias-Zacarias had failed to demonstrate persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, and was not eligible for asylum. See 8 U. S. C. \u00a7\u00a7 1101(a)(42), 1158(a). She further concluded that he did not qualify for withholding of deportation.\nThe Board of Immigration Appeals (BIA) summarily dismissed Elias-Zacarias\u2019 appeal on procedural grounds. Elias-Zacarias then moved the BIA to reopen his deportation hearing so that he could submit new evidence that, following his departure from Guatemala, the guerrillas had twice returned to his family\u2019s home in continued efforts to recruit him. The BIA denied reopening on the ground that even with this new evidence Elias-Zacarias had failed to make a prima facie showing of eligibility for asylum and had failed to show that the results of his deportation hearing would be changed.\nThe Court of Appeals for the Ninth Circuit, treating the BIA\u2019s denial of the motion to reopen as an affirmance on the merits of the Immigration Judge\u2019s ruling, reversed. 921 F. 2d 844 (1990). The court ruled that acts of conscription by a nongovernmental group constitute persecution on account of political opinion, and determined that Elias-Zacarias had a \u201cwell-founded fear\u201d of such conscription. Id., at 850-852. We granted certiorari. 500 U. S. 915 (1991).\nII\nSection 208(a) of the Immigration and Nationality Act, 8 U. S. C. \u00a7 1158(a), authorizes the Attorney General, in his discretion, to grant asylum to an alien who is a \"refugee\" as defined in the Act, i. e., an alien who is unable or unwilling to return to his home country \"because of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.\" \u00a7 101(a)(42)(A), 8 U. S. C. \u00a7 1101(a)(42)(A). See INS v. Cardoza-Fonseca, 480 U. S. 421, 423, 428, n. 5 (1987). The BIA's determination that Elias-Zacarias was not eligible for asylum must be upheld if \"supported by reasonable, substantial, and probative evidence on the record considered as a whole.\" 8 U. S. C. \u00a7 1105a(a)(4). It can be reversed only if the evidence presented by Elias-Zacarias was such that a reasonable factfinder would have to conclude that the requisite fear of persecution existed. NLRB v. Columbian Enameling & Stamping Co., 306 U. S. 292, 300 (1939).\nThe Court of Appeals found reversal warranted. In its view, a guerrilla organization's attempt to conscript a person into its military forces necessarily constitutes \"persecution on account of. . . political opinion,\" because \"the person resisting forced recruitment is expressing a political opinion hostile to the persecutor and because the persecutors' motive in carrying out the kidnapping is political.\" 921 F. 2d, at 850. The first half of this seems to us untrue, and the second half irrelevant.\nEven a person who supports a guerrilla movement might resist recruitment for a variety of reasons \u2014 fear of combat, a desire to remain with one\u2019s family and friends, a desire to earn a better living in civilian life, to mention only a few. The record in the present case not only failed to show a political motive on Elias-Zacarias\u2019 part; it showed the opposite. He testified that he refused to join the guerrillas because he was afraid that the government would retaliate against him and his family if he did so. Nor is there any indication (assuming, arguendo, it would suffice) that the guerrillas erroneously believed that Elias-Zacarias\u2019 refusal was politically based.\nAs for the Court of Appeals\u2019 conclusion that the guerrillas\u2019 \u201cmotive in carrying out the kidnapping is political\u201d: It apparently meant by this that the guerrillas seek to fill their ranks in order to carry on their war against the government and pursue their political goals. See 921 F. 2d, at 850 (citing Arteaga v. INS, 836 F. 2d 1227, 1232, n. 8 (CA9 1988)); 921 F. 2d, at 852. But that does not render the forced recruitment \u201cpersecution on account of . . . political opinion.\u201d In construing statutes, \u201cwe must, of course, start with the assumption that the legislative purpose is expressed by the ordinary meaning of the words used.\u201d Richards v. United States, 369 U. S. 1, 9 (1962); see Cardoza-Fonseca, supra, at 431; INS v. Phinpathya, 464 U. S. 183, 189 (1984). The ordinary meaning of the phrase \u201cpersecution on account of . . . political opinion\u201d in \u00a7 101(a)(42) is persecution on account of the victim\u2019s political opinion, not the persecutor\u2019s. If a Nazi regime persecutes Jews, it is not, within the ordinary meaning of language, engaging in persecution on account of political opinion; and if a fundamentalist Moslem regime persecutes democrats, it is not engaging in persecution on account of religion. Thus, the mere existence of a generalized \u201cpolitical\u201d motive underlying the guerrillas\u2019 forced recruitment is inadequate to establish (and, indeed, goes far to refute) the proposition that Elias-Zacarias fears persecution on account of political opinion, as \u00a7101(a)(42) requires.\nElias-Zacarias appears to argue that not taking sides with any political faction is itself the affirmative expression of a political opinion. That seems to us not ordinarily so, since we do not agree with the dissent that only a \u201cnarrow, grudging construction of the concept of \u2018political opinion,\u2019 \u201d post, at 487, would distinguish it from such quite different concepts as indifference, indecisiveness, and risk averseness. But we need not decide whether the evidence compels the conclusion that Elias-Zacarias held a political opinion. Even if it does, Elias-Zacarias still has to establish that the record also compels the conclusion that he has a \u201cwell-founded fear\u201d that the guerrillas will persecute him because of that political opinion, rather than because of his refusal to fight with them. He has not done so with the degree of clarity necessary to permit reversal of a BIA finding to the contrary; indeed, he has not done so at all.\nElias-Zacarias objects that he cannot be expected to provide direct proof of his persecutors\u2019 motives. We do not require that. But since the statute makes motive critical, he must provide some evidence of it, direct or circumstantial. And if he seeks to obtain judicial reversal of the BIA\u2019s determination, he must show that the evidence he presented was so compelling that no reasonable factfinder could fail to find the requisite fear of persecution. That he has not done.\nThe BIA\u2019s determination should therefore have been upheld in all respects, and we reverse the Court of Appeals\u2019 judgment to the contrary.\nIt is so ordered.\nQuite beside the point, therefore, is the dissent's assertion that \"the record in this case is more than adequate to support the cone lusion that this respondent's refusal [to join the guerrillas] was a form of expressive conduct that constituted the statement of a `political opinion,\" post, at 488 (emphasis added). To reverse the BIA finding we must find that the evidence not only supports that conclusion, but compels it-and also compels the further conclusion that Elias-Zacarias had a well-founded fear that the guerrillas would persecute him because of that political opinion.\nThe dissent misdescribes the record on this point in several respects. For example, it exaggerates the \u201cwell foundedness\u201d of whatever fear Elias-Zacarias possesses, by progressively transforming his testimony that he was afraid the guerrillas would \u201c \u2018take me or kill me,\u2019 \u201d post, at 484, into, first, \u201cthe guerrillas\u2019 implied threat to \u2018take\u2019 him or to \u2018kill\u2019 him,\u201d post, at 489 (emphasis added), and, then, into the flat assertion that the guerrillas \u201cresponded by threatening to \u2018take\u2019 or to \u2018kill\u2019 him,\u201d post, at 490 (emphasis added). The dissent also erroneously describes it as \u201cundisputed\u201d that the cause of the harm Elias-Zacarias fears, if that harm should occur, will be \u201cthe guerrilla organization\u2019s displeasure with his refusal to join them in their armed insurrection against the government.\u201d Post, at 484 (emphasis added). The record shows no such concession by the INS, and all Elias-Zacarias said on the point was that he feared being taken or killed by the guerrillas. It is quite plausible, indeed likely, that the taking would be engaged in by the guerrillas in order to augment their troops rather than show their displeasure; and the killing he feared might well be a killing in the course of resisting being taken.",
+        "type": "majority",
+        "author": "Justice Scalia"
+      },
+      {
+        "text": "Justice Stevens,\nwith whom Justice Blackmun and Justice O\u2019Connor join, dissenting.\nRespondent refused to join a guerrilla organization that engaged in forced recruitment in Guatemala. He fled the country because he was afraid the guerrillas would return and \u201ctake me and kill me.\u201d After his departure, armed guerrillas visited his family on two occasions searching for him. In testimony that the hearing officer credited, he stated that he is still afraid to return to Guatemala because \u201cthese people\u201d can come back to \u201ctake me or kill me.\u201d\nIt is undisputed that respondent has a well-founded fear that he will be harmed, if not killed, if he returns to Guatemala. It is also undisputed that the cause of that harm, if it should occur, is the guerrilla organization\u2019s displeasure with his refusal to join them in their armed insurrection against the government. The question of law that the case presents is whether respondent\u2019s well-founded fear is a \u201cfear of persecution on account of. . . political opinion\u201d within the meaning of \u00a7 101(a)(42) of the Immigration and Nationality Act.\nIf respondent were to prevail, as he did in the Court of Appeals, 921 F. 2d 844 (CA9 1990), he would be classified as a \u201crefugee\" and therefore be eligible for a grant of asylum. He would not be automatically entitled to that relief, however, because \u201cthe Attorney General is not required to grant asylum to everyone who meets the definition of refugee.\u201d INS v. Cardoza-Fonseca, 480 U. S. 421, 428, n. 5 (1987) (emphasis in original). Instead, \u00a7 208 of the Act provides that the Attorney General may, \u201cin [his] discretion,\u201d grant asylum to refugees.\nToday the Court holds that respondent\u2019s fear of persecution is not \u201con account of . . . political opinion\u201d for two reasons. First, he failed to prove that his refusal to join the guerrillas was politically motivated; indeed, he testified that he was at least in part motivated by a fear that government forces would retaliate against him or his family if he joined the guerrillas. See ante, at 482-483. Second, he failed to prove that his persecutors\u2019 motives were political. In particular, the Court holds that the persecutors\u2019 implicit threat to retaliate against respondent \u201cbecause of his refusal to fight with them,\u201d ante, at 483, is not persecution on account of political opinion. I disagree with both parts of the Court\u2019s reasoning.\nI\nA political opinion can be expressed negatively as well as affirmatively. A refusal to support a cause \u2014 by staying home on election day, by refusing to take an oath of allegiance, or by refusing to step forward at an induction center \u2014 can express a political opinion as effectively as an affirmative statement or affirmative conduct. Even if the refusal is motivated by nothing more than a simple desire to continue living an ordinary life with one\u2019s family, it is the kind of political expression that the asylum provisions of the statute were intended to protect.\nAs the Court of Appeals explained in Bolanos-Hernandez v. INS, 767 F. 2d 1277 (CA9 1985):\n\u201cChoosing to remain neutral is no less a political decision than is choosing to affiliate with a particular political faction. Just as a nation\u2019s decision to remain neutral is a political one, see, e. g., Neutrality Act of 1939, 22 U. S. C. \u00a7\u00a7441-465 (1982), so is an individual\u2019s. When a person is aware of contending political forces and affirmatively chooses not to join any faction, that choice is a political one. A rule that one must identify with one of two dominant warring political factions in order to possess a political opinion, when many persons may, in fact, be opposed to the views and policies of both, would frustrate one of the basic objectives of the Refugee Act of 1980 \u2014 to provide protection to all victims of persecution regardless of ideology. Moreover, construing \u2018political opinion\u2019 in so short-sighted and grudging a manner could result in limiting the benefits under the ameliorative provisions of our immigration laws to those who join one political extreme or another; moderates who choose to sit out a battle would not qualify.\u201d Id., at 1286 (emphasis in original; footnote omitted).\nThe narrow, grudging construction of the concept of \u201cpolitical opinion\u201d that the Court adopts today is inconsistent with the basic approach to this statute that the Court endorsed in INS v. Cardoza-Fonseca, supra. In that case, relying heavily on the fact that an alien\u2019s status as a \u201crefugee\u201d merely makes him eligible for a discretionary grant of asylum \u2014 as contrasted with the entitlement to a withholding of deportation authorized by \u00a7 243(h) of the Act \u2014 the Court held that the alien\u2019s burden of proving a well-founded fear of persecution did not require proof that persecution was more likely than not to occur. We explained:\n\u201cOur analysis of the plain language of the Act, its symmetry with the United Nations Protocol, and its legislative history, lead inexorably to the conclusion that to show a \u2018well-founded fear of persecution,\u2019 an alien need not prove that it is more likely than not that he or she will be persecuted in his or her home country. We find these ordinary canons of statutory construction compelling, even without regard to the longstanding principle of construing any lingering ambiguities in deportation statutes in favor of the alien. See INS v. Errico, 386 U. S. 214, 225 (1966); Costello v. INS, 376 U. S. 120, 128 (1964); Fong Haw Tan v. Phelan, 333 U. S. 6, 10 (1948).\n\u201cDeportation is always a harsh measure; it is all the more replete with danger when the alien makes a claim that he or she will be subject to death or persecution if forced to return to his or her home country. In enacting the Refugee Act of 1980 Congress sought to \u2018give the United States sufficient flexibility to respond to situations involving political or religious dissidents and detainees throughout the world.\u2019 H. R. Rep. [96-608, p. 9 (1979)]. Our holding today increases that flexibility by rejecting the Government\u2019s contention that the Attorney General may not even consider granting asylum to one who fails to satisfy the strict \u00a7 243(h) standard. Whether or not a \u2018refugee\u2019 is eventually granted asylum is a matter which Congress has left for the Attorney General to decide. But it is clear that Congress did not intend to restrict eligibility for that relief to those who could prove that it is more likely than not that they will be persecuted if deported.\u201d 480 U. S., at 449-450.\nSimilar reasoning should resolve any doubts concerning the political character of an alien\u2019s refusal to take arms against a legitimate government in favor of the alien. In my opinion, the record in this case is more than adequate to support the conclusion that this respondent\u2019s refusal was a form of expressive conduct that constituted the statement of a \u201cpolitical opinion\u201d within the meaning of \u00a7 208(a).\nII\nIt follows as night follows day that the guerrillas' implied threat to \"take\" him or to \"kill\" him if he did not change his position constituted threatened persecution \"on account of\" that political opinion. As the Court of Appeals explained in Bo lanos-Hernandez:\n\"It does not matter to the persecutors what the individual's motivation is. The guerrillas in El Salvador do not inquire into the reasoning process of those who insist on remaining neutral and refuse to join their cause. They are concerned only with an act that constitutes an overt manifestation of a political opinion. Persecution because of that overt manifestation is persecution because of a political opinion.\" 767 F. 2d, at 1287.\nIt is important to emphasize that the statute does not require that an applicant for asylum prove exactly why his persecutors would act against him; it only requires him to show that he has a \"well-founded fear of persecution on account of political opinion.\" As we recognized in INS v. Cardoza-Fonseca, the applicant meets this burden if he shows that there is a \"reasonable possibility\" that he will be perse-cubed on account of his political opinion. 480 U. S., at 440 (quoting INS v. Stevic, 467 U. S. 407, 425 (1984)). Because respondent expressed a political opinion by refusing to join the guerrillas, and they responded by threatening to \u201ctake\u201d or to \u201ckill\u201d him if he did not change his mind, his fear that the guerrillas will persecute him on account of his political opinion is well founded.\nAccordingly, I would affirm the judgment of the Court of Appeals.\nApp. to Brief in Opposition 5a.\nId., at 6a.\nSection 101(a)(42), as codified in 8 U. S. C. \u00a7 1101(a)(42), provides:\n\u201c(a) As used in this chapter\u2014\n\u201c(42) The term \u2018refugee\u2019 means (A) any person who is outside any country of such person\u2019s nationality or, in the case of a person having no nationality, is outside any country in which such person last habitually resided, and who is unable or unwilling to return to, and is unable or unwilling to avail himself or herself of the protection of, that country because of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, or (B) in such special circumstances as the President after appropriate consultation (as defined in section 1157(e) of this title) may specify, any person who is within the country of such person\u2019s nationality or, in the case of a person having no nationality, within the country in which such person is habitually residing, and who is persecuted or who has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion. The term \u2018refugee\u2019 does not include any person who ordered, incited, assisted, or otherwise participated in the persecution of any person on account of race, religion, nationality, membership in a particular social group, or political opinion.\u201d\nSection 208(a) of the Act, as codified at 8 U. S. C. \u00a7 1158(a), provides:\n\u201cThe Attorney General shall establish a procedure for an alien physically present in the United States or at a land border or port of entry, irrespective of such alien\u2019s status, to apply for asylum, and the alien may be granted asylum in the discretion of the Attorney General if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.\u201d\nAs we recognized in INS v. Cardoza-Fonseca, 480 U. S. 421, 444-445 (1987):\n\u201c \u2018The [House] Committee carefully considered arguments that the new definition might expand the numbers of refugees eligible to come to the United States and force substantially greater refugee admissions than the country could absorb. However, merely because an individual or group comes within the definition will not guarantee resettlement in the United States.\u2019 H. R. Rep. [96-608, p. 10 (1979)].\n\u201c. . . Congress has assigned to the Attorney General and his delegates the task of making these hard individualized decisions; although Congress could have crafted a narrower definition, it chose to authorize the Attorney General to determine which, if any,.veligible refugees should be denied asylum.\u201d\nHere, respondent not only engaged in expressive conduct by refusing to join the guerrilla organization but also explained that he did so \u201c[b]e-cause they see very well, that if you join the guerrillas . . . then you are against the government. You are against the government and if you join them then it is to die there. And, then the government is against you and against your family.\u201d App. to Brief in Opposition 5a. Respondent thus expressed the political view that he was for the government and against the guerrillas. The statute speaks simply in terms of a political opinion and does not require that the view be well developed or elegantly expressed.\nThe Government has argued that respondent's statement is analogous to that of a person who leaves a country to avoid being drafted into military service. The INS has long recognized, however, that the normal enforcement of Selective Service laws is not \"persecution\" within the meaning of the statute even if the draftee's motive is political. Thus, while holding that an Afghan soldier who refused to fight under Soviet command qualified as a political refugee, Matter of Salim, 18 I. & N. Dec. 311 (BIA 1982), the INS has adhered \"to the long-accepted position that it is not persecution for a country to require military service of its citizens.\" Matter of A-G-, 19 1. & N. Dec. 502, 506 (BIA 1987); cf. United Nations High Commissioner for Refugees, Handbook on Procedures and Criteria for Determining Refugee Status \u00b6 167 (1979) (\"Fear of prosecution and punishment for desertion or draft-evasion does not in itself constitute well-founded fear of persecution under the [1967 United Nations Protocol Relating to the Status of Refugees]\").\nIn response to this dissent, the Court suggests that respondent and I have exaggerated the \u201cwell foundedness\u201d of his fear. See ante, at 483, n. 2. The Court\u2019s legal analysis, however, would produce precisely the same result no matter how unambiguous the guerrillas\u2019 threatened retaliation might have been. Moreover, any doubts concerning the sinister character of a suggestion to \u201cthink it over\u201d delivered by two uniformed masked men carrying machine guns should be resolved in respondent\u2019s favor.",
+        "type": "dissent",
+        "author": "Justice Stevens,"
+      }
+    ],
+    "attorneys": [
+      "Maureen E. Mahoney argued the cause for petitioner. On the briefs were Solicitor General Starr, Assistant Attorney General Gerson, Acting Deputy Solicitor General Wright, Stephen J. Marzen, and Alice M. King.",
+      "James Robertson argued the cause for respondent. With him on the brief were Carol F. Lee and Peter A. Von Mehren."
+    ],
+    "corrections": "",
+    "head_matter": "IMMIGRATION AND NATURALIZATION SERVICE v. ELIAS-ZACARIAS\nNo. 90-1342.\nArgued November 4, 1991\nDecided January 22, 1992\nScalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and White, Kennedy, Souter, and Thomas, JJ., joined. Stevens, J., filed a dissenting opinion, in which Blackmun and O\u2019Connor, JJ., joined, post, p. 484.\nMaureen E. Mahoney argued the cause for petitioner. On the briefs were Solicitor General Starr, Assistant Attorney General Gerson, Acting Deputy Solicitor General Wright, Stephen J. Marzen, and Alice M. King.\nJames Robertson argued the cause for respondent. With him on the brief were Carol F. Lee and Peter A. Von Mehren.\nBriefs of amici curiae urging affirmance were filed for the American Immigration Lawyers Association by Kevin R. Johnson, Joshua R. Flown, and Robert Rubin; for the Lawyers Committee for Human Rights et al. by Arthur C. Helton, 0. Thomas Johnson, Jr., and Andrew I. Schoen-koltz; and for the United Nations High Commissioner for Refugees by Arthur L. Bentley III and Julian Fleet"
+  },
+  "file_name": "0478-01",
+  "first_page_order": 640,
+  "last_page_order": 652
+}

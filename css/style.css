@@ -4,10 +4,11 @@ body {
     margin: 0;
     padding: 20px;
     background-color: #f7f8fc;
-    height: 100vh; /* Full viewport height */
+    min-height: 100vh;  /* Minimum height for the body */
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow-y: auto;  /* Allow vertical scrolling if content overflows */
 }
 
 /* Style the title */
@@ -21,101 +22,94 @@ h1 {
     box-sizing: border-box; /* To include padding in the element's total width */
 }
 
-/* ---- Container for Table and Plot ---- */
-#content-container {
-    display: flex;
-    justify-content: space-between;  /* Creates space between the table and plot */
-    align-items: flex-start;  /* Align table and plot to the top */
-    width: 100%;  /* Take up the full width of the page */
-    max-width: 1200px;  /* Adjust based on desired layout */
-    margin-top: 20px;
-}
-
-
-/* Table container styling */
-#table-area {
-    width: 60%;  /* Adjust width as necessary */
-    background-color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    margin-left: 0;  /* Keep table aligned with the left side of the screen */
-    /* margin-top: -300px; Adjust margin to reduce space above the table */
-    padding: 20px;
-    /* align-self: flex-start; Align table to the left (within the container) */
-    height: 200px;  /* Set fixed height for scrolling */
-    overflow-y: auto;  /* Enable vertical scrolling */
-    overflow-x: hidden; /* Prevent horizontal scrolling */
-}
-
-/* Table styling */
+/* General table styling */
 #table-area table {
     width: 100%;
     border-collapse: collapse;
-    text-align: left;
     font-size: 1em;
-    color: #333;
+    margin-bottom: 20px;
 }
 
-/* Table headers */
+/* Header row styling */
 #table-area th {
     background-color: #4CAF50;
     color: white;
     padding: 12px;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    position: sticky;
-    top: 0;  /* Keep headers visible when scrolling */
-    z-index: 1;  /* Ensure headers stay on top */
+    text-align: left;
+    font-size: 1.1em;
 }
 
-/* Table cells */
+/* Data row styling */
 #table-area td {
     padding: 12px;
-    border-bottom: 1px solid #ddd;
-    font-size: 0.9em;
+    border: 1px solid #ddd;
+    text-align: left;
 }
 
-/* Alternating row colors */
+/* Alternate row background color for readability */
 #table-area tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
-/* Hover effect on rows */
-#table-area tr:hover {
-    background-color: #f1f1f1;
-    transition: background-color 0.3s;
+/* Tooltip for long jurisdiction names */
+#table-area td span {
+    cursor: help;  /* Shows the tooltip icon when hovering */
+    border-bottom: 1px dotted #333;  /* Underline text with dotted border */
 }
 
-/* First column styling */
-#table-area td:first-child {
-    font-weight: bold;
-    color: #4CAF50;
+/* Style for the "Cites To" column with scrollable content */
+#table-area td div {
+    max-height: 100px;  /* Limit the height */
+    overflow-y: auto;  /* Add vertical scroll for overflow */
+    border: 1px solid #ddd;  /* Add border to make it distinct */
+    padding: 10px;
+    background-color: #fafafa;
 }
 
-/* Parallel coordinates plot styling */
-#parallel-coordinates {
-    width: 50%;  /* Adjust to control the width of the plot area */
-    padding: 0;
-    box-sizing: border-box;  /* Include padding in width calculation */
+#bar-chart-area {
+    margin: 20px auto;
+    max-width: 900px;
 }
 
-/* Apply the background directly to the SVG
-#parallel-coordinates svg {
-    background-color: white;  /* This will ensure the background is only for the plot */
-/*} 
-*/
-
-#parallel-coordinates path {
-    stroke-width: 2;
+/* Bar styling */
+.bar {
+    fill: #69b3a2;  /* Default color for the bars */
+    transition: fill 0.3s ease;  /* Smooth color transition on hover */
 }
 
-#parallel-coordinates path:hover {
-    stroke: orange;
-    stroke-width: 4;
-    opacity: 1;
+/* Bar hover effect */
+.bar:hover {
+    fill: orange;  /* Highlight color when a bar is hovered */
 }
 
-#parallel-coordinates g.axis text {
+/* X-axis label styling */
+.x-axis text {
     font-size: 12px;
-    fill: black;
+    fill: #333;  /* Dark gray for readability */
+}
+
+/* Y-axis label styling */
+.y-axis text {
+    font-size: 12px;
+    fill: #333;  /* Dark gray for readability */
+}
+
+/* Rotate x-axis labels for better readability when there are many categories */
+.x-axis text {
+    transform: rotate(-45deg);
+    text-anchor: end;
+}
+
+/* Chart title styling */
+.chart-title {
+    font-size: 16px;
+    font-weight: bold;
+    text-anchor: middle;
+    fill: #333;
+    margin-bottom: 10px;
+}
+
+/* Add padding to the SVG container */
+svg {
+    padding: 10px;
 }
