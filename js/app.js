@@ -16,12 +16,32 @@ function loadData() {
         // Process and normalize data for radar chart
         let radarData = processRadarData(allData);
         
-        const jurisdictionData = countCasesByJurisdiction(allData);
-        createBarChart(jurisdictionData);
+        // Process data for parallel coordinates plot
+        let parallelData = processParallelData(allData);
+       
         createRadarChart(radarData);
+        createParallelCoordinatesPlot(parallelData);
     }).catch(function(error) {
         console.error('Error loading the data:', error);
     });
+}
+
+// Define jurisdiction levels mapping
+const jurisdictionLevels = {
+    "U.S.": 3,         // Federal level
+    "Federal": 3,      // General federal designation
+    "Minn.": 2,        // Minnesota (state level example)
+    "Cal.": 2,         // California (state level example)
+    "N.Y.": 2,         // New York (state level example)
+    // Add more states or jurisdictions as needed
+    "Local": 1,        // Placeholder for municipal/local levels
+    "Municipal": 1
+};
+
+// Function to get jurisdiction level
+function getJurisdictionLevel(jurisdiction) {
+    const jurisdictionName = jurisdiction ? jurisdiction.name || jurisdiction.name_long : "Local";
+    return jurisdictionLevels[jurisdictionName] || 1; // Default to 1 if jurisdiction not found
 }
 
 /**
@@ -74,80 +94,6 @@ function createTable(data) {
         const fullCitesTo = citesToList.map(c => c.cite).join("<br>");
         tr.append("td").html(`<div style="max-height: 100px; overflow-y: auto;" title="${fullCitesTo}">${limitedCitesTo}${citesToList.length > 3 ? '... more' : ''}</div>`);
     });
-}
-
-/**
- * Function to count the number of cases per jurisdiction
- * @param {Array} data - The case data loaded from JSON files
- * @returns {Array} - Array of objects with jurisdiction name and case count
- */
-function countCasesByJurisdiction(data) {
-    // Use a Map to count occurrences of each jurisdiction
-    const jurisdictionCount = d3.rollup(data, v => v.length, d => d.jurisdiction?.name);
-
-    // Convert Map to an array of objects: [{ jurisdiction: 'Jurisdiction Name', count: N }, ...]
-    return Array.from(jurisdictionCount, ([jurisdiction, count]) => ({ jurisdiction, count }));
-}
-
-/**
- * Function to create a bar chart showing the number of cases per jurisdiction
- * @param {Array} jurisdictionData - Array of objects with jurisdiction names and case counts
- */
-function createBarChart(jurisdictionData) {
-    const margin = { top: 40, right: 20, bottom: 60, left: 70 };
-    const width = 800 - margin.left - margin.right;
-    const height = 400 - margin.top - margin.bottom;
-
-    const svg = d3.select("#bar-chart-area")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`);
-
-    // Set up the scales
-    const x = d3.scaleBand()
-        .domain(jurisdictionData.map(d => d.jurisdiction))
-        .range([0, width])
-        .padding(0.1);
-
-    const y = d3.scaleLinear()
-        .domain([0, d3.max(jurisdictionData, d => d.count)])
-        .nice()
-        .range([height, 0]);
-
-    // Create the bars
-    svg.selectAll(".bar")
-        .data(jurisdictionData)
-        .enter()
-        .append("rect")
-        .attr("class", "bar")
-        .attr("x", d => x(d.jurisdiction))
-        .attr("y", d => y(d.count))
-        .attr("width", x.bandwidth())
-        .attr("height", d => height - y(d.count))
-        .attr("fill", "#69b3a2");
-
-    // Add X axis
-    svg.append("g")
-    .attr("class", "x-axis")
-    .attr("transform", `translate(0,${height})`)
-    .call(d3.axisBottom(x))
-    .selectAll("text")
-    .attr("transform", "rotate(-45)")
-    .style("text-anchor", "end");
-
-    svg.append("g")
-        .attr("class", "y-axis")
-        .call(d3.axisLeft(y));
-
-
-    // Add chart title
-    svg.append("text")
-    .attr("x", width / 2)
-    .attr("y", -10)
-    .attr("class", "chart-title")  // Add this class
-    .text("Number of Cases by Jurisdiction");
 }
 
 /**
@@ -276,6 +222,96 @@ function createRadarChart(data) {
         .style("fill", "orange")
         .style("fill-opacity", 0.8);
 }
+
+/**
+ * Process and structure data for the parallel coordinates plot
+ * @param {Array} data - Raw case data from JSON files
+ * @returns {Array} - Processed data with required attributes
+ */
+function processParallelData(data) {
+    const maxOpinionLength = d3.max(data, d => d.casebody.opinions.reduce((acc, op) => acc + op.text.length, 0));
+    const maxCiteRatio = d3.max(data, d => (d.citations ? d.citations.length : 1) / (d.cites_to ? d.cites_to.length : 1));
+
+    // Normalize data for each metric
+    return data.map(d => {
+        const opinionLength = d.casebody.opinions.reduce((acc, op) => acc + op.text.length, 0);
+        const citeRatio = (d.citations ? d.citations.length : 1) / (d.cites_to ? d.cites_to.length : 1);
+        const jurisdictionLevel = getJurisdictionLevel(d.jurisdiction);
+
+        return {
+            name: d.name || 'Unknown Case',
+            opinion_length: opinionLength / maxOpinionLength,
+            cite_ratio: citeRatio / maxCiteRatio,
+            jurisdiction_level: jurisdictionLevel / 3 // Normalize to [0, 1] with max level as 3
+        };
+    });
+}
+
+/**
+ * Function to create a parallel coordinates plot with D3.js
+ * @param {Array} data - Array of structured data objects for parallel plot
+ */
+function createParallelCoordinatesPlot(data) {
+    const margin = { top: 40, right: 50, bottom: 10, left: 50 };
+    const width = 900 - margin.left - margin.right;
+    const height = 400 - margin.top - margin.bottom;
+
+    // Clear any existing SVG in the container to prevent duplicates
+    d3.select("#parallel-coordinates-area").selectAll("svg").remove();
+
+    // Extract the dimensions for the parallel plot
+    const dimensions = ["opinion_length", "cite_ratio", "jurisdiction_level"];
+
+    // Create scales for each dimension
+    const yScales = {};
+    dimensions.forEach(dimension => {
+        yScales[dimension] = d3.scaleLinear()
+            .domain([0, 1]) // Since data is normalized to [0, 1]
+            .range([height, 0]);
+    });
+
+    // Create an x scale for spacing each dimension
+    const xScale = d3.scalePoint()
+        .domain(dimensions)
+        .range([0, width])
+        .padding(1);
+
+    // Create the SVG container for the parallel coordinates plot
+    const svg = d3.select("#parallel-coordinates-area")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    // Line generator for each case
+    function path(d) {
+        return d3.line()(dimensions.map(p => [xScale(p), yScales[p](d[p])]));
+    }
+
+    // Draw lines for each case in the data
+    svg.selectAll("myPath")
+        .data(data)
+        .enter()
+        .append("path")
+        .attr("d", path)
+        .style("fill", "none")
+        .style("stroke", "#69b3a2")
+        .style("opacity", 0.7);
+
+    // Draw the axes for each dimension
+    dimensions.forEach(dimension => {
+        svg.append("g")
+            .attr("transform", `translate(${xScale(dimension)},0)`)
+            .each(function(d) { d3.select(this).call(d3.axisLeft(yScales[dimension])); })
+            .append("text")
+            .style("text-anchor", "middle")
+            .attr("y", -9)
+            .text(dimension.replace(/_/g, " "))  // Replace underscores with spaces for labels
+            .style("fill", "black");
+    });
+}
+
 
 // Load the data when the script is executed
 loadData();

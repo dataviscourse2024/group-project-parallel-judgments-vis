@@ -65,55 +65,6 @@ h1 {
     padding: 10px;
     background-color: #fafafa;
 }
-
-#bar-chart-area {
-    margin: 20px auto;
-    max-width: 900px;
-}
-
-/* Bar styling */
-.bar {
-    fill: #69b3a2;  /* Default color for the bars */
-    transition: fill 0.3s ease;  /* Smooth color transition on hover */
-}
-
-/* Bar hover effect */
-.bar:hover {
-    fill: orange;  /* Highlight color when a bar is hovered */
-}
-
-/* X-axis label styling */
-.x-axis text {
-    font-size: 12px;
-    fill: #333;  /* Dark gray for readability */
-}
-
-/* Y-axis label styling */
-.y-axis text {
-    font-size: 12px;
-    fill: #333;  /* Dark gray for readability */
-}
-
-/* Rotate x-axis labels for better readability when there are many categories */
-.x-axis text {
-    transform: rotate(-45deg);
-    text-anchor: end;
-}
-
-/* Chart title styling */
-.chart-title {
-    font-size: 16px;
-    font-weight: bold;
-    text-anchor: middle;
-    fill: #333;
-    margin-bottom: 10px;
-}
-
-/* Add padding to the SVG container */
-svg {
-    padding: 10px;
-}
-
 /* Radar chart container styling */
 #radar-chart-area {
     width: 600px;
@@ -175,4 +126,30 @@ svg {
     pointer-events: none;
     opacity: 0;
     transition: opacity 0.3s;
+}
+
+/* Parallel coordinates plot container */
+#parallel-coordinates-area {
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f7f8fc;
+}
+
+/* Styling for lines in the plot */
+#parallel-coordinates-area path {
+    stroke-width: 2;
+}
+
+#parallel-coordinates-area path:hover {
+    stroke: orange;
+    stroke-width: 4;
+    opacity: 1;
+}
+
+/* Axis label styling */
+#parallel-coordinates-area g.axis text {
+    font-size: 12px;
+    fill: black;
 }
