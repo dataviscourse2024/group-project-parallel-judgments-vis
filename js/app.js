@@ -12,9 +12,13 @@ function loadData() {
         
         // Call function to create table
         createTable(allData);  // Create the table
+
+        // Process and normalize data for radar chart
+        let radarData = processRadarData(allData);
         
         const jurisdictionData = countCasesByJurisdiction(allData);
         createBarChart(jurisdictionData);
+        createRadarChart(radarData);
     }).catch(function(error) {
         console.error('Error loading the data:', error);
     });
@@ -144,6 +148,133 @@ function createBarChart(jurisdictionData) {
     .attr("y", -10)
     .attr("class", "chart-title")  // Add this class
     .text("Number of Cases by Jurisdiction");
+}
+
+/**
+ * Function to process and normalize data for the radar chart
+ * @param {Array} data - Raw case data from JSON files
+ * @returns {Array} - Processed and normalized data for radar chart
+ */
+function processRadarData(data) {
+    // Calculate max values for normalization
+    const maxCitations = d3.max(data, d => d.citations ? d.citations.length : 0);
+    const maxCitesTo = d3.max(data, d => d.cites_to ? d.cites_to.length : 0);
+    const minYear = d3.min(data, d => new Date(d.decision_date).getFullYear());
+    const maxYear = d3.max(data, d => new Date(d.decision_date).getFullYear());
+
+    // Normalize and structure data for radar chart
+    return data.map(d => {
+        const year = new Date(d.decision_date).getFullYear();
+        return {
+            name: d.name || 'Unknown Case',
+            citations: (d.citations ? d.citations.length : 0) / maxCitations,
+            cites_to: (d.cites_to ? d.cites_to.length : 0) / maxCitesTo,
+            decision_year: (year - minYear) / (maxYear - minYear)
+        };
+    });
+}
+
+/**
+ * Function to create a radar chart with D3.js
+ * @param {Array} data - Array of normalized data objects for radar chart
+ */
+function createRadarChart(data) {
+    const width = 500;
+    const height = 500;
+    const margin = { top: 40, right: 80, bottom: 40, left: 80 };
+    const radius = Math.min(width, height) / 2 - Math.max(margin.top, margin.right);
+
+    // Create SVG container for radar chart
+    const chartArea = d3.select("#radar-chart-area")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .append("g")
+        .attr("transform", `translate(${width / 2},${height / 2})`);
+
+    const axes = ['citations', 'cites_to', 'decision_year'];
+    const numAxes = axes.length;
+    const angleSlice = (Math.PI * 2) / numAxes;
+
+    // Scale for radius
+    const rScale = d3.scaleLinear()
+        .range([0, radius])
+        .domain([0, 1]);
+
+    // Draw grid circles (levels)
+    const axisGrid = chartArea.append("g").attr("class", "axisWrapper");
+    const levels = 5;
+    for (let i = 0; i < levels; i++) {
+        const r = (i + 1) / levels * radius;
+        axisGrid.append("circle")
+            .attr("r", r)
+            .attr("fill", "none")
+            .attr("stroke", "#CDCDCD")
+            .attr("stroke-width", 0.5);
+    }
+
+    // Append each axis line and label
+    const axis = axisGrid.selectAll(".axis")
+        .data(axes)
+        .enter()
+        .append("g")
+        .attr("class", "axis");
+
+    axis.append("line")
+        .attr("x1", 0)
+        .attr("y1", 0)
+        .attr("x2", (d, i) => rScale(1) * Math.cos(angleSlice * i - Math.PI / 2))
+        .attr("y2", (d, i) => rScale(1) * Math.sin(angleSlice * i - Math.PI / 2))
+        .attr("stroke", "#CDCDCD")
+        .attr("stroke-width", 1);
+
+    axis.append("text")
+        .attr("x", (d, i) => rScale(1.1) * Math.cos(angleSlice * i - Math.PI / 2))
+        .attr("y", (d, i) => rScale(1.1) * Math.sin(angleSlice * i - Math.PI / 2))
+        .attr("dy", "0.35em")
+        .style("font-size", "10px")
+        .attr("text-anchor", "middle")
+        .text(d => d);
+
+    // Radar line generator function
+    const radarLine = d3.lineRadial()
+        .curve(d3.curveLinearClosed)
+        .radius(d => rScale(d.value))
+        .angle((d, i) => i * angleSlice);
+
+    // Format data for radar chart plotting
+    const radarData = data.map(caseData => {
+        return axes.map((axis, i) => {
+            return { axis, value: caseData[axis] };
+        });
+    });
+
+    // Draw radar chart for each case
+    chartArea.selectAll(".radarArea")
+        .data(radarData)
+        .enter()
+        .append("path")
+        .attr("class", "radarArea")
+        .attr("d", radarLine)
+        .style("fill", (d, i) => d3.schemeCategory10[i % 10])
+        .style("fill-opacity", 0.5)
+        .style("stroke", (d, i) => d3.schemeCategory10[i % 10])
+        .style("stroke-width", 2);
+
+    // Draw points on the radar chart
+    chartArea.selectAll(".radarCircle")
+        .data(radarData)
+        .enter()
+        .append("g")
+        .selectAll(".radarCircle")
+        .data(d => d)
+        .enter()
+        .append("circle")
+        .attr("r", 3)
+        .attr("cx", d => rScale(d.value) * Math.cos(angleSlice * axes.indexOf(d.axis) - Math.PI / 2))
+        .attr("cy", d => rScale(d.value) * Math.sin(angleSlice * axes.indexOf(d.axis) - Math.PI / 2))
+        .style("fill", "orange")
+        .style("fill-opacity", 0.8);
 }
 
 // Load the data when the script is executed

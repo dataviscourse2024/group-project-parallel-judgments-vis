@@ -113,3 +113,66 @@ h1 {
 svg {
     padding: 10px;
 }
+
+/* Radar chart container styling */
+#radar-chart-area {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Radar chart circles (grid lines) */
+.axisWrapper circle {
+    stroke: #e0e0e0;  /* Light gray for grid circles */
+    stroke-width: 0.7;
+}
+
+/* Axis lines styling */
+.axis line {
+    stroke: #cdcdcd;
+    stroke-width: 1px;
+}
+
+/* Axis labels */
+.axis text {
+    font-size: 12px;
+    fill: #555;
+    font-weight: bold;
+}
+
+/* Radar area (polygon) styling */
+.radarArea {
+    fill-opacity: 0.5;
+    stroke-width: 2px;
+    transition: fill-opacity 0.3s ease;
+}
+
+.radarArea:hover {
+    fill-opacity: 0.7;
+}
+
+/* Radar chart data points */
+.radarCircle {
+    fill: orange;
+    fill-opacity: 0.8;
+}
+
+/* Tooltip styling (optional) */
+.tooltip {
+    position: absolute;
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
