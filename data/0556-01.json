@@ -1,0 +1,577 @@
+{
+  "id": 11183436,
+  "name": "John William KING, Appellant, v. The STATE of Texas",
+  "name_abbreviation": "King v. State",
+  "decision_date": "2000-10-18",
+  "docket_number": "No. 73,433",
+  "first_page": "556",
+  "last_page": "569",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "29 S.W.3d 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Crim. App.",
+    "id": 8990,
+    "name": "Texas Court of Criminal Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "883 S.W.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10015737
+      ],
+      "pin_cites": [
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/883/0664-01"
+      ]
+    },
+    {
+      "cite": "849 S.W.2d 812",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10017163
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "816"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/849/0812-01"
+      ]
+    },
+    {
+      "cite": "128 L.Ed.2d 491",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 1871",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "511 U.S. 1100",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147044
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/1100-01"
+      ]
+    },
+    {
+      "cite": "866 S.W.2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9993573
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/866/0009-01"
+      ]
+    },
+    {
+      "cite": "966 S.W.2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11834453
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/966/0511-01"
+      ]
+    },
+    {
+      "cite": "136 L.Ed.2d 539",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 614",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 U.S. 1043",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722912,
+        11723488,
+        11722779,
+        11723241,
+        11723531,
+        11722956,
+        11723056,
+        11723442,
+        11723380,
+        11722838,
+        11723320,
+        11723289,
+        11722746,
+        11723163,
+        11723004,
+        11723101
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/1043-04",
+        "/us/519/1043-15",
+        "/us/519/1043-02",
+        "/us/519/1043-10",
+        "/us/519/1043-16",
+        "/us/519/1043-05",
+        "/us/519/1043-07",
+        "/us/519/1043-14",
+        "/us/519/1043-13",
+        "/us/519/1043-03",
+        "/us/519/1043-12",
+        "/us/519/1043-11",
+        "/us/519/1043-01",
+        "/us/519/1043-09",
+        "/us/519/1043-06",
+        "/us/519/1043-08"
+      ]
+    },
+    {
+      "cite": "917 S.W.2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10020665
+      ],
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/917/0799-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 38",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787611
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0038-01"
+      ]
+    },
+    {
+      "cite": "469 U.S. 412",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959771
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0412-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "both deficiency and prejudice must be shown to establish constitutionally ineffective assistance of counsel"
+        },
+        {
+          "parenthetical": "both deficiency and prejudice must be shown to establish constitutionally ineffective assistance of counsel"
+        },
+        {
+          "parenthetical": "both deficiency and prejudice must be shown to establish constitutionally ineffective assistance of counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "792 S.W.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9993103
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/792/0095-01"
+      ]
+    },
+    {
+      "cite": "123 L.Ed.2d 449",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 1819",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "507 U.S. 1020",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6480129,
+        6480482,
+        6479778,
+        6480386,
+        6480775,
+        6480584,
+        6480040,
+        6479947,
+        6479858,
+        6480308,
+        6480694,
+        6480187,
+        6480252,
+        6479711
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/1020-06",
+        "/us/507/1020-11",
+        "/us/507/1020-02",
+        "/us/507/1020-10",
+        "/us/507/1020-14",
+        "/us/507/1020-12",
+        "/us/507/1020-05",
+        "/us/507/1020-04",
+        "/us/507/1020-03",
+        "/us/507/1020-09",
+        "/us/507/1020-13",
+        "/us/507/1020-07",
+        "/us/507/1020-08",
+        "/us/507/1020-01"
+      ]
+    },
+    {
+      "cite": "649 S.W.2d 628",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9947087
+      ],
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/649/0628-01"
+      ]
+    },
+    {
+      "cite": "840 S.W.2d 394",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10000317
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "408"
+        },
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/840/0394-01"
+      ]
+    },
+    {
+      "cite": "994 S.W.2d 180",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11662005
+      ],
+      "pin_cites": [
+        {
+          "page": "184"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/994/0180-01"
+      ]
+    },
+    {
+      "cite": "698 S.W.2d 107",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9960817
+      ],
+      "pin_cites": [
+        {
+          "page": "111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/698/0107-01"
+      ]
+    },
+    {
+      "cite": "920 S.W.2d 288",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10010890,
+        10010567
+      ],
+      "pin_cites": [
+        {
+          "page": "302"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/920/0288-02",
+        "/sw2d/920/0288-01"
+      ]
+    },
+    {
+      "cite": "922 S.W.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10005134
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "131"
+        },
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/922/0126-01"
+      ]
+    },
+    {
+      "cite": "23 S.W.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        11198841
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "11",
+          "parenthetical": "adopting complete civil factual sufficiency formulation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/23/0001-01"
+      ]
+    },
+    {
+      "cite": "939 S.W.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10016350
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "162"
+        },
+        {
+          "page": "164"
+        },
+        {
+          "page": "165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/939/0155-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "863 S.W.2d 59",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9994673
+      ],
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/863/0059-01"
+      ]
+    },
+    {
+      "cite": "967 S.W.2d 410",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11833008
+      ],
+      "pin_cites": [
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/967/0410-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1773,
+    "char_count": 42004,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 3.203285046255288e-06,
+      "percentile": 0.997688475274041
+    },
+    "sha256": "897dc4f72f3a37a5861f3377afd6e18da0a4af23e410f9c6648630d145e89184",
+    "simhash": "1:b162a86b722a1de8",
+    "word_count": 6992
+  },
+  "last_updated": "2024-02-27T18:23:30.986851+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John William KING, Appellant, v. The STATE of Texas."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nKELLER, J.,\ndelivered the unanimous opinion of the court.\nAppellant was convicted of capital murder on February 25, 1999. Pursuant to the jury\u2019s answers to the special issues, the trial judge sentenced appellant to death. Direct appeal to this Court is automatic. Appellant raises eight points of error. We will affirm.\nI. SUFFICIENCY OF THE EVIDENCE\nIn his fourth through seventh points of error, appellant argues that the evidence is both legally and factually insufficient to support his conviction. Specifically, he argues that the evidence is insufficient to show that the victim was kidnapped or that appellant was a party to the capital murder.\nThe evidence at trial showed the following: George Mahathy, a life-long acquaintance of the victim, James Byrd, Jr., saw him at a party on Saturday night, June 6, 1998. Byrd left the party around 1:30 or 2:00 in the morning. Byrd asked Mahathy for a ride home, but Mahathy was riding home with someone else. As Mahathy was leaving the party, he saw Byrd walking down the road towards home, which was about a mile from the party. Steven Scott, who had known Byrd for several years, also saw him walking down the road that night. After arriving home a few minutes later, at around 2:30 a.m., Scott saw Byrd pass by in the back of an old model, step-side pickup truck painted primer-gray. Three white people were riding in the cab of the truck.\nOn June 7, 1998, police officers responded to a call to go to Huff Creek Road in the town of Jasper. In the road, in front of a church, they discovered the body of an African-American male missing the head, neck, and right arm. The remains of pants and underwear were gathered around the victim\u2019s ankles. About a mile and a half up the road, they discovered the head, neck, and arm by a culvert in a driveway.\nA trail of smeared blood and drag marks led from the victim\u2019s torso to the detached upper portion of the victim\u2019s body and continued another mile and a half down Huff Creek Road and a dirt logging road. A wallet found on the logging road contained identification for James Byrd Jr., a Jasper resident. Along the route, police also found Byrd\u2019s dentures, keys, shirt, undershirt, and watch. At the end of the logging road, the trail culminated in an area of matted-down grass, which appeared to be the scene of a fight. At this site and along the logging road, the police discovered a cigarette lighter engraved with the words \u201cPossum\u201d and \u201cKKK,\u201d a nut driver wrench inscribed with the name \u201cBerry,\u201d three cigarette butts, a can of \u201cfix-a-flat,\u201d a compact disk, a woman\u2019s watch, a can of black spray paint, a pack of Marlboro Lights cigarettes, beer bottles, a button from Byrd\u2019s shirt, and Byrd\u2019s baseball cap.\nThe following evening, police stopped Shawn Berry for a traffic violation in his primer-gray pickup truck. Behind the front seat, police discovered a set of tools matching the wrench found at the fight scene. They arrested Berry and confiscated the truck. DNA testing revealed that blood spatters underneath the truck and on one of the truck\u2019s tires matched Byrd\u2019s DNA. In the bed of the truck, police noticed a rust stain in a chain pattern and detected blood matching Byrd\u2019s on a spare tire.\nSix tires that were on or associated with Berry\u2019s truck were examined. Three of the four tires on the truck were of different makes. Tire casts taken at the fight scene and in front of the church where the torso was found were consistent with each of these tires. An FBI chemist detected a substance consistent with fix-a-flat inside one of the six tires.\nShawn Berry shared an apartment with Lawrence Russell Brewer and appellant. Police and FBI agents searched the apartment and confiscated appellant\u2019s drawings and writings as well as clothing and shoes of each of the three roommates. DNA analysis revealed that the jeans and boots that Berry had been wearing on the night of the murder were stained with blood matching Byrd\u2019s DNA. An analyst with the FBI lab determined that a shoe print found near a large blood stain on the logging road was made by a Rugged Outback brand sandal. Appellant owned a pair of Rugged Outback sandals and had been seen wearing them on the evening of the murder. Shawn Berry also owned a pair of Rugged Outback sandals that were a half size different from appellant\u2019s. One of the pairs of these sandals confiscated from the apartment bore a blood stain matching Byrd\u2019s DNA. A Nike tennis shoe with the initials \u201cL.B.\u201d in the tongue also was stained with blood matching Byrd\u2019s.\nDNA analysis was also conducted on three cigarette butts taken from the fight scene and logging road. DNA on one of the cigarette butts established appellant as the major contributor, and excluded Berry and Brewer as contributors, but could not exclude Byrd as a minor contributor. Brewer was the sole contributor of DNA on the second cigarette butt. The third cigarette butt revealed DNA from both a major and minor contributor. Shawn Berry was established as the major contributor of DNA on the third cigarette butt; however, appellant, Brewer, and Byrd were all excluded as possible minor contributors of the additional DNA.\nTommy Faulk testified that Berry, Brewer, and appellant frequented his home and had played paintball in the woods behind his trailer. Police conducted a search of these woods and found a large hole covered by plywood and debris. Underneath the cover, they discovered a 24-foot logging chain that matched the rust imprint in the bed of Berry\u2019s truck.\nThe State presented evidence of appellant\u2019s racial animosity, particularly towards African-Americans. Several witnesses testified about how appellant refused to go to the home of an African-American and would leave a party if an African-American arrived. In prison, appellant was known as the \u201cexalted cyclops\u201d of the Confederate Knights of America (\u201cCKA\u201d), a white supremacist gang. Among the tattoos covering appellant\u2019s body were a woodpecker in a Ku Klux Klansman\u2019s uniform making an obscene gesture; a \u201cpatch\u201d incorporating \u201cKKK,\u201d a swastika, and \u201cAryan Pride\u201d; and a black man with a noose around his neck hanging from a tree. Appellant had on occasion displayed these tattoos to people and had been heard to remark, \u201cSee my little nigger hanging from a tree.\u201d\nA gang expert reviewed the writings that were seized from the apartment and testified that appellant had used persuasive language to try to convince others to join in his racist beliefs. The writings revealed that appellant intended to start a chapter of the CKA in Jasper and was planning for something big to happen on July 4, 1998. The expert explained that to gain credibility appellant would need to do something \u201cpublic.\u201d He testified that leaving Byrd\u2019s body in the street in front of a church \u2014 as opposed to hiding it in one of the many wooded areas around town' \u2014 \u25a0 demonstrated that the crime was designed to strike terror in the community.\nAppellant neither testified nor made a formal statement to police. But he sent letters concerning the night of the murder to the Dallas Morning News and to Russell Brewer while he and Brewer were in jail awaiting trial. The following portion of the letter to the Dallas Morning News was read into the record:\nGiven a description as to the whereabouts of the dirt trail where an alleged beating of the deceased occurred, it\u2019s essential to acknowledge the fact that Shawn Berry co-inherited a small tract of land adjacent to the tram road, which he visited quite frequently.\nTherefore, the fact that my cigarette lighter with \u201cPossum\u201d inscribed upon it was found near the scene of the crime, along with other items \u2014 i.e., several hand tools with \u201cBerry\u201d inscribed on them, a compact disk belonging to Shawn Berry\u2019s brother Lewis, and my girlfriend\u2019s watch, as well as items of the deceased \u2014 are all verified facts implementing that these items could have fallen from Shawn Berry\u2019s truck during a potential struggle with the deceased while on the tram road.\nHowever, unacknowledged facts remain, that I, along with Russell Brewer and Lewis Berry, had been borrowing Shawn Berry\u2019s truck to commute to and from an out-of-town land clearing job each day. My girlfriend\u2019s watch was kept in Shawn Berry\u2019s truck for us to keep track of the time. Lewis Berry had brought along several of his C.D.s for our listening pleasure during our hourly drive each morning and evening, which he had a tendency to leave in his brother\u2019s truck.\nFurthermore, the aforementioned cigarette lighter had been misplaced a week or so prior to these fraudulent charges that have been brought against Russell Brewer and me. This, so forth, does not prove the presence of my girlfriend, Lewis Berry, Russell Brewer nor myself at the scene of the crime, verifi-ably only the owners of the property in question.\nSeveral statements and the theories against Shawn Berry, Russell Brewer, and myself, John W. King, for a prospective motive in this hard crime have been presented to the public. Against the wishes of my attorney, I shall share with you objective facts and my account of what happened during the early morning hours of June 7th, 1998.\nAfter a couple of hours of .drinking beer and riding up and down rural roads adjacent to Highway 255 off Highway 63, looking for a female\u2019s home, who were expecting Shawn Berry and Russell Brewer, Berry though [sic ] frivolous anger and fun at first, begun [sic ] to run over area residents\u2019 mail boxes and stop signs with his truck due to negligence in locating the girl\u2019s residence.\nBecoming irate with our continued failure to locate the female\u2019s house, Shawn Berry\u2019s behavior quickly became ballistic as he sped through area residents\u2019 yards in a circular manner and made a racket with his truck\u2019s tailpipes managing to sling our ice chest from the back of his truck several times.\nDuring his little conniption fit, Shawn Berry then stopped just ahead of a mailbox on Highway 255, took a chain from the back of his truck, wrapped it around the post of the mailbox, and proceeded to uproot and drag the mailbox east on Highway 255, stopping yards short of the Highway 63 north intersection, where he then removed his chain, replaced it, and continued to drive to a local convenience store, Rayburn Super-ette, to try to call the female who was expecting him and Brewer.\nFortunately no one answered at the girl\u2019s house and after repeated requests from me, as well as complaints from Russell Brewer, of a throbbing toe he injured during a recovery of our ice chest, Shawn Berry then agreed to take us to my apartment.\nShawn Allen Berry, driving with a suspended license and intoxicated, while taking Russell Brewer and me home those early morning hours, decided to stop by a mutual friend of ours home located on McQueen Street to inquire as to what the residents and his brother Lewis Berry were doing. On our way there, we passed a black man walking east on Martin Luther King Drive, whom Shawn Berry recognized and identified as simply Byrd, a man he befriended while incarcerated in the Jasper County Jail and, Berry stated, supplied him with steroids.\nShawn Berry then proceeded to stop his truck approximately 10 yards ahead of this individual walking in our direction, exit his vehicle, and approach the man. After several minutes of conversation, Shawn Berry returned to the truck and said his friend was going to join us because Berry and Byrd had business to discuss later and, thus, Byrd climbed into the back of Shawn Berry\u2019s truck and seated himself directly behind the cab.\nWhile continuing on to our friend\u2019s residence where supposedly Lewis Berry was to be, we noticed there were neither lights on nor signs of activity in the trailer as we approached. We decided to proceed on to my apartment; but contrary to Russell Brewer\u2019s and my request, Shawn Berry drove to and stopped at another local convenience store, B.J\u2019s Grocery, just east of the Jasper city limits. Shawn Berry then asked Russell Brewer if he could borrow 50 to $60 because he needed a little extra cash to replenish his juice, steroid supply.\nAfter Brewer gave Shawn Berry the remainder of what money he had to return to Sulphur Springs, Texas, on, Berry asked if Russell Brewer and I could ride in the back of the truck and let his friend sit up front to discuss the purchase and payment of more steroids for Shawn Berry. Russell Brewer and I obliged on the condition Berry take us to my apartment without further delay, which, after a brief exchange of positions, he did.\nOnce we arrived at my apartment, Shawn Berry informed Russell Brewer and me that he was leaving so that he could take Byrd to get the steroids and then home. I asked if Brewer or I would bring a small cooler of beer down for him and his friend along with a bottle of bourbon Berry had bought a few days prior.\nRussell Brewer and I went up to my apartment and began to fill a small cooler with approximately six to eight beers. Realizing I left my wallet and cigarettes in Shawn Berry\u2019s truck, I opted to bring the cooler back down to Berry. After retrieving my wallet, but unable to locate my cigarettes, I then returned upstairs to my apartment, into my bedroom, and proceeded to call an ex-girlfriend before retiring to bed in the predawn hours of June 7th, 1998.\nA portion of the note appellant wrote to Brewer was as follows:\nAs for the clothes they took from the apt. I do know that one pair of shoes they took were Shawn\u2019s dress boots with blood on them, as well as pants with blood on them. As far as the clothes I had on, I don\u2019t think any blood was on my pants or sweat shirt, but I think my sandals may have had some dark brown substance on the bottom of them.\nSeriously, though, Bro, regardless of the outcome of this, we have made history and shall die proudly remembered if need be.... Much Aryan love, respect, and honor, my brother in arms.... Possum.\nDr. Tommy Brown, a forensic pathologist, testified that he received Byrd\u2019s head, neck, and arm separately from the main torso. The autopsy revealed extensive injuries all over Byrd\u2019s body. Nearly all of Byrd\u2019s anterior ribs were fractured. He suffered \u201cmassive brush burn abrasions\u201d over most of his body. Both testicles were missing and gravel was found in the scrotal sac. Both knees and part of his feet had been ground down, his left cheek was ground to the jawbone, and his buttocks were ground down to the sacrum and lower spine. Some of his toes were missing and others were fractured. Large lacerations of the legs exposed muscle. But his brain and skull were intact, exhibiting no lacerations, fractures, or bruises.\nBrown concluded that the lacerations and abrasions around Byrd\u2019s ankles were consistent with the ankles having been wrapped by a chain and that the abrasions all over Byrd\u2019s body were consistent with him being dragged by his ankles over a road surface. Red regions around the area where Byrd\u2019s upper and lower body separated indicated that Byrd\u2019s heart was still pumping and that he was alive when his body was torn apart by the culvert. Therefore, Brown determined that the cause of death was separation of the head and upper extremity from the rest of the body. Some of the wound shapes and patterns indicated that Byrd was conscious while he was being dragged and was trying to relieve the intense burning pain by rolling and swapping one part of his body for another. Also, the absence of injuries to Byrd\u2019s brain and skull suggested that he was trying to hold his head up while being dragged.\nIn evaluating the legal sufficiency of the evidence, we must view the evidence in the light most favorable to the verdict and determine whether any rational trier of fact could have found the essential elements of the offense beyond a reasonable doubt. Although our analysis considers all evidence presented at trial, we may not re-weigh the evidence and substitute our judgment for that of the jury.\nA. Kidnapping\nHere, the State was required to prove that appellant murdered Byrd in the course of committing or attempting to commit kidnapping. A person commits kidnapping \u201cif he intentionally or knowingly abducts another person.\u201d Under the Penal Code, \u201cabduct\u201d has two alternate meanings, one of which is \u201cto restrain a person with intent to prevent his liberation by ... using or threatening to use deadly force.\u201d In relevant part, \u201c \u2018[r]estrain\u2019 means to restrict a person\u2019s movements without consent, so as to interfere substantially with the person\u2019s liberty, by moving the person from one place to another or by confining the person. Restraint is \u2018without consent\u2019 if it is accomplished by ... force, intimidation, or deception.\u201d\nAppellant argues that \u201cthere was no evidence presented which would permit the jury to believe that prior to his being dragged to his death, the deceased was moved \u2018from one place to another.\u2019 \u201d Although appellant does not dispute that the evidence supports a finding that a fight occurred and that Byrd was chained to a truck and dragged to his death, appellant contends that this evidence fails to demonstrate that \u201cforce or threat of force was used to chain him to the back of the truck.\u201d Appellant\u2019s argument hinges upon the faulty premise that the kidnapping must have occurred before Byrd was chained and dragged.\nBut the act of chaining Byrd to the truck and dragging him for a mile and a half was, by itself, a kidnapping under the law. This conduct clearly \u201cinterfere[d] substantially with [Byrd\u2019s] liberty\u201d and moved him \u201cfrom one place to another.\u201d Dragging a chained man from a truck also constitutes the use of deadly force to restrain that person and prevent his liberation. Byrd\u2019s injuries reveal not only that he was alive during half of his tortuous journey, but also that he was conscious for most, if not all, of that time \u2014 attempting to hold up his head and relieve the pain of the asphalt scraping and tearing his skin. Byrd was made to suffer the most cruel and horrific pain before his body was finally torn apart by the culvert. The evidence squarely supports the statutory definition of kidnapping.\nFinding the evidence legally sufficient, we proceed to appellant\u2019s factual sufficiency claim. Under the factual sufficiency standard, we ask \u201cwhether a neutral review of all the evidence, both for and against the finding, demonstrates that the proof of guilt is so obviously weak as to undermine confidence in the jury\u2019s determination, or' the proof of guilt, although adequate if taken alone, is greatly outweighed by contrary proof.\u201d Accordingly, we will reverse the fact finder\u2019s determination only if \u201ca manifest injustice has occurred.\u201d In conducting this analysis, we may disagree with the jury\u2019s determination, even if probative evidence supports the verdict, but must avoid substituting our judgment for that of the fact finder.\nAppellant argues that the evidence in this case supports \u201cnothing more than a false imprisonment, in that the actor or actors would not let the victim go.\u201d He contends that no kidnapping occurred because Byrd \u201cwent along voluntarily.\u201d Apparently, appellant suggests that no kidnapping occurred when Byrd was chained and dragged because he initially accepted a ride to his house in the pickup. We reject appellant\u2019s argument.\nAs previously discussed, the act of kidnapping occurred, at a minimum, when Byrd was chained to the truck and dragged down dirt and asphalt roads. Whether Byrd voluntarily accepted a ride with appellant, Brewer, and Berry earlier that night is irrelevant. We cannot say that the jury\u2019s finding that appellant kidnapped Byrd is \u201cmanifestly unjust,\u201d \u201cshocks the conscience,\u201d or \u201cclearly demonstrates bias.\u201d Appellant\u2019s fourth and fifth points of error are overruled.\nB. Party to the Offense\nAppellant also contends that the evidence was legally and factually insufficient to prove that he was a party to the murder. He argues that, at most, the evidence shows he was at the scene of the offense but not that he participated in the crime. The evidence belies appellant\u2019s claim that he was merely a bystander.\nAppellant was charged under the law of parties. Accordingly, the jury could convict appellant if it found that he was \u201cpresent at the commission of the offense and encourage[d] its commission by words or other agreement.\u201d In reviewing the sufficiency of the evidence to support appellant\u2019s participation as a party, we may consider \u201cevents occurring before, during and after the commission of the offense, and may rely on actions of the defendant which show an understanding and common design to do the prohibited act.\u201d\nAppellant\u2019s DNA along with Byrd\u2019s DNA on the same cigarette butt establishes that appellant was with Byrd near the scene where Byrd was chained to the truck. Byrd\u2019s blood on appellant\u2019s sandals supports the conclusion that appellant was involved in injuring Byrd. Further, the blood on appellant\u2019s sandals and the blood found on Lawrence Brewer\u2019s shoes contradict appellant\u2019s contention in his letter to the Dallas Morning News that he and Brewer merely rode in the truck with Byrd and then were dropped off at the apartment before Berry left with Byrd. Appellant also claims in the letter that he had misplaced his lighter a week before the crime. But testimony from Lewis Berry and Keisha Atkins, a friend of appellant, established that appellant had had his lighter on the day of the murder. Given the discrepancies between the evidence and appellant\u2019s statements, the jury reasonably could have found that appellant was not credible. Appellant\u2019s jail note to Brewer also incriminates appellant as a participant. In the note, appellant states that he did not believe any blood was on his pants and shirt \u2014 suggesting the possibility that blood could have been on his clothes. Also damaging is his statement that \u201cregardless of the outcome of this, we have made history and shall die proudly remembered if need be ...\u201d This statement reveals not only appellant\u2019s pride in the offense, but also his acknowledgment that he and Brewer could receive the death penalty for their crime.\nFurther, the extensive evidence of appellant\u2019s hatred for African-Americans, including his graphic tattoos and drawings, is evidence that appellant had a motive to kill Byrd because of his race.\nTo summarize, the State presented several items of evidence that connect appellant to Byrd\u2019s murder: (1) DNA evidence from a cigarette butt at the crime scene\u2014 indicating appellant\u2019s presence during the murder, (2) DNA evidence on appellant\u2019s sandals \u2014 linking appellant to Byrd\u2019s injuries, (3) appellant\u2019s false statements to the media \u2014 indicating consciousness of guilt and an attempt to cover up the crime, (4) appellant\u2019s letter to Brewer \u2014 which could be construed as an admission that appellant participated in the crime, and (5) appellant\u2019s racial animosity \u2014 which supplies a motive for the murder. Viewed in the light most favorable to the verdict, this evidence was sufficient for a rational jury to find beyond a reasonable doubt that appellant aided or encouraged the commission of the crime.\nConcluding that the evidence is legally sufficient to support the jury\u2019s finding that appellant participated in the offense, we proceed to appellant\u2019s factual sufficiency allegation. Appellant argues that the conviction is based entirely on circumstantial evidence \u2014 lacking eyewitness testimony, accomplice testimony, or evidence showing unequivocally that appellant was at the scene. He claims that the State proved nothing more than that he is a racist.\nThe fact that appellant was convicted upon circumstantial evidence does not, in itself, require reversal of the conviction under either our legal or factual sufficiency analyses. When reviewing a case comprised wholly of circumstantial evidence, the standard of review is the same as it is for reviewing cases in which direct evidence exists. As noted previously, DNA evidence puts appellant near the scene where Byrd was chained to the truck and links appellant to Byrd\u2019s injuries. Further, appellant\u2019s letters to the media and to Brewer show that he was untruthful about the events occurring during the evening of the crime and that he was proud of his involvement in the murder. Our review of the evidence reveals no \u201cmanifest injustice\u201d in appellant\u2019s conviction. Appellant\u2019s sixth and seventh points of error are overruled.\nII. PROCEDURAL ISSUES\nA. Request for Different Counsel\nAppellant\u2019s first two points of error concern his request for different trial counsel. In his first point of error, appellant complains that the trial court denied his requests for appointed counsel to withdraw and for the court to appoint new counsel. In his second point of error, appellant contends that he was denied the effective assistance of counsel because counsel failed to introduce any evidence in support of his motion to withdraw.\nTwo weeks before jury selection was scheduled to begin, C. Haden Cribbs filed a motion to withdraw as appellant\u2019s counsel. At a hearing held January 11, 1999, counsel explained to the court that he and appellant were experiencing personality conflicts and that appellant would not speak with him. Appellant then informed the court that he had sent the court three identical letters explaining why he wanted different counsel. In these letters, appellant expressed his dissatisfaction with counsel\u2019s failure to provide him with updates and certain other unspecified information. Appellant also stated that defense counsel \u201cis in disagreement of my innocence, and on several occasions, has acknowledged that he plans to do no more in my defense than try to ensure that I do not receive a death sentence.\u201d Appellant contends that these letters demonstrate good cause for switching counsel.\nThe letters are the only indication in the record that appellant was dissatisfied with counsel\u2019s performance. Towards the end of the hearing, appellant agreed to meet with counsel later to discuss the ease. Further, at a lengthy pre-trial hearing conducted December 14, 1998, appellant mentioned nothing about wanting different counsel.\nThe trial court has discretion to determine whether counsel should be allowed to withdraw from a case. \u201cHowever, the right to counsel may not be manipulated so as to obstruct the judicial process or interfere with the administration of justice.\u201d Further, personality conflicts and disagreements concerning trial strategy are typically not valid grounds for withdrawal. A trial court has no duty to search for counsel agreeable to the defendant.\nThe record reflects that by the time the motion to withdraw was filed on January 11, 1999, counsel had worked on the case for several months, reviewed most of the discovery, and filed more than thirty pre-trial motions. Given the amount of work counsel had already invested in the case, substitution of counsel could have necessitated delay of the trial. Moreover, although appellant was given the opportunity at the hearing to expand on his reasons for dissatisfaction with counsel, appellant failed to do so and simply referred the trial court to his letters. Given these circumstances, appellant has not shown that the trial court abused its discretion in refusing the motion to withdraw.\nSimilarly, appellant has not demonstrated ineffective assistance of counsel for failing to present evidence to support the motion for withdrawal. As noted above, counsel\u2019s motion to withdraw was premised on appellant\u2019s unwillingness to cooperate. When appellant agreed during the hearing to meet with counsel, counsel apparently determined not to pursue his motion further \u2014 especially since no basis was given to withdraw except personality conflicts. Nor has appellant indicated how counsel\u2019s alleged failure to pursue the motion to withdraw undermined confidence in the jury\u2019s verdict. Accordingly, appellant has demonstrated neither that counsel\u2019s performance deviated from prevailing professional norms nor that counsel\u2019s continued representation prejudiced his trial. Appellant\u2019s first and second points of error are overruled.\nB. Voir Dire\nIn his third point of error, appellant claims that the trial court erred in sustaining the State\u2019s challenge for cause to remove venireman James Edward Mallet because the record viewed as a whole does not show that Mallet\u2019s views against capital punishment would prevent or substantially impair the performance of his duties as a juror in accordance with his instruction and oath. During voir dire, Mallett, in response to the State\u2019s examination, stated that he was unwilling to impose the death penalty. The following is the relevant part of the State\u2019s examination of Mallett:\n[PROSECUTOR]: Is your belief such that under no circumstances at all can you sit on a jury that would impose a death penalty?\nA: I\u2019d rather not.\nQ: We really need an unequivocal answer on it. Can you serve on a jury that would impose a death penalty, or is it something you just can\u2019t do?\nA: According to God\u2019s word, I wouldn\u2019t want to do it.\nQ: Well, you put in \u201cI wouldn\u2019t want to do it,\u201d which leaves the opening that you might be able to do it; and I need an unequivocal answer one way or the other. Could you do it?\nA: No, I wouldn\u2019t want to sit on it.\nQ: Does that mean you can\u2019t do it?\nA: That means that I wouldn\u2019t want to at all. Now, the life sentence or two life sentences, I\u2019ll agree with that.\nQ: If you sat as a juror and 11 people were in favor of answering the issues in a way that would result in a death penalty and you were the 12th person, would you go with the life? Would you go against 11? What would you do?\nA: Well, if I state what I said, I\u2019d have to go against.\nQ: You\u2019d go against the death penalty?\nA: Yes, sir.\n* * \u215e\nQ: No matter how bad the crime, no matter what was done, your religious beliefs are such that you just cannot impose the death penalty?\nA: That\u2019s right.\nThe defense then attempted to rehabilitate Mallet, detailing the procedure for imposing the death penalty and the special issues to be answered by the jury. Mallett indicated that he might be able to answer these questions truthfully and follow the law but ended his questioning with an unequivocal answer that he would always vote against the death penalty. The relevant portion of the voir dire exchange follows:\n[DEFENSE COUNSEL]:\n[W]ould you always answer that question no, regardless of what you felt the evidence was or what the State proved, in order that the defendant would not be given a death penalty every time, regardless of evidence?\nA: I don\u2019t know.\nQ: Well, that\u2019s what we\u2019ve got to know because you\u2019re the only person that can answer that, Mr. Mallet; and there\u2019s some people that never will answer a question yes ... regardless of what the evidence is.... But we\u2019ve got to know.\nA: Well, I still don\u2019t believe in the capital punishment.\nQ: Well, it\u2019s not really whether you believe in capital punishment. Will you follow the law?\nA: I\u2019ll do my best.\nQ: And if you follow the law and you answer those questions, you answer the questions yes or no; or would you always answer the questions in a way that would always inflict life sentence rather than the death penalty?\nA: Well, I\u2019d rather see anybody get life than death.\nThat\u2019s just strictly \u2014 nobody made up my mind on that.\nQ: ... If you won\u2019t answer those questions the way the law is presented or the way you think it is or you\u2019d always answer them a certain way to result in a life sentence, that\u2019s fine, too. If that\u2019s what it is or not, we need you to answer.\nA: Well, I still \u2014 like I said, I just believe in a life sentence, not a death sentence. The answer to the death sentence is no.\nOver appellant\u2019s objection, the trial court sustained the State\u2019s challenge for cause.\nA juror may not be challenged for cause based on his views about capital punishment unless those views would prevent or substantially impair the performance of his duties as a juror in accordance with his instructions and his oath. In reviewing the trial court\u2019s decision to dismiss a venireman upon a sustained challenge for cause, considerable deference is given to the trial court because it is in the best position to evaluate the venireman\u2019s demeanor and responses. In reviewing the trial court\u2019s action, we ask whether the totality of the voir dire testimony supports the court\u2019s finding that the prospective juror is unable to follow the law as instructed and reverse only if a clear abuse of discretion is evident. When the potential juror\u2019s answers are vacillating, unclear or contradictory, particular deference is accorded to the trial court\u2019s decision.\nHere, the voir dire record supports the trial court\u2019s ruling. Although Mallett indicated that he would do his best to follow the law, he unequivocally stated that \u201c[t]he answer to the death sentence is no.\u201d According appropriate deference to the trial court\u2019s decision, we hold that the court did not abuse its discretion in sustaining the State\u2019s challenge for cause. Appellant\u2019s third point of error is overruled.\nC. Motion for New Trial\nIn his final point of error, appellant argues that the trial court erroneously denied him an evidentiary hearing on his motion for new trial. Appellant contends that the motion for new trial alleged facts outside the record that, if true, could have entitled him to relief. Appellant\u2019s only support for this motion was his own \u2018Weri-fication/Statement.\u201d\nThe record reveals that appellant\u2019s motion for new trial and \u201cVerification/Statement\u201d made five assertions; 1) the judgment is contrary to the law and evidence; 2) the State threatened prospective witness, Roy Lee Birnbaum, who had promised to provide favorable testimony on appellant\u2019s behalf, with a major sentence in another case if he testified; 3) the State denied appellant defensive information by intercepting mail between him and Russell Brewer; 4) the State exerted an improper influence on the jury because a Texas Ranger, who accompanied the jury at all times, was in regular communication with the jurors, and they had grown to like him; and 5) counsel provided ineffective assistance by failing to investigate appellant\u2019s assertions that he had an alibi defense and a witness who had seen that appellant had been dropped off in town on the night of the murder.\nWhen an accused presents a motion for new trial raising matters not determinable from the record, which could entitle him to relief, the trial judge abuses his discretion in failing to hold a hearing. The motion must, however, be supported by affidavit specifically showing the truth of the grounds of attack. Otherwise, general entitlement to a hearing could lead to \u201cfishing expeditions.\u201d\nNone of appellant\u2019s bare assertions establish facts entitling him to a new trial. For instance, he provided no support for his allegation that his conviction was contrary to law. The motion and affidavit explain neither who threatened Birn-baum nor what Birnbaum\u2019s testimony would have been. These allegations were insufficient to allow the trial court to determine whether Birnbaum\u2019s testimony would have been material to any issue in the case. Appellant also failed to explain what right he had to pass notes to other inmates in the jail or what material defensive information was intercepted. Further, appellant\u2019s allegation that the jury was fond of the bailiff does not establish improper influence. Finally, appellant did not allege what further investigation counsel should have conducted, who his alleged alibi witness was, or how an alibi defense could have been persuasive given the physical evidence and appellant\u2019s own statements connecting him with the crime. We hold, therefore, that appellant has failed to establish that the trial court erred in refusing to hold a hearing. Appellant\u2019s eighth point of error is overruled.\nFinding no reversible error, we affirm the judgment of the trial court.\n. Tex.Penal Code Ann. \u00a7 19.03(a)(2).\n. Texas Code of Criminal Procedure article 37.071 \u00a7\u00a7 2(b) and 2(e). Unless otherwise indicated, all future references to Articles refer to the Code of Criminal Procedure.\n. Art. 37.071 \u00a7 2(g).\n. Art. 37.071 \u00a7 2(h).\n. This area is referred throughout the record as the \"fight scene\u201d or \"scuffle scene.\u201d\n. Chemical analysis revealed a substance on the victim's shirts and cap consistent with black spray paint.\n. The probability that an African-American\u2019s DNA would match the DNA on the various items tested in this case ranged from one in 5,700 to one in 300,000.\n. The FBI analyst could not determine from the print the exact size of the sandal.\n. Although Shawn Berry\u2019s brother, Lewis Berry, stayed at the apartment from time to time and shares the same initials as Lawrence Brewer, Lewis Berry testified that the shoes were not his and demonstrated that his foot was significantly larger than Brewer's.\n. The FBI forensic examiner explained that a minor contributor deposits less DNA than a major contributor. This occurs, for instance, when another person takes a \u201cdrag\u201d off of a cigarette.\n. A cult expert testified at trial that \"woodpecker\u201d or \"peckerwood\u201d is the term used in prison for whites.\n. Appellant\u2019s drawings depicted similar scenes. One drawing depicted three Klans-men riding horses with a noose hanging from a saddle. Another drawing depicted a white man in a KECK robe, along with a black man, woman and baby kneeling, and a black man hanging.\n. A prison guard intercepted and copied appellant\u2019s note, which had been transmitted through other inmates.\n. The head, neck, and arm were apparently severed by the force of hitting the culvert.\n. Johnson v. State, 967 S.W.2d 410, 412 (Tex.Crim.App.1998); Wilson v. State, 863 S.W.2d 59, 65 (Tex.Crim.App.1993).\n. See TexTenal Code \u00a7 19.03(a)(2).\n. Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 61 L:Ed.2d 560 (1979).\n. TexPenal Code \u00a7 20.03(a).\n. TexPenal Code \u00a7 20.01 (2)(B).\n. TexPenal Code \u00a7 20.01(1)(A); see also Santellan v. State, 939 S.W.2d 155, 162 (Tex.Crim.App.1997).\n. The evidence reveals that Byrd\u2019s body was severed about a mile and a half down the logging and asphalt roads, resulting in death, but that his torso was dragged another mile and a half before it was deposited in front of the church.\n. Johnson v. State, 23 S.W.3d 1, 11 (Tex. Crim.App. Feb.9, 2000) (adopting complete civil factual sufficiency formulation); see also Clewis v. State, 922 S.W.2d 126, 131 (Tex.Crim.App.1996).\n. Johnson, at 12.\n. Santellan v. State, 939 S.W.2d 155, 164 (Tex.Crim.App.1997).\n. Santellan, 939 S.W.2d at 165; Clewis v. State, 922 S.W.2d at 135.\n. The court\u2019s parties charge was as follows:\nA person is criminally responsible as a party to an offense if the offense is committed by his own conduct, or by the conduct of another for which he is criminally responsible, or both. Each party to an offense may be charged with and convicted of the commission of the offense.\nA person is criminally responsible for an offense committed by the conduct of another if acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense.\nMere presence alone at the scene of the alleged offense, if any, will not constitute one a party to an offense.\n. Ransom v. State, 920 S.W.2d 288, 302 (Tex.Crim.App.1996)(opinion on rehearing).\n. Id.; Cordova v. State, 698 S.W.2d 107, 111 (Tex.Crim.App.1985).\n. Although Shawn Berry owned similar sandals, witnesses testified that Berry was wearing his boots on the night of the offense.\n. Lewis Berry also testified that appellant had lost his \"Possum\u201d lighter earlier in the week, but Brewer had found and returned it to him before the murder.\n. See Kutzner v. State, 994 S.W.2d 180, 184 (Tex.Crim.App.1999).\n. Johnson at 12.\n. The substance of counsel\u2019s motion is as follows:\nDefendant is uncooperative and on numerous occasions has refused to talk with his counsels. Defendant has refused to aid and/or cooperate with counsels in the defense of this cause. Defendant refuses to follow counsel\u2019s advice, including the granting of interviews making statements concerning the case. Accordingly, Counsels have an irreconcilable conflict of interest with the defendant which requires their withdrawal from the case.\nCo-counsel Brack Jones, Jr. joined in the motion.\n. Appellant\u2019s failure to cooperate was evidenced by his refusal to leave his cell to attend a July 6, 1999, hearing to disqualify the judge.\n. Green v. State, 840 S.W.2d 394, 408 (Tex.Crim.App.1992) (citing Brewer v. State, 649 S.W.2d 628, 631 (Tex.Crim.App.1983)), cert. denied, 507 U.S. 1020, 113 S.Ct. 1819, 123 L.Ed.2d 449 (1993).\n. Green, 840 S.W.2d at 408.\n. See Solis v. State, 792 S.W.2d 95, 100 (Tex.Crim.App.1990).\n. See id.\n. See Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) (both deficiency and prejudice must be shown to establish constitutionally ineffective assistance of counsel).\n. See Wainmight v. Witt, 469 U.S. 412, 105 S.Ct. 844, 83 L.Ed.2d 841 (1985).\n. Id.; Adams v. Texas, 448 U.S. 38, 100 S.Ct. 2521, 65 L.Ed.2d 581 (1980); Rachal v. State, 917 S.W.2d 799, 810 (Tex.Crim.App.1996), cert. denied, 519 U.S. 1043, 117 S.Ct. 614, 136 L.Ed.2d 539 (1996).\n. Witt, 469 U.S. at 429, 105 S.Ct. 844, 83 L.Ed.2d 841; Colburn v. State, 966 S.W.2d 511, 517 (Tex.Crim.App.1998); Chambers v. State, 866 S.W.2d 9, 22 (Tex.Crim.App.1993), cert. denied, 511 U.S. 1100, 114 S.Ct. 1871, 128 L.Ed.2d 491 (1994).\n. Chambers, supra.\n. Colburn, supra.\n. Reyes v. State, 849 S.W.2d 812, 816 (Tex.Crim.App.1993).\n. Id.\n. Id.\n.See Jordan v. State, 883 S.W.2d 664, 665 (Tex.Crim.App.1994) (holding that trial court did not abuse its discretion in refusing to hold a hearing on a motion for new trial, where the affidavit, alleging ineffective assistance of counsel, was deficient for failing to specify supporting facts).",
+        "type": "majority",
+        "author": "KELLER, J.,"
+      }
+    ],
+    "attorneys": [
+      "David A. Schulman, Austin, for appellant.",
+      "Sue Korioth, Special Pros., Dallas, Matthew Paul, State\u2019s Atty., Austin, for the State."
+    ],
+    "corrections": "",
+    "head_matter": "John William KING, Appellant, v. The STATE of Texas.\nNo. 73,433.\nCourt of Criminal Appeals of Texas, En Banc.\nOct. 18, 2000.\nDavid A. Schulman, Austin, for appellant.\nSue Korioth, Special Pros., Dallas, Matthew Paul, State\u2019s Atty., Austin, for the State."
+  },
+  "file_name": "0556-01",
+  "first_page_order": 576,
+  "last_page_order": 589
+}

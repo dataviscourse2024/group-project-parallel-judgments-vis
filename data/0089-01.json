@@ -1,0 +1,803 @@
+{
+  "id": 9310182,
+  "name": "Larry Ray SWEARINGEN, Appellant, v. The STATE of Texas",
+  "name_abbreviation": "Swearingen v. State",
+  "decision_date": "2003-03-26",
+  "docket_number": "No. 73,851",
+  "first_page": "89",
+  "last_page": "107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "101 S.W.3d 89"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Tex. Crim. App.",
+    "id": 8990,
+    "name": "Texas Court of Criminal Appeals"
+  },
+  "jurisdiction": {
+    "id": 32,
+    "name_long": "Texas",
+    "name": "Tex."
+  },
+  "cites_to": [
+    {
+      "cite": "918 S.W.2d 466",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10016824
+      ],
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/918/0466-01"
+      ]
+    },
+    {
+      "cite": "939 S.W.2d 607",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10023150
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "616"
+        },
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/939/0607-01"
+      ]
+    },
+    {
+      "cite": "913 S.W.2d 542",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10015512
+      ],
+      "pin_cites": [
+        {
+          "page": "558"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/913/0542-01"
+      ]
+    },
+    {
+      "cite": "933 S.W.2d 141",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10001931
+      ],
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/933/0141-01"
+      ]
+    },
+    {
+      "cite": "724 S.W.2d 780",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11298904
+      ],
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/724/0780-01"
+      ]
+    },
+    {
+      "cite": "906 S.W.2d 500",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10010787
+      ],
+      "pin_cites": [
+        {
+          "page": "511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/906/0500-01"
+      ]
+    },
+    {
+      "cite": "917 S.W.2d 799",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10020665
+      ],
+      "pin_cites": [
+        {
+          "page": "814"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/917/0799-01"
+      ]
+    },
+    {
+      "cite": "887 S.W.2d 846",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10021376
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "854"
+        },
+        {
+          "page": "854"
+        },
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/887/0846-01"
+      ]
+    },
+    {
+      "cite": "942 S.W.2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11912742
+      ],
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/942/0602-01"
+      ]
+    },
+    {
+      "cite": "910 S.W.2d 490",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10009714
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "493"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/910/0490-01"
+      ]
+    },
+    {
+      "cite": "903 S.W.2d 715",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10016733
+      ],
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/903/0715-01"
+      ]
+    },
+    {
+      "cite": "66 S.W.3d 283",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        9392771
+      ],
+      "pin_cites": [
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/66/0283-01"
+      ]
+    },
+    {
+      "cite": "23 S.W.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        11198841
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "11"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/23/0001-01"
+      ]
+    },
+    {
+      "cite": "905 S.W.2d 570",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10015594
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/905/0570-01"
+      ]
+    },
+    {
+      "cite": "122 L.Ed.2d 791",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 S.Ct. 1422",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "507 U.S. 975",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6426849,
+        6426626,
+        6426407,
+        6425929,
+        6426729,
+        6425739,
+        6426025,
+        6425833,
+        6425520,
+        6426515,
+        6426230,
+        6426134,
+        6426966,
+        6425625
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0975-13",
+        "/us/507/0975-11",
+        "/us/507/0975-09",
+        "/us/507/0975-05",
+        "/us/507/0975-12",
+        "/us/507/0975-03",
+        "/us/507/0975-06",
+        "/us/507/0975-04",
+        "/us/507/0975-01",
+        "/us/507/0975-10",
+        "/us/507/0975-08",
+        "/us/507/0975-07",
+        "/us/507/0975-14",
+        "/us/507/0975-02"
+      ]
+    },
+    {
+      "cite": "840 S.W.2d 415",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10000607
+      ],
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/840/0415-01"
+      ]
+    },
+    {
+      "cite": "847 S.W.2d 555",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10008734
+      ],
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/847/0555-01"
+      ]
+    },
+    {
+      "cite": "3 S.W.3d 547",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        11557923
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "557"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/3/0547-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "Tex. Penal Code Ann. \u00a7 19.03",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 L.Ed.2d 1023",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 1
+    },
+    {
+      "cite": "111 S.Ct. 2856",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 1
+    },
+    {
+      "cite": "501 U.S. 1232",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107937,
+        1107938,
+        1107652,
+        1108008,
+        1108040,
+        1107693,
+        1108207,
+        1108496,
+        1107793,
+        1108433,
+        1107665,
+        1107671,
+        1107674,
+        1108156
+      ],
+      "year": 1991,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/501/1232-12",
+        "/us/501/1232-14",
+        "/us/501/1232-13",
+        "/us/501/1232-04",
+        "/us/501/1232-03",
+        "/us/501/1232-01",
+        "/us/501/1232-02",
+        "/us/501/1232-05",
+        "/us/501/1232-10",
+        "/us/501/1232-11",
+        "/us/501/1232-08",
+        "/us/501/1232-09",
+        "/us/501/1232-07",
+        "/us/501/1232-06"
+      ]
+    },
+    {
+      "cite": "808 S.W.2d 65",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        9971237
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/808/0065-01"
+      ]
+    },
+    {
+      "cite": "2002 WL 31839153",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "73,987",
+          "parenthetical": "Holcomb, J. Majority Op."
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "145 L.Ed.2d 300",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "120 S.Ct. 384",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1999,
+      "opinion_index": 1
+    },
+    {
+      "cite": "528 U.S. 956",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9542370,
+        9542019,
+        9542630,
+        9542472,
+        9542280,
+        9542699,
+        9541869,
+        9542319,
+        9542067,
+        9542419,
+        9542549,
+        9542775,
+        9542201,
+        9541947,
+        9542143
+      ],
+      "year": 1999,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/528/0956-09",
+        "/us/528/0956-03",
+        "/us/528/0956-13",
+        "/us/528/0956-11",
+        "/us/528/0956-07",
+        "/us/528/0956-14",
+        "/us/528/0956-01",
+        "/us/528/0956-08",
+        "/us/528/0956-04",
+        "/us/528/0956-10",
+        "/us/528/0956-12",
+        "/us/528/0956-15",
+        "/us/528/0956-06",
+        "/us/528/0956-02",
+        "/us/528/0956-05"
+      ]
+    },
+    {
+      "cite": "990 S.W.2d 278",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11618461
+      ],
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/990/0278-01"
+      ]
+    },
+    {
+      "cite": "125 L.Ed.2d 731",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 1
+    },
+    {
+      "cite": "113 S.Ct. 3047",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 1
+    },
+    {
+      "cite": "509 U.S. 926",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        355841,
+        355940,
+        355848,
+        355976,
+        355915,
+        355534,
+        355950,
+        355953,
+        355986,
+        355923,
+        355732,
+        355701,
+        355832,
+        355705,
+        355770
+      ],
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/509/0926-15",
+        "/us/509/0926-14",
+        "/us/509/0926-11",
+        "/us/509/0926-08",
+        "/us/509/0926-05",
+        "/us/509/0926-12",
+        "/us/509/0926-01",
+        "/us/509/0926-09",
+        "/us/509/0926-10",
+        "/us/509/0926-07",
+        "/us/509/0926-03",
+        "/us/509/0926-04",
+        "/us/509/0926-06",
+        "/us/509/0926-13",
+        "/us/509/0926-02"
+      ]
+    },
+    {
+      "cite": "457 U.S. 31",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183987
+      ],
+      "weight": 6,
+      "year": 1982,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/457/0031-01"
+      ]
+    },
+    {
+      "cite": "922 S.W.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10005134
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "133"
+        },
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/922/0126-01"
+      ]
+    },
+    {
+      "cite": "939 S.W.2d 155",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10016350
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "164"
+        },
+        {
+          "page": "164"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/939/0155-01"
+      ]
+    },
+    {
+      "cite": "66 S.W.3d 283",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        9392771
+      ],
+      "pin_cites": [
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw3d/66/0283-01"
+      ]
+    },
+    {
+      "cite": "23 S.W.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        11198841
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "11"
+        },
+        {
+          "page": "7"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw3d/23/0001-01"
+      ]
+    },
+    {
+      "cite": "847 S.W.2d 555",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10008734
+      ],
+      "pin_cites": [
+        {
+          "page": "558-59"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sw2d/847/0555-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 307",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182418
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/443/0307-01"
+      ]
+    },
+    {
+      "cite": "Tex. Penal Code Ann. \u00a7 19.03",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1778,
+    "char_count": 55210,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 9.84736708468447e-07,
+      "percentile": 0.9822084221898651
+    },
+    "sha256": "75d458880b2bbf67f9ee0392324d4070ad76aff7a1ff139263973b17f829031b",
+    "simhash": "1:a72cb8b05a0f0d4c",
+    "word_count": 9196
+  },
+  "last_updated": "2024-02-27T17:21:00.869183+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "in which KELLER, P.J., and MEYERS, KEASLER, HERVEY and COCHRAN, JJ., joined.",
+      "WOMACK, J., concurred in the result.",
+      "JOHNSON, J., filed a dissenting opinion in which PRICE, J., joined."
+    ],
+    "parties": [
+      "Larry Ray SWEARINGEN, Appellant, v. The STATE of Texas."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nHOLCOMB, J.,\ndelivered the opinion of the Court,\nin which KELLER, P.J., and MEYERS, KEASLER, HERVEY and COCHRAN, JJ., joined.\nLarry Ray Swearingen appeals his conviction of capital murder for which he was sentenced to death. Tex. Penal Code Ann. \u00a7 19.03(a)(2); Tex.Code Crim. Pro. Article 37.071, \u00a7\u00a7 2(b), 2(e), 2(g), 2(h). Swearin-gen was convicted for murdering Melissa Trotter by ligature strangulation in the course of committing or attempting to commit kidnapping or aggravated sexual assault. Swearingen raises twenty-four points of error. We will affirm.\nI. Points of Error Relating to Eviden-tiary Sufficiency\nIn his first four points of error, Swearin-gen asserts that the evidence adduced at trial was legally and factually insufficient to prove, beyond a reasonable doubt, the aggravating elements of the capital offense alternatively alleged by the State, that he intentionally caused Trotter\u2019s death while in the course of committing or attempting to commit kidnapping or aggravated sexual assault. Swearingen does not contend that the evidence was insufficient to prove, beyond a reasonable doubt, that he intentionally murdered Trotter.\nThe evidence, viewed in the light most favorable to the State, shows that Swearin-gen became acquainted with Trotter on Sunday, December 6,1998, talked with her at length, got her phone number, and made plans to see or talk with her again the next day. The next day, she failed to show up for lunch after Swearingen had bragged to his coworkers about his plans to have lunch with Trotter. His coworkers teased him about being stood up even after he had told them that he called Trotter and she said that she had been taking a test. Swearingen appeared to be angry the remainder of the day.\nLater that evening, while using his truck to help transport some furniture, Swearin-gen commented to Bryan Foster and William Brown that he was going to meet a young lady named Melissa for lunch the next day, and if everything went right, he was going \u201cto have Melissa for lunch.\u201d Brown noticed various items of clothing in the backseat of Swearingen\u2019s truck. Swearingen called Trotter from Foster\u2019s house and talked about meeting for lunch and helping her study for an exam.\nOn Tuesday, December 8, Swearingen met Trotter in the college library around 1:80 p.m., after Trotter had purchased some tater-tots from the school cafeteria. After sitting by the computers and talking amicably with Swearingen for some amount of time, Trotter left the library with Swearingen around 2 p.m. Trotter\u2019s vehicle remained in the college parking lot.\nAt 2:05 p.m., Swearingen returned a page he received and said he would have to call back later because he was at lunch with a Mend.\nSwearingen returned to his trailer sometime before 3:30 p.m. and left between 2:00 p.m. and 3:30 p.m., then returned again to the trailer sometime before 5:30 p.m., asked his landlord some questions, then left again between 4:30 p.m. and 5:30 p.m., to pick up his wife, Terry Swearingen, from his mother\u2019s house. His neighbor, seeing Swearingen\u2019s truck come and go, was not able to see through the tinted windows or see who got in and out of the truck.\nWhen Swearingen and his wife returned home, a package of Marlboro Light cigarettes and a red lighter were on top of the television. The evidence showed that Trotter smoked Marlboro Lights and that neither appellant or his wife smoked.\nThat evening, Swearingen called Phyllis Morrison, a former girlMend, and told her that he was in trouble and the police might be after him.\nOn December 11, Swearingen was arrested pursuant to several outstanding warrants, and while being handcuffed, said that his wrist and ribs were sore from a bar fight he had been in the week before.\nTrotter\u2019s body was found in the Sam Houston National Forest on January 2, 1999, with a piece of hosiery still tied, as a ligature, around her neck. The state of the body\u2019s decomposition was consistent with having been in the woods approximately 25 days, supporting December 8 as the date of death. The location where Trotter\u2019s body was found was heavily wooded, secluded, and remote. The police had previously searched the area three times without finding the body. One had to be within twenty feet of the body before seeing it. Swearingen knew his way around this area; he had driven a date around the vicinity a few months earlier in his red pickup.\nTrotter\u2019s body was on its back in a pile of bushes, her right arm was above her head and slightly to the left. Her top and bra were pulled up under her arms, exposing her breasts and back. There were creases on her back from her neck to her waist that could have been caused by laying on the debris in the bushes for a period of time after she had died. Her jeans were on and the fly was closed, but the right rear pocket was torn downwards exposing part of her buttocks. She was wearing red underwear. There were no scratches found on her exposed skin as one would expect to find if she had been dragged to the location. However, there was no soil on Trotter\u2019s shoes. She had only one shoe on; the other shoe was lying nearby.\nTrotter died from asphyxia, lack of oxygen, by ligature strangulation. The nylon ligature was a section cut from a pair of pantyhose; the matching complementary portion of the pantyhose was found in Swearingen\u2019s trailer. There also appeared to be a sharp-forced injury on Trotter\u2019s neck that would have been inflicted before Trotter died, while her blood continued to circulate. Although there was subsequent animal activity and tooth marks on the neck organs at that area, a cut with a sharp object, like a knife, could not be ruled out.\nThe lack of defensive wounds, such as broken fingernails, and the difficulty of tying an elastic piece of nylon around a struggling victim, suggested that Trotter may have been unconscious when the ligature was applied. Although the state of decomposition made it difficult to determine, the left side of Trotter\u2019s face was much darker and at a more advanced stage of decomposition, which could be consistent with having sustained a bruise on the left side of her face. Evidence showed that animals are drawn to blood and a bruise would collect blood close to the skin\u2019s surface. There was also a deep bruise on Trotter\u2019s tongue, like a bite or a cut, consistent both with being struck under the chin, which would push the lower jaw up onto the tongue, and with biting down on the tongue while being strangled or suffering a seizure. There was also discoloration on Trotter\u2019s vaginal wall, a bruise that could have been caused by sexual intercourse on the day of her disappearance.\nThere were fibers found on Trotter similar to fibers from Swearingen\u2019s jacket, others similar to the seat and head-liner in Swearingen\u2019s truck, and others similar to the carpet in Swearingen\u2019s master bedroom. There were also fibers found in Swearingen\u2019s truck that were similar to fibers from Trotter\u2019s jacket. There were hairs in Swearingen\u2019s truck that appeared to have been forcibly removed from Trotter\u2019s head.\nAn internal examination revealed that Trotter\u2019s stomach contained not only what appeared to be a form of potato, but also what appeared to be chicken and a small amount of greenish vegetable material.\nWhile in jail awaiting trial, Swearingen sent a letter to his mother that the evidence showed Swearingen had written, with the help of an English-Spanish dictionary and had his cellmate copy. The letter stated it was written by a girl named Robin who could identify Trotter\u2019s murderer as someone other than Swearingen and who knew the details of the murder. The translation of the letter is as follows:\nLarry\nI have information that I need to tell you about Melissa and Wanda. I was with the murderer of Melissa, and with the one that took Wanda from work. I am not sure what he did with Wanda, but I saw everything that happened to Melissa. He was talking to her in the parking lot. They went to school together is what he told me. \u201cWe drove for awhile, and then we went and had breakfast. I began to talk about sex when she said she had to go home.\u201d He hit her in the left eye, and she fell to the floor of her car. He took her to the wood and began to choke her with his hands at first, then he jerked (jalar is slang) her to the bushes. He cut her throat to make sure that she was dead. Her shoe came off when he jerked (slang) her into the bushes. Her jabear (cannot make out/ no such word in Spanish) was torn. I am in love with him, and I don\u2019t want him in jail. The man in jail doesn\u2019t deserve to be in jail, either. To make sure that you know, I am telling you the truth. She was wearing red panties when R.D. murdered her. He choked her with his hands first, but he used A piece of rope the truck from his truck; he had a piece of black rope that he used in his boat to anchor it, or something, he said. When he dragged her from the car, he put her in the shrub on her back. I know that I should turn him in, but he told me that he would kill me, too, and I believe him. He has told about this murder to 3 other women in the past, will tell you that he smokes, and he smoked with her at the college at 2:30 and drove a blue truck. His hair is blonde and brown and lives here. His name is Ronnie, but that is all I can tell, if you want more information, say it on paper and I will continue to write, but I want to come in.\nRobin\nWe turn first to the question of legal sufficiency. The Fourteenth Amendment\u2019s guarantee of due process of law prohibits a criminal defendant from being convicted of an offense and denied his liberty except upon proof sufficient to persuade a rational fact finder of guilt beyond a reasonable doubt. In assessing the legal sufficiency of the evidence to support a conviction, we consider all the record evidence in the light most favorable to the jury\u2019s verdict and determine whether, based on that evidence and reasonable inferences therefrom, a rational jury could have found the accused guilty of all of the elements of the offense beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979); Ladd v. State, 3 S.W.3d 547, 557 (Tex.Crim.App.1999). Furthermore, when the trial court\u2019s charge authorizes the jury to convict on several different theories, as it did in this case, the verdict of guilty will be upheld if the evidence is sufficient on any one of the theories. Rabbani v. State, 847 S.W.2d 555, 558-59 (Tex.Crim.App.1992). If, given all of the evidence, a rational jury would necessarily entertain a reasonable doubt as to the defendant\u2019s guilt, the due process guarantee requires that we reverse and order a judgment of acquittal. Narvaiz v. State, 840 S.W.2d 415, 423 (Tex.Crim.App.1992), cert. denied, 507 U.S. 975, 113 S.Ct. 1422, 122 L.Ed.2d 791 (1993).\nA person commits the offense of capital murder by intentionally causing the death of an individual in the course of committing or attempting to commit kidnapping or aggravated sexual assault. Tex. Pen. Code \u00a7 19.03(a)(2).\nA person commits the offense of kidnapping by intentionally or knowingly restricting a person\u2019s movements, by either moving the person from one place to another or confining the person, without consent, i.e., by force, intimidation or coercion, so as to substantially interfere with the person\u2019s liberty, and by doing so with the intent to prevent the person\u2019s liberation by either secreting or holding him in a place where he is not likely to be found or using or threatening to use deadly force, force intended or known by the person acting to cause, or in the manner of its use or intended use is capable of causing death or serious bodily injury. Tex. Penal Code \u00a7\u00a7 20.01(1)(A),(2)(A) & (B), 20.03(a).\nThe offense of kidnapping is complete when the restraint is accomplished and there is evidence that the defendant intended to restrain the victim by either secretion or the use or threat to use deadly force. Mason v. State, 905 S.W.2d 570 (Tex.Crim.App.1995).\nA person commits aggravated sexual assault if the person (1) intentionally or knowingly, (2) causes the penetration of the anus or female sexual organ of another by any means or causes the penetration of the mouth of another by the sexual organ of the actor, (3) compels the other person to submit or participate in such penetration by the use of physical force or violence or without prior consent from the other person and knowing the other person is unconscious or physically unable to resist and (4) attempts to cause the death of the victim or uses or exhibits a deadly weapon in the course of the same criminal episode. Tex. Penal Code \u00a7 22.021(a)(2)(C)(Vernon Supp.1998). A person commits the offense of attempted aggravated sexual assault if, with specific intent to commit aggravated sexual assault, he does an act amounting to more than mere preparation that tends but fails to effect the commission of the aggravated sexual assault. Tex. Pen.Code \u00a7 15.01(a).\nBased on the circumstantial evidence presented at trial, a rational jury could have concluded that: Trotter left the college with Swearingen in his truck. After she ate some chicken and green vegetables, he made sexual advances which she rejected. This rejection upset him and he hit her on the left side of her face. Then, through the use of the force or intimidation created by having hit her, he restrained her and substantially interfered with her liberty by confining her in his truck while moving her to the forest without her consent and that he did so with the intent to prevent her liberation by either secreting her in a place where she was not likely to be found or by using or threatening to use deadly force.\nA rational jury could also have concluded that at some point during the restraint, knowing that Trotter was unconscious or physically unable to resist, Swearingen intentionally committed acts in furtherance of his intent to have sexual relations with her, such as pulling up her bra and possibly penetrating her vagina. A rational jury could conclude that Swearingen compelled Trotter to submit or participate in such action by the use of physical force and without Trotter\u2019s consent, as indicated by Trotter\u2019s statement that she needed to go home when the conversation turned to sex. A rational jury could then find that Swearingen did attempt to, and succeeded in causing Trotter\u2019s death in the course of the same criminal episode.\nSwearingen contends that the circumstantial evidence is insufficient to support several necessary inferences: 1) the existence and timing of Swearingen\u2019s intent to kidnap or sexually assault Trotter. 2) The accomplished or attempted restraint. 3) The accomplished or attempted sexual assault. 4) Trotter\u2019s lack of consent to either. Swearingen focuses on the multitude of possible scenarios that could have occurred between the time he and Trotter left the college together and the time Swearingen placed Trotter\u2019s body in the bushes. Swearingen\u2019s suggested scenarios, he argues, would be equally consistent with the evidence.\nBased on the circumstantial evidence and the multitude of possible scenarios suggested by the physical evidence, a rational jury could have entertained a reasonable doubt regarding Swearingen\u2019s guilt. The question, however, is whether a rational jury would have necessarily entertained a reasonable doubt regarding the aggravating elements of the offense.\nEach piece of evidence supporting the findings of kidnapping or sexual assault might appear weak and tentative when viewed in isolation, even in the light most favorable to the verdict. The forensic evidence was inconclusive, and in many cases the expert witnesses could not conclude that one explanation was more likely than not. But they also could not rule out certain possibilities, such as the existence of a bruise or a knife wound, or that Trotter was unconscious when the ligature was applied.\nSwearingen\u2019s letter was not a confession or testimony presented by the defendant as the truth, which the jury could believe or disbelieve based on their evaluation of his credibility. Instead, it was shown to be a fabrication created by Swearingen. It contained some information contrary to the remainder of the evidence, such as the description of another man and another vehicle involved. It contained other information consistent with undisputed facts such as the cause of death, the location of the body, and the color of Trotter\u2019s underwear. It also contained some information that could have been truth or fiction, such as the statement that she said she had to go home when he began to talk about sex, that he hit her, that it was after he hit her that he took her to the woods, and that it was there that he began to choke her. The jury\u2019s determinations regarding the veracity of such information was supported by the jury\u2019s determinations regarding other evidence, such as the food found in Trotter\u2019s stomach, the advanced decomposition of the left side of her face, and Swearingen\u2019s earlier comments regarding his intent to have sex with Trotter. Thus supported, the letter provided a time line with which to place the physical evidence into context and an explanation for how the criminal episode began.\nAlthough Swearingen\u2019s letter did not specifically detail any of his acts in furtherance of committing aggravated sexual assault, it did support the hypothesis that Trotter\u2019s rejection of his sexual advances began the cycle of violence that led to her death. It is a rational inference, supported by forensic evidence, such as Trotter\u2019s exposed torso and bruised vagina, that Swearingen attempted to carry out his intent after he had rendered the initial blow and before he performed the final act of stabbing her in the throat \u201cto make sure that she was dead,\u201d as he wrote in his letter.\nWhile each piece of evidence lacked strength in isolation, the consistency of the evidence and the reasonable inferences drawn therefrom, provide the girders to strengthen the evidence and support a rational jury\u2019s finding the elements beyond a reasonable doubt. We cannot say, looking at the totality of the evidence, that the evidence was so obviously weak that a rational jury would have necessarily entertained a reasonable doubt that appellant intended to have sexual intercourse with Trotter and that he attempted to do so despite her desire \u201cto go home\u201d when he started to talk about sex, or that he intended to restrain Trotter without her consent and did so by moving her to a place where she was not likely to be found and continuing to confine her by using what turned out to be deadly force.\nIf the jury concluded that Swearingen hit Trotter for rejecting his sexual advances before driving her to the forest, the inferences about which Swearingen complains fall into place. The scenario that Swearingen killed Melissa Trotter in the course of kidnapping her in order to sexually assault her after she rejected his sexual advances is supported by the evidence, thus, the evidence is legally sufficient to support the verdict. Points of error one and three are overruled.\nWe turn next to the question of factual sufficiency. Our state constitution requires an appellate court to reverse a judgment of conviction if the proof of guilt is so obviously weak as to undermine confidence in the jury\u2019s determination, or the proof of guilt, although adequate if taken alone, is greatly outweighed by the contrary proof. Johnson v. State, 23 S.W.3d 1, 11 (Tex.Crim.App.2000). Although authorized to disagree with the jury\u2019s determination even if probative evidence exists which supports the verdict, a reviewing court must give due deference to the fact finder\u2019s determinations concerning the weight and credibility of the evidence and will reverse the fact finder\u2019s determination only to arrest the occurrence of a manifest injustice. Id. In assessing the factual sufficiency of the evidence to support a conviction we consider all the evidence in a neutral light. Ladd v. State, 3 S.W.3d 547 (Tex.Crim.App.1999). If we find the evidence to be factually insufficient, we must remand for a new trial, so that a second jury will have a chance to evaluate the evidence.\nThe only significant independent evidence contrary to the verdict is the testimony of Swearingen explaining that he left Trotter at the college, while she was talking to another man, and went to see his grandmother, and his grandmother\u2019s testimony that Swearingen picked her up and took her to the post office around 2:30 p.m. on December 8,1998 and left her around 2:50 p.m. The State on cross-examination, called into question his grandmother\u2019s memory of the date and time and also the credibility of her statement as she had not informed the authorities of her knowledge of Swearingen\u2019s whereabouts while he languished in jail awaiting trial. The jury could have reasonably disbelieved both witnesses\u2019 testimony. We must defer to the jury\u2019s judgment of the witnesses\u2019 credibility.\nOther evidence tending to disprove or dispute guilt consists of testimony that the forensic evidence would also be consistent with other theories. For example, there was testimony that Trotter\u2019s shirt could have been pulled up in the process of dragging her body to the bushes. However, there was also testimony that no scratches were found on the body as would be expected if exposed skin were pulled across debris on the ground. There was testimony that the creases on her back could have been produced by laying on her clothing for a period of time after she had died, indicating that her top was pulled up post-mortem, but there was other testimony that the creases on her back could have been produced by her bare back laying on the debris from the time she died. There was also testimony that the vaginal discoloration could have been caused by an infection that her medical records indicated she had suffered.\nViewed in a neutral light, even given the relative weakness of each individual piece of evidence tending to prove guilt, the corroboration between the forensic evidence and the rendition of the episode in Swearingen\u2019s letter is sufficiently strong that we cannot say that the proof of guilt is so obviously weak as to undermine our confidence in the jury\u2019s determination or that the evidence tending to disprove or dispute guilt greatly preponderates against the jury\u2019s finding of guilt. See Johnson, 23 S.W.3d at 11; see also Goodman v. State, 66 S.W.3d 283, 285-86 (Tex.Crim.App.2001). The evidence is therefore factually sufficient to support the verdict.\nPoints of error two and four are overruled.\nII. Jury Selection \u2014 Challenges for Cause\nIn points of error five through seven, Swearingen contends the trial court erred in denying his challenges for cause against certain venirepersons. Swearin-gen challenged venirepersons Jeffrey Holder, Doreen Sipe, and Wayne Lightfoot on the basis of bias or prejudice, arguing that each had a bias against the law applicable to the case upon which Swearingen was entitled to rely, namely: Swearingen\u2019s presumption of innocence. Swearingen exercised a peremptory strike against each of these venirepersons. He requested and received two additional peremptory strikes, but was denied a third additional peremptory strike. Connie Taylor, a veni-reperson to whom Swearingen objected, was seated on the jury. To demonstrate harm, Swearingen must show that the challenges for cause against all three of the venirepersons about whom he complains were erroneously denied. See Penny v. State, 903 S.W.2d 715, 732 (Tex.Crim.App.1995).\nWe review the trial court\u2019s action denying Swearingen\u2019s challenges for cause for abuse of discretion. Curry v. State, 910 S.W.2d 490, 493 (Tex.Crim.App. 1995). For challenges based on a venire-member\u2019s alleged bias against the law, \u201cwe must determine whether the venire-member\u2019s beliefs would prevent or substantially impair him from following the law as set out in the trial court\u2019s instructions and as required by the juror\u2019s oath.\u201d Lagrone v. State, 942 S.W.2d 602, 616 (Tex.Crim.App.1997). We review the trial court\u2019s decision in light of the venireper-son\u2019s voir dire as a whole. When the record does not contain a clearly objectionable declaration by the venireperson, or the record demonstrates a vacillating or equivocal venireperson, we accord great deference to the trial judge who had the better opportunity to see and hear the person. Garcia v. State, 887 S.W.2d 846, 854 (Tex.Crim.App.1994); Rachal v. State, 917 S.W.2d 799, 814 (Tex.Crim.App.1996); Heiselbetz v. State, 906 S.W.2d 500, 511 (Tex.Crim. App.1995).\nJeffery Hollier testified that he suspected the defendant was \u201chere for some reason,\u201d and that he had \u201ca slight bias against the defendant\u201d based on information he\u2019d read in the media and the fact that he had daughters, but that he had not formed the opinion that Swearingen was guilty and he understood and agreed with the presumption of innocence. The court asked whether Holder could set aside any preconceptions he might have, and Hollier responded, in part, \u201cthat that bias certainly will not prevent me from being open-minded and seeing whatever the evidence is and forming what I think is the correct analysis of it.\u201d Because the juror could lay aside his bias and render a verdict based on the evidence presented in court, the trial court did not err by denying Swearingen\u2019s challenge for cause regarding Hollier. See Bell v. State, 724 S.W.2d 780, 797 (Tex.Crim.App.1986)(venireperson is not subject to a challenge for cause \u201cif the juror can lay aside his impression or opinion and render a verdict based on the evidence presented in court.\u201d)\nDoreen Sipe\u2019s daughter had been sexually molested and her husband had been abusive and was sent to the penitentiary for assault to a peace officer. She repeatedly testified that she was able to separate her own experience from the case at hand. She had not formed any preconceived notions regarding Swearingen\u2019s guilt or innocence. And, despite the similarity of the charges and the fact that the victim was someone\u2019s daughter, she would base her opinions strictly on the evidence presented in the case. Sipe\u2019s testimony does not reflect any bias or prejudice against the presumption of innocence. In fact, when asked if she could give Swearin-gen the benefit of the presumption of innocence on the charges, she answered that she could. The trial court did not err by denying Swearingen\u2019s challenge for cause regarding Sipe. See Garcia, 887 S.W.2d at 854.\nWayne Lightfoot used the term \u201cabducted\u201d when summarizing the information he had read about the case in the newspaper. When asked whether he had concluded, from that information, that she had been abducted, he explained, \u201cI might have used this term a little bit loosely, because what I meant was, I think in reference to where she was last seen there at the Montgomery County College or someone saw her at that point, and I probably shouldn\u2019t have used the term \u2018abducted\u2019 because\u2014.\u201d When asked if he had any bias or prejudice against the defendant he answered that he did not. The record does not reflect that Lightfoot had a bias or prejudice against the defendant that would deprive him of the presumption of innocence. The trial court did not err by denying Swearingen\u2019s challenge for cause regarding Lightfoot. See Garcia, 887 S.W.2d at 854.\nSwearingen\u2019s points of error five through seven are overruled.\nIII. Motion to Suppress \u2014 no probable cause\nIn points of error eight through thirteen, Swearingen asserts the trial court erred in denying his motion to suppress evidence seized pursuant to the search warrants issued on December 15 and 18, 1998, because the supporting affidavits failed to set forth substantial facts establishing probable cause for the warrants. He contends the rulings violated the Fourth, Fifth, Ninth, and Fourteenth Amendments to the United States Constitution, Article I, section 9 of the Texas Constitution, and Texas Code of Criminal Procedure Article 38.23.\nThe State argues that Swearingen had no standing to challenge the search of his truck, as the State introduced evidence that the truck had been stolen, Swearingen had personal knowledge that it was stolen, and Swearingen did not provide any evidence as to why he had a legitimate expectation of privacy in the stolen vehicle. The State also argues that Swearingen failed to preserve any complaint that the affidavit failed to establish probable cause, because his motions to suppress complained only of a lack of probable cause based on untruthful information contained in the affidavits. The State contends that the inaccuracy, being the result of negligence or mistake, need not require that the information be eliminated from the affidavit.\nEven if Swearingen had preserved this error for review, he fails, in his brief, to apply the law to the facts as required under the appellate rules. See Tex.R.App. P. 38.1. Swearingen\u2019s complaint discusses the law prohibiting unreasonable searches and seizures and the law governing suppression hearings and concludes that, as of December 15, 1998, the State could present no evidence that appellant had committed a crime involving Trotter. Thus, according to appellant, the facts submitted to the magistrate were insufficient to justify that the objects of the searches were probably located on the specified premises at the time the warrants were issued. To support the issuance of a warrant, an affidavit must set forth sufficient facts to establish that the object of the search is probably located at the specified place at the time the warrant issued. See Massey v. State, 933 S.W.2d 141, 148 (Tex.Crim.App.1996). The challenged search warrants were for Swearin-gen\u2019s truck, his trailer home, and his parents\u2019 home. Facts that might be sufficient to support a search of one of these places may be insufficient to support a search of another. Swearingen failed to distinguish how the affidavits relate to the various places to be searched. Therefore, he has failed to adequately brief these points and error, if any, on these grounds is waived. See Lawton v. State, 913 S.W.2d 542, 558 (Tex.Crim.App.1995).\nPoints of error eight through thirteen are overruled.\nIV. Motion to Suppress \u2014 confidential communication\nIn points of error fourteen through twenty, Swearingen complains that the trial court erred in denying his motion to suppress evidence seized from his attorney\u2019s office because the evidence was a confidential communication between attorney and client. He asserts the evidence was seized in violation of the Fourth, Sixth, and Fourteenth Amendments to the United States Constitution, Article I, section 9, of the Texas Constitution, Texas Code of Criminal Procedure Articles 18.02(10) and 38.23, and Texas Rule of Evidence 503. The item seized was the letter Swearingen had mailed to his mother that stated, on its face, that it was written by someone named Robin. Swearingen argues the warrant improperly sought to obtain a communication made between appellant and his attorney which was privileged under the rules of evidence and that the evidence was a personal writing of the accused not subject to search and seizure under Article 18.02(10).\nFirst, Swearingen steadfastly asserted he did not author the letter. Additionally, the letter was sent to and handled by several third parties. There was no evidence in the record that appellant intended the communication to be privileged, and, because the purpose of the letter was to perpetrate a fraud, the letter would have been excepted from the attorney-client privilege. See Tex.R. Evid. 508(a)(5),(b)(1). Therefore, the trial court did not err in overruling appellant\u2019s motions to suppress the evidence gained from the search of Swearingen\u2019s attorney\u2019s office. Points of error fourteen through twenty are overruled.\nV. Motion to Suppress \u2014 warrantless search\nFinally, in points of error twenty-one through twenty-four, Swearingen asserts the trial court erred in denying his motion to suppress evidence seized from his residence without a warrant. He claims this seizure violated the Fourth and Fourteenth Amendments to the United States Constitution, Article I, section 9, of the Texas Constitution, and Texas Code of Criminal Procedure Article 38.28.\nRelevant to these points of error, the evidence shows that, after Swearingen\u2019s arrest on December 11, 1998, he and Terry, his wife, agreed to move into his parent\u2019s home. On December 24, 1998, Terry left a note for the landlord that they had to move and she returned both of their keys to the landlord by January 1, 1999. Sergeant Leo Mock went to the trailer on January 6, 1999, to see if anyone still lived there. He found that the landlord and his wife had just cleaned out the trailer in order to rent it to another party. The landlord showed Mock where he had thrown out the trash and Mock recovered a pair of pantyhose with one leg missing.\nAbandonment of property occurs if: (1) the defendant intended to abandon the property, and (2) his decision to abandon the property was not due to police misconduct. McDuff v. State, 939 S.W.2d 607, 616 (Tex.Crim.App.1997); see also Brimage v. State, 918 S.W.2d 466, 507 (Tex.Crim.App.1994). When the police take possession of property that has been abandoned independent of police misconduct, no seizure occurs under the Fourth Amendment. McDuff, 939 S.W.2d at 616. Further, when a defendant voluntarily abandons property, he lacks standing to contest the reasonableness of the search of the abandoned property. Id.\nBecause Swearingen voluntarily abandoned his trailer prior to January 6, 1999, he lacks standing to complain about any search conducted of the trailer or trash removed from the trailer on that date. Points of error twenty-one through twenty-four are overruled.\nTherefore, Swearingen\u2019s conviction for capital murder and his sentence of death are affirmed.\nWOMACK, J., concurred in the result.\nJOHNSON, J., filed a dissenting opinion in which PRICE, J., joined.",
+        "type": "majority",
+        "author": "HOLCOMB, J.,"
+      },
+      {
+        "text": "JOHNSON, J.,\nfiled a dissenting opinion joined by PRICE, J.\nI respectfully dissent. In June 2000, a Montgomery County jury convicted appellant of capital murder. Tex. Penal Code Ann. \u00a7 19.03(a). Pursuant to the jury\u2019s answers to the special issues set forth in Texas Code of Criminal Procedure Article 37.071, sections 2(b) and 2(e), the trial judge sentenced appellant to death. Art. 37.071, \u00a7 2(g). Based on points of error two and four, I would reverse the conviction and remand to the trial court for a new trial.\nThe bulk of the state\u2019s evidence at trial involved tracing appellant\u2019s steps each day-beginning two days before Melissa Trotter\u2019s disappearance and ending with appellant\u2019s arrest three days after her disappearance. The state then supplemented that testimony with evidence concerning Trotter\u2019s whereabouts and activities from morning through early afternoon on the day she disappeared and other evidence that could give rise to reasonable inferences as to some of her whereabouts after she was seen leaving campus with appellant. We know little of her activities before the day of her disappearance. The combination of the state\u2019s evidence and appellant\u2019s jailhouse confession to committing the murder readily support the conclusion that appellant intentionally murdered Trotter and that he left her body in a place where it was not likely to be found.\nHowever, this evidence shows only that appellant murdered Trotter. There must also be legally and factually sufficient evidence to show that appellant was in the course of committing one of the alleged underlying offenses, kidnapping or aggravated sexual assault, to elevate the murder to a capital offense. Tex. Penal Code Ann. \u00a7 19.03(a)(2).\nIn his first two points of error, appellant asserts that the evidence is legally and factually insufficient to show that he intentionally caused Trotter\u2019s death while in the course of kidnapping or attempting to kidnap her. In points three and four, appellant asserts that the evidence is legally and factually insufficient to show that he intentionally caused Trotter\u2019s death while in the course of sexually assaulting or attempting to sexually assault her.\nIn reviewing legal sufficiency, this Court looks at all the evidence in the light most favorable to the verdict to determine whether any rational trier of fact could have found the essential elements of the offense beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979).\nIn a factual-sufficiency review, this Court views all the evidence, both for and against the jury\u2019s verdict, without the prism of \u201cin the light most favorable to\u201d the verdict and sets it aside only if that evidence is (1) so weak as to be clearly wrong and manifestly unjust, or (2) if the adverse finding is against the great weight and preponderance of the available evidence. Johnson v. State, 23 S.W.3d 1, 11 (Tex.Crim.App.2000); see also Goodman v. State, 66 S.W.3d 283, 285-86 (Tex.Crim.App.2001). A clearly wrong and unjust verdict occurs where the jury\u2019s finding \u201cshocks the conscience,\u201d or \u201cclearly demonstrates bias.\u201d Santellan v. State, 939 S.W.2d 155, 164 (Tex.Crim.App.1997).\nIn conducting a factual-sufficiency review, we consider all of the evidence weighed by the jury, comparing the evidence which tends to prove the existence of the elemental fact in dispute to the evidence which tends to disprove it. John son, 23 S.W.3d at 7. We are authorized to disagree with the jury\u2019s determination even if probative evidence exists which supports the verdict. Johnson, 23 S.W.3d at 7; Santellan, 939 S.W.2d at 164. A witness\u2019s credibility may impact how a jury perceives a particular piece of evidence, but it has no bearing on whether that evidence exists in the record.\nA factual sufficiency review must be appropriately deferential so as to avoid the appellate court\u2019s substituting its own judgment for that of the fact finder, Clewis v. State, 922 S.W.2d 126, 133 (Tex.Crim.App.1996), but the reviewing court must remain cognizant that the state always carries the burden of proof to establish each and every element of a criminal offense at trial. Johnson at 11. Consistent with the Fourteenth Amendment\u2019s guarantee of due process of law, a criminal defendant cannot be convicted of an offense except upon proof sufficient to show guilt beyond a reasonable doubt. Tibbs v. Florida, 457 U.S. 31, 102 S.Ct. 2211, 72 L.Ed.2d 652 (1982). Such proof is the state\u2019s burden; it is impermissible to shift the burden to appellant to produce evidence showing that he did not commit an offense. There is, and can be, no requirement that appellant produce evidence supporting his innocence.\nThe indictment in this case alleged that appellant intentionally caused the death of Melissa Trotter while in the course of \u201ccommitting or attempting to commit the offense of kidnapping or [aggravated] sexual assault.\u201d Because the court\u2019s charge authorized the jury to convict on alternative theories, the verdict of guilt should be upheld if the evidence was sufficient on either of the theories. Rabbani v. State, 847 S.W.2d 555, 558-59 (Tex.Crim.App.1992), cert. denied, 509 U.S. 926, 113 S.Ct. 3047, 125 L.Ed.2d 731 (1993); see also Brooks v. State, 990 S.W.2d 278, 283 (Tex. Crim.App.)(when jury returns general guilty verdict on indictment charging alternative theories of committing same offense, verdict stands if evidence supports any of theories charged), cert. denied, 528 U.S. 956, 120 S.Ct. 384, 145 L.Ed.2d 300 (1999).\nIn addition to setting out appellant\u2019s activities before and after Trotter\u2019s disappearance, the state also presented testimony that appellant, while incarcerated in the Montgomery County jail awaiting trial, gave his cell mate, Ronnie Coleman, a letter that appeared to be written in Spanish and asked him to copy it onto another piece of paper. Appellant told Coleman, who did not know Spanish, that the letter was to his grandmother, who was more literate in Spanish than English. Appellant claimed that he needed Coleman to recopy the letter because his grandmother had trouble reading appellant\u2019s handwriting.\nAppellant thereafter sent the copied version of the letter to his mother, claiming that someone had sent it to him in jail. Appellant\u2019s mother gave it to appellant\u2019s stepfather to have it translated. Appellant\u2019s stepfather took a copy of the letter to a friend, Detective Joe Alvarado of the Willis Police Department, who had the letter professionally translated. The translator, Genoveva Perez, had trouble translating the letter because of its poor grammatical structure and improper use of words. She ultimately translated the letter in two ways \u2014 one offering her interpretation of the letter and the other showing a literal translation of the words in the letter. Perez testified that the letter was not written by someone who knew Spanish. On cross-examination Perez testified that due to the poor quality of the Spanish used in the letter it was impossible to determine exactly what it said and she admitted that its content was subject to multiple interpretations.\nAccording to Perez, the letter was purportedly written by a woman who was with her boyfriend when he, and not appellant, killed Trotter and left her body in the forest. The substance (as interpreted by the translator) is as follows:\nLarry,\nI have information that I need to tell you about Melissa and Wanda. I was with the murderer of Melissa, and with the one that took Wanda from work. I am not sure what he did with Wanda, but I saw everything that happened to Melissa. He was talking to her in the parking lot. They went to school together is what he told me. \u2018We drove for awhile and then we went and had breakfast. I began to talk about sex when she said she had to go home.\u201d He hit her in the left eye, and she fell to the floor of her car. He took her to the woods and began to choke her with his hands at first, then he jerked her to the bushes. He cut her throat to make sure that she was dead. Her shoe came off when he jerked her into the bushes. Her jabear [not translated; no such word in Spanish] flank was torn.\nI am in love with him, and I don\u2019t want him in jail. The man in jail doesn\u2019t deserve to be in jail, either. To make sure that you know, I am telling you the truth. She was wearing red panties when R.C. murdered her. He choked her with his hands first, but he used a piece of rope, the truck, from his truck; he had a piece of black rope that he used in his boat to anchor it or something, he said. When he dragged her from the car, he put her in the shrubs on her back. I know that I should turn him in, but he told me that he would kill me, too, and I believe him. He has told about this murder to three other women in the past. I will tell you that he smokes and he smoked with her at the college at 2:30 and drove a blue truck. His hair is blond and brown and fives here. His name is Ronnie, but that is all I can tell, if you want more information, say it on paper and I will continue to write, but I want to come in.\nRobin\nAlthough appellant claimed that he received this letter from a third party, the state presented evidence that appellant had been seen in possession of a Spanish/Engfish dictionary, and it offered a fist of translated words into evidence. A handwriting expert told the jury that the handwritten fist of words with their Spanish translations matched appellant\u2019s known handwriting. Thus, the state presented evidence supporting a reasonable inference that appellant was the actual author of the letter.\nThe admittedly counterfeit letter that Ronnie Coleman copied contained some facts about the crime which were unknown to the public and consistent with the forensic evidence (e.g. the red panties), and other facts which were obviously not true (e.g. breakfast, her car, black rope). From this mixture of some accurate information, factual inconsistencies, and obvious falsehoods, the prosecutor hypothesized that the statements made by the author necessarily support a finding that appellant kidnapped Trotter.\nWhile the prosecutor\u2019s hypothesis is weak, given the readily apparent falsehoods surrounding both the creation and content of the spurious letter, I would hold that the inferences which may reasonably be drawn are legally sufficient to support a verdict of guilty of murder in the course of kidnapping Trotter. I would overrule point of error one.\nBecause the evidence is legally sufficient to support the verdict on the theory of kidnapping, I need not address point of error three, which challenges legal sufficiency based on the alternate theory of sexual assault. Rabbani at 558-59.\nI turn now to the issue of factual sufficiency. On the allegation of kidnapping, the evidence shows that appellant had a lengthy conversation with Trotter two days before she disappeared and was seen with her again on the day of her disappearance. However, the picture of events becomes very cloudy after about 1:30 p.m. on December 8, 1998. The jury could reasonably infer from the evidence that Trotter voluntarily left the campus with appellant in his truck, went to McDonald\u2019s to pick up some food, and then went to appellant\u2019s trailer. Eyewitness testimony placed appellant at his trailer around 3:00 p.m., and cell phone records lead to the inference that appellant went to the area around Sam Houston National Forest for a while about that same time.\nHowever, no evidence was presented to prove that appellant took a still-living Trotter to the woods involuntarily. Without evidence of the involuntary restraint or transport of a living person, there can be no finding of kidnapping. See Herrin v. State, - S.W.3d -, 2002 WL 31839153, 73,987, 2002 Tex.Crim.App. LEXIS 238 (Tex.App. Dec. 18, 2002) (Holcomb, J. Majority Op.). See also, Gribble v. State, 808 S.W.2d 65, 72 n. 16 (Tex.Crim. App.1990) (plurality op.) (noting that \u201c[w]e accept for purposes of analysis that a dead body cannot be kidnapped\u201d), cert. denied, 501 U.S. 1232, 111 S.Ct. 2856, 115 L.Ed.2d 1023 (1991).\nAccording to the state\u2019s medical expert, Trotter\u2019s body showed no defensive wounds, no indication of restraints, and no scratches such as would be expected if she had been forced through the underbrush or if her body had been dragged into the woods. Neither was there soil on her shoes, indicating that Trotter\u2019s body was carried into the woods. There are many equally reasonable ways, other than during a kidnapping, in which the torn pocket on her jeans could be explained, among them attempting to lift a body by pulling on the pocket or catching the pocket on a door handle, tree limb or other object while moving a body. Likewise, the position of Trotter\u2019s blouse and bra is consistent with appellant moving her body by pulling on her torso. Forensic evidence showed flecks of paint from the bed of appellant\u2019s truck on Trotter\u2019s clothing, but no evidence shows whether she was dead or alive when the paint was deposited on the clothing. A reasonable inference could be made that appellant killed Trotter at the trailer before taking her body to the woods, as the described circumstances would indicate that a living passenger would ride in the cab of the truck, not in the bed.\nTo support a verdict of capital murder, the state must prove that appellant was in the course of kidnapping or attempting to kidnap Melissa when he murdered her. Tex. Pen.Code \u00a7 19.03(a)(2) (emphasis added); Herrin, at -, at \u215c 8. The record is devoid of evidence showing that appellant was in the process of kidnapping Trotter when she was murdered. Evidence admitted at trial was sufficient to prove that appellant killed Trotter, but this is not enough. The state had the burden of proving that he was in the course of kidnapping or attempting to kidnap Trotter when he murdered her. The state failed to do so.\nThe letter that appellant fabricated and gave to Ronnie Coleman to copy was offered by appellant to show that someone else had committed the crime while, at the same time, the state offered the letter to show that appellant took Trotter to the woods and thereafter choked her. The letter is full of falsehoods and inconsistencies, and many of its contentions are not supported by or are directly contradicted by the remainder of the evidence in the record. Other parts of the letter may or may not be factually correct. In fact, ac- \u2022 cording to the translator, we cannot even be sure exactly what the letter says. Without supporting evidence, we should not assume or speculate that appellant killed Trotter in the woods.\nAs noted above, the state\u2019s own medical expert testified that there were no defensive wounds or scratches on Trotter\u2019s body and no indication that she had been restrained in any way. It is illogical to rely on a faked letter, that cannot even be translated accurately, to corroborate what is otherwise weak and inconclusive forensic evidence to reach the conclusion that the evidence was factually sufficient to show that appellant kidnapped Trotter, while at the same time decrying the letter as blatantly bogus.\nThe evidence, standing alone, is too weak to support the factual conclusion that appellant was in the course of abducting Trotter when he killed her. Without more, I find it impossible to hold that the evidence in this case was factually sufficient to show that appellant killed Trotter in the course of kidnapping or attempting to kidnap her. I would sustain point of error number two.\nRegarding point of error number four, the evidence supporting the underlying offense of aggravated sexual assault is essentially non-existent. The only evidence the state presented to prove that appellant sexually assaulted Trotter was testimony from its medical examiner that she found a discoloration on Trotter\u2019s vaginal wall, which she subsequently determined may have been a bruise.\nWhen questioned, the State\u2019s medical expert, Dr. Joye Carter, testified that she could not accurately assess when the discoloring occurred; the best estimate that she could give was that it may have been received up to three days prior to Trotter\u2019s death. She conceded that she had no way of determining how the discoloring occurred or whether it was a result of sexual intercourse and that such a bruise could have developed from normal sexual activity. In fact, Dr. Carter testified that she found no evidence of any penetration of Trotter\u2019s vagina, anus, or mouth. Because we know little of Trotter\u2019s life in the days before her death, we are left with important, unanswered questions. For example, was she sexually active? If so, did she have sexual relations with someone else in the three days before her death?\nAppellant\u2019s expert disputed the conclusion that the discoloration of the vaginal wall was in fact a bruise, but testified, as did Dr. Carter, that, if it were a bruise, such a bruise could be sustained during normal sexual intercourse. Appellant\u2019s expert also testified that Trotter\u2019s medical records indicated that she had pelvic inflammatory disease and that pelvic inflammatory disease could be the cause of such a discoloration. The evidence showed no scratches, defensive wounds or signs of restraint. There was testimony that hair samples were found in appellant\u2019s bed, but the forensic expert testified that they were not from Trotter. There was also evidence that appellant\u2019s bed was disheveled, but there was absolutely no evidence connecting Trotter to the bed. When her body was recovered, her jeans were on and the fly closed. There was no evidence of penetration. As noted above, a torn back pocket may occur in a number of ways and does not unequivocally prove actual or attempted sexual assault. Without more, the evidence is too weak to sustain a verdict for capital murder based on a finding of sexual assault.\nAgain, reliance on the letter that Ronnie Coleman copied is misplaced. Statements in the bogus letter, as interpreted by Perez (\u201c \u2018I began to talk about sex when she said she had to go home.\u2019 He hit her in the left eye, and she fell to the floor of her car.\u201d), are not \u201csufficient to confirm that Trotter\u2019s rejection of his sexual advances began the cycle of violence that led to her death.\u201d Talking about sex, even hitting someone following a conversation about sex, is not an aggravated sexual assault. Again, it is illogical to both characterize the copied letter as a blatant forgery created in an attempt to escape punishment by creating phony evidence, and to then use the letter as factual proof of sexual assault, especially in light of the fact that the letter could not be accurately translated. The state produced no evidence at trial that supports a finding that appellant had consensual sexual intercourse with Trotter, much less that he sexually assaulted her. I would sustain point of error number four.\nThere is, at best, a weak chain of inferences and assumptions pointing to a conclusion that appellant kidnapped or sexually assaulted Trotter or attempted either. These inferences and assumptions are not supported by the record. I believe that the evidence in this case is factually insufficient to support a conviction of capital murder. I believe that the evidence is sufficient to support a conviction for murder, which was included as a lesser-included offense in the trial court\u2019s jury charge, but because I would make a finding of factual insufficiency rather than legal insufficiency, the only option available to us is to remand to the trial court for a new trial.\nI respectfully dissent.\n. On May 17, 2000, inmate Bill Kory became appellant\u2019s cellmate. Appellant later told Kory that he was \"in [jail] for murder of someone.\u201d When asked whether he had committed the crime, appellant responded, \"F-, yeah, I did it.\u201d\n. The indictment alleged only sexual assault, but appellant did not object to the error, and it is therefore waived.\n. While there are two ways of determining factual insufficiency, I am applying only the first method because, aside from any inferences created by an admittedly fabricated letter, there is no evidence in the record that supports a finding that appellant kidnapped or sexually assaulted Trotter. With no evidence in the record, the evidence is clearly so weak as to make the verdict clearly wrong and unjust.\n. If a reviewing court determines that the evidence is legally insufficient, it must either render an acquittal or reform the judgment to reflect a conviction of a lesser included offense. See Clewis v. State, 922 S.W.2d 126, 133 (Tex.Crim.App.1996); Herrin at -, at * 25. When conducting a factual sufficiency review, however, an appellate court cannot substitute its judgment for that of the fact finder since this would violate the defendant\u2019s right to trial by jury. Clewis at 133. Accordingly, a reviewing court must vacate a conviction based on factually insufficient evidence and remand the cause for a new trial. Tibbs v. Florida, 457 U.S. 31, 102 S.Ct. 2211, 72 L.Ed.2d 652 (1982); Clewis at 133.",
+        "type": "dissent",
+        "author": "JOHNSON, J.,"
+      }
+    ],
+    "attorneys": [
+      "Stephen Christopher Taylor, Galeston, for Appellant.",
+      "Marc Brumberger, Asst. DA, Conroe, Matthew Paul, State\u2019s Atty., Austin, for State."
+    ],
+    "corrections": "",
+    "head_matter": "Larry Ray SWEARINGEN, Appellant, v. The STATE of Texas.\nNo. 73,851.\nCourt of Criminal Appeals of Texas, En Banc.\nMarch 26, 2003.\nStephen Christopher Taylor, Galeston, for Appellant.\nMarc Brumberger, Asst. DA, Conroe, Matthew Paul, State\u2019s Atty., Austin, for State."
+  },
+  "file_name": "0089-01",
+  "first_page_order": 113,
+  "last_page_order": 131
+}

@@ -6,6 +6,13 @@ function loadData() {
         d3.json('data/0466-01.json'),
         d3.json('data/0296-01.json'),
         d3.json('data/0643-01.json'),
+        d3.json('data/0089-01.json'),
+        d3.json('data/0460-01.json'),
+        d3.json('data/0482-01.json'),
+        d3.json('data/0518-01.json'),
+        d3.json('data/0556-01.json'),
+        d3.json('data/1066-01.json'),
+        d3.json('data/1226-01.json'),
     ]).then(function(data) {
         // Consolidate the data from all JSON files
         let allData = [].concat(...data);

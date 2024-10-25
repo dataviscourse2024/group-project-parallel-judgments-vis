@@ -1,0 +1,366 @@
+{
+  "id": 3822804,
+  "name": "Rosalina SILAYA, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent",
+  "name_abbreviation": "Silaya v. Mukasey",
+  "decision_date": "2008-05-06",
+  "docket_number": "No. 06-73822",
+  "first_page": "1066",
+  "last_page": "1073",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "524 F.3d 1066"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "332 F.3d 1186",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9116088
+      ],
+      "pin_cites": [
+        {
+          "page": "1188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/332/1186-01"
+      ]
+    },
+    {
+      "cite": "383 F.3d 1112",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9213074
+      ],
+      "pin_cites": [
+        {
+          "page": "1123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/383/1112-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 12",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9190449
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "17-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/0012-01"
+      ]
+    },
+    {
+      "cite": "8 C.F.R. \u00a7 1208.13",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        },
+        {
+          "page": "(b)(l)(iii)"
+        },
+        {
+          "page": "(b)(l)(ii)"
+        },
+        {
+          "page": "(b)(3)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 F.3d 859",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11091892
+      ],
+      "weight": 14,
+      "pin_cites": [
+        {
+          "page": "862"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "863"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "865-66"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "866"
+        },
+        {
+          "page": "865"
+        },
+        {
+          "page": "866"
+        },
+        {
+          "page": "865-66"
+        },
+        {
+          "page": "863, 866"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/254/0859-01"
+      ]
+    },
+    {
+      "cite": "366 F.3d 808",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9259061
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "812"
+        },
+        {
+          "page": "812"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/366/0808-01"
+      ]
+    },
+    {
+      "cite": "103 F.3d 1482",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1037
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1489"
+        },
+        {
+          "page": "1487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/103/1482-01"
+      ]
+    },
+    {
+      "cite": "99 F.3d 954",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7652455
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "958"
+        },
+        {
+          "page": "960"
+        },
+        {
+          "page": "960",
+          "parenthetical": "finding that a rape victim was eligible for asylum because evidence showed that \"[h]er family's ties to the Somoza regime were well-known in her community\" and she was singled out for persecution because of these ties"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/99/0954-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)(42)(A)"
+        },
+        {
+          "page": "(a)(42)(A)"
+        },
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 F.3d 975",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9270560
+      ],
+      "pin_cites": [
+        {
+          "page": "979"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/363/0975-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6229213
+      ],
+      "weight": 3,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0478-01"
+      ]
+    },
+    {
+      "cite": "356 F.3d 1153",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        785312
+      ],
+      "pin_cites": [
+        {
+          "page": "1157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/356/1153-01"
+      ]
+    },
+    {
+      "cite": "175 F.3d 732",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1719967
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "734"
+        },
+        {
+          "page": "735",
+          "parenthetical": "internal quotation marks and alteration omitted"
+        },
+        {
+          "page": "737-38"
+        },
+        {
+          "page": "738"
+        },
+        {
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/175/0732-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 874,
+    "char_count": 18417,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 2.208088607766364e-05,
+      "percentile": 0.9998758614884498
+    },
+    "sha256": "363013b9fc9cd97322ff07975c2f534d03cb9b629dce1d9c944b413394182f7b",
+    "simhash": "1:4150df880a20f6c7",
+    "word_count": 3093
+  },
+  "last_updated": "2024-02-27T21:13:13.211366+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: STEPHEN S. TROTT and SIDNEY R. THOMAS, Circuit Judges, and MICHAEL R. HOGAN, District Judge."
+    ],
+    "parties": [
+      "Rosalina SILAYA, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "TROTT, Circuit Judge:\nRosalina Silaya (\u201cRosalina\u201d) seeks review of the BIA\u2019s decision denying her application for asylum, withholding of removal (\u201cwithholding\u201d), and protection under the Convention Against Torture (\u201cCAT\u201d). We have jurisdiction pursuant to 8 U.S.C. \u00a7 1252(a)(1). Because the record compels a finding that Rosalina was subjected to past persecution on account of imputed political opinion, we grant the petition with respect to the asylum claim and remand to the BIA.\nI\nBACKGROUND\nRosalina is a native and citizen of the Philippines. She entered the United States in May of 1985 as a non-immigrant visitor. When she remained beyond the visa\u2019s authorized stay, she was charged with and conceded removability. Subsequently, Rosalina submitted an application for asylum, withholding, and relief under CAT.\nRosalina was born in San Mateo Sur, Philippines. Her father Estaqiou was a World War II veteran who served under General Douglas McArthur. The people of San Mateo Sur knew he was a veteran because it was a small town, and he received a pension from the government.\nWhile she was growing up, Rosalina heard stories about the New People\u2019s Army (\u201cNPA\u201d). The NPA \u201cis a violent, revolutionary Communist group which actively opposes the Philippine government\u201d and \u201chas a well-documented history of political violence.\u201d Borja v. INS, 175 F.3d 732, 734 (9th Cir.1999) (en banc). Rosalina was told that the NPA were \u201creally violent and aggressive people and that there are many members in [her] town.\u201d\nRosalina testified that NPA members came to her house often and asked for food and money. She said her father gave them what they asked for because he knew that the NPA was against the government, and, because he was a World War II veteran, the NPA was against him too. According to Rosalina\u2019s testimony, her father feared that if he didn\u2019t give the NPA food or money, they would come back and hurt him and his family. Rosalina said her family was scared of the NPA because her \u201cfather supported the government and because he was a military veteran.\u201d She said also that when the NPA came to the house and spoke to her father, \u201c[t]hey would always make comments like \u2018when is your daughter[Rosalina] going to grow up?\u2019 or \u2018is she going to stay here and live with you in San Mateo Sur?\u2019 \u201d\nRosalina testified that when she was about fourteen, her older sister Salvaci\u00f3n was kidnaped and missing for almost a month. When Salvaci\u00f3n returned, \u201cshe [was] a mess. She ha[d] a lot of bruises, scars, clothes torn apart, half-way naked, people laugh[ed]. My sister was, lost her mind. She\u2019s not the same.\u201d When questioned as to whether she knew who had taken her sister, Rosalina said, \u201cMy father had the idea and he said they are NPA people.\u201d The Silayas later found out that Salvaci\u00f3n had been raped.\nAfter Salvaci\u00f3n was kidnaped, and when Rosalina was approximately sixteen, Rosa-lina\u2019s father sent her to Manila to live with her sister Candelaria because it was too dangerous for her to stay in the family home. Rosalina believed her father sent her away to protect her from the NPA. She finished high school in Manila and worked in a bakery.\nAround Rosalina\u2019s twenty-third birthday, she went back to San Mateo Sur to see her parents. When Rosalina\u2019s bus arrived in San Mateo Sur, several men from the NPA stopped her and asked her if she was Estaqiou\u2019s daughter. She told them she was. The men walked her to her house, telling her \u201cthey knew about [her] father.\u201d\nIn the middle of the night, the men returned to the house. Rosalina and her mother hid in the bedroom. The men pushed the door to the house open and asked Estaqiou where Rosalina was. Ro-salina heard sounds like people were fighting in the other room and heard the men saying, \u201cI want your daughter.\u201d The Sila-ya family\u2019s dog barked at the men until they cut its head off with a sword.\nEventually, the men overpowered Rosa-lina\u2019s father and put a sword to his throat. They came into the bedroom and punched Rosalina\u2019s mother, knocking her to the ground. Rosalina said she \u201cheard the men yelling about [her] father being a war veteran.\u201d Although Rosalina initially fought the men, one of them hit her, and she lost consciousness.\nRosalina woke up later to find she had been blindfolded and taken away from her home. She was naked, her hands were tied behind her back, and she was hanging upside down by her feet. She could hear the men laughing at her. Over the next three days, the men repeatedly raped her, hit her, yelled at her, and forced her to perform oral sex. They cut her, poured hot thick liquid on her, and burned her, possibly with cigarettes. The men threatened to cut off her head and put her in the fire pit. They left her hanging upside down \u201cso she will learn her lesson.\u201d\nAfter three days and three nights, the men returned Rosalina to her family home. She testified that the men carried her back home and threw her in the living room, still bound and naked. The next morning, her parents sent her back to Manila. Ro-salina later found out she was pregnant as a result of the repeated rapes.\nRosalina was angry and ashamed by her pregnancy. She tried to abort the baby by drinking clorox and taking pills, but her attempts were unsuccessful. On August 29, 1983, she gave birth to her daughter, Maria Analisa. After Candelaria saw Ro-salina hitting the baby, she sent the baby to live in San Mateo Sur with Mr. and Mrs. Silaya. Rosalina believes that her parents sent Maria Analisa back to Manila when she was seven to live with Candela-ria because they were \u201cstill afraid that the NPA soldiers would come back.\u201d .\nRosalina said that although no NPA members approached her in Manila, she was still afraid. Rosalina said she \u201cwas fearful, all the time. Wherever I went in the Philippines, even in Manila, I was afraid the NPA soldiers would find me and torture me again.\u201d Because of this fear, Rosalina took a job as a nanny and came to the United States in 1985.\nThe Immigration Judge (\u201cIJ\u201d) found Ro-salina not credible and denied her application for asylum on that ground. In the alternative,, he denied her application for asylum because she did not demonstrate a nexus between the mistreatment she suffered and a protected ground. The IJ found algo that the social group that Rosa-lina claimed to be a member of for refugee purposes was too broad. He further found that it was possible for Rosalina to relocate to Manila. He denied also her applications for withholding and CAT protection.\nThe BIA reversed the adverse credibility finding, but otherwise affirmed the IJ. It found also that the IJ did not commit a due process violation when he denied Ro-salina\u2019s motion to permit her relatives to testify by telephone.\nII\nSTANDARD OF REVIEW\nWe review findings of fact for substantial evidence. Li v. Ashcroft, 356 F.3d 1153, 1157 (9th Cir.2004) (en banc). To reverse the BIA\u2019s finding that Rosalina did not demonstrate a nexus between the harm she suffered and a protected ground, the evidence must \u201cnot only support [] that conclusion, but compel [ ] it.\u201d INS v. Elias-Zacarias, 502 U.S. 478, 481 n. 1, 112 S.Ct. 812, 117 L.Ed.2d 38 (1992). Denial of relief under CAT is reviewed for substantial evidence. Bellout v. Ashcroft, 363 F.3d 975, 979 (9th Cir.2004).\nIll\nDISCUSSION\nA. Past Persecution\nTo be eligible for asylum, Rosalina must show that she is unwilling or unable to return to her country of origin \u201cbecause of persecution or a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.\u201d 8 U.S.C. \u00a7 1101(a)(42)(A). \u201cOnce eligibility is established, it is within the Attorney General\u2019s discretion to grant asylum.\u201d Lopez-Galarza v. INS, 99 F.3d 954, 958 (9th Cir.1996).\nAs a preliminary matter, the rape and physical abuse inflicted on Rosalina support a finding of past persecution under 8 U.S.C. \u00a7 1101(a)(42)(A). See id. at 959. Consequently, the issue before us is whether the record compels a conclusion that the NPA subjected Rosalina to past persecution on account of a protected ground. We hold that the record compels a conclusion that Rosalina was persecuted on account of an imputed political opinion.\n\u201cAn imputed political opinion is a political opinion attributed to the applicant by his persecutors.\u201d Sangha v. INS, 103 F.3d 1482, 1489 (9th Cir.1997). In order to establish imputed political opinion, Rosalina must show that the NPA actually attributed a political opinion to her. Id. \u201c[Persecution on account of political opinion [cannot] be inferred merely from acts of random violence by members of a ... political subdivision against their neighbors who may or may not have divergent religious or political views.\u201d Id. at 1487. However, evidence \u201c[t]hat the alleged persecutor acted because of a petitioner\u2019s family\u2019s political associations is sufficient\u201d to satisfy the motive requirement. Kebede v. Ashcroft, 366 F.3d 808, 812 (9th Cir.2004) (citing Lopez-Galarza, 99 F.3d at 960). \u201cThe plain meaning of the phrase persecution on account of the victim\u2019s political opinion, does not mean \u2018persecution solely on account of the victim\u2019s political opinion.\u2019 \u201d Borja, 175 F.3d at 735 (internal quotation marks and alteration omitted).\nThis is not the first time we have considered whether the NPA targeted a victim for rape on account of an imputed political opinion. In Ochave v. INS, 254 F.3d 859, 862 (9th Cir.2001), the petitioner and her daughter, both Philippine citizens, were raped by members of the NPA while coming home from the market. The petitioner argued that the rape was on account of an imputed political opinion. Id.\nIn analyzing the petitioner\u2019s imputed political opinion claim, we reviewed both her testimony and her application for asylum. Id. at 865. The petitioner testified that: 1) the rape may have been a random act of violence; 2) other people in the area were raped; and 3) she did not know the rapists before the attack. Id. at 863. In light of this testimony, we explained that the only evidence in the record supporting the petitioner\u2019s claim that she was persecuted on account of imputed political opinion was her statement in her application for asylum:\nMy father was employed by the government in the year that the rape occurred. The two men who raped my daughter and I were members of the guerrillas who were trying to overthrow the government. Because my father had a title, \u2018Municipal Counselor\u2019, my family was viewed as being reactionary in the Marxist eyes of the Communist guerrillas.\nId. at 865. Consequently, we concluded that there was no evidence that the rapists knew who petitioner and her daughter were, let alone who petitioner\u2019s father was. Id. at 865-66. We came to this conclusion because, among other things: 1) the rapists never identified the petitioner by name, nor did they mention her father or refer to politics, id. at 865; 2) the rape did not occur in a place \u201cthat would suggest that the rapists were seeking [the petitioner] and her daughter specifically\u201d \u2014 like her home, id. at 866; 3) the NPA raped and harassed a lot of people in the area where the petitioner was raped, id.; and 4) the petitioner admitted that the NPA did not continue to harass her or attempt to communicate with her after the rape, \u201cso as to suggest that this was a purposeful attack with a political motive, rather than a despicable act of unmotivated violence against a stranger,\u201d id. We concluded \u201cin order to impute a political opinion to his victim on account of her family\u2019s activities, a rapist necessarily must have some idea who the victim is. That crucial fact\u2014 which is a logical predicate to [petitioner\u2019s] entire claim \u2014 is not established anywhere in this record, including her application.\u201d Id.\nAlthough the facts in Ochave are markedly similar in many aspects to the facts in the case at bar, there are some key differences that compel a different result. First, unlike in Ochave, the NPA came to Rosalina\u2019s house long before the kidnaping and rape and asked her father when she was going to grow up, indicating that they knew who Rosalina was. Compare Ochave, 254 F.3d at 865. Second, the NPA did not take Rosalina from a public area. Rather, after ascertaining that Es-taqiou was her father, they walked her home from the bus stop and then returned to her home that night and kidnaped her, again suggesting that the rapists were seeking Rosalina specifically. Compare id. at 866. Third, unlike in Ochave, the rapists in this case mentioned Rosalina\u2019s father and referenced the fact that he was a war veteran, indicating that the NPA knew who Rosalina was, knew who her father was, and chose Rosalina as a victim because of her father\u2019s ties to the Philippine government. This is reflected in Rosali-na\u2019s statements that: 1) NPA members met Rosalina at the bus stop and asked her if her father was Estaqiou; 2) the men walked Rosalina home and told her they knew about her father; and 3) Rosalina heard the men saying that her father was a veteran. Compare id. at 865-66. Finally, unlike in Ochave, Rosalina never conceded that this may have been a random act of violence. Rather, she testified that after repeatedly raping her, the men hung her upside down from a tree \u201cso she will learn her lesson.\u201d Compare id. at 863, 866.\nRosalina has demonstrated the facts that we said in Ochave are necessary to prove an imputed political asylum claim\u2014 the NPA members knew who she was, knew who her father was, and made comments indicating that Rosalina was chosen as a victim because of her father\u2019s ties to the Philippine government. See also Lopez-Galarza, 99 F.3d at 960 (finding that a rape victim was eligible for asylum because evidence showed that \u201c[h]er family\u2019s ties to the Somoza regime were well-known in her community\u201d and she was singled out for persecution because of these ties). We therefore conclude that there is substantial evidence that compels a conclusion that Rosalina was persecuted on account of an imputed political opinion and is thus eligible for asylum.\nB.Future Persecution\nBecause Rosalina suffered past persecution, she is entitled to a presumption of future persecution. 8 C.F.R. \u00a7 1208.13(b)(1); Borja, 175 F.3d at 737-38; see also INS v. Ventura, 537 U.S. 12, 17-18, 123 S.Ct. 353, 154 L.Ed.2d 272 (2002). On remand, the government may rebut this presumption if it can show \u201cby a preponderance of the evidence that conditions in the Philippines have changed to such an extent that [Rosalina] no longer has a well-founded fear that she would be persecuted, should she return there.\u201d Borja, 175 F.3d at 738. The BIA must provide an \u201cindividualized analysis of how changed conditions will affect [Rosalina\u2019s] situation.\u201d Id. (internal quotation marks omitted).\nC. Humanitarian Asylum\nEven in the absence of a well-founded fear of future persecution, because Rosalina has established past persecution, the BIA has discretion to grant her humanitarian asylum pursuant to 8 C.F.R. \u00a7 1208.13(b)(l)(iii). See Kebede, 366 F.3d at 812 (\u201cAsylum may be granted for humanitarian reasons where a petitioner has suffered atrocious forms of persecution.\u201d) (internal quotation marks omitted). Because the BIA did not determine whether Rosalina\u2019s past persecution makes her eligible for humanitarian asylum, we remand to the BIA to consider in the first instance whether it wishes to grant her this form of relief.\nD. Withholding of Removal\nThe BIA held that Rosalina failed to prove eligibility for asylum, and consequently it assumed that she could not satisfy the higher standard for withholding. Because we hold that Rosalia is statutorily eligible for asylum because she established past persecution, we remand \u201cso that the [BIA] may apply the law to the facts\u201d of her withholding claim. See Mashiri v. Ashcroft, 383 F.3d 1112, 1123 (9th Cir.2004).\nE. Internal Relocation\nBecause Rosalina has demonstrated past persecution, the government bears the burden of proof regarding the reasonableness of relocation within the Philippines. 8 C.F.R. \u00a7 1208.13(b)(l)(ii). In this case, it is not clear whether the BIA held the government to its burden or whether it put the burden of proof on Rosalina. Therefore, we remand to the BIA to apply the proper burden of proof and to consider evidence relating to the reasonableness factors listed in 8 C.F.R. \u00a7 1208.13(b)(3).\nF. Relief Under CAT\nWe deny Rosalina\u2019s petition for relief under CAT because she has not demonstrated that, more likely than not, she will be tortured at the instigation of, or with the acquiescence of the Philippine government. See Zheng v. Ashcroft, 332 F.3d 1186, 1188 (9th Cir.2003).\nIV\nCONCLUSION\nThe facts of this case compel a conclusion that members of the NPA kidnaped, raped, and abused Rosalina because her father was a World War II veteran. Because we conclude that the evidence compels a finding that Rosalina was subjected to past persecution on account of imputed political opinion, we grant the petition for review with respect to the asylum claim and remand this case to the BIA to consider future persecution, humanitarian asylum, withholding of removal, and whether internal relocation is reasonable. Costs are awarded to Silaya.\nPETITION GRANTED in part and DENIED in part.\n. We refer to petitioner and her family members by first name to avoid confusion.\n. In light of this conclusion and the BIA's reversal of the IJ\u2019s adverse credibility finding, we need not address Rosalina's plausible claim that the IJ's refusal to let her witnesses testify telephonically constituted a due process violation. However, if the BIA reaches the issue of relocation on remand, it must afford both parties the opportunity to present additional evidence.",
+        "type": "majority",
+        "author": "TROTT, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Stacy Tolchin, Van Der Hout, Brigagli-ano & Nightingale, LLP, Los Angeles, CA, and Marc Van Der Hout, Christine Bri-gagliano, and Stacey L. Gartland, Van Der Hout, Brigagliano & Nightingale, LLP, San Francisco, CA, for the petitioner.",
+      "Daniel E. Goldman, U.S. Department of Justice, Washington, D.C., for the respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Rosalina SILAYA, Petitioner, v. Michael B. MUKASEY, Attorney General, Respondent.\nNo. 06-73822.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted April 17, 2008.\nFiled May 6, 2008.\nStacy Tolchin, Van Der Hout, Brigagli-ano & Nightingale, LLP, Los Angeles, CA, and Marc Van Der Hout, Christine Bri-gagliano, and Stacey L. Gartland, Van Der Hout, Brigagliano & Nightingale, LLP, San Francisco, CA, for the petitioner.\nDaniel E. Goldman, U.S. Department of Justice, Washington, D.C., for the respondent.\nBefore: STEPHEN S. TROTT and SIDNEY R. THOMAS, Circuit Judges, and MICHAEL R. HOGAN, District Judge.\nThe Honorable Michael R. Hogan, United States District Judge for the District of Oregon, sitting by designation."
+  },
+  "file_name": "1066-01",
+  "first_page_order": 1092,
+  "last_page_order": 1099
+}

@@ -1,0 +1,329 @@
+{
+  "id": 302681,
+  "name": "John R. TIEDEMAN, Appellant, v. Dennis BENSON, Warden, State of Minnesota, Appellee",
+  "name_abbreviation": "Tiedeman v. Benson",
+  "decision_date": "1997-08-06",
+  "docket_number": "No. 96-3977",
+  "first_page": "518",
+  "last_page": "523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "122 F.3d 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "8th Cir.",
+    "id": 8821,
+    "name": "United States Court of Appeals for the Eighth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "111 L.Ed.2d 753",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 3243",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "497 U.S. 1006",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6239555,
+        6241027,
+        6243012,
+        6241670,
+        6242695,
+        6240109,
+        6239822,
+        6242351,
+        6240784,
+        6240470,
+        6239259,
+        6241340,
+        6243326,
+        6241983
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/1006-02",
+        "/us/497/1006-07",
+        "/us/497/1006-13",
+        "/us/497/1006-09",
+        "/us/497/1006-12",
+        "/us/497/1006-04",
+        "/us/497/1006-03",
+        "/us/497/1006-11",
+        "/us/497/1006-06",
+        "/us/497/1006-05",
+        "/us/497/1006-01",
+        "/us/497/1006-08",
+        "/us/497/1006-14",
+        "/us/497/1006-10"
+      ]
+    },
+    {
+      "cite": "892 F.2d 715",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10525980
+      ],
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/892/0715-01"
+      ]
+    },
+    {
+      "cite": "21 F.3d 305",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11310504
+      ],
+      "pin_cites": [
+        {
+          "page": "307"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/21/0305-01"
+      ]
+    },
+    {
+      "cite": "107 F.3d 1465",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7646450
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1468-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-119-01"
+      ]
+    },
+    {
+      "cite": "116 F.3d 1268",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11985198
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/116/1268-01"
+      ]
+    },
+    {
+      "cite": "108 F.3d 217",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7627321
+      ],
+      "pin_cites": [
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/108/0217-01"
+      ]
+    },
+    {
+      "cite": "137 L.Ed.2d 845",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 1724",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 F.3d 1063",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7639970
+      ],
+      "pin_cites": [
+        {
+          "page": "1068-73"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/105/1063-01"
+      ]
+    },
+    {
+      "cite": "104 F.3d 82",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7629712
+      ],
+      "pin_cites": [
+        {
+          "page": "83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/104/0082-01"
+      ]
+    },
+    {
+      "cite": "113 F.3d 470",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        336580
+      ],
+      "pin_cites": [
+        {
+          "page": "472-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/113/0470-01"
+      ]
+    },
+    {
+      "cite": "107 F.3d 1011",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7644218
+      ],
+      "pin_cites": [
+        {
+          "page": "1014-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/107/-573-01"
+      ]
+    },
+    {
+      "cite": "101 F.3d 1565",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7644621
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/101/1565-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2253",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 2059",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        915758
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "2068",
+          "parenthetical": "emphasis ours"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0320-01"
+      ]
+    },
+    {
+      "cite": "110 Stat. 1214",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 749,
+    "char_count": 15800,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 7.679113025398285e-07,
+      "percentile": 0.9713774818531892
+    },
+    "sha256": "07e5054dee64456f97d52e6b363fa730432c163d924461a87eded7c6d52c0a7a",
+    "simhash": "1:3e3f8f4f8c7b0dfa",
+    "word_count": 2630
+  },
+  "last_updated": "2024-02-27T20:56:52.383291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARD S. ARNOLD, Chief Judge, WOLLMAN and HANSEN, Circuit Judges."
+    ],
+    "parties": [
+      "John R. TIEDEMAN, Appellant, v. Dennis BENSON, Warden, State of Minnesota, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARD S. ARNOLD, Chief Judge.\nJohn R. Tiedeman appeals from an order of the District Court denying his petition for a writ of habeas corpus. Tiedeman\u2019s petition attacks his conviction in a Minnesota state court of kidnapping with intent to commit great bodily harm or to terrorize the victim. He was convicted by a jury and sentenced to 128 months in prison, and the conviction was affirmed on appeal. The District Court denied Tiedeman\u2019s habeas petition without a hearing, but granted his application for a certificate of appealability.\nWe hold, among other things, that district judges have power, under the new Antiterrorism and Effective Death Penalty Act of 1996, Pub.L. No. 1CMH32, 110 Stat. 1214, to issue certificates of appealability. The certificate in this ease, however, was defective, because it did not state the issue or issues that the District Court found substantial. We therefore treat Tiedeman\u2019s notice of appeal as an application to the judges of this Court for a certificate of appealability. We hold that Tiedeman has not made a substantial showing of the denial of any federal constitutional right, and we therefore deny his application.\nI.\nTiedeman was involved in a volatile, on- and-off relationship with the victim, Tammy Miller, for at least a year before the events giving rise to the charged offense in this case. On May 7, 1994, Tiedeman and Miller were involved in an argument at Tiedeman\u2019s trailer home, where they were living together. The police were called, and Tiedeman was arrested \u2014 apparently on an outstanding warrant for parking tickets \u2014 -and removed from the premises. By the time Tiedeman was released from jail a few days later, Miller, for her own safety, had moved out of the trailer and into the apartment of a former coworker, Kent Pengelly.\nTiedeman and Miller got together on several occasions during the week after Tiedeman\u2019s May 7th arrest, and Miller spent one night at Tiedeman\u2019s trailer. However, on Friday evening of that week, Tiedeman and Miller got into another argument at the trailer, and Miller went back to Pengelly\u2019s apartment. Tiedeman believed that Miller had left with his tattooing guns and went to Pengelly\u2019s apartment to retrieve them. Tiedeman called the police to enlist their help, but they told him they could not help him and ordered him to leave the area. Tiedeman left and called Pengelly from a pay phone, but Pengelly would not put Miller on the phone. Tiedeman asked Pengelly to have Miller call him at a nearby restaurant.\nAt about 6 a.m. on May 14, Miller telephoned Tiedeman at the restaurant. Miller told Tiedeman that she did not have his tattoo guns, but she agreed that if he came to Pengelly\u2019s apartment she would repay him ten dollars that she owed him. When Tiedeman and his two acquaintances arrived at the apartment, Miller came out to their car, Barefoot and in her pajamas, and gave petitioner the money. As she started to return to her apartment, Tiedeman got out of the car, picked her up, put her in the back seat with him, and told the driver to go.\nThey headed back towards Tiedeman\u2019s trailer, and Pengelly called the police. Miller testified that as they drove, Tiedeman threatened to kill her and said she would soon see her grandfather, who had recently died. She also testified that he mentioned a former girlfriend whom he claimed he had put in the hospital with several broken bones. The police stopped the car, and when Miller got out of the car she was crying and very upset. She was extremely afraid. Tiedeman told the police that he had a \u201cbuck knife\u201d in a sheath. Tiedeman was arrested, and the police took his knife as a security precaution.\nII.\nAfter a jury trial, Tiedeman was convicted of kidnapping. Tiedeman\u2019s conviction and sentence were affirmed on appeal, and Tiedeman\u2019s petition for review before the Minnesota Supreme Court was denied. Tiedeman then filed a petition for writ of habeas corpus, which the District Court denied. The District Judge did, however, grant him a certificate of appealability pursuant to the Antiterrorism and Effective Death Penalty Act of 1996 (\u201cAEDPA\u201d). The AEDPA became effective on April 24, 1996. Tiedeman requested a certificate of appealability from the District Court on August 28, 1996, and the District Court granted this request.\nInitially, Tiedeman argues that the AED-PA does not apply to this case. Such an application, he says, would be retroactive, because his petition for habeas corpus was filed in the District Court before the enactment of AEDPA. We disagree. Whatever changes AEDPA has made with respect to appeals by habeas corpus petitioners are procedural only. The notice of appeal in this case, together with Tiedeman\u2019s application for a certificate of appealability, was filed after the enactment of AEDPA. We recognize that the Supreme Court, in Lindh v. Murphy, \u2014 U.S. -, 117 S.Ct. 2059, 138 L.Ed.2d 481 (1997), has held that the amendments made by AEDPA to Chapter 153 of Title 28 (including the parts of AEDPA that are at issue in this case), generally speaking, are prospective only. The particular provision of the law at issue in Lindh, however, had to do with the substantive standards for review of state-court judgments by habeas courts. In stating its holding at the end of its opinion, the Court said that \u201cthe new provisions of Chapter 153 generally apply only to cases filed after the Act became effective.\u201d \u2014 U.S. at -, 117 S.Ct. at 2068 (emphasis ours). The parties to this case agree that the new provisions with respect to certificates of appealability made no substantive change in the standards by which applications for such certificates are governed. Moreover, we can think of no reason why a new provision exclusively directed towards appeal procedures would depend for its effective date on the filing of a case in a trial court, instead of on the filing of a notice of appeal or similar document. Accordingly, we hold that AEDPA does apply to the certifieate-of-appealability issues presented in this case.\nSection 102 of the AEDPA amended 28 U.S.C. \u00a7 2253 so that it now reads, in pertinent part:\n(e)(1) Unless a circuit justice or judge issues a certificate of appealability, an appeal may not be taken to the court of appeals from\u2014\n(A) the final order in a habeas corpus proceeding in which the detention complained of arises out of process issued by a State Court; or\n(B) the final order in a proceeding under section 2255.\n(2) A certificate of appealability may issue under paragraph (1) only if the applicant has made a substantial showing of the denial of a constitutional right.\n(3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).\nThe other relevant provision of AEDPA is Section 103, which amended Fed. R.App. P. 22(b) to read as follows:\n(b) CERTIFICATE OF APPEALA-BILITY. \u2014 In a habeas corpus proceeding in which the detention complained of arises out of process issued by a State court, an appeal by the applicant for the writ may not proceed unless a district or a circuit judge issues a certificate of appealability pursuant to section 2253(c) of title 28, United States Code. If an appeal is taken by the applicant, the district judge who rendered the judgment shall either issue a certificate of appealability or state the reasons why such a certificate should not issue. The certificate or the statement shall be forwarded to the court of appeals with the notice of appeal and the file of the proceedings in the district court. If the district judge has denied the certificate, the applicant for the writ may then request issuance of the certificate by a circuit judge. If such a request is addressed to the court of appeals, it shall be deemed addressed to the judges thereof and shall be considered by a circuit judge or judges as the court deems appropriate. If no express request for a certificate is filed, the notice of appeal shall be deemed to constitute a request addressed to the judges of the court of appeals. If an appeal is taken by a State or its representative, a certificate of appealability is not required.\nThe problem is apparent. Section 103 of AEDPA clearly leaves district courts and district judges still in the picture with respect to certificates of appealability. Section 102, on the other hand, could reasonably be read to vest power over applications for certificates of appealability exclusively in appellate judges. The question, in the end, comes down to the meaning of the phrase \u201ca circuit justice or judge.\u201d If \u201ccircuit\u201d modifies \u201cjudge\u201d as well as \u201cjustice,\u201d then Section 102 of AEDPA appears to take district judges out of the loop. The difficulty, of course, is that this interpretation, though perhaps what some members of Congress subjectively intended, renders nugatory Section 103 of AEDPA.\nThis issue has now been decided by a number of courts of appeals, all of which have held that the new Fed. R.App. P. 22(b) must be given its plain meaning, and that \u201cjudge\u201d in Section 102 must include district judges. We find especially persuasive Judge Carnes\u2019s able opinion in Hunter v. United States, 101 F.3d 1565 (11th Cir.1996) (en banc). Every other circuit that has addressed the issue has held the same way. See Lozada v. United States, 107 F.3d 1011, 1014-16 (2d Cir.1997); United States v. Eyer, 113 F.3d 470, 472-74 (3d Cir.1997); Else v. Johnson, 104 F.3d 82, 83 (5th Cir.1997); Lyons v. Ohio Adult Parole Authority, 105 F.3d 1063, 1068-73 (6th Cir.), cert. denied, \u2014 U.S. -, 117 S.Ct. 1724, 137 L.Ed.2d 845 (1997); United States v. Asrar, 108 F.3d 217, 218 (9th Cir.1997), amended, 116 F.3d 1268 (9th Cir.1997); Houchin v. Zavaras, 107 F.3d 1465, 1468-69 (10th Cir. 1997); see also 1st Cir. R. 22.1(b) (Interim Rule); 7th Cir. R. 22.1(b). Thus, we agree with Hunter that under the AEDPA district courts possess the authority to issue certificates of appealability under Section 2253(c) and Fed. RApp. P. 22(b).\nIII.\nIn this case, the District Court issued a certificate but failed to follow Section 2253(e)(3), which requires that the certificate \u201cshall indicate which specific issue or issues satisfy the showing required by paragraph (2).\u201d Consequently, the certificate issued in this case is defective on its face. It does not specify any issue or issues with respect to which the applicant has made a substantial showing of the denial of a constitutional right. We therefore vacate the certificate. Under the previous law, when we were dealing with certificates of probable cause, we occasionally vacated certificates, see Kramer v. Kemna, 21 F.3d 305, 307 (8th Cir.1994), and we believe that this power is retained under the new law.\nNormally, a certificate of appealability granted by a district judge, if regular on its face and not procedurally defective, would mean that the appeal would proceed in this Court in the ordinary course. If we believed that the issues were without substance, we would simply summarily affirm the judgment, instead of taking the intermediate and wholly unnecessary step of vacating the certificate of appealability. In addition, in some instances it might make sense (as it did to the Court in Hunter) to remand a case to a district judge with the request that he or she specify the issue or issues on which the certificate of appealability had been granted. The present ease, however, has been fully briefed, and we have heard oral argument on all issues, including the merits. Thus, we are fully informed about the merits, and it would make no sense to go through the unnecessary step of remanding to the District Court with the request that an issue or issues be specified, when we already know, having fully considered the case, what we think the result ought to be.\nConsequently, we will treat this case as if no certificate of appealability had been granted by the District Court. In that event, the notice of appeal is treated as an application for certificate of appealability addressed to the judges of this Court. We hold that Tiedeman has not made a substantial showing of the denial of a constitutional right, and we therefore deny the certificate.\nTiedeman argues that the state failed to disclose material exculpatory evidence, permitted Miller to testify falsely, and exploited her false testimony in argument, all in violation of his right to due process of law. Tiedeman also argues that the trial judge imposed a 40-month upward departure in his sentence in violation of his due process rights.\nFirst, Tiedeman alleges that the prosecutor had access to, but failed to disclose, a police report from the May 7 incident which Tiedeman argues would show he was arrested for traffic warrants and not assault. Since the trial record is devoid of a discovery-violation allegation by Tiedeman, it is unknown whether an actual May 7 police report existed and what information it may have included. It is also unclear whether it was available to the prosecutor or Tiedeman. Moreover, since this allegation was not raised in state court, the issue is procedurally barred. See Buckley v. Lockhart, 892 F.2d 715, 718 (8th Cir.1989), cert. denied, 497 U.S. 1006, 110 S.Ct. 3243, 111 L.Ed.2d 753 (1990).\nSecond, Tiedeman argues that the prosecutor permitted Miller to testify falsely that she called the police on May 7 and that Tiedeman was arrested for assault. The prosecutor also commented on this evidence in her closing argument. While it appears that a third party, and not Miller, called the police on May 7, it is clear that the third party called the police because Tiedeman and Miller were fighting. It is irrelevant that a third party called the police instead of Miller. Also, Tiedeman claims he was arrested for traffic warrants and not for assault. Tiedeman had the opportunity to cross-examine Miller, to object to her testimony, or to call his own witnesses, none of which he did. Moreover, the jury did ultimately hear that he was arrested for unpaid fines. Finally, the record includes Tiedeman\u2019s criminal record, which contains two past convictions for the assault of his former girlfriend. We do not believe that Miller\u2019s testimony regarding the May 7 arrest rises to the level of a denial of due process.\nFinally, we do not believe that the 40-month upward departure in sentence violated Tiedeman\u2019s due-process rights. The trial court found that there were compelling circumstances in this case to justify an upward departure of 40 months. If this was error at all, which we doubt, the error is one of state law only, not cognizable on habeas.\nTiedeman has not made a substantial showing of the denial of any federal constitutional right. His application for a certificate of appealability is denied.\nIt is so ordered.\n. The Hon. Paul A. Magnuson, Chief Judge, United States District Court for the District of Minnesota, adopting the report and recommendation of The Hon. Jonathan G. Lebedoff, United Stales Magistrate Judge.\n. Tiedeman actually applied for a certificate of probable cause. However, the Antiterrorism and Effective Death Penalty Act of 1996 (\"AEDPA\u201d) has amended the law to read \"certificate of appealability\u201d instead of \"certificate of probable cause.\u201d Therefore, for the sake of clarity, we will refer to \u201ccertificates of appealability.\"",
+        "type": "majority",
+        "author": "RICHARD S. ARNOLD, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Lomax Marshall Smith, St. Paul, MN, argued for appellant.",
+      "Linda K. Jenny, Ass\u2019t. County Atty., Minneapolis, MN, argued for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "John R. TIEDEMAN, Appellant, v. Dennis BENSON, Warden, State of Minnesota, Appellee.\nNo. 96-3977.\nUnited States Court of Appeals, Eighth Circuit.\nSubmitted May 21, 1997.\nDecided Aug. 6, 1997.\nRehearing and Suggestion for Rehearing En Banc Denied Oct. 28, 1997.\nLomax Marshall Smith, St. Paul, MN, argued for appellant.\nLinda K. Jenny, Ass\u2019t. County Atty., Minneapolis, MN, argued for appellee.\nBefore RICHARD S. ARNOLD, Chief Judge, WOLLMAN and HANSEN, Circuit Judges.\nJudge McMillian would grant the suggestion."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 598,
+  "last_page_order": 603
+}

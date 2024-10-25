@@ -1,0 +1,824 @@
+{
+  "id": 8310881,
+  "name": "Alexander J. ANGLEMYER, Appellant (Defendant below), v. STATE of Indiana, Appellee (Plaintiff below)",
+  "name_abbreviation": "Anglemyer v. State",
+  "decision_date": "2007-06-26",
+  "docket_number": "No. 43S05-0606-CR-230",
+  "first_page": "482",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "868 N.E.2d 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Ind.",
+    "id": 9745,
+    "name": "Supreme Court of Indiana"
+  },
+  "jurisdiction": {
+    "id": 14,
+    "name_long": "Indiana",
+    "name": "Ind."
+  },
+  "cites_to": [
+    {
+      "cite": "127 S.Ct. 856",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3553669
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "871",
+          "parenthetical": "quoting Booker, 543 U.S. at 233, 125 S.Ct. 738"
+        },
+        {
+          "parenthetical": "quoting Booker, 543 U.S. at 233, 125 S.Ct. 738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/549/0270-01"
+      ]
+    },
+    {
+      "cite": "848 N.E.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8409796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/848/0341-01"
+      ]
+    },
+    {
+      "cite": "864 N.E.2d 452",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8320398
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "457"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/864/0452-01"
+      ]
+    },
+    {
+      "cite": "856 N.E.2d 743",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8462253
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "749"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/856/0743-01"
+      ]
+    },
+    {
+      "cite": "861 N.E.2d 714",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8342260
+      ],
+      "pin_cites": [
+        {
+          "page": "716"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/861/0714-01"
+      ]
+    },
+    {
+      "cite": "858 N.E.2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8450848
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "681",
+          "parenthetical": "Vaidik, J., concurring in result"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/858/0676-01"
+      ]
+    },
+    {
+      "cite": "861 N.E.2d 1255",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8348418
+      ],
+      "pin_cites": [
+        {
+          "page": "1259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/861/1255-01"
+      ]
+    },
+    {
+      "cite": "862 N.E.2d 1212",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8349814
+      ],
+      "pin_cites": [
+        {
+          "page": "1216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/862/1212-01"
+      ]
+    },
+    {
+      "cite": "543 U.S. 220",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5925862
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0220-01"
+      ]
+    },
+    {
+      "cite": "848 N.E.2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8416524
+      ],
+      "pin_cites": [
+        {
+          "page": "1080"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/848/1073-01"
+      ]
+    },
+    {
+      "cite": "608 N.E.2d 1370",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10865915
+      ],
+      "pin_cites": [
+        {
+          "page": "1374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/608/1370-01"
+      ]
+    },
+    {
+      "cite": "500 N.E.2d 747",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11028225
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "749",
+          "parenthetical": "\"If significant mitigating circumstances are clearly supported by the record, it would be proper to remand with instructions to reconsider the sentence and enter a new sentencing statement in compliance with the foregoing requirements.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/500/0747-01"
+      ]
+    },
+    {
+      "cite": "711 N.E.2d 835",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11667135
+      ],
+      "pin_cites": [
+        {
+          "page": "838"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/711/0835-01"
+      ]
+    },
+    {
+      "cite": "688 N.E.2d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11881910
+      ],
+      "pin_cites": [
+        {
+          "page": "1236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/688/1230-01"
+      ]
+    },
+    {
+      "cite": "853 N.E.2d 523",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8301704
+      ],
+      "pin_cites": [
+        {
+          "page": "530"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/853/0523-01"
+      ]
+    },
+    {
+      "cite": "735 N.E.2d 1138",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11197840
+      ],
+      "pin_cites": [
+        {
+          "page": "1145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/735/1138-01"
+      ]
+    },
+    {
+      "cite": "695 N.E.2d 117",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11827406
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/695/0117-01"
+      ]
+    },
+    {
+      "cite": "767 N.E.2d 967",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9426262
+      ],
+      "pin_cites": [
+        {
+          "page": "972"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/767/0967-01"
+      ]
+    },
+    {
+      "cite": "675 N.E.2d 1067",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11916054
+      ],
+      "pin_cites": [
+        {
+          "page": "1073-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/675/1067-01"
+      ]
+    },
+    {
+      "cite": "728 N.E.2d 147",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11511508
+      ],
+      "pin_cites": [
+        {
+          "page": "155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/728/0147-01"
+      ]
+    },
+    {
+      "cite": "473 N.E.2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11040779
+      ],
+      "pin_cites": [
+        {
+          "page": "640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/473/0637-01"
+      ]
+    },
+    {
+      "cite": "849 N.E.2d 538",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8402971
+      ],
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/849/0538-01"
+      ]
+    },
+    {
+      "cite": "424 N.E.2d 1021",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11061395
+      ],
+      "pin_cites": [
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/424/1021-01"
+      ]
+    },
+    {
+      "cite": "773 N.E.2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11413561,
+        11413660
+      ],
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/773/0259-01",
+        "/ne2d/773/0259-02"
+      ]
+    },
+    {
+      "cite": "849 N.E.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8403112
+      ],
+      "pin_cites": [
+        {
+          "page": "594-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/849/0591-01"
+      ]
+    },
+    {
+      "cite": "417 N.E.2d 316",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11051736
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "319"
+        },
+        {
+          "page": "319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/417/0316-01"
+      ]
+    },
+    {
+      "cite": "275 Ind. 407",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1830805
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/275/0407-01"
+      ]
+    },
+    {
+      "cite": "508 N.E.2d 1274",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11026779
+      ],
+      "pin_cites": [
+        {
+          "page": "1278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/508/1274-01"
+      ]
+    },
+    {
+      "cite": "856 N.E.2d 142",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8457070
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "146"
+        },
+        {
+          "page": "146-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/856/0142-01"
+      ]
+    },
+    {
+      "cite": "823 N.E.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9009963
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "683"
+        },
+        {
+          "page": "685"
+        },
+        {
+          "page": "686"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/823/0679-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 296",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5868041
+      ],
+      "weight": 22,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "301"
+        },
+        {
+          "page": "303-04"
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "304"
+        },
+        {
+          "page": "301"
+        },
+        {
+          "page": "299"
+        },
+        {
+          "page": "300"
+        },
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0296-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 11,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "468-69"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "490"
+        },
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "477 N.E.2d 883",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11040269,
+        11040210,
+        11040173
+      ],
+      "pin_cites": [
+        {
+          "page": "886"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/477/0883-03",
+        "/ne2d/477/0883-02",
+        "/ne2d/477/0883-01"
+      ]
+    },
+    {
+      "cite": "493 N.E.2d 1250",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11031337
+      ],
+      "pin_cites": [
+        {
+          "page": "1254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/493/1250-01"
+      ]
+    },
+    {
+      "cite": "659 N.E.2d 522",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10922153
+      ],
+      "pin_cites": [
+        {
+          "page": "527-28"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/659/0522-01"
+      ]
+    },
+    {
+      "cite": "856 N.E.2d 1203",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8463224
+      ],
+      "pin_cites": [
+        {
+          "page": "1207"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/856/1203-01"
+      ]
+    },
+    {
+      "cite": "388 N.E.2d 513",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11071801
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "516-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/388/0513-01"
+      ]
+    },
+    {
+      "cite": "270 Ind. 627",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1821863
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/270/0627-01"
+      ]
+    },
+    {
+      "cite": "769 N.E.2d 172",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        9435645
+      ],
+      "pin_cites": [
+        {
+          "page": "179-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/769/0172-01"
+      ]
+    },
+    {
+      "cite": "855 N.E.2d 1012",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "845 N.E.2d 1087",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        8426200
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1090-92"
+        },
+        {
+          "page": "1092"
+        },
+        {
+          "page": "1090-91",
+          "parenthetical": "all holding that challenges to a trial court's sentencing statement present no issue for appellate review"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/845/1087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1419,
+    "char_count": 35638,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 5.247080835817539e-06,
+      "percentile": 0.9989202073171062
+    },
+    "sha256": "a69d4fd084d4864f23262c6e31c802dfe8b78192a84fcbac33e52ebac247d22b",
+    "simhash": "1:8a12bc74ff079dc0",
+    "word_count": 5592
+  },
+  "last_updated": "2024-02-27T21:45:01.603791+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "SHEPARD, C.J., and DICKSON, SULLIVAN and BOEHM, JJ., concur."
+    ],
+    "parties": [
+      "Alexander J. ANGLEMYER, Appellant (Defendant below), v. STATE of Indiana, Appellee (Plaintiff below)."
+    ],
+    "opinions": [
+      {
+        "text": "RUCKER, Justice.\nSummary\nIn this opinion we discuss the respective roles of Indiana trial and appellate courts under the 2005 amendments to Indiana\u2019s criminal sentencing statutes. We hold that where a trial court imposes sentence for a felony offense it is required to issue a sentencing statement that includes a reasonably detailed recitation of the trial court\u2019s reasons for the sentence imposed. The standard of review is abuse of discretion.\nFacts and Procedural History\nAround 10:00 p.m. on May 14, 2005, Alexander J. Anglemyer telephoned a local restaurant and ordered a pizza. He advised the person taking the order that the delivery driver should bring change for a one hundred dollar bill. Anglemyer provided the address to a vacant house located at the end of a residential street. When the driver arrived Anglemyer walked up to him with his hands behind his back. The driver thought that Anglemyer was reaching for his wallet, but \u201cthe next thing [the driver] kn[e]w, [he] got hit in the head.\u201d App. at 30. The driver fell to the ground where Anglemyer continued to beat and kick him while shouting \u201c[g]ive me your money.\u201d Id. The driver tossed Anglemyer a pouch containing cash and checks. As a result of the attack the driver suffered severe pain, a broken right arm, and a laceration to his head requiring seven staples. Id. at 7.\nAnglemyer was arrested shortly thereafter and later charged with Count I, robbery as a Class B felony, and Count II, battery as a Class C felony. Under the terms of a written plea agreement, Angle-myer agreed to plead guilty as charged. Among other things the agreement provided that the \u201csentence will not exceed sixteen (16) years executed. Each count\u2019s sentence shall run consecutive.\u201d Id. at 8. The trial court accepted the agreement, and Anglemyer pleaded guilty pursuant to its terms. At the sentencing hearing the trial court imposed a ten-year sentence for the Class B felony conviction and a six-year sentence for the Class C felony conviction. Ordering the sentences to run consecutively, the trial court imposed a total term of sixteen years.\nAppealing his sentence Anglemyer raised a single issue, \u201cWhether the maximum possible sentence imposed under the Plea Agreement is inappropriate in light of Anglemyer\u2019s character and the nature of the offenses.\u201d Br. of Appellant at 2. The Court of Appeals declined to address this claim. However, because in the argument section of his brief Anglemyer focused upon alleged trial court error in identifying and weighing aggravating and mitigating factors, the Court of Appeals addressed these claims. Concluding, among other things, that under the amended statutory scheme any error related to the trial court\u2019s findings of aggravating and mitigating circumstances is harmless, the court affirmed the trial court\u2019s judgment. Anglemyer v. State, 845 N.E.2d 1087, 1090-92 (Ind.Ct.App.2006). We previously granted transfer, thereby vacating the Court of Appeals\u2019 opinion. See Anglemyer v. State, 855 N.E.2d 1012 (Ind.2006) (Table); Ind. Appellate Rule 58(A). We now affirm the judgment of the trial court, but for reasons slightly different from those of our colleagues.\nBackground\nIn order to produce more uniform sentences the Indiana Legislature adopted a sentencing scheme in 1977 that included a fixed term presumptive sentence for each class of felonies. See Ind.Code \u00a7\u00a7 35-50-2-3 to -7 (West Supp.1977). These statutes also created upper and lower limits for each class of felony offenses. Id. In deciding whether to depart from the presumptive sentence, the trial judge was required to consider five enumerated factors and could consider various other aggravating and mitigating factors. See I.C. \u00a7 35-4.1-4-7 (West Supp.1977). The upper and lower limits were revised over the years, but from the time this sentencing arrangement was adopted, our courts understood it as requiring a given presumptive term for each class of crimes from which a judge could deviate upon a finding of aggravating or mitigating circumstances deemed adequate to justify adding or subtracting years. See, e.g., Henderson v. State, 769 N.E.2d 172, 179-80 (Ind.2002); Gardner v. State, 270 Ind. 627, 388 N.E.2d 513, 516-19 (1979). To facilitate this sentencing arrangement we determined that when a trial judge deviated from the fixed term presumptive sentence, it was required to \u201c(1) identify all significant mitigating and aggravating circumstances; (2) state the specific reason why each circumstance ha[d] been determined to be mitigating or aggravating; and (3) articulate the court\u2019s evaluation and balancing of circumstances.\u201d Prickett v. State, 856 N.E.2d 1203, 1207 (Ind.2006); see also Harris v. State, 659 N.E.2d 522, 527-28 (Ind.1995); Hammons v. State, 493 N.E.2d 1250, 1254 (Ind.1986); Robinson v. State, 477 N.E.2d 883, 886 (Ind.1985).\nIn 2000 the United States Supreme Court decided Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000). Apprendi involved a New Jersey \u201chate crime\u201d statute that authorized a trial court to increase the sentencing range for a crime when the court found, by a preponderance of the evidence, that the defendant\u2019s purpose in committing the crime was to intimidate an individual or a group because of race, color, gender, handicap, religion, sexual orientation, or ethnicity. Id. at 468-69, 120 S.Ct. 2348. Finding this statute unconstitutional under the Fourteenth Amendment\u2019s Due Process Clause,, the Court announced the rule that \u201c[ojther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.\u201d Id. at 490, 120 S.Ct. 2348.\nFour years later in Blakely v. Washington, 542 U.S. 296, 124 S.Ct. 2531, 159 L.Ed.2d 403 (2004), the Supreme Court reiterated, \u201cOther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.\u201d Id. at 301, 124 S.Ct. 2531 (quoting Apprendi, 530 U.S. at 490, 120 S.Ct. 2348). However, the Court clarified that \u201cthe \u2018statutory maximum\u2019 for Apprendi purposes is the maximum sentence a judge may impose solely on the basis of the facts reflected in the jury verdict or admitted by the defendant.\u201d Id. at 303, 124 S.Ct. 2531 (emphasis omitted). The Court further explained, \u201cIn other words, the relevant \u2018statutory maximum\u2019 is not the maximum sentence a judge may impose after finding additional facts, but the maximum he may impose without any additional findings.\u201d Id. at 303-04, 124 S.Ct. 2531. The Court thus declared that defendant Blakely\u2019s sentence, enhanced based on various facts found by the sentencing judge, violated Blakely\u2019s Sixth Amendment right to a jury trial. Id. at 305, 124 S.Ct. 2531. Not surprisingly, this decision cast doubt over the constitutionality of sentencing schemes throughout the country. And Indiana was no exception.\nResponding to Blakely this Court declared that Indiana\u2019s fixed term sentencing scheme was the functional equivalent of the sentencing scheme the Supreme Court disapproved in Blakely. In Smylie v. State, 823 N.E.2d 679 (Ind.2005), we noted that, \u201cBoth establish a mandatory starting point for sentencing criminals based on the elements of proof necessary to prove a particular offense and the sentencing class into which the offense falls. The trial court judge then must engage in judicial fact-finding during sentencing if a sentence greater than the presumptive fixed term is to be imposed. It is this type of judicial fact-finding that concerned the Court in Blakely.\u201d Id. at 683. We thus concluded that Indiana\u2019s sentencing scheme ran afoul of the Sixth Amendment because \u201cit mandates both a fixed term and permits judicial discretion in finding aggravating or mitigating circumstances to deviate from the fixed term.\u201d Id. at 685. Although reaching this conclusion, we identified two alternative ways in which Indiana\u2019s sentencing scheme could pass constitutional muster: \u201c(1) our present arrangement of fixed presumptive terms, modified to require jury findings on facts in aggravation, or (2) a system in which there is no stated \u2018fixed term\u2019 (or at least none that has legally binding effect) in which judges would impose sentences without a jury.\u201d Id. To remedy the constitutional infirmity, we endorsed the former alternative, namely: a jury must find the facts used to enhance a fixed presumptive term. In our view, jury sentencing was more faithful to \u201cthe overarching theme of Indiana\u2019s 1977 sentencing reform,\u201d that of \u201cabandoning] indeterminate sentencing in favor of fixed and predictable penalties.\u201d Id. at 686.\nWithin weeks of Smylie, the Legislature amended Indiana\u2019s sentencing statutes essentially adopting the second alternative Smylie identified. The Legislature left intact lower and upper limits for each class of felony offenses, but eliminated fixed presumptive terms in favor of \u201cadvisory sentences\u201d that are between the minimum and maximum terms. See I.C. \u00a7 35-50-2-3 to -7. In addition the Legislature eliminated the requirement that trial courts must consider certain mandatory circumstances when determining the exact sentence to be imposed. Rather, the amended statute now includes a non-exhaustive list of aggravating and mitigating circumstances trial courts \u201cmay consider,\u201d I.C. \u00a7 35-38-l-7.1(a)-(b), and provides in part:\nA court may impose any sentence that is:\n(1) authorized by statute; and\n(2) permissible under the Constitution of the State of Indiana; regardless of the 'presence or absence of aggravating circumstances or mitigating circumstances.\nI.C. \u00a7 35 \u2014 38\u20141\u20147.1(d) (emphasis added). Notwithstanding this provision the Legislature retained Indiana Code section 35-38-1-3 that provides:\nBefore sentencing a person for a felony, the court must conduct a hearing to consider the facts and circumstances relevant to sentencing. The person is entitled to subpoena and call witnesses and to present information in his own behalf.\nThe court shall make a record of the hearing, including:\n(1) a transcript of the hearing;\n(2) a copy of the presentence report; and\n(3) if the court finds aggravating circumstances or mitigating circumstances, a statement of the court\u2019s reasons for selecting the sentence that it imposes.\nIn the aftermath of these legislative revisions the Court of Appeals has been divided on whether and to what extent trial judges are now required to make sentencing statements explaining their sentencing decisions and whether any such statements must include findings of aggravating and mitigating factors. Closely related to these issues are the scope and role of appellate review. This lack of consensus is understandable. Writing for the panel in Gibson v. State, 856 N.E.2d 142 (Ind.Ct. App.2006), Judge Barnes noted the challenges courts now face in a post-Blakely/Smylie world. He observed, \u201c[T]he new statutes raise a new set of questions as to the respective roles of trial and appellate courts in sentencing, the necessity of a trial court continuing to issue sentencing statements, and appellate review of a trial court\u2019s finding of aggravators and miti-gators under a scheme where the trial court does not have to find aggravators or mitigators to impose any sentence within the statutory range for an offense, including the maximum sentence. The continued validity or relevance of well-established case law developed under the old \u2018presumptive\u2019 sentencing scheme is unclear.\u201d Id. at 146. We acknowledge Judge Barnes\u2019 concerns. We also observe that subsequent to this case reaching us, the Legislature has spoken further on the subject mandating that, \u201cAfter a court has pronounced a sentence for a felony conviction, the court shall issue a statement of the court\u2019s reasons for selecting the sentence that it imposes.\u201d Pub.L. No. 178-2007 (to be codified at I.C. \u00a7 35-38-1-1.3) (effective July 1, 2007).\nAnalysis\nWe begin our discussion by observing that Indiana\u2019s new sentencing statutes apparently were enacted to resolve the Sixth Amendment problem Blakely presented. By eliminating fixed terms, the Legislature created a regime in which there is no longer a maximum sentence a judge \u201cmay impose without any additional findings.\u201d Blakely, 542 U.S. at 304, 124 S.Ct. 2531 (emphasis omitted). And this is so because for Blakely purposes the maximum sentence is now the upper statutory limit. As a result, even with judicial findings of aggravating circumstances, it is now impossible to \u201cincrease [ ] the penalty for a crime beyond the prescribed statutory maximum.\u201d Blakely, 542 U.S. at 301, 124 S.Ct. 2531 (quoting Apprendi, 530 U.S. at 490, 120 S.Ct. 2348).\nThis is not to say however that a sentencing statement setting forth the trial court\u2019s reasons for the sentence imposed no longer plays a role in the trial court\u2019s sentencing decision. Even before the 2005 and 2007 statutes requiring sentencing statements, our case law made clear that sentencing statements served two primary purposes: (1) they guarded against arbitrary and capricious sentencing, and (2) they provided an adequate basis for appellate review. Dumbsky v. State, 508 N.E.2d 1274, 1278 (Ind.1987). We have also observed:\n[A] statement of reasons for imposing a particular sentence serves numerous other goals beyond the two primary goals. An attempt by the sentencing judge to articulate his [or her] reasons for a sentence in each case should in itself contribute significantly to the rationality and consistency of sentences. A statement by the sentencing judge explaining the reasons for commitment can help both the defendant and the public understand why a particular sentence, was imposed. An acceptance of the sentence by the defendant without bitterness is an important ingredient in rehabilitation, and acceptance by the public will foster confidence in the criminal justice system.\nAbercrombie v. State, 275 Ind. 407, 417 N.E.2d 316, 319 (1981). These goals are no less important today.\nEven though the statute unambiguously declares that a trial judge may impose any sentence within the statutory range without regard to the existence of aggravating or mitigating factors, it is important to note that the statute does not prohibit the judge from identifying facts in aggravation or mitigation. Indeed the statute requires that if the trial court \u201cfinds\u201d the existence of \u201caggravating circumstances or mitigating circumstances\u201d then the trial court is required to give \u201ca statement of the court\u2019s reasons for selecting the sentence that it imposes.\u201d I.C. \u00a7 35-38-1-3. This language suggests a legislative acknowledgement that a sentencing statement identifying aggravators and mitigators retains its status as an integral part of the trial court\u2019s sentencing procedure. And this view is consistent with Blakely, which we have noted, \u201cdoes not prohibit a trial court from finding aggravating circumstances. What [Blakely] does prohibit is a trial court finding an aggravating circumstance and enhancing a sentence beyond the statutory maximum.\u201d Davidson v. State, 849 N.E.2d 591, 594-95 (Ind.2006). Again, we note, under the amended statutory regime it is impossible to enhance a sentence beyond the statutory maximum.\nWe hasten to reiterate that the 2005 amendments were designed to rectify the Sixth Amendment problem that Blakely presented. We discern no legislative intent otherwise to alter fundamentally the trial procedure for sentencing criminal defendants. Thus, construing what we believe is a legislative intent to retain the traditional significance of sentencing statements we conclude that under the new statutory regime Indiana trial courts are required to enter sentencing statements whenever imposing sentence for a felony offense. In order to facilitate its underlying goals, see Abercrombie, 417 N.E.2d at 319, the statement must include a reasonably detailed recitation of the trial court\u2019s reasons for imposing a particular sentence. If the recitation includes a finding of aggravating or mitigating circumstances, then the statement must identify all significant mitigating and aggravating circumstances and explain why each circumstance has been determined to be mitigating or aggravating.\nBut what of appellate review? It is true that the discretion trial courts are now afforded in imposing sentences is significantly broader than that existing under the prior statutes. But our standard of review is only modestly altered by the new sentencing regime. That is to say, subject to the review and revise power discussed below, sentencing decisions rest within the sound discretion of the trial court and are reviewed on appeal only for an abuse of discretion. Smallwood v. State, 773 N.E.2d 259, 263 (Ind.2002). Nothing in the amended statutory regime changes this standard. So long as the sentence is within the statutory range, it is subject to review only for abuse of discretion. As we have previously observed, \u201cIn order to carry out our function of reviewing the trial court\u2019s exercise of discretion in sentencing, we must be told of [its] reasons for imposing the sentence.... This necessarily requires a statement of facts, in some detail, which are peculiar to the particular defendant and the crime, as opposed to general impressions or conclusions. Of course such facts must have support in the record.\u201d Page v. State, 424 N.E.2d 1021, 1023 (Ind.1981). An abuse of discretion occurs if the decision is \u201cclearly against the logic and effect of the facts and circumstances before the court, or the reasonable, probable, and actual deductions to be drawn therefrom.\u201d K.S. v. State, 849 N.E.2d 538, 544 (Ind.2006) (quoting In re L.J.M., 473 N.E.2d 637, 640 (Ind.Ct.App.1986)).\nOne way in which a trial court may abuse its discretion is failing to enter a sentencing statement at all. Other examples include entering a sentencing statement that explains reasons for imposing a sentence \u2014 including a finding of aggravating and mitigating factors if any \u2014 but the record does not support the reasons, or the sentencing statement omits reasons that are clearly supported by the record and advanced for consideration, or the reasons given are improper as a matter of law. Under those circumstances, remand for resentencing may be the appropriate remedy if we cannot say with confidence that the trial court would have imposed the same sentence had it properly considered reasons that enjoy support in the record.\nBecause the trial court no longer has any obligation to \u201cweigh\u201d aggravating and mitigating factors against each other when imposing a sentence, unlike the pre-Blakely statutory regime, a trial court can not now be said to have abused its discretion in failing to \u201cproperly weigh\u201d such factors. See, e.g., Jackson v. State, 728 N.E.2d 147, 155 (Ind.2000) (finding that the Court could not determine from the sentencing statement whether the trial court \u201cproperly weighed\u201d the aggravating and mitigating factors); Morgan v. State, 675 N.E.2d 1067, 1073-74 (Ind.1996) (finding that the Court could not conclude that the aggravating and mitigating factors were \u201cproperly weighed\u201d where the sentencing statement did not, in part, explain its balancing process). And this is so because once the trial court has entered a sentencing statement, which may or may not include the existence of aggravating and mitigating factors, it may then \u201cimpose any sentence that is ... authorized by statute; and ... permissible under the Constitution of the State of Indiana.\u201d I.C. \u00a7 35-38-l-7.1(d). This does not mean however that criminal defendants have no recourse in challenging sentences they believe are excessive.\nAlthough a trial court may have acted within its lawful discretion in determining a sentence, Article VII, Sections 4 and 6 of the Indiana Constitution \u201cauthorize! ] independent appellate review and revision of a sentence imposed by the trial court.\u201d Childress, 848 N.E.2d at 1080 (emphasis omitted) (quoting Buchanan v. State, 767 N.E.2d 967, 972 (Ind.2002)). This appellate authority is implemented through Appellate Rule 7(B), which provides that the \u201cCourt may revise a sentence authorized by statute if, after due consideration of the trial court\u2019s decision, the Court finds that the sentence is inappropriate in light of the nature of the offense and the character of the offender.\u201d It is on this basis alone that a criminal defendant may now challenge his or her sentence where the trial court has entered a sentencing statement that includes a reasonably detailed recitation of its reasons for imposing a particular sentence that is supported by the record, and the reasons are not improper as a matter of law, but has imposed a sentence with which the defendant takes issue.\nTo summarize, the imposition of sentence and the review of sentences on appeal should proceed as follows:\n1. The trial court must enter a statement including reasonably detailed reasons or circumstances for imposing a particular sentence.\n2. The reasons given, and the omission of reasons arguably supported by the record, are reviewable on appeal for abuse of discretion.\n3. The relative weight or value assignable to reasons properly found or those which should have been found is not subject to review for abuse.\n4. Appellate review of the merits of a sentence may be sought on the grounds outlined in Appellate Rule 7(B).\nWith the foregoing framework in mind, we now turn to Anglemyer\u2019s claims.\nIn imposing sentence the trial court entered a sentencing statement identifying as aggravating factors Anglemyer\u2019s criminal history that included several juvenile adjudications as well as a September 2004 conviction for criminal conversion as a Class A misdemeanor and a December 2004 conviction for visiting a common nuisance, a Class B misdemeanor. As additional aggravating factors the court cited the seriousness of this offense and also noted that within months of the December 2004 conviction Anglemyer committed the instant offenses. The court listed Angle-myer\u2019s age \u2014 eighteen\u2014as the sole mitigating factor, but gave \u201cgreater weight to aggravating factors.\u201d App. at 84.\nAnglemyer does not contest his ten-year advisory sentence for the Class B robbery conviction. Instead he focuses on the six-year sentence \u2014 two years above the advisory sentence \u2014 the trial court imposed for the Class C battery conviction. And except for the trial court\u2019s finding of the \u201cseriousness of this offense\u201d Anglemyer does not challenge the propriety of the remaining aggravating factors. Rather he contends, \u201cSeveral valid mitigators were overlooked by the Trial Court....\u201d Br. of Appellant at 10.\nAs one might anticipate, not having the benefit of our analysis today, the trial court\u2019s sentencing statement does not include a \u201creasonably detailed recitation\u201d of the court\u2019s reasons for imposing a six-year term. However, the statement does identify both aggravating and mitigating factors and explain why they are deemed as such. It is thus sufficient for this Court to conduct meaningful appellate review.\nConcerning the seriousness of the offense, this aggravator, which implicitly includes the nature and circumstances of the crime as well as the manner in which the crime is committed, has long been held a valid aggravating factor. See, e.g., Taylor v. State, 695 N.E.2d 117, 120 (Ind. 1998). We find no error here.\nAnglemyer also contends the trial court \u201coverlooked\u201d the following mitigating factors: (1) the crime was the result of circumstances unlikely to recur, (2) he pleaded guilty, (3) he expressed remorse, and (4) he suffers \u201csignificant mental illness.\u201d Br. of Appellant at 10.\nOur existing precedent is equal to the task of resolving this contention. As our courts have determined in the past, the trial court does not abuse its discretion in failing to consider a mitigating factor that was not raised at sentencing. Georgopulos v. State, 735 N.E.2d 1138, 1145 (Ind.2000); see also Creekmore v. State, 853 N.E.2d 523, 530 (Ind.Ct.App.2006) (\u201c[I]f the defendant fails to advance a mitigating circumstance at sentencing, this court will presume that the factor is not significant, and the defendant is precluded from advancing it as a mitigating circumstance for the first time on appeal.\u201d). The record shows that at the sentencing hearing, Anglemyer argued the existence of two mitigating factors: his age and mental illness. App. at 100-02. As mentioned earlier, the trial court identified Angle-myer\u2019s age as a mitigating circumstance but assigned it minimal weight. We thus address Anglemyer\u2019s mental illness claim. The remaining alleged mitigating circumstances are precluded from review.\nBecause the trial court\u2019s recitation of its reasons for imposing sentence included a finding of mitigating circumstances, the trial court was required to identify all significant mitigating circumstances. See also Battles v. State, 688 N.E.2d 1230, 1236 (Ind.1997) (A sentencing statement must include those mitigators the trial court found to be significant.). An allegation that the trial court failed to identify or find a mitigating factor requires the defendant to establish that the mitigating evidence is both significant and clearly supported by the record. Carter v. State, 711 N.E.2d 835, 838 (Ind.1999); see also Wilkins v. State, 500 N.E.2d 747, 749 (Ind. 1986) (\u201cIf significant mitigating circumstances are clearly supported by the record, it would be proper to remand with instructions to reconsider the sentence and enter a new sentencing statement in compliance with the foregoing requirements.\u201d). However, \u201cIf the trial court does not find the existence of a mitigating factor after it has been argued by counsel, the trial court is not obligated to explain why it has found that the factor does not exist.\u201d Fugate v. State, 608 N.E.2d 1370, 1374 (Ind.1993).\nAnglemyer is incorrect in his assertion that the trial court \u201coverlooked\u201d his mental illness as a mitigating factor, or in the language of our decision today, that \u201cthe sentencing statement omits [a] reason[ ],\u201d specifically Anglemyer\u2019s mental illness, that is \u201csupported by the record.\u201d The record shows that at sentencing An-glemyer presented to the trial court a lengthy psychological evaluation conducted on March 29, 2001 which, summarized, revealed that at age fourteen Anglemyer suffered a personality disorder characterized by symptoms of \u201csituational stress,\u201d \u201cdepression,\u201d feelings of \u201cguilt[ ]\u201d and \u201cinadequate amounts of energy.\u201d App. at 77. Anglemyer also presented excerpts of a psychiatric evaluation dated July 1, 2002 that noted, \u201cAlex has a long history of emotional and behavioral problems.\u201d Id. at 82. He was diagnosed with \u201cBipolar Mood Disorder,\u201d \u201cIntermittent Explosive Disorder,\u201d and \u201cOppositional Defiant Disorder.\u201d Id. at 83.\nApparently around the time Anglemyer robbed and battered the pizza delivery driver, he was enrolled in a program at a mental health facility that included monitoring of Anglemyer\u2019s activities and providing him with medication to control his behavior. But Anglemyer dropped out of the program. Indeed the trial court questioned Anglemyer\u2019s counsel on this very point:\n[Trial Court] I guess my question was, was he involuntarily taken off or did he make a choice to not receive aid?\n[Defense counsel] There was a choice made in that he was offered by the Bowen Center the opportunity to continue on the program; however, the monitoring system is something that an 18 year old was not ready for.... He would have been monitored on a daily basis, counseling on a daily basis. As an 18 year old, he said no at that time....\n[Trial court] Here\u2019s the problem[ ] that I have with your argument ... Mr. Angle-myer, is to the extent that in our country at the present time an adult is considered to be 18 years of age. At 18 years of age you knew you had a problem. You were offered a helping hand and you slapped that hand away.... You could have lived your own life, but you didn\u2019t have to affect [the victim\u2019s] life and you did. He was injured. He lost work because you chose to not work, not get the help from the Bowen Center.\nApp. at 101-02, 104-05. It is apparent to us that rather than overlooking Angle-myer\u2019s mental illness, the trial court determined it was not significant and thus would not be a factor influencing the trial court\u2019s sentencing decision. This was the trial court\u2019s call. We find no error. To the extent Anglemyer complains that the trial court abused its discretion in failing to give his proffered mitigating factor greater weight, this claim is not available for appellate review.\nWe last address Anglemyer\u2019s inappropriateness claim. Although citing Appellate Rule 7(B) Anglemyer tells us nothing about the nature of the offense and little about his character. Instead he simply says, \u201cAn appropriate consideration of sentencing criteria should cause this Court to reduce Anglemyer\u2019s sentence for Count II (Battery) to the advisory period of four (4) years. Further, this sentence should be suspended and Anglemyer placed on probation for this period.\u201d Br. of Appellant at 7.\nWe have declared, \u201ca defendant must persuade the appellate court that his or her sentence has met th[e] inappropriateness standard of review.\u201d Childress, 848 N.E.2d at 1080. Anglemyer has not carried this burden. In any event, regarding the nature of the offense, the advisory sentence is the starting point the Legislature has selected as an appropriate sentence for the crime committed. Id. at 1081. The advisory sentence for a Class C felony is four years. See I.C. \u00a7 35-50-2-6(a). Here the trial court imposed a six-year term. Although the nature of the offense may justify an advisory sentence under some circumstances, those circumstances are not present in this case. The victim\u2019s beating was unnecessarily brutal. Anglemyer beat and kicked the victim while he was merely doing his job \u2014 delivering a pizza. As for the character of the offender, in addition to Anglemyer\u2019s history of criminal conduct, he was also on bond at the time he committed this offense. Further the instant offense was carried out through subterfuge, deceit, and careful planning. In the end we are not persuaded that nature of the offense or character of the offender justifies revising Angle-myer\u2019s sentence.\nConclusion\nWe affirm the judgment of the trial court.\nSHEPARD, C.J., and DICKSON, SULLIVAN and BOEHM, JJ., concur.\n. Relying on authority that stood for the proposition that once a defendant enters a plea agreement that calls for a sentencing cap, the defendant inherently agrees that such a sentence is appropriate, the court determined that Anglemyer \u201cwaived his appropriateness claim.\u201d Anglemyer v. State, 845 N.E.2d 1087, 1092 (Ind.Ct.App.2006). We recently disapproved of this proposition. Childress v. State, 848 N.E.2d 1073, 1080 (Ind.2006).\n. For example, Indiana Code section 35-50-2-5 (2004) provided that a person convicted of a Class B felony \"shall be imprisoned for a fixed term of ten (10) years, with not more than ten (10) years added for aggravating circumstances or not more than four (4) years subtracted for mitigating circumstances....\"\n. In Blakely the defendant kidnapped his wife at knifepoint, bound her and put her in his truck, and drove from Washington to Montana. The defendant pleaded guilty to second-degree kidnapping involving domestic violence and use of a firearm, a Class B felony. Under Washington state law punishment for a Class B felony was capped at ten years. See Blakely, 542 U.S. at 299, 124 S.Ct. 2531. According to Washington\u2019s Sentencing Reform Act, the standard sentencing range for Blakely's crime was 49 to 53 months. Id. The trial judge imposed an aggravated sentence of 90 months \u2014 37 months over the standard range \u2014 pursuant to a Washington statute that allowed an increased sentence if a judge found \"substantial and compelling reasons justifying an exceptional sentence.\" Id. (quoting Wash. Rev.Code \u00a7 9.94A.120(2) (2000)). The Washington trial judge had relied on \u201cdeliberate cruelty,\u201d an aggravating factor enumerated in the statutes. Id. at 300, 124 S.Ct. 2531.\n. As Justice O\u2019Connor observed, \"The consequences of today's decision will be as far reaching as they are disturbing. Washington\u2019s sentencing system is by no means unique. Numerous other States have enacted guidelines systems, as has the Federal Government. Today's decision casts constitutional doubt over them all and, in so doing, threatens an untold number of criminal judgments.\u201d Blakely, 542 U.S. at 323, 124 S.Ct. 2531 (O\u2019Connor, J., dissenting) (citations omitted).\n.We observed that this latter alternative reflected the solution reached by the Supreme Court in United States v. Booker, 543 U.S. 220, 125 S.Ct. 738, 160 L.Ed.2d 621 (2005) (Applying Blakely to the Federal Sentencing Guidelines, the Court severed and excised a portion of the sentencing statute that made the sentence indicated by the Guidelines range mandatory unless the trial court found aggravating or mitigating circumstances not adequately considered by the U.S. Sentencing Commission.).\n. For example Indiana Code section 35-50-2-5 provides that a person convicted of a Class B felony \"shall be imprisoned for a fixed term of between six (6) and twenty (20) years, with the advisory sentence being ten (10) years.\u201d We note that the \"advisory\u201d sentences under the newly enacted statutes are the same as the \"presumptive\u201d sentences under the previous statutes.\n. Compare Golden v. State, 862 N.E.2d 1212, 1216 (Ind.Ct.App.2007), trans. denied; McDonald v. State, 861 N.E.2d 1255, 1259 (Ind. Ct.App.2007), trans. pending; Windhorst v. State, 858 N.E.2d 676, 678 n. 2 (Ind.Ct.App. 2006), trans. granted; Anglemyer, 845 N.E.2d at 1090-91 (all holding that challenges to a trial court\u2019s sentencing statement present no issue for appellate review); with Williams v. State, 861 N.E.2d 714, 716 (Ind.Ct.App.2007), trans. not sought; Windhorst, 858 N.E.2d at 681 (Vaidik, J., concurring in result); McMahon v. State, 856 N.E.2d 743, 749 (Ind.Ct.App. 2006), trans. not sought; Gibson, 856 N.E.2d at 146-47, trans. not sought (all finding that trial courts have a continuing obligation to issue sentencing statements). See also Luhrsen v. State, 864 N.E.2d 452, 457 (Ind.Ct.App. 2007); Henderson v. State, 848 N.E.2d 341, 347-48 n. 4 (Ind.Ct.App.2006) (Sullivan, J., concurring in result) (both recognizing the split among panels of the Court of Appeals).\n. In a recent decision the United States Supreme Court referenced Indiana as one of two jurisdictions that has modified its sentencing statutes in the wake of Apprendi and Blakely to permit judges \" 'to exercise broad discretion ... within a statutory range,\u2019 which, 'everyone agrees,\u2019 encounters no Sixth Amendment shoal.\u201d Cunningham v. California, - U.S. -, -, 127 S.Ct. 856, 871, 166 L.Ed.2d 856 (2007) (quoting Booker, 543 U.S. at 233, 125 S.Ct. 738).\n. The amended sentencing scheme was enacted on April 25, 2005. Pub.L. No. 71-2005, \u00a7 3 (codified at I.C. \u00a7 35-38-1-7.1(d) (West Supp.2005)); Pub.L. No. 71-2005, \u00a7 5 (codified at I.C. \u00a7 35-50-2-1.3 (West Supp.2005)). It thus applies to Anglemyer whose crimes were committed thereafter.",
+        "type": "majority",
+        "author": "RUCKER, Justice."
+      }
+    ],
+    "attorneys": [
+      "Joel M. Schumm, Indiana University School of Law, Indianapolis, IN, Michael W. Reed, Reed & Earhart Attorneys at Law, P.C., Warsaw, IN, Attorneys for Appellant.",
+      "Steve Carter, Attorney General of Indiana, Justin F. Roebel, Deputy Attorney General, Indianapolis, IN, Attorneys for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Alexander J. ANGLEMYER, Appellant (Defendant below), v. STATE of Indiana, Appellee (Plaintiff below).\nNo. 43S05-0606-CR-230.\nSupreme Court of Indiana.\nJune 26, 2007.\nJoel M. Schumm, Indiana University School of Law, Indianapolis, IN, Michael W. Reed, Reed & Earhart Attorneys at Law, P.C., Warsaw, IN, Attorneys for Appellant.\nSteve Carter, Attorney General of Indiana, Justin F. Roebel, Deputy Attorney General, Indianapolis, IN, Attorneys for Appellee."
+  },
+  "file_name": "0482-01",
+  "first_page_order": 556,
+  "last_page_order": 568
+}
