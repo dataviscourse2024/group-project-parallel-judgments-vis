@@ -22,7 +22,70 @@ h1 {
     box-sizing: border-box; /* To include padding in the element's total width */
 }
 
-/* General table styling */
+/* Date range slider container styling */
+#date-range-slider-container {
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Date range slider label styling */
+#date-range-slider-container label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+/* Date range slider styling */
+#date-range-slider {
+    width: 80%;
+    margin: 10px 0;
+    -webkit-appearance: none;
+    appearance: none;
+    height: 8px;
+    background: #ddd;
+    outline: none;
+    opacity: 0.9;
+    transition: opacity 0.2s;
+    border-radius: 4px;
+}
+
+#date-range-slider:hover {
+    opacity: 1;
+}
+
+#date-range-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #4CAF50;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+#date-range-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: #4CAF50;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+/* Date range values display styling */
+#date-range-values {
+    display: block;
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333;
+}
+
 /* General table styling */
 .table-wrapper {
     width: 90vw; /* Take up 90% of viewport width */
@@ -98,7 +161,6 @@ h1 {
     position: relative;
     z-index: 1;
 }
-
 /* Truncated content styling */
 .truncate {
     max-width: 100%;

@@ -5,10 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parallel Judgments Visualization</title>
     <link rel="stylesheet" href="css/style.css">
+    <!-- noUiSlider CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.css" />
+    <!-- noUiSlider JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script>
 </head>
 <body>
     <h1>Parallel Judgments: Case Comparisons</h1>
-    
+
+    <!-- Add date range slider -->
+    <div id="date-range-slider-container">
+        <label for="date-range-slider">Filter by Decision Date Range:</label>
+        <div id="date-range-slider"></div> <!-- Slider container -->
+        <span id="date-range-values"></span>
+    </div>    
+
     <!-- Placeholder for the table -->
     <div id="table-area"></div>
     
