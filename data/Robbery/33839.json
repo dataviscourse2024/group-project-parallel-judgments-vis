@@ -1,0 +1,47 @@
+{
+    "id": 6116824,
+    "judges": null,
+    "date_filed": 784425600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-ali",
+    "case_name_short": "Ali",
+    "case_name": "People v. Ali",
+    "case_name_full": "The People of the State of New York v. Rasheed Ali",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "209 A.D.2d 227",
+        "618 N.Y.S.2d 640"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment, Supreme Court, New York County (James Leff, J., on speedy trial motion; Frederic Berman, J., at trial and sentence), rendered April 13, 1993, convicting the defendant, after a nonjury trial, of robbery in the third degree, and sentencing him, as a second felony offender, to a term of 3 Vi to 7 years, unanimously affirmed.\nThe speedy trial period began on September 23, 1991, when the felony complaint was filed (People v Sinistaj, 67 NY2d 236, 239), not at the time of defendant\u2019s arrest four days earlier, and such four-day period should not be charged to the People notwithstanding that they incorrectly conceded the period on the motion (see, e.g., People v Marshall, 91 AD2d 900, 901). Although the five-day period during which the People failed to produce defendant while in their custody is chargeable to the People (see, People v Anderson, 66 NY2d 529, 538), the time periods during which defendant voluntarily absented himself from court for medical and religious reasons are not (CPL 30.30 [4] [c]; People v Toro, 151 AD2d 142, 143-144, lv dismissed 75 NY2d 818). The extensive time period during which the prosecution\u2019s witness underwent surgery and recuperation is also excludable (CPL 30.30 [4] [g]; People v Pomales, 159 AD2d 451, 452, lv denied 76 NY2d 847).\nDefense counsel\u2019s assertion on September 16, when the People announced their readiness, that he would be filing a CPL 30.30 motion prompted an adjournment for defense motions that was properly excludable despite counsel\u2019s subsequent notice to the prosecutor, but not the court, that he would not be filing the motion, until the People were in fact ready. The fact that the assigned prosecutor was on trial on September 16, and not prepared to try the case himself did not render his announcement of readiness ineffective since another prosecutor could have tried the case. However, the period between September 30 and October 8 should have been charged to the People since by this time they knew that the defense would not be filing a motion and that they did not, therefore, have to file a response. In sum, a total of 163 days were chargeable to the People, and thus defendant\u2019s motion was properly denied. Concur\u2014Rosenberger, J. P., Kupferman, Asch and Tom, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5981744
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

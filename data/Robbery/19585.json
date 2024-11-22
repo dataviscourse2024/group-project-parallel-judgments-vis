@@ -1,0 +1,47 @@
+{
+    "id": 1762545,
+    "judges": "Bronson, Danhoe, McGregor",
+    "date_filed": 29030400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-james-brown",
+    "case_name_short": null,
+    "case_name": "People v. James Brown",
+    "case_name_full": "People v. James Brown",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, James K. Miller, Prosecuting Attorney, Donald A. Johnston III, Chief Appellate Attorney, and Thomas J. Eggleston, Assistant Prosecuting Attorney, for the people., Thomas G. Vanden Bosch, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b441-4\">\n    PEOPLE\n    <em>\n     v.\n    </em>\n    JAMES BROWN\n   </parties><docketnumber id=\"AqK\">\n    (Docket No. 7,527.)\n   </docketnumber><decisiondate id=\"Atj\">\n    Decided December 3, 1970.\n   </decisiondate><br><attorneys id=\"b441-11\">\n<em>\n     Frank J. Kelley,\n    </em>\n    Attorney General,\n    <em>\n     Robert A. Derengoski,\n    </em>\n    Solicitor General,\n    <em>\n     James K. Miller,\n    </em>\n    Prosecuting Attorney,\n    <em>\n     Donald A. Johnston III,\n    </em>\n    Chief Appellate Attorney, and\n    <em>\n     Thomas J. Eggleston,\n    </em>\n    Assistant Prosecuting Attorney, for the people.\n   </attorneys><br><attorneys id=\"b441-12\">\n<em>\n     Thomas G. Vanden Bosch,\n    </em>\n    for defendant on appeal.\n   </attorneys><br><judges id=\"b441-13\">\n    Before: McGregor, P. J., and Bronson and Danhoe, JJ.\n   </judges>",
+    "citations": [
+        "184 N.W.2d 461",
+        "28 Mich. App. 421"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n28 Mich. App. 421 (1970)\n184 N.W.2d 461\nPEOPLE\nv.\nJAMES BROWN\nDocket No. 7,527.\nMichigan Court of Appeals.\nDecided December 3, 1970.\nFrank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, James K. Miller, Prosecuting Attorney, Donald A. Johnston III, Chief Appellate Attorney, and Thomas J. Eggleston, Assistant Prosecuting Attorney, for the people.\nThomas G. Vanden Bosch, for defendant on appeal.\nBefore: McGREGOR, P.J., and BRONSON and DANHOF, JJ.\n*422 PER CURIAM.\nJames Brown was tried by a jury and convicted on the charge of robbery unarmed contrary to MCLA \u00a7 750.530 (Stat Ann 1954 Rev \u00a7 28.798). On March 12, 1969 he was sentenced to a term of 4 to 15 years imprisonment by Judge Roman J. Snow of the Kent County Circuit Court. With the assistance of court-appointed appellate counsel a timely claim of appeal was filed and grounded on two allegations of error.\nFirst, it is contended that defendant was denied his right to a speedy trial. Second, it is contended that the lower court erred in denying defendant's motion to suppress certain evidence seized from him at the time of his arrest. The people have filed a motion to affirm the conviction and sentence on the ground that the questions presented are so unsubstantial as to warrant no argument or formal submission.\nThe defendant first contends that he was denied his right to a speedy trial. The record does not reveal that defendant made a demand for a speedy trial at any time.\n\"To preserve the right of speedy trial, a defendant must demand it.\" People v. Kennedy (1970), 23 Mich App 6, 8.\nDefendant's second contention is that the lower court erred in allowing into evidence the $20 bill seized from the defendant at the time of his arrest. A hearing was held on defendant's motion to suppress this evidence, at which time it was revealed that one of the arresting officers actually witnessed the defendant perpetrate an assault on the victim. He was arrested and searched, at which time a $20 bill was discovered, which was later identified as belonging to the victim.\n*423 It is well settled in Michigan that an arresting officer may properly search a person when a lawful arrest is made. People v. Gonzales (1959), 356 Mich 247. This issue is also without merit.\nMotion to affirm is granted.\n",
+            "ocr": false,
+            "opinion_id": 1762545
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

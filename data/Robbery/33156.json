@@ -1,0 +1,46 @@
+{
+    "id": 5979036,
+    "judges": "Herlihy",
+    "date_filed": 330220800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-lanahan",
+    "case_name_short": "Lanahan",
+    "case_name": "People v. Lanahan",
+    "case_name_full": "The People of the State of New York v. John Lanahan",
+    "attorneys": "APPEARANCES OF COUNSEL, E. Stewart Jones, Jr., for appellant., Sol Greenberg, District Attorney (George H. Barber of. counsel), for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "75 A.D.2d 185"
+    ],
+    "opinions": [
+        {
+            "author_str": "Herlihy",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION OF THE COURT\nHerlihy, J.\nThe sole issue upon this appeal is whether or not the trial court erred in denying the defendant\u2019s motion to suppress an admission of guilt made after arrest.\n*186At the suppression hearing held herein, the People presented the testimony of one police officer, Frank P. Connelly, an investigator with the New York State Bureau of Criminal Investigation. Connelly testified that on February 9, 1978 he placed the defendant under arrest and recited to the defendant his Miranda rights to remain silent and have an attorney; that the defendant acknowledged he understood these rights; that the defendant wanted to know what he was charged with; that Connelly responded that he would explain the details when \"I get to the barracks\u201d; that he brought the defendant to the barracks, did some paperwork, brought defendant into his office, removed the handcuffs and again recited the Miranda rights; and that he then recited the details of the charge as robbery of a gas station, stating also: \"You did the job with a kid by the name of Lawless. You used Lawless\u2019s car, you parked the car behind the bank, which is about a block behind the Gasland gas station, walked through the fields, stood behind the wooden fence. When the girl came out with the two moneybags, both of you stepped out from behind the fence. You told her to throw the money over and she threw you the money. Then you asked\u2014one of you asked her for the car keys, told her not to do anything stupid, got in behind the fence again, ran back to the car and drove to your house and split the money up.\u201d Connelly further testified that: \"I said that is the robbery that you are charged with * * *. He said, I did it.\u201d\nThe defendant contends that the trial court erred in denying his motion to suppress the admission of guilt; however, the record amply supports the conclusion of the trial court that the admission was made \"spontaneously\u201d and, accordingly, there was no involuntariness. Upon appeal the defendant calls our attention to the case of People v Samuels (49 NY2d 218), decided since the defendant\u2019s conviction. While the defendant\u2019s physical situation falls squarely within the ambit of Samuels (see, also, People v Cullen, 50 NY2d 168), it nevertheless affords no relief as to a spontaneous declaration (see People v Lynes, 49 NY2d 286, 293-295; cf. Rhode Island v Innis, 446 US \u2014, 48 USLW 4506).\nThe judgment should be affirmed.\nGreenblott, J. P., Kane, Staley, Jr., and Mikoll, JJ., concur.\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5838988
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

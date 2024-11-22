@@ -1,0 +1,46 @@
+{
+    "id": 5249480,
+    "judges": "Crandall, Crist, Reinhard",
+    "date_filed": 613094400000,
+    "date_filed_is_approximate": true,
+    "slug": "evans-v-state",
+    "case_name_short": "Evans",
+    "case_name": "Evans v. State",
+    "case_name_full": "Eddie Lee EVANS, Movant-Appellant v. STATE of Missouri, Respondent-Respondent",
+    "attorneys": "Cheryl Rafert, St. Louis, for movant-ap-pellant., William L. Webster, Atty. Gen., Christopher M. Kehr, Asst. Atty. Gen., Jefferson City, for respondent-respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing and/or Transfer to Supreme Court Denied July 11, 1989., Case Transferred to Supreme Court Sept. 12, 1989., Case Retransferred to the Court of Appeals Jan. 26, 1990., Original Opinion Reinstated Feb. 7, 1990.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "782 S.W.2d 402"
+    ],
+    "opinions": [
+        {
+            "author_str": "Reinhard",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nREINHARD, Judge.\nMovant appeals from the denial, without an evidentiary hearing, of his Rule 29.15 motion. We affirm.\nIn two separate trials movant was convicted by one jury of first degree (felony) murder and by another of rape and burglary for his actions during a single criminal episode. He was sentenced to life imprisonment for the murder, life imprisonment for the rape and 15 years\u2019 imprisonment for the burglary; the sentences to be served concurrently. His murder conviction was affirmed on direct appeal. State v. Evans, 639 S.W.2d 792 (Mo. banc 1982). His rape conviction was also affirmed on direct appeal, but his burglary conviction was reversed on double jeopardy grounds. State v. Evans, 660 S.W.2d 433 (Mo.App. 1983). Statements of the facts can be found in both opinions.\nOn August 9, 1983, movant filed a Rule 27.26 motion seeking relief from his murder conviction. Appointed counsel filed an amended motion. After an evidentiary hearing the motion court entered findings of fact and conclusions of law denying the motion. The judgment was not appealed.\nOn March 28,1988, movant filed his Rule 29.15 motion again seeking relief from his murder conviction. Appointed counsel filed an unverified amended motion and a request for an evidentiary hearing. The court denied the motion without an eviden-tiary hearing.\nOn appeal movant contends the motion court erred in denying his Rule 29.15 motion without an evidentiary hearing when he alleged in the motion that the trial court committed errors, that trial counsel was ineffective and that his Rule 27.26 motion counsel had abandoned his appeal.\nRule 29.15(m) precludes a convict from filing a Rule 29.15 motion if he was sentenced prior to January 1, 1988, and has previously filed a Rule 27.26 motion. Mov-ant was sentenced for his murder conviction prior to January 1, 1988, and had filed a Rule 27.26 motion prior to his Rule 29.15 motion; thus, dismissal of movant\u2019s Rule 29.15 motion was proper.\nFurthermore, movant\u2019s allegations of trial court error and ineffectiveness of trial counsel could not have been raised in a successive motion under Rule 27.26, Rule 27.26(d) (repealed), and cannot be raised in a successive 29.15 motion, Rule 29.15(k). However, under former Rule 27.-26 the trial court was required to conduct an evidentiary hearing when the movant alleged in a successive Rule 27.26 motion that his motion counsel had abandoned him on appeal. Flowers v. State, 618 S.W.2d 655, 657 (Mo. banc 1981). The court in Flowers was construing Rule 27.26(d) when it made this holding. The text of Rule 27.26(d) follows:\nSuccessive Motions. The sentencing court shall not entertain a second or successive motion for relief on behalf of the prisoner where the ground presented in the subsequent application was raised and determined adversely to the applicant on the prior application or where the ground presented is new but could have been raised in the prior motion pursuant to the provisions of subsection (c) of this *404Rule. The burden shall be on the prisoner to establish that any new ground raised in a second motion could not have been raised by him in the prior motion.\nRule 27.26(d) (repealed). In contrast, Rule 29.15(k) reads as follows:\nSuccessive Motions. The circuit court shall not entertain successive motions.\nRule 29.15(k). One clear result of this change in language is that Rule 29.15 is not available for challenging a movant\u2019s former counsel\u2019s abandonment of his postcon-vietion motion appeal.\nThe findings and conclusions of the motion court are not clearly erroneous.\nJudgment affirmed.\nCRANDALL, P.J., and CRIST, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5075802
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

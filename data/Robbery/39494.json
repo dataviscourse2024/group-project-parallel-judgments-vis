@@ -1,0 +1,46 @@
+{
+    "id": 7235863,
+    "judges": "Clay",
+    "date_filed": -1460160000000,
+    "date_filed_is_approximate": false,
+    "slug": "foutz-v-hacker",
+    "case_name_short": "Foutz",
+    "case_name": "Foutz v. Hacker",
+    "case_name_full": "Foutz v. Hacker",
+    "attorneys": "A. T. W. MANNIING for appellant., LEWIS & LEWIS and HALL & CLOYD for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Appeal and Error \u2014 Review of Action of Trial Court in Allowing Leading Questions. \u2014 Tbe discretion of the trial court in allowing leading questions is not reviewable, except in a plain case of abuse; yet, if an established rule of law has been violated, and leading questions permitted in a case which did not justify them, a new \u2022trial will be granted where injury resulted.</p> <p>2. \u2019 Witnesses \u2014 Court Held to Have Abused its Discretion in- Permitting Leading Questions. \u2014 In a slander case, the trial court abused its discretion in permitting leading questions -to -the plaintiff and his principal witness as to the actual words used, where neither witness was hostile, so ignorant as to be unable to give a direct and intelligent answer, or had exhausted his, memory without stating the particular required, and there was no surprise.</p>",
+    "summary": "Appeal from Clay Circuit Court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "200 Ky. 233"
+    ],
+    "opinions": [
+        {
+            "author_str": "Clay",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion of the Court by\nJudge Clay\nReversing.\nThis is an action for slander in which appellee recovered of appellant a verdict and judgment for $1,000.00.\nThe words alleged to have been used by appellant are: \u201cYou stole our tobacco and you know it, bless God; I said it once and I say it again. \u2019 \u2019\nThe defense was a general denial.\nOn his examination in chief appellee did not give the precise words stated in the petition. On his redirect examination the following occurred:\n\u201cQ. I want to read to you the exact words that you allege in your petition for cause of action, \u2018You stole our tobacco and you know it, blesss God; I said it once and I say it again.\u2019 (Objection; overruled; exception.) A. Yes, sir. Q. Now tell the jury whether or not she used those words to you in the presence and hearing of Sher'man House and other parties you have mentioned on this occasion you have mentioned? A. Yes, sir.\u201d\nOn the examination of the witness, W. S. House, appellee\u2019s partner, the following occurred without any preliminary questions other than those relating to the residence of the witness and his relationship to the parties:\n\u201cWere you present some time in February of last year when the defendant, Kitty Foutz, made some charge or accusation against the plaintiff, Ben Hacker? A. Yes, I was present one time, Q. He alleges in his petition that Kitty Foutz made this charge: \u2018You stole our tobacco and you know it, bless God; I said it once and I say it again.\u2019 Tell the jury whether or not you were present at the time this language or any material part of it was handled by the defendant to the plaintiff on that occasion? (Objection; overruled; exception.) A. I was present. Q. Did she make the statement as alleged in the petition which I have just quoted? (Objection; overruled; exception.) A. Yes, sir. Q. Tell the jury as well as you remember just what the defendant did say to the plaintiff on that occasion? A. Well, the way I remember it, Mr. Foutz says \u2014 Ben spoke to John, he says-, you *235accuse me of stealing your tobacco. If Johnny said anything I didn\u2019t hear him. Mrs. Foutz said: \u2018I say you stole our tobacco, and bless God I know it, it was in your hands and nobody else had anything to do with it.\u2019 That is the way I.understood it.\u201d\nAlthough the discretion of the trial court in allowing leading questions is not reviewable except in a plain case of abuse, yet, if an established rule of law has been violated and leading questions permitted in a case which did not justify them, a new trial will be granted where injury results. 28 ft. C. L., sec. 183, p. 591. The facts of this case are peculiar. The action being for slander, it was necessary to prove that appellant used substantially the words alleged in the petition. There was a sharp conflict in the evidence as to the words actually used. Of the witnesses led, one was the plaintiff below and the other his principal witness. Neither was hostile. Neither was so ignorant as to be unable to give a direct and intelligible answer. Neither had exhausted his memory without stating the particular required. Neither was a child of tender years-, nor of feeble mind, nor a deaf mute. Nor was any case of surprise presented. It will thus be seen that all the conditions under which leading questions may be asked were absent, and when this fact is considered in connection with the materiality of the evidence, and the further fact that a clear case of coaching is presented, we are constrained to hold that the trial court abused a sound discretion in permitting such a method of examination.\n\"We find no other error in the record.\nJudgment reversed and cause remanded for new trial consistent with this opinion.\n",
+            "ocr": true,
+            "opinion_id": 7148283
+        }
+    ],
+    "court_short_name": "Court of Appeals of Kentucky",
+    "court_full_name": "Court of Appeals of Kentucky",
+    "court_type": "SA",
+    "court_jurisdiction": "Kentucky, KY",
+    "crime_category": "Robbery"
+}

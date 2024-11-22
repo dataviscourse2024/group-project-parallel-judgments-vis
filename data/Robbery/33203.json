@@ -1,0 +1,46 @@
+{
+    "id": 5987105,
+    "judges": null,
+    "date_filed": 359683200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mack",
+    "case_name_short": "Mack",
+    "case_name": "People v. Mack",
+    "case_name_full": "The People of the State of New York v. Albert Mack",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "81 A.D.2d 925"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by defendant from a judgment of the Supreme Court, Queens County, rendered May 23, 1979, convicting him of burglary in the first degree, rape in the first degree, unlawful imprisonment in the first degree, assault in the third degree and criminal mischief in the fourth degree, upon a jury verdict, and imposing sentences. Judgment modified, as a matter of discretion in the interest of justice, by reducing the sentences for rape in the first degree and burglary in the first degree to concurrent terms of imprisonment of from three to nine years. As so modified, judgment affirmed. The sentences were excessive to the extent indicated herein. Ti-tone, J. P., Gibbons, Gulotta and Margett, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5847565
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

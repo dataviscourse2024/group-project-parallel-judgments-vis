@@ -1,0 +1,46 @@
+{
+    "id": 7957022,
+    "judges": "Hopkins",
+    "date_filed": -1350950400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-goodman",
+    "case_name_short": "Goodman",
+    "case_name": "State v. Goodman",
+    "case_name_full": "The State of Kansas v. Buster Goodman",
+    "attorneys": "William A. Smith, attorney-general, Roland Boynton, assistant attorney-general, and E. C. Minner, county attorney, for the appellee., Walter L. Bullock, of Dodge City, for the appellant'.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "123 Kan. 19"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hopkins",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe opinion of the court was delivered by\nHopkins, J.:\nThe defendant was convicted of highway robbery, and appeals.\nThe principal question presented is. whether there was sufficient evidence to sustain the verdict and judgment. The .defendant contends there was a total lack of his identification. The facts and circumstances are substantially these: About 10:30 p. m., July 3, 1925, Allen Reeves, while walking along one of the residence streets of Dodge City was stopped by four men in a Ford touring car. Two men in the back seat, each masked, got out of the car and forced the witness to get in. One of the men was smaller than the other. The larger had a long blue-steel revolver; the smaller, a small nickel revolver. Both were under the influence of intoxicating liquor. After getting Reeves into the car, they drove to a cemetery west and north of Dodge City where they robbed him, then brought him back to town and released him about a city block from his home. The witness Reeves proceeded immediately to his home and telephoned the police. Within fifteen or twenty minutes from the time he notified the police, they arrested the defendant some fifteen or sixteen blocks from the place where Reeves had been released. When arrested the defendant and one Grady were in the back seat of a Ford car of the same description as the car that had been occupied by the robbers. *20Defendant and Grady, at the time of the arrest, were under the influence of intoxicating liquor. Grady was somewhat taller and larger than the defendant. When arrested Grady had a long blue-steel revolver lying across his knee. It appeared to be the same size and character as the weapon held by the larger man when the robbery occurred. The following morning a nickeled revolver was found between the curb and the sidewalk near the point where the defendant was arrested. The testimony showed that the smaller man compared with the description of the man who held the nickled revolver at the time of the robbery; that a suitcase found in the car at the time of defendant\u2019s arrest contained shells and cartridges fitting both revolvers; also, that both Grady and the. defendant had silver money upon their persons when arrested similar to that taken from the complaining witness. Defendant testified that at about 6 o\u2019clock in the afternoon of July 3 the car in which he and five others were traveling was parked in front of a pool hall where he afterwards played pool; that four of the men were in the car and two standing alongside of it, in which position they drank two or three bottles of hair tonic, called Lilac de Franc; that it was broad daylight and on one of the principal streets of Dodge City; that they were not molested or interfered with; that the defendant became intoxicated upon such hair tonic. His testimony with reference to his whereabouts during or about the time of the robbery was 'so indefinite and uncertain that it no doubt led the jury to believe that he was not testifying truthfully. A claim that at the time of his arrest he and the others in the car were going into the country to sleep on the ground when it had been raining most of the evening was improbable, and perhaps had to do with the jury\u2019s disbelief of his entire story.\nUnder all of the circumstances we are not able to say that the evidence, together with the reasonable inferences to be drawn therefrom, was insufficient to support the verdict.\nA contention is made that the court failed to instruct the jury on the law of- alibi. The record discloses no request for such an instruction. Error cannot be predicated upon failure to give a special instruction unless request therefor was made to the trial court. (State v. Woods, 105 Kan. 554, 185 Pac. 21.)\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7908537
+        }
+    ],
+    "court_short_name": "Supreme Court of Kansas",
+    "court_full_name": "Supreme Court of Kansas",
+    "court_type": "S",
+    "court_jurisdiction": "Kansas, KS",
+    "crime_category": "Robbery"
+}

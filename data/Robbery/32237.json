@@ -1,0 +1,47 @@
+{
+    "id": 5790848,
+    "judges": "Beasley",
+    "date_filed": 707097600000,
+    "date_filed_is_approximate": false,
+    "slug": "dilbeck-v-yates",
+    "case_name_short": "Dilbeck",
+    "case_name": "Dilbeck v. Yates",
+    "case_name_full": "DILBECK v. YATES",
+    "attorneys": "Hill & Henry, F. Bryant Henry, for appellants., Joseph E. Willard, Jr., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "204 Ga. App. 370",
+        "419 S.E.2d 154"
+    ],
+    "opinions": [
+        {
+            "author_str": "Beasley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBeasley, Judge.\nThis is a discretionary appeal pursuant to OCGA \u00a7 5-6-35 (a) (6).\nYates leased a storage room in a mini-warehouse from Dilbeck. His personal property was stolen in a break-in which left no signs of forced entry. Yates testified that he questioned Dilbeck prior to leasing the space, and in response Dilbeck stated that no one had ever broken into any of the storage rooms and he would furnish a large lock resistant to bolt cutters in order to prevent break-ins. How they occurred, access-wise, is not in evidence. Unbeknownst to Yates, there had been numerous prior break-ins. Dilbeck testified that although he did not remember the specific conversation he had with Yates, he never denied or failed to disclose the prior break-ins to any prospective lessee who made inquiry.\nEntry could have been gained by a prior lessee in possession of a key to Yates\u2019 lock, in that when a lock was returned to Dilbeck he *371would assign it to another lessee. Yates testified that Dilbeck did not so inform him. In addition, there was an open, visible crawl space between the top of the ten-foot wall in the storage space and the peak of the roof. Its width was contested. After the theft, Yates brought a ladder and discovered that this crawl space could be used to gain access to his storage room from other rooms in the warehouse. Previously, he was not aware of this.\nIn order to recover the value of the stolen goods, Yates filed this complaint for misrepresentation against Dilbeck, the corporation which owns the warehouse, and the corporation in the name of which Dilbeck does business. A bench trial resulted in a judgment for $6,000.\n1. Citing Whipper v. McLendon Movers, 188 Ga. App. 249 (372 SE2d 820) (1988), and Tuxedo Plumbing &amp;c. Co. v. Lie-Nielsen, 245 Ga. 27 (262 SE2d 794) (1980), defendants argue that Yates\u2019 claim against them must fail because a provision in the parties\u2019 rental agreement provided that insurance on property stored on the premises for loss caused by theft, among other things, would be the responsibility of the tenant, and the landlord would not be liable for any loss or damage to the tenant\u2019s property caused by any acts of negligence or the acts of others. Defendants argue that under such cases as Morrison v. Roberts, 195 Ga. 45 (1) (23 SE2d 164) (1942), Yates\u2019 failure to read the rental agreement prior to signing it, as admitted by Yates, bars this action.\nIn this case, unlike Morrison, the plaintiff is not arguing that the placement of a provision in the contract constituted fraud. Rather, the plaintiff\u2019s position is that he was induced by oral misrepresentations to enter into the written contract in the first place. As recognized in Whipper, supra, fraud in the inducement may be a viable defense to the enforceability of a leasehold contract which contains a provision absolving the lessor from liability to the lessee. The same is true with respect to a claim of fraud.\n2. Defendants argue that Yates\u2019 action for fraud must fail for several reasons: he had equal means of ascertaining whether there had been prior thefts (by contacting the police or the Better Business Bureau), and whether other tenants could gain access to his storage space; he did not exercise due diligence in these regards; his reliance on any misrepresentations by Dilbeck was not justifiable. See Lorick v. Na-Churs Plant Food Co., 150 Ga. App. 209, 210 (2) (257 SE2d 332) (1979); McClelland v. Westview Cemetery, 148 Ga. App. 447 (251 SE2d 351) (1978); see also Hubert v. Beale Roofing, 158 Ga. App. 145 (279 SE2d 336) (1981).\nThese issues, including the core element in this case, i.e., justifiable reliance, concerned questions of fact which were resolved by the court as their trier. Defendants were not entitled, as a matter of law, *372to judgment in their favor on these issues.\nDecided May 29, 1992.\nHill &amp; Henry, F. Bryant Henry, for appellants.\nJoseph E. Willard, Jr., for appellee.\n3. Defendants finally argue that Yates\u2019 action must fail because \u201c \u2018(f)raud cannot consist of mere broken promises, unfulfilled predictions or erroneous conjectures as to future events.\u2019 [Cit.]\u201d Lorick, supra at 209. Fraud could not be predicated upon assurances by Dilbeck that break-ins in the future would not occur. However, Yates\u2019 fraud claim is based upon misrepresentations as to the occurrence of prior break-ins. Had he known of them, he testified, he would not have rented the space and subjected his property to the degree of risk to which they bore witness.\n\nJudgment affirmed.\n\n\nBirdsong, P. J., and Andrews, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5645507
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

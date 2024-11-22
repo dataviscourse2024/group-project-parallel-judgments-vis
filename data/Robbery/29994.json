@@ -1,0 +1,58 @@
+{
+    "id": 5344460,
+    "judges": "Coats, Hobbs, Hood",
+    "date_filed": 1396828800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-roldan",
+    "case_name_short": "Roldan",
+    "case_name": "People v. Roldan",
+    "case_name_full": "The PEOPLE of the State of Colorado v. Daniel Lee ROLDAN",
+    "attorneys": "Attorneys for Petitioner: John W. Suthers, Attorney General, Christine C. Brady, Senior Assistant Attorney General, Denver, Colorado, Attorneys for Respondent: Douglas K. Wilson, Public Defender, Stephen C. Arvin, Deputy Public Defender, Denver, Colorado",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "322 P.3d 922",
+        "2014 CO 22"
+    ],
+    "opinions": [
+        {
+            "author_str": "Coats",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJUSTICE COATS\ndelivered the Opinion of the Court.\n\u00b6 1 The People petitioned for review of the court of appeals judgment in People v. Roldan, \u2014 P.3d \u2014, \u2014, 2011 WL 174248, No. 08CA2487 (Colo.App. Jan. 20, 2011), in which that court reversed Roldan\u2019 s conviction for theft by receiving and his sentence to three years probation. Upon concluding that the trial court abused its discretion in denying a challenge for cause on the grounds of juror bias, and that the defendant removed the prospective juror in question with a peremptory challenge and subsequently exhausted his remaining pei\u2019emptory challenges, a majority of the division reversed, noting this court\u2019s rule of automatic reversal in People v. Macrander, 828 P.2d 234, 244 (Colo.1992). Judge Bernard filed a separate opinion, specially concurring and expressly soliciting our reconsideration of the requirement for automatic reversal under these circumstances. The People petitioned solely on this ground.\n\u00b6 2 In People v. Novotny, 2014 CO 18, \u00b6 27, 320 P.3d 1194, we overruled the automatic reversal rule announced in Macrander, holding that the reversal of a criminal conviction for other than structural error, in the absence of express legislative mandate or an appropriate case specific, outcome-determinative analysis, could no longer be sustained. We further found that allowing a defendant fewer peremptory challenges than authorized by statute or rule does not, in and of itself, amount to structural error. Id.\n\u00b6 3 Because the court of appeals relied on the bright-line, automatic reversal rule of Macrander, rather than evaluating the likely effect of the trial court\u2019s error on the outcome of the specific case in which it occurred, and because the automatic reversal requirement of Macrander has now been overruled, the judgment of the court of appeals is reversed, and the case is remanded for reconsideration in light of our holding in Novotny.\nJUSTICE HOOD dissents, and JUSTICE HOBBS joins in the dissent.\n",
+            "ocr": true,
+            "opinion_id": 5177167
+        },
+        {
+            "author_str": "Hood",
+            "per_curiam": false,
+            "type": "040dissent",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJUSTICE HOOD,\ndissenting.\n\u00b6 4 In People v. Novotny, 2014 CO 18, \u00b6 27, 320 P.3d 1194, this court overturned the automatic-reversal rule of People v. Macrander, 828 P.2d 234 (Colo.1992), and replaced it with an \u201cappropriate case specific, outcome-determinative analysis.\u201d I dissented, in part because I am convinced that Novotny substitutes \u201cMacranden&gt;s rule mandating automatic reversal with a rule seeming to mandate automatic affirmance.\u201d See Novotny, \u00b6 31 (Hood, J., concurring in part and dissenting in part). For the same reasons articulated in that dissent, I respectfully dissent here as well.\nI am authorized to state that JUSTICE HOBBS joins in the dissent.\n",
+            "ocr": true,
+            "opinion_id": 5177168
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

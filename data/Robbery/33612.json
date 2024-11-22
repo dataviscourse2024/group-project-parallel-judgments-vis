@@ -1,0 +1,46 @@
+{
+    "id": 6072999,
+    "judges": null,
+    "date_filed": 674352000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-martinez",
+    "case_name_short": "Martinez",
+    "case_name": "People v. Martinez",
+    "case_name_full": "The People of the State of New York v. Luis Martinez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "173 A.D.2d 310"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Ira Beal, J.), rendered on April 4, 1989, convicting defendant, after a jury trial, of first degree robbery, second degree robbery (2 counts), third degree assault, and third degree criminal possession of a weapon, and sentencing him, as a predicate felony offender, to concurrent, indeterminate prison terms of 6 to 12 years on the first degree robbery count, 4 to 8 years on each of the second degree robbery counts, and 2 to 4 years on the weapon count, and a concurrent, definite term of 6 months on the assault, unanimously affirmed.\nViewing the evidence in a light most favorable to the People (People v Malizia, 62 NY2d 755, cert denied 469 US 932), and giving due deference to the jury\u2019s findings as to credibility (People v Bleakley, 69 NY2d 490), we find that the People proved the defendant guilty of the robbery counts beyond a reasonable doubt. Forcible taking was proven through evidence that the defendant and his co-defendant separated the complainant from his wallet through a forcible struggle (see, People v Rivera, 160 AD2d 419, lv denied 76 NY2d 795, 1024), particularly given the evidence that a knife was used. Intent was sufficiently proven through the totality of facts attendant to the incident (People v [Geraldo] Lopez, 161 AD2d 670, lv denied 76 NY2d 791).\nThe court\u2019s charge on the jury\u2019s use of statements by a witness was deficient in that there was no indication that prior inconsistent statements could not be considered for the truth of their contents, but only as to the credibility of the witness (see, People v O\u2019Hare, 117 AD2d 757, lv denied 67 *311NY2d 948). Nonetheless, since the charge as given was more favorable to the defendant, and in light of overwhelming evidence of the defendant\u2019s guilt, the error was harmless beyond a reasonable doubt (People v Hynes, 146 AD2d 587, lv denied 73 NY2d 978). Concur\u2014Rosenberger, J. P., Ellerin, Wallach, Ross and Smith, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5936939
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

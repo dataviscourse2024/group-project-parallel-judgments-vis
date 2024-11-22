@@ -1,0 +1,47 @@
+{
+    "id": 5747092,
+    "judges": "Clarke",
+    "date_filed": 717984000000,
+    "date_filed_is_approximate": false,
+    "slug": "couch-v-state",
+    "case_name_short": "Couch",
+    "case_name": "Couch v. State",
+    "case_name_full": "COUCH v. State",
+    "attorneys": "Patrick G. Longhi, for appellant., Thomas J. Charron, District Attorney, Debra H. Bernes, Nancy I. Jordan, Assistant District Attorneys, Michael J. Bowers, Attorney General, Susan V. Boleyn, Senior Assistant Attorney General, Mary H. Hines, Staff Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "262 Ga. 431",
+        "421 S.E.2d 280"
+    ],
+    "opinions": [
+        {
+            "author_str": "Clarke",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nClarke, Chief Justice.\nRonald Lee Couch was convicted of the malice murder and armed robbery of Robert Baudo, and sentenced to two consecutive terms of life imprisonment.1\nThe victim was bludgeoned to death in his pawn shop. A safe in the pawn shop had been ransacked. A tip to Cobb County police led them to information which implicated the defendant and Eugene Austin in these crimes. Eugene Austin was arrested and made in-custody statements which led to the recovery of merchandise stolen during the armed robbery of the victim\u2019s pawn shop. Austin admitted to police that he had participated in the armed robbery, but contended that Ronald Couch had killed the victim. Austin\u2019s convictions for the armed robbery and felony murder of Robert Baudo were affirmed by this court. Austin v. State, 261 Ga. 550 (408 SE2d 105) (1991).\nWitnesses testified at the defendant\u2019s trial that the defendant had made numerous statements implicating himself in the crimes in question. Other evidence showed that the defendant had pawned, as well as given away, jewelry taken in the armed robbery. Police discovered that the appellant had sold jewelry stolen in the robbery to a merchant in Connecticut. Eugene Austin testified at the defendant\u2019s trial that the defendant beat the victim to death with a marine battery, a night stick, and his fists. Police found a marine battery in the pawn shop, next to the victim\u2019s body. A fellow inmate testified that the appellant admitted he had killed the owner of a pawn shop during the course of an armed robbery, and that Eugene Austin had been with him at this time.\nOn appeal the defendant argues that the evidence is insufficient to support the verdict, and that for this reason the trial court erred in denying his motion for new trial.\n*432Decided October 2, 1992.\nPatrick G. Longhi, for appellant.\nThomas J. Charron, District Attorney, Debra H. Bernes, Nancy I. Jordan, Assistant District Attorneys, Michael J. Bowers, Attorney General, Susan V. Boleyn, Senior Assistant Attorney General, Mary H. Hines, Staff Attorney, for appellee.\nConstruing the evidence in the light most favorable to the prosecution, we conclude that a rational trier of fact could have found the defendant guilty of malice murder and armed robbery beyond a reasonable doubt. Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979).\n\nJudgment affirmed.\n\n\nBell, P. J., Hunt, Benham, Fletcher and Sears-Collins, JJ., concur.\n\n\n The crimes were committed on February 21, 1989. The defendant was indicted on August 4, 1989, and tried October 10-18, 1991. The jury returned its verdict on October 18, finding the defendant guilty of malice murder, felony murder and armed robbery. The trial court merged the felony murder conviction into the conviction for malice murder. The defendant filed his motion for new trial on October 29, 1991, and the trial court denied this motion on March 26, 1992. The case was docketed in this court on April 6, 1992, and submitted to this court on briefs on May 22, 1992.\n\n",
+            "ocr": true,
+            "opinion_id": 5599061
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

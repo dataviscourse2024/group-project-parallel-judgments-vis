@@ -1,0 +1,46 @@
+{
+    "id": 5961253,
+    "judges": null,
+    "date_filed": 233884800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-parra",
+    "case_name_short": "Parra",
+    "case_name": "People v. Parra",
+    "case_name_full": "The People of the State of New York v. Gerard Parra",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "57 A.D.2d 964"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from a judgment of the Supreme Court, Queens County, rendered February 4, 1976, convicting him of attempted robbery in the third degree, upon his plea of guilty, and imposing sentence. Judgment affirmed as to the conviction; judgment reversed as to the sentence, on the law,, and case remanded to the Criminal Term for *965resentence in accordance herewith. Defendant-appellant\u2019s plea of guilty was entered upon the court\u2019s promise that it would impose a sentence identical to, and to run concurrent with, the sentence which would be imposed upon unrelated charges pending against the appellant in another county. At the time of sentence the court stated that it could not fulfill that promise and .the appellant\u2019s attorney immediately moved to withdraw the guilty plea. The court denied the application and imposed a sentence different from the one imposed upon the unrelated charges. The People concede that the appellant should have been afforded an opportunity to withdraw his plea (see People v Selikoff, 35 NY2d 227, cert den 419 US 1122). Since the indictment under which this prosecution arose is now six years old, it would prejudice the People to allow the appellant to withdraw his plea and go to trial (see People v Selikoff, 35 NY2d 227, 239-240, supra; People v Esposito, 32 NY2d 921). Therefore, the case is remanded for resentencing in accordance with the promise made to the appellant at the time he entered his guilty plea. Cohalan, J. P., Damiani, Rabin and Titone, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5820151
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

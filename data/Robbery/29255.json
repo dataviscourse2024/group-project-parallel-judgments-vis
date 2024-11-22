@@ -1,0 +1,46 @@
+{
+    "id": 5191922,
+    "judges": "Woodley",
+    "date_filed": -586137600000,
+    "date_filed_is_approximate": true,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "JOHNSON v. STATE",
+    "attorneys": "No attorney on appeal for appellant., George P. Blackburn, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": "See also 153 Tex.Cr.R. 619, 224 S.W.2d 240.",
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "240 S.W.2d 316"
+    ],
+    "opinions": [
+        {
+            "author_str": "Woodley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWOODLEY, Commissioner.\nAppellant was convicted of burglary and his punishment assessed at 12 years in the-penitentiary.\nIt appears by proper proof that after perfecting his appeal to this court appellant escaped from jail. It follows that this court is without jurisdiction to do other than dismiss the appeal.\nThe appeal is therefore dismissed.\nOpinion approved by the Court.\n",
+            "ocr": true,
+            "opinion_id": 5014673
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

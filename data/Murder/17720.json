@@ -1,0 +1,46 @@
+{
+    "id": 2278426,
+    "judges": "Steele, Chief Justice, Jacobs and Ridgely, Justices",
+    "date_filed": 1181606400000,
+    "date_filed_is_approximate": false,
+    "slug": "cropper-v-state",
+    "case_name_short": "Cropper",
+    "case_name": "Cropper v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "929 A.2d 783"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDWAYNE CROPPER, Defendant Below-Appellant,\nv.\nSTATE OF DELAWARE, Plaintiff Below-Appellee.\nNo. 155, 2007.\nSupreme Court of Delaware.\nSubmitted: May 3, 2007.\nDecided: June 12, 2007.\nBefore STEELE, Chief Justice, JACOBS and RIDGELY, Justices.\n\nORDER\nHENRY DUPONT RIDGELY, Justice.\nThis 12th day of June 2007, upon consideration of the appellant's opening brief and the appellee's motion to affirm pursuant to Supreme Court Rule 25(a), it appears to the Court that:\n(1) The defendant-appellant, Dwayne Cropper, filed an appeal from the Superior Court's March 15, 2007 order denying his motion for correction of illegal sentence pursuant to Superior Court Criminal Rule 35(a). The plaintiff-appellee, the State of Delaware, has moved to affirm the Superior Court's judgment on the ground that it is manifest on the face of the opening brief that the appeal is without merit.[1] We agree and affirm.\n(2) In February 1999, Cropper was found guilty by a Superior Court jury of Attempted Murder in the First Degree and Possession of a Deadly Weapon During the Commission of a Felony. He was sentenced as a habitual offender to a total of 35 years imprisonment, to be followed by 10 years of decreasing levels of supervision. Cropper's convictions and sentences were affirmed by this Court on direct appeal.[2] Since that time, Cropper has filed a number of motions seeking postconviction relief, all of which have been unsuccessful.\n(3) In this appeal, Cropper claims that his sentence for attempted murder is illegal because it exceeds the SENTAC guidelines, thereby violating the constitutional principles set forth in Apprendi v. New Jersey, 530 U.S. 466 (2000), Blakely v. Washington, 542 U.S. 296 (2004), and Cunningham v. California, 127 S. Ct. 856 (2007).\n(4) In Delaware the appellate review of a criminal sentence is limited, with few exceptions, to a determination that the sentence is within the statutory limits.[3] In this case, Cropper concedes that his sentence for attempted murder falls within the statutory range of authorized sentences for that crime. The cases cited Cropper does not affect the outcome of his case, given the voluntary and non-binding nature of Delaware's sentencing guidelines.[4] We find that the Superior Court properly denied Cropper's Rule 35(a) motion for correction of an illegal sentence.\n(5) Cropper's appeal is without merit because it is manifest from the face of his opening brief that the issues presented on appeal are controlled by settled Delaware law and, to the extent that judicial discretion is implicated, there was no abuse of discretion.\nNOW, THEREFORE, IT IS ORDERED that, pursuant to Supreme Court Rule 25(a), the State of Delaware's motion to affirm is GRANTED. The judgment of the Superior Court is AFFIRMED.\nNOTES\n[1]  Supr. Ct. R. 25(a).\n[2]  Cropper v. State, Del. Supr., No. 200, 1999, Holland, J. (Jan. 21, 2000).\n[3]  Siple v. State, 701 A.2d 79, 82-83 (Del. 1997).\n[4]  Shabazz v. State, Del. Supr., No. 545, 2004, Ridgely, J. (June 14, 2005).\n\n",
+            "ocr": false,
+            "opinion_id": 2278426
+        }
+    ],
+    "court_short_name": "Supreme Court of Delaware",
+    "court_full_name": "Supreme Court of Delaware",
+    "court_type": "S",
+    "court_jurisdiction": "Delaware, DE",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6335420,
+    "judges": "Smith",
+    "date_filed": 438220800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-benjamin",
+    "case_name_short": "Benjamin",
+    "case_name": "People v. Benjamin",
+    "case_name_full": "The People of the State of New York v. Troy Benjamin",
+    "attorneys": "APPEARANCES OF COUNSEL, Leo Raychuk and Stephen Posner for defendant. Robert M. Morgenthau, District Attorney {Janet Jacobson of counsel), for plaintiff.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "122 Misc. 2d 19"
+    ],
+    "opinions": [
+        {
+            "author_str": "Smith",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION OF THE COURT\nGeorge Bundy Smith, J.\nThe issue here is whether the People may offer rebuttal evidence that the complainant has made a lineup identification of an alibi witness as the second perpetrator in a robbery. The defendant Troy Benjamin was accused of robbery in the first and second degrees in that on December 3, 1982, the defendant and another person took money from the complainant at gunpoint. On October 24, 1983, after a nonjury trial, defendant was found guilty of both charges. At the time the lineup identification of the alibi witness was admitted into evidence, the court stated that it . would put in writing the reasons for admitting it. The reasons follow.\nThe defense in this case was misidentification and alibi. One of the alibi witnesses was Brian Williams who testified that he was with the defendant in the Borough of Brooklyn at the time the defendant was allegedly in the Borough of Manhattan robbing the complainant. It appears that after Brian Williams left the stand on the first day of his testimony, the complainant was shown pictures of a number of people. He picked out Brian Williams from the photos. After Williams testified on the second day, he *20was arrested. Later on that same day, Williams was placed in a lineup and identified by the complainant.\nDefendant argues that (1) evidence of the lineup of Williams was improper rebuttal evidence, (2) that his attorney had a right to be present at the lineup involving Williams, (3) that the lineup evidence was unreliable, and (4) that the knowledge of the lineup, coupled with the arrest of the alibi witness in the courthouse, had a chilling effect on his witnesses. The District Attorney argues that the evidence was proper to impeach one of the principal alibi witnesses of the defendant, that the defendant here had no right to be present at the lineup of the alibi witness, that the lineup evidence was reliable, and that although she had asked that the alibi witness be arrested away from other witnesses, no prejudice to the defendant occurred when that was not done.\nClearly the lineup evidence was admissible because it was not collateral and was relevant on an issue other than credibility, namely, the alibi put forward by the defendant. In People v Schwartzman (24 NY2d 241, 245), the Court of Appeals reiterated this principle: \u201cThe general rule is that a cross-examiner cannot contradict a witness\u2019 answers concerning collateral matters by producing extrinsic evidence for the sole purpose of impeaching credibility * * * However, an exception to this rule exists where the evidence sought to be introduced is relevant to some issue in the case other than credibility or if independently admissible to impeach the witness.\u201d\nSecondly, the defendant here had no right to assert a constitutional right to an attorney on behalf of another. The right to an attorney, like the right to be free from unreasonable search and seizure, is a personal right which cannot be \u201cvicariously asserted.\u201d (Alderman v United States, 394 US 165, 174; Rakas v Illinois, 439 US 128,133-134.) Moreover, while this court has no intention of determining at this point whether Williams had a right to an attorney at the lineup, no counsel is generally required prior to the filing of an accusatory instrument. (United States v Wade, 388 US 218; Kirby v Illinois, 406 US 682.) The question of the reliability of the evidence is for the trier of the fact.\n*21Thirdly, while the arrest of the alibi witness should have taken place out of the presence of the other witnesses, there was no prejudicial effect. One of the persons who testified subsequent to the arrest was Kemia Holloway, a niece of the defendant Benjamin. Her testimony was clear and strong in support of the alibi. Deloris Holloway, a sister of the defendant Benjamin and the mother of Kemia Holloway, did appear shaken when she testified about the arrest of Williams. However, her testimony on the alibi, as well as that of Willie Mae Benjamin, another witness to the arrest, had been given a day prior to the arrest of Williams, even before the court was told that Williams had been picked out of a group of photographs, and before any witness knew that Williams would be arrested.\nAccordingly, the motion to exclude the evidence is denied.\n",
+            "ocr": true,
+            "opinion_id": 6203997
+        }
+    ],
+    "court_short_name": "New York Supreme Court",
+    "court_full_name": "New York Supreme Court",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

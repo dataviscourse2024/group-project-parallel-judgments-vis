@@ -1,0 +1,46 @@
+{
+    "id": 5198196,
+    "judges": "Belcher",
+    "date_filed": -413164800000,
+    "date_filed_is_approximate": true,
+    "slug": "rivas-v-state",
+    "case_name_short": "Rivas",
+    "case_name": "Rivas v. State",
+    "case_name_full": "Henry RIVAS v. The STATE of Texas",
+    "attorneys": "Herman G. Nami, San Antonio, for appellant., Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "297 S.W.2d 144"
+    ],
+    "opinions": [
+        {
+            "author_str": "Belcher",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBELCHER, Commissioner.\nThe conviction is for burglary; the punishment, ten years in the penitentiary.\nNo statement of facts accompanies the record.\nThere are no formal bills of exception.\nappellant, in his brief, contends that the trial court erred in not allowing him time to file a motion for a new trial before sentence was pronounced upon him. He claims that the sentence does not recite that he waived such right and because of such omission the case should be reversed and remanded.\nWe find no provision of the law which requires that the sentence recite that the appellant waived his right to file a motion for a new trial. Nor do we find an affirmative showing in the record that the appellant failed to waive such right.\nThe indictment and all matters of procedure appear to be regular.\nThe judgment of the trial court is affirmed.\nOpinion approved by the Court.\n",
+            "ocr": true,
+            "opinion_id": 5021147
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

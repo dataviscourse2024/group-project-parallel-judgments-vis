@@ -1,0 +1,47 @@
+{
+    "id": 5835614,
+    "judges": "Lahtinen",
+    "date_filed": 1135209600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-ex-rel-bariteau-v-donelli",
+    "case_name_short": "Donelli",
+    "case_name": "People ex rel. Bariteau v. Donelli",
+    "case_name_full": "The People of the State of New York ex rel. Shawn Bariteau v. John J. Donelli, as Superintendent of Bare Hill Correctional Facility",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 A.D.3d 1065",
+        "806 N.Y.S.2d 297"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lahtinen",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLahtinen, J.\nAppeal from a judgment of the Supreme Court (Feldstein, J.), entered February 2, 2005 in Franklin County, which denied petitioner\u2019s application for a writ of habeas corpus, in a proceeding pursuant to CPLR article 70, without a hearing.\nPetitioner, who had been convicted of robbery in the second degree, was released to parole supervision in February 2001. When he subsequently violated the conditions of his parole, his parole was revoked and a delinquent time assessment of 24 months was imposed. Petitioner then brought the instant petition for a writ of habeas corpus contending that the 24-month delinquent time assessment was based on certain 1997 regulations enacted after his underlying conviction (see 9 NYCRR 8005.20), and, therefore, violated the Ex Post Facto Clause of the US Constitution. Finding that a habeas corpus proceeding was an inappropriate remedy, Supreme Court denied the petition without signing the writ or conducting a hearing. This appeal ensued.\nWe affirm. Initially, we note that habeas corpus relief is not available where the claimed error could have been remedied on administrative appeal (see People, ex rel. Gaito v Couture, 269 AD2d 709, 710 [2000], lv denied 95 NY2d 754 [2000]). Petitioner did not file a timely administrative appeal. Moreover, were petitioner to prevail on his claim, he would only be entitled to a *1066recalculation of his delinquent time assessment without reference to the challenged regulations, not to immediate release from prison, again making habeas corpus relief inappropriate (see e.g. People ex rel. Simpson v Greene, 18 AD3d 923 [2005], lv denied 5 NY3d 707 [2005]; People ex rel. Pilgrim v Greene, 16 AD3d 787 [2005], lv denied 5 NY3d 706 [2005]). In any event, the challenge that petitioner raises has been previously considered and rejected by the courts (see People ex rel. Muhammad v Poole, 287 AD2d 832, 833 [2001]; People ex rel. Gaito v Couture, supra at 710).\nCardona, P.J., Mercure, Carpinello, Lahtinen and Kane, JJ., concur. Ordered that the judgment is affirmed, without costs.\n",
+            "ocr": true,
+            "opinion_id": 5691410
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

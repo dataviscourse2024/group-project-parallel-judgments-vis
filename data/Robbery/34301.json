@@ -1,0 +1,47 @@
+{
+    "id": 6212865,
+    "judges": null,
+    "date_filed": 1004918400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-bowman",
+    "case_name_short": "Bowman",
+    "case_name": "People v. Bowman",
+    "case_name_full": "The People of the State of New York v. Robert Bowman",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "288 A.D.2d 232",
+        "732 N.Y.S.2d 369"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Kings County (Marrus, J.), rendered January 13, 2000, convicting him of robbery in the second degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contention that the evidence was legally insufficient to prove his identity as the perpetrator of the robberies of two of the complainants is not preserved for appellate review since it was not advanced on his motion for a trial order *233of dismissal based on the People\u2019s failure to prove a prima facie case (see, CPL 470.05 [2]; People v Gray, 86 NY2d 10; People v Polk, 284 AD2d 416). In any event, viewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s identity as the robber beyond a reasonable doubt (see, People v Rivera, 275 AD2d 802). Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]).\nThe imposition by the Supreme Court of consecutive sentences on the robbery counts was proper since the defendant committed two separate and distinct acts in robbing the two complainants (see, People v Mejias, 278 AD2d 249). Furthermore, the imposition of consecutive sentences was not excessive (see, People v Tam Phan, 225 AD2d 715).\nThe defendant\u2019s remaining contention is without merit. Ritter, J. P., Krausman, S. Miller and Florio, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6079472
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

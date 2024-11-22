@@ -1,0 +1,47 @@
+{
+    "id": 5789035,
+    "judges": "Deen",
+    "date_filed": 602985600000,
+    "date_filed_is_approximate": false,
+    "slug": "henderson-v-state",
+    "case_name_short": null,
+    "case_name": "Henderson v. State",
+    "case_name_full": "HENDERSON v. State",
+    "attorneys": "Whitehurst, Cohen & Blackburn, Arthur J. Shelfer, Jr., for appellant., James E. Hardy, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "190 Ga. App. 243",
+        "378 S.E.2d 530"
+    ],
+    "opinions": [
+        {
+            "author_str": "Deen",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDeen, Presiding Judge.\nThe appellant, Aaron Henderson, was convicted of burglary. On appeal, his sole contention is that the trial court erred in admitting evidence of a similar offense.\nThe evidence showed that during the night of May 6, 1988, Henderson broke into the second floor window of the Thomas County Courthouse. Once inside he forced open the door to the drug squad *244office and ransacked that office. Some money and controlled substances were taken. A crowbar was left at the scene, as well as a baseball-type cap bearing the logo of the Southern Sand Company, which had once employed Henderson.\nDecided February 9, 1989.\nWhitehurst, Cohen &amp; Blackburn, Arthur J. Shelfer, Jr., for appellant.\nJames E. Hardy, Assistant District Attorney, for appellee.\nThe evidence of a similar offense admitted by the trial court concerned a 1985 burglary of the Southern Sand Company, for which Henderson pled guilty. In that burglary, Henderson entered the premises at night by breaking out a window with a brick, and took some checks which he forged and cashed.\n\u201c[0]nce the identity of the defendant as the perpetrator of the similar transaction has been shown, and the extrinsic offense and the offense charged are sufficiently similar so that proof of the former tends to prove the latter, such evidence is admissible to show identity, motive, plan, scheme, bent of mind, and course of conduct. [Cit.]\u201d Flournoy v. State, 186 Ga. App. 774 (368 SE2d 538) (1988). Under the above criteria, the evidence of the 1985 burglary conviction was admissible in this case.\n\nJudgment affirmed.\n\n\nBirdsong and Benham, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5643534
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 2212503,
+    "judges": "Taylor",
+    "date_filed": -193104000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-moranda",
+    "case_name_short": "Moranda",
+    "case_name": "People v. Moranda",
+    "case_name_full": "The PEOPLE, Plaintiff and Respondent, v. HAROLD CHARLES MORANDA, Defendant and Appellant",
+    "attorneys": "Harold Charles Moranda, in pro. per., for Defendant and Appellant., Stanley Mosk, Attorney General, and Albert W. Harris, Jr., Deputy Attorney General, for Plaintiff and Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b444-4\">\n    [Crim. No. 4367.\n   </docketnumber><court id=\"AcT\">\n    First Dist., Div. Two.\n   </court><decisiondate id=\"AMD\">\n    Nov. 19, 1963.]\n   </decisiondate><br><parties id=\"b444-5\">\n    THE PEOPLE, Plaintiff and Respondent, v. HAROLD CHARLES MORANDA, Defendant and Appellant.\n   </parties><br><attorneys id=\"b444-11\">\n    Harold Charles Moranda, in pro. per., for Defendant and Appellant.\n   </attorneys><br><attorneys id=\"b444-12\">\n    Stanley Mosk, Attorney General, and Albert W. Harris, Jr., Deputy Attorney General, for Plaintiff and Respondent.\n   </attorneys>",
+    "citations": [
+        "222 Cal. App. 2d 424"
+    ],
+    "opinions": [
+        {
+            "author_str": "Taylor",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6609.0,
+            "opinion_text": "\n222 Cal. App. 2d 424 (1963)\nTHE PEOPLE, Plaintiff and Respondent,\nv.\nHAROLD CHARLES MORANDA, Defendant and Appellant.\nCrim. No. 4367. \nCalifornia Court of Appeals. First Dist., Div. Two.  \nNov. 19, 1963.\n Harold Charles Moranda, in pro. per., for Defendant and Appellant.\n Stanley Mosk, Attorney General, and Albert W. Harris, Jr., Deputy Attorney General, for Plaintiff and Respondent. *425\n TAYLOR, J.\n In this appeal from a judgment of conviction finding him guilty of petty theft (Pen. Code,  484) with a prior felony conviction (Pen. Code,  667),  [fn. 1] appellant, Harold Charles Moranda, in pro per., contends that he was erroneously convicted of a felony.\n The clerk's transcript indicates that on February 28, 1963, an information was filed, charging the appellant with a felony, petty theft in violation of section 484 of the Penal Code, and a prior felony conviction and service of term. The information did not mention section 667 of the Penal Code. Appellant was arraigned and counsel appointed to represent him. He entered a plea of guilty to the petty theft charge and admitted serving a prison term for a prior felony conviction, second degree burglary. Thereafter, the court rendered its judgment finding appellant guilty of a felony and sentenced the appellant for the time prescribed by law.  [fn. 2] An examination of the record below discloses no prejudicial error.\n [1a] Appellant contends that he was erroneously convicted of a felony as petty theft is only a misdemeanor.  [fn. 3] Section 667 of the Penal Code makes petty theft a felony when the accused has been previously convicted of a felony and served a term therefor. The information in this case charged the appellant with a felony, violation of section 484 of the Penal Code and a prior conviction. Appellant argues that because section 667 was not specifically mentioned in the information, he was not apprised of the fact that he was being charged with a felony.\n [2] A defect in criminal proceedings, to constitute prejudicial error, must affect the substantial rights of the accused. (Cal.Const., art. VI,  4 1/2; Pen. Code,  1258.) [1b, 3] The failure to allege a violation of section 667 is not a prejudicial error when the precise elements of the offense *426 are set forth with clarity in the information (In re Mitchell, 56 Cal. 2d 667 [16 Cal. Rptr. 281, 365 P.2d 177]). Likewise, the appellant here could not possibly have been misled as all of the elements of section 667 were set forth in the information. The only purpose of charging the prior conviction was to convert the misdemeanor into a felony. Appellant had the advice and assistance of counsel prior to and at the time of his plea and admission of the prior conviction. Appellant's plea of guilty and admission of the prior conviction fully support the judgment (People v. O'Neal, 204 Cal. App. 2d 707 [22 Cal. Rptr. 641]). The failure to specifically allege section 667 in the information constitutes only a procedural irregularity in the judgment, not prejudicial error (In re Mitchell, supra, at pp. 671-672).\n Judgment affirmed.\n Shoemaker, P. J., and Agee, J., concurred.\nNOTES\n[fn. 1]  1. This section provides: \"Every person who, having been convicted of any felony either in this State or elsewhere, and having served a term therefor in any penal institution, commits petty theft after such conviction, is punishable therefor by imprisonment in the county jail not exceeding one year or in the State prison not exceeding five years.\"\n[fn. 2]  2. This sentence is for the maximum (five years) unless and until the Adult Authority acts to fix a shorter term (In re Mills, 55 Cal. 2d 646, 653 [12 Cal. Rptr. 483, 361 P.2d 15].)\n[fn. 3]  3. Section 484 defines theft; sections 485, 486, 487 set forth the degrees of theft and define grand theft. Section 488 provides: \"Theft in other cases is petty theft.\" Section 490 provides: \"Petty theft is punishable by a fine not exceeding five hundred dollars, or by imprisonment in the county jail not exceeding six months, or both.\" Thus, petty theft is a misdemeanor as defined in section 17 of the Penal Code.\n\n",
+            "ocr": false,
+            "opinion_id": 2212503
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Robbery"
+}

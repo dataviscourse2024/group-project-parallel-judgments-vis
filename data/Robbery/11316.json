@@ -1,0 +1,68 @@
+{
+    "id": 371085,
+    "judges": "Ely, Ferguson, Kilkenny, Per Curiam",
+    "date_filed": 295056000000,
+    "date_filed_is_approximate": false,
+    "slug": "bruce-paul-bledsoe-v-state-of-washington-board-of-prison-terms-paroles",
+    "case_name_short": null,
+    "case_name": "Bruce Paul Bledsoe v. State of Washington Board of Prison Terms & Paroles",
+    "case_name_full": "Bruce Paul BLEDSOE, Petitioner-Appellant, v. STATE OF WASHINGTON BOARD OF PRISON TERMS & PAROLES Et Al., Respondents-Appellees",
+    "attorneys": "John H. Hill, III (argued), Tacoma, Wash., for petitioner-appellant., Nate Mannakee, Asst. Atty. Gen. (argued), Olympia, Wash., for respondents-ap-pellees.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied May 9, 1979.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b480-3\">\n    Bruce Paul BLEDSOE, Petitioner-Appellant, v. STATE OF WASHINGTON BOARD OF PRISON TERMS &amp; PAROLES et al., Respondents-Appellees.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b480-6\">\n    No. 78-2058.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b480-7\">\n    United States Court of Appeals, Ninth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b480-8\">\n    March 21, 1979.\n   </decisiondate><br><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b480-9\">\n    Rehearing Denied May 9, 1979.\n   </otherdate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b480-11\">\n    John H. Hill, III (argued), Tacoma, Wash., for petitioner-appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b480-12\">\n    Nate Mannakee, Asst. Atty. Gen. (argued), Olympia, Wash., for respondents-ap-pellees.\n   </attorneys><br><p data-order=\"7\" data-type=\"judges\" id=\"b480-15\">\n    Before ELY and KILKENNY, Circuit Judges, and FERGUSON,\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n    District Judge.\n   </p><div class=\"footnotes\"><div class=\"footnote\" data-order=\"8\" data-type=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b480-13\">\n     Honorable Warren J. Ferguson, United States District Judge, Central District of California, sitting by designation.\n    </p>\n</div></div>",
+    "citations": [
+        "608 F.2d 396"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/608/608.F2d.396.78-2058.html",
+            "author_id": null,
+            "opinion_text": "608 F.2d 396\n    Bruce Paul BLEDSOE, Petitioner-Appellant,v.STATE OF WASHINGTON BOARD OF PRISON TERMS &amp; PAROLES et al.,Respondents-Appellees.\n    No. 78-2058.\n    United States Court of Appeals,Ninth Circuit.\n    March 21, 1979.Rehearing Denied May 9, 1979.\n    \n      John H. Hill, III (argued), Tacoma, Wash., for petitioner-appellant.\n      Nate Mannakee, Asst. Atty. Gen.  (argued), Olympia, Wash., for respondents-appellees.\n      Before ELY and KILKENNY, Circuit Judges, and FERGUSON,* District Judge.\n      PER CURIAM:\n    \n    \n      1\n      Upon the authority of Standlee v. Rhay, 557 F.2d 1303 (9th Cir. 1977), the judgment of the District Court must be, and the same hereby is\n    \n    \n      2\n      AFFIRMED.\n    \n    \n      3\n      ELY, Circuit Judge, with whom Judge FERGUSON joins (concurring):\n    \n    \n      4\n      Under the compulsion of Standlee, Judge Ferguson and I have no choice save to concur in the affirming disposition.  We hold the deep conviction, however, that Standlee was wrongly decided, and we fervently hope that the time will soon come when the full court will turn away from its Standlee decision.1\n    \n    \n      \n        *\n         Honorable Warren J. Ferguson, United States District Judge, Central District of California, sitting by designation\n      \n      \n        1\n         Here, after having been convicted of a narcotics offense, Bledsoe was released to state authorities on parole.  While at liberty in this status, he was charged with having committed the offense of robbery.  He was acquitted of the charge after a full trial in the appropriate Washington court.  Not satisfied with the result of that trial, however, the parole authorities revoked Bledsoe's parole, finding \"by a preponderance of the evidence\" that he had committed the offense of which he had been acquitted in the criminal trial.  To the concurring judges, this simply does not seem fair.  It should be mentioned, too, that it did not seem fair to District Judge Neill, before whom Bledsoe's Petition for Habeas relief was presented.  Judge Neill, in a well reasoned opinion, took an approach opposite to that taken by this court in Standlee.  Because of Standlee, however, Judge Neill was compelled to withdraw his original opinion and revoke his original decision that Bledsoe was entitled to relief\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 371085
+        },
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM:\nUpon the authority of Standlee v. Rhay, 557 F.2d 1303 (9th Cir. 1977), the judgment of the District Court must be, and the same hereby is\nAFFIRMED.\n",
+            "ocr": false,
+            "opinion_id": 9466216
+        },
+        {
+            "author_str": "Ely",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nELY, Circuit Judge,\nwith whom Judge FERGUSON joins (concurring):\nUnder the compulsion of Standlee, Judge Ferguson and I have no choice save to concur in the affirming disposition. We hold the deep conviction, however, that Standlee was wrongly decided, and we fervently hope that the time will soon come when the full court will turn away from its Standlee decision.1\n\n. Here, after having been convicted of a narcotics offense, Bledsoe was released to state authorities on parole. While at liberty in this status, he was charged with having committed the offense of robbery. He was acquitted of the charge after a full trial in the appropriate Washington court. Not satisfied with the result of that trial, however, the parole authorities revoked Bledsoe\u2019s parole, finding \u201cby a preponderance of the evidence\u201d that he had committed the offense of which he had been acquitted in the criminal trial. To the concurring judges, this simply does not seem fair. It should be mentioned, too, that it did not seem fair to District Judge Neill, before whom Bled-soe\u2019s Petition for Habeas relief was presented. Judge Neill, in a well reasoned opinion, took an approach opposite to that taken by this court in Standlee. Because of Standlee, however, Judge Neill was compelled to withdraw his original opinion and revoke his original decision that Bledsoe was entitled to relief.\n\n",
+            "ocr": false,
+            "opinion_id": 9466217
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

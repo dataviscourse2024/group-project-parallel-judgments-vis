@@ -1,0 +1,68 @@
+{
+    "id": 278090,
+    "judges": "Brown, Dyer, Fahy, Per Curiam",
+    "date_filed": -66096000000,
+    "date_filed_is_approximate": false,
+    "slug": "atlee-white-v-wh-mchan-warden",
+    "case_name_short": null,
+    "case_name": "Atlee White v. W.H. McHan Warden",
+    "case_name_full": "Atlee WHITE, Appellant, v. W. H. McHAN, Warden, Appellee",
+    "attorneys": "John H. Ruffin, Jr., Augusta, Ga., for appellant., Mathew Robins, Asst. Atty. Gen., Atlanta, Ga., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b865-11\">\n    Atlee WHITE, Appellant, v. W. H. McHAN, Warden, Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b865-13\">\n    No. 24890.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b865-14\">\n    United States Court of Appeals Fifth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b865-15\">\n    Nov. 28, 1967.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b866-10\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"818\"> \n     *818\n     </span>\n    John H. Ruffin, Jr., Augusta, Ga., for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b866-11\">\n    Mathew Robins, Asst. Atty. Gen., Atlanta, Ga., for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b866-12\">\n    Before BROWN, Chief Judge, FAHY\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n    and DYER, Circuit Judges.\n   </p><div class=\"footnotes\"><div class=\"footnote\" data-order=\"7\" data-type=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b866-21\">\n     Senior Circuit Judge of the District of Columbia Circuit, sitting by designation.\n    </p>\n</div></div>",
+    "citations": [
+        "386 F.2d 817"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/386/386.F2d.817.24890.html",
+            "author_id": null,
+            "opinion_text": "386 F.2d 817\n    Atlee WHITE, Appellant,v.W.H. McHAN, Warden, Appellee.\n    No. 24890.\n    United States Court of Appeals Fifth Circuit.\n    November 28, 1967.\n    \n      John H. Ruffin, Jr., Augusta, Ga., for appellant.\n      Mathew Robins, Asst. Atty. Gen., Atlanta, Ga., for appellee.\n      Before BROWN, Chief Judge, FAHY,* and DYER, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      Appellant, indicted for murder, was tried and convicted by a jury in the state courts of Georgia of voluntary manslaughter. After exhausting state remedies appellant petitioned the District Court for a writ of habeas corpus alleging that Negroes had been systematically excluded from the jury which convicted her and that she was denied benefit of counsel in that her attorney failed to raise the jury discrimination issue at trial. After an evidentiary hearing at which appellant produced three witnesses and some documentary evidence the District Court denied the petition. We affirm.\n    \n    \n      2\n      Appellant had the burden of presenting a prima facie case of deliberate discrimination. Whitus v. State of Georgia, 1967, 385 U.S. 545, 550, 87 S.Ct. 643, 17 L.Ed.2d 599. Two of the three witnesses testified that neither they nor any member of their families had ever been called for jury duty. The third testified that he had twice served on a jury and that he knew Negroes had served in the county where appellant had been convicted for five or six years which included the year of appellant's trial. The only statistical evidence introduced was the population figures of the county in question broken down to show the number of Negroes and of Whites over 21 years of age. Such a paucity of evidence does not establish a prima facie case of discrimination. Cf. Whitus v. State of Georgia, supra.\n    \n    \n      3\n      It is well settled that habeas corpus relief on grounds of denial of effective counsel \"will be granted only when the trial was a farce, or a mockery of justice, or was shocking to the conscience of the reviewing court, or the purported representation was only perfunctory, in bad faith, a sham, a pretense, or without adequate opportunity for conference and preparation.\" Williams v. Beto, 5 Cir., 1965, 354 F.2d 698, 704. The record is barren on this score. Furthermore under the circumstances present here and the evidential showing of this record a challenge of the jury would have been unavailing.\n    \n    \n      4\n      Affirmed.\n    \n    \n      \n        Notes:\n      \n      \n        *\n         Senior Circuit Judge of the District of Columbia Circuit, sitting by designation\n      \n    \n    FAHY, Circuit Judge (specially concurring):\n    \n      5\n      My concurrence in denying relief sought on the basis of alleged ineffective assistance of counsel, is based on the absence of an adequate showing. As to my view of the proper rule, see my dissent in Mitchell v. United States, 104 U.S.App. D.C. 57, 64, 259 F.2d 787, 794, cert. denied 358 U.S. 850, 79 S.Ct. 81, 3 L.Ed.2d 86.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 278090
+        },
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM:\nAppellant, indicted for murder, was tried and convicted by a jury in the state courts of Georgia of voluntary manslaughter. After exhausting state remedies appellant petitioned the District Court for a writ of habeas corpus alleging that Negroes had been systematically excluded from the jury which convicted her and that she was denied benefit of counsel in that her attorney failed to raise the jury discrimination issue at trial. After an evidentiary hearing at which appellant produced three witnesses and some documentary evidence the District Court denied the petition. We affirm.\nAppellant had the burden of presenting a prima facie case of deliberate discrimination. Whitus v. State of Georgia, 1967, 385 U.S. 545, 550, 87 S.Ct. 643, 17 L.Ed.2d 599. Two of the three witnesses testified that neither they nor any member of their families had ever been called for jury duty. The third testified that he had twice served on a jury and that he knew Negroes had served in the county where appellant had been convicted for five or six years which included the year of appellant\u2019s trial. The only statistical evidence introduced was the population figures of the county in question broken down to show the number of Negroes and of Whites over 21 years of age. Such a paucity of evidence does not establish a prima facie case of discrimination. Cf. Whitus v. State of Georgia, supra.\n It is well settled that habeas corpus relief on grounds of denial of effective counsel \u201cwill be granted only when the trial was a farce, or a mockery of justice, or was shocking to the conscience of the reviewing court, or the purported representation was only perfunctory, in bad faith, a sham, a pretense, or without adequate opportunity for conference and preparation.\u201d Williams v. Beto, 5 Cir., 1965, 354 F.2d 698, 704. The record is barren on this score. Furthermore under the circumstances present here and the evidential showing of this record a challenge of the jury would have been unavailing.\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 9453175
+        },
+        {
+            "author_str": "Fahy",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nFAHY, Circuit Judge\n(specially concurring) :\nMy concurrence in denying relief sought on the basis of alleged ineffective assistance of counsel, is based on the absence of an adequate showing. As to my view of the proper rule, see my dissent in Mitchell v. United States, 104 U.S.App. D.C. 57, 64, 259 F.2d 787, 794, cert. denied 358 U.S. 850, 79 S.Ct. 81, 3 L.Ed.2d 86.\n",
+            "ocr": false,
+            "opinion_id": 9453176
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

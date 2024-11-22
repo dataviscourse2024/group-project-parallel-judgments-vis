@@ -1,0 +1,47 @@
+{
+    "id": 3283708,
+    "judges": "Thompson",
+    "date_filed": -1189728000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-chambers",
+    "case_name_short": "Chambers",
+    "case_name": "People v. Chambers",
+    "case_name_full": "The PEOPLE, Respondent, v. ROBERT C. CHAMBERS Et Al., Defendants; LAWRENCE FINK, Appellant",
+    "attorneys": "Stanley Visel for Appellant., U. S. Webb, Attorney-General, and Alberta Belford, Deputy Attorney-General, for Respondent.",
+    "nature_of_suit": null,
+    "posture": "APPEAL from a judgment of the Superior Court of Los Angeles County and from an order denying motion to arrest judgment. Charles W. Fricke, Judge. Affirmed.\n\nThe facts are stated in the opinion of the court.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b757-8\">\n    [Crim. No. 2163.\n   </docketnumber><court id=\"AvR\">\n    Second Appellate District, Division Two.\n   </court><decisiondate id=\"Au2\">\n    April 20, 1932.]\n   </decisiondate><br><parties id=\"b757-10\">\n    THE PEOPLE, Respondent, v. ROBERT C. CHAMBERS et al., Defendants; LAWRENCE FINK, Appellant.\n   </parties><br><attorneys id=\"b757-15\">\n    Stanley Visel for Appellant.\n   </attorneys><br><attorneys id=\"b758-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"724\"> \n     *724\n     </span>\n    U. S. Webb, Attorney-General, and Alberta Belford, Deputy Attorney-General, for Respondent.\n   </attorneys>",
+    "citations": [
+        "10 P.2d 467",
+        "122 Cal. App. 723"
+    ],
+    "opinions": [
+        {
+            "author_str": "Thompson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The defendants by an information filed by the district attorney of Los Angeles County were charged with the crime of robbery. Pursuant to an instruction directing it so to do, the jury acquitted the defendant Robinson, but found the other two defendants guilty. The defendant Fink, in addition to pleading \"not guilty\", entered a plea of \"not guilty by reason of insanity\" and upon that issue the jury determined that he was sane. The defendant Chambers gave notice of appeal, but since that time has filed a dismissal herein, leaving only for our consideration the appeal of Fink, which is from the judgment and from an order denying a motion to arrest judgment until the sanity of the defendant at the time set for pronouncing judgment might be inquired into.\nThe only point raised by appellant is that the court erred in refusing to grant his motion to arrest the judgment. He bases his argument upon those sections of the Penal Code (secs. 1368 and 1370) which provide that if at the time judgment is to be pronounced there is in the opinion of the court reasonable ground to believe the defendant insane he may suspend the sentence until his sanity is determined.\n[1] From a strictly legal standpoint the insanity of a defendant at the time of trial or before pronouncement of sentence is not a ground for the motion in arrest of judgment. It was so decided in People v. Kirby, 15 Cal.App. 264-270 [114 P. 794].\n[2] However, the trial court considered the motion in its larger sense as a suggestion of the then insanity of the defendant and after reviewing the affidavit of appellant's counsel and the testimony which he had heard for two days and observing the defendant for that length of time, concluded that there was no reason to inquire further into the matter. Such a question is one especially addressed to the sound and wise discretion of the trial judge. (People v. Croce, 208 Cal. 125\n[280 P. 526], and cases there cited.) We find nothing to indicate any abuse of discretion.\nJudgment and order affirmed.\nWorks, P.J., and Craig, J., concurred. *Page 725 ",
+            "ocr": false,
+            "opinion_id": 3282119
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Robbery"
+}

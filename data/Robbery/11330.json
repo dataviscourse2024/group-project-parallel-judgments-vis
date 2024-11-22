@@ -1,0 +1,46 @@
+{
+    "id": 1290541,
+    "judges": "Berman",
+    "date_filed": 271555200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-blackorby",
+    "case_name_short": "Blackorby",
+    "case_name": "People v. Blackorby",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "583 P.2d 949"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n583 P.2d 949 (1978)\nThe PEOPLE of the State of Colorado, Plaintiff-Appellee,\nv.\nDaniel L. BLACKORBY, Defendant-Appellant.\nNo. 77-289.\nColorado Court of Appeals, Div. I.\nAugust 10, 1978.\n*950 J. D. MacFarlane, Atty. Gen., David W. Robbins, Deputy Atty. Gen., Edward G. Donovan, Sol. Gen., Mary J. Mullarkey, Asst. Atty. Gen., Denver, for plaintiff-appellee.\nJohn A. Purvis, Acting Colorado State Public Defender, Alex J. Martinez, Deputy State Public Defender, Denver, for defendant-appellant.\nBERMAN, Judge.\nThe defendant pled guilty to a charge of second degree burglary, his judgment and sentencing were deferred for a period of one year, and he was placed under the *951 supervision of the probation department. Prior to the expiration of the one-year period, pursuant to a summons issued by the probation department, the defendant appeared in court pro se and requested that judgment and sentencing be deferred for an additional year in order to enable him to comply with a condition of his deferred judgment that he make restitution to the victim of the offense. Pursuant to such request the trial court ordered that \"the defendant is hereby granted a one-year extension of the time under supervision in order he may pay the outstanding balance of his restitution . . ..\" During the one-year extension of the deferred judgment and sentence the defendant was charged with several criminal offenses, and after notice and a hearing his deferred judgment was revoked, and he was sentenced to the Colorado State Reformatory. He brings this appeal from the denial of his motion to vacate the judgment of conviction and sentence. We affirm.\nThe defendant challenges here the authority of the trial court to defer judgment and sentencing beyond the initial one-year period. He argues that the trial court had no statutory authority to order such an extension and that even if the trial court had such authority, it could only be exercised after a notice and hearing and for good cause.\nSection 16-7-403, C.R.S.1973 (1976 Cum.Supp.) expressly authorizes a court to defer judgment and sentencing for a period of two years from the time a guilty plea is entered, and the extension granted here did not defer judgment and sentencing beyond this two-year period. And, while there is no express statutory authority which permits the court to extend the period of a deferred judgment and sentence beyond that initially imposed, in our view such authority is encompassed in the broad discretionary power of the court. See People v. Ray, Colo., 560 P.2d 74 (1977).\nFurther, although \u00a7 16-11-204(4), C.R.S.1973, requires notice, a hearing, and a showing of good cause before a supervisory period is increased, we conclude that the provisions of this statute are not applicable, when, as here, an extension of the period of supervision is granted at the defendant's own request. Cf. In Re Nottingham, 84 Colo. 123, 268 P. 587 (1928); see also Kartman v. Parratt, 535 F.2d 450 (8th Cir. 1976). Further, since the defendant requested the extension, we reject his suggestion that the granting of the extension violated due process because he was not represented by counsel, or because the trial court did not make a determination as to whether fundamental fairness required that counsel be appointed to represent him.\nWe also reject the defendant's assertion that the extension granted because of his inability to pay restitution constituted invidious discrimination.\nRevocation of the supervisory period, like revocation of probation for failure to pay restitution, is only proper where the trial court finds that the defendant had the ability to pay restitution. See People v. Strickland, Colo.App. 575 P.2d 436 (1977), cert. granted, March 6, 1978.\nAt the time he requested an extension of his probationary period the defendant did not offer any evidence to establish and did not claim that his failure to make restitution was not wilful and apparently the defendant during his period of supervision was employed full time as a printer. Thus, the record does not support his assertion that the extension was granted because his indigency made it impossible for him to pay restitution within the initial period of his deferred judgment, and therefore, we find his assertion of discrimination based on indigency without merit.\nJudgment affirmed.\nCOYTE and SMITH, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1290541
+        }
+    ],
+    "court_short_name": "Colorado Court of Appeals",
+    "court_full_name": "Colorado Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 7264774,
+    "judges": "Barham",
+    "date_filed": 42163200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-mccoy",
+    "case_name_short": "McCoy",
+    "case_name": "State v. McCoy",
+    "case_name_full": "STATE of Louisiana v. Lee Arthur McCOY",
+    "attorneys": "John D. Goodwin, Shreveport, for defendant-appellant., Jack P. F. Gremillion, Atty. Gen., Harry H. Howard, Asst. Atty. Gen., John A. Richardson, Dist. Atty., Fred C. Sexton, Jr., Asst. Dist. Atty., for plaintiff-appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "258 La. 645",
+        "247 So. 2d 562"
+    ],
+    "opinions": [
+        {
+            "author_str": "Barham",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBARHAM, Justice.\nThe defendant was charged with attempted simple burglary, convicted, and sentenced to two years in the penitentiary. Our review on appeal is limited to a consideration of the one bill of exception reserved and perfected and an examination for error on the face of the pleadings and proceedings.\n*647This bill was taken when the court denied a motion for preliminary examination. The record and the judge\u2019s per curiam reflect the following circumstances: The bill of information was filed on January 30, 1970, and bond was fixed. The defendant stated he was able to employ a lawyer, but within approximately one week counsel was appointed for him. The defendant with counsel was arraigned and pleaded not guilty on March 3, 1970, and the case was set for trial April 20. When it was not reached for trial on that date, it was continued over to April 22. On that date the case was continued on motion of the defendant joined by the State. The motion for preliminary examination was filed on M'ay 6, 1970, and was denied on May IS. The case was reset for trial on May 26 for June 22, and at that time the trial proceeded to verdict.\nThe preliminary examination is primarily provided to determine whether probable cause exists for charging a defendant with a crime and to fix bail in cases where bail is permitted. It is the kind of proceeding which it is anticipated will be utilized soon after arrest in order to afford maximum protection and safeguards to the defendant from improper incarceration and to give counsel an opportunity to protect his client from the possibility of illegal or unconstitutional police procedures. When the motion is made before the finding of an indictment or the filing of a bill of information, the court is mandated to grant it in felony cases. However, when it is made after the finding of indictment or the filing of an information, the matter is discretionary. C.Cr.P. Art. 292.*\nThe motion for preliminary examination here alleges that since defendant was unable to file his motion prior to the filing of the bill of information and since such a hearing would aid him in planning his defense, the hearing should be ordered. It further alleges that the bill of information is not conclusive as to probable cause, and that defendant believes a hearing will establish his right to be released.\nUnder the facts and circumstances we have set out above, the disposition of this motion, coming several months after the filing of the information, after arraignment and plea, and even after motion for a continuance of trial date, certainly addresses itself to the sound discretion of the trial judge. State v. Jackson, this day decided, 258 La. 632, 247 So.2d 558; State v. Hudson, 253 La. 992, 221 So.2d 484 (1969). The trial court\u2019s denial of the motion for preliminary examination was a proper exercise of its discretion.\n*649Moreover, an improper denial of this preliminary motion, which does not address itself to the guilt or innocence of the accused, is not reversible error on appeal in the absence of a showing of prejudice which denied the accused a fair trial. State v. Jackson, supra; State v. Hudson, supra; State v. Pesson, 256 La. 201, 235 So.2d 568 (1970).\nWe have examined the pleadings and proceedings before us and find no error.\nThe conviction and sentence are affirmed.\n\n A majority of this court is of the opinion that a bill of information filed after the motion relieves the court from the obligation of a mandatory hearing. See State v. Pesson, 256 La. 201, 235 So.2d 568 (1970); see writ denials in State v. King, 255 La. 500, 231 So.2d 402, and State v. Fitzsimmons, 255 La. 787, 232 So.2d 515.\n\n",
+            "ocr": true,
+            "opinion_id": 7179457
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

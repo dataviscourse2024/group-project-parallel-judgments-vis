@@ -1,0 +1,46 @@
+{
+    "id": 1679659,
+    "judges": "Scheb",
+    "date_filed": 585532800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-moore",
+    "case_name_short": "Moore",
+    "case_name": "State v. Moore",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "530 So. 2d 349"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7060.0,
+            "opinion_text": "\n530 So.2d 349 (1988)\nSTATE of Florida, Appellant,\nv.\nGary Wayne MOORE, Appellee.\nNo. 87-3331.\nDistrict Court of Appeal of Florida, Second District.\nJuly 22, 1988.\nRehearing Denied September 6, 1988.\n*350 Robert A. Butterworth, Atty. Gen., Tallahassee, and Charles Corces, Jr., Asst. Atty. Gen., Tampa, for appellant.\nJames Marion Moorman, Public Defender, and Robert Mack, Asst. Public Defender, Bartow, for appellee.\nSCHEB, Judge.\nThe state appeals the trial court's suppression of the defendant's confession in a burglary and sexual battery case. We find merit in the state's argument that misstatements and alleged suggestions of leniency made to the defendant by the interrogating officer during questioning did not invalidate the voluntariness of the confession. Accordingly, we reverse.\nThe defendant, who was not under arrest at the time, consented to accompany the officer to the sheriff's office and undergo questioning. He was given the Miranda warnings and stated he understood them. He never requested an attorney. The defendant signed a confession after questioning during which the officer implied that the victim had identified the defendant as her assailant. Defendant was also told: (1) that \"the glass was pretty full with evidence against him,\" when in fact there was not enough evidence to arrest him; (2) that the defendant's prints were found on the window sill, when in fact only unidentifiable smudges were lifted; (3) that \"we have got your hairs\" from the scene, when actually a comparison had not been made; and (4) among similar statements, that if \"he was being strait (sic)\" it would assist in determining whether the victim was being honest.\nThe defendant moved to suppress his confession prior to trial. After a hearing, the trial court granted his motion, and the state appealed. We have jurisdiction under Florida Rule of Appellate Procedure 9.140(c)(B).\nFirst, as explained in State v. Beck, 390 So.2d 748, 750 (Fla. 3d DCA 1980) (arson confession deemed voluntary regardless of \"implied promises\" of psychiatric help), statements suggesting leniency are only objectionable if they establish an express quid pro quo bargain for confession. See Fillinger v. State, 349 So.2d 714 (Fla. 2d DCA 1977) (larceny confession held involuntary because of interrogator's promise to advise state attorney of defendant's cooperation if he confessed); Foreman v. State, 400 So.2d 1047 (Fla. 1st DCA 1981) (burglary confession held involuntary where interrogator implied defendant would not be prosecuted if he confessed and returned the stolen item). While mindful that the voluntariness of a confession is invalidated when obtained in an environment where there exists even the slightest promise of a bargain, 400 So.2d at 1047, we do not find such an inducement here.\nIncorrect and misleading statements made to a defendant by law enforcement officers do not necessarily invalidate an otherwise voluntary confession. This is especially true where, as here, there is no *351 doubt that the defendant was read his Miranda rights and stated that he understood them. Halliwell v. State, 323 So.2d 557 (Fla. 1975).\nMisrepresentation of facts by an interrogating officer relevant to the crime about which a defendant is being questioned has been upheld. Frazier v. Cupp, 394 U.S. 731, 89 S.Ct. 1420, 22 L.Ed.2d 684 (1969) (murder confession deemed voluntary even though the defendant was falsely told that his partner had confessed); Burch v. State, 343 So.2d 831 (Fla. 1977) (murder confession held voluntary although the defendant was incorrectly informed he had failed a polygraph test).\nWhen psychological tactics are used during questioning, it is the totality of the circumstances, including such factors as youth, lack of education, low intelligence, explanation of constitutional rights, and length of interrogation that determines voluntariness. Miller v. Fenton, 796 F.2d 598, 604 (3rd Cir.1986). The court in Miller explained that although misstatements may affect the voluntariness of a confession, they must be of the quality that would coerce the defendant into confessing. Id. at 605. Here, the defendant was a mature adult, and although he had only a seventh grade education, he freely accompanied detectives to the sheriff's office, claimed he understood his rights, and answered their questions.\nA case which is factually similar is State v. Manning, 506 So.2d 1094 (Fla. 3d DCA 1987), in which a confession to sexual battery was held to be voluntary despite the police misleading the defendant concerning pertinent medical records and telling him that his wife and daughter had already made statements implicating him. The court in Manning stated that \"[t]here must be coercion involved, and a misstatement of fact is not coercion,\" 506 So.2d at 1098, and \"deception short of overbearing inducement is ... valid.\" Id. at 1099.\nWe believe, therefore, that the totality of the circumstances under which the defendant gave his confession indicates voluntariness. Accordingly, we reverse the trial court's order suppressing the defendant's confession and remand for further proceedings.\nCAMPBELL, C.J., and THREADGILL, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1679659
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

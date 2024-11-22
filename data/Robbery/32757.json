@@ -1,0 +1,46 @@
+{
+    "id": 5897197,
+    "judges": null,
+    "date_filed": -145411200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-morgan",
+    "case_name_short": "Morgan",
+    "case_name": "People v. Morgan",
+    "case_name_full": "The People of the State of New York v. Robert Morgan",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "23 A.D.2d 892"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from a judgment of the Supreme Court, Kings County, rendered December 2, 1963 after a jury trial, convicting him of robbery in the third degree, grand larceny in the first degree and assault in the second degree, and imposing sentence upon him as a second felony offender. Judgment affirmed. In our opinion, there was ample corroboration of the testimony of the accomplice (cf. People v. Dixon, 231 N. Y. Ill, 116; People v. Kress, 284 N. Y. 452, 460; People v. Watford, 19 A D 2d 731), and defendant\u2019s guilt was clearly established. We find no reversible error in the limited cross-examination of defendant concerning a shooting. The subject was introduced by the defendant in the first instance; and the court in any event instructed the jury to disregard the matter. We are also of the opinion that any error in the defendant\u2019s cross-examination with respect to his prior convictions was not prejudicial and may be disregarded under section 542 of the Code of Criminal Procedure (cf. People v. Kingston, 8 N Y 2d 384, 387). Brennan, Acting P. J., Hill, Rabin, Hopkins and Benjamin, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5754292
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

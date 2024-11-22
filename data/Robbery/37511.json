@@ -1,0 +1,46 @@
+{
+    "id": 6844980,
+    "judges": "Brock, Martin, Parker",
+    "date_filed": 156556800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-jones",
+    "case_name_short": "Jones",
+    "case_name": "State v. Jones",
+    "case_name_full": "STATE OF NORTH CAROLINA v. SHERMAN LEWIS JONES",
+    "attorneys": "\n\nAttorney General Carson, by Assistant Attorney General Blackburn, for the State.\n, \nDailey J. Derr, for the defendant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 N.C. App. 280"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brock",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBROCK, Chief Judge.\nDefendant assigns as error the denial by the trial judge of defendant\u2019s motion for a copy of the judge\u2019s memorandum of the preliminary hearing held in District Court on 30 October 1973. He stated that his motion was pursuant to G.S. 15-88, which reads as follows:\n\u201c\u00a7 15-88. Testimony reduced to writing; right to counsel. \u2014 The evidence given by the several witnesses examined shall be reduced to writing by the magistrate, or under his direction, and shall be signed by the witnesses respectively. If desired by the person arrested, his counsel shall be present during the examination of the complainant and the witnesses on the part of the prosecution, and during the examination of the prisoner; and the prisoner or his counsel shall be allowed to cross-examine the complainant and the witnesses for the prosecution.\u201d (Citations omitted.)\nCounsel admits that he was present with defendant at the preliminary hearing and took notes. There is no suggestion or argument that counsel was not allowed full opportunity to hear the testimony and cross-examine the witnesses.\nThere are at least three reasons why this assignment of error is without merit. First, defendant offers no showing that the evidence was reduced to writing by the District Court Judge. Second, the provision of G.S. 15-88 that the examining magistrate reduce the evidence to writing is directory only and not mandatory. State v. Bass, 280 N.C. 435, 186 S.E. 2d 384. Third, defendant did not make his motion timely. He waited until after his case was called for trial in Superior Court. We note that G.S. 15-88 has been repealed effective 1 July 1975. This assignment of error is overruled.\nDefendant assigns as error the denial of his motion for a transcript of the testimony before the grand jury which returned the bill of indictment. This assignment of error is feckless. A grand jury in North Carolina is not required to record the testimony of witnesses who appear before it. It is not the custom in this State to record evidentiary proceedings before *283the grand jury. The witnesses examined by the grand jury are marked on the bill of indictment, but their testimony is not recorded.\nDefendant assigns as error the denial of his motion for disclosure of the identity of a confidential informant. This informant advised the investigating officer that defendant had been away from town but had returned before the robbery in question in this case. It seems clear that the identity of this informant would in no way aid defendant in his defense. This Court has held that disclosure of the identity of a confidential informant will not be allowed unless it clearly appears that such disclosure would be relevant or helpful to the defense. State v. Watson, 19 N.C. App. 160, 198 S.E. 2d 185. In this case the identification of defendant, independent of information from the informant, as the perpetrator of the crime far outweighed the tip from the informant.\nDefendant assigns as error the denial of his motion to suppress the in-court identification of defendant by the two employees of the Little General Store. Upon defendant\u2019s objection to in-court identification, the trial judge excused the jurors, and a lengthy voir dire was conducted. The trial judge found, from competent evidence, inter alia, as follows:\n\u201cThat the defendant did not wear any mask of any kind; that the prosecuting witness Pattie Ray and the prosecuting witness Evelyn Mitchell had an opportunity to observe and did observe the defendant Sherman Lewis Jones within the interior of the store and the facial features of the defendant for some four or five or six minutes while within the interior of the store and while the store was well lighted; . . .\n\u201cThat the prosecuting witnesses Pattie Ray and Evelyn Mitchell observed the defendant almost continuously during the said period of time that the defendant was at the scene, and when the defendant was within three to six feet from the prosecuting witness; that the prosecuting witnesses Pattie Ray and Evelyn Mitchell determined that the defendant was of the black race, approximately six feet tall, dark hair, with a medium Afro, eyes were brown, and described the clothes being worn by defendant to the investigating officers, and subsequent descriptions have been reasonably consistent.\u201d\n*284The trial judge thereafter found and concluded that the in-court identification was of independent origin and was based on the prosecuting witnesses\u2019 observation of the defendant at the scene rather than on the photographic identification. He further found and concluded that the in-court identification was untainted by the illegality, if any, underlying the photographic identification; that the in-court identification of the defendant was of independent origin, based solely on what the prosecuting witnesses saw at the time of the crime, and did not result from any out-of-court confrontation, from any photographs, or from any pre-trial identification procedures suggestive or conducive to mistaken identification.\nWe do not approve the method by which the investigating officers employed the use of photographs in this case. See State v. Faire, 22 N.C. App. 573, 577, 207 S.E. 2d 284. The officer went to Mrs. Ray\u2019s home with six photographs. He told her the police had a suspect and asked if she recognized anyone in the six photographs. Such an approach to photographic identification lends itself immediately to criticism for possible suggestiveness. However Mrs. Ray did not positively identify anyone in the six photographs. She indicated that one resembled the defendant but that the photograph was of a much younger person. In the light of the unequivocal recognition of defendant based upon observation at the scene of the crime, we are of the opinion that there was no error in the findings by the trial judge or in the admission of the in-court identification.\nDefendant\u2019s argument that the trial judge should have allowed in evidence a computerized statement of defendant\u2019s income is feckless. No effort was made to identify such a statement nor to show that it was a record of a business where defendant was employed.\nThe remaining assignments of error are to the court\u2019s charge to the jury. These raise no novel or new question for consideration. We have examined the charge as a whole. In our opinion the case was fairly submitted to the jury upon applicable principles of law.\nNo error.\nJudges Parker and Martin concur.\n",
+            "ocr": true,
+            "opinion_id": 6732197
+        }
+    ],
+    "court_short_name": "Court of Appeals of North Carolina",
+    "court_full_name": "Court of Appeals of North Carolina",
+    "court_type": "SA",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Robbery"
+}

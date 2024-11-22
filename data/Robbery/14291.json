@@ -1,0 +1,47 @@
+{
+    "id": 2741236,
+    "judges": "Clark, DeGrasse, Gonzalez, Richter, Saxe",
+    "date_filed": 1412812800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-rosado",
+    "case_name_short": "Rosado",
+    "case_name": "People v. Rosado",
+    "case_name_full": "The People of the State of New York, Respondent, v. Kevin Rosado, Appellant",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"Ar_Z\">\n    The People of the State of New York, Respondent, v Kevin Rosado, Appellant.\n   </parties><citation id=\"AgL\">\n    [993 NYS2d 495]\n   </citation>",
+    "citations": [
+        "121 A.D.3d 459",
+        "993 N.Y.S.2d 495"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2014/2014_06860.htm",
+            "author_id": null,
+            "opinion_text": "People v Rosado (2014 NY Slip Op 06860)\r\nPeople v Rosado\r\n2014 NY Slip Op 06860\r\nDecided on October 9, 2014\r\nAppellate Division, First Department\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\nDecided on October 9, 2014Gonzalez, P.J., Saxe, DeGrasse, Richter, Clark, JJ.\r\n\r\n\r\n13168 2614/12\r\n\r\n[*1] The People of the State of New York, Respondent,\r\nvKevin Rosado, Defendant-Appellant.\r\nRobert S. Dean, Center for Appellate Litigation, New York (Lauren Springer of counsel), for appellant.\r\nCyrus R. Vance, Jr., District Attorney, New York (Luis Morales of counsel), for respondent.\r\nJudgment, Supreme Court, New York County (Ronald A. Zweibel, J.), rendered January 10, 2013, convicting defendant, upon his plea of guilty, of attempted robbery in the second degree, and sentencing him to a term of two years, with three years' postrelease supervision, unanimously affirmed.\r\nWe conclude that the court did not abuse its discretion in denying defendant's request for youthful offender treatment. We also perceive no reason to reduce the term of postrelease supervision.\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: OCTOBER 9, 2014\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 2741236
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

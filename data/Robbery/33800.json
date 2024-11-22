@@ -1,0 +1,47 @@
+{
+    "id": 6109432,
+    "judges": null,
+    "date_filed": 766022400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-cosme",
+    "case_name_short": "Cosme",
+    "case_name": "People v. Cosme",
+    "case_name_full": "The People of the State of New York v. Ramon Cosme",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "203 A.D.2d 375",
+        "610 N.Y.S.2d 293"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Queens County (Cohen, J.), rendered August 20, 1992, convicting him of robbery in the second degree, upon a jury verdict, and sentencing him to an indeterminate term of 25 years to life imprisonment.\nOrdered that the judgment is modified, on the law and as a matter of discretion in the interest of justice, by reducing the sentence to an indeterminate term of 15 years to life imprisonment; as so modified, the judgment is affirmed.\nThe defendant\u2019s contention that the trial court erred in permitting a police officer to testify that he arrested the defendant after a conversation with eyewitnesses to the robbery is not preserved for appellate review (see, CPL 470.05 [2]; People v Nuccie, 57 NY2d 818, 819; People v Anthony, 179 AD2d 765). In any event, any such error was harmless in view of the overwhelming evidence of the defendant\u2019s guilt, including the strong identification testimony of three eyewitnesses, each of whom had an ample opportunity to view the defendant within close proximity and in good lighting at the time of the robbery, and one of whom had seen the defendant prior to the incident (see, People v Mobley, 56 NY2d 584, 585; People v Gordillo, 191 AD2d 455; People v Stanley, 185 AD2d 827; *376People v Bryan, 179 AD2d 667; People v Anthony, 179 AD2d 765, supra).\nThe defendant also contends that he was denied the effective assistance of counsel. After a review of the record in its entirety, we are satisfied that the defendant received the effective assistance of counsel (see, People v Satterfield, 66 NY2d 796; People v Cardia, 133 AD2d 775).\nPrior to trial, the defendant was offered, as part of a plea bargain, a sentence of an indeterminate term of eight years to life imprisonment, or, if the People consented, six years to life imprisonment, in return for his plea of guilty on this case and two other pending indictments. At sentencing, the defendant was offered an indeterminate term of 15 years to life imprisonment to cover this case and the two other pending indictments provided that he agreed to plead guilty on those pending indictments. When the defendant refused the offer, he was sentenced as a persistent violent felony offender to an indeterminate term of 25 years to life imprisonment.\nIn view of the disparity between the sentence which the court promised to dispose of all three cases, and the sentence which the court imposed for the case at bar alone, it appears that the defendant was impermissibly penalized for asserting his right to trial on his pending indictments (see, People v Peterson, 126 AD2d 680; People v Patterson, 106 AD2d 520; People v Brown, 70 AD2d 505).\nThe defendant\u2019s remaining contentions are either unpreserved for appellate review or without merit. Mangano, P. J., Pizzuto, Friedmann and Goldstein, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5974194
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

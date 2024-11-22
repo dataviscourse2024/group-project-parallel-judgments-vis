@@ -1,0 +1,46 @@
+{
+    "id": 6798071,
+    "judges": "Holt",
+    "date_filed": -2104704000000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-fernandez",
+    "case_name_short": "Fernandez",
+    "case_name": "United States v. Fernandez",
+    "case_name_full": "UNITED STATES v. URSULI FERNANDEZ",
+    "attorneys": "\u2014-, District Attorney, for plaintiff., Mr. F. L. Cornwell for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law \u2014 Jeopardy.</p> <p>If one be arraigned, and plead in a court of competent jurisdiction, a jury be impaneled and sworn, and he is put upon trial upon a valid information or indictment, he is in jeopardy; and once in jeopardy is a bar to a second prosecution for the same offense.</p> <p>Former jeopardy. As to former jeopardy by reason of the discharge of the jury in the prisoner\u2019s absence, see editorial note to Upchurch v. Texas, 44 L. R. A. 694; as to former jeopardy in general, see editorial notes to United States v. Perez, 6 L. ed. U. S. 165; Re Lange, 21 L. ed. U. S. 872.</p>",
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 P.R. Fed. 453"
+    ],
+    "opinions": [
+        {
+            "author_str": "Holt",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHolt, Judge,\ndelivered the following opinion:\nA plea of former jeopardy is presented in this case. A demurrer is filed to it. It appears that an information was filed by the district attorney against the defendant, and also a separate information relative to the same transaction against one Frederick James.\nUpon motion of the district attorney the information against Fernandez was dismissed, and thereupon a joint information was filed against both said parties, charging them in one count *454with stealing, and in the second count with receiving stolen property. The defendant, Fernandez, entered objection to the information on the ground that it charged\u2019 a felony, and that the prosecution should be by indictment. Both defendants were arraigned, pleaded not guilty; the jury were sworn; the defendants then again moved to quash the information upon the same ground, and thereupon the district attorney dismissed it, and thereafter filed a separate information against the defendant, Fernandez, to which there is now the plea of former jeopardy.\nWhile-there is some conflict of decision, it is the general judicial opinion that if one be arraigned, and plead in a court of competent jurisdiction, a jury be impaneled and sworn, and he be put upon trial upon a valid information or indictment, he is in jeopardy; and once in jeopardy bars a second prosecution for the same offense. If the information be invalid, it cannot, how-evei1, form a basis for a proceeding which will create jeopardy, and bar a second prosecution. In this case, however, the first count of the information upon which the defendants were first arraigned could undoubtedly have been prosecuted by information, and an indictment was not necessary.\nThe court may in a case of necessity, as where a juryman becomes sick, or the jury fails, after due consideration, to agree, discharge the jury, and upon a second trial the plea of former' jeopardy is not available. Logan v. United States, 144 U. S. 263, 36 L. ed. 429, 12 Sup. Ct. Rep. 677; Thompson v. United States, 155 U. S. 271, 39 L. ed. 146, 15 Sup. Ct. Rep. 73.\nUpon the facts of this case, however, the jeopardy began when the jury was completed and sworn upon the former information, as one count of it was valid; and the entry of the nolle prosequi thereafter operated in law as an acquittal. Bishop, Crim. Law, \u00a7\u00a7 1015, 1016.\nThe demurrer to the plea herein is, therefore, overruled.\n",
+            "ocr": true,
+            "opinion_id": 6682979
+        }
+    ],
+    "court_short_name": "D. Puerto Rico",
+    "court_full_name": "District Court, D. Puerto Rico",
+    "court_type": "FD",
+    "court_jurisdiction": "Puerto Rico, PR",
+    "crime_category": "Robbery"
+}

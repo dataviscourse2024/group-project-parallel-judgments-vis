@@ -1,0 +1,46 @@
+{
+    "id": 1837253,
+    "judges": "Robert P. Bradley",
+    "date_filed": 685929600000,
+    "date_filed_is_approximate": false,
+    "slug": "hill-v-falletta",
+    "case_name_short": "Hill",
+    "case_name": "Hill v. Falletta",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 23,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "589 So. 2d 746"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6114.0,
+            "opinion_text": "\n589 So.2d 746 (1991)\nJohnny HILL, Jr.\nv.\nAnthony FALLETTA.\n2900422.\nCourt of Civil Appeals of Alabama.\nSeptember 27, 1991.\nJohnny Hill, Jr., pro se.\nNo brief for appellee.\nROBERT P. BRADLEY, Retired Appellate Judge.\nThis appeal arises from a complaint filed by Johnny Hill, Jr. against his lawyer, Anthony Falletta, who defended him on charges of armed robbery in 1985. Hill, who is currently incarcerated in a state correctional facility, sought recovery of certain funds paid to Falletta for his services during the trial.\nThe complaint was filed on October 12, 1990 in the Circuit Court of Jefferson County, Alabama. Hill also filed a motion to proceed in forma pauperis, and this motion was later granted.\nOn January 2, 1991 the circuit clerk notified Hill that service had not been perfected upon Falletta and that the case was dismissed. Later, Hill filed an objection to the dismissal and the court set it aside and gave Hill thirty additional days to perfect service. A status hearing was set for April 1, 1991. Because neither Hill nor Falletta appeared at this hearing, the trial court dismissed the case with prejudice on April 1 and taxed the costs against Hill. This appeal followed.\nHill, who is presenting his case pro se, apparently presumes that the dismissal was predicated upon the granting of a motion for dismissal under Rule 12(b)(6), Alabama Rules of Civil Procedure. Hill correctly states that a court may not dismiss a complaint under Rule 12(b)(6) unless it appears that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief. Hill argues that the trial court's dismissal foreclosed his chance to support his claim and, thus, deprived him of procedural due process.\nThe record shows that Falletta did not file a 12(b)(6) motion to dismiss. Indeed, the record confirms that Falletta never even received notice of the complaint *747 against him. Consequently, the trial court did not dismiss the case upon motion of Falletta; rather, the court exercised its discretion under Rule 41(b), A.R.Civ.P., to dismiss the cause based upon want of prosecution.\nThe failure of a plaintiff to serve process within a reasonable time may amount to failure to prosecute, State v. Horton, 373 So.2d 1096 (Ala.1979). Moreover, failure to appear at a pretrial conference is ground for dismissal of the action. Aguilar v. Spradlin, 408 So.2d 525 (Ala.Civ.App. 1981). The dismissal of a civil action for want of prosecution falls within the sound discretion of the trial court, and such dismissal will not be reversed on appeal unless this discretion has been abused. Thompson v. McQuagge, 464 So.2d 105 (Ala.Civ.App.1985). The appellate court need determine only whether the trial court's action is supported by the evidence. Feaster v. American Liberty Ins. Co., 410 So.2d 399 (Ala.1982).\nAs stated, the record shows that Falletta never received notice of the complaint against him, even after the trial court granted Hill an additional 30 days to perfect service upon Falletta. The record further shows that Hill did not appear at the status conference scheduled for him and that Falletta had no notice of such a conference.\nWe are aware that Hill is incarcerated; however, incarceration alone is no excuse to avoid dismissal for want of prosecution. Aguilar. The record does not show that Hill requested transport to the pretrial conference set for him, nor did he perfect service in spite of the extra time he was given to do so. In light of this, and the presumption of correctness given to the trial court, we cannot say that the court's judgment was so unsupported by evidence as to be palpably wrong. Accordingly, it is affirmed.\nThe foregoing opinion was prepared by Retired Appellate Judge ROBERT P. BRADLEY while serving on active duty status as a judge of this court under the provisions of \u00a7 12-18-10(e), Code 1975, and this opinion is hereby adopted as that of the court.\nAFFIRMED.\nAll the Judges concur.\n",
+            "ocr": false,
+            "opinion_id": 1837253
+        }
+    ],
+    "court_short_name": "Court of Civil Appeals of Alabama",
+    "court_full_name": "Court of Civil Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

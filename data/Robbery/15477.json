@@ -1,0 +1,46 @@
+{
+    "id": 1710138,
+    "judges": "Per Curiam",
+    "date_filed": 824428800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-hiscox",
+    "case_name_short": "Hiscox",
+    "case_name": "State v. Hiscox",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "677 So. 2d 862"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n677 So. 2d 862 (1996)\nSTATE of Florida, Appellant,\nv.\nSandra K. HISCOX, Appellee.\nNo. 95-01931.\nDistrict Court of Appeal of Florida, Second District.\nFebruary 16, 1996.\nRobert A. Butterworth, Attorney General, Tallahassee, and Susan D. Dunlevy, Assistant Attorney General, Tampa, for Appellant.\nStuart M. Pepper, Cape Coral, for Appellee.\nPER CURIAM.\nThe state appeals the trial court's order which denied its request for the imposition of restitution against the appellee, Sandra K. Hiscox. We reverse.\nPursuant to a plea bargain, the appellee pled no contest to a charge of grand theft, in violation of section 812.014, Florida Statutes (1993). At the sentencing hearing which was held on February 13, 1995, the appellee's counsel indicated that a parameter of the no contest plea would be that the court would reserve jurisdiction on the issue of restitution. The court minutes from the sentencing hearing also provided that the court was reserving jurisdiction for sixty days to determine the amount of restitution if any was due and owing. On February 28, 1995, an order which withheld adjudication of guilt and placed the appellee on one year probation was filed. The order also provided that the court was reserving jurisdiction on the issue of restitution for sixty days.\nOn April 24, 1995, without adequate notice to the appellee, a restitution hearing was held where the appellee's counsel moved to dismiss on the grounds that the trial court no longer had jurisdiction since the restitution hearing was held more than sixty days from the time of the sentencing hearing. The trial court agreed and granted the appellee's motion to dismiss and from that order the state timely filed a notice of appeal.\nThe state contends that the trial court erred in refusing to impose restitution. We agree.\nFlorida Rule of Criminal Procedure 3.800(b) provides that a legal sentence may be reduced or modified within sixty days after that sentence is imposed. Several district courts have read rule 3.800(b) to mean that the trial court must determine the amount of restitution within sixty days of imposing sentence or it will lose jurisdiction. State v. Sanderson, 625 So. 2d 471 (Fla.1993). However, it is the order of restitution which must be imposed at the time of sentencing or within sixty days thereafter and if that order has been entered in a timely manner, a court can determine the amount of restitution beyond the sixty day period. See Sanderson, *863 625 So.2d at 473. See also Gladfelter v. State, 618 So. 2d 1364 (Fla.1993).\nIn the instant case, because restitution was made an original condition of the probation order which was filed fifteen days after the sentencing hearing, the trial court could properly determine the amount of restitution at a later date. Accordingly, we reverse and remand to the trial court for further proceedings consistent herewith. Upon remand, as apparently was not done in the trial court below, the appellee shall be given adequate notice of the restitution hearing and an opportunity to defend.\nReversed and remanded with instructions.\nSCHOONOVER, A.C.J., and FRANK and PARKER, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1710138
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

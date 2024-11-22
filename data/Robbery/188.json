@@ -1,0 +1,46 @@
+{
+    "id": 7784661,
+    "judges": "Allen, Benton, Lawrence",
+    "date_filed": 931478400000,
+    "date_filed_is_approximate": false,
+    "slug": "gammon-v-state",
+    "case_name_short": "Gammon",
+    "case_name": "Gammon v. State",
+    "case_name_full": "R.L. GAMMON v. STATE of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender; Fred Parker Bingham II, Assistant Public Defender, Tallahassee, for Appellant., Robert A. Butterworth; Attorney General; Laura Fullerton Lopez, Assistant Attorney General, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "738 So. 2d 980"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nRichard Louis Gammon appeals sentences stemming from offenses committed in 1995 and 1997. He claims that the trial court failed to grant him sufficient jail credit against sentences imposed for the offenses he committed in 1995. He also asserts that the written sentence on one of the 1997 counts was inconsistent with the oral pronouncement at sentencing. We reverse and remand for further proceedings consistent with this opinion.\nIn 1995, Mr. Gammon entered a plea of no contest to three counts of dealing in stolen property. The trial court sentenced him to three years\u2019 probation with a special condition that he serve eighteen months in the county jail. After his release, he violated probation on grounds unrelated to this appeal. He was sentenced to one year of community control in the wake of this violation.\nWhile on community control, Mr. Gammon was charged with committing two armed robberies with a deadly weapon. He entered a plea of no contest to the new charges, and admitted he had violated the conditions of community control. The trial court orally sentenced Mr. Gammon to 34.3 months\u2019 incarceration for the 1995 offenses, 207 months\u2019 incarceration on the first armed robbery count, and lifetime probation on the second armed robbery count. As to incarceration, these sentences were to run concurrently.\n*981Although the written sentence includes the sentences of incarceration and the lifetime probation, the trial court made no order setting the conditions of probation. About two months after Mr. Gammon filed his notice of appeal, however, the trial court entered an order imposing conditions of probation. This order contained conditions that were inconsistent with the conditions orally pronounced at sentencing.\nThe trial court granted Mr. Gammon jail credit on all of his sentences for the time spent in jail after he committed the armed robberies. But the trial court awarded him no credit for any other time spent in jail. On the sentences imposed for the offenses committed in 1995, the trial court did not allow Mr. Gammon any credit for the eighteen months he spent in jail on his original sentence. \u201c[A] sentence that does not mandate credit for time served [is] illegal since a trial court has no discretion to impose a sentence without crediting a defendant with time served.\u201d State v. Mancino, 714 So.2d 429, 433 (Fla.1998); see Nelson v. State, 719 So.2d 1230, 1233 (Fla. 1st DCA 1998) (en banc) (holding that an illegal sentence can be reviewed on direct appeal even if the error is not complained of in the trial court).\nWe therefore remand with directions that the trial court recalculate the amount of jail credit on the sentences for the 1995 offenses, taking into account the time he spent in jail before sentence was pronounced in the 1997 cases. If the trial court awards additional credit on the 1995 sentences, Mr. Gammon need not be present at re-sentencing.\nWe also quash the written order of probation. Since this order was entered after Mr. Gammon filed his notice of appeal, the trial court lacked jurisdiction. See Bauman v. State, 600 So.2d 551, 552-53 (Fla. 2d DCA 1992). On remand, the trial court shall enter an order of probation consistent with the oral pronouncement made at sentencing. See State v. Williams, 712 So.2d 762, 764 (Fla.1998); Vincent v. State, 600 So.2d 1292, 1293 (Fla. 1st DCA 1992); Shaddix v. State, 599 So.2d 269, 270-71 (Fla. 1st DCA 1992).\nALLEN, LAWRENCE, and BENTON, JJ\u201e CONCUR.\n",
+            "ocr": true,
+            "opinion_id": 7724039
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

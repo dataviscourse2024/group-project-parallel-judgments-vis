@@ -1,0 +1,46 @@
+{
+    "id": 6035056,
+    "judges": null,
+    "date_filed": 556156800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-fulmore",
+    "case_name_short": "Fulmore",
+    "case_name": "People v. Fulmore",
+    "case_name_full": "The People of the State of New York v. Jerry Fulmore",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "133 A.D.2d 169"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Grajales, J.), rendered December 17, 1982, convicting him of attempted robbery in the first degree and attempted robbery in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nUpon encountering the defendant and his cohorts running quickly from the direction of a grocery store through a school yard and into a 1957 Buick with its headlights off and its engine running, the arresting officer had reason to suspect that criminal activity was afoot. The officer\u2019s suspicions were justifiably heightened by the fact that the individuals were looking furtively over their shoulders as they ran and that the encounter took place in an area notorious for street robberies. After stopping his unmarked police vehicle parallel to the defendant\u2019s vehicle, the arresting officer displayed his shield and started to exit the police vehicle. The Buick thereupon \"took off\u201d at a very high rate of speed and a chase ensued. Shortly thereafter, a marked police vehicle joined the chase, which ended when the fleeing vehicle crashed into a fire hydrant and a chain link fence. Several of the occupants of the vehicle fled into the nearby housing projects while the defendant was apprehended hiding beneath the automobile. A search of the immediate vicinity revealed a .32 caliber re*170volver containing three live rounds. The defendant was thereupon transported back to the area where he had first been observed. At that location, the proprietors of a grocery store which had recently been robbed identified the defendant as one of the perpetrators.\nThe furtive conduct of the defendant and his cohorts and the fact that the encounter occurred in a high-crime area constituted the objective credible reason for the police action in the instant case (see, People v De Bour, 40 NY2d 210, 223). In assessing the over-all reasonableness of police conduct, a court is obliged to consider not only the information which the police initially have but also the information gathered as events unfold (see, People v Chapman, 103 AD2d 494, 496). The high-speed chase, the defendant\u2019s subsequent attempt to hide beneath an automobile and the complainants\u2019 on-the-scene identification of the defendant as one of the perpetrators clearly provided the police with probable cause to arrest the defendant.\nThe time between the initial police observation of the defendant and the complainants\u2019 on-the-scene identification was approximately 15 minutes. As the hearing court properly found, the showup was not impermissibly suggestive inasmuch as it was in close proximity to the crime with respect to both time and place (see, People v Love, 57 NY2d 1023, 1024-1025). The transporting of the defendant back to the scene constituted a minimally intrusive method of investigation which was likely to confirm or dispel suspicion quickly (see, People v Hicks, 68 NY2d 234).\nThe station house identification of the defendant by the complainants was likewise proper since it served merely as a prompt confirmation of the prior identification made by them on the street (see, People v Higgs, 111 AD2d 410). Nor did any danger of misidentification exist at the time of the trial inasmuch as the recognition of the defendant in the courtroom was based on the vivid recollection of one of the complainants of the defendant from the attempted robbery rather than from his accidental viewing of the handcuffed defendant in the courtroom. There was clearly an independent source for that complainant\u2019s in-court identification based on his extended ability to observe the defendant in the well-lighted store (see, People v Mayers, 100 AD2d 558). Weinstein, J. P., Spatt, Sullivan and Harwood, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5898110
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

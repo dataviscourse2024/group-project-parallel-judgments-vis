@@ -1,0 +1,46 @@
+{
+    "id": 5922031,
+    "judges": null,
+    "date_filed": 45100800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-hall",
+    "case_name_short": "Hall",
+    "case_name": "People v. Hall",
+    "case_name_full": "The People of the State of New York v. Daniel V. Hall",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "37 A.D.2d 583"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from an amended judgment of the County Court, Nassau County, rendered October 5, 1970, imposing sentence upon a 1969 conviction of attempted burglary in the third degree, on a guilty plea. Amended judgment affirmed. No opinion. Munder, Acting P. J., Latham and Gulotta, JJ., concur; Martuseello, J., dissents and votes to reverse the amended judgment and to remand the ease to the County Court for proceedings not inconsistent with the following memorandum, in which Benjamin, J., concurs: :Defendant pleaded guilty in May, 1969, to the crime of attempted burglary in the third degree. He was sentenced in July, 1969, to a five-year term of probation, with a specific condition that he enter Topic House, a halfway house which operates a program of narcotic addiction rehabilitation. Thereafter, defendant was admitted to Topic House, but was charged in August, 1969, with violation of his parole in that he left Topic House in July, 1969, without permission; and on December 1, 1969 he pleaded guilty to that charge. He had returned voluntarily to Topic House in October, 1969, and had been permitted to remain. Moreover, the probation officer\u2019s report indicated that the staff at Topic House was of the opinion that defendant was responding to treatment and that the staff was willing to continue working with him. On January 5, 1970, the court restored him to probation on condition that he participate in the program at Topic House. On September 17, 1970, defendant again pleaded guilty to a violation of probation due to a resumption of drug use. An examination was ordered to determine if he was a narcotic addict; and a certificate of addiction was filed on 'September 28, 1970. On October 5, 1970, the court *584vacated the sentence of July 1, 1969, and sentenced defendant to 'State prison for an indefinite term not to exceed three years, despite defense counsel\u2019s plea to have defendant admitted to the custody of the Narcotics Addiction Control Commission. The record clearly indicates that defendant was a certified addict and was making progress in a narcotic addiction rehabilitation program conducted by a halfway house. His need for a structured environment where he could continue this progress is quite apparent. Under these circumstances, it was, in our opinion, an abuse of discretion for the court to sentence defendant to prison rather than to a structured rehabilitation program under the supervision of the Narcotics Addiction Control Commission pursuant to subdivision 4 of section 208 of the Mental Hygiene Law.\n",
+            "ocr": true,
+            "opinion_id": 5779864
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

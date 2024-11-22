@@ -1,0 +1,47 @@
+{
+    "id": 1244316,
+    "judges": "Hall, Hill, Ingram, Jordan, Nichols, Undercofler",
+    "date_filed": 229132800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-westberry",
+    "case_name_short": "Westberry",
+    "case_name": "State v. Westberry",
+    "case_name_full": "The State v. Westberry",
+    "attorneys": "DupontK. Cheney, District Attorney, for appellant., Calhoun & Donaldson, R. B. Donaldson, Jr., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted February 15, 1977 \u2014, Rehearing denied April 21, 1977.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b674-4\">\n    31811.\n   </docketnumber><parties id=\"AXe_\">\n    THE STATE v. WESTBERRY.\n   </parties>",
+    "citations": [
+        "235 S.E.2d 140",
+        "238 Ga. 648"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hall",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 1335.0,
+            "opinion_text": "\n238 Ga. 648 (1977)\n235 S.E.2d 140\nTHE STATE\nv.\nWESTBERRY.\n31811.\nSupreme Court of Georgia.\nSubmitted February 15, 1977.\nDecided April 6, 1977.\nRehearing Denied April 21, 1977.\nDupont K. Cheney, District Attorney, for appellant.\nCalhoun &amp; Donaldson, R. B. Donaldson, Jr., for appellee.\nHALL, Justice.\nAfter the Court of Appeals reversed Westberry's convictions for burglary and theft by taking on the ground that the state had improperly been allowed to impeach its own witness by introducing evidence of her prior inconsistent statement incriminating Westberry, we granted certiorari upon the state's petition in order to decide whether the Court of Appeals' treatment of the issue is consistent with our recent decisions of Wilson v. State, 235 Ga. 470 (219 SE2d 756) (1975), and Wisdom v. State, 234 Ga. 650, 654 (217 SE2d 244) (1975). We conclude that it is not; that upon the facts presented the state properly impeached its witness; and that the Court of Appeals erred in reversing these convictions.\nThe witness in question was Miss Roth, an acquaintance of Westberry's. On the day prior to trial Miss Roth had been interviewed by two GBI agents and told them that Westberry told her shortly following the burglary that he had stolen some 30 cases of beer, and that he had received numerous scratches on his feet while running through the woods in connection with this crime. However, when the prosecutor called Miss Roth to the stand her testimony was not to this effect and she denied having made the statements. The prosecutor claimed surprise and asked to impeach his own witness with the testimony of the two officers. After an initial showing out of the jury's presence, the two officers were permitted to give testimony before the jury that Miss Roth had made to them the statements incriminating Westberry.\nDuring cross examination, however, Officer Sikes testified that on the morning of the trial he had heard Miss Roth telling the prosecutor that she had not made the statements concerning Westberry's confession. Because of the way in which defense counsel framed his question to the officer, it was obvious that he had known of the conversation prior to questioning him. In fact, he invited the witness to speculate with him that the prosecutor had not actually been \"surprised\" by Miss Roth's testimony.\nThis episode was adequate to convince the Court of *649 Appeals that no surprise occurred. However, the trial court's decision to allow Miss Roth to be impeached by the officers' testimony had already been made at the time this testimony by Officer Sikes was received. Allen v. State, 137 Ga. App. 755, 757 (224 SE2d 834) (1976). Defense counsel did not object prior to the trial court's ruling allowing impeachment, that the prosecutor was not surprised. Most importantly, after having heard Officer Sikes testify that Miss Roth told the prosecutor that morning that she had made no such statements, defense counsel still made no objection nor motion whatever on the ground of no surprise (nor any other ground). When the officers' testimony was concluded, the trial moved smoothly on to other matters.\nOn these facts, we conclude that for failure to object and develop the issue at trial, Westberry waived any \"no surprise\" objection to the state's impeachment of its witness. The state has never had an opportunity to bolster its showing of surprise, because nothing occurring at the trial put it on notice that such bolstering was required. Westberry will not be allowed to raise this issue for the first time on appeal.\nBecause the waiver point discussed above is adequate to decide this appeal, it is not necessary for us to apply the Wilson reasoning to these facts. Wilson does not say how much surprise is necessary; but Wilson does repudiate the former rule that actual, literal, absolute surprise must be shown. See also Note, 28 Mercer L. Rev. 389 (1976). We think this issue is best handled initially by the trial court's ruling upon a timely objection, after the parties have been allowed to develop the issue out of the jury's presence.\nJudgment reversed. Nichols, C. J., Undercofler, P. J., Jordan, Ingram and Hill, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1244316
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

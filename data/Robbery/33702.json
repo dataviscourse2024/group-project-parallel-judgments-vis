@@ -1,0 +1,46 @@
+{
+    "id": 6090457,
+    "judges": null,
+    "date_filed": 723081600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-reichman",
+    "case_name_short": "Reichman",
+    "case_name": "People v. Reichman",
+    "case_name_full": "The People of the State of New York v. Troy Reichman",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "187 A.D.2d 737"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Queens County (LeVine, J.), rendered June 10, 1991, convicting him of attempted murder in the second degree and robbery in the first degree, upon his plea of guilty, and sentencing him to concurrent indeterminate terms of 4 Vs to 13 years imprisonment on each conviction.\nOrdered that the judgment is affirmed.\nThe defendant contends that his guilty plea was not entered knowingly and voluntarily because the court did not clearly convey the promised sentence. However, during the plea proceedings, the court, without any ambiguity, informed the defendant that the minimum sentence it would impose would be 2 to 6 years imprisonment and the maximum sentence would be 5 to 15 years imprisonment. Accordingly, the defendant\u2019s contention is without merit. Mangano, P. J., Sullivan, O\u2019Brien, Ritter and Pizzuto, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5954850
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

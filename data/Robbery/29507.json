@@ -1,0 +1,46 @@
+{
+    "id": 5238619,
+    "judges": "Davis, McCormick, Onion, White",
+    "date_filed": 484358400000,
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-slaughter",
+    "case_name_short": "Ex parte Slaughter",
+    "case_name": "Ex parte Slaughter",
+    "case_name_full": "Ex parte Billy SLAUGHTER",
+    "attorneys": "Melinda Hoyle Bozarth, Huntsville, for appellant., Robert Huttash, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "689 S.W.2d 464"
+    ],
+    "opinions": [
+        {
+            "author_str": "Davis",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nW.C. DAVIS, Judge.\nApplicant filed this post conviction application for writ of habeas corpus pursuant to Art. 11.07, V.A.C.C.P.\nOn August 28, 1984, applicant\u2019s federal probation was revoked and he was sentenced to two years\u2019 confinement. Subsequently, on September 4, 1984, applicant was convicted in State District Court of Hall County, after his plea of guilty, of burglary of a building. He was sentenced to five years\u2019 confinement.\nApplicant asserts that he entered his plea pursuant to representations by the prosecutor, trial court, and his attorney that his state and federal sentences would run concurrently.\nIncluded in the record before us is a copy of the \u201cAgreed Punishment Recommendation,\u201d signed by applicant, his attorney and the prosecutor. The agreement states that the State sentence is \u201cto run concurrently with the two years assessed against defendant for violation of probation in the U.S. District Court in Amarillo, Texas.\u201d\nAlso included in the record is an excerpt from the statement of facts at the plea hearing. Applicant\u2019s attorney reminded the prosecutor that the plea agreement was that the sentences would run concurrently. The prosecutor seemed not to remember the agreement. However, the court then stated:\nTHE COURT: It is the order of this Court that you, Billy Slaughter, who has [sic] been adjudged guilty of the felony offense of burglary of a building, and whose punishment has been assessed at confinement in the Texas Department of Corrections for a term of five years, be delivered immediately by the Sheriff of Hall County, Texas, or his duly authorized Deputy, to the Director of the Texas Department of Corrections, or other persons legally authorized to receive your custody, where you shall be confined in the Texas Department of Corrections for a term of five years.\nThis sentence will run concurrently with the two years assessed against the Defendant out of the U.S. District Court in Amarillo, Texas.\nOn September 25, 1985, a detainer was received by the Texas Department of Corrections from the United States Marshal, which indicated that federal authorities would assume custody of applicant for a probation warrant after his term was served in the Texas Department of Corrections.\nAs evidenced by the detainer, the two sentences are not running concurrently. Applicant contends that under Ex Parte Chandler, 684 S.W.2d 700 (Tex.Cr.App.1985); Ex Parte Huerta, No. 69,352 (delivered January 30, 1985); Ex Parte Burton, 623 S.W.2d 418 (Tex.Cr.App.1981) and Joiner v. State, 578 S.W.2d 739 (Tex.Cr.App.1979), he must be allowed to withdraw his plea.\nWhen an appellant enters a plea of guilty or nolo contendere pursuant to a plea bargain agreement, the State is bound to carry out its side of the bargain. If the State is unable to do so, a defendant is entitled to withdraw his plea. Joiner, su*466pra. The State cannot perform the agreement to run his State time concurrent with his Federal time. Saulsbury v. United States, 591 F.2d 1028 (5th Cir.1979). Consistent with Burton, supra, and Chandler, supra, applicant is remanded to the Sheriff of Hall County to answer the indictment in Cause No. 2594 of the 100th Judicial District Court of Hall County.\nIt is so ordered.1\nONION, P.J., and McCORMICK and WHITE, JJ., dissent.\n\n. Notwithstanding that the result in this case reflects the majority\u2019s viewpoint, the writer of this opinion agrees with Judge Onion\u2019s well-founded dissent in Ex Parte Chandler, supra.\n\n",
+            "ocr": true,
+            "opinion_id": 5064053
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

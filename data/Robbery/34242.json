@@ -1,0 +1,47 @@
+{
+    "id": 6202520,
+    "judges": null,
+    "date_filed": 984960000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-cleon",
+    "case_name_short": "Cleon",
+    "case_name": "People v. Cleon",
+    "case_name_full": "The People of the State of New York v. James Cleon, Also Known as Cleon James",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "281 A.D.2d 554",
+        "721 N.Y.S.2d 812"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the *555Supreme Court, Queens County (Dunlop, J.), rendered September 22, 1999, convicting him of robbery in the first degree (two counts), criminal possession of a weapon in the fourth degree, and criminal possession of stolen property in the fifth degree (two counts), upon a jury verdict, and sentencing him, as a violent felony offender, to consecutive determinate terms of eight years imprisonment on each of the convictions of robbery in the first degree, and terms of one year imprisonment each on the conviction of criminal possession of a weapon in the fourth degree and on the convictions of criminal possession of stolen property in the fifth degree, to run concurrently with each other and with the terms of imprisonment imposed on the convictions of robbery in the first degree. The appeal brings up for review the denial, after a hearing (Demakos, J.), of that branch of the defendant\u2019s omnibus motion which was to suppress identification evidence.\nOrdered that the judgment is modified, as a matter of discretion in the interest of justice, by providing that the terms of imprisonment imposed on the convictions of robbery in the first degree shall run concurrently with each other; as so modified, the judgment is affirmed.\nContrary to defendant\u2019s contention, his showup identification was not unduly suggestive merely because the two complainants were together (see, People v Love, 57 NY2d 1023). Although simultaneous showup procedures are generally disfavored (see, People v Adams, 53 NY2d 241), they are permissible when, as here, they are conducted in close spatial and temporal proximity to the commission of the crime for the purpose of securing a prompt and reliable identification (see, People v Laing, 221 AD2d 662).\nThe sentence imposed was excessive to the extent indicated. Bracken, P. J., Ritter, Goldstein and Feuerstein, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6068994
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

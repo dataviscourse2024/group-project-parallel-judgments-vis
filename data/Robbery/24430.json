@@ -1,0 +1,68 @@
+{
+    "id": 4127711,
+    "judges": "Humphreys, Overton",
+    "date_filed": -5069865600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-france",
+    "case_name_short": "France",
+    "case_name": "State v. France",
+    "case_name_full": "State v. France.",
+    "attorneys": "GRUNDY, for the defendant, objected to any further evidence on this indictment, and cited 1 H. H. P. C. 5, 13;  2 Haw. 329 .\n\nMARR, attorney-general and STEWART, for the State. We admit the property must be proved to belong to the person mentioned in the indictment, and not a stranger. This is not such a misnomer as ought to vitiate this indictment. In a civil action if a plea in abatement had been pleaded, a replication that the person was known as well by the one name as the other would cure the defect.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>If a person be indicted for stealing the horse of Harris,quere, whether it be sufficient to prove that the owner\u2019s name is Harrison, but that he is sometimes called Harris.</p> <p>In criminal cases affecting life or limb, the prisoner must be present when the verdict is rendered.</p>",
+    "summary": "This was an indictment for horse stealing. It charged the stealing of the horse of Stephen Harris. Upon evidence it appeared, that the man whose horse was stolen, was named Harrison. The witness stated that his name of baptism was Harrison, though his neighbours sometimes called him Harris. objected to any further evidence on this indictment and cited 1 H. H. P. C. 5. 1 s. 2. Haw. 329. We admit the property must be proved to belong to the person, mentioned in the indictment, and not a stranger. This is not such a misnomer as ought to vitiate this indictment. In a civil action if a plea in abatement had been pleaded, a replication that the person was known as well by the one name as the other, would cure the defect.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b442-17\">\n    STATE\n    <em>\n     vs.\n    </em>\n    FRANCE.\n   </parties><summary id=\"Aq9H\">\n    This was an indictment for horse stealing. It charged the stealing of the horse of Stephen Harris. Upon evidence it appeared, that the man whose horse\n    <span citation-index=\"1\" class=\"star-pagination\" label=\"435\"> \n     *435\n     </span>\n    was stolen, was named Harrison. The witness stated that his name of baptism was Harrison, though his neighbours sometimes called him Harris.\n   </summary><headnotes id=\"A9W\">\n    If a person be indicted for stealing the horse of Harris,quere, whether it be sufficient to prove that the owner\u2019s name is Harrison, but that he is sometimes called Harris.\n   </headnotes><br><attorneys id=\"b443-3\">\n    Grundy for the defendant\n   </attorneys><summary id=\"AGf0\">\n    objected to any further evidence on this indictment and cited 1 H. H. P. C.\n    <em>\n     5.\n    </em>\n    1 s. 2. Haw. 329.\n   </summary><br><attorneys id=\"b443-5\">\n    Marr attorney general and Stewart for the state.\n   </attorneys><summary id=\"AVE\">\n    We admit the property must be proved to belong to the person, mentioned in the indictment, and not a stranger. This is not such a misnomer as ought to vitiate this indictment. In a civil action if a plea in abatement had been pleaded, a replication that the person was known as well by the one name as the other, would cure the defect.\n   </summary>",
+    "citations": [
+        "1 Tenn. 434"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "This was an indictment for horse-stealing. It charged the stealing of the horse of Stephen Harris. Upon evidence it appeared, that the man whose horse *Page 435 \nwas stolen was named Harrison. The witness stated that his name of baptism was Harrison, though his neighbors sometimes called him Harris.\nI am inclined to believe the objection is sustainable. An indictment for the stealing of the goods of a person unknown may be good. But where a person is indicted for the stealing of the property of A. you cannot give evidence of the stealing of the property of B. In this case the man says his name is Harrison and not Harris. They are two distinct names, and well known as such. Where a person is known by two names an alias dictum would be proper. The indictment is intended to give notice to the accused how to defend himself, and it should contain so much certainty as to enable him to do this without being inveigled or deceived. A person may be indicted by his name of reputation, but this reputation should be general, unless there be analias dictum. So as it respects the property stolen the name of the owner should at least have a general reputation, otherwise the person indicted cannot know how to come prepared to defend himself. This reasoning seems to receive strength from our Act of Assembly, which directs that a jury shall give a verdict in favor of the person losing his property, for its value.",
+            "ocr": false,
+            "opinion_id": 3890021
+        },
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "A person may be indicted by common reputation, and by parity of reason the reputed name of the person from whom *Page 436 \nstolen will be good in an indictment. In this case it seems that the witness had by reputation obtained the name of Harris, and therefore is sufficiently described. The jury retired, and upon their return the prisoner was not at the bar.",
+            "ocr": false,
+            "opinion_id": 3890022
+        },
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The prisoner must be at the bar otherwise the jury cannot be asked for their verdict, and if he does not appear the jury must be discharged without rendering any; and by OVERTON, J.: In every case affecting life or limb the accused must not only be present when the evidence is given in, but during the trial and on return of the verdict.\nAfter a few minutes the prisoner returned in custody of a constable, and the jury gave a verdict of not guilty.",
+            "ocr": false,
+            "opinion_id": 3890023
+        }
+    ],
+    "court_short_name": "Tennessee Superior Court for Law and Equity",
+    "court_full_name": "Tennessee Superior Court for Law and Equity",
+    "court_type": "SA",
+    "court_jurisdiction": "Tennessee, TN",
+    "crime_category": "Robbery"
+}

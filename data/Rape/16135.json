@@ -1,0 +1,47 @@
+{
+    "id": 1997512,
+    "judges": "Cavanaugh, Saylor and Hester",
+    "date_filed": 836956800000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-godschalk",
+    "case_name_short": "Com.",
+    "case_name": "Commonwealth v. Godschalk",
+    "case_name_full": "COMMONWEALTH of Pennsylvania v. Bruce Donald GODSCHALK, Appellant",
+    "attorneys": "Timothy Zearfoss, Lansdown, for appellant (submitted)., Mary M. Killinger, Executive Asst. Dist. Atty., Norristown, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued June 5, 1996.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<citation id=\"b515-3\">\n    679 A.2d 1295\n   </citation><br><parties id=\"b515-4\">\n    COMMONWEALTH of Pennsylvania v. Bruce Donald GODSCHALK, Appellant.\n   </parties><br><court id=\"b515-6\">\n    Superior Court of Pennsylvania.\n   </court><otherdate id=\"Aq-Q\">\n    Argued June 5, 1996.\n   </otherdate><br><decisiondate id=\"b515-7\">\n    Filed July 10, 1996.\n   </decisiondate><br><attorneys id=\"b515-14\">\n    Timothy Zearfoss, Lansdown, for appellant (submitted).\n   </attorneys><br><attorneys id=\"b516-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"426\"> \n     *426\n     </span>\n    Mary M. Killinger, Executive Asst. Dist. Atty., Norristown, for Commonwealth, appellee.\n   </attorneys><br><judges id=\"b516-5\">\n    Before CAVANAUGH, SAYLOR and HESTER, JJ.\n   </judges>",
+    "citations": [
+        "679 A.2d 1295",
+        "451 Pa. Super. 425"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hester",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 8245.0,
+            "opinion_text": "\n451 Pa. Super. 425 (1996)\n679 A.2d 1295\nCOMMONWEALTH of Pennsylvania\nv.\nBruce Donald GODSCHALK, Appellant.\nSuperior Court of Pennsylvania.\nArgued June 5, 1996.\nFiled July 10, 1996.\nTimothy Zearfoss, Lansdown, for appellant (submitted).\n*426 Mary M. Killinger, Executive Asst. Dist. Atty., Norristown, for Commonwealth, appellee.\nBefore CAVANAUGH, SAYLOR and HESTER, JJ.\nHESTER, Judge.\nBruce Donald Godschalk appeals from the June 26, 1995 order denying his petition to obtain DNA testing.[1] We affirm.\nIn 1987, appellant was convicted of two counts each of rape and burglary. He was sentenced to an aggregate term of imprisonment of ten to twenty years. The rapes occurred in the same apartment complex. The record indicates that on August 16, 1986, at 10:00 p.m., appellant exposed himself to another woman in the same complex. This woman identified appellant as her assailant in a photographic array.\nThe convictions at issue stem from the following events. On July 13, 1986, at 12:45 a.m., appellant entered the townhouse of the first rape victim through a window. The victim was asleep, and appellant entered her bed, placed his hand over mouth, said that he did not want to harm the victim, and told her that he wanted only to have sex. The victim struggled unsuccessfully. Appellant placed the victim on her stomach then inserted his fingers and penis into her vagina.\nOn September 8, 1986, appellant entered the second victim's apartment at 2:45 a.m. while she was asleep. He awoke her, placed his hand over her mouth, and instructed her he would hurt her if she screamed. Appellant turned the victim on to her stomach and had vaginal intercourse with her. At the time, the victim was menstruating, and appellant removed her tampon prior to intercourse. He told the victim several times in a soft voice that he needed love. He then exited the *427 apartment. This victim was able to identify appellant from a photographic array.\nThe convictions rest in part on a confession appellant gave to police. He confessed to raping both of the women and also admitted that he had removed the tampon of the second victim, a detail of this rape which had not been released to the public. Appellant also described the position of the victims during the rapes, another detail which had not been released to the public. Appellant unsuccessfully sought to have the confession suppressed by the trial court, recanted his confession at trial, and was unsuccessful in obtaining suppression of the confession on appeal.\nOn February 24, 1995, appellant filed a petition to obtain DNA testing. After a hearing conducted on June 23, 1995, the petition was denied. This appeal followed.\nOn the authority of Commonwealth v. Brison, 421 Pa.Super. 442, 618 A.2d 420 (1992), and Commonwealth v. Reese, 444 Pa.Super. 38, 663 A.2d 206 (1995), appellant contends his petition was denied improperly. We disagree and affirm. Under the decisions in Brison and Reese, a petition for post-conviction DNA testing will be granted where a conviction rests largely on identification evidence and where advanced technology could definitely establish the accused's innocence.\nHerein, appellant's conviction rests largely on his own confession which contains details of the rapes which were not available to the public. One of the victims did not identify him at all. As appellant has failed to satisfy the first leg of the Brison standard, we affirm the denial of his petition.\nOrder affirmed.\nNOTES\n[1]  Although not titled as a PCRA petition, it is clear that this petition is in the form of a request for post-conviction relief. Even though the petition is not labeled correctly, we will treat it as a petition for postconviction relief. Commonwealth v. Hess, 489 Pa. 580, 414 A.2d 1043 (1980) (in petition, defendant requested habeas corpus relief, but petition was not titled as such; petition should be treated as habeas corpus petition); see also Fortune/Forsythe v. Fortune, 352 Pa.Super. 547, 508 A.2d 1205 (1986) (the substance rather than the form of a motion is controlling in determining procedural issues).\n\n",
+            "ocr": false,
+            "opinion_id": 1997512
+        }
+    ],
+    "court_short_name": "Superior Court of Pennsylvania",
+    "court_full_name": "Superior Court of Pennsylvania",
+    "court_type": "SA",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Rape"
+}

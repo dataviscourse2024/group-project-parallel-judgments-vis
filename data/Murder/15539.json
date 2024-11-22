@@ -1,0 +1,46 @@
+{
+    "id": 1926275,
+    "judges": "Bowen W. Simmons",
+    "date_filed": 244771200000,
+    "date_filed_is_approximate": false,
+    "slug": "cornelius-v-state",
+    "case_name_short": "Cornelius",
+    "case_name": "Cornelius v. State",
+    "case_name_full": "Earl Cornelius v. State.",
+    "attorneys": "Terry T. Bush, Rainsville, for appellant. William J. Baxley, Atty. Gen. and Elizabeth N. Petree, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the Circuit Court, Marshall County, Edward N. Scruggs, J. Page 16",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 12,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "352 So. 2d 15"
+    ],
+    "opinions": [
+        {
+            "author_str": "Simmons",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n352 So. 2d 15 (1977)\nEarl CORNELIUS\nv.\nSTATE.\n8 Div. 965.\nCourt of Criminal Appeals of Alabama.\nOctober 4, 1977.\nRehearing Denied November 15, 1977.\n*16 Terry T. Bush, Rainsville, for appellant.\nWilliam J. Baxley, Atty. Gen. and Elizabeth N. Petree, Asst. Atty. Gen., for the State.\nBOWEN W. SIMMONS, Retired Circuit Judge.\nAppellant, a non-indigent, was indicted under Count I for grand larceny, and under Count II for buying and receiving the same stolen property.\nThe jury convicted as charged in Count I; sentence, three years. The conviction under Count I was an acquittal of defendant under Count II. Adkinson v. State, 21 Ala. App. 264,107 So. 323(1); Glover v. State, 21 Ala.App. 423, 109 So. 125(1); Landers v. State, 26 Ala.App. 506, 162 So. 550(1).\nThe subject of the larcenous acts was some farm implements, owned and kept for sale by Forney Lowery in Marshall County where the theft took place.\nIt appears from the record, and from the facts as reported in the briefs of the State and appellant, that the acts of larceny occurred approximately a week apart. In other words, some of the items listed in the indictment were stolen from the storage lot at one time, and about a week later other items listed in the indictment were stolen. The evidence clearly established that the defendant was the guilty party each time.\nThe indictment lists the stolen items in the larceny count with no alternative averments. The indictment alleges the theft took place before the finding of the indictment. For aught appearing in the indictment there was only one act of larceny of all the items listed in the indictment. The defendant was not otherwise informed until the evidence was concluded and both sides rested, at which time defendant requested the court in writing to give the jury his affirmative charge with hypothesis. The court refused to give this charge. Appellant here asserts this refusal as error to reverse and remand.\nWe think appellant's contention has merit. Preswood v. State, 22 Ala.App. 628, 118 So. 768(3); Thomas v. State, 111 Ala. 51, 20 So. 617(1); Mitchell v. State, 2 Ala.App. 147, 56 So. 56.\nWe quote from Preswood, supra, as follows:\n\"The foregoing being the law and under the facts in this case, it follows that two separate larcenies were committed, and, both being joined in the same count of the indictment, a conviction cannot be permitted to stand. Under the statute (Code, \u00a7 4546), offenses of the same character, and subject to the same punishment, may be joined in the same count in the alternative, but, when an indictment contains but a single count, charging a single offense, and the evidence in support of it shows the commission of two separate and distinct offenses, there is a fatal variance between the probata and the allagata which precludes a conviction. The indictment is perfect in its charge, and is not subject to demurrer, nor does it present a case for an election. The reasons are fully discussed in the case of Thomas v. State, 111 Ala. 51, 20 So. 617. Upon this theory defendant was entitled to the affirmative charge.\"\nIn Thomas, in the indictment charged in the conjunctive that the defendant killed an ox and a cow. The evidence showed that each was killed at a separate time. Justice Brickell, speaking for the court, held that each killing was a separate offense and the refusal of the first, second and fourth written instructions was error. These refused instructions read:\n\"* * *(1) `The court charges the jury that if the state has failed to prove *17 that the cow and ox were injured or shot at the same time, or so near to each other as to constitute the same offense, then the defendant is not guilty as charged in the indictment.' (2) `If the jury believe from the evidence in this case that the cow was shot on Thursday and the ox was shot on Tuesday of the next week, they should acquit the defendant.' (4) `If the jury believe from the evidence that the cow was shot on Thursday, and the ox was shot on Tuesday of the following week, then the defendant is not guilty as charged in the indictment.'\"\nThe judgment, the subject of this appeal, is reversed and the cause remanded. The defendant will remain in custody until discharged by due course of law.\nThe foregoing opinion was prepared by the Honorable BOWEN W. SIMMONS, a retired Circuit Judge, serving as a Judge of this Court, under the provisions of \u00a7 6.10, of the new Judicial Article (Constitutional Amendment No. 328); his opinion is hereby adopted as that of the Court.\nREVERSED AND REMANDED.\nAll the Judges concur.\n",
+            "ocr": false,
+            "opinion_id": 1926275
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

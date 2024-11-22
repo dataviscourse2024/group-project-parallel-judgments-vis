@@ -1,0 +1,46 @@
+{
+    "id": 288371,
+    "judges": "Barnes, Ely, Huf-Stedler, Per Curiam",
+    "date_filed": 1900800000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-george-whitley-hendon-jr",
+    "case_name_short": null,
+    "case_name": "United States v. George Whitley Hendon, Jr.",
+    "case_name_full": "UNITED STATES of America, Appellee, v. George Whitley HENDON, Jr., Appellant",
+    "attorneys": "Michael M. Moore (argued), Tucson, Ariz., for appellant., James Wilkes, Asst. U. S. Atty., Jo Ann D. Diamos, Asst. U. S. Atty., Richard K. Burke, U. S. Atty., Tucson, Ariz., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b785-7\">\n    UNITED STATES of America, Appellee, v. George Whitley HENDON, Jr., Appellant.\n   </parties><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"ANhX\">\n    No. 24321.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b785-9\">\n    United States Court of Appeals, Ninth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b785-10\">\n    Jan. 23, 1970.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b785-16\">\n    Michael M. Moore (argued), Tucson, Ariz., for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b785-17\">\n    James Wilkes, Asst. U. S. Atty., Jo Ann D. Diamos, Asst. U. S. Atty., Richard K. Burke, U. S. Atty., Tucson, Ariz., for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b785-18\">\n    Before BARNES, ELY and HUF-STEDLER, Circuit Judges.\n   </p>",
+    "citations": [
+        "421 F.2d 699"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/421/421.F2d.699.24321_1.html",
+            "author_id": null,
+            "opinion_text": "421 F.2d 699\n    UNITED STATES of America, Appellee,v.George Whitley HENDON, Jr., Appellant.\n    No. 24321.\n    United States Court of Appeals, Ninth Circuit.\n    January 23, 1970.\n    \n      Michael M. Moore (argued), Tucson, Ariz., for appellant.\n      James Wilkes, Asst. U. S. Atty., Jo Ann D. Diamos, Asst. U. S. Atty., Richard K. Burke, U. S. Atty., Tucson, Ariz., for appellee.\n      Before BARNES, ELY and HUFSTEDLER, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      Appellant appeals from a jury judgment convicting him of the violation of 18 U.S.C. &#167; 2312, transporting a stolen vehicle across state lines, knowing it to have been stolen.\n    \n    \n      2\n      The sole error urged was the admission of testimony concerning the stealing and selling by appellant of a television set, allegedly sold by the appellant in Florida after the stealing of the automobile in Florida.\n    \n    \n      3\n      Appellant was charged, not with stealing an auto in Florida (not a federal crime) but with knowingly transporting it in interestate commerce. The latter he had not done until after the sale of the television set.\n    \n    \n      4\n      The Government offered, outside the hearing of the jury, to introduce evidence that the day the appellant failed to return the auto to its owner, a television set belonging to the car owner was also missing. A statement made by appellant to F.B.I. agents, after a full Miranda type warning, and a waiver signed by appellant, was offered in evidence (Ex. 6) which referred to the taking of the television set. Objection was made and sustained (R.T. 38), with the proviso that if the appellant \"presents any evidence that would bear on his intent in taking the car, then this would be material and would be admissible.\" (R.T. 38, lines 20-22.)\n    \n    \n      5\n      Thereafter, Exhibit 6 was offered in evidence, and received after defense counsel stated, \"no objection.\" (R.T. 55.) The notes made by the witness Bagley from which Exhibit 6 was made were likewise offered in evidence (Ex. 7) and received when defense counsel stated \"no objection\" (R.T. 56). The witness Bagley was then asked about the defendant's taking of the automobile without the owner's permission, but no questions were asked by the Government concerning the television set. The prosecution rested, and the defendant testified as the sole witness in his own defense. He was asked by his own counsel:\n    \n    \n      6\n      \"Q. Did you intend to steal Mrs. Taylor's car?\n    \n    \n      7\n      \"A. No.\" (R.T. 73.)\n    \n    \n      8\n      On cross-examination defendant was asked whether he had told Mr. Bagley \"he had taken her [Mrs. Taylor's] television set and sold it in Jacksonville, Florida,\" so that he could finance the trip West. No objection was interposed (R.T. 76).\n    \n    \n      9\n      On rebuttal, and without objection, Mrs. Taylor testified it was her television set, not the defendant's, and that it was gone the day after her car was taken. Mr. Bagley then testified on rebuttal, without objection, as to the defendant's statement to him about his taking and selling the television set to finance his trip West (R.T. 81).\n    \n    \n      10\n      The evidence thus admitted in rebuttal, without objection, was admitted only after the defendant had testified on his own behalf he had no intent to steal the automobile. Any objection to the testimony was waived when no objection was made, on any ground, by defense counsel.\n    \n    \n      11\n      We affirm the conviction.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 288371
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

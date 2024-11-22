@@ -1,0 +1,47 @@
+{
+    "id": 1933562,
+    "judges": "Boslatjgh, Carter, McCown, Newton, Smith, Spencer, White",
+    "date_filed": -22291200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-harris",
+    "case_name_short": "Harris",
+    "case_name": "State v. Harris",
+    "case_name_full": "State of Nebraska, Appellee, v. Randall Harris, Appellant",
+    "attorneys": "Richard J. Spethman, for appellant., Clarence A. H. Meyer, Attorney General, and James J. Duggan, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b329-7\">\n    State of Nebraska, appellee, v. Randall Harris, appellant.\n   </parties><br><citation id=\"b329-9\">\n    167 N. W. 2d 386\n   </citation><br><decisiondate id=\"b329-10\">\n    Filed April 18, 1969.\n   </decisiondate><docketnumber id=\"AhP\">\n    No. 36937.\n   </docketnumber><br><attorneys id=\"b329-16\">\n    Richard J. Spethman, for appellant.\n   </attorneys><br><attorneys id=\"b329-17\">\n    Clarence A. H. Meyer, Attorney General, and James J. Duggan, for appellee.\n   </attorneys><br><judges id=\"b329-18\">\n    Heard before White, C. J., Carter, Spencer, Boslatjgh, Smith, McCown, and Newton, JJ.\n   </judges>",
+    "citations": [
+        "167 N.W.2d 386",
+        "184 Neb. 301"
+    ],
+    "opinions": [
+        {
+            "author_str": "Newton",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5034.0,
+            "opinion_text": "\n167 N.W.2d 386 (1969)\n184 Neb. 301\nSTATE of Nebraska, Appellee,\nv.\nRandall HARRIS, Appellant.\nNo. 36937.\nSupreme Court of Nebraska.\nApril 18, 1969.\n*387 Richard J. Spethman, Omaha, for appellant.\nClarence A. H. Meyer, Atty. Gen., James J. Duggan, Asst. Atty. Gen., Lincoln, for appellee.\nHeard before WHITE, C.J., and CARTER, SPENCER, BOSLAUGH, SMITH, McCOWN, and NEWTON, JJ.\nNEWTON, Justice.\nDefendant and a companion were arrested in Douglas County, Nebraska, on a charge of burglary. While awaiting trial, the companion was tried and convicted on a felony charge unconnected with the burglary for which defendant was tried. Defendant's trial was had to the same jury panel which had heard his companion's case. Defendant moved for a continuance on the ground that he could not receive a fair trial before the jury panel from which a jury had been selected which had tried and convicted his companion on a different charge. The motion was overruled by the court and on its own motion, the court dismissed any jurors called who had served as jurors in the case of defendant's companion. In doing so, the court avoided any reference to the connection between the two cases. Jurors called were examined *388 on voir dire by the defendant's attorney and passed for cause. We affirm the judgment of the district court.\nThere is absolutely no showing of prejudice to any substantial right of the defendant in the record before us. It does not appear that any juror had any knowledge that defendant's companion had been previously convicted on a felony charge separate and distinct from the burglary charge on which defendant stood trial. Under such circumstances, it appears that defendant's assignment of error must be rejected on several grounds.\nIn the case of Crawford v. State, 116 Neb. 125, 216 N.W. 294, the facts were very similar to those in the present case. The court there held: \"Denial of a continuance on the ground that defendant could not have a fair and impartial trial before the regular panel of jurors, because a jury selected therefrom had on a previous day found him guilty of another offense, held not prejudicially erroneous, where the record shows that each juror selected for the second trial was duly qualified to act as such.\"\nIn State v. Eggers, 175 Neb. 79, 120 N.W.2d 541, the court held that by passing the jurors for cause, the defendant waived any objection to their selection as jurors and could not later successfully object after an unfavorable verdict.\nEven if it were to be conceded that the trial court acted erroneously in overruling the defendant's motion for a continuance, no ground for reversal would be presented. The verdict of the jury rendered in a criminal prosecution will not be reversed in the absence of a showing of prejudice to a substantial right of defendant. See, s. 29-2308, R.R.S.1943; Mason v. State, 132 Neb. 7, 270 N.W. 661; State v. Burton, 174 Neb. 457, 118 N.W.2d 502.\nThe judgment of the district court is affirmed.\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 1933562
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

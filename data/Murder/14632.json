@@ -1,0 +1,46 @@
+{
+    "id": 1096444,
+    "judges": "Barkdull, Nesbitt and Goderich",
+    "date_filed": 824256000000,
+    "date_filed_is_approximate": false,
+    "slug": "meeks-v-state",
+    "case_name_short": "Meeks",
+    "case_name": "Meeks v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "667 So. 2d 1002"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n667 So. 2d 1002 (1996)\nVincent Lamont MEEKS, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 94-1895.\nDistrict Court of Appeal of Florida, Third District.\nFebruary 14, 1996.\nBennett H. Brummer, Public Defender, and Howard K. Blumberg, Assistant Public Defender, for appellant.\nRobert A. Butterworth, Attorney General, and Douglas J. Glaid, Assistant Attorney General, for appellee.\nBefore BARKDULL, NESBITT and GODERICH, JJ.\nBARKDULL, Judge.\nVincent Meeks appeals from one first degree murder conviction and two attempted first degree murder convictions.\nMeeks first contends that the cumulative effect of several comments made by the prosecutor during closing argument was such that he was denied a fair and impartial trial. We find that the remarks were made either in fair reply to defense counsel's argument or were not so egregious when taken in context *1003 as to require reversal. See Ferguson v. State, 417 So. 2d 639 (Fla.1982); Davis v. State, 590 So. 2d 496 (Fla. 3d DCA 1991), rev. denied, 649 So. 2d 234 (Fla.1994). And in light of the overwhelming evidence of guilt presented by the state[1], any error committed by the trial court in overruling objections to the comments at issue was harmless beyond a reasonable doubt. State v. DiGuilio, 491 So. 2d 1129 (Fla.1986).\nWe also find no error in the trial court's refusal to instruct the jury on armed trespass as the lesser included offense of third degree felony murder and attempted third degree felony murder. First, there was no evidence adduced at trial which would have supported a charge of armed trespass as to the first degree murder charge since it was never contended that Meeks had entered or attempted to enter the car in which the victim was traveling. The jury was, however, properly instructed on third degree murder with the lesser included felonies of aggravated assault and shooting into an occupied vehicle. See Green v. State, 475 So. 2d 235 (Fla.1985). Second, there is no longer any offense of attempted felony murder in Florida and so the failure to instruct the jury on this charge cannot be error.\nThe third point on appeal relates to the convictions for attempted first degree murder. Meeks contends that since the jury was instructed on both attempted premeditated murder and attempted felony murder and because the jury verdict form did not specify whether the guilty verdicts were based upon premeditated or felony murder, then both convictions must be vacated and the case returned for retrial on attempted premeditated murder. We agree. Where it is impossible to determine which theory the jury used to convict on a charge of attempted first degree murder, and the facts could support a guilty verdict on either theory, the attempted murder conviction must be vacated and the case returned for retrial on the charge of first degree premeditated murder. Thompson v. State, 667 So. 2d 470 (Fla. 3d DCA opinion filed January 31, 1996).\nTherefore, we affirm the first degree murder conviction, reverse the convictions for attempted first degree murder and remand for a retrial on charges of attempted first degree premeditated murder.\nAffirmed in part; reversed and remanded in part.\nNOTES\n[1]  The defendant's confession and the testimony of four eyewitnesses was introduced as evidence. His fingerprints were also found on one of the vehicles and defense counsel conceded that Meeks had fired the shots that killed the victim.\n\n",
+            "ocr": false,
+            "opinion_id": 1096444
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

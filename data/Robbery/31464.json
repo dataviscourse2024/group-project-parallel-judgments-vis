@@ -1,0 +1,46 @@
+{
+    "id": 5630252,
+    "judges": null,
+    "date_filed": -3065040000000,
+    "date_filed_is_approximate": true,
+    "slug": "haggerty-v-people",
+    "case_name_short": "Haggerty",
+    "case_name": "Haggerty v. People",
+    "case_name_full": "Thomas Haggerty, in Error v. The People, in Error",
+    "attorneys": "Jacob II. Olute, for the plaintiff in error., Nathaniel O. Moak, district attorney, for the defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>One who was convicted of a felony, and imprisoned, upon sentence, in the State prison for a term of years, escaped before the expiration of such term, and, after it would have expired, had he remained in custody, committed another felony. On being arrested and brought before the court which imposed the original sentence, that court ordered the execution of the remainder thereof. The accused, notwithstanding the objection that he was civilly dead, was put upon trial for the second felony, convicted thereof and sentenced therefor, the second term to commence at the expiration of the first. Held, that there was no error, and the conviction affirmed.</p>",
+    "summary": "This was a writ of error to review'a conviction of the plaintiff in error for burglary. He was indicted for having, at the city of Albany, on the 16th day of December, 1871, burglariously entered the store of Francis Shields and Adam Shields, and stolen therefrom a quantity of pennies and other coins. The trial was moved at the Albany sessions on the 14th of March, 1872, when Haggerty\u2019s counsel produced a record of proceedings in the same court the day before (see preceding case), showing that on the 18th of September, 1868, Haggerty was convicted of robbery in the second degree, and sentenced to confinement at hard labor in the State prison at Clinton for three years ; that he was committed to said prison under and pursuant to such conviction and sentence; that on the 14th of October, 1869, while so confined, Haggerty violently escaped from the prison, and had ever since been at large. The Court of Sessions, on the 13th of March, 1872, ordered its former sentence to be executed, and that he be remanded to the prison, and there confined, and suffer imprisonment for a term equal to the portion of the three years he had not suffered. Haggerty\u2019s counsel, upon that record, objected to his being tried for the burglary committed by him after his escape and while at large, in December, 1871, on the ground that he was civilly dead and could not be tried. The court overruled the objection and exception was taken. The trial then took place. The jury found him guilty, and he was sentenced to the State prison at Clinton for two years, to commence at the expiration of the first term of imprisonment to which he liad been adjudged, and prisoner\u2019s counsel sued out a writ of error.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "6 Lans. 347"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe court,\nafter consultation, without delivering a written opinion, affirmed the judgment of the Court of Sessions.'\n",
+            "ocr": true,
+            "opinion_id": 5475394
+        }
+    ],
+    "court_short_name": "New York Supreme Court",
+    "court_full_name": "New York Supreme Court",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

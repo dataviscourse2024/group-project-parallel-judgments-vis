@@ -1,0 +1,46 @@
+{
+    "id": 8075078,
+    "judges": "Day, Eberly, Good, Goss, Rose, Thompson",
+    "date_filed": -1349827200000,
+    "date_filed_is_approximate": false,
+    "slug": "hynes-v-state",
+    "case_name_short": "Hynes",
+    "case_name": "Hynes v. State",
+    "case_name_full": "Dan S. Hynes v. State of Nebraska",
+    "attorneys": "P. F. Verzani, W. B. Egan and W. D. McCarthy, for plaintiff in error., O. S. Spillman, Attorney 'General, and Harry Silverman, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "115 Neb. 391"
+    ],
+    "opinions": [
+        {
+            "author_str": "Eberly",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nEberly, J.\nDan S. Hynes, hereinafter designated defendant, was prosecuted in the district court for Dakota county, Nebraska, upon an information which, in proper form (omitting the formal parts and technical language appropriate to the description of unlawful and felonious intent and purpose), charged that \u201cMagnus J. Wibe and Dan S. Hynes,\u201d within that county and state, \u201con the 22d day of May, 1925, did * * * enter a building occupied by the Goodwin State Bank * * * and by violence and by putting in fear * * * the cashier thereof * * * did then and there * * * steal, take and carry away $1,800 in lawful money * * * of the United States * * * the property of the Goodwin State Bank * * * against the will of, and without the consent of the Goodwin State Bank.\u201d Upon trial the defendant was found guilty and sentenced to ten years in the penitentiary. Alleging there was error upon the trial, the defendant brought the record of his conviction to this court for review.\nIt is urged by the defendant that the evidence is insufficient to support the judgment of the district court. A careful perusal of the bill of exceptions, however, discloses that the defendant and state unite in the conclusion that on the day in question the bank was actually robbed in the manner charged in the information by two men of whom Magnus J. Wibe was one; that on the day in question two men came to the bank in a Ford automobile, went into the bank building, committed the robbery, and thereafter came out of the bank and drove away together in the same auto*393mobile. The cashier who was \u201cheld up,\u201d while he does not attempt a minute description of the persons or clothing or appearance of the accused, positively identified Hynes as one of these two men. Within a few hours after the occurrence of the robbery, Hynes and Wibe were arrested together in a Ford automobile returning to Sioux City, Iowa. According to witnesses for the state, both, at the time of their arrest, were armed with revolvers, and on the persons of both were found the proceeds of the robbery.\nThe evidence in the record also tends to establish that, at the time of his 'arrest and immediately thereafter, Hynes made statements tantamount to a confession of guilt. And it is without dispute in the record that on the day of his arrest Hynes guided the officers to where certain \u201ctravelers cheques\u201d taken from the bank at the time of the robbery had been hidden.\nTrue, at the time of the trial, Hynes denied being present at the scene of the crime or any participation therein, claiming that while the money found in the automobile and on his person, at the time of the arrest, was the money taken by. the robbers at the time of the robbery, that so far as he was concerned he was compelled to take it into his possession, later, upon the public highway at the point of a revolver in the hands of Wibe.\nTaking the evidence as an entirety, the matter for the jury\u2019s determination was the question of the credibility of witnesses. This was strictly within the province of the triers of the fact who both saw and heard the witnesses. The evidence, if believed, is ample to support the verdict of guilty, and it cannot be justly said that the finding is unsupported by the evidence.\nComplaint is made because of the refusal of the court to give an instruction defining the crime of \u201caccessory after the fact.\u201d It may be said that the evidence produced by the state tended to establish the crime charged in the information, and nothing else. The evidence offered in behalf of the defendant tended to establish that he was \u201cnot guilty\u201d of the crime charged; and also \u201cnot guilty\u201d of being an \u201cac*394cessory after the fact to the crime charged.\u201d Therefore, the instruction requested was wholly inapplicable to the evidence before the jury, and no error was committed by the court in this refusal.\nAt the time of the oral argument before this court, defendant\u2019s counsel stressed the fact that the question of \u201calibi\u201d was presented by the evidence in the record and the court failed specifically to instruct upon it. It appears, however, that no instruction upon this subject of \u201calibi\u201d was presented to, or requested of, the district court by the defendant.\nNo assignment based upon this alleged error or failure to instruct on the proposition of \u201calibi\u201d appears in the motion for a new trial which the defendant presented to the district court and which by the district' court was overruled. Nor is it one of the assignments of error made in the defendant\u2019s brief, as required by rule 12 of this court. Neither is it discussed and relied upon therein as a distinct ground of error upon which the case should be reversed. In the-condition of the record before us, the language of this court in Welter v. State, 112 Neb. 22, seems to be in point:\n\u201cDefendant interposed evidence tending to prove an alibi which, if believed by the jury, would have entitled him to&gt; an acquittal, but we do not find it necessary to discuss this feature of the case other than to observe that the jury evidently did not accept the version of defendant\u2019s witnesses on this point.\u201d\nWe have not overlooked the other errors assigned in the brief. After a careful reading of the evidence in the light of the instructions given by the court, we are of the opinion that the defendant has had a fair trial and that the conviction is justified by the proof.\nFinding no error, the judgment of the district court is\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 8033878
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

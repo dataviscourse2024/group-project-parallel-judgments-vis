@@ -1,0 +1,46 @@
+{
+    "id": 5876283,
+    "judges": null,
+    "date_filed": -256694400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mccray",
+    "case_name_short": "McCray",
+    "case_name": "People v. McCray",
+    "case_name_full": "The People of the State of New York v. David McCray",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "14 A.D.2d 899"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*900707). Proof of sentence by the South Carolina court under the robbery count not only would show the existence of a conviction but, impliedly, that the judge presiding, on the basis of the law in South Carolina, had made a judicial determination that the \u201c guilty \u201d verdict applied to the robbery count. A conviction and sentence under the robbery count would be regarded as a felony conviction in this State irrespective of the added larceny count in the indictment (People v. Love, 305 N. Y. 722; People ex rel. Gold v. Jackson, 5 N Y 2d 243; People ex rel. Knapp v. Jackson, supra). Nolan, P. J., Beldock, Ughetta, Christ and Pette, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5732790
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

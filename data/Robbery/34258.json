@@ -1,0 +1,47 @@
+{
+    "id": 6204656,
+    "judges": null,
+    "date_filed": 991094400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-harris",
+    "case_name_short": "Harris",
+    "case_name": "People v. Harris",
+    "case_name_full": "The People of the State of New York v. Troy Harris",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "283 A.D.2d 656",
+        "725 N.Y.S.2d 857"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the County Court, Suffolk County (Weber, J.), rendered February 24, 1998, convicting him of robbery in the second degree and robbery in the third degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant committed two robberies, one in front of a delicatessen and the other in front of a gas station. Viewing the evidence in the light most favorable to the People (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s guilt of both robberies beyond a reasonable doubt. Furthermore, in view of the overwhelming evidence of the defendant\u2019s guilt, any error that may have been committed regarding an in-court identification procedure with respect to the gas station robbery is harmless (see, People v Bradley, 154 AD2d 609).\nThe sentence imposed is not excessive (see, People v Suitte, 90 AD2d 80).\nThe defendant\u2019s remaining contentions are without merit. Santucci, J. P., Luciano, Feuerstein and Adams, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6071173
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

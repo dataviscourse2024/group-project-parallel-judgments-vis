@@ -1,0 +1,57 @@
+{
+    "id": 7798882,
+    "judges": "Altenbernd, Patterson, Stringer",
+    "date_filed": 972604800000,
+    "date_filed_is_approximate": false,
+    "slug": "kd-v-state",
+    "case_name_short": "K.D.",
+    "case_name": "K.D. v. State",
+    "case_name_full": "K.D., a child v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Richard P. Albertine, Jr., Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Sonya Roebuck Hor-belt, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "779 So. 2d 468"
+    ],
+    "opinions": [
+        {
+            "author_str": "Patterson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPATTERSON, Chief Judge.\nThe appellant, K.D., challenges the order adjudicating him to be a delinquent child and committing him to the Department of Juvenile Justice. We affirm his adjudication of guilt without discussion, but reverse the restitution order and the single disposition order and remand for further proceedings.\nThe State charged K.D. with one count of armed burglary and five counts of burglary. The juvenile court adjudicated K.D. delinquent on all six counts and ordered that he be committed to the Department of Juvenile Justice. On July 13, 1999, K.D. filed a notice of appeal. Although divested of jurisdiction, the juvenile court entered an order of restitution on August 6, 1999, which was rendered on November 23, 1999. This was error. A trial court does not have jurisdiction to hold a restitution hearing or enter an order of restitution after a notice of appeal has been filed. See Edwards v. State, 734 So.2d 1130 (Fla. 2d DCA 1999); Colson v. State, 711 So.2d 604 (Fla. 2d DCA 1998). Therefore, we strike the order of restitution. However, because the trial court reserved jurisdiction to hold a restitution hearing, restitution may be reimposed on remand. See Marinetti v. State, 706 So.2d 1374 (Fla. 2d DCA 1998).\nWe also note that the court erred by failing to enter separate orders of disposition as to KD.\u2019s six separate offenses. See E.Y. v. State, 670 So.2d 1079 (Fla. 2d DCA 1996). Thus, we reverse the single general order of disposition and remand for the entry of separate disposition orders. K.D. need not be present for this purely ministerial act.\n*469Affirmed in part, reversed in part, and remanded.\nSTRINGER, J., Concurs.\nALTENBERND, J., Concurs specially.\n",
+            "ocr": true,
+            "opinion_id": 7739219
+        },
+        {
+            "author_str": "Altenbernd",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nALTENBERND, Judge,\nConcurring.\nThe majority\u2019s opinion is unquestionably an accurate statement of the existing law concerning the authority of a trial court to enter a restitution order. I think we ought to consider changing the law to avoid reversals of late-filed restitution orders that appear to establish correct awards of restitution.\nIt is often difficult for a trial judge to know whether a notice of appeal has been filed before a restitution order is rendered. In this case, the trial judge first received the evidence upon which he based the restitution order on June 17, 1999, at the end of the trial. The only restitution order in the record is a \u201cduplicate\u201d order dated August 6,1999, and rendered in November 1999. The amount of restitution in the order, $3353.67, is the exact amount the victims sought in the impact statements that were discussed with the judge in June. Nothing in this record suggests that the trial court\u2019s late order is incorrect or that its lateness harmed K.D. in any manner.\nThe trial court lost jurisdiction to enter this order because it agreed to accommodate K.D. K.D. wanted to share this restitution obligation with another juvenile. Apparently, the other juvenile was named in a separate juvenile proceeding that was scheduled for resolution in July. Moreover, K.D. had a second case pending. When this first case was heard on a motion for reconsideration of disposition on July 7, 1999, KD.\u2019s counsel suggested that the trial court defer ruling on restitution until a hearing about a week later in K.D.\u2019s second case. Before that hearing, K.D. filed this appeal.\nThis court has no authority to amend the concurrent jurisdiction that Florida Rule of Appellate Procedure 9.600 gives to trial courts during the pendency of an appeal. If we did, it might be sensible to give the trial court an automatic thirty- or sixty-day period of concurrent jurisdiction to resolve any pending restitution issue once a notice of appeal is filed.\nIn the alternative, perhaps the amount of restitution could be established in a separate restitution judgment, in the nature of a civil monetary judgment. This judgment could be separately appealed. Cf. Ulrich v. Eaton Vance Distribs., Inc., 764 So.2d 731 (Fla. 2d DCA 2000) (allowing separate final appeals of judgment and order awarding attorneys\u2019 fees based upon judgment); Bernstein v. Berrin, 516 So.2d 1042 (Fla. 2d DCA 1987) (en banc) (holding trial court retains jurisdiction to consider motion for attorneys\u2019 fees despite filing of notice of appeal of final judgment). A sentence or disposition rendered at an earlier time could reserve jurisdiction, perhaps for a limited time, to enter the restitution judgment. Any obligation to pay restitution in an order of probation could refer to an obligation to make payments on any restitution judgment entered as a result of the specific criminal case. In the situation of a plea, if necessary, the written plea agreement could specify that it was conditioned upon the subsequent entry of a restitution judgment not exceeding some agreed upon maximum amount.\nThese proposals would permit appellate review of restitution orders without requiring us to reverse such orders due to technical jurisdictional problems.\n",
+            "ocr": true,
+            "opinion_id": 7739220
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

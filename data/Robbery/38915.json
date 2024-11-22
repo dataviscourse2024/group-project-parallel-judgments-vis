@@ -1,0 +1,46 @@
+{
+    "id": 7109948,
+    "judges": "Simon",
+    "date_filed": 207187200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mitchell",
+    "case_name_short": null,
+    "case_name": "People v. Mitchell",
+    "case_name_full": "THE PEOPLE OF THE STATE OF ILLINOIS v. EDDIE MITCHELL",
+    "attorneys": "James Geis and Richard Steck, both of State Appellate Defender\u2019s Office, of Chicago, for appellant., Bernard Carey, State\u2019s Attorney, of Chicago (Laurence J. Bolon, Joan S. Cherry, and Patrick W. O\u2019Brien, Assistant State\u2019s Attorneys, of counsel), for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "40 Ill. App. 3d 957"
+    ],
+    "opinions": [
+        {
+            "author_str": "Simon",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. JUSTICE SIMON delivered the opinion of the court: The defendant, Eddie Mitchell, was indicted and convicted of burglary, along with codefendants, Donald Mitchell and Stanley Madison. After trial, Donald Mitchell and Stanley Madison were each sentenced to not less than 5 nor more than 15 years in the penitentiary. The conviction of Donald Mitchell was affirmed by this court by a Rule 23 order entered on March 29, 1976. The Illinois Appellate Defender filed a petition for leave to withdraw on May 10, 1976, in the appeal of Stanley Madison, which is still pending before this court. Both Donald Mitchell and Stanley Madison had criminal records. Defendant Eddie Mitchell was sentenced to not less than 3 nor more than 9 years in the penitentiary. The Appellate Defender has filed a brief in his behalf raising the sole issue of whether the trial court abused its discretion in sentencing the defendant to a minimum of 3 years where there is nothing in the record to justify a higher minimum sentence than provided by the Unified Code of Corrections. The Code provides: \u201c(3) for a Class 2 felony [burglary], the minimum term shall be 1 year unless the court, having regard to the nature and circumstances of the offense and the history and character of defendant, sets a higher minimum term * * * .\u201d (Emphasis added.) (Ill. Rev. Stat. 1973, ch. 38, par. 1005 \u2014 8\u20141(c)(3).) In this case, the 18-year-old defendant waived a presentencing investigation and the court did not order one. It is uncontested that defendant had no prior convictions. As to the nature and circumstances of the offense, the burglary was committed at night in a tavern which was closed. Approximately $220 was taken from the tavern. No weapons were used during the burglary and the one witness to the offense was neither harmed nor harassed by defendant or his codefendants, despite the fact that they attempted to convince him to leave the area. There was some evidence that defendant had been drinking prior to the burglary.  The only circumstance to which the State alludes to justify the sentence imposed is that the defendant acted with others in committing the offense citing People v. Bruce (1975), 32 Ill. App. 3d 404, 336 N.E.2d 354. In Bruce, the court noted that the burglary was planned by a group of people, but also observed that the house burglarized was \u201ccased\u201d and then \u201ccompletely cleaned out.\u201d In this case, there was no such evidence. The defendant in Bruce was sentenced to 2 to 8 years. There is no case law holding that the fact that an accused commits an offense acting in concert with others is sufficiently aggravating, standing alone, to justify a higher minimum. In a case similar to this, though with more aggravating personal factors, the court reduced a sentence of 3 to 9 years for burglary to not less than 1 nor more than 3 years even though three people were involved in the offense. People v. Pohle (1974), 19 Ill. App. 3d 400, 311 N.E.2d 731.  A 1-year sentence is mandated unless the court considered the history and character of defendant and the nature and circumstances of the offense. There is nothing in the record to establish that the trial judge considered these matters in imposing a higher minimum sentence than the 1-year minimum set forth in the statute, and this court should not assume that because the higher minimum sentence was imposed the trial court did consider them. (People v. Matychowiak (1974), 18 Ill. App. 3d 739, 742, 310 N.E.2d 394.) In People v. Watts (1974), 19 Ill. App. 3d 733, 312 N.E.2d 672, this court reduced a sentence of 6 to 10 years for indecent liberties to a minimum of 4 years because the circumstances of the crime did not justify a higher minimum. Also in People v. Belleville (1974), 20 Ill. App. 3d 1088, 314 N.E.2d 35, a case very similar to this one, the court reduced a sentence of 2 to 6 years for burglary to 1 to 3 years because there was nothing to justify the higher minimum. No one can be certain of how exemplary a life a person with no prior record will lead after serving a prison term. However, to be consistent with the attempt to standardize sentences to the extent the statutory scheme set forth in the Code of Corrections makes it possible to do so, and because of the reasons set forth above as well as to give the defendant a better opportunity to rehabilitate himself, the sentence is reduced to a term of from 1 to 3 years and the judgment is modified to a sentence of 1 to 3 years in the penitentiary. This action is taken under the authority of Supreme Court Rule 615(b)(4), and as thus modified, the judgment is affirmed. Judgment affirmed as modified. GOLDBERG, P. J., and BURKE, J., concur. ",
+            "ocr": true,
+            "opinion_id": 7016112
+        }
+    ],
+    "court_short_name": "Appellate Court of Illinois",
+    "court_full_name": "Appellate Court of Illinois",
+    "court_type": "SA",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Robbery"
+}

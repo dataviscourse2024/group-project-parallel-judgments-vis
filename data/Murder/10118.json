@@ -1,0 +1,46 @@
+{
+    "id": 1114160,
+    "judges": "Campbell",
+    "date_filed": 796435200000,
+    "date_filed_is_approximate": false,
+    "slug": "hall-v-state",
+    "case_name_short": "Hall",
+    "case_name": "Hall v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "652 So. 2d 1197"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6843.0,
+            "opinion_text": "\n652 So.2d 1197 (1995)\nJames L. HALL, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 93-03519.\nDistrict Court of Appeal of Florida, Second District.\nMarch 29, 1995.\nJames Marion Moorman, Public Defender, and Joseph F. Bohren II, Asst. Public Defender, Bartow, for appellant.\nRobert A. Butterworth, Atty. Gen., Tallahassee, and Anne Y. Swing, Asst. Atty. Gen., Tampa, for appellee.\nCAMPBELL, Judge.\nAppellant, having pled nolo to attempted first degree murder with a firearm, challenges the restitution he was ordered to pay, the public defender fees he was ordered to pay, and several conditions of his probation. We find error only in the imposition of certain of the probation conditions.\nAppellant argues that conditions four and six should be stricken. Condition four provides: \"You will neither possess, carry or own any weapons or firearms.\" Condition six provides: \"You will not use intoxicants to excess; nor will you visit places where intoxicants, drugs or other dangerous substances are unlawfully sold, dispensed or used.\"\nAppellant contends that these conditions must be stricken because they were not orally pronounced at sentencing. We will consider them singly.\nIn conformance with other pronouncements of this court, we affirm that portion of condition four that prohibits appellant from possessing, carrying or owning any firearms. See Stark v. State, 650 So.2d 697 (Fla. 2d DCA 1995); Hart v. State, 651 So.2d 112 (Fla. 2d DCA 1995); Fitts v. State, 649 So.2d 300 (Fla. 2d DCA 1995). Also following the dictates of those cases, we strike the reference to weapons contained in condition four. We further certify the following question of great public importance that was certified in Hart:\nDOES THE SUPREME COURT'S PROMULGATION OF THE FORM \"ORDER OF PROBATION\" IN FLORIDA RULE OF CRIMINAL PROCEDURE 3.986 CONSTITUTE SUFFICIENT NOTICE TO PROBATIONERS OF CONDITIONS *1198 1-11 SUCH THAT ORAL PRONOUNCEMENT OF THESE CONDITIONS BY THE TRIAL COURT IS UNNECESSARY?\nTurning to condition six, in accord with Hart and Tomlinson v. State, 645 So.2d 1 (Fla. 2d DCA 1994), we strike that portion of condition six that prohibits the excessive use of intoxicants because it was not orally pronounced at sentencing. We affirm the remainder of condition six as a more precise definition of a general condition that need not be orally pronounced. Tomlinson.\nAffirmed in part, portions of probation conditions stricken, and question certified.\nDANAHY, A.C.J., and WHATLEY, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1114160
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 5204027,
+    "judges": "Morrison, Woodley",
+    "date_filed": -213580800000,
+    "date_filed_is_approximate": true,
+    "slug": "ferguson-v-state",
+    "case_name_short": "Ferguson",
+    "case_name": "Ferguson v. State",
+    "case_name_full": "David Charles FERGUSON v. The STATE of Texas",
+    "attorneys": "Charles W. Tessmer, Dallas (on appeal only), for appellant., Henry Wade, Dist; Atty., George Milner and Emmett Colvin, Jr., Asst. Dist. Attys., Dallas, and Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied May 15, 1963.",
+    "cross_reference": "See also 367 S.W.2d 345.",
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "367 S.W.2d 695"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMORRISON, Judge.\nThis is an appeal from an ordering entering a judgment nunc pro tunc for the purpose of correcting the minutes of the court.\nA hearing was had on the State\u2019s motion to enter a judgment nunc pro tunc, and from the entry of such judgment an appeal was brought to this Court. In our Cause No. 35,548, Tex.Cr.App., 365 S.W.2d 184, such appeal was dismissed because no judgment nunc pro tunc had in fact been entered. Since the rendition of such opinion, a j\u00fadg*696ment nunc pro tunc has been entered, and the State has joined in a stipulation that the facts adduced at the hearing in our Cause No. 35,548 be considered as a statement of facts in this appeal. This we proceed to do.\nThe judgment nunc pro tunc recites that in fact relator was found guilty of robbery by assault and not assault with intent to rob.\nThe only probative evidence in the record to support the judgment nunc pro tunc, since neither the judge or any of the court attach\u00e9s had any independent recollection of the case, was the judge\u2019s docket. We are not unaware of the fact that we said in Walls v. State, 161 Tex.Cr.R. 1, 273 S.W.2d 875, that this Court has held many times that a docket notation does not constitute a record entry or minutes of the court, but feel that we are compelled to follow the holdings of this Court in Demus v. State, 111 Tex.Cr.R. 237, 16 S.W.2d 251, and Aubrey v. State, 114 Tex.Cr.R. 466, 26 S.W.2d 213, which say that the docket entry may furnish a basis for the trial court to order a correction of the minutes.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5027270
+        },
+        {
+            "author_str": "Woodley",
+            "per_curiam": false,
+            "type": "070rehearing",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nON APPELLANT\u2019S MOTION FOR REHEARING.\nWOODLEY, Presiding Judge.\nAppellant\u2019s able counsel expresses concern that our opinion herein may be construed as holding that any order evidenced by a docket entry will be sufficient to authorize the entry of a judgment or order nunc pro tunc and be sufficient to change the offense so as to fit the punishment without showing that the clerk made a mistake in recording the judgment. We therefore deem it proper to direct attention to the record herein, from which we conclude that the judgment entered nunc pro tunc was the judgment actually pronounced by the trial court when the case was tried.\nThe offense alleged in the indictment was robbery by assault.\nThe waiver of a jury, signed and sworn to by the defendant, averred that he was guilty of said charge and requested the court to consent to his waiver of a jury and accept his plea of guilty and proceed to trial \u201cupon said charge.\u201d\nThe consent and approval of the trial judge to the defendant\u2019s waiver of the right to be tried by jury and his plea of guilty \u201ctogether with the defendant\u2019s request that he be tried in said cause for the offense of Robbery before the court\u201d was signed and filed on the day of trial, as was the consent of the district attorney reciting that he was advised that the defendant \u201cdesires to enter a plea of guilty for the offense of Robbery and be tried before the court.\u201d\nThe docket entry referred to in our original opinion, signed by the trial judge, reads: \u201cJury waived. Defendant warned. Plea of guilty before Court. Found guilty of Robbery by Assault. Punishment fixed at 15 years confinement in the penitentiary. Defendant sentenced. Back time allowed. Sentence to begin 10/14/58. Joe B. Brown, Judge.\u201d\nWhile Judge Brown had no independent recollection of the matter when the nunc pro tunc hearing was held, he testified from looking at his record that such record showed that the defendant was indicted for, and was tried and convicted of robbery by assault * * * and not assault with intent to commit robbery.\nOther circumstances were that the clerk had .rubber stamps for use in filling out forms for judgments and sentences and determined what stamp to use from the various papers filed and filled out by the District Attorney\u2019s office \u201c * * * and also by what the judge writes on the docket sheet.\u201d\nThe records and testimony mentioned were introduced at the hearing.\nIn the absence of any evidence, entry, or document from which it could be inferred that the offense charged had been reduced *697from robbery by assault to assault with intent to commit robbery, the evidence sustains the trial court\u2019s finding that there was \u25a0clerical error in entering the judgment and sentence reciting the latter offense instead \u25a0of the offense to which the defendant pleaded guilty and was convicted.\nAppellant\u2019s motion for rehearing is overruled.\n",
+            "ocr": true,
+            "opinion_id": 5027271
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

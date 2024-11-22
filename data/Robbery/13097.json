@@ -1,0 +1,46 @@
+{
+    "id": 707307,
+    "judges": null,
+    "date_filed": 815184000000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-robert-william-johnson",
+    "case_name_short": null,
+    "case_name": "United States v. Robert William Johnson",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "69 F.3d 545"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F3/69/69.F3d.545.95-10136.html",
+            "author_id": null,
+            "opinion_text": "69 F.3d 545\n    NOTICE: Ninth Circuit Rule 36-3 provides that dispositions other than opinions or orders designated for publication are not precedential and should not be cited except when relevant under the doctrines of law of the case, res judicata, or collateral estoppel.UNITED STATES of America, Plaintiff-Appellee,v.Robert William JOHNSON, Defendant-Appellant.\n    No. 95-10136.\n    United States Court of Appeals, Ninth Circuit.\n    Submitted Oct. 24, 1995.*Decided Nov. 1, 1995.\n    \n      Before:  BEEZER, THOMPSON and T.G. NELSON, Circuit Judges.\n    \n    \n      1\n      MEMORANDUM**\n    \n    \n      2\n      Robert William Johnson appeals his sentence under the Sentencing Guidelines imposed following his guilty plea to aggravated robbery, in violation of 18 U.S.C. Sec. 2114.  He contends that he was entitled to a downward departure based on extraordinary military service.  The district court indicated that it would not depart downward even if it could.  We lack jurisdiction to review the district court's discretionary refusal to depart downward.  See United States v. Eaton, 31 F.3d 789, 793 (9th Cir.1994).\n    \n    \n      3\n      DISMISSED.\n    \n    \n      \n        *\n         The panel unanimously finds this case suitable for decision without oral argument.  Fed.R.App.P. 34(a);  9th Cir.R. 34-4\n      \n      \n        **\n         This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by 9th Cir.R. 36-3\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 707307
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

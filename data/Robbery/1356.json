@@ -1,0 +1,47 @@
+{
+    "id": 8026975,
+    "judges": "Knutson",
+    "date_filed": -86400000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-ex-rel-wolfe-v-lund",
+    "case_name_short": "Lund",
+    "case_name": "State ex rel. Wolfe v. Lund",
+    "case_name_full": "STATE EX REL. GERALD LeROY WOLFE v. DR. J. BENJAMIN LUND",
+    "attorneys": "John F. Corbey and Parris & Corbey, for relator., Douglas M. Head, Attorney General, and Gerard W. Snell, Acting Solicitor General, for respondent, Medical Director, State Security Hospital.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "276 Minn. 312",
+        "149 N.W.2d 923"
+    ],
+    "opinions": [
+        {
+            "author_str": "Knutson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKnutson, Chief Justice.\nThis is an appeal from an order denying petitioner\u2019s application for a writ of habeas corpus.\nThe facts are not in dispute. Petitioner was charged by information in the District Court of Hennepin County on January 29, 1958, with *313the crime of robbery in the first degree. On January 30 he appeared before the district court without an attorney and the matter was continued in order to enable him to procure the services of counsel. A plea of not guilty was entered in his behalf. Later on the same day petitioner represented to the court that he was financially unable to procure the services of an attorney and the assistant public defender was appointed to represent him. On January 31 he appeared with court-appointed counsel and was granted a continuance to February 4 for the purpose of investigation. On that date he appeared and requested that his plea of not guilty be withdrawn and that he be permitted to enter a plea of guilty to the charge contained in the information. He was thereafter charged by information with the commission of two prior felonies, to which he entered a plea of guilty. He was then sentenced to an indeterminate term in the State Reformatory at St. Cloud for a term not to exceed 20 years. He was subsequently transferred to the Security Hospital at St. Peter and while there instituted this proceeding for writ of habeas corpus.\nSince petitioner entered his plea of guilty, he has never claimed, nor does he now, that he was not guilty of the offense charged in the information. He claims a right to a writ of habeas corpus because, after petitioner entered a plea of guilty to two prior felonies and admitted that he had been informed that as a result thereof he could be sentenced to a term of not less than 10 nor more than 80 years, the court made a mistake in considering two prior felonies when he should have considered only one.\nUnder Minn. St. 1961, \u00a7 610.28, (now superseded by Minn. St. 609.155) a person convicted of a felony who has been convicted of one or more prior felonies may be sentenced to not less than twice the shortest term and not more than twice the longest term prescribed for a first conviction. Under this statute it makes no difference whether he has been guilty of one or two prior felonies. After petitioner pled guilty to two prior felonies the prosecuting attorney approached the bench and informed the court that at the time petitioner was convicted of the first of these two he was under the age of 18 and there was some question as to the validity of that conviction because the *314procedure followed had not been that required by our statutes. Nevertheless the court, in imposing sentence, said:\n\u201cIt is considered and adjudged that you, Gerald Leroy Wolfe, as punishment for the crimes of robbery in the first degree and of having had two previous convictions of felonies of which you have been convicted in this cause, be imprisoned in the State Reformatory at St. Cloud, * * *.\u201d (Italics supplied.)\nThere is no proof in the record that one of the two prior convictions was in fact invalid, although we may assume that to be the case. Regardless of that fact, under \u00a7 610.28 the court could have imposed a sentence twice the length of the maximum permitted for robbery in the first degree. Whether the court\u2019s reference to two prior convictions was a \u201cslip of the tongue\u201d or intentional we have no way of knowing, but we fail to see how petitioner has been prejudiced.\nThe court limited the sentence to 20 years, which was half the maximum which could have been imposed without any prior felonies. Minn. St. 1961, \u00a7 619.42. Consequently, the sentence was a valid one without reference to the charge of prior felonies. It was only one-fourth of the maximum that could have been imposed for only one prior felony. While there is a possibility that if the court had had in mind only one prior felony instead of two he might have limited the sentence to an even shorter term, that possibility is so remote, in light of the sentence imposed, that it furnishes no grounds for relief by habeas corpus when the sentence imposed was valid without reference to any prior felonies. The only thing that could be done at this stage would be to send the case back for resentencing. It is conceivable that if the court considered only one prior conviction petitioner could be sentenced for a much longer term than that which he received.\nPetitioner also contends that he was inadequately represented by appointed counsel because no action was taken when the prosecuting attorney called the court\u2019s attention to the invalidity of the first prior conviction. Here again we fail to see how petitioner was prejudiced in the light of the fact that the court imposed a sentence of only half as much as the statute permitted without reference to any prior convic*315tions. Examination of the record discloses that petitioner was adequately represented and we find no merit in this contention.\nWe are of the opinion that under the circumstances the trial court was correct in denying the petition for writ of habeas corpus.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7982901
+        }
+    ],
+    "court_short_name": "Supreme Court of Minnesota",
+    "court_full_name": "Supreme Court of Minnesota",
+    "court_type": "S",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

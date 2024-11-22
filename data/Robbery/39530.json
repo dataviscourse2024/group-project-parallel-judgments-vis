@@ -1,0 +1,46 @@
+{
+    "id": 7244237,
+    "judges": "Hargis",
+    "date_filed": -2703456000000,
+    "date_filed_is_approximate": false,
+    "slug": "hamilton-v-commonwealth",
+    "case_name_short": "Hamilton",
+    "case_name": "Hamilton v. Commonwealth",
+    "case_name_full": "Jane Hamilton v. Commonwealth",
+    "attorneys": "\nJohn Young Brown, for appellant.\n, \nP. W. Hardin, for appellee.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>[Abstract Kentucky Law Reporter, Vol. 5 \u2014 929.]</p> <p>Robbery \u2014 Instruction.</p> <p>An instruction in a robbery case is erroneous which charges that if the jury believe beyond a reasonable doubt that the accused made an assault upon the prosecuting witness and against his will forcibly took from him the money, he is guilty of robbery, for in such a case the commonwealth is required to show that the money was taken feloniously from the witness\u2019 person or his possession and by putting him in fear of some personal injury or danger to his life.</p>",
+    "summary": "APPEAL FROM HENDERSON CIRCUIT COURT.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "12 Ky. Op. 613"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hargis",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion by\nJudge Hargis :\nThis was an indictment for robbery alleged to have been committed by assaulting and putting G. W. Tapp in fear of injury to his person and danger of his life and feloniously taking from him against his will the sum of $25. On the trial the court instructed the jury in substance that if they believed beyond a reasonable doubt that the accused made an assault upon Tapp and against his will forcibly took from him the money the law is against the accused.\nThis instruction was the only one given and it is fatally erroneous because it fails to require the commonwealth to show that the money was taken feloniously from Tapp\u2019s person or his possession and by putting him in fear of some personal injury or danger to his life. 3 Greenleaf on Evidence (14th ed.), \u00a7\u00a7 223-228. The plea of former conviction was groundless.\nWherefore the judgment is reversed and cause remanded with directions to grant' appellant a new trial.\n",
+            "ocr": true,
+            "opinion_id": 7156692
+        }
+    ],
+    "court_short_name": "Court of Appeals of Kentucky",
+    "court_full_name": "Court of Appeals of Kentucky",
+    "court_type": "SA",
+    "court_jurisdiction": "Kentucky, KY",
+    "crime_category": "Robbery"
+}

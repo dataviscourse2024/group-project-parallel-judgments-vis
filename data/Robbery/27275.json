@@ -1,0 +1,46 @@
+{
+    "id": 4766520,
+    "judges": null,
+    "date_filed": 1594166400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-murry",
+    "case_name_short": "Murry",
+    "case_name": "People v. Murry",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2020 NY Slip Op 3805"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2020/2020_03805.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Murry (2020 NY Slip Op 03805)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Murry\r\n\r\n\r\n2020 NY Slip Op 03805\r\n\r\n\r\nDecided on July 8, 2020\r\n\r\n\r\nAppellate Division, Second Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on July 8, 2020\r\nSUPREME COURT OF THE STATE OF NEW YORK\r\nAppellate Division, Second Judicial Department\r\n\r\nMARK C. DILLON, J.P.\r\nSHERI S. ROMAN\r\nHECTOR D. LASALLE\r\nPAUL WOOTEN, JJ.\r\n\r\n\r\n2016-00345\r\n (Ind. No. 15-00239)\r\n\r\n[*1]The People of the State of New York, respondent,\r\nvJamar S. Murry, appellant.\r\n\r\n\r\nWalter J. Storey, Goshen, NY, for appellant.\r\nDavid M. Hoovler, District Attorney, Goshen, NY (William C. Ghee of counsel), for respondent.\r\n\r\n\r\n\r\nDECISION &amp; ORDER\r\nAppeal by the defendant from a judgment of the County Court, Orange County (Robert H. Freehill, J.), rendered December 3, 2015, convicting him of burglary in the first degree, upon his plea of guilty, and imposing sentence.\r\nORDERED that the judgment is affirmed.\r\nThe defendant contends that his plea allocution was insufficient because the County Court failed to inquire into a possible intoxication defense. This contention is unpreserved for appellate review, since the defendant did not move to withdraw his plea in the County Court on this ground (see People v Lopez, 71 NY2d 662, 665; People v Ovalle, 112 AD3d 971, 972; People v Devodier, 102 AD3d 884, 884).\r\nContrary to the defendant's contention, the \"rare case\" exception to the preservation requirement does not apply here, as the defendant's recitation of the facts underlying the crime to which he pleaded guilty did not clearly cast significant doubt on his guilt, negate an essential element of the crime, or call into question the voluntariness of the plea (see People v Lopez, 71 NY2d at 666; People v Lujan, 114 AD3d 963, 964; People v Williams, 110 AD3d 746, 747). In any event, we find that the plea was knowingly, voluntarily, and intelligently entered (see People v Harris, 61 NY2d 9; People v Sloane, 177 AD3d 671, 672).\r\nThe defendant's valid waiver of his right to appeal precludes appellate review of his claim that the imposed sentence was excessive (see People v Lopez, 6 NY3d 248, 256; People v D'Andria, 170 AD3d 881; People v Swen, 164 AD3d 926).\r\nDILLON, J.P., ROMAN, LASALLE and WOOTEN, JJ., concur.\r\nENTER:\r\nAprilanne Agostino\r\nClerk of the Court\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4546867
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 4164934,
+    "judges": "Morrow",
+    "date_filed": -1164931200000,
+    "date_filed_is_approximate": false,
+    "slug": "brady-v-state",
+    "case_name_short": "Brady",
+    "case_name": "Brady v. State",
+    "case_name_full": "Joe Brady v. the State",
+    "attorneys": "John L. Polder,  of Fort Worth, for appellant.\n\n Lloyd W Davidson,  State's Attorney, of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the Criminal District Court of Tarrant County. Tried below before the Hon. George E. Hosey, Judge.\n\nAppeal from a conviction for conspiracy to commit theft; penalty, confinement in the penitentiary for two years.\n\n Reversed and remanded. \n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<p data-order=\"0\" data-type=\"docketnumber\" id=\"b563-6\">\n    FEBRUARY, 1933\n   </p><br><parties data-order=\"1\" data-type=\"parties\" id=\"b563-7\">\n    Joe Brady v. The State.\n   </parties><br><docketnumber data-order=\"2\" data-type=\"docketnumber\" id=\"b563-8\">\n    No. 15570.\n   </docketnumber><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"AEEe\">\n    Delivered February 1, 1933.\n   </decisiondate><br><citation data-order=\"4\" data-type=\"citation\" id=\"b563-9\">\n    Reported in 56 S. W. (2d) 879.\n   </citation><br><p data-order=\"5\" data-type=\"summary\" id=\"b563-19\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b563-20\">\n<em>\n     John L. Poulter,\n    </em>\n    of Fort Worth, for appellant.\n   </attorneys><br><attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b563-21\">\n<em>\n     Lloyd W Davidson,\n    </em>\n    State\u2019s Attorney, of Austin, for the State.\n   </attorneys>",
+    "citations": [
+        "56 S.W.2d 879",
+        "122 Tex. Crim. 539"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrow",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Conspiracy to commit theft is the offense; penalty assessed at confinement in the penitentiary for two years.\nIt is charged that R. H. Masters and Joe Brady made a positive agreement with each other to unlawfully and fraudulently take from the possession of Roy Binyon, the owner, two cases of cigarettes of the value of $67.50.\nFrom the testimony of Masters, it appears that he and *Page 540 \nBrady made an agreement to steal some cigarettes; that Followell was taken into the agreement. From the testimony of Masters we quote: \"As I stated, the understanding that I had with Mr. Followell and Mr. Brady was, Mr. Followell was to haul the goods out and Mr. Brady was to take them from Mr. Followell and they were to split three ways &#8212; whatever they got out of it I got a third, Mr. Followell got a third and Mr. Brady got a third.\"\nAccording to the testimony of Followell, his understanding of the agreement was in accord with that mentioned above. He also testified that he notified the officers of the agreement. He said that it was understood that Masters should notify the appellant when the cigarettes were on the truck and where to be taken. Two cases of cigarettes were taken from Followell's truck as he drove past Masters and the appellant. Followell gave them a signal which had been agreed upon, showing that he had the property which was to be stolen. Appellant acknowledged the signal and followed the truck, which stopped at a suburban store. Followell got out and went into the store. Appellant got out of the automobile in which he had followed the truck and took the cigarettes therefrom. He was immediately placed under arrest by an officer. The cigarettes were worth more than $100.\nAn officer testified that he arrested the appellant and that he had been informed by Followell of the agreement mentioned above. Followell testified that he had no intention of profiting by the transaction and that he notified the officers of the agreement. Throughout the testimony, it is quite apparent that such agreement as was made contemplated taking the property from the Binyon-O'Keefe Company. There is no testimony to the effect that the agreement was to take property from Binyon as an individual. Binyon's testimony is as follows: \"If a conspiracy was entered into between this defendant and R. H. Masters and Mr. Followell or anybody else to take those cigarettes from me I know nothing of the conspiracy, and don't know anything about their agreement, if they had such an agreement. These cigarettes were in my care and custody and control. We had them over there for R. J. Allen Company and were responsible for them.\"\nThe court instructed the jury that both Masters and Followell were accomplices, and that a conviction could not be had upon their testimony unless corroborated. Whether Followell was to be regarded by the jury as an accomplice might have been submitted to them as a question of fact. See Davis v. *Page 541 \nState, 70 Tex.Crim. Rep.; Smith v. State, 89 Tex. Crim. 145; Sowells v. State, 99 Tex.Crim. Rep.; Pauly v. State, 93 Tex.Crim. Rep.. The question before the court was not the theft of the property but a conspiracy to steal the property of Roy Binyon. We have perceived no testimony which would meet the measure of the law which forbids a conviction upon the uncorroborated testimony of an accomplice, as set out in article 718, C. C. P., 1925.\nIt seems apparent also that the agreement described in the evidence differs from that described in the indictment. The indictment charges that the agreement was to take property from Roy Binyon. The evidence shows that it was the Binyon-O'Keefe Company that was to be the victim.\nFor the reason stated, the judgment is reversed and the cause remanded.\nReversed and remanded.",
+            "ocr": false,
+            "opinion_id": 3931410
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

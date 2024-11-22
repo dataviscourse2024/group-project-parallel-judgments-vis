@@ -1,0 +1,46 @@
+{
+    "id": 5213798,
+    "judges": "Morrison",
+    "date_filed": 44668800000,
+    "date_filed_is_approximate": true,
+    "slug": "gray-v-state",
+    "case_name_short": "Gray",
+    "case_name": "Gray v. State",
+    "case_name_full": "J. B. GRAY v. The STATE of Texas",
+    "attorneys": "Victor R. Blaine, Houston, for appellant., Carol S. Vance, Dist. Atty., James C. Brough and Jim Skelton, Asst. Dist. Attys., Houston, and Jim D. Vollers, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Reh\u00e9aring Denied July 28, 1971.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "468 S.W.2d 851"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nMORRISON, Judge.\nThe offense is felony theft; the punishment assessed by the court at eight (8) years.\nAppellant\u2019s first ground of error is that it was not shown that Charles Boysen, Jr., who was alleged to be the person from whom the property was stolen, had the care, control and custody of the property which was stolen. Boysen testified that he was the Assistant Store Manager for the store in question and that he had control of the area from which it *852was stolen. Reliance is had upon Roberts v. State, Tex.Cr.App., 377 S.W.2d 656 and Williams v. State, 101 Tex.Cr.R. 523, 276 S.W. 282. In Roberts it was not shown that the goats recovered were the property of the rancher named in the indictment as the injured party. In Williams the court said:\n\u201cIt will be observed that this witness utterly fails to testify to any fact that would lead to the conclusion that he was in possession of this property at the time it was stolen.\u201d\nThe State relies upon Porter v. State, 172 Tex.Cr.R. 366, 357 S.W.2d 401 which we deem controlling and overrule appellant\u2019s first ground of error.\nAppellant\u2019s second ground of error is that the evidence is insufficient to show that the whiskey was worth $50.00. Boysen testified that he recovered from the Defendant eight fifths of Cutty Sark, one fifth of J &amp; B and one fifth of Johnny Walker. He further testified that he knew the value of Scotch whiskey on the day in question and the value of that which he recovered from appellant was of the total value of $64.36. Appellant\u2019s second ground of error is overruled.\nIn the State\u2019s brief they urge this Court to reform the judgment to make it read ten years rather than eight assessed by the Court, or remand this case to the trial court for assessment of proper punishment in view of the prior conviction alleged for enhancement.\nThis we decline to do because at the penalty hearing the State failed to read the portion of the indictment in which the prior conviction was alleged nor was appellant called upon to plead thereto and, further, the judge is the trier of the facts at such hearing and he chose not to enhance the punishment.\nFinding no reversible error, the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5037583
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

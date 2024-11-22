@@ -1,0 +1,46 @@
+{
+    "id": 5777684,
+    "judges": "Nichols",
+    "date_filed": -161654400000,
+    "date_filed_is_approximate": false,
+    "slug": "smith-v-state",
+    "case_name_short": null,
+    "case_name": "Smith v. State",
+    "case_name_full": "SMITH v. State",
+    "attorneys": "Walter B. Fincher, L. Paul Cobb. Jr., for plaintiff in error., William T. Boyd, Solicitor General, J. Robert Sparks, J. Walter LeCraw, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied December 2, 1964.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "110 Ga. App. 764"
+    ],
+    "opinions": [
+        {
+            "author_str": "Nichols",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nNichols, Presiding Judge.\nThe evidence authorized the charge of the trial court as to the necessity of the testimony of an accomplice being corroborated.\nThe charge on \u201cflight\u201d was not authorized by the evidence. The facts as shown by the record were that the automobile was stolen on December 4, 1962, that it was immediately delivered to the defendant by the accomplice, that on January 9, 1963, it was sold by the defendant to Burnett &amp; Tedder Motors, that in February, 1963, the automobile was sold by Burnett &amp; Tedder Motors to Albert Gary, that on June 6, 1963, it was discovered that the automobile might have been stolen, that after checking the automobile on July 10, 1963, a telephone call was placed to the defendant by Mr. Burnett of Burnett &amp; Tedder Motors, that Mr. McKibben, a special agent with the National Auto Theft Bureau, listened to such conversation on an extension \u2019phone, that on February 7, 1964, a true bill was returned by the grand jury charging the defendant with larceny of such auto*765mobile, that also on February 7, 1964, a policeman went to the defendant\u2019s place of business but did not mention the indictment or warrant issued thereon. That later on February 7, 1964, the defendant went to Moultrie, Ga., and was arrested two days later near Sylvester, Ga. The defendant in his statement referred to the telephone conversation and to the police officer coming to his place of business \u201cthat day\u201d (the day he went to Moultrie) but it is obvious from a reading of the entire record that the defendant was speaking of \u201cthat day\u201d when the police officer came to his place of business and not \u201cthat day\u201d when he received the telephone call some seven months previously.\nWhile the charge on \u201cflight\u201d was correct as an abstract principle of law (see Kalb v. State, 195 Ga. 544, 25 SE2d 24), evidence that the defendant went out of town a year after the date of the alleged crime, seven months after being questioned about such crime, and at a time when it was not shown that he knew of the indictment returned against him, is not sufficient to authorize such charge. The trial court erred in overruling such ground of the motion for new trial.\nThe usual general grounds of the motion for new trial will not be passed upon inasmuch as the evidence on another trial may not be the same.\n\nJudgment reversed.\n\n\nHall and Bussell, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5631421
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

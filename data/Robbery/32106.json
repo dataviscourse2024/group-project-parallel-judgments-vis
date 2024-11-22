@@ -1,0 +1,46 @@
+{
+    "id": 5764565,
+    "judges": "Bloodworth",
+    "date_filed": -1393027200000,
+    "date_filed_is_approximate": false,
+    "slug": "mitchell-v-state",
+    "case_name_short": null,
+    "case_name": "Mitchell v. State",
+    "case_name_full": "MITCHELL v. State",
+    "attorneys": "D. S. Strickland, for plaintiff in error., E. S. Griffith, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "34 Ga. App. 505"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bloodworth",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBloodworth, J.\nPlaintiff in error was tried for burglary, and the jury returned the following verdict: \u201cWe, the jury, find the defendant guilty, and recommend him to the mercy of the court.\u201d This verdict was received by the judge and he fixed the term of punishment at from five to ten years. A motion in arrest of judgment was filed, in which it was urged that the verdict was illegal and should not have been received, that the court, under the indeterminate-sentence law, had no power or authority to fix the penalty, but that the jury alone had this power. The motion was overruled, and the defendant excepted.\nThe indeterminate-sentence law (Ga. L. 1919, p. 387; Park\u2019s Code Supp. 1922, vol. 11, \u00a7 1081-e) provides that \u201cthe jury in their verdict on the trial of all cases of felony not punishable by life imprisonment shall prescribe a minimum and maximum term.\u201d This provision of the law is emphasized by the further provision that \u201cin cases of pleas of guilty, then the judge shall have the right to prescribe such minimum and maximum term as he may see fit.\u201d\nThe identical question before us has never been passed upon by either of the appellate courts of Georgia. The nearest approach to it is the case of Sirmans v. State, 28 Ga. App. 122 (110 S. E. 622). In that case the crime charged was the same as in this case, and the jury returned the following verdict: \u201cWe, the jury, find the defendant guilty, and recommend that he be punished as for a misdemeanor.\u201d Thereupon the court told the jury: \u201cYour verdict is not in proper form. It will be necessary for you to return to your room and fix the minimum and maximum penalty.\u201d The jury complied with these instructions, and this court held that the instructions of the trial judge were proper. This amounted to a holding that it was necessary for the jury to fix a minimum and maximum sentence, and the principle there settled is controlling in this case.\nWe are supported in the conclusion which we have reached by the following cases from other States: In the ease of Nemo v. Commonwealth, 2 Gratt. (Va.), 558, the jury rendered an im*507proper verdict as to punishment, and the court erroneously entered judgment thereon. In that case the appellate court said: \u201cThe verdict itself was manifestly illegal; the jury having ascertained a term of imprisonment shorter than that prescribed by law. But in rendering a judgment for a different and longer term, the court departed from the settled practice in criminal prosecutions, and assumed the peculiar province of the jury. . . The proper course would have been to have sent the jury back with proper instructions, to reconsider their verdict. . . It would be dangerous in criminal cases to authorize that to be done in one mode which the law requires to be done in another. . . The course of proceeding pointed out by the statute may be more or less convenient; but it is the only legal mode; and we have no power to carve out another.\u201d \u201cIn criminal cases the jury must assess the punishment of the defendant, if found guilty, and the judgment of the court must follow the verdict. If the punishment assessed by the jury is not in conformity with the provisions of the statute, the court should see that the jury correct their verdict; but the court is not authorized to render judgment for any other or different punishment than that assessed by the jury.\u201d Clark v. State, 77 Ind. 399.\nIn Harwell v. State, 19 Tex. App. 423, the statute in Texas required the jury to hear evidence and fix punishment in case of pleas of guilty, and the Court of Appeals of Texas held: \u201cThis provision of the statute is mandatory, and instead of being merely for the benefit of the defendant, it is more especially designed to protect the interest of the State by preventing aggravated cases of crime being compromised by the assessment of the minimum punishment fixed by law. Failure to comply with this provision of the statute in cases to which it applies is fundamental error.\u201d In Josef v. State, 33 Tex. Cr. App. 251, the court held that \u201cthe statute is mandatory, and its disregard fundamental error.\u201d The opinion concludes with: \u201cThe legislature has so ordered, and the court should enforce the law.\u201d In the case of Nelson v. State, 46 Ala. 186, the first headnote is as follows: \u201cA party who is prosecuted for an assault with intent to murder, by indictment, in the circuit court, and who confesses himself guilty of an assault and battery with a pistol must have The amount of the fine . . fixed and determined by a jury/ The fine can not be fixed by the court in such a ease.\u201d And in the opinion (p. 188) the court *508said: \u201cThe judgment in this case was without warrant of law. In prosecutions by indictment the jury alone can \u2018fix and determine the amount of the fine/ except when an offense may be punished, in addition to a fine, by imprisonment or hard labor for the county. Here the charge was for an offense punishable by imprisonment in the penitentiary without fine, and the conviction was for an offense punishable by fine, . . and the punishment could not be fixed by the court but only by a jury. Then, the fixing of the fine by the court, without the intervention of a jury, was erroneous. In such a case as this a jury should determine the fine.\u201d \u201cThe jury must assess the punishment, and the judgment must be according to the verdict. The verdict itself was defective in not assessing a penalty of the sort, and the jury .should have been on that account sent back for further deliberation, that they might have corrected it.\u201d Wilson v. State, 28 Ind. 394.\nThe court erred in overruling the motion in arrest of judgment.\n\nJudgment reversed.\n\n\nBroyles, O. J., and Lulce, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5617336
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1131427,
+    "judges": "Per Curiam",
+    "date_filed": 965779200000,
+    "date_filed_is_approximate": false,
+    "slug": "mcclendon-v-state",
+    "case_name_short": "McClendon",
+    "case_name": "McClendon v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "765 So. 2d 247"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n765 So.2d 247 (2000)\nBernard McCLENDON, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 1D00-1503.\nDistrict Court of Appeal of Florida, First District.\nAugust 9, 2000.\n*248 Appellant Bernard McClendon, pro se, DeFuniak Springs.\nRobert A. Butterworth, Attorney General, Tallahassee, for Appellee.\nPER CURIAM.\nBernard McClendon appeals the summary denial of his motion for postconviction relief filed pursuant to Florida Rule of Criminal Procedure 3.850. We reverse the denial of two of his claims.\nFirst, in addressing McClendon's claim that defense counsel failed to act upon being informed that one of the jurors was sleeping, the trial court resolved factual issues. Because this claim should not have been subject to summary denial, we reverse and remand for further proceedings under the rule. See Bieser v. State, 677 So.2d 59 (Fla. 1st DCA 1996); Kesick v. State, 448 So.2d 644 (Fla. 4th DCA 1984).\nSecond, the trial court failed to address McClendon's claim that defense counsel was ineffective for failing to request a jury instruction on resisting a merchant. McClendon was charged with armed robbery and, as he asserts, \"[t]he charge of resisting a merchant is a permissive lesser included offense of robbery.\" Epps v. State, 728 So.2d 761, 762 (Fla. 2d DCA 1999); accord Maldanado v. State, 691 So.2d 61 (Fla. 3d DCA 1997); Duval v. State, 688 So.2d 1002 (Fla. 2d DCA 1997). \"[A] lesser offense may be a category-two permissive lesser included offense if its elements are alleged in the accusatory pleading and proven at the trial.\" Taylor v. State, 608 So.2d 804, 805 (Fla.1992). \"An instruction on a permissive lesser included offense must be given `when the pleadings and the evidence demonstrate that the lesser offense is included in the offense charged.'\" Duval, 688 So.2d at 1003; see Bateson v. State, 516 So.2d 280, 282 (Fla. 1st DCA 1987) (on motion for rehearing, this court explained that \"[w]hether a category two instruction should be given depends upon the circumstances of a given case\"). Accordingly, we also reverse and remand the denial of this claim for further proceedings under the rule.\nREVERSED and REMANDED.\nERVIN, MINER, and KAHN, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1131427
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

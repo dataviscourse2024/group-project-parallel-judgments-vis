@@ -1,0 +1,47 @@
+{
+    "id": 1313793,
+    "judges": "Undercofler",
+    "date_filed": 200102400000,
+    "date_filed_is_approximate": false,
+    "slug": "billups-v-state",
+    "case_name_short": "Billups",
+    "case_name": "Billups v. State",
+    "case_name_full": "Billups v. the State",
+    "attorneys": "Marjorie King, Paul McGee, for appellant., Arthur K. Bolton, Attorney General, Susan Boleyn, Lewis R. Slaton, District Attorney, Donald J. Stein, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted April 16, 1976, Rehearing denied June 8, 1976.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b948-12\">\n    31035.\n   </docketnumber><parties id=\"Amz\">\n    BILLUPS v. THE STATE.\n   </parties>",
+    "citations": [
+        "225 S.E.2d 887",
+        "236 Ga. 922"
+    ],
+    "opinions": [
+        {
+            "author_str": "Undercofler",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4101.0,
+            "opinion_text": "\n236 Ga. 922 (1976)\n225 S.E.2d 887\nBILLUPS\nv.\nTHE STATE.\n31035.\nSupreme Court of Georgia.\nSubmitted April 16, 1976.\nDecided May 5, 1976.\nRehearing Denied June 8, 1976.\nMarjorie King, Paul McGee, for appellant.\nArthur K. Bolton, Attorney General, Susan Boleyn, Lewis R. Slaton, District Attorney, Donald J. Stein, Assistant District Attorney, for appellee.\nUNDERCOFLER, Presiding Justice.\nWymon Billups was convicted of armed robbery and sentenced to serve 20 years. He was also convicted of aggravated assault and sentenced to serve 10 years consecutively. He appeals to this court. Held:\n1. The appellant contends that the trial court erred in failing to instruct the jury properly as to the defense of alibi.\nThe record shows that the trial court properly charged on the defense of alibi. However, it did not charge on the definition of alibi in the exact words of Code \u00a7 38-122. There is no merit in this contention of the appellant. Any fuller instruction desired on the defense of alibi should have been requested in writing. Thomas v. State, 18 Ga. App. 101 (4) (88 S.E. 917) (1916); McDonald v. State, 21 Ga. App. 125 (4) (94 S.E. 262) (1917).\n2. The appellant contends that the trial court erred in charging the jury, \"... the defendant, Gail, as well as the defendant Wymon, each contend that they weren't present at the time and place the alleged crimes were committed...\" (Emphasis supplied.) It is asserted that the trial court stated the contention of the appellant incorrectly because the appellant made no contention as *923 to the issue of the presence of the co-defendant at the time of the offense.\nThere is no merit in this contention. Throughout the charge the trial court used the term \"each\" and indicated that their contentions were separate. The statement made in the complained of charge is, \"A mere verbal inaccuracy in a charge, which results from a palpable `slip of the tongue,' and clearly could not have misled or confused the jury.\" Siegel v. State, 206 Ga. 252 (2) (56 SE2d 512) (1949).\nJudgment affirmed. All the Justices concur.\n",
+            "ocr": false,
+            "opinion_id": 1313793
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

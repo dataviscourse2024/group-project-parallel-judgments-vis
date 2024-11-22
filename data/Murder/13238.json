@@ -1,0 +1,46 @@
+{
+    "id": 1638704,
+    "judges": "Daniel E. Scott",
+    "date_filed": 1263945600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-cothern",
+    "case_name_short": "Cothern",
+    "case_name": "State v. Cothern",
+    "case_name_full": "STATE of Missouri, Respondent, v. Ferrell COTHERN, Appellant",
+    "attorneys": "Ellen H. Flottman, Columbia, MO, for Appellant., Chris Koster, Asst. Gen., Mary H. Moore, Asst. Atty. Gen., Jefferson City, MO, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b152-28\">\n    STATE of Missouri, Respondent, v. Ferrell COTHERN, Appellant.\n   </parties><docketnumber id=\"ANa\">\n    No. SD 29669.\n   </docketnumber><br><court id=\"b152-32\">\n    Missouri Court of Appeals, Southern District, Division Two.\n   </court><br><decisiondate id=\"b152-34\">\n    Jan. 20, 2010.\n   </decisiondate><br><attorneys id=\"b153-7\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"135\"> \n     *135\n     </span>\n    Ellen H. Flottman, Columbia, MO, for Appellant.\n   </attorneys><br><attorneys id=\"b153-8\">\n    Chris Koster, Asst. Gen., Mary H. Moore, Asst. Atty. Gen., Jefferson City, MO, for Respondent.\n   </attorneys>",
+    "citations": [
+        "301 S.W.3d 134"
+    ],
+    "opinions": [
+        {
+            "author_str": "Scott",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n301 S.W.3d 134 (2010)\nSTATE of Missouri, Respondent,\nv.\nFerrell COTHERN, Appellant.\nNo. SD 29669.\nMissouri Court of Appeals, Southern District, Division Two.\nJanuary 20, 2010.\n*135 Ellen H. Flottman, Columbia, MO, for Appellant.\nChris Koster, Asst. Gen., Mary H. Moore, Asst. Atty. Gen., Jefferson City, MO, for Respondent.\nDANIEL E. SCOTT, Chief Judge.\nFerrell Cothern (Defendant) went into Ruth Gilbert's home and shot her. A jury found him guilty of first-degree assault and other offenses. He challenges two evidentiary rulings that he concedes were matters of trial court discretion which we will not disturb without a clear showing of abuse \u0097 i.e., a ruling so unreasonable, arbitrary, and clearly against the logic of the circumstances that it shocks the sense of justice and indicates a lack of careful, deliberate consideration. See State v. Cummings, 134 S.W.3d 94, 102 (Mo.App.2004). An extended description of the facts and proceedings is not needed to address Defendant's points.\n\nPoint I\nPoint I asserts that the trial court abused its discretion by:\noverruling defense counsel's objection to the testimony of criminalist Todd Garrison about the gunshot residue on Ruth Gilbert's nightgown ... in that the state did not disclose Mr. Garrison's examination of the nightgown until the day of trial. . . . Appellant was prejudiced because... Mr. Garrison's testimony about the carbon on the nightgown would have been critical. . . . [Emphasis added.]\nThe State replies that such objection was sustained, not overruled; and that Mr. Garrison did not identify the nightgown, mention it in his testimony, or say anything about carbon or gunshot residue thereon. Defendant filed no reply brief arguing otherwise, and we read the record as the State does. Point I fails.\n\nPoint II\nTammy Peat, an EMT at the crime scene, testified about the victim's condition and described the gunshot wound as life threatening and of a type that usually causes death. Defendant objected to this follow-up testimony:\nQ: Ms. Peat, if I give you a legal definition of a serious physical injury is a physical injury that creates a substantial risk of death or that causes serious disfigurement or protracted loss of impairment of any function of the body. Do you have an opinion, based on your EMT training and your experience in the field as to whether Ruth Gilbert suffered a serous [sic] physical injury that evening?\nA: Yes, she did, in my opinion.\n*136 Point II portrays this question and answer as invading the province of the jury and \"conclusory as to the ultimate issue of an element of the offense,\" citing State v. Clements, 789 S.W.2d 101 (Mo.App.1990).\nClements was a first-degree murder case where a psychiatrist opined, at the State's behest, that the defendant acted with deliberation. This court said the witness \"was not an expert,\" despite his professional qualifications, \"on the paramount issue of whether, at the time of the homicide, defendant in fact deliberated.\" Id. at 110. The psychiatrist's opinion that the defendant deliberated \"was incompetent.\" Id. Deliberation vel non was a determination within the capability of lay jurors, and ultimately for them alone under appropriate instructions. Id.\nClements differs greatly from this case. \"Expert\" testimony about a party's past thoughts is a far cry from an EMT describing the nature and severity of physical injuries that she treated. Defendant did not object to Ms. Peat's testimony that the wound was life threatening and usually caused death, and does not argue that Ms. Peat was not qualified to say so, or for that matter, to opine that the victim faced a substantial risk of death, serious disfigurement, or protracted loss or impairment of bodily function.\nWe think the problem, if any, was not that the prosecutor's question included words from a statute or MAI, but that he called them a \"legal definition.\" Jurors should get legal definitions from the court, at least in the first instance, not from lawyers or witnesses.\nNonetheless, the trial court did not abuse its broad discretion by allowing this question and answer, especially given the evidence of a life-threatening wound that usually results in death. Since the challenged testimony, at worst, was cumulative of properly admitted evidence, it was not prejudicial. Elliott v. State, 272 S.W.3d 924, 926 (Mo.App.2009)(improperly admitted evidence not prejudicial when other evidence establishes essentially same facts). We deny Point II and affirm the judgment.\nLYNCH, P.J., and RAHMEYER, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1638704
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

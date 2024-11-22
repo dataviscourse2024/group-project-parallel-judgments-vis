@@ -1,0 +1,46 @@
+{
+    "id": 279378,
+    "judges": "Edwards, McCREE, Per Curiam, Weick",
+    "date_filed": -56332800000,
+    "date_filed_is_approximate": false,
+    "slug": "james-l-wooliver-v-c-murray-henderson-warden-tennessee-state",
+    "case_name_short": null,
+    "case_name": "James L. Wooliver v. C. Murray Henderson, Warden, Tennessee State Penitentiary",
+    "case_name_full": "James L. WOOLIVER, Petitioner-Appellant, v. C. Murray HENDERSON, Warden, Tennessee State Penitentiary, Respondent-Appellee",
+    "attorneys": "James L. Wooliver in pro. per., Robert H. Dedman, Sp. Counsel, State of Tennessee, David W. McMackin, Asst. Atty. Gen., Nashville, Tenn., for appellee, George F. McCanless, Atty. Gen., State of Tennessee, of counsel.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b788-3\">\n    James L. WOOLIVER, Petitioner-Appellant, v. C. Murray HENDERSON, Warden, Tennessee State Penitentiary, Respondent-Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b788-5\">\n    No. 18065.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b788-6\">\n    United States Court of Appeals Sixth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b788-7\">\n    March 20, 1968.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b788-12\">\n    James L. Wooliver in pro. per.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b788-13\">\n    Robert H. Dedman, Sp. Counsel, State of Tennessee, David W. McMackin, Asst. Atty. Gen., Nashville, Tenn., for appellee, George F. McCanless, Atty. Gen., State of Tennessee, of counsel.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b788-14\">\n    Before WEICK, Chief Judge, and EDWARDS and McCREE, Circuit Judges.\n   </p>",
+    "citations": [
+        "391 F.2d 712"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/391/391.F2d.712.18065_1.html",
+            "author_id": null,
+            "opinion_text": "391 F.2d 712\n    James L. WOOLIVER, Petitioner-Appellant,v.C. Murray HENDERSON, Warden, Tennessee State Penitentiary,Respondent-Appellee.\n    No. 18065.\n    United States Court of Appeals Sixth Circuit.\n    March 20, 1968.\n    \n      James L. Wooliver in pro. per.\n      Robert H. Dedman, Sp. Counsel, State of Tennessee, David W. McMackin, Asst. Atty. Gen., Nashville, Tenn., for appellee, George F. McCanless, Atty. Gen., State of Tennessee, of counsel.\n      Before WEICK, Chief Judge, and EDWARDS and McCREE, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      This is an appeal from a denial of a writ of habeas corpus by the United States District Court for the Middle District of Tennessee.  Appellant attacks his conviction in Tennessee Courts as federally unconstitutional on the grounds that along with the charge of burglary, he was likewise charged with being an habitual criminal, and under then existing Tennessee Law1 prior convictions were admitted as to the latter charge before the jury which also heard the burglary charge.\n    \n    \n      2\n      Here the District Judge found 'limiting instructions' at the state trial designed to tell the jury that such convictions should be 'admissible * * * only as proof' on the habitual criminal charge.  See T.C.A. 40-2804.\n    \n    \n      3\n      As the District Judge pointed out in his opinion, the majority of the United States Supreme Court has squarely determined that this procedure is not violative of the federal Constitution, even though the instructions may be 'inadequate' to vitiate the prejudice.  Spencer v. State of Texas, 385 U.S. 554, 562, 87 S. Ct. 648, 17 L. Ed. 2d 606 (1967).\n    \n    \n      4\n      For these reasons and those advanced in the opinion of the court, the judgment of the United States District Court is affirmed.  Haggard v. Henderson, 382 F.2d 288 (6th Cir. 1967).\n    \n    \n      \n        1\n         See Harrison v. State, 217 Tenn. 31, 394 S.W.2d 713 (1965)\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 279378
+        }
+    ],
+    "court_short_name": "Sixth Circuit",
+    "court_full_name": "Court of Appeals for the Sixth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

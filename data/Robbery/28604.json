@@ -1,0 +1,46 @@
+{
+    "id": 5058652,
+    "judges": null,
+    "date_filed": 1337904000000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-seiler",
+    "case_name_short": "Seiler",
+    "case_name": "State v. Seiler",
+    "case_name_full": "STATE of Louisiana v. Mark SEILER",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "89 So. 3d 1159"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM*\n^Granted. The State sought review on writ of certiorari to the Court of Appeal, Fourth Circuit, of the trial court\u2019s ruling granting the defendant\u2019s Motion to Suppress. The Court of Appeal denied the writ, and, at the request of this court, the trial court submitted a per curiam. For the reasons set forth below, we reverse the ruling of the trial court and deny the defendant\u2019s Motion to Suppress.\nLouisiana jurisprudence has long recognized the legitimacy of the \u201cknock and talk\u201d approach by police. As this court has recognized before, there is a distinction between the police detaining a suspect on the street and the police knocking on a suspect\u2019s door. State v. Sanders, 374 So.2d 1186, 1188 (La.1979). \u201cWhen stopped on the street, a suspect has no choice but to submit to the authority of the police. When the door is opened in response to a knock, it is a consent of the occupant to confront the caller.\u201d Id. In this instance, defendant\u2019s home was the subject of a recent burglary. Upon information received from the burglary suspect there was contraband in the home, police officers from both the New Orleans Police Property Crimes Unit and officers from the Narcotics Unit traveled to defendant\u2019s home to investigate. When the officers knocked on the defendant\u2019s |2door, they requested and were granted entry into his home by the defendant himself. As a result, we do not find the officers were unlawfully in that place at that time.\nThe trial court, to justify its ruling suppressing evidence, stated in its per curiam the officers used a \u201cpretext\u201d to gain entry to the defendant\u2019s home, in that the officers attempted to enter the defendant\u2019s home under the guise of a continuing burglary investigation, and not a narcotics investigation. However, the United States Supreme Court ruled in Scott v. United States, 436 U.S. 128, 138, 98 S.Ct. 1717, 1723, 56 L.Ed.2d 168 (1978), \u201cthe fact that the officer does not have the state of mind which is hypothecated by the reasons which provide the legal justification for the officer\u2019s action does not invalidate the action taken as long as the circumstances, viewed objectively, justify that action.\u201d In other words, if the officers had an objective right to knock on the defendant\u2019s door and ask to be admitted, it is of no moment the reason they were admitted may not have been the full reason they were at the defendant\u2019s home in the first place. Here, detectives knocked on the defendant\u2019s door, informed him they were there to investigate the burglary, and they were granted entry voluntarily by the defendant. See, Sanders, 374 So.2d at 1188.\nUpon entry, Detective John O\u2019Brien testified he became immediately aware of the strong odor of marijuana. Detective O\u2019Brien also testified he observed on a sofa in the front room of the defendant\u2019s home, in plain view, an open aluminum Altoid can with a butt of mari*1161juana inside the can. It is well established \u201c[w]hen an officer inadvertently observes evidence of a crime from a vantage point that does not intrude upon a protected area or when that protected area is entered with prior justification, there is no violation of the search warrant rule because there has been no \u2018search\u2019....\u201d State v. Brown, 370 So.2d 525 (La.1979). See also, Coolidge v. New Hampshire, 403 U.S. 443, 466, 91 S.Ct. 2022, 2038, 29 L.Ed.2d_|564 (1971) (the court noting the plain view doctrine has been applied where a police officer is not searching for evidence against the accused, but nonetheless inadvertently comes across an incriminating object). Because Detective O\u2019Brien smelled marijuana and observed marijuana in plain view in the defendant\u2019s home, there was probable cause to detain the defendant and search the Home. Consequently, we find the trial court was incorrect in stating \u201c[njothing was cited in plain view that would have given rise to a narcotic arrest.\u201d1\nAfter the officers detained the defendant and recited to him his Miranda warnings, the defendant informed the officers there was a shotgun in his bedroom, which was secured by another officer at the scene. When Detective O\u2019Brien asked defendant if there was other contraband in the home, the defendant responded there was none. Detective O\u2019Brien asked if he could search the defendant\u2019s home, and defendant declined to give consent. It was at that point Detective O\u2019Brien prepared and obtained a search warrant, which ultimately produced several items that are the subject of the instant Motion to Suppress. Based upon this sequence of events and the transcripts of the testimony submitted in support of the writ application by the State, we find the trial court was in error in finding \u201c[t]he officers admitted that they did not have probable cause to get a warrant to search for narcotics, but nonetheless went there for that purpose.\u201d We find no such admission in the testimony before us.\nThe trial court\u2019s ruling suppressing the evidence is reversed, and the Defendant\u2019s Motion to Suppress is denied. This matter is remanded to the trial court for further proceedings.\nREVERSED AND REMANDED.\n\n Kimball, C.J., not participating in this opinion.\n\n\n. It is important to note for purposes of the record that, based upon Detective O\u2019Brien's testimony, the trial court\u2019s per curiam is incorrect in stating \u201cnothing was cited in plain view that would have given rise to a narcotics arrest.\u201d\n\n",
+            "ocr": true,
+            "opinion_id": 4873659
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

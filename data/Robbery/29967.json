@@ -1,0 +1,47 @@
+{
+    "id": 5338068,
+    "judges": "Ailshie",
+    "date_filed": -1865721600000,
+    "date_filed_is_approximate": true,
+    "slug": "in-re-small",
+    "case_name_short": "In re Small",
+    "case_name": "In re Small",
+    "case_name_full": "In Re Application of ELSIE SMALL for a Writ of Habeas Corpus",
+    "attorneys": "H. A. Griffiths, for Petitioner., P. A. Hagelin, Prosecuting Attorney of Canyon County, and O. M. Yan Duyn, Assistant Attorney General, for the State., Counsel file no briefs.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Juvenile Delinquent Law \u2014 Not a Penal Statute \u2014 Sec. 6456, Rev. Codes not Afpl\u00edcable to.</p> <p>(Syllabus by tbe court.)</p> <p>1. Sec. 6456, Rev. Codes, which provides that \u201cevery person who wilfully assists any prisoner confined in any prison or in the lawful custody of any officer or person to escape, or in an attempt to escape from such prison or custody, is guilty of a felony,\u201d is not applicable to the prosecution of one who is charged with assisting a juvenile delinquent to escape from custody under the provisions of the juvenile delinquent law. (Act of March 2, 1905.)</p> <p>2. The act of March 2, 1905, entitled \u201cAn act to provide for the care of delinquent children,\u201d is not a penal or criminal statute, but a reformatory and charitable statute. (Affirming In re Sharp, 15 Ida. 120, 96 Pac. 563, 18 L. R. A., N. S., 886.)</p>",
+    "headnotes": null,
+    "summary": "Petitioner was prosecuted in the probate court of Canyon county under see. 6456, Rev. Codes, on the charge of assisting a prisoner to escape, and held to answer in the district court. A writ of habeas sorpus was applied for in the district court and the application denied. The facts were as follows: Petitioner\u2019s younger brother, Elmer Small, had been arrested under the juvenile delinquent law upon a charge of burglary and taken before the probate court, which committed him to the reform school under said law. The sheriff being unable, as it was claimed, to take the boy at once to the school, and being'forbidden by statute to incarcerate him in the county jail in the meantime, remanded him to the custody of his father until such time as he could carry into execution the order' of the court. Thereafter the petitioner absconded with the boy, and a few days later they were apprehended in the state of Oregon and returned to the custody of the sheriff.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 Idaho 1",
+        "116 P. 118"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ailshie",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe opinion of the court was delivered orally from the bench by\nAILSHIE, J.\n\u2014 In passing upon the constitutionality of the juvenile delinquent law (Act of March 2, 1905), in the case of In re Sharp (15 Ida. 120, 96 Pac. 563, 18 L. R. A., N. S., 886), the court held that it was not a penal or criminal statute, and that holding was in conformity with the decisions of the courts of several states in construing juvenile delinquent acts. Such an act as we have would not be constitutional if it were held to be a criminal statute. It is rather intended to be an educational and charitable statute, whereby the state reaches out and takes hold of those who are bereft of that parental care to which they are by nature entitled. So in that case the court held in substance that one would not be a prisoner within the meaning of penal statutes who was taken into custody by the officers of the law in order to insure that paternal relief which the state affords in cases of this kind under the juvenile delinquent law. The statute under which the petitioner was prosecuted (see. 6456, Rev. Stats.) was passed long before there was any such law as the juvenile delinquent law in this state or perhaps many other states *3of the Union. The lawmakers at that time evidently did not have in mind any such provision as the one in the juvenile delinquent law. They were rather dealing and intending to deal with cases where persons had been laid hold upon by the criminal laws of the state and were in custody in pursuance thereof.\nUpon an examination of the juvenile delinquent law, we are further impressed with the fact that it seems to provide a complete remedy for its own execution, and to hedge about the officers who are charged with its enforcement so as to protect them and to protect the state and the child, as well as the parent or guardian, against the unlawful interference of anyone else, and we are of the opinion that the act within itself contains those provisions that would furnish relief to the state against those who aided or abetted a delinquent child in continuing its delinquency, or in evading that care or escaping from that protection which the state affords it.\nUpon a view of the whole matter we are satisfied that this delinquent child was not a prisoner within the meaning of see. 6456, Rev. Codes, and that the applicant here is not lawfully held as a prisoner charged with the commission of a felony. The order of the court will be that the prisoner be discharged.\n",
+            "ocr": true,
+            "opinion_id": 5169872
+        }
+    ],
+    "court_short_name": "Idaho Supreme Court",
+    "court_full_name": "Idaho Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Idaho, ID",
+    "crime_category": "Robbery"
+}

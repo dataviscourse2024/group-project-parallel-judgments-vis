@@ -1,0 +1,46 @@
+{
+    "id": 6023025,
+    "judges": null,
+    "date_filed": 514425600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-ames",
+    "case_name_short": "Ames",
+    "case_name": "People v. Ames",
+    "case_name_full": "The People of the State of New York v. Douglas Ames",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "119 A.D.2d 755"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeals by the defendant from (1) a judgment of the Supreme Court, Queens County (Glass, J.), rendered July 28, 1982, convicting him of robbery in the second degree and unlawful imprisonment in the second degree under indictment No. 2202/81, upon a jury verdict, and imposing sentence, (2) a judgment of the same court, also rendered July 28, 1982, convicting him of robbery in the second degree under indictment No. 2741/81, upon his plea of guilty, and imposing sentence, and (3) a judgment of the same court, also rendered July 28, 1982, convicting him of robbery in the second degree under indictment No. 3006/81, upon his plea of guilty, and imposing sentence.\nMatters remitted to the Supreme Court, Queens County, to hear and report on the question of whether a statement made by the defendant to his parole officer was voluntarily made, and appeals held in abeyance in the interim. The Supreme Court, Queens County, shall file its report with all convenient speed.\nThe defendant was charged by Queens County indictment No. 2202/81 with robbery in the first degree, criminal use of a firearm in the first degree and unlawful imprisonment in the second degree. The charges stemmed from an incident in which it is alleged that the defendant entered the offices of the complainant, a dentist, displayed what appeared to be a gun, stole money from the dentist and locked him in a closet.\nPrior to trial, the defendant requested that the People disclose any statements made by the defendant to any individual so that the voluntariness of the statements could be determined before the People used them as direct evidence or for impeachment purposes. The People claimed there were no statements discoverable under CPL 240.20, and the case proceeded to trial.\n*756The dentist testified that on the day in question he was alone in his office when the defendant came in and inquired about a dental problem. The defendant then displayed what appeared to be a gun and demanded money. The dentist gave him the money from his wallet and later, pursuant to the defendant\u2019s instructions, handed over a check which he made out to cash. The defendant then ordered the dentist into a closet, barricaded the door, and left the premises.\nThe defendant took the stand and presented a different version of the incident. He testified that he entered the dentist\u2019s office for the purpose of selling some dental equipment which he had purchased from an acquaintance. After some negotiations, the dentist agreed to purchase the equipment and gave the defendant some cash and a check. When the dentist attempted to renege on the deal, the defendant pushed him into a closet and barricaded the door. The defendant then went to the bank and, while he was waiting to cash the check, the dentist ran in and snatched it from his hands.\nThe District Attorney impeached the defendant with a statement he had made to his parole officer. The defendant had stated to the parole officer that he went to the bank to withdraw money from his savings account and that for no reason at all the dentist ran in and called him a thief. The defendant did not tell his parole officer that he went to the dentist\u2019s office or that he sold him any equipment.\nThe defendant objected to the People\u2019s use of this statement on the ground that it had not been tested for voluntariness. The court overruled the defendant\u2019s objection and permitted the People to impeach the defendant\u2019s testimony with the prior inconsistent statement.\nThe defendant argues that the use of the statement, even for the limited purpose of cross-examination, was reversible error.\nPursuant to Harris v New York (401 US 222), a statement obtained in violation of a defendant\u2019s Miranda rights, although not admissible in the People\u2019s direct case, may be used for impeachment (see also, Oregon v Hass, 420 US 714; People v Wise, 46 NY2d 321). An involuntary statement, however, may not be used to impeach a defendant\u2019s credibility, no matter how reliable it may be (see, New Jersey v Portash, 440 US 450; Mincey v Arizona, 437 US 385; People v Maerling, 64 NY2d 134; People v Walker, 110 AD2d 730). Here, because of the prosecutor\u2019s deliberate nondisclosure of the defendant\u2019s statement to his parole officer, a public servant engaged in *757law enforcement activity (see, CPL 240.20 [1] [a]), the defendant was deprived of an opportunity to investigate the circumstances surrounding the statement and to challenge the voluntariness thereof. Under these circumstances, the court erred in summarily denying the defendant\u2019s request for a hearing.\nThe trial court should have granted the defendant\u2019s request for a hearing on the question of whether the statement made to his parole officer was made voluntarily. Accordingly, the matter is remitted for that limited purpose, and the appeals are held in abeyance in the interim. Niehoff, J. P., Lawrence, Kunzeman and Kooper, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5885655
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

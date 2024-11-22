@@ -1,0 +1,47 @@
+{
+    "id": 5835168,
+    "judges": null,
+    "date_filed": 1133740800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-ragunauth",
+    "case_name_short": "Ragunauth",
+    "case_name": "People v. Ragunauth",
+    "case_name_full": "The People of the State of New York v. Awad Ragunauth",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 A.D.3d 472",
+        "805 N.Y.S.2d 654"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Queens County (Buchter, J.), rendered February 10, 2004, convicting him of assault in the first degree, robbery in the first degree (two counts), and criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing (Roman, J.), of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nThe hearing court properly declined to suppress identification evidence. The participants in the photo array were sufficiently similar to the defendant in appearance so that there was little likelihood the defendant would be singled out for identification based on particular characteristics (see People v Wright, 297 AD2d 391 [2002]; People v Williams, 289 AD2d 270 [2001]; People v Burke, 251 AD2d 424 [1998]; People v Biesty, 228 AD2d 608 [1996]). Furthermore, there is no requirement that a defendant in a lineup be surrounded by individuals nearly identical in appearance (see People v Chipp, 75 NY2d 327, 336 [1990]; People v Granger, 18 AD3d 774 [2005]; People v Green, 14 AD3d *473578 [2005]; People v Richards, 2 AD3d 883 [2003]), and here, the alleged variations in appearance between the fillers and the defendant were not so substantial as to render the lineup impermissibly suggestive (see People v Granger, supra; People v Green, supra; People v Richards, supra; People v Perkins, 307 AD2d 1001 [2003]).\nThe defendant\u2019s contention that his conviction was not supported by legally sufficient evidence is unpreserved for appellate review (see People v Gray, 86 NY2d 10 [1995]). In any event, viewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]).\nFinally, we reject the defendant\u2019s contention that the trial court erred in permitting a police officer to recount the descriptions of the perpetrator which the complainant gave him shortly after the robbery. This testimony was properly admitted to assist the jury in evaluating the complainant\u2019s opportunity to observe the perpetrator at the time of crime (see People v Huertas, 75 NY2d 487 [1990]; People v Roman, 5 AD3d 311 [2004]; People v Smith, 302 AD2d 257 [2003]; People v Ayala, 298 AD2d 397 [2002]), and the jury was instructed to consider the testimony for this purpose. Cozier, J.P., Krausman, Skelos and Lunn, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5690955
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

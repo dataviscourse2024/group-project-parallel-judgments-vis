@@ -1,0 +1,47 @@
+{
+    "id": 3425112,
+    "judges": "Fansler",
+    "date_filed": -1027641600000,
+    "date_filed_is_approximate": false,
+    "slug": "jacoby-v-state",
+    "case_name_short": "Jacoby",
+    "case_name": "Jacoby v. State",
+    "case_name_full": "Jacoby Et Al. v. State of Indiana",
+    "attorneys": "William E. Bussell, Lutz  Johnson, Clyde C. Karrer, Jesse W.  Peden,  and  Alexander Baker,  for appellants.\n\n Omer Stokes Jackson,  Attorney-General,  Walter O. Lewis,  and Glen L. Steckley,  Deputy Attorneys-General, for the State.",
+    "nature_of_suit": null,
+    "posture": "From Marion Criminal Court;  Frank P. Baker,  Judge.\n\nForest Jacoby and others were jointly convicted of robbery, and they appealed.  Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied September 21, 1937.]",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b487-6\">\n    Jacoby et al.\n    <em>\n     v.\n    </em>\n    State of Indiana.\n   </parties><br><docketnumber id=\"b487-7\">\n    [No. 26,767.\n   </docketnumber><decisiondate id=\"AmMl\">\n    Filed June 9, 1937.\n   </decisiondate><otherdate id=\"An1\">\n    Rehearing denied September 21, 1937.]\n   </otherdate><br><attorneys id=\"b488-6\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"466\"> \n     *466\n     </span>\n<em>\n     William E. Bussell, Lutz &amp; Johnson, Clyde C. Karrer, Jesse W. Peden,\n    </em>\n    and\n    <em>\n     Alexander Baker,\n    </em>\n    for appellants.\n   </attorneys><br><attorneys id=\"b488-7\">\n<em>\n     Omer Stokes Jackson,\n    </em>\n    Attorney-General,\n    <em>\n     Walter 0. Lewis,\n    </em>\n    and\n    <em>\n     Glen L. Steckley,\n    </em>\n    Deputy Attorneys-General, for the State.\n   </attorneys>",
+    "citations": [
+        "8 N.E.2d 978",
+        "212 Ind. 465"
+    ],
+    "opinions": [
+        {
+            "author_str": "Fansler",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4291.0,
+            "opinion_text": "Appellants were jointly charged by indictment, tried, and convicted of robbery.\nError is assigned upon the overruling of their separate motions for a separate trial, and their motion to require the prosecutor to elect which of the defendants would first be tried, and upon the overruling of their separate motions for a new trial.\nPrior to 1935, defendants jointly charged with a felony were entitled to separate trials. In 1935 statute was enacted providing for a joint trial unless the court in its discretion orders a separate trial. Acts of 1935, ch. 92, p. 286, section 9-1804 Burns Supp. 1936, &#167; 2284 Baldwin's Ind. St. Service 1935.\nAppellants contend that the denial of a separate trial invades their constitutional rights. Article 1, section 13, of the Constitution of Indiana, provides: \"In all criminal 1, 2.  prosecutions, the accused shall have the right to a public trial, by an impartial jury.\" It is not contended that the trial court abused its discretion, and the only contention is that, by the denial of a separate trial, the defendants were denied the right to peremptory challenge ten prospective jurors each. But *Page 467 \nthere is no constitutional right to peremptory challenges. By statute, and the decisions of this court, the right to challenge for cause is broad enough to fully protect a defendant's right to be tried by an impartial jury. Klink v. State (1932),203 Ind. 647, 179 N.E. 549. \"A joint offense is only one offense committed by two or more persons jointly; and, in the absence of statutory authorization to the contrary, no court can be required to sever defenses.\" State ex rel. Flaherty v. Ermston (1935),209 Ind. 117, 122, 197 N.E. 908, 911.\nError is predicated upon the overruling of appellant's objection to the testimony of a witness after she has testified that she could not identify the defendants. The character 3.  of the testimony of the witness thereafter given is not set out in the brief. It may have been competent and pertinent to the issue, even though the witness could not identify the defendants.\nThere is objection to the admissibility of other evidence, because it involved \"matters occurring twenty days after the offense charged in the indictment.\" This, in itself, would 4.  not make the evidence incompetent. The testimony is not set out in the brief. It is not made to appear that the ruling of the court was erroneous.\nError is predicated upon the admission of certain evidence, upon the theory that it is not pertinent to the issue, and that it was not connected with other evidence so as to make it 5.  competent. There is no condensed recital of the evidence in appellants' brief. In appellee's brief it is asserted that the police arrested appellants upon probable cause, and that thereafter they searched their car and the premises where they had been seen, and that the evidence complained of was connected by other evidence with the activities of appellants. These assertions are not denied by appellants. *Page 468 \nThis court will not search the record to discover error.\nError is predicated upon the ruling upon certain instructions. The statement of the record in appellants' brief does not contain the instructions that were given, and there is no bill of 6.  exceptions containing the instructions in the record. No question is presented upon the ruling of instructions.\nThe alleged misconduct of counsel is not brought into the record by a bill of exceptions, so that no question is 7.  presented upon that assignment. Maxwell v. State\n(1934), 207 Ind. 304, 192 N.E. 438.\nJudgment affirmed.",
+            "ocr": false,
+            "opinion_id": 3422076
+        }
+    ],
+    "court_short_name": "Indiana Supreme Court",
+    "court_full_name": "Indiana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Robbery"
+}

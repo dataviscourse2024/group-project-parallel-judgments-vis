@@ -1,0 +1,46 @@
+{
+    "id": 7958644,
+    "judges": "Hammond",
+    "date_filed": -373161600000,
+    "date_filed_is_approximate": false,
+    "slug": "peaton-v-warden-of-maryland-house-of-correction",
+    "case_name_short": "Peaton",
+    "case_name": "Peaton v. Warden of Maryland House of Correction",
+    "case_name_full": "PEATON v. WARDEN OF MARYLAND HOUSE OF CORRECTION",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "216 Md. 614"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hammond",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHammond, J.,\ndelivered the opinion of the Court.\nThis is an application for leave to appeal from the denial of a writ of habeas corpus by Judge Raine of the Circuit Court for Baltimore County on September 30, 1957. The applicant was convicted of assault with intent to murder, and mayhem, by Judge Carter in the Criminal Court of Baltimore on November 14, 1956, and sentenced to serve a term of confinement for ten years from September 1, 1956.\nThe applicant contends that his court-appointed attorney was indifferent to his defense and recommended that he waive his right to a jury trial, although earlier he had told the applicant that \u201cyou have a very good chance of beating this charge.\u201d In the absence of an averment of collusion on the part of State officials or that the applicant complained to the trial court of his counsel\u2019s alleged incompetence, habeas corpus will not lie. Hicks v. Warden, 213 Md. 625; Brigmon v. Warden, 213 Md. 628.\nApplicant\u2019s second contention is that a witness for the State committed perjury. The applicant does not allege that the State knowingly participated in the use of perjured testimony. In the absence of such an allegation, habeas corpus will not lie. Brigmon v. Warden, supra; Whitley v. Warden, 209 Md. 629.\nThe applicant\u2019s third contention is that a witness whose *616testimony would have been favorable to him was not summoned and did not appear at the trial. Denial of an opportunity to obtain witnesses at a trial goes only to the regularity of a proceeding and may not be raised on habeas corpus. Williams v. Warden, 209 Md. 641.\nThe applicant also contends that he did not have the requisite criminal intent to commit the crime nor was there sufficient other evidence to sustain his conviction. We have repeatedly held that the sufficiency of the evidence may not be reviewed on habeas corpus. Hicks v. Warden, 213 Md. 625; Hopkins v. Warden, 213 Md. 634.\nThe applicant\u2019s final contention is that he was arrested without a warrant. After conviction, this cannot be raised on habeas corpus. Jackson v. Warden, 211 Md. 599, cert. den., 352 U. S. 1010; Davis v. Warden, 211 Md. 617.\n\nApplication denied, with costs.\n\n",
+            "ocr": true,
+            "opinion_id": 7910215
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Murder"
+}

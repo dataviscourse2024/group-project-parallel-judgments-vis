@@ -1,0 +1,47 @@
+{
+    "id": 1339561,
+    "judges": "Carley, Quillian, Shulman",
+    "date_filed": 402796800000,
+    "date_filed_is_approximate": false,
+    "slug": "mack-v-state",
+    "case_name_short": "MacK",
+    "case_name": "MacK v. State",
+    "case_name_full": "Mack v. the State",
+    "attorneys": "James W. Howard, for appellant., Lewis R. Slaton, District Attorney, Joseph J. Drolet, Margaret V. Lines, Tom Hayes, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b812-11\">\n    64870.\n   </docketnumber><parties id=\"AZG6\">\n    MACK v. THE STATE.\n   </parties>",
+    "citations": [
+        "296 S.E.2d 115",
+        "163 Ga. App. 778"
+    ],
+    "opinions": [
+        {
+            "author_str": "Quillian",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7176.0,
+            "opinion_text": "\n163 Ga. App. 778 (1982)\n296 S.E.2d 115\nMACK\nv.\nTHE STATE.\n64870.\nCourt of Appeals of Georgia.\nDecided October 7, 1982.\nJames W. Howard, for appellant.\nLewis R. Slaton, District Attorney, Joseph J. Drolet, Margaret V. Lines, Tom Hayes, Assistant District Attorneys, for appellee.\nQUILLIAN, Chief Judge.\nDefendant appeals his conviction for rape (two counts), aggravated assault and armed robbery. Held:\n1. Defendant's indictment alleged the rape of a woman and aggravated assault on her male companion on August 1, 1980 (Counts 1 and 2), and the rape of another woman and the armed robbery of her male companion on September 7, 1981 (Counts 3 and 4). At trial, after the jury had been struck and sworn defendant's oral motion to sever Counts 1 and 2 from Counts 3 and 4 was made and denied, which defendant enumerates as error.\nWhere criminal offenses are joined solely on the ground that they are of the same or similar character, the defendant has a right to have the offenses severed. Dingler v. State, 233 Ga. 462 (211 SE2d 752). However, where the offenses are so similar that they show a common scheme or plan or have an identical modus operandi, *779 severance is discretionary with the trial court. \"[I]f there is a valid reason for joinder other than similarity of offense, then severance of offenses becomes discretionary with the trial court.\" Davis v. State, 159 Ga. App. 356 (1) (283 SE2d 286). \"[W]here the modus operandi of the perpetrator is so strikingly alike, that the totality of the facts unerringly demonstrate and designate the defendant as the common perpetrator, the offenses may be joined \u0097 subject to the right of the defendant to a severance in the interests of justice. [Cits.].\" Id. at 357.\nIn the instant case the victims of Counts 1 and 2 were a young man and woman walking together in a wooded area. Defendant confronted them with a pistol, demanded money, forced the couple to remove their clothing, threatened to kill the man if he ran, and took the woman off into the woods and raped her. The victims of Counts 3 and 4 also were a young man and woman walking together in a wooded area in the same vicinity that the victims of the first two counts had been accosted. The defendant confronted them with a pistol, demanded and got money from the man, forced them to remove their clothing, threatened to kill the woman if the man moved, and took the woman off into the woods and raped her.\nPretermitting whether the motion for severance was properly or timely made, we find that the court did not abuse its discretion in denying severance as \"the crimes charged were so similar as to evidence a common plan or scheme and revealed an identical modus operandi.\" Davis v. State, 158 Ga. App. 549 (1), 550 (281 SE2d 305).\n2. The remaining enumeration complains of the trial court's denial of defendant's motion for a continuance to obtain the transcript of defendant's preliminary hearing.\nA defendant is entitled to a continuance to obtain a preliminary hearing transcript, provided he exercises due diligence to obtain it. Martin v. State, 151 Ga. App. 9 (7) (258 SE2d 711); Terrell v. State, 136 Ga. App. 848 (3) (222 SE2d 642).\nApparently, defendant was not represented by counsel at the preliminary hearing on October 9, 1981. Trial defense counsel was appointed on November 25 and made inquiry of the transcription service about a transcript. By letter dated December 18, the transcription service informed defense counsel that the reporter who took the notes at the hearing had left the state, that an attempt was being made to locate someone who could read his shorthand and that counsel would be advised when such a person was obtained. Defense counsel did nothing further to obtain a transcript and moved for the continuance at the start of trial on January 26, 1982.\nUnder these circumstances defendant did not exercise due diligence in attempting to obtain a transcript. Additionally, no effort was made to place in the record any indication of who had testified at *780 the hearing or what they had said (which could have been ascertained from defendant or the witnesses at trial). There being nothing in the record to show whether the hearing was properly recorded, much less the contents and whether it would ever be available, we find that the trial court did not abuse its discretion in denying the motion for continuance. \"[I]n the absence of anything in the record to the contrary we must . . . assume that the judge did not abuse his discretion in [denying a motion for continuance]. [Cit.].\" Marable v. State, 154 Ga. App. 115 (4), 117 (267 SE2d 837).\nJudgment affirmed. Shulman, P. J., and Carley, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1339561
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

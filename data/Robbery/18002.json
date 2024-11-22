@@ -1,0 +1,46 @@
+{
+    "id": 276848,
+    "judges": "Browning, Claims, Hamley, Madden, Per Curiam",
+    "date_filed": -76291200000,
+    "date_filed_is_approximate": false,
+    "slug": "robert-cecil-wilcox-v-united-states",
+    "case_name_short": null,
+    "case_name": "Robert Cecil Wilcox v. United States",
+    "case_name_full": "Robert Cecil WILCOX, Appellant, v. UNITED STATES of America, Appellee",
+    "attorneys": "Robert Cecil Wilcox, in pro. per., Eugene G. Cushing, U. S. Atty., Seattle, Wash., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b530-6\">\n    Robert Cecil WILCOX, Appellant, v. UNITED STATES of America, Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b530-8\">\n    No. 21211.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b530-9\">\n    United States Court of Appeals Ninth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b530-10\">\n    Aug. 2, 1967.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b530-17\">\n    Robert Cecil Wilcox, in pro. per.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b530-18\">\n    Eugene G. Cushing, U. S. Atty., Seattle, Wash., for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b530-19\">\n    Before MADDEN, Judge of the Court of Claims, and HAMLEY and BROWNING, Circuit Judges.\n   </p>",
+    "citations": [
+        "381 F.2d 450"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/381/381.F2d.450.21211.html",
+            "author_id": null,
+            "opinion_text": "381 F.2d 450\n    Robert Cecil WILCOX, Appellant,v.UNITED STATES of America, Appellee.\n    No. 21211.\n    United States Court of Appeals Ninth Circuit.\n    Aug. 2, 1967.\n    \n      Robert Cecil Wilcox, in pro. per.\n      Eugene G. Cushing, U.S. Atty., Seattle, Wash., for appellee.\n      Before MADDEN, Judge of the Court of Claims, and HAMLEY and BROWNING, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      Appellant was charged with violations of 18 U.S.C. 2113(a), (b), and (d) in a five-count indictment.  On September 15, 1954, he pleaded guilty to Count III, charging a violation of section 2113 (d) after being advised by government counsel that it was immaterial that the gun used in the robbery was unloaded.\n    \n    \n      2\n      The district court denied relief under 28 U.S.C. 2255 on the ground that the advice given appellant in 1954 'was a correct statement of the law as it then stood in this circuit.'  No authority is cited for this statement.  We know of none.  In any event, since it is not contended that the state of the law differed between 1953, the date of the plea in Smith v. United States,  309 F.2d 165 (9th Cir. 1962), and appellant's arraignment in 1954, our decision in Smith requires that relief be granted unless the Smith decision depended upon the circumstance that in that case the accused was not represented by counsel.  We think it did not.  The question is whether at the time of his plea the accused understood the nature of the charge.  When that fact is disputed, evidence that the accused had the advice of counsel may be relevant to its determination.  Cf. Munich v. United States, 337 F.2d 356 (9th Cir. 1964); Kadwell v. United States, 315 F.2d 667 (9th Cir. 1963).  But here the government expressly concedes that 'all parties,' including appellant's counsel, shared the same mistaken impression as to the elements of the section 2113(d) offense.\n    \n    \n      3\n      Reversed and remanded for further proceedings in accordance with the rules outlined in Munich v. United States, supra, 337 F.2d at 361.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 276848
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

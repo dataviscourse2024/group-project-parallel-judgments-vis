@@ -1,0 +1,47 @@
+{
+    "id": 1163590,
+    "judges": "Per Curiam",
+    "date_filed": 175305600000,
+    "date_filed_is_approximate": false,
+    "slug": "coombs-v-state",
+    "case_name_short": "Coombs",
+    "case_name": "Coombs v. State",
+    "case_name_full": "SHIRLEY ANN COOMBS, Appellant, v. THE STATE OF NEVADA, Respondent",
+    "attorneys": "Morgan D. Harris, Public Defender, Clark County, for Appellant., Robert List, Attorney General, and George E. Holt, District Attorney, Clark County, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b513-4\">\n    SHIRLEY ANN COOMBS, Appellant, v. THE STATE OF NEVADA, Respondent.\n   </parties><br><docketnumber id=\"b513-5\">\n    No. 7329\n   </docketnumber><br><decisiondate id=\"b513-6\">\n    July 23, 1975\n   </decisiondate><citation id=\"AWN\">\n    538 P.2d 162\n   </citation><br><attorneys id=\"b513-10\">\n<em>\n     Morgan D. Harris,\n    </em>\n    Public Defender, Clark County, for Appellant.\n   </attorneys><br><attorneys id=\"b513-11\">\n<em>\n     Robert List,\n    </em>\n    Attorney General, and\n    <em>\n     George E. Holt,\n    </em>\n    District Attorney, Clark County, for Respondent.\n   </attorneys>",
+    "citations": [
+        "538 P.2d 162",
+        "91 Nev. 489"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n538 P.2d 162 (1975)\nShirley Ann COOMBS, Appellant,\nv.\nThe STATE of Nevada, Respondent.\nNo. 7329.\nSupreme Court of Nevada.\nJuly 23, 1975.\nMorgan D. Harris, Public Defender, Las Vegas, for appellant.\nRobert List, Atty. Gen., Carson City, George Holt, Dist. Atty., Las Vegas, for respondent.\n\nOPINION\nPER CURIAM:\nCharged with the killing of Ava Rapp and convicted of voluntary manslaughter, appellant contends the lower court erred in excluding evidence of the victim's violent character. We disagree.\nThe morning of her death, Mrs. Rapp telephoned Richard Smith, requesting a ride to appellant's house where she was living. Mrs. Rapp then called appellant, who advised Rapp that she was no longer welcome, and that her belongings were packed in her car. Smith drove Rapp to appellant's house, and waited while she went to the door. Refusing to unlock the door, appellant asked Rapp to leave. Rapp returned to Smith's car, and asked him to wait while she started her car, but rather than going to her car, Rapp returned toward the house. Appellant obtained a pistol from her bedroom, loaded it, proceeded into the back yard, and shot Rapp six times.\nAppellant admitted shooting the victim, but contended self defense, and now urges that the trial court erred in excluding evidence of the victim's violent character, assertedly admissible pursuant to NRS 48.045, which declares:\n\"1. Evidence of a person's character or a trait of his character is not admissible for the purpose of proving that he acted in conformity therewith on a particular occasion, except: ...\n(b) Evidence of the character or a trait of character of the victim of the crime offered by an accused, and similar evidence offered by the prosecution to rebut such evidence; ...\"\nBefore any evidence is admissible, it must be relevant. NRS 48.025(2). Character evidence is no exception. This court long ago stated, \"The character of the deceased can only be brought in issue where the circumstances are such as to raise a doubt whether the homicide was committed in malice or was prompted by the instinct of self-preservation.\" State v. Pearce, 15 Nev. 188, 191 (1880). The court went on to say, \"Every case must, in this respect, be gauged with reference to its own surroundings.\" Id. at 191-92.\n*163 Here, we think the circumstances were insufficient to place the deceased's character in issue. The record reflects nothing to excite fear of immediate injury in appellant, beyond abusive language and a conditional threat Rapp uttered before leaving appellant's back door.[1] Notwithstanding this, appellant armed herself, unnecessarily left the safety of her locked dwelling, proceeded into the yard to confront her unarmed victim, and shot her six times, the first shot fired at a distance of at least ten feet. The trial court properly excluded the proffered evidence. State v. Helm, 66 Nev. 286, 209 P.2d 187 (1949); State v. Pearce, cited above. Cf. State v. Hoelzer, 493 S.W.2d 703 (Mo. App. 1973).\nAffirmed.\nNOTES\n[1]  According to witness Pam Fiefield, before Rapp walked away from appellant's back door, appellant told Rapp, \"If she didn't have her stuff out of there by eight o'clock, that she was going to call the Salvation Army.\" In response, Rapp told appellant, \"If you call that f____ing truck, ... you better give your soul to God, because your ass is mine.\" Appellant's testimony is consistent with the foregoing, and indicates that, thereafter, she loaded her gun and shot Rapp.\n\n",
+            "ocr": false,
+            "opinion_id": 1163590
+        }
+    ],
+    "court_short_name": "Nevada Supreme Court",
+    "court_full_name": "Nevada Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nevada, NV",
+    "crime_category": "Murder"
+}

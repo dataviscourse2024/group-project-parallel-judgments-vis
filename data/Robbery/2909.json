@@ -1,0 +1,48 @@
+{
+    "id": 8347210,
+    "judges": null,
+    "date_filed": -4298486400000,
+    "date_filed_is_approximate": true,
+    "slug": "united-states-v-brown",
+    "case_name_short": "Brown",
+    "case_name": "United States v. Brown",
+    "case_name_full": "United States v. Addison Brown",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>A commitment not stating on its face any offence, is not evidence of a commitment for felony, altliongli -written on the back of a warrant of arrest charging a felony, but not referring to it.</p>",
+    "summary": "Indictment for breaking gaol, when committed for felony in stealing a saddle. The commitment did not state any offence, but was written on the back of the warrant of arrest, which -charged a felony. The commitment did not refer to the warrant of arrest.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "4 D.C. 333",
+        "24 F. Cas. 1247",
+        "4 Cranch 333"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe Court\n(nem. con.) said, that it Was no evidence of a commitment for felony.\nVerdict, not guilty.\n",
+            "ocr": true,
+            "opinion_id": 8315815
+        }
+    ],
+    "court_short_name": "U.S. Circuit Court for the District of District of Columbia",
+    "court_full_name": "U.S. Circuit Court for the District of District of Columbia",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

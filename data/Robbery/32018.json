@@ -1,0 +1,47 @@
+{
+    "id": 5746230,
+    "judges": null,
+    "date_filed": 498355200000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-butler",
+    "case_name_short": "In re Butler",
+    "case_name": "In re Butler",
+    "case_name_full": "IN THE MATTER OF BOB B. BUTLER",
+    "attorneys": "William P. Smith III, General Counsel State Bar, George E. Hibbs, Assistant General Counsel State Bar, for State Bar of Georgia., Lynward S. Bussey, for Butler.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "255 Ga. 41",
+        "335 S.E.2d 296"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer curiam.\nAttorney Bob B. Butler was convicted of theft by conversion and his conviction was affirmed on appeal. Butler v. State, 170 Ga. App. 257 (316 SE2d 841) (1984). Theft by conversion by an attorney acting in a fiduciary capacity is a felony, OCGA \u00a7\u00a7 16-8-4 (a); 16-8-12 (a) (2), *42and involves moral turpitude. Final conviction of any felony or misdemeanor involving moral turpitude shall be grounds for disbarment. Standard 66 of Bar Rule 4-102.\nDecided October 17, 1985.\nWilliam P. Smith III, General Counsel State Bar, George E. Hibbs, Assistant General Counsel State Bar, for State Bar of Georgia.\nLynward S. Bussey, for Butler.\nButler\u2019s petition for voluntary surrender of license is accepted. His name is stricken from the rolls of those authorized to practice law in the State of Georgia.\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5598139
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

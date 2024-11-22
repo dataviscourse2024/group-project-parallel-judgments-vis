@@ -1,0 +1,46 @@
+{
+    "id": 1100696,
+    "judges": "Griffin",
+    "date_filed": 1155859200000,
+    "date_filed_is_approximate": false,
+    "slug": "coates-v-state",
+    "case_name_short": "Coates",
+    "case_name": "Coates v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "937 So. 2d 1143"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n937 So.2d 1143 (2006)\nRonald Jay COATES, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 5D06-1177.\nDistrict Court of Appeal of Florida, Fifth District.\nAugust 18, 2006.\nRehearing Denied September 25, 2006.\n*1144 Ronald J. Coates, South Bay, pro se.\nCharles J. Crist, Jr., Attorney General, Tallahassee, and Anthony J. Golden, Assistant Attorney General, Daytona Beach, for Appellee.\nGRIFFIN, J.\nDefendant, Ronald Jay Coates [\"Coates\"], appeals the summary denial, on procedural grounds, of his motion for postconviction relief filed pursuant to Florida Rule of Criminal Procedure 3.850. We reverse and remand for the trial court to consider the motion on the merits because Coates' timely filing of a petition to review the written opinion of this Court tolled the time for filing a rule 3.850 motion for postconviction relief until the supreme court denied review.\nAfter a trial by jury, Coates was sentenced to life imprisonment for first-degree murder. On September 26, 2003, this court affirmed his conviction and sentence in a written opinion. See Coates v. State, 855 So.2d 223 (Fla. 5th DCA 2003). Our mandate issued on October 17, 2003. Coates appealed this court's decision to the Florida supreme court, arguing jurisdiction based on express and direct conflict with decisions of other district courts of appeal. The supreme court denied review on January 9, 2004. See Coates v. State, 866 So.2d 1212 (Fla.2004) (table).\nOn January 8, 2006, Coates provided his motion for postconviction relief to prison officials for mailing. On March 13, 2006, the trial court entered an order summarily denying the motion as untimely.\nRule 3.850 provides that a motion for relief pursuant to that rule must be filed within \"two years after the judgment and sentence become final.\" If no writ of certiorari is filed with the United States Supreme Court, the judgment and sentence become final when direct review proceedings are completed and jurisdiction to entertain the motion for postconviction relief returns to the trial court. See Scull v. State, 569 So.2d 1251 (Fla.1990); see also Hilbert v. State, 540 So.2d 227 (Fla. 5th DCA 1989); Ward v. Dugger, 508 So.2d 778 (Fla. 1st DCA 1987). Here, the supreme court denied review on January 9, 2004.\nTherefore, Coates had until January 9, 2006, to timely file a motion for postconviction relief in this case. Under the mailbox rule, he filed his motion one day shy of the deadline on January 8, 2006. The State *1145 properly concedes that Coates' motion was timely filed.\nREVERSED and REMANDED.\nTHOMPSON and EVANDER, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1100696
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5782521,
+    "judges": "Banke",
+    "date_filed": 281318400000,
+    "date_filed_is_approximate": false,
+    "slug": "heath-v-state",
+    "case_name_short": "Heath",
+    "case_name": "Heath v. State",
+    "case_name_full": "HEATH v. State",
+    "attorneys": "Billy L. Spruell, for appellant., Lewis R. Slaton, District Attorney, Joseph J. Drolet, R. David Petersen, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted October 3, 1978, Rehearing denied December 20, 1978",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "148 Ga. App. 559"
+    ],
+    "opinions": [
+        {
+            "author_str": "Banke",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBanke, Judge.\nThe defendant pled guilty to first degree forgery and credit card theft and was given a 3-year probated sentence as a first offender. See Code Ann. \u00a7 27-2727 et seq. (Ga. L. 1968, pp. 324, 325). Approximately five weeks later, his probation was revoked, and he was sentenced to confinement under the Youthful Offender Act. Immediately prior to the revocation hearing, he attempted unsuccessfully to withdraw his guilty plea, and he now appeals the denial of this request.\nThe defendant relies on Code Ann. \u00a7 27-1404, which gives a criminal defendant the right to withdraw his *560guilty plea \"at any time before judgment is pronounced...\u201d and on Code \u00a7 27-2727, supra, which provides that a trial judge who elects to give a defendant first offender probation does so \"without entering a judgment of guilt . . .\u201d Held:\nSubmitted October 3, 1978\nDecided December 1, 1978\nRehearing denied December 20, 1978\nBilly L. Spruell, for appellant.\nLewis R. Slaton, District Attorney, Joseph J. Drolet, R. David Petersen, Assistant District Attorneys, for appellee.\nThe construction of Code Ann. \u00a7 27-2727 urged by the defendant would render the first offender statute useless as a rehabilitative tool. It has previously been rejected by this court in Davenport v. State, 136 Ga. App. 913 (222 SE2d 644) (1975). We accordingly affirm the judgment of the trial court.\n\nJudgment affirmed.\n\n\nDeen, P. J., and Smith, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5636609
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

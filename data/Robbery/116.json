@@ -1,0 +1,46 @@
+{
+    "id": 7770102,
+    "judges": "Dell, Hardee, Muir, Stevenson",
+    "date_filed": 871430400000,
+    "date_filed_is_approximate": false,
+    "slug": "moton-v-state",
+    "case_name_short": "Moton",
+    "case_name": "Moton v. State",
+    "case_name_full": "Mack Arthur MOTON v. STATE of Florida",
+    "attorneys": "Richard L. Jorandby, Public Defender, and Ian Seldin, Assistant Public Defender, West Palm Beach, for appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Melynda L. Melear, Assistant Attorney General, West Palm Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "697 So. 2d 1271"
+    ],
+    "opinions": [
+        {
+            "author_str": "Muirhardee",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMUIR, CELESTE HARDEE, Associate Judge.\nMack Arthur Moton appeals the judgment of conviction for armed robbery with a firearm after a denial of his motion for mistrial. We reverse because the state improperly elicited character evidence involving LaFrance, a key state witness, and the error was not harmless.\nEvidence of the character of a witness is irrelevant and thus inadmissible. See \u00a7\u00a7 90.402 and 90.404, Fla. Stat. The only exception is when that character has been attacked. \u00a7 90.609, Fla. Stat. Proof of the characteristic is limited to testimony in the form of reputation. \u00a7 90.609, Fla. Stat.\nAt the trial, the prosecutor asked the employer of LaFrance \u201cto make some general observations about Mr. LaFrance.\u201d The trial judge overruled a timely objection to this question and in response, the employer stated that Mr. LaFrance was: \u201chonest, trustworthy ...\u201d Defense counsel objected:\nJudge again, I object. This is now a characterization of the previous witness as to his honesty and integrity and I object to that and ask that comment be stricken from the record and ask that the jury disregard it. And I reserve a motion ... [for mistrial made later at sidebar],\nAlthough the credibility of the state witness LaFrance had been vigorously attacked by defense counsel, the trial court failed to timely cure the prejudice engendered by the prosecutor\u2019s attempt to bolster the state witness\u2019 credibility through another witness. At a minimum, the trial judge should have instructed the jury to disregard the state witness\u2019 comment on credibility improperly elicited by the prosecutor. See Hunter v. State, 660 So.2d 244, 252 (Fla. *12721995), approving a curative instruction for an improper comment on credibility.\nIn this case in which the issue of credibility of the state witness LaFrance is crucial, we cannot say that the judge\u2019s error is harmless. See Alvarado v. State, 521 So.2d 180, 181 (Fla. 3d DCA 1988). Accordingly, we reverse and remand for a new (third) trial.\nDELL and STEVENSON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7708427
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

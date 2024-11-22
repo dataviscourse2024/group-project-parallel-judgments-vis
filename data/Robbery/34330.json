@@ -1,0 +1,47 @@
+{
+    "id": 6220379,
+    "judges": null,
+    "date_filed": 1025568000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-hollis",
+    "case_name_short": "Hollis",
+    "case_name": "People v. Hollis",
+    "case_name_full": "The People of the State of New York v. Eric Hollis",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "296 A.D.2d 319",
+        "744 N.Y.S.2d 327"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Budd Goodman, J.), rendered December 18, 2000, convicting defendant, after a jury trial, of robbery in the third degree, grand larceny in the fourth degree and bail jumping in the second degree and sentencing him, as a second felony offender, to an aggregate term of 4 to 8 years, unanimously affirmed.\nThe verdict was based on legally sufficient evidence and was not against the weight of the evidence. As to the bail jumping conviction, the prosecution properly relied on the presumption *320of regularity in judicial proceedings (see, People v Diaz, 283 AD2d 170, lv denied 97 NY2d 640) to establish that defendant was aware of the date upon which he was obliged to return to court, in light of the testimony by court personnel regarding the regular practice of informing defendants in writing of their return dates and the absence of any evidence that the regular procedures were not followed.\nDefendant\u2019s guilt of the robbery and larceny counts was established by overwhelming evidence. In light of the strong identification by the victim, only minutes after she was robbed, the very minor discrepancies between her testimony and that of the police officer to whom she gave the description of her assailant are inconsequential. Concur \u2014 Nardelli, J.P., Andrias, Friedman, Marlow and Gonzalez, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6087044
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

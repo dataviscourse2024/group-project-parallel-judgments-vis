@@ -1,0 +1,46 @@
+{
+    "id": 1947695,
+    "judges": "Ervin",
+    "date_filed": 314582400000,
+    "date_filed_is_approximate": false,
+    "slug": "wilson-v-state",
+    "case_name_short": "Wilson",
+    "case_name": "Wilson v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "378 So. 2d 1258"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6889.0,
+            "opinion_text": "\n378 So. 2d 1258 (1979)\nJames Edward WILSON, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. NN-339.\nDistrict Court of Appeal of Florida, First District.\nDecember 21, 1979.\n*1259 James Wilson, pro se.\nJim Smith, Atty. Gen., Lee Mandell and David P. Gauldin, Asst. Attys. Gen., for appellee.\nERVIN, Judge.\nAppellant's appeal from the denial of his motion for post conviction relief challenges the validity of the sentence entered for first degree burglary on the ground the trial court failed to advise him prior to the entry of his plea that he could be subjected to a mandatory minimum sentence of three years since the burglary was committed with use of a firearm. While there is authority holding there is no requirement under Florida law that a defendant be advised of any mandatory minimum sentence, e.g., Knowles v. State, 356 So. 2d 885 (Fla.3d DCA 1978), that decision was decided prior to the addition of Fla.R.Crim.P. 3.172(c)(i), requiring the trial judge to advise the defendant of such penalty. The present rule, effective July 1, 1977, The Florida Bar, 343 So. 2d 1247 (Fla. 1977), applied to appellant's conviction.\nThe state cites United States v. Timmreck, 441 U.S. 780, 99 S. Ct. 2085, 60 L. Ed. 2d 634 (1979) as authority for its position that collateral relief is not available when all a defendant shows is the failure of a trial court to comply with the formal requirements of the rule governing the entry of guilty pleas. In Timmreck, the Court held that a formal violation of Fed.R. Crim.Pr. 11, 18 USCA, is neither constitutional nor jurisdictional, and that the defendant's asserted error, the failure of the trial judge to advise the defendant that the charge involved a three-year minimum mandatory special parole term, should have been raised on direct appeal.\nWe conclude the holding in Timmreck as it applies to a federal rule of criminal procedure, is not controlling. While Fla.R.Crim.P. 3.172 was modeled in part after Rule 11, the Florida rule is different from its federal counterpart since it states that if a defendant pleads guilty or nolo contendere,[1] without an express reservation of his right to appeal, he \"gives up his right to appeal all matters relating to the judgment, including the issue of guilt or innocence, but he does not impair his right to review by appropriate collateral attack.\" See also Fla.R.App.P. 9.140(b)(1). The rule has been construed to preclude appeals from court rulings which preceded guilty pleas but to permit appeals from actions which occurred contemporaneously with the pleas. Robinson v. State, 373 So. 2d 898, 902 *1260 (Fla. 1979). One such contemporaneous action relates to an alleged error that a plea was not voluntarily and intelligently made. In order to preserve such an issue on direct appeal, the record must disclose that it was first presented to the trial court by motion to withdraw the plea. Id. Nevertheless, even in the absence of such motion, as here, the defendant may still raise the issue of his plea's validity by seeking collateral relief. Id. at 903. See also Counts v. State, 376 So. 2d 59 (Fla.2d DCA 1979).\nThe sentence imposed must be vacated and appellant allowed to withdraw his plea. Since this case will be remanded for further proceedings, we feel it necessary to express concern as to whether there exists a factual basis to sustain a conviction for first degree burglary. The allegations in the information track the language of Section 810.02(2)(b), Florida Statutes (1977), alleging that appellant committed burglary of a dwelling and, while doing so, he \"armed himself therein with a dangerous weapon, ..., a firearm ...\". However, the underlying factual basis for the plea, recited at the arraignment, shows only that the defendant committed the theft of a firearm while inside the house he was alleged to have burgled. We stated in Sanders v. State, 352 So. 2d 1187, 1188 (Fla. 1st DCA 1977), that \"the mere showing of theft of a gun after entering a structure, standing alone, is insufficient to establish burglary armed with a dangerous weapon.\" If appellant cannot be convicted of first degree burglary, under the facts, it is questionable whether the mandatory minimum sentence would apply to any lesser degree of burglary.\nReversed and remanded for further proceedings consistent with this opinion.\nMILLS, C.J., and ROBERT P. SMITH, Jr., concur.\nNOTES\n[1]  The Florida Supreme Court has interpreted the rule to require that only nolo contendere pleas \u0097 not guilty pleas \u0097 are subject to a conditional appellate reservation. Robinson v. State, 373 So. 2d 898, 903 (Fla. 1979).\n\n",
+            "ocr": false,
+            "opinion_id": 1947695
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

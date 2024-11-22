@@ -1,0 +1,47 @@
+{
+    "id": 5954917,
+    "judges": null,
+    "date_filed": 1297900800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-okeefe",
+    "case_name_short": "O'Keefe",
+    "case_name": "People v. O'Keefe",
+    "case_name_full": "The People of the State of New York v. John O'Keefe",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "81 A.D.3d 525",
+        "916 N.Y.S.2d 508"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Judgment, Supreme Court, New York County (Daniel P. Conviser, J.), entered April 28, 2009, convicting defendant, after a jury trial, of burglary in the third degree, and sentencing him, as a second felony offender, to a term of 2V2 to 5 years, unanimously affirmed.\nThe court should have granted defendant\u2019s motion to suppress evidence recovered from his backpack. However, the error in admitting the tool and other physical evidence recovered from the backpack was harmless (see People v Crimmins, 36 NY2d 230 [1975]). Without the physical evidence, there was still overwhelming proof of every element of burglary, including the element of entry with intent to commit a crime.\nDefendant\u2019s challenge to the People\u2019s summation is unpreserved and we decline to review it in the interest of justice. As an alternative holding, we also reject it on the merits (see People v Overlee, 236 AD2d 133, 144 [1997], lv denied 91 NY2d 976 [1998]). Concur \u2014 Mazzarelli, J.P., Andrias, Moskowitz, Richter and Manzanet-Daniels, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5813732
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

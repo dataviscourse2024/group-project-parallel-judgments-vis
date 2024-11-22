@@ -1,0 +1,46 @@
+{
+    "id": 5774216,
+    "judges": "Broyles",
+    "date_filed": -968803200000,
+    "date_filed_is_approximate": false,
+    "slug": "evans-v-state",
+    "case_name_short": "Evans",
+    "case_name": "Evans v. State",
+    "case_name_full": "EVANS v. State",
+    "attorneys": "Randall Evans Jr., James R. Evans, Jad\u00ede D. Evans, for plaintiff in error., J. Cecil Eavis, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "60 Ga. App. 26"
+    ],
+    "opinions": [
+        {
+            "author_str": "Broyles",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBroyles, C. J.\n1. \u201cIn a case of burglary, where the guilt of the accused depends upon the possession of an article alleged to have been contained in the house burglarized, it is essential that the identity of the article found in his possession with the article which is alleged to have been stolen shall be established beyond a reasonable doubt. The guilt of the defendant . . being dependent upon proof of his unexplained possession of a razor, and the evidence failing to show that at the time of the burglary this razor was in the storehouse alleged to have been burglarized, the conviction of the defendant was unauthorized by the evidence, and a new trial should have been granted.\u201d Rayfield v. State, 5 Ga. App. 816 (63 S. E. 920).\n8. In the instant case the defendant was convicted of burglary, it having been charged in the indictment that he broke and entered into the storehouse of W. G. Scott and stole therefrom \u201csix bushels of corn in the ear.\u201d The evidence showed that soon after the alleged burglary about six bushels of corn in the ear were found in the defendant\u2019s truck which was parked near his house, and said Scott testified that \u201cthat corn was like the corn I had.\u201d No other witness attempted to identify the corn found in the truck as the corn that was stolen from Scott\u2019s storehouse, and the circumstantial evidence in the case was insufficient to establish, beyond a reasonable doubt, such identity. It follows that the refusal to grant a new trial was error.\n\nJudgment reversed.\n\n\nMacIntyre and Guerry, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5627726
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

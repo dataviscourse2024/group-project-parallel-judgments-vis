@@ -1,0 +1,46 @@
+{
+    "id": 1836199,
+    "judges": "Dixon",
+    "date_filed": 140054400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-white",
+    "case_name_short": "White",
+    "case_name": "State v. White",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "298 So. 2d 733"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4573.0,
+            "opinion_text": "\n298 So. 2d 733 (1974)\nSTATE of Louisiana\nv.\nGarland Wayne WHITE.\nNo. 54483.\nSupreme Court of Louisiana.\nJune 10, 1974.\nRehearing Denied August 30, 1974.\nJesse S. Heard, Jr., David I. Garrett, Jr., Monroe, for defendant-appellant.\nWilliam J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Carl Parkerson, Dist. Atty., John R. Harrison, Asst. Dist. Atty., for plaintiff-appellee.\nDIXON, Justice.\nThe defendant was tried under an indictment charging him with aggravated rape. R.S. 14:42. He was convicted after a trial by jury and sentenced to life imprisonment at hard labor. Defendant appeals relying on two perfected bills of exceptions to obtain reversal of his conviction.\n\n\n*734 Bill of Exceptions No. 1\n\nThis bill relates to the trial court's overruling of defendant's objection to testimony by the State's medical expert that the trauma to the victim's vagina was caused by sexual intercourse. The objection was that the opinion was speculative. R.S. 15:464 provides:\n\"On questions involving a knowledge obtained only by means of a special training or experience the opinion of persons having such special knowledge are admissible as expert testimony.\"\nA physician testifying as an expert may properly give an opinion as to the probable manner in which a wound or other traumatic injury was inflicted where such testimony is based on facts within the knowledge of the witness. See, State v. Williams, 216 La. 419, 43 So. 2d 780 (1950); State v. Avery, 176 La. 264, 145 So. 535 (1933); State v. Breaux, 104 La. 540, 29 So. 222 (1901). Cf. State v. Brown, 166 La. 43, 116 So. 588 (1928).\nIn the instant case the testifying physician had examined the victim shortly after the alleged rape. He stated the facts upon which his opinion was based. C.Cr. P. 465. Thus, as an expert medical witness he could express an opinion regarding the cause of the injuries. See Underhill's Criminal Evidence, Vol. 3, \u00a7 760 (5th ed. 1957).\nThis bill is without merit.\n\nBill of Exceptions No. 2\nThis bill was reserved in response to the denial of defendant's motion for a directed verdict. The motion was grounded on an allegation that the State had failed to prove an essential element of the offense, penetration. See State v. Douglas, 278 So. 2d 485 (La.1973).\nOur review of the record establishes that the State did adduce evidence of penetration. Thus, the case was properly submitted to the jury. See, State v. Jack, 285 So. 2d 204 (La.1973).\nThis bill is without merit.\nFor the reasons assigned, the conviction and sentence are affirmed.\n",
+            "ocr": false,
+            "opinion_id": 1836199
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Rape"
+}

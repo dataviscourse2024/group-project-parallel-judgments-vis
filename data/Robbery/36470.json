@@ -1,0 +1,47 @@
+{
+    "id": 6648723,
+    "judges": "Harwood",
+    "date_filed": -566870400000,
+    "date_filed_is_approximate": false,
+    "slug": "king-v-state",
+    "case_name_short": "King",
+    "case_name": "King v. State",
+    "case_name_full": "KING v. STATE",
+    "attorneys": "Reuben F. McKinley, Jr., Bay Minette, for appellants., Si Garrett, Atty. Gen., L. E. Barton, Asst. Atty. Gen., and Chas. C. Carlton, Montgomery, of counsel, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "36 Ala. App. 368",
+        "56 So. 2d 379"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harwood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHARWOOD, Judge.\nThese three appellants have appealed from a judgment of the Circuit Court of Baldwin County denying their petition for release under habeas corpus proceedings.\nIt is inferable from the record that the matter arose out of a demand for extradition of the three appellants made by the Governor of Louisiana on charges of theft committed in that State.\nThe return filed by the Sheriff was completely insufficient. However no objection was filed and the appellant proceeded to trial on the merits. ' The State introduced as an exhibit a rendition warrant regular on its face as to each appellant issued by the Governor of Alabama. Such documentary evidence established a prima facie c\u00e1se for the State as to each appellant, and if not overcome would have justified the judgment entered. Ex parte Brown, 15 Ala.App. 210, 72 So. 772.\nIt was the contention of the appellants in the proceedings below that their extradition was sought merely for the purpose of aiding in the collection of a debt and therefore prohibited by the terms of Section 68, Title 15, Code of Alabama 1940.\nTo sustain this contention the appellants introduced evidence tending to show that they were members of a troupe of \u201chell drivers\u201d who travelled around putting on exhibitions of dare devil automobile driv*369ing, and that the alleged theft charges were based on transactions they had made with parties in Monroe, Louisiana, in connection with an exhibition there. They contracted for the purchase of gasoline, the printing of placards and tickets, etc., and gave what they termed I. 0. U.\u2019s for payment at the ticket office at the conclusion of their first performance. It rained on this day and they were unable to pay all of their creditors.\nThe appellants further introduced evidence tending to show that they went from Monroe, Louisiana, to Brewton, Alabama. In Brewton they were arrested and held under warrants which they claimed charged the same offenses as the warrants under which they are now held in Baldwin County.\nHowever, they were told in Brewton that if they paid the amounts involved in the Louisiana warrants that the same would be withdrawn. The appellants contend that they did pay such sum to the Sheriff of Escambia County, Alabama, and were released.\nThere was introduced in evidence by the appellants receipts issued to the three appellants by the Sheriff of Escambia County, Alabama. Both receipts are dated 31 October 1951, and one is for the payment of $157.16, on which is noted \u201cFor Sheriff Monroe Louisiana.\u201d The other receipt is for $18.00, and is shown to be for \u201cDetainer\u2019s Fee.\u201d\nThere was also received in evidence a \u25a0copy of a telegram from the Sheriff of Ouachita Parish, Monroe, Louisiana, to the Sheriff of Escambia County, Alabama, which telegram is as follows:\n\u201cSheriff Leo Mills\n\u201cBrewton, Alabama\n\u201cConfirming telephone conversation this date charges on three subjects in your custody will be withdrawn upon your receipt of the amount of money involved in the warrants. Thanking you for your cooperation in this matter.\n\u201cBailey Grant, Sheriff.\u201d\nThe appellants also introduced into evidence the following letter from the Sheriff of Ouachita Parish to the Sheriff of Escambia County:\n\u201cNov. 2, 1951\n\u201cSheriff J. L. Mills\n\u201cEscambia County\n\u201cBrewton, Alabama\n\u201cDear Sheriff\n\u201cThank you for your letter of October 31, 1951 wherein you enclosed check and warrants.\n\u201cAt this time we want to express our appreciation for the cooperation you have given this department and this has been handled very satisfactorily.\n\u201cAssuring you of our cooperation in all matters of mutual concern, we remain .\n\u201cVery Truly Yours\n\u201cBailey Grant\n\u201cSheriff \u2014 by Raymond Knowles,\nDeputy Sheriff.\u201d\nAfter the introduction of the above documentary evidence the appellants propounded questions to one of their witnesses, Mrs. John King, seeking testimony which would tend to show that the warrants on which the appellants were arrested in Escambia County were for the same offenses and initiated by the same parties as were the warrants which formed the basis of their present arrests in Baldwin County.\nThe court sustained the State\u2019s objections to this line of questions with the remark: \u201cI\u2019ve let you introduce the receipts up there, Mr. McKinley and a letter from the Sheriff of Brewton and a copy of a telegram purported to be from them, why waste time going into that sort of thing?\u201d Exceptions were duly reserved to the court\u2019s rulings.\nThe letter from the Sheriff of Ouachita Parish, above set out, establishes that the warrants on which the appellants had been arrested in Brewton had been returned to him. They were out of the jurisdiction of this State. \u201cAbsence of primary evidence from the jurisdiction of the court is one of the recognized grounds for the admission of secondary evidence.\u201d 20 Am.Jur., Evidence, Sec. 434, and cases cited thereunder.\n*370 The telegram arid letter from the Sheriff of Ouachita Parish, Louisiana, tend to establish, we think beyond a reasonable doubt, that the warrants on which appellants were arrested in Brewton, in Escambia County, were issued for the purpose of collecting a debt. If so the appellants could not have been properly extradited thereon. By the same token, if the warrants forming the basis of the issuance of the rendition warrant, of the Governor of Alabama and on which the appellants were arrested in Baldwin County were for the same alleged offenses as were the first set of warrants, such fact would be highly material to a determination of this case. The contents of the first set of warrants would disclose this fact. This evidence should have been permitted. The ruling of the court in the premises was erroneous. This cause must therefore be reversed and remanded.\nReversed and remanded.\n",
+            "ocr": true,
+            "opinion_id": 6525529
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

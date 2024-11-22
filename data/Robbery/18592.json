@@ -1,0 +1,46 @@
+{
+    "id": 300075,
+    "judges": "Dyer, Gewin, Goldberg, Per Curiam",
+    "date_filed": 58492800000,
+    "date_filed_is_approximate": false,
+    "slug": "willie-ben-mccrary-v-louie-l-wainwright-director-division-of",
+    "case_name_short": null,
+    "case_name": "Willie Ben McCrary v. Louie L. Wainwright, Director, Division of Corrections, State of Florida",
+    "case_name_full": "Willie Ben McCRARY, Petitioner-Appellant, v. Louie L. WAINWRIGHT, Director, Division of Corrections, State of Florida, Respondent-Appellee",
+    "attorneys": "Willie B. McCrary, pro se., Robert Shevin, Atty. Gen., Tallahassee, Fla., Charles Corees, Jr., Asst. Atty. Gen., Tampa, Fla., for respondent-ap-pellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b460-12\">\n    Willie Ben McCRARY, Petitioner-Appellant, v. Louie L. WAINWRIGHT, Director, Division of Corrections, State of Florida, Respondent-Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b460-14\">\n    No. 71-1665\n   </docketnumber><br><p data-order=\"2\" data-type=\"misc\" id=\"b460-15\">\n    Summary Calendar.\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n</p><br><court data-order=\"3\" data-type=\"court\" id=\"b460-16\">\n    United States Court of Appeals, Fifth Circuit.\n   </court><br><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b460-18\">\n    Nov. 9, 1971.\n   </decisiondate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b460-29\">\n    Willie B. McCrary, pro se.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b460-30\">\n    Robert Shevin, Atty. Gen., Tallahassee, Fla., Charles Corees, Jr., Asst. Atty.\n    <span citation-index=\"1\" class=\"star-pagination\" label=\"361\"> \n     *361\n     </span>\n    Gen., Tampa, Fla., for respondent-ap-pellee.\n   </attorneys><br><p data-order=\"7\" data-type=\"judges\" id=\"b461-4\">\n    Before GEWIN, GOLDBERG and DYER, Circuit Judges.\n   </p><div class=\"footnotes\"><div class=\"footnote\" data-order=\"8\" data-type=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b460-20\">\n     [1] Rule 18, 5 Cir.; see Isbell Enterprises, Inc. v. Citizens Casualty Co. of New York et al., 5 Cir. 1970, 431 F.2d 409, Part I.\n    </p>\n</div></div>",
+    "citations": [
+        "451 F.2d 360"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/451/451.F2d.360.71-1665.html",
+            "author_id": null,
+            "opinion_text": "451 F.2d 360\n    Willie Ben McCRARY, Petitioner-Appellant,v.Louie L. WAINWRIGHT, Director, Division of Corrections,State of Florida, Respondent-Appellee.\n    No. 71-1665 Summary Calendar.*\n    United States Court of Appeals,Fifth Circuit.\n    Nov. 9, 1971.\n    \n      Willie B. McCrary, pro se.\n      Robert Shevin, Atty. Gen., Tallahassee, Fla., Charles Corces, Jr., Asst. Atty. Gen., Tampa, Fla., for respondent-appellee.\n      Before GEWIN, GOLDBERG and DYER, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      This is an appeal from an order of the District Court denying the petition of a Florida state prisoner for the writ of habeas corpus.  We affirm.\n    \n    \n      2\n      McCrary is serving a 25 year sentence for armed robbery, having been convicted upon trial by jury.  No direct appeal was taken.  A motion to vacate sentence filed in the state trial court pursuant to Fla.R.Crim.P. 1.850, 33 F.S.A., was denied after an evidentiary hearing and affirmed on appeal.  McCrary v. State, Fla.App.1969, 220 So. 2d 445.\n    \n    \n      3\n      The single issue before the court below was whether the prosecution knowingly used perjured testimony to obtain a conviction.  McCrary alleged that the state prosecuting attorney promised McCrary's co-defendant a probated sentence and paid him five dollars to testify that McCrary participated in the crime.  This same issue was the subject of the evidentiary hearing in the state court at which the prosecutor testified that he paid no money and made no promises to obtain the co-defendant's testimony.  McCrary offered the testimony of the codefendant in support of his allegations.  The state court found no credible testimony to support McCrary's allegations.  The United States District Court found that McCrary was afforded a full and fair state hearing and adopted the state court's findings as its own.\n    \n    \n      4\n      The District Court is not required to hold a second evidentiary hearing in these circumstances.  Ryan v. Wainwright, 5 Cir. 1970, 424 F.2d 198.\n    \n    \n      5\n      A review of the record, including the transcript of the state evidentiary hearing, reveals no clear error in the findings of the District Court. 28 U.S.C.A. Sec. 2254.  The judgment below is\n    \n    \n      6\n      Affirmed.\n    \n    \n      \n        *\n         Rule 18, 5 Cir.; see Isbell Enterprises, Inc. v. Citizens Casualty Co. of New York et al., 5 Cir. 1970, 431 F.2d 409, Part I\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 300075
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

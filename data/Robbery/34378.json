@@ -1,0 +1,47 @@
+{
+    "id": 6229484,
+    "judges": "Mercure",
+    "date_filed": 1053561600000,
+    "date_filed_is_approximate": false,
+    "slug": "martin-v-goord",
+    "case_name_short": "Martin",
+    "case_name": "Martin v. Goord",
+    "case_name_full": "In the Matter of Kevin Martin v. Glenn S. Goord, as Commissioner of Correctional Services",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "305 A.D.2d 899",
+        "758 N.Y.S.2d 862"
+    ],
+    "opinions": [
+        {
+            "author_str": "Mercure",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMercure, J.\nAppeal from a judgment of the Supreme Court (Feldstein, J.), entered September 10, 2002 in Franklin County, which dismissed petitioner\u2019s application, in a proceeding pursuant to CPLR article 78, to review two determinations of respondent Director of Temporary Release Programs denying petitioner\u2019s applications for participation in a presumptive work release program and a temporary work release program.\nIn May 2000, petitioner was sentenced as a second felony offender to a prison term of IV2 to 3 years upon his plea of guilty to criminal possession of a controlled substance in the fifth degree. He had previously been convicted of rape in the first degree, burglary in the second degree and assault in the second degree for which he had served time in state prison. Thereafter, petitioner applied for temporary and presumptive work release. His applications were denied and he was directed not to reapply for these programs until June 2003. In March 2002, he commenced this CPLR article 78 proceeding challenging these determinations. Supreme Court dismissed the petition, finding that petitioner\u2019s challenge to the July 18, 2001 determination denying his request to participate in the presumptive *900work release program was time barred and that his challenge to the February 22, 2002 determination denying his request to participate in the temporary work release program was without merit. He now appeals.\nWe affirm. Initially, inasmuch as the July 18, 2001 determination denying petitioner\u2019s application for participation in the presumptive work release program was issued and received by petitioner more than four months before he commenced the instant CPLR article 78 proceeding, Supreme Court properly concluded that petitioner\u2019s challenge to it was untimely (see CPLR 217 [1]; Matter of Ruffin v Joy, 298 AD2d 724, 724-725 [2002]). With respect to petitioner\u2019s challenge to the denial of his application for participation in the temporary work release program, we find no error. It is well settled that participation in a temporary release program is a privilege, not a right (see Correction Law \u00a7 855 [9]; Matter of McGee v Recore, 277 AD2d 555, 556 [2000]). Our review \u201cis limited to whether the determination Violated any positive statutory requirement or denied a constitutional right of the inmate and whether [it] is affected by irrationality bordering on impropriety \u201d (Matter of Dixon v Recore, 271 AD2d 778, 778 [2000], quoting Matter of Gonzalez v Wilson, 106 AD2d 386, 386-387 [1984]). In the instant case, the record establishes that petitioner\u2019s custodial adjustment, his violent criminal history and possession of cocaine while on parole were all considered in connection with his application for participation in the temporary work release program. His application was denied based upon the conclusion that his violent criminal background and use of dangerous illegal drugs would have a negative impact upon the community rendering him unsuitable for temporary release. Inasmuch as these were appropriate considerations (see 7 NYCRR 1900.4 [Z]), we decline to disturb the denial of this application.\nCardona, P.J., Peters, Carpinello and Lahtinen, JJ., concur. Ordered that the judgment is affirmed, without costs.\n",
+            "ocr": true,
+            "opinion_id": 6096243
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

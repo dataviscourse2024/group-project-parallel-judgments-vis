@@ -1,0 +1,47 @@
+{
+    "id": 4162708,
+    "judges": "Brooks",
+    "date_filed": -2046038400000,
+    "date_filed_is_approximate": false,
+    "slug": "aladin-v-state",
+    "case_name_short": "Aladin",
+    "case_name": "Aladin v. State",
+    "case_name_full": "Pedro Aladin v. the State",
+    "attorneys": "No brief for appellant.\n\n Howard Martin,  Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of El Paso. Tried below before Hon. James R. Harper.\n\nAppeal from a conviction of theft from the person; penalty, five years imprisonment in the penitentiary.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": "<p>1. \u2014Theft From the Person\u2014Verdict\u2014Practice.</p> <p>A verdict which alludes to the number and style of the case, but does not say that the jury find the defendant guilty \u201cas charged in the indictment\u201d is sufficient, where the .charge of the court presented the offense charged in the indictment.</p> <p>2. \u2014Same\u2014Circumstantial Evidence.</p> <p>Where the witness testified that he saw defendant take the watch out of the pocket of prosecutor, the issue of circumstantial evidence did not arise.</p>",
+    "summary": "Appeal from the District Court of El Paso. Tried below before Hon. James R. Harper. Appeal from a conviction of theft from the person; penalty, five years imprisonment in the penitentiary. The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b19-3\">\n    Pedro Aladin v. The State.\n   </parties><br><docketnumber id=\"b19-4\">\n    No. 3276.\n   </docketnumber><decisiondate id=\"AM\">\n    Decided March 2, 1905.\n   </decisiondate><br><headnotes id=\"b19-5\">\n    1. \u2014Theft From the Person\u2014Verdict\u2014Practice.\n   </headnotes><br><headnotes id=\"b19-6\">\n    A verdict which alludes to the number and style of the case, but does not say that the jury find the defendant guilty \u201cas charged in the indictment\u201d is sufficient, where the .charge of the court presented the offense charged in the indictment.\n   </headnotes><br><headnotes id=\"b19-7\">\n    2. \u2014Same\u2014Circumstantial Evidence.\n   </headnotes><br><headnotes id=\"b19-8\">\n    Where the witness testified that he saw defendant take the watch out of the pocket of prosecutor, the issue of circumstantial evidence did not arise.\n   </headnotes><br><summary id=\"b19-9\">\n    Appeal from the District Court of El Paso. Tried below before Hon. James R. Harper.\n   </summary><br><summary id=\"b19-10\">\n    Appeal from a conviction of theft from the person; penalty, five years imprisonment in the penitentiary.\n   </summary><br><summary id=\"b19-11\">\n    The opinion states the case.\n   </summary><br><attorneys id=\"b19-12\">\n<em>\n     No\n    </em>\n    brief for appellant.\n   </attorneys><br><attorneys id=\"b19-13\">\n<em>\n     Howard Martin,\n    </em>\n    Assistant Attorney-General, for the State.\n   </attorneys>",
+    "citations": [
+        "86 S.W. 327",
+        "48 Tex. Crim. 1"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brooks",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Appellant was convicted of theft from the person, and his punishment fixed at five years confinement in the penitentiary. The first ground of the motion complains that the verdict of the jury is contrary to law and the evidence, and not supported by either. The evidence shows by positive testimony a case of theft from the person of a watch belonging to prosecutor; and is certainly supported by the law and the evidence.\nHe also insists that the verdict of the jury is void, in this, that no valid judgment can be rendered on it. The verdict as copied in the judgment is as follows: \"The State of Texas, No. 3839 v. Pedro Aladin. We the jury, in the above case find the defendant guilty and assess his punishment at confinement in the penitentiary for five years, J.J. Bruck, Foreman.\" The charge of the court presented the offense as charged in the indictment, of theft from the person. This verdict was written in said case, and alludes to the number and style of the case. Upon it the judgment was rendered. We think this sufficiently identifies and makes clear what the jury mean, in that it clearly shows they intended to and did find defendant guilty of theft from the person.\nAppellant insists that the court erred in failing to charge on *Page 2 \ncircumstantial evidence. This is not a case of circumstantial evidence. Witness testified that he saw appellant take the watch out of the pocket of the prosecutor. There is no error in the record. The judgment is affirmed.\nAffirmed.\nHenderson, Judge, absent.",
+            "ocr": false,
+            "opinion_id": 3928869
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

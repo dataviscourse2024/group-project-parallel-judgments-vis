@@ -1,0 +1,46 @@
+{
+    "id": 5915212,
+    "judges": null,
+    "date_filed": -1814400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-ambrosoli",
+    "case_name_short": "Ambrosoli",
+    "case_name": "People v. Ambrosoli",
+    "case_name_full": "The People of the State of New York v. James Ambrosoli",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "33 A.D.2d 881"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOrder unanimously affirmed. Memorandum: Heretofore we affirmed (28 A D 2d 1090) a judgment convicting appellant of robbery, first degree. The present appeal is from an order denying coram nobis relief. The petition in substance presents the issue as to whether or not certain pretrial identification procedures were so unnecessarily suggestive and conducive to an erroneous identification that they violated due process (Stovall v. Denno, 388 U. S. 293). We normally would remand the case for determination of this issue by the trial court (cf. People v. Schnebly, 33 A D 2d 883). However, in view of the circumstances surrounding the pretrial identifications demonstrated in the trial record before us we conclude that a determination should be made thereon by this court (cf. People v. Logan, 25 N Y 2d 184). Upon the trial one Herman, an employee of a gas station, testified that defendant entered the well-lighted station, made a purchase of a pair of gloves, drew a gun from his pocket and took from Herman a substantial sum of money. Defendant was wearing a black jacket and dark trousers. Herman observed appellant walk away and enter a 1957 white Oldsmobile. Appellant was in the station some 10 to 15 minutes. Herman looked the man directly in the face during this period. While this was going on a car operated by one Huggins and containing two passengers drove to one of the gas pumps outside of the station. Each of the three testified in substance that the area was flood-lighted; that each observed a man with dark jacket and dark trousers leave the station and enter a white Oldsmobile. Huggins in his vehicle pursued the Oldsmobile, but lost sight of it in heavy traffic. Each of these four witnesses variously testified that within 30 minutes to an hour later defendant was returned to the station in the custody of police officers and identified by each as the same man each had seen leave the station and enter the white Oldsmobile. Herman also identified him as the man who had committed the robbery. There was further testimony that appellant *882had been apprehended by the police while driving a 1957 white Oldsmobile. Therein were found gloves similar to those purchased by appellant in the station, a revolver and shells and a sum of money. \u201c The test to be used in determining the propriety of the pretrial identification is one of \u2018 fairness \u2019 or, in other words, did the suggestive elements in the identification process make it all but inevitable that the witness would identify the defendant [citing case]. This \u2018 depends on the totality of the circumstances surrounding it\u2019 (Stovall v. Denno, supra, at p. 302).\u201d (People v. Logan, supra, p. 191.) Judged by these standards we conclude that none of these pretrial identifications was unfair but was \u201c The prompt identification by * * * the witnesses shortly after the criminal event \u201d and was not \u201c due to suggestive police action or arrangements \u201d (People V. Logan, supra, pp. 188, 194). Thus, there was no deprivation of the due process rights of appellant. (Appeal from order of Erie County Court denying motion to vacate judgment of conviction for robbery, first degree, rendered September 13, 1966.) Present \u2014 -Del Veechio, J. P., Marsh, Gabrielli, Moule and Bastow, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5772849
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

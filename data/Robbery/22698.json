@@ -1,0 +1,47 @@
+{
+    "id": 3475436,
+    "judges": "Land",
+    "date_filed": -1186876800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-verret",
+    "case_name_short": "Verret",
+    "case_name": "State v. Verret",
+    "case_name_full": "STATE v. VERRET Et Al.",
+    "attorneys": "Lewis & Lewis and George K. Perrault, all of Opelousas, for appellants., Percy Saint, Atty. Gen., E. R. Schowalter, Asst. Atty. Gen., R. Lee Garland, Dist. Atty., of Opelousas (James O\u2019Niell, Sp. Asst, to Atty. Gen., of counsel), for the States",
+    "nature_of_suit": null,
+    "posture": "Appeal from Thirteenth Judicial District Court, Parish of St. Landry; B.H. Pavy, Judge.\n\nBlack Verret was convicted of robbery, and he appeals.\n\nAffirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 45,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<citation id=\"b560-5\">\n    142 So. 688\n   </citation><br><parties id=\"b560-6\">\n    STATE v. VERRET et al.\n   </parties><br><docketnumber id=\"b560-7\">\n    No. 31803.\n   </docketnumber><br><decisiondate id=\"b560-8\">\n    May 23, 1932.\n   </decisiondate><br><attorneys id=\"b560-22\">\n    Lewis &amp; Lewis and George K. Perrault, all of Opelousas, for appellants.\n   </attorneys><br><attorneys id=\"b560-23\">\n    Percy Saint, Atty. Gen., E. R. Schowalter, Asst. Atty. Gen., R. Lee Garland, Dist. Atty., of Opelousas (James O\u2019Niell, Sp. Asst, to Atty. Gen., of counsel), for the States\n   </attorneys>",
+    "citations": [
+        "142 So. 688",
+        "174 La. 1059"
+    ],
+    "opinions": [
+        {
+            "author_str": "Land",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Defendants are indicted for the crime of robbery. Black Verret was convicted and sentenced to imprisonment in the state penitentiary for not less than 7 years and not more than 14 years.\nOn appeal defendant Black Verret relies upon two bills of exceptions.\n                           Bill No. 1.\nOn the trial of the case evidence was adduced by the state to show that the money was taken by two of the robbers from a box in an armoire in the bedroom of Valmont Ledoux, while he and his family were being *Page 1061 \nheld in custody in the dining room by two other robbers, armed with a shotgun and a pistol. The house consisted of four rooms.\nThis evidence was objected to by counsel for defendant as not responsive to the indictment, which is in the usual common-law form for robbery, a common-law crime in this state. After setting forth the felonious assault, and the putting in fear of Valmont Ledoux and his wife, it is alleged in the indictment that the defendants \"did then feloniously and violently steal from the person, and against the will of the said Valmont Ledoux and the said Mrs. Valmont Ledoux certain money to wit: The sum of ($1,100.00) Eleven Hundred Dollars belonging to the said Valmont Ledoux.\"\nThe objection that the evidence offered by the state was not responsive to the charge in the indictment &#8212; that the money was taken \"from the person\" &#8212; is without merit and was properly overruled.\nIt is well settled that the words, \"taking from the person of another,\" as used in connection with the common-law definition of robbery, are not restricted in application to those cases in which the property taken is in actual contact with the person of the one from whom it is taken, but, if the property is away from the owner, yet under his control, for instance in another room of the house, it is nevertheless in his personal possession; and, if he is deprived thereof, it may well be said it is taken from his person. 23 R.C.L., p. 1142.\nIn State v. Wilson, 136 La. 345, 67 So. 26, 27, this court declared: \"`Robbery' is the felonious taking of the property of another from his person, or in his presence, against his will, by violence or by putting him in fear.\" *Page 1062 \nHughes' Criminal Law and Procedure, &#167; 790, announces the rule to be: \"An allegation in the indictment charging robbery `from the person' will be supported by evidence of robbery `in the presence' of the person robbed.\" See, also, McClain on Criminal Law, &#167; 474.\nTo the same effect are the following cases: State v. Eddy (Mo. Sup.) 199 S.W. 186; Hill v. State, 145 Ala. 58, 40 So. 654, 655; Rice v. State, 204 Ala. 104, 85 So. 437.\n                           Bill No. 2.\nDefendant applied for a new trial on the following grounds:\n(a) That the verdict of the jury is contrary to the law and the evidence. The trial judge declares that the verdict was supported by the evidence. Therefore, no question of law is presented to this court for review.\n(b) That the court fell into reversible error in the ruling complained of in bill of exception No. 1. We have already disposed of this bill adversely to the contentions of counsel for defendant.\n(c) That the court erred in charging the jury that it could render only the verdicts of guilty and not guilty, whereas, under the law, a verdict of guilty of the crime of larceny would have been responsive to the indictment herein.\nNo objection was made to the charge given by bill of exceptions reserved by defendant before the jury retired to deliberate upon their verdict, as required by article 391 of the Code of Criminal Procedure. Such objection cannot be made in a motion for a new trial. It comes too late.\nThe conviction and sentence appealed from are affirmed. *Page 1063 ",
+            "ocr": false,
+            "opinion_id": 3474732
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 6128687,
+    "judges": null,
+    "date_filed": 812851200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-harrison",
+    "case_name_short": "Harrison",
+    "case_name": "People v. Harrison",
+    "case_name_full": "The People of the State of New York v. Marcus Harrison",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "220 A.D.2d 237",
+        "632 N.Y.S.2d 16"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment, Supreme Court, New York County (Daniel FitzGerald, J.), rendered May 5, 1994, convicting defendant, after a jury trial, of grand larceny in the fourth degree, and sentencing him, as a second felony offender, to a term of 2 to 4 years, unanimously affirmed.\nUpon the exercise of our factual review power, including consideration of the testimony of defendant\u2019s alibi witness and the inconsistencies and inaccuracies in the People\u2019s case pointed out by defendant, we find that the verdict was not against the weight of the evidence. The inconsistencies and inaccuracies in question may indicate that the complainant is a person susceptible to suggestion, but were at best tangential to the theft and the complainant\u2019s unwavering identification of defendant as the thief. Complainant\u2019s testimony was all the more credible given the witness\u2019s prior acquaintanceship with defendant and ample opportunity to observe in well-lit conditions. The alibi witness, among other things, did not convincingly explain why defendant, who was just an acquaintance of hers, showed up at her apartment an hour before the theft and then stayed for six hours. Concur\u2014Sullivan, J. P., Rosenberger, Wallach, Ross and Tom, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5993869
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

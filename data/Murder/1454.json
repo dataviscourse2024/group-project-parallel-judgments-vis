@@ -1,0 +1,46 @@
+{
+    "id": 8047802,
+    "judges": "Adams, Other",
+    "date_filed": -3025555200000,
+    "date_filed_is_approximate": true,
+    "slug": "crafton-v-hannibal-st-joseph-railroad",
+    "case_name_short": "Crafton",
+    "case_name": "Crafton v. Hannibal & St. Joseph Railroad",
+    "case_name_full": "John Crafton v. The Hannibal & St. Joseph Railroad Company",
+    "attorneys": "Carr, Hall \u00a3f Oliver, for Appellant., George W. Easley, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Damages \u2014 Railroads\u2014Killing stock \u2014 Negligence.\u2014In unloading salt at a depot by the railroad employees, some of ,it was spilled, and afterwards a cow was killed by the cars at this point, presumably attracted thither by the salt: Held, that it was negligence to leave this salt on the track, and the railroad was liable.</p>",
+    "summary": "\nAppeal from Linn Circuit Court.\n",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "55 Mo. 580"
+    ],
+    "opinions": [
+        {
+            "author_str": "Adams",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAdams, Judge,\ndelivered the opinion of the court.\nThis was an action by plaintiff against the railroad company for killing a cow belonging to him, commenced before a justice of the peace, and taken by appeal by defendant to the Circuit Court.\nUpon the trial the evidence conduced to prove that.the cow had been killed by an engine of defendant. The evidence also conduced to show that the defendant had, on the day previous to the.night the cow was killed, unloaded some salt, *581and some of the salt had been spilled on the track, which attracted cattle. The cow was found dead on the track near this salt, the next morning, and when skinned, the sides seemed to be bruised, &amp;c. The evidence showed the cow to be worth forty dollars, and the jury found a verdict for that amount, for which the court rendered judgment. \"When the evidence was closed, and before the ease was submitted to the jury, the defendant demurred to the evidence, but the court overruled the demurrer, and the defendant excepted and, after filing a motion for a new trial, which was overruled, has brought the case here by appeal.\nThe only point made is that there was no evidence of negligence on the part of the defendant and, if there was, the plaintiff was guilty of contributory negligence by letting his cow run out when he had notice that there was salt spilt on the road. The evidence, in my judgment is amply sufficient to prove negligence in the servants of defendant, in leaving salt on the track, which it is well known will attract cattle. Although the plaintiff may have known salt was on the track, it was not his, but the defendant\u2019s, business to remove it. And he might well presume, that the defendant\u2019s'servants would attend to their own business without any prompting from him.\nJudgment affirmed\nwith the concurrence of the other judges.\n",
+            "ocr": true,
+            "opinion_id": 8004439
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

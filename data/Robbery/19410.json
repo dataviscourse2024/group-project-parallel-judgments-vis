@@ -1,0 +1,47 @@
+{
+    "id": 1365263,
+    "judges": "Bell, McMurray, Smith",
+    "date_filed": 233539200000,
+    "date_filed_is_approximate": false,
+    "slug": "london-v-state",
+    "case_name_short": "London",
+    "case_name": "London v. State",
+    "case_name_full": "London v. the State",
+    "attorneys": "Johnson & Casper, Michael R. Casper, for appellant., JeffC. Wayne, District Attorney, James H. Whitmer, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted May 3, 1977",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b460-12\">\n    53929.\n   </docketnumber><parties id=\"Aafl\">\n    LONDON v. THE STATE.\n   </parties>",
+    "citations": [
+        "236 S.E.2d 158",
+        "142 Ga. App. 426"
+    ],
+    "opinions": [
+        {
+            "author_str": "McMurray",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7168.0,
+            "opinion_text": "\n142 Ga. App. 426 (1977)\n236 S.E.2d 158\nLONDON\nv.\nTHE STATE.\n53929.\nCourt of Appeals of Georgia.\nSubmitted May 3, 1977.\nDecided May 27, 1977.\nJohnson &amp; Casper, Michael R. Casper, for appellant.\nJeff C. Wayne, District Attorney, James H. Whitmer, *428 Assistant District Attorney, for appellee.\nMcMURRAY, Judge.\nDefendant appeals his conviction of attempted burglary. Held:\n1. Defendant contends the court erred in failing to declare a mistrial upon motions made by the defendant based upon improper examination of a state's witness and improper closing arguments made by the assistant *427 district attorney. In two of the three instances the trial court rebuked the assistant district attorney and instructed the jury in such a manner as to remove from their consideration the improper statements made by the assistant district attorney. In the third instance the court fully instructed the jury to disregard the remarks of the assistant district attorney but did not separately rebuke him. The corrective action taken by the trial court was sufficient and no abuse of discretion appears. The Supreme Court has held that where the instruction by the court to the jury to disregard the remarks was full, it in effect amounted to a rebuke of counsel. Code \u00a7 81-1009; Counts v. Moorehead, 232 Ga. 220 (206 SE2d 40); Wells v. State, 194 Ga. 70 (5), 75 (20 SE2d 580); Quaid v. State, 132 Ga. App. 478, 483 (2) (208 SE2d 336).\n2. The defendant contends the court erred in refusing to give his requested charge on presumption of innocence. The court charged fully on the presumption of innocence and is not required to charge in the language requested by the defendant where the court charges substantially the same principle or principles contained in the request. Mathis v. State, 133 Ga. App. 445, 446 (2) (211 SE2d 400); Teal v. State, 234 Ga. 159 (3) (214 SE2d 888). However, the facts and circumstances of this case were not such that same were susceptible of two interpretations so as to require that an interpretation of the facts consistent with defendant's innocence should prevail. Johnson v. State, 13 Ga. App. 586 (2) (79 SE 524), is not applicable. See Nolen v. State, 124 Ga. App. 593, 594, 596 (184 SE2d 674), as to when a charge is required as to two theories presented by the evidence, one of innocence and one of guilt, that justice and humanity compel acceptance of the theory of innocence by the jury. The court was not required to give such a charge here.\nJudgment affirmed. Bell, C. J., and Smith, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1365263
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

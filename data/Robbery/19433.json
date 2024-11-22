@@ -1,0 +1,46 @@
+{
+    "id": 1862421,
+    "judges": "Nesbitt, Levy and Goderich",
+    "date_filed": 713491200000,
+    "date_filed_is_approximate": false,
+    "slug": "nixon-v-state",
+    "case_name_short": "Nixon",
+    "case_name": "Nixon v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "603 So. 2d 660"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n603 So. 2d 660 (1992)\nLavelle NIXON, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 91-2191.\nDistrict Court of Appeal of Florida, Third District.\nAugust 11, 1992.\nGene Reisman, Miami, for appellant.\nRobert A. Butterworth, Atty. Gen., and Barbara Arlene Fink, Asst. Atty. Gen., for appellee.\nBefore NESBITT, LEVY and GODERICH, JJ.\nPER CURIAM.\nDefendant Lavelle Nixon seeks reversal of his criminal convictions for second-degree attempted murder with a firearm; armed robbery with a firearm; and unlawful possession of a firearm while engaged in a criminal offense. Based upon our examination of the record and briefs, as well as the state's confession of error, we find that the jury instructions given with respect to the offenses of attempted murder and possession of a firearm during the commission of a felony were incomplete and necessitate reversal for a new trial. The defendant's conviction of armed robbery is nonetheless affirmed.\nAt trial, the defendant claimed that early on the day of the incident which formed the basis of the charges brought against him, he was confronted by several cars with passengers pointing guns at him. Nixon *661 managed to escape the scene. Immediately thereafter, someone told him that he was going to be the target of a shooting. A few hours later, the victim drove up to him, pointing a gun. Nixon claimed he was scared and began shooting. The evidence at trial demonstrated that after the victim left his car and was running away from the defendant, Nixon entered the victim's vehicle and fled the scene.\nThe charge of attempted felony murder went to the jury with the lesser offenses of attempted murder in the second degree, attempted murder in the third degree, attempted manslaughter, and aggravated battery. In defining attempted manslaughter to the jury, the court stated:\nHowever, the defendant cannot be guilty of attempted manslaughter if the attempted killing was either justifiable or excusable homicide as I have previously explained those terms.\nAt this point, the court had previously explained neither justifiable nor excusable homicide. The court later defined the term justifiable, but not the term excusable, homicide. The court never charged the jury separately on the elements of the offense of unlawful display of a firearm while engaged in a felony.\nAppellant correctly points out that the trial court was required to instruct the jury on attempted manslaughter as the next immediate lesser included offense of the offense charged. Marshall v. State, 529 So. 2d 797 (Fla. 3d DCA 1988). A trial court commits fundamental error when it instructs the jury on manslaughter without defining justifiable and excusable homicide where there is evidence which would have supported either defense. Rojas v. State, 552 So. 2d 914 (Fla. 1989); Kitchen v. State, 592 So. 2d 773 (Fla. 3d DCA 1992); Banda v. State, 536 So. 2d 221 (Fla. 1988), cert. denied, 489 U.S. 1087, 109 S. Ct. 1548, 103 L. Ed. 2d 852 (1989). Here, because Nixon's defense was self-defense, the omitted instruction would have covered a matter actually in dispute. State v. Delva, 575 So. 2d 643, 645 (Fla. 1991); Morton v. State, 459 So. 2d 322 (Fla. 3d DCA 1984), review denied, 467 So. 2d 1000 (Fla. 1985). Thus, the trial court's failure to instruct the jury on excusable homicide during the attempted manslaughter instruction requires reversal of defendant's conviction for second-degree attempted murder with a firearm.\nA defendant cannot be separately convicted and sentenced for the crime of unlawful display of a firearm while engaged in a felony and for the underlying felony of attempted murder in the second degree with a firearm. Cleveland v. State, 587 So. 2d 1145 (Fla. 1991). Also, in instructing a jury for an offense defined in section 790.07(2), Florida Statutes (1991), that instruction should clearly reflect the underlying crime charged.\nFor the foregoing reason, defendant's conviction for attempted murder and possession of a firearm during the commission of a felony, as well as the sentence imposed, are reversed and remanded for a new trial.\nThe defendant's conviction and sentence for armed robbery is affirmed.\nAffirmed in part and reversed in part and remanded.\n",
+            "ocr": false,
+            "opinion_id": 1862421
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

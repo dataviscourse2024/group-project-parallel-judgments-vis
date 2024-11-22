@@ -1,0 +1,46 @@
+{
+    "id": 5784124,
+    "judges": "Banke",
+    "date_filed": 355708800000,
+    "date_filed_is_approximate": false,
+    "slug": "duckett-v-state",
+    "case_name_short": "Duckett",
+    "case_name": "Duckett v. State",
+    "case_name_full": "DUCKETT v. State",
+    "attorneys": "D. William Garrett, Jr., for appellant., Frank C. Mills III, District Attorney, Wallace W. Rogers, Jr., Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "158 Ga. App. 285"
+    ],
+    "opinions": [
+        {
+            "author_str": "Banke",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBanke, Judge.\nThe state filed a libel for the forfeiture of the appellant\u2019s car pursuant to Code \u00a7 79A-828, alleging that it had been used for the transportation of more than four ounces of marijuana. This is an appeal from an order granting the petition.\nThe appellant and three passengers were stopped by police as they drove onto a state highway from a dirt logging road near Jasper, Georgia. The officers were responding to a burglary report at the time and were on the lookout for a small car similar in color to the appellant\u2019s. Also, earlier that day, someone had set fire to a car on the logging road. This combination of circumstances constituted the basis for the detention.\nWhen the officers approached the car, one of the passengers exited from the back of the car and ran. As he was being pursued, he discarded a white paper bag, which was found to contain several packets of marijuana, totalling about seven and one-half ounces. No other drugs were discovered. Held:\n1. The appellant complains that the trial court failed to require compliance with two of the procedural dictates of the condemnation statute. The first is a requirement that the court \u201ccause process to issue to the present custodian in possession of the merchandise [in this case, the sheriff] ... commanding him to seize ... and hold that merchandise for further order of the court.\u201d The second is a requirement that the hearing be set by \u201cfurther order of the court,\u201d whereas, in this case, the rule nisi was issued by the clerk.\nThe trial court ruled that if the failure to serve the sheriff was a defect, it was amendable, and accordingly allowed the state to serve the sheriff before he testified. This ruling could not have harmed the appellant in any way. The sheriff had already seized the vehicle and was present in court and prepared to testify concerning this fact.\nAs regards the clerk\u2019s action in signing the rule nisi, the trial court stated that the clerk had been delegated this authority. The clerk is also delegated such authority by Code Ann. \u00a7 24-2714. His exercise of it in this case did not invalidate the proceedings.\n*2862. Appellant contends that the state failed to carry its burden of proving that the marijuana seized was in fact transported in his automobile for \u201csale or receipt,\u201d and that it in fact amounted to more than four ounces, as required by the statute to authorize forfeiture for marijuana. Regarding the second portion of the argument, the analyst from the crime laboratory testified that the marijuana received by him weighed 7.8 ounces. On cross examination, the police officer who had originally retrieved the contraband testified that he had stated in his original report that there were seven separate bags, whereas, the analyst testified that there were eight bags. The officer testified that he had not added any bags to the total before delivering the evidence to the crime laboratory. There was otherwise no evidence of tampering, and the police officer testified that he might have initially miscounted the number of bags. \u201cThe law does not require the state, in order to render the evidence admissible, to negate all possibilities of tampering or error while the evidence is in official custody, but merely to establish that it is reasonably certain that substitution, alteration or tampering did not occur. Meadows v. State, 135 Ga. App. 758 (219 SE2d 174) and cits.\u201d Lentile v. State, 136 Ga. App. 611, 615 (2) (222 SE2d 86 (1975). Under the circumstances, the evidence was properly received; and from it the trial court was authorized to find that more than four ounces of marijuana were being transported in appellant\u2019s car.\nAs concerns the evidence of sale or receipt, the quantity and packaging of the marijuana permit the inference that it was intended for sale. Compare Green v. State, 155 Ga. App. 795 (272 SE2d 761) (1980). The statute provides that \u201c[n]o conveyance is subject to forfeiture ... by reason of any act or omission established by the owner thereof to have been committed without his knowledge or consent,\u201d and the appellant did not testify or otherwise establish his lack of knowledge. Furthermore, the arresting officer testified that the appellant had admitted smoking a marijuana cigarette with the others in the car.\n3. Appellant contends that his admission was not shown to have been preceded by the Miranda warnings and also that his arrest without a warrant rendered the marijuana inadmissible as evidence. These contentions are likewise without merit. The evidence warranted a conclusion that the appellant made his statement spontaneously, prior to any questioning by the officers. The marijuana was retrieved after a permissible \u201cinvestigative stop,\u201d State v. Thomason, 153 Ga. App. 345 (1) (265 SE2d 312) (1980), and after the passenger had thrown it on the ground. Consequently, there was no requirement that a warrant be obtained.\n\nJudgment affirmed.\n\n\nDeen, P. J., and Carley, J., concur.\n\n*287Decided April 10, 1981.\nD. William Garrett, Jr., for appellant.\nFrank C. Mills III, District Attorney, Wallace W. Rogers, Jr., Assistant District Attorney, for appellee.\n",
+            "ocr": true,
+            "opinion_id": 5638270
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

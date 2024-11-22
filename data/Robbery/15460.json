@@ -1,0 +1,46 @@
+{
+    "id": 1700542,
+    "judges": "Tyson",
+    "date_filed": 264124800000,
+    "date_filed_is_approximate": false,
+    "slug": "collins-v-state",
+    "case_name_short": "Collins",
+    "case_name": "Collins v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 13,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "361 So. 2d 383"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6166.0,
+            "opinion_text": "\n361 So.2d 383 (1978)\nDemp COLLINS\nv.\nSTATE.\n3 Div. 863.\nCourt of Criminal Appeals of Alabama.\nMay 16, 1978.\nRehearing Denied June 28, 1978.\n*384 Emily B. Gassenheimer, Montgomery, for appellant.\nWilliam J. Baxley, Atty. Gen., and James Hampton, Asst. Atty. Gen., for the State, appellee.\nTYSON, Judge.\nThe three-count indictment charged Demp Collins with three separate and distinct robberies of persons in Lowndes County. The appellant's counsel filed a written motion to quash the indictment, averring a misjoinder of offenses and a misjoinder of transactions, which was overruled prior to trial (R. pp. 4, 5).\nAppellant's counsel also challenged the proof offered on trial by requesting an election, and by objection to the evidence, on the basis of a misjoinder of offenses, and further asserted the same points by motion for judgment notwithstanding the verdict, and by motion for new trial, all of which were denied by the trial court.\nThree verdicts were brought in by the jury, each finding the appellant guilty of robbery, as charged, and fixing the punishment at ten years imprisonment. The trial court then entered judgment in accordance with these three verdicts. From these adverse rulings, the appellant prosecutes this appeal.\nThe issue dispositive of this appeal may be stated in the following manner. May three separate and distinct robberies, each constituting a separate offense and being wholly unrelated to the other alleged robberies, be combined in three separate counts in one indictment? We answer in the negative.\n\nI\nThe indictment in question reads as follows (omitting formal parts):\n\"COUNT I:\nThe Grand Jury of said County charge that before the finding of this Indictment Demp Collins, whose name is to the Grand Jury otherwise unknown, feloniously took, towit: $135.00 in lawful currency of the United States, the denominations being otherwise unknown to the Grand Jury, of the value of, towit: $135.00, and a .32 caliber pistol of the value of, towit: $50.00, of the aggregate value of, towit: $185.00, the property of Reeves Favor, which was in the care, custody or control, of Betty Favor, from her person, and against her will, by violence to her person, or by putting her in such fear as unwillingly to part with the same against the peace and dignity of the State of Alabama.\n\"COUNT II:\nThe Grand Jury of said County further charges that before the finding of this Indictment, Demp Collins, whose name is to the Grand Jury otherwise unknown, feloniously took, towit: $67.00 in lawful currency of the United States, the denominations being otherwise unknown to the Grand Jury, of the value of, towit: $67.00, the property of Lucy Ryals, from her person, and against her will, by violence to her person, or by putting her in such fear as unwillingly to part with the same against the peace and dignity of the State of Alabama.\n\"COUNT III:\nThe Grand Jury of said County further charges that before the finding of this Indictment, Demp Collins, whose name is *385 to the Grand Jury otherwise unknown, feloniously took, towit: 6 beers, of the value of, towit: $3.00, the property of Margie Rhodes, from her person, and against her will, by violence to her person, or by putting her in such fear as unwillingly to part with the same, against the peace and dignity, etc.\"\nThe rule covering the situation presented by this record is well stated in the early Alabama case of Wooster v. State, 55 Ala. 217:\n\". . . The rule to which the counsel of appellant refers, extracted from former decisions of this court\u0097that two offenses, committed by the same person, may be included in the same indictment, in different counts, only when they are of the same general nature, and belong to the same family of crimes, and where the mode of trial and nature of punishment are also the same\u0097obtains only in cases of felony. In such cases, no objection to the indictment, for a misjoinder, can be made by demurrer. A motion to the court, to compel an election of the counts on which a conviction will be sought, is the only right of the accused.\u00971 Arch. Cr.Pl. &amp; Pr. 94-5. The motion will always be granted, or the court, of its own motion, will interfere, by quashing the indictment, when an attempt is made, as manifested either by the indictment or the evidence, to convict the accused of two or more offenses, growing out of distinct and separate transactions. The court ought not and will not interpose, when the joinder is intended and calculated to meet the different aspects in which the evidence may present a single transaction, or a single offense.\u0097Mayo v. State, 30 Ala. 32 . . . .\"\nSee also Butler v. State, 91 Ala. 87, 9 So. 191; Thomas v. State, 111 Ala. 55, 20 So. 617; and Perry v. State, 25 Ala.App. 224, 143 So. 835.\nThe proof offered on trial established that on March 12, 1977, or March 15, 1977, the proprietors of three small grocery stores in Lowndes County, Alabama, were robbed by several black males. The appellant is alleged to have been one of the alleged five participants in each of the three robberies.\nIt was admitted in oral argument of this cause that none of the other four defendants were charged with these same three offenses in one indictment.\nWe pretermit consideration of other assignments of error as the same are not likely to occur again on retrial of this cause.\nFor the errors shown in allowing the misjoinder of the three offenses, the judgment is reversed and the cause remanded for a new trial.\nREVERSED AND REMANDED.\nAll the Judges concur.\n",
+            "ocr": false,
+            "opinion_id": 1700542
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 8312869,
+    "judges": "Greenbaum",
+    "date_filed": -1906675200000,
+    "date_filed_is_approximate": false,
+    "slug": "cohen-v-minzesheimer",
+    "case_name_short": "Cohen",
+    "case_name": "Cohen v. Minzesheimer",
+    "case_name_full": "COHEN v. MINZESHEIMER",
+    "attorneys": "Robt. B. Honeyman, for plaintiffs., J. F. McIntyre, for defendants.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Libel and Slander (\u00a7 139*)\u2014Slander of Title\u2014Complaint.</p> <p>The complaint, averring that plaintiff sold negotiable bonds on the Stock Exchange; that defendants then gave notice on the Exchange that they had been stolen from them; that the purchaser thereupon refused to take, on the ground that under the rules of the Exchange they became undeliverable after such notice; and that plaintiff was afterwards adjudged the owner of them, but on account of depreciation meanwhile in the price was obliged to sell them at a less price\u2014not showing how the rules of the Exchange could nullify the law, under which plaintiff could have held the purchaser on the sale, notwithstanding the notice, states a case merely of damnum absque injuria.</p> <p>[Ed. Note.\u2014For other cases, see Libel and Slander, Cent. Dig. \u00a7 394; Dec. Dig. \u00a7 139.*]</p> <p>2, Libel and Slander (\u00a7 139*)\u2014Slander of Title\u2014Damages.</p> <p>Expenses of a suit to establish title cannot be recovered in an action for slander of the title.</p> <p>[Ed. Note.\u2014For other cases, see Libel and Slander, Dec. Dig. \u00a7 139.*]</p>",
+    "summary": "Action by one Cohen and others against one Minzesheimer and others. Plaintiffs alleged that they were members of the New York Stock Exchange; that they sold on the Exchange certain negotiable bonds, of which they were bona fide holders; that defendants later gave notice on the Exchange and to the mortgagor that the bonds had been stolen from them; that the purchaser refused to take delivery, on the ground that under the rules of the Exchange they became \u201cundeliverable\u201d after defendants gave such notice; that they sued the mortgagor on coupons of the bonds, and on appeal were adjudged the owners of the bonds and coupons; that the bonds depreciated meantime, and were sold by them at less than the price on the sale which the former vendee had refused to complete. Judgment was demanded for the depreciation and the expenses of the suit on the coupons. On demurrer defendants asserted that the rule of the Exchange did not release the original vendee, and that, therefore, plaintiffs being able to hold him to his contract, there could be no recovery for depreciation.",
+    "disposition": "Demurrers to complaint sustained.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "118 N.Y.S. 385"
+    ],
+    "opinions": [
+        {
+            "author_str": "Greenbaum",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGREENBAUM, J.\nFrom the allegations of the complaint it is to be assumed that the bonds claimed by defendants to have been stolen from them were negotiable, that the plaintiffs were bona fide purchasers, for value, and that plaintiffs had effected a valid sale of the bonds at market prices, unless the public notice given by defendants that they had been stolen made them \u201cundeliverable\u201d under the rules of the Stock Exchange, justifying a refusal by the purchasers to take on that ground. I fail to understand from the allegations in the complaint how the rules of the Stock Exchange may abrogate or nullify the law of the state, under which the plaintiffs could have held the purchasers upon the sale, notwithstanding the defendants\u2019 public notice, of the theft of the bonds. Brentman v. Note (City Ct. N. Y.) 3 N. Y. Supp. 420. If the plaintiffs were in a position to assert their rights against the purchasers, it is not shown how the former sustained any dam*386ages by the defendants? alleged unwarranted acts. The case is damnum absque injuria.\nThe damages sought to be recovered under the second alleged cause of action cannot be established. Expenses incurred in the prosecution or defense of an action are measured by the taxable costs and allowance, if granted, recoverable in the action. Bishop v. Hendrick, 82 Hun, 323, 31 N. Y. Supp. 502, affirmed 146 N. Y. 398, 42 N. E. 542.\nDemurrers to complaint sustained, with costs to defendants, with leave to plaintiff to plead over upon payment of costs.\n",
+            "ocr": true,
+            "opinion_id": 8280018
+        }
+    ],
+    "court_short_name": "New York Supreme Court",
+    "court_full_name": "New York Supreme Court",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

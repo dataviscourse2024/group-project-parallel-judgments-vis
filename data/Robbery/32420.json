@@ -1,0 +1,47 @@
+{
+    "id": 5827771,
+    "judges": null,
+    "date_filed": 1111363200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-simpkins",
+    "case_name_short": "Simpkins",
+    "case_name": "People v. Simpkins",
+    "case_name_full": "The People of the State of New York v. David Simpkins",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "16 A.D.3d 601",
+        "792 N.Y.S.2d 170"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Nassau County, (Carter, J.), rendered April 9, 2003, convicting him of robbery in the first degree (four counts), robbery in the second degree (four counts), and attempted robbery in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is reversed, on the law, and a new trial is ordered.\nAfter both sides rested, a juror informed the court that one of her fellow jurors had been falling asleep repeatedly throughout the trial, and had only been kept awake by the nudging, tapping, and prodding of his fellow jurors. The court conducted an inquiry of this juror, who admitted that he closed his eyes from time to time but was otherwise aware of the proceedings.\nDuring a readback of testimony and re-viewing of a videotape in evidence, the court itself observed that this juror was sleeping during much of the testimony. Other jurors were questioned, who informed the court that not only was this juror sleeping, but that they had to continually nudge the juror to wake him.\nA juror who has not heard all the evidence in the case is grossly unqualified to render a verdict (see CPL 270.35; People v Adams, 179 AD2d 764 [1992]). The Supreme Court should have dismissed as grossly unqualified the juror who was repeatedly observed sleeping during the trial (see People v Rogers, 266 AD2d 481, 482 [1999]; People v Adams, supra; People v South, 177 AD2d 607, 608 [1991]; People v Valerio, 141 AD2d 585, 586 [1988]; People v Russell, 112 AD2d 451, 453 [1985]), Where discharge of the juror would have made it impossible to continue *602with the trial, the court should have declared a mistrial (see CPL 270.35, 280.10).\nThe defendant\u2019s remaining contentions either are without merit or academic in light of our determination. Schmidt, J.P., Goldstein, Crane and Fisher, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5683447
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

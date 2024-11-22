@@ -1,0 +1,46 @@
+{
+    "id": 8003006,
+    "judges": "Burns, Holbrook, McGregor",
+    "date_filed": 33782400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-cruthird",
+    "case_name_short": "Cruthird",
+    "case_name": "People v. Cruthird",
+    "case_name_full": "PEOPLE v. CRUTHIRD",
+    "attorneys": "Roper, Meyers & Hann, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "30 Mich. App. 196"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nDefendant was found guilty by a jury of manslaughter, CL 1948, \u00a7 750.321 (Stat Ann 1954 Rev \u00a7 28.553), and was sentenced to a term of 5 to 15 years in prison. He appeals that conviction.\nDefendant, prior to trial, made two confessions, one of which was reduced to writing. Prior to these *197confessions, lie was advised of his right to remain silent, that anything he said \u201ccan and will be used against him\u201d, and his other Miranda rights. Miranda v. Arizona (1966), 384 US 436 (86 S Ct 1602, 16 L Ed 2d 694, 10 ALR3d 974). Defendant asserts that he was not advised that he conld terminate any interrogation at any time and contends that the failure to so advise him precludes the admission of his statements at trial, citing People v. Jourdan (1968), 14 Mich App 743.\nThis Court, in People v. Tubbs (1970), 22 Mich App 549, held that the ruling in Jourdan, supra, that Miranda required that a defendant be advised that interrogation would cease at his request, was dictum. The Tubbs court further held that Miranda requires only that interrogation cease whenever an individual indicates his desire to remain silent, but does not require that an individual be advised that interrogation will cease at his request. This being the only attack upon the admissibility of the confession, the trial court properly allowed it into evidence.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7957141
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Murder"
+}

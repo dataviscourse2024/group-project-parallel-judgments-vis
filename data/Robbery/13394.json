@@ -1,0 +1,48 @@
+{
+    "id": 1197821,
+    "judges": "Gray, Hunt, James, Karla, Leaphart, Nelson, Turnage, William",
+    "date_filed": 811468800000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-petition-of-gray",
+    "case_name_short": "In Re Petition of Gray",
+    "case_name": "In Re Petition of Gray",
+    "case_name_full": "In RE THE PETITION OF WILLIAM HARRISON GRAY, A/K/A RICHARD SIMONEAU",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 14,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b23-3\">\n    IN RE THE PETITION OF WILLIAM HARRISON GRAY, a/k/a RICHARD SIMONEAU.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b23-4\">\n    No. 95-376.\n   </docketnumber><br><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"b23-5\">\n    Decided September 19, 1995.\n   </decisiondate><citation data-order=\"3\" data-type=\"citation\" id=\"As\">\n    52 St.Rep. 1041.\n   </citation><citation data-order=\"4\" data-type=\"citation\" id=\"A8\">\n    908 P.2d 1353.\n   </citation><p data-order=\"5\" data-type=\"citation\" id=\"AD\">\n    274 Mont. 1.\n   </p>",
+    "citations": [
+        "908 P.2d 1352",
+        "274 Mont. 1",
+        "52 State Rptr. 1041"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n908 P.2d 1352 (1995)\nIn re the Petition of William Harrison GRAY, a/k/a Richard Simoneau.\nNo. 95-376.\nSupreme Court of Montana.\nDecided September 19, 1995.\n\nORDER\nPetitioner William Harrison Gray, appearing pro se, moves this Court for permission to allow him to proceed with a petition for post-conviction relief even though the five-year statute of limitation has expired.\nIn 1986, Petitioner was charged and convicted of robbery. He was sentenced to 40 years in the Montana State Prison plus an additional ten years for the use of a dangerous weapon, the ten years to be served consecutively.\nA petitioner may file a petition for post conviction relief with this Court under \u00a7 46-21-101, MCA, if he believes his conviction is invalid due to substantive or procedural error. But, \u00a7 46-21-102, MCA, provides that such petitions must be filed \"within 5 years of the date of the conviction.\"\nThe post-conviction statute of limitation is a jurisdictional limit on litigation and its waiver may only be justified by a clear miscarriage of justice, one so obvious that the judgment is rendered a complete nullity. See, State v. Perry (1988), 232 Mont. 455, 758 P.2d 268; Smittie v. Lockhart (8th Cir.1988), 843 F.2d 295.\nNine years have elapsed since Petitioner was convicted. Because his petition is untimely under \u00a7 46-21-102, MCA, Petitioner asks this Court to grant him leave to proceed with his petition beyond the five year limitation. Petitioner's claim that he was ignorant of the law for several years and needed time to familiarize himself with the law in order to present a pro se defense, is not an adequate reason to set aside the statute.\nPetitioner's petition was not timely filed and is clearly barred under \u00a7 46-21-102, MCA, and should be dismissed.\nIT IS HEREBY ORDERED that Petitioner's petition for post conviction relief is denied.\n    /s/ J.A. Turnage,\n        Chief Justice\n    /s/ James C. Nelson,\n    /s/ Karla M. Gray,\n    /s/ William E. Hunt, Sr.,\n    /s/ W. William Leaphart,\n        Justice\n",
+            "ocr": false,
+            "opinion_id": 1197821
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Robbery"
+}

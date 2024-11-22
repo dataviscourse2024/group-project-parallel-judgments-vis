@@ -1,0 +1,46 @@
+{
+    "id": 5181052,
+    "judges": null,
+    "date_filed": -1205452800000,
+    "date_filed_is_approximate": true,
+    "slug": "cooper-v-state",
+    "case_name_short": "Cooper",
+    "case_name": "Cooper v. State",
+    "case_name_full": "Murry COOPER v. STATE",
+    "attorneys": "Cunningham & Lipscomb, of Bonham, for appellant., Ll\u00f3yd W. Davidson, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "42 S.W.2d 1108"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*1109OALHOUN, X\nThe offense is burglary; the punishment, confinement in the penitentiary for two years.\nAffidavit in proper form has been filed by appellant ashing this court to dismiss his appeal.\nThe motion is granted, and the appeal dismissed.\nPER CURIAM.\nThe foregoing opinion of the Commission of Appeals has been examined by the judges of the Court of Criminal Appeals and approved by the court.\n",
+            "ocr": true,
+            "opinion_id": 5002820
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

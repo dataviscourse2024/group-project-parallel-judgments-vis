@@ -1,0 +1,46 @@
+{
+    "id": 4457132,
+    "judges": null,
+    "date_filed": 1515024000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-henderson",
+    "case_name_short": null,
+    "case_name": "People v. Henderson",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2018 NY Slip Op 81"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2018/2018_00081.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Henderson (2018 NY Slip Op 00081)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Henderson\r\n\r\n\r\n2018 NY Slip Op 00081\r\n\r\n\r\nDecided on January 4, 2018\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on January 4, 2018\r\n\r\nRenwick, J.P., Manzanet-Daniels, Gische, Singh, JJ.\r\n\r\n\r\n4374/10 5377A 3232/11 5377\r\n\r\n[*1] The People of the State of New York, Respondent,\r\nvRodney Henderson, Defendant-Appellant.\r\n\r\n\r\nSeymour W. James, Jr., The Legal Aid Society, New York (Katheryne M. Martone of counsel), for appellant.\r\nCyrus R. Vance, Jr., District Attorney, New York (Andrew E. Seewald of counsel), for respondent.\r\n\r\n\r\n\r\nJudgments, Supreme Court, New York County (Marcy L. Kahn, J.), rendered June 7, 2013, convicting defendant, after a jury trial, of burglary in the second degree, and upon his plea of guilty, of burglary in the second degree, and sentencing him, as a persistent violent felony offender, to concurrent terms of 16 years to life, unanimously affirmed.\r\nThe verdict was based on legally sufficient evidence and was not against the weight of the evidence (see People v Danielson, 9 NY3d 342, 348-349 [2007]). The People's expert testimony warranted the conclusion, under the reasonable doubt standard, that defendant was the source of a partial latent fingerprint recovered from a burglarized apartment (see People v Walker, 106 AD3d 432 [1st Dept 2013], lv denied 23 NY3d 1044 [2014]). We find no basis for disturbing the jury's evaluation of conflicting expert testimony introduced by the People and defendant.\r\nThe People's expert testimony sufficiently complied with the court's in limine ruling on the permissible scope of that testimony, and the court did not materially change its ruling during trial. In particular, the court never precluded the fingerprint experts from testifying that defendant's exemplar print matched the latent print. Instead, the court precluded the experts from using the word \"match\" in conjunction with certain other language, such as \"100% certain,\" which the experts ultimately avoided. Accordingly, defendant was not unfairly surprised by the testimony.\r\nWe also reject defendant's challenges to the admissibility of the expert testimony. The fingerprint experts explained in great detail the process by which they reached their opinions, and these opinions were supported by an adequate factual basis. Accordingly, the court providently exercised its discretion in admitting this testimony (see generally People v Cronin, 60 NY2d 430, 434 [1983]).\r\nBecause we are affirming the trial conviction, there is no basis for disturbing the plea conviction.\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: JANUARY 4, 2018\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4234385
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

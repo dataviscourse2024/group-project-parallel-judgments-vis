@@ -1,0 +1,46 @@
+{
+    "id": 6090342,
+    "judges": null,
+    "date_filed": 722476800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-herrin",
+    "case_name_short": "Herrin",
+    "case_name": "People v. Herrin",
+    "case_name_full": "The People of the State of New York v. Tommy Herrin",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "187 A.D.2d 670"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeals by the defendant from (1) two judgments of the Supreme Court, Queens County (Farlo, J.), both rendered January 3, 1989, convicting him of robbery in the first degree and robbery in the second degree under Indictment No. 799/88, and robbery in the first degree, robbery in the second degree, and assault in the first degree under Indictment No. 972/88, upon jury verdicts, and imposing sentences, and (2) seven judgments of the same court, also rendered January 3, 1989, convicting him of robbery in the first degree under Indictment Nos. 800/88, 886/88, and 914/88 (three counts, one as to each indictment), and robbery in the second degree under Indictment Nos. 883/88, 915/88, 971/88 and 1087/88 (four counts, one as to each indictment), upon his pleas of guilty, and imposing sentences. The appeals from the judgments of conviction under Indictment Nos. 799/88 and 972/88 bring up for review the denial, after a hearing, of those branches of the defendant\u2019s omnibus motion which were to suppress identification testimony and physical evidence.\nOrdered that the judgments are affirmed.\nAt the suppression hearing, the detective in charge of a robbery investigation testified that when the police located the vehicle which had been reported as involved in certain robberies, they approached its owner, who happened to live in a house across the street from where the vehicle was parked. When the owner was invited to come down to the police station, the defendant, who lived in the same house and who had also responded to the door of the house, voluntarily decided to accompany them. At no time was he handcuffed, searched, or questioned at the house. The defendant was arrested while at the police station only after his accomplice, the owner of the vehicle, had implicated him in the robberies. *671Thus, there was probable cause to arrest the defendant (see, People v Berzups, 49 NY2d 417), and the hearing court properly denied that branch of his omnibus motion which was to suppress the ring recovered from his finger, which was subsequently identified by one of the robbery victims as belonging to her.\nThat branch of the defendant\u2019s omnibus motion which was to suppress physical evidence taken from the accomplice\u2019s car and bedroom was also properly denied. The defendant had no reasonable expectation of privacy in either the accomplice\u2019s bedroom or the car and, therefore, had no standing to contest the seizure of those items (see, People v Wesley, 73 NY2d 351; People v Ponder, 54 NY2d 160; People v Cacioppo, 104 AD2d 559).\nThe testimony of the defendant and his landlord that the police threatened to drag the defendant to the police station if he did not come along raised an issue of credibility. Resolution of issues of credibility, as well as the weight to be accorded to the evidence presented, are primarily questions to be determined by the jury, which saw and heard the witnesses (see, People v Gaimari, 176 NY 84, 94). Its determination should be accorded great weight on appeal and should not be disturbed unless clearly unsupported by the record (see, People v Garafolo, 44 AD2d 86, 88). We find that the record supports the hearing court\u2019s determination and that there is no basis to disturb it.\nThe hearing court also properly denied that branch of the defendant\u2019s omnibus motion which was to suppress the lineup identification. An identification is violative of due process only when it is unnecessarily suggestive and there is a substantial likelihood of irreparable misidentification (see, Neil v Biggers, 409 US 188; People v Adams, 53 NY2d 241). With regard to the makeup of the lineup, a detective testified that the other participants were males in their early twenties having physical attributes similar to those of the defendant. Moreover, one of the victims, who had identified the defendant in the lineup, testified that \"[tjhere was nobody outstandingly short or outstandingly tall. They were approximately the same height\u201d. Thus, the record supports the hearing court\u2019s determination that the lineup was not impermissibly suggestive. The fact that there might have been slight physical differences between the defendant and some of the other participants does not render the lineup violative of his due process rights. There is no requirement that a defendant in a lineup be surrounded by *672individuals nearly identical in appearance (see, United States v Porter, 430 F Supp 208; People v Rodriguez, 124 AD2d 611).\nWe also find that Indictment Nos. 799/88 and 972/88 were properly joined for trial. There were strong factual similarities with regard to both incidents, especially the physical description of the perpetrator, the use of a car in both robberies, and the use of a sharp object to cut the straps of the victims\u2019 pocketbooks. The testimony of both victims at the hearing indicated that the modus operandi was sufficiently unique to be probative and admissible on the issue of identity (see, People v Beam, 57 NY2d 241, 252-253; People v Allweiss, 48 NY2d 40, 48). Moreover, as the offenses were defined by the same or similar statutory provisions, the trial court could have joined the charges in the exercise of its discretion (see, CPL 200.20 [2] [c]; see also, People v Gallishaw, 143 AD2d 198; People v Mack, 111 AD2d 186, 187-188).\nThe defendant\u2019s remaining contentions, including those raised in his supplemental pro se brief, are either unpreserved for appellate review or without merit.\nIn light of our determination, there is no basis for vacatur of the defendant\u2019s pleas under Indictment Nos. 800/88, 883/ 88, 886/88, 914/88, 915/88, 971/88, and 1087/88 (cf., People v Clark, 45 NY2d 432). Bracken, J. P., Sullivan, Balletta and Copertino, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5954735
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

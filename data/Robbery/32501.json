@@ -1,0 +1,46 @@
+{
+    "id": 5845650,
+    "judges": "Bergan, Botein, Breitel, Frank, McNally",
+    "date_filed": -370137600000,
+    "date_filed_is_approximate": false,
+    "slug": "ginsburg-v-hearst-publishing-co",
+    "case_name_short": "Ginsburg",
+    "case_name": "Ginsburg v. Hearst Publishing Co.",
+    "case_name_full": "Paul Ginsburg v. Hearst Publishing Company",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "5 A.D.2d 979"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn this ease, the defendant was convicted of the crimes of burglary, third degree, and grand larceny, second degree. The latter count was dismissed after the jury returned its verdict. Thereafter, the defendant was sentenced to a term of not less than 5 nor more than 10 years, at which time the trial court stated: \u201cUnder the circumstances and in view of the fact my report shows that this defendant does not make a very good adjustment, I see nothing left to do but to tell you, or now enforce what I told you would be the result if he did not take a plea, I would give him the maximum of the crime, and that this may be a sort of a barometer for other lawyers and other defendants I am going to adhere to my determination. He could have had much less time. The judgment of this Court, Arthur Guiden, is that you be sentenced to the New York State Prison for a term *976of not less than five years nor a term of not more than ten years.\u201d The imposition of sentence is the exercise of judicial power, discretion and judgment vested in a court. That function is not intended to he employed as an arbitrary power granted to a judge (see People v. Miles, 173 App. Div. 179, 184; People v. Collins, 271 App. Div. 511, 514, concurring opinion, Does, J.). There are so many factors which should properly be considered by a court in imposing sentence, that to detail them would serve no useful purpose here. In this case, for example, it was perfectly proper, in the exercise of judicial discretion, for the court to consider that the defendant had a record of several misdemeanor convictions and had not made a good social adjustment. However, it is an abuse of judicial discretion to impose additional punishment upon a defendant either because his counsel refused to advise him to plead guilty, or as a warning or \u201cbarometer\u201d to members of the Bar. Nor may such a warning be issued if, in heeding it, counsel will be deterred in the performance of what he believes is his full duty to his client. This is not a case where the defendant was trifling with the court in pleading not guilty and in invoking his constitutional right to require that his guilt be duly established. While the acts charged in the indictment could not be seriously disputed, a sharp issue was raised as to whether they were committed with the intent necessary to establish the crime charged. The defendant had an absolute constitutional right to a jury determination of that question. It is a fair inference that the defendant relied upon the advice and guidance of his counsel in rejecting an offer to plead guilty, probably to a misdemeanor, with the assurance of a lighter sentence. The acceptance of pleas of guilty to lesser offenses with consequent lighter sentences is perfectly appropriate where the proper and efficient administration of justice will 'best be served thereby. But it is another thing entirely to predicate punishment solely upon the desire to speed the disposition of a ease by eliminating the trial and to impose the condition of extended confinement when a defendant refuses to comply. Here again we do not intend to suggest that a defendant, who is aware of his guilt but nevertheless contumaciously stands on a plea of not guilty for the purposes of misleading a jury into a verdict of not guilty and thus working a miscarriage of justice, should not receive less consideration on sentence than one who candidly admits his guilt, gives evidence of repentance and seeks the mercy of the court (24 C. J. S., Criminal Law, \u00a7 1980, p. 1196; United States v. Alexander &amp; Reid Co., 280 F. 924, 927). The incident for which the defendant stands convicted of the crime of burglary was a comparatively insignificant one. From the record and the probation department report, we are persuaded that the sentence was excessive. The judgment of conviction is therefore modified, on the law and in the exercise of discretion, to reduce the sentence to imprisonment in the State prison for a term of not less than two years and six months nor more than five years, and as so modified is otherwise affirmed. Settle order.\nConcur \u2014 Botein, P. J., Breitel, Frank, McNally and Bergan, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5701643
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7149710,
+    "judges": "Jasper",
+    "date_filed": -563328000000,
+    "date_filed_is_approximate": false,
+    "slug": "bryarly-v-state",
+    "case_name_short": "Bryarly",
+    "case_name": "Bryarly v. State",
+    "case_name_full": "Bryarly v. State of Indiana",
+    "attorneys": "Robert A. Buhler, Chester A. Lincoln and James P. Murphy, all of Fort Wayne, for appellant., J. Emmett McManamon, Attorney General; William T. McClain and John Ready O\u2019Connor, Deputy Attorneys General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "230 Ind. 699"
+    ],
+    "opinions": [
+        {
+            "author_str": "Jasper",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJasper, J.\nAppellant was charged by affidavit in four counts with (1) entering to commit a felony, under \u00a710-704, Burns\u2019 1942 Replacement; (2) possession of burglar tools, under \u00a710-703, Burns\u2019 1942 Replacement; (3) automobile banditry, under \u00a710-4710, Burns\u2019 1942 Replacement; and (4) robbery while armed, under \u00a710-4709, Burns\u2019 1942 Replacement. A motion to quash was addressed to each count of the affidavit and was overruled. A plea of not guilty was entered to each count, trial was by jury, a verdict of guilty was returned on the first, second, and fourth counts, and a verdict of not guilty was returned on *700the third count. Judgment and sentence followed on the first, second, and fourth counts.\nThis is a companion case to Goldstine v. State (1952), No. 28,833 in this court, 230 Ind. 343, 103 N. E. 2d 438. It presents the same facts and similar questions.\nThe Attorney General has admitted certain error in the case at bar.\nUpon authority of the Goldstine Case, and for the reasons given therein, the judgment is reversed, with instructions to sustain the motion to quash counts two, three, and four of the affidavit, and to sustain the motion for a new trial.\nJudgment reversed.\nNote.\u2014Reported in 103 N. E. 2d 807.\n",
+            "ocr": true,
+            "opinion_id": 7058286
+        }
+    ],
+    "court_short_name": "Indiana Supreme Court",
+    "court_full_name": "Indiana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Robbery"
+}

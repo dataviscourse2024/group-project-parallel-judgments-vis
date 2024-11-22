@@ -1,0 +1,47 @@
+{
+    "id": 1325613,
+    "judges": "Bell, Benham, Clarke, Fletcher, Hunt, Sears-Collins",
+    "date_filed": 720316800000,
+    "date_filed_is_approximate": false,
+    "slug": "guess-v-state",
+    "case_name_short": "Guess",
+    "case_name": "Guess v. State",
+    "case_name_full": "Guess v. the State",
+    "attorneys": "Richard Thurman, for appellant., Roger G. Queen, District Attorney, Michael J. Bowers, Attorney General, Susan V. Boleyn, Senior Assistant Attorney General, Robert D. McCullers, Staff Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b527-10\">\n    S92A1022.\n   </docketnumber><parties id=\"A24\">\n    GUESS v. THE STATE.\n   </parties><br><citation id=\"b527-11\">\n    (422 SE2d 178)\n   </citation>",
+    "citations": [
+        "422 S.E.2d 178",
+        "262 Ga. 487"
+    ],
+    "opinions": [
+        {
+            "author_str": "Benham",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4067.0,
+            "opinion_text": "\n262 Ga. 487 (1992)\n422 S.E.2d 178\nGUESS\nv.\nTHE STATE.\nS92A1022.\nSupreme Court of Georgia.\nDecided October 29, 1992.\nRichard Thurman, for appellant.\nRoger G. Queen, District Attorney, Michael J. Bowers, Attorney General, Susan V. Boleyn, Senior Assistant Attorney General, Robert D. McCullers, Staff Attorney, for appellee.\nBENHAM, Justice.\nThis appeal is from appellant's conviction of murder, armed robbery, and possession of a firearm during the commission of a crime.[1]\n1. Our review of the record of this case persuades us that the evidence presented at trial, though largely circumstantial, was sufficient to authorize a rational trier of fact to find appellant guilty of the offenses charged beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307 (99 SC 2781, 61 LE2d 560) (1979).\n2. Appellant's sole enumeration of error is that the trial court excluded testimony from three witnesses that another person had told them that he, rather than appellant, committed the crimes. The State asserts that this issue is controlled adversely to appellant by the principle applied in Timberlake v. State, 246 Ga. 488, 492 (1) (271 SE2d 792) (1980):\nIt is the long-standing rule in this state that declarations to third persons against the declarant's penal interest, to the effect that the declarant, and not the accused, was the actual perpetrator of the offense, are not admissible in favor of the accused at his trial, [cits.]....\n*488 Appellant argues, on the other hand, that his case differs from Timberlake and similar cases because he offered the testimony for the purpose of impeaching a witness. Buttram, the person appellant contends actually killed the victim, was called as a defense witness and questioned about his knowledge of the victim and about statements he allegedly made to others concerning his actions toward the victim. Buttram denied knowing the victim and denied making the statements. Because the trial court had granted the State's motion in limine excluding testimony regarding any declarations by Buttram, appellant made a proffer by putting up witnesses outside the presence of the jury. Those witnesses, Buttram's cousin and two persons who had been incarcerated with Buttram, testified to various statements which they attributed to Buttram in which he said he had killed a person with the same first name as the victim and had taken his truck. There was also testimony from those witnesses that Buttram was seen in possession of a truck like that driven by the victim when he was last seen.\nThe principle stated in Timberlake was established in Lyon v. State 22 Ga. 399 (1857). The reason given there for excluding the testimony was that co-indictees could subvert justice by having one of them make admissions, then leave the jurisdiction, permitting the remaining defendant to secure an acquittal by means of the hearsay testimony. That concern is obviously not relevant to this case since there was no co-indictee and appellant's interests are clearly antagonistic to Buttram's.\nSeveral cases following the principle established in Lyon, such as Huffman v. State, 257 Ga. 390 (4) (359 SE2d 910) (1987), also mention that testimony such as that appellant proffered should be excluded as inadmissible hearsay. However, that objection is not applicable to the present case for two reasons.\nFirst, neither Lyon nor any of the many cases in a line stretching over 135 years to Huffman, involved a witness present in the courtroom, examined and cross-examined, then sought to be impeached by testimony of prior inconsistent statements. \"A witness may be impeached by contradictory statements previously made by him as to matters relevant to his testimony and to the case.\" OCGA \u00a7 24-9-83. There is no question that Buttram's testimony was relevant to the case and that the contradictory statements attributed to him were relevant to his testimony. It follows that, under \u00a7 24-9-83, the testimony proffered by appellant should have been admitted under what has been called \"the prior inconsistent statement exception to the hearsay rule.\" See e.g., McGuire v. State, 238 Ga. 247, 249 (232 SE2d 243) (1977).\nSecond, prior inconsistent statements of a witness are admissible in Georgia as substantive evidence if the declarant is present and subject *489 to cross-examination. Gibbons v. State, 248 Ga. 858 (286 SE2d 717) (1982). Since Buttram was present and testified and was subject to cross-examination, appellant should have been permitted to produce testimony of his prior inconsistent statements as substantive evidence of the facts contained therein. Id.\nApplying the principles in OCGA \u00a7 24-9-83 and in Gibbons, we conclude that the long-standing rule on which the trial court relied in excluding the testimony proffered by appellant does not apply when the declarant is present, testifies, and is subject to cross-examination. Under such circumstances, the trial court should admit the evidence and let \"the jury ... determine whether to believe the present testimony, the prior testimony \u0097 or neither.\" Id. at 863. Because appellant was denied the benefit of admissible evidence he sought to introduce, he is entitled to a new trial.\nJudgment reversed. Clarke, C. J., Bell, P. J., Hunt, Benham, Fletcher and Sears-Collins, JJ., concur.\nNOTES\n[1]  The crimes occurred on May 4, 1990. Appellant was indicted on September 10, 1991, and was tried before a jury on September 23-30, 1991. The guilty verdict was returned and sentence was imposed on September 30, 1991. A motion for new trial was filed October 23, 1991, and denied on November 19, 1991. A notice of appeal was filed on December 3, 1991, and the case was docketed in this court on May 13, 1992, and submitted for opinion on June 26, 1992.\n\n",
+            "ocr": false,
+            "opinion_id": 1325613
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1610897,
+    "judges": "Cynar, Fitzgerald, McG-regor",
+    "date_filed": -32572800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-darwin-brown",
+    "case_name_short": null,
+    "case_name": "People v. Darwin Brown",
+    "case_name_full": "People v. Darwin Brown",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cahalan, Prosecuting Attorney, Samuel J. Torina, Chief Appellate Lawyer, and Angelo A. Pentolino, Assistant Prosecuting Attorney, for the people., George E. Lee, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Division 1 December 9,1968, at Detroit., Rebearing denied January 29, 1969., Leave to appeal denied July 8, 1969.",
+    "cross_reference": "See 382 Mich 768.",
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b76-4\">\n    PEOPLE\n    <em>\n     v.\n    </em>\n    DARWIN BROWN\n   </parties><otherdate id=\"Axq\">\n    Submitted Division 1 December 9,1968, at Detroit.\n   </otherdate><docketnumber id=\"AHQ\">\n    (Docket No. 3,734.)\n   </docketnumber><decisiondate id=\"ArC\">\n    Decided December 20, 1968.\n   </decisiondate><otherdate id=\"AJ6\">\n    Rebearing denied January 29, 1969.\n   </otherdate><otherdate id=\"Ar3W\">\n    Leave to appeal denied July 8, 1969.\n   </otherdate><seealso id=\"A7O\">\n    See 382 Mich 768.\n   </seealso><br><attorneys id=\"b76-11\">\n<em>\n     Frank J. Kelley,\n    </em>\n    Attorney General,\n    <em>\n     Robert A. Derengoski,\n    </em>\n    Solicitor General,\n    <em>\n     William L. Cahalan,\n    </em>\n<span citation-index=\"1\" class=\"star-pagination\" label=\"51\"> \n     *51\n     </span>\n    Prosecuting Attorney,\n    <em>\n     Samuel J. Torina,\n    </em>\n    Chief Appellate Lawyer, and\n    <em>\n     Angelo A. Pentolino,\n    </em>\n    Assistant Prosecuting Attorney, for the people.\n   </attorneys><br><attorneys id=\"b77-5\">\n<em>\n     George E. Lee,\n    </em>\n    for defendant.\n   </attorneys>",
+    "citations": [
+        "166 N.W.2d 7",
+        "15 Mich. App. 50"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n15 Mich. App. 50 (1968)\n166 N.W.2d 7\nPEOPLE\nv.\nDARWIN BROWN\nDocket No. 3,734.\nMichigan Court of Appeals.\nDecided December 20, 1968.\nRehearing denied January 29, 1969.\nLeave to appeal denied July 8, 1969.\nFrank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cahalan, *51 Prosecuting Attorney, Samuel J. Torina, Chief Appellate Lawyer, and Angelo A. Pentolino, Assistant Prosecuting Attorney, for the people.\nGeorge E. Lee, for defendant.\nLeave to appeal denied July 8, 1969. See 382 Mich. 768.\nPER CURIAM:\nFollowing a conviction for first-degree murder, CL 1948, \u00a7 750.316 (Stat Ann 1954 Rev \u00a7 28.548), defendant submitted the present appeal alleging error in the jury instructions. He claims that the trial judge on three occasions misstated requisite elements of first-degree murder as premeditation or deliberation, rather than the proper phraseology of premeditation and deliberation. Defendant is correct; the two elements were incorrectly disjuncted with \"or\" rather than correctly conjuncted with \"and\" in three instances within the jury instructions. However, we affirm the conviction for two reasons:\n(1) Although adequate opportunity was provided, defendant did not object to the jury instructions as given. Consequently, defendant waived any error committed absent a showing of substantial injustice. GCR 1963, 516.2; CL 1948, \u00a7 768.29 (Stat Ann 1954 Rev \u00a7 28.1052); People v. Dexter (1967), 6 Mich. App. 247; People v. Cassiday (1966), 4 Mich. App. 215.\n(2) The three tongue slips occurred within an expansive set of jury instructions which included a reading of the information that correctly stated the elements of first-degree murder in compliance with state statutes and case law. CL 1948, \u00a7 767.45 (Stat Ann 1954 Rev \u00a7 28.985); CL 1948, \u00a7 767.71 (Stat Ann 1954 Rev \u00a7 28.1011); People v. Quicksall (1948), 322 Mich. 351; People v. Roberts (1920), 211 Mich. 187. The jury instructions included correct statements of the two elements, and when read as a whole their *52 emphasis gives the impression that both elements are necessary. People v. Serra (1942), 301 Mich. 124. Therefore, the instructions did not impress the proceedings with substantial injustice.\nAffirmed.\nMcGREGOR, P.J., and FITZGERALD and CYNAR, JJ., concurred.\n",
+            "ocr": false,
+            "opinion_id": 1610897
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Murder"
+}

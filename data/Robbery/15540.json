@@ -1,0 +1,46 @@
+{
+    "id": 1745088,
+    "judges": "Schwartz, C.J., and Barkdull and Daniel S. Pearson",
+    "date_filed": 579225600000,
+    "date_filed_is_approximate": false,
+    "slug": "harris-v-state",
+    "case_name_short": "Harris",
+    "case_name": "Harris v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "524 So. 2d 1104"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n524 So. 2d 1104 (1988)\nThadius HARRIS, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 87-1407.\nDistrict Court of Appeal of Florida, Third District.\nMay 10, 1988.\nBennett H. Brummer, Public Defender and Sheryl L. Lowenthal, Sp. Asst. Public Defender, for appellant.\nRobert A. Butterworth, Atty. Gen., and Ivy R. Ginsberg, Asst. Atty. Gen., for appellee.\nBefore SCHWARTZ, C.J., and BARKDULL and DANIEL S. PEARSON, JJ.\nSCHWARTZ, Chief Judge.\nThis appeal challenges a sentence, entered pursuant to the terms of negotiations among the court, the state and the defense, which, as it turned out, was in excess of the guidelines. To the extent it was, we reverse and remand for resentencing in accordance with the directions which follow.\nOn December 19, 1986, Harris was found to have violated the terms of a community control requirement imposed for a prior burglary conviction. Acting under the assumption that he was subject to the twelve to thirty month state prison cell of the applicable guidelines, the court and the parties agreed that he would be formally sentenced to five years \u0097 which he was \u0097 but that he would then be permitted to postpone actually serving the term on the understanding that if he returned for commitment after the holidays on January 5, 1987, the sentence would be \"mitigated\" to eighteen months. January 5th arrived, but Harris did not. At a hearing on January 6th, at which he was also not present, therefore, the trial court ruled that the previously imposed five year sentence would remain intact. After Harris was subsequently apprehended, the court \u0097 without hearing him as to the reasons for his non-appearance \u0097 again declined to amend the sentence.\nAs indicated, the portion of the sentence in excess of the guidelines cannot be sustained. It is well settled that the defendant's failure to show up in court, even as agreed in a plea bargain, does not constitute a clear and convincing reason for departure. Williams v. State, 500 So. 2d 501 (Fla. 1986); King v. State, 525 So. 2d 924 (Fla. 3d DCA 1988); Johnson v. State, 508 So. 2d 779 (Fla. 3d DCA 1987). It obviously makes no difference that, in the cited cases, the defendant's sentence was increased beyond the guidelines because he failed to appear whereas, in this case, his existing sentence was not reduced for the same reason. The effect of each situation is the same impermissible one: a sentence *1105 beyond the guidelines was incorrectly imposed upon the defendant for a non-appearance in court.\nThere remains the question of the appropriate disposition of the case after remand. In dealing with this issue, there is no reason why, apart from the impropriety of a super-guidelines sentence, the terms of the mutually agreed sentencing bargain should not be enforced. See Jacobs v. State, 522 So. 2d 540 (Fla. 3d DCA 1988), and cases cited; Lee v. State, 471 So. 2d 195 (Fla. 4th DCA 1985). Thus, if the trial court determines that Harris's absences were excusable \u0097 if, for example, he had been ill or, as is intimated but not developed in the record, had been unjustifiably arrested \u0097 the sentence should be reduced to the eighteen months agreed upon. See Johnson, 508 So.2d at 780. If his absences were not excused, however, he should be sentenced in accordance with the guidelines as properly calculated. Since Harris has already agreed to a five year sentence, we see no impediment, so long as he does not receive more than the five years, to a proper recalculation of his guidelines score, as the state urges,[1] even if it may result in a proposed sentence of more than the twelve to thirty months previously understood by the parties. In other words, assuming that Harris's non-appearance violated his bargain, the court may[2] sentence him to anything up to the outermost limits of the correct guidelines recommendation or five years in prison, whichever is less.\nReversed and remanded with directions.\nNOTES\n[1]  The state alleges that the prior computation was incorrect and that a proper calculation would place Harris within the three and one-half to four and one-half years range.\n[2]  Of course, the court is not required, but is only permitted to impose the maximum guidelines sentence.\n\n",
+            "ocr": false,
+            "opinion_id": 1745088
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

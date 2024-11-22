@@ -1,0 +1,46 @@
+{
+    "id": 6521865,
+    "judges": "Rowley",
+    "date_filed": 172454400000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-williams",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Williams",
+    "case_name_full": "Commonwealth v. Williams",
+    "attorneys": "Edward Toed, 1st Assistant District Attorney for Commonwealth., John Dohanich, Assistant Public Defender for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "69 Pa. D. & C.2d 541"
+    ],
+    "opinions": [
+        {
+            "author_str": "Rowley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nROWLEY, J.,\nOn or about November 1,1974, defendant filed a direct appeal to the Superior Court from the judgments of sentence imposed on him by this court for (1) robbery, (2) violation of the Uniform Firearms Act, and (3) simple assault. On May 27, 1975, defendant, by his counsel, presented a petition to this court asking that a hearing be held in connection with one of the arguments advanced by defendant in support of his post-trial motions. A rule was issued on the district attorney to show cause why such a hearing should not be held. An answer was filed by the district attorney and the matter was argued on the return day. We have concluded that defendant\u2019s petition must be denied.\n*542Initially, it must be noted that this case is presently pending before the Superior Court of Pennsylvania pursuant to a writ of certiorari issued to this court on November 1,1974. It is fundamental that once a cause has been removed from the trial court by an appellate court, pursuant to the appeal of one of the litigants from a final order or judgment, that the trial court is thereafter without jurisdiction to entertain any further proceedings in the case. Thus, we are without jurisdiction at this time to entertain defendant\u2019s petition, or grant the request thereof.\nIn addition, the hearing which defendant now requests is for the expressed purpose of exploring at greater length the \u201crelationship\u201d between defendant\u2019s victim, Mr. DeSantis, and a co-defendant, Mr. Mills. As pointed out in our opinion dated March 24, 1975, defendant claims that DeSantis\u2019s testimony at the subsequent trial of Mr. Mills was \u201ccontradictory\u201d to his testimony at defendant\u2019s trial and, therefore, was \u201cafter-discovered evidence\u201d which entitled him to relief. Defendant now seeks a hearing, as we have indicated, to explore the matter further. However, the court had before it, when considering defendant\u2019s post-trial motions, Mr. DeSantis\u2019s testimony at defendant\u2019s trial, as well as his allegedly contradictory testimony at Mill\u2019s subsequent trial. The purpose of the proposed hearing is to search for information which defendant \u201chopes\u201d he could use to affect DeSantis\u2019s credibility on a collateral issue. As we pointed out in our earlier opinion, however, such evidence does not constitute \u201cafter-discovered evidence\u201d which entitles defendant to a new trial. The alleged discrepancies are on a matter that is totally collateral to the issues in this defendant\u2019s trial. At no time has DeSantis ever varied his testimony as to the manner and nature of *543the robbery and his identification of defendant as the perpetrator thereof.\nFor both of these reasons, we conclude that the present petition must be denied.\nORDER\nNow, June 20, 1975, the rule to show cause, issued May 17, 1975, is discharged. Defendant\u2019s petition for a hearing is denied.\n",
+            "ocr": true,
+            "opinion_id": 6395528
+        }
+    ],
+    "court_short_name": "Beaver County Court of Common Pleas",
+    "court_full_name": "Pennsylvania Court of Common Pleas, Beaver County",
+    "court_type": "ST",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

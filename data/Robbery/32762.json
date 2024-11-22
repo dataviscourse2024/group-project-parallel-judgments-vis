@@ -1,0 +1,46 @@
+{
+    "id": 5898647,
+    "judges": null,
+    "date_filed": -132710400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-henzey",
+    "case_name_short": "Henzey",
+    "case_name": "People v. Henzey",
+    "case_name_full": "The People of the State of New York v. Angela Henzey",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 A.D.2d 764"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn a coram nobis proceeding, defendant appeals from an order of the Supreme Court, Nassau County, entered March 23, 1965 which denied after a hearing her application to vacate a judgment of said court, rendered June 17, 1964 on her plea of guilty, convicting her of manslaughter in the second degree and imposing sentence. Order affirmed. The appellant, her brother and two other defendants were indicted for the crimes of murder in the first degree (2 counts), conspiracy, robbery in the first degree, grand larceny in the first degree, and assault in the second degree. When the case was called for trial, the appellant was about 19 years of age and her brother was about 18 years of age. During the selection of the jury, her codefendants were willing to plead guilty to lesser crimes than murder in the first degree, but the District Attorney refused to accept pleas to such lesser crimes unless all of the defendants so pleaded and, finally, all pleaded guilty to lesser crimes than murder in the first degree. Appellant\u2019s contention is that the District Attorney\u2019s refusal to consent to a reduced plea from her younger brother unless she pleaded guilty to a reduced charge was a form of coercion depriving her of her constitutional rights. We shall assume arguendo that her motive, sole or primary, in pleading guilty was to protect her younger brother from the hazard of a first degree murder conviction with its concomitant possible severe sentence. Nevertheless, no threats were made against her or her brother (cf. People v. Picciotti, 4 N Y 2d 340) and her plea of guilty was not induced by threats or coercion, but was her voluntary act and reasoned choice (cf. People v. Sparaco, 14 N Y 2d 786; People v. Velez, 23 A D 2d 505). It was within the District Attorney\u2019s discretion to refuse to recommend the acceptance of lesser pleas if all the defendants did not plead guilty to lesser crimes (cf. Matter of McDonald v. Sobel, 272 App. Div. 455, affd. 297 N. Y. 679). The judgment of conviction may not be set aside in the situation presented herein. Beldock, P. J., Ughetta, Brennan, Hill and Hopkins, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5755768
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

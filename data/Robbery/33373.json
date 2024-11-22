@@ -1,0 +1,46 @@
+{
+    "id": 6023452,
+    "judges": null,
+    "date_filed": 515894400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-walden",
+    "case_name_short": "Walden",
+    "case_name": "People v. Walden",
+    "case_name_full": "The People of the State of New York v. Michelle Walden",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "120 A.D.2d 362"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Judgment, Supreme Court, New York County (Crane, J.), rendered on June 18, 1984, convicting defendant, after a jury trial, of robbery in the first degree (Penal Law \u00a7 160.15 [3], use of a dangerous instrument) and robbery in the second degree (Penal Law \u00a7 160.10 [2] [a], causing physical injury), and sentencing her to concurrent indeterminate terms of from 2 to 6 and IV2 to AV2 years\u2019 imprisonment, unanimously modified, on the law, to reduce both convictions to petit larceny and the matter remanded for resentencing.\nDefendant entered a delicatessen where Abdo Al Sane tended the cash register. Viewing the testimony in the light most favorable to the People (see, People v Malizia, 62 NY2d 755, 757), we find that Al Sane saw defendant put a 40-cent package of gum from the candy rack into her purse. She then picked up a 25-cent bag of potato chips and gave Al Sane a dollar bill. He charged her 65 cents, explaining that he had deducted the price of the gum he saw her take. Defendant denied the taking and an argument began.\nMubarez, the store owner\u2019s son, hearing the argument, was told by Al Sane of the theft. Defendant again denied it and refused Mubarez\u2019s suggestion that Al Sane inspect her purse. When Al Sane persisted in refusing to return any more money to defendant, she knocked over the candy rack and began throwing candy around. Mubarez grabbed a nightstick from behind the counter and threatened to hit defendant if she did not stop. Defendant took out a knife of a type used to open boxes and cut Mubarez on the forehead. He was cut again in the ensuing melee.\nGiven A1 Sane\u2019s substantially unimpeached testimony, the jury was able to find beyond a reasonable doubt that defendant had committed a larceny when she shoplifted the gum (Penal Law \u00a7 155.05). There is no testimony from which the jury could conclude that defendant\u2019s use of the knife or the *363laceration of Mubarez occurred during the taking of the gum or, although subsequently, to overcome Mubarez\u2019s resistance to defendant\u2019s retention of the gum so as to constitute a robbery (see, Penal Law \u00a7 160.00). We cannot agree with the conclusion of the trial court that the jury could find that defendant \"trashed\u201d the candy counter to divert attention from and abate resistance to her theft, and, when that ploy failed, drew the knife to retain the gum. There is no evidence that Mubarez made any effort to recover the stolen gum, nor would he because the store had been paid for it. The knife was a response to the nightstick, the purpose of which was as Mubarez himself announced, not to overcome defendant\u2019s retention of the gum, but to stop her from \"trashing\u201d the store. Concur \u2014 Kupferman, J. P., Sandler, Carro, Lynch and Kassal, JJ. [124 Mise 2d 615.]\n",
+            "ocr": true,
+            "opinion_id": 5886097
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

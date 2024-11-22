@@ -1,0 +1,58 @@
+{
+    "id": 4170501,
+    "judges": "Baker, Lattimore",
+    "date_filed": -1348185600000,
+    "date_filed_is_approximate": false,
+    "slug": "dawson-v-state",
+    "case_name_short": "Dawson",
+    "case_name": "Dawson v. State",
+    "case_name_full": "Irving Dawson v. the State",
+    "attorneys": "Terrell  Miller  of Dallas, for appellant.\n\n Sam D. Stinson,  State's Attorney, and  Robert M. Lyles, \nAssistant State's Attorney, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the Criminal District Court No. 2 of Dallas County. Tried below before the Hon. C. A. Pippen, Judge.\n\nAppeal from a conviction for burglary, penalty eight years in the penitentiary.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied May 25, 1927.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b58-4\">\n    Irving Dawson v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b58-5\">\n    No. 10830.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"ARG\">\n    Delivered April 13, 1927.\n   </decisiondate><br><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b58-6\">\n    Rehearing denied May 25, 1927.\n   </otherdate><br><p data-order=\"4\" data-type=\"summary\" id=\"b58-16\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b58-17\">\n<em>\n     Terrell &amp; Miller\n    </em>\n    of Dallas, for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b58-18\">\n<em>\n     Sam D. Stinson,\n    </em>\n    State\u2019s Attorney, and\n    <em>\n     Robert M. Lyles,\n    </em>\n    Assistant State\u2019s Attorney, for the State.\n   </attorneys>",
+    "citations": [
+        "293 S.W. 1117",
+        "107 Tex. Crim. 42"
+    ],
+    "opinions": [
+        {
+            "author_str": "Baker",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The appellant was convicted of burglary and his punishment assessed at eight years in the penitentiary.\nThe record discloses that appellant was charged and convicted of burglarizing the house belonging to G. W. Parker in the city of Dallas. It was the contention of the appellant, and he so testified, that he did not commit the alleged offense and knew nothing about it.\nThe record contains but one bill of exception, which embraces appellant's motion to quash the indictment, the testimony introduced in the case, the motion for new trial, the substance of the order overruling same motion, the sentence of the appellant, and *Page 43 \nthe notice of appeal. This bill is not in keeping with the statutes of this state and the decisions of this court requiring a bill of exception to point out specifically the objection complained of in such a manner that the bill, of itself, will apprise this court of the alleged error. Nugent v. State, 273 S.W. 598.\nFinding no error in the record, and the evidence being sufficient to warrant the conviction, the judgment of the trial court is affirmed.\nAffirmed.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.\n                    ON MOTION FOR REHEARING.",
+            "ocr": false,
+            "opinion_id": 3937705
+        },
+        {
+            "author_str": "Lattimore",
+            "per_curiam": false,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Appellant makes the contention in his motion that the venue was not proven. No issue was made on this matter in the trial of the case. Art. 847, C. C. P. 1925, requires this court to presume that the venue was proven in the court below unless same was made an issue upon the trial, and it affirmatively appears to the contrary by bill of exceptions approved by the trial court, or proven up by bystanders.\nThe bill of exceptions attempting to bring before this court complaint of practically everything that took place upon the trial is multifarious and insufficient.\nThe motion for rehearing is overruled.\nOverruled.",
+            "ocr": false,
+            "opinion_id": 3937706
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

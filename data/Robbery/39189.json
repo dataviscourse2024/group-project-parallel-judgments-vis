@@ -1,0 +1,46 @@
+{
+    "id": 7164265,
+    "judges": "Hoffman, Sharpnack, Staton",
+    "date_filed": 808963200000,
+    "date_filed_is_approximate": false,
+    "slug": "davis-v-state",
+    "case_name_short": "Davis",
+    "case_name": "Davis v. State",
+    "case_name_full": "James DAVIS, III, Appellant-Defendant v. STATE of Indiana, Appellee-Plaintiff",
+    "attorneys": "Deborah K. Hays, Granger, for appellant., Pamela Carter, Attor\ufb01ey General, Cynthia L. Ploughe, Deputy Attorney General, Indianapolis, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "654 N.E.2d 859"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hoffman",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nHOFFMAN, Judge.\nAppellant-defendant James Davis, III was convicted of burglary, a Class C felony. Davis was sentenced to a four-year term of imprisonment.\n*860On appeal, Davis raises a single issue for review: whether when evidence of a previous crime is offered to impeach the testimony of a defendant, reference to the specific crime should be deleted if the previous crime is the same as that for which the defendant is on trial\nPrior to Davis's testimony at his trial for burglary, he requested a motion in limine to prohibit the State from presenting impeaching evidence of his prior convictions for conversion and burglary. Davis acknowledged that such impeaching evidence is admissible under Ind. Evidence Rule 609; however, Davis urged that the prejudice outweighed the probative value. Over Davis's objection, the trial court allowed the evidence of the previous crimes but admonished the jury that:\n\"[The State intends to offer proof that the defendant has been convicted of a crime in the past. Such evidence is admitted for a limited purpose, namely, to be considered in relation to the defendant's credibility as a witness. It may not be used to establish the commission of the crime charged in this case, nor may it be used to establish that the defendant has a propensity to commit crimes.\"\nThe general provision within Evid.R. 609(a) states:\n\"For the purpose of attacking the credibility of a witness, evidence that the witness has been convicted of a crime or an attempt of a crime shall be admitted but only if the crime committed or attempted is (1) murder, treason, rape, robbery, kidnapping, burglary, arson, eriminal confinement or perjury; or (2) a crime involving dishonesty or false statement.\"\nDavis complains because the impeaching evidence is for the same crime for which he was on trial, the risk of prejudice to the defendant is greater. Davis contends that this is so even considering the admonishment to the jury. Davis contends that if the evidence is to be admitted, the reference to the particular crime should be omitted. Thus, he asserts, the jury would be informed only that the defendant was previously convicted of a \"felony.\"\nWhile it may be true that the risk for potential prejudice is elevated when the impeaching erime is the same as that for which the defendant is on trial, Davis misperceives the basis for the rule. The rule \"prohibits impeachment of a witness by evidence of prior bad acts unless the act is an 'infamous' crime or a crime probative of credibility.\" Pierce v. State (1994), Ind.App., 640 N.E.2d 730, 732, citing Ashton v. Anderson (1972), 258 Ind. 51, 279 N.E.2d 210, 213. Thus, only certain crimes are available for impeaching purposes as specified in Evid.R. 609 and Ashton prior to the adoption of the Indiana Rules of Evidence.\nConsequently, to notify a jury that a witness has been convicted of a \"felony\" without naming the crime, allows speculation and implies that conviction of any crime ipso facto calls into question the veracity of the witness. Such inference is exactly that which is prohibited by the rule. See Pierce, 640 N.E.2d at 733 (Iimiting impeaching evidence to eredi-bility or infamous crime in place to prevent jury from inferring witness a liar merely because he has committed bad acts). Further, stating only that the defendant had been previously convicted of a felony undermines the admonishment to the jury limiting such evidence to the question of credibility, not propensity to commit crimes.\nThere being no error, the judgment of the trial court is affirmed.\nAffirmed.\nSHARPNACK, C.J., and STATON, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7074160
+        }
+    ],
+    "court_short_name": "Indiana Court of Appeals",
+    "court_full_name": "Indiana Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Robbery"
+}

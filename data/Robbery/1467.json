@@ -1,0 +1,46 @@
+{
+    "id": 8050397,
+    "judges": "Delivering, Sherwood",
+    "date_filed": -2752185600000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-norton",
+    "case_name_short": "Norton",
+    "case_name": "State v. Norton",
+    "case_name_full": "State v. Norton",
+    "attorneys": "J. W. Beebe for appellant., D. H. McIntyre, Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. False Pretenses. Form of indictment approved.</p> <p>2. -. In a prosecution for obtaining money by means of a bogus bond, it is error for the court not to submit to the jury the question \u25a0whether the act charged was done with intent to cheat and defraud.</p> <p>3. -: evidence. In such a prosecution an experienced officer of police may properly give his opinion as to whether the bond is a genuine or bogus instrument.</p>",
+    "summary": "Appeal from Jackson Circuit Court.\u2014IIon. S. II. Woodson, Judge. Indictment for unlawfully and feloniously obtaining from one Calvin Morris the sum of $100, as the indictment alleged \u201c by means and by use of a cheat%nd a fraud, and a false and fraudulent representation, and false pretense, and confidence game, and a false and bogus check and instrument or bond \u201d with intent to cheat and defraud said Morris. The trial court instructed the jury that if the defendant did obtain the confidence of Morris and did then and there obtain and receive from said Morris $100 belonging to said Morris, by means and by use of a cheat and a fraud, or false and fraudulent representation or confidence game, or a false or bogus check or instrument-or bond, then they should find the defendant guilty as charged in the indictment, and assess his punishment, etc. The intent to cheat and defraud is a part of the statutory definition of the offense for which appellant was indicted, and is the very essence of it. Every act described in the instruction may be committed without a guilty intent. But the instruction proceeds upon the theory that if the act is found to have been committed then the guilt of the accused follows as a necessary presumption of law. This was manifest error, for the question of guilty intent is a question of fact for the jury, and must in all cases be submitted to them. Arch. Crim. Plead, and Prac., (7 Ed.) 387; State v. Stewart, 29 Mo. 419; State v. Scott, 48 Mo. 425; State v. Horner, 48 Mo. 522 ; Stokes v. People, 5'3 N. Y. 179; Brown v. People, 16 Hun. 535; State v. Fancher, 71 Mo. 460; 1 Whart. Crim. Law, (7 Ed.) 712; Owens v. Hector, 44 Mo. 389; Boss v. Crutsinger, 7 Mo. 245; State v. Matthews, 20 Mo. 55 ; Beg. v. Bearing, 20 L. T. N. S. 680 ; 17 W. R. 807; 11 Cox C. C. 208; Beg. v. Waller, 10 Cox C. C. 360; Bogas v. State, 8 Texas App. 740; Bex v. Horner, 1 Leach C. C. 270: Ham v. Barrett, 28 Mo. 388. There was no error in the instruction. The words \u201c cheat\u201d and \u201cdefraud\u201d necessarily imply the evil intent. People v. Herrick 13 Wend. 91. Nor was there error in receiving the evidence of Speers as to the value and character of the bond. - It was necessary to prove these as much as to prove that the tools employed in effecting the opening of a safe or the entrance to a house are burglars\u2019tools, or that the instrument used in making a felonious assault is a deadly weapon.",
+    "disposition": "Reversed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "76 Mo. 180"
+    ],
+    "opinions": [
+        {
+            "author_str": "Sherwood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nI.\nSherwood, C. J.\nThe defendant was indicted under section 1561, Revised Statutes 1879. The indictment is good, and is in form heretofore approved by this court. State v. Fancher, 71 Mo. 460; State v. Connelly, 73 Mo. 235.\nII.\nIt is very clear that the court when instructing the jury should have submitted the point as to whether the acts charged in the indictment, and testified to at the trial were done \u201cwith intent to cheat and defraud.\u201d The obtaining of money or property with such intent is the very *182gist of the offense. State v. Fancher, supra. Without such intent there can be no violation of the statute. If there could be, then with equal propriety could it be claimed, that taking the goods of another without larcenous intent would constitute the crime of theft. If any support were required for so obvious a position, tbe authorities cited by defendant\u2019s counsel could abundantly furnish it.\nIII.\nThere was no impropriety in permitting Chief of Police Speers to testify what he knew touching the bogus bond used by the defendant in perpetrating the offense charged. In testifying about that instrument and others of its class, he said among other things: \u201c It is an instrument gotten up in Chicago expressly for the use of confidence men in working their games.\u201d. The witness seems to speak from his own knowledge of the matter and not from mereNiearsay or rumor, and his testimony was, therefore, clearly competent. And if he did not speak from his own knowledge, it was a very easy thing to have ascertained this by cross-examination.\nAnd his long experience on the police force at Kansas City, certainly would enable him, as his testimony showed, to determine whether the bond offered in evidence was valuable or was merely a \u201c bogus bond,\u201d such as are usually employed by a certain class of criminals called \u201cconfidence men,\u201d to effect their nefarious purposes. The testimony of Speers in this regard, arising as it did from his experience \u25a0 in regard to such instruments, was certainly as competent as if he had been testifying in a proper case with respect to a tool alleged to be a burglarious one. Nothing is more common or competent than the introduction of such testimony. Greenwell v. Crow, 73 Mo. 638.\nFor the error committed in failing to instruct the jury in the particular heretofore mentioned, tbe judgment will be reversed and the cause remanded.\nAll concur.\n*183In the State v. O\u2019Brien, decided at the same time as the foregoing case, the judgment was reversed for the same reason,\nSherwood, C. J.; delivering the opinion of the court.\n",
+            "ocr": true,
+            "opinion_id": 8007135
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

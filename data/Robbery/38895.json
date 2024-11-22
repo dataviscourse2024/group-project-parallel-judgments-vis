@@ -1,0 +1,46 @@
+{
+    "id": 7106503,
+    "judges": "Trapp",
+    "date_filed": 91238400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-bolen",
+    "case_name_short": "Bolen",
+    "case_name": "People v. Bolen",
+    "case_name_full": "The People of the State of Illinois v. Gerald Stephen Bolen",
+    "attorneys": "Kenneth L. Gillis, of Defender Project, of Chicago, for appellant., Paul R. Welch, State\u2019s Attorney, of Bloomington, (Steven M. Helm, Senior Law Student, of counsel,) for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "8 Ill. App. 3d 688"
+    ],
+    "opinions": [
+        {
+            "author_str": "Trapp",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. PRESIDING JUSTICE TRAPP delivered the opinion of the court: Defendant pleaded guilty to the attempted burglary of two separate business places. Concurrent sentences of one to three years were imposed and he appeals. Counsel appointed upon appeal have filed a motion to withdraw as counsel, together with a brief conforming to the requirements of Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493. Such motion was continued and leave was granted to defendant to file further points and suggestions in his own behalf. Defendant has filed a pro se statement in which he states that there \"was a chance of inadequacy of counsel\u201d. He also points out 19 pages of the report of proceedings which are said to contain \u201cerrors of fact\u201d. These pages contain the testimony of witnesses and we can only conclude that the defendant would contradict such testimony if he had testified. Such matters would relate to credibility of witnesses and weight of the evidence, but as a result of defendant\u2019s pleas the facts were never considered by the jury. Defendant proceeded to trial upon the indictments and the prosecution introduced evidence of facts tending to show the attempted burglaries, together with tire testimony concerning oral confessions of the two offenses by the defendant. At the close of the evidence for the prosecution and following an overnight recess, defendant moved to withdraw the pleas of not guilty and to enter pleas of guilty. We have examined the record and find that the court admonished the defendant as required under Supreme Court Rule 402, including the nature of the charge, the right to a jury trial and the effect of the waiver of a jury, the maximum and minimum sentences which might be imposed, and the possibility of consecutive sentences. Defendant was advised that the court had no knowledge of any plea negotiations and would not be bound by such. The factual basis of the plea was demonstrated in the evidence heard upon the partial trial.  During the admonition, the defendant responded to direct questions of the trial judge advising that there was no question of his desire to withdraw the pleas of not guilty and to plead guilty. The trial fully supports the determination of the court that the pleas were voluntary.  The record belies the pro se statements concerning the \u201cchance of inadequacy of counsel\u201d, and that the defendant would not have changed his plea \u201cif counsel would of showed more interest in the case than he did\u201d. The record shows that counsel filed motions for the reduction of bond and to quash the indictment and that he procured broad pre-trial discovery. Counsel moved for and obtained an examination to determine the competency of the defendant, and we note that he was prepared for a trial at a time when defendant insisted upon a continuance. The voir dire of jurors continued over more than a day and included a challenge of eight jurors. Defendant\u2019s statements concerning his pro se motions in the trial court did not appear in the record, but it does appear that in open court he asked that some papers which he had sent to the court not be placed in the record. The record shows that counsel alertly and vigorously cross-examined the witnesses of the prosecution, made appropriate objections to the evidence introduced by the State\u2019s Attorney, and procured dismissal of a third count of the indictment. The motion of the State\u2019s Attorney to strike the pro se motion of the defendant is denied, the motion of counsel to withdraw is granted and the judgments of conviction are affirmed. Judgments affirmed. CRAVEN and SMITH, JJ., concur. ",
+            "ocr": true,
+            "opinion_id": 7012479
+        }
+    ],
+    "court_short_name": "Appellate Court of Illinois",
+    "court_full_name": "Appellate Court of Illinois",
+    "court_type": "SA",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Robbery"
+}

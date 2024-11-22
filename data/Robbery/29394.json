@@ -1,0 +1,46 @@
+{
+    "id": 5215913,
+    "judges": "Roberts",
+    "date_filed": 92448000000,
+    "date_filed_is_approximate": true,
+    "slug": "stafford-v-state",
+    "case_name_short": "Stafford",
+    "case_name": "Stafford v. State",
+    "case_name_full": "Richard STAFFORD v. The STATE of Texas",
+    "attorneys": "Jerry Calhoun, Houston, for appellant., Carol S. Vance, Dist. Atty., James C. Brough and Herbert Hancock, Asst. Dist. Attys., Houston, Jim D. Vollers, State\u2019s Atty., and Robert A. Huttash, Asst. State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "487 S.W.2d 337"
+    ],
+    "opinions": [
+        {
+            "author_str": "Roberts",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nROBERTS, Judge.\nThis appeal is taken from an order revoking appellant\u2019s probation. He entered a plea of guilty on January 5, 1970, to a charge of possession of marihuana, and received a punishment of five years\u2019 confinement, probated. A motion to revoke appellant\u2019s probation was filed October 12, 1971, alleging that appellant had violated the terms of his probation by committing the offense of breaking and entering a motor vehicle, felony theft, and failing to make any payments on his supervisory fee. After a hearing, appellant\u2019s probation was revoked.\nAppellant alleges an abuse of discretion and makes reference to two specific complaints. He first contends that he was illegally arrested and that such arrest was made the basis of the revocation.\n*338Two Houston police officers testified that on the night of April 6, 1971, at approximately 11:25, they received a report of someone breaking into an automobile parked in a commercial lot in downtown Houston. Arriving at that location, they observed appellant, in a crouched position, standing between the open left door and the automobile. They approached appellant and observed that the vent glass on the automobile had been pried open, and scratch marks were present on the trim around it. When appellant saw the officers, he dropped certain articles. The officers testified appellant had in his possession a cigarette lighter, an automobile vacuum cleaner, and a carton of cigarettes. Further, they stated he vigorously resisted arrest.\nThe owner of the car testified that these articles, or ones very similar to them, were in his parked automobile while he attended a movie. He stated he gave no one permission to remove them.\nAppellant testified that he was on the parking lot to relieve himself, that he did not break into the automobile, and that the police officers removed the articles in question from the car and tried to make him say that he had removed them himself.\nThus, appellant alleges that the warrantless search was illegal, as well as any evidence obtained as a result of such arrest. Clearly, the officers had probable cause to arrest appellant, based on the report they received and on what they observed at the scene. See Art. 14.01, Vernon\u2019s Ann.C.C.P. and Art. 14.03, V.A.C.C.P. The arrest being legal, the evidence obtained as a result thereof was admissible.\nAppellant next complains that the . reason he did not pay the monthly probationary fee was because he was attending barber college and had recently gotten married. He stated his father had agreed to pay the entire amount due, $150.00, when appellant finished his schooling. However, we need not hinge our decision on this point. The court\u2019s order revoking appellant\u2019s probation simply stated that he had violated the terms of his probation. No specific grounds were stated and no request for findings was made. The evidence is sufficient to justify the revocation, solely on the allegation of breaking and entering the motor vehicle.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5039833
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

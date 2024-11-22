@@ -1,0 +1,47 @@
+{
+    "id": 3455388,
+    "judges": "Thomas",
+    "date_filed": -886550400000,
+    "date_filed_is_approximate": false,
+    "slug": "noble-v-commonwealth",
+    "case_name_short": "Noble",
+    "case_name": "Noble v. Commonwealth",
+    "case_name_full": "Noble v. Commonwealth.",
+    "attorneys": "Olney B. Owen and J. W. Craft, Jr., for appellant., Hubert Meredith, Attorney General, and Wm. F. Neill, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Perry Circuit Court.\n\nRoy Helm, Judge.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b491-5\">\n    Noble v. Commonwealth.\n   </parties><br><decisiondate id=\"b491-6\">\n    Nov. 28, 1941.\n   </decisiondate><br><attorneys id=\"b491-10\">\n    Olney B. Owen and J. W. Craft, Jr., for appellant.\n   </attorneys><br><attorneys id=\"b491-11\">\n    Hubert Meredith, Attorney General, and Wm. F. Neill, Assistant Attorney General, for appellee.\n   </attorneys>",
+    "citations": [
+        "156 S.W.2d 463",
+        "288 Ky. 477"
+    ],
+    "opinions": [
+        {
+            "author_str": "Thomas",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Reversing.\nAt the regular September, 1940, term of the Perry Circuit Court the grand jury impaneled for that term returned this indictment against appellant and his brother, Courtney Noble, accusing them of what is commonly *Page 478 \nknown as \"Armed robbery.\" Both brothers at their separate trials were convicted and the conviction of Courtney Noble was reversed by us on appeal therefrom in an opinion rendered November 7 of this year which has not been published but will be in 288 Ky. 232, 155 S.W.2d 866. That reversal was based, not on the merits of the case, but for fatal irregularities in the selection of the grand jury that returned the indictment and in the selection of the panel of the petit jury that tried the case, objections to each of which had been properly made in the trial court but overruled by it. That opinion was rested on the two prior and recent ones of South v. Commonwealth, 287 Ky. 99,  152 S.W.2d 295 and Wilson v. Commonwealth, 287 Ky. 286,152 S.W.2d 952, each of which involved the same fatal defects in the selection of the two juries complained of in those cases, and which were the same juries complained of in this case. The facts constituting the fatal defects complained of are set out in the South opinion and need not be repeated here. Those opinions are determinative of this case, from which it follows that the court erred in not sustaining appellant's motions to quash the indictment against him for improper selection of the grand jury that returned it, and also erred in not discharging the panel of the petit jury based upon the same fatal irregularities.\nWherefore the judgment is reversed with directions to set it aside, but which will be without prejudice to a re-submission f the case to the grand jury.",
+            "ocr": false,
+            "opinion_id": 3453531
+        }
+    ],
+    "court_short_name": "Court of Appeals of Kentucky (pre-1976)",
+    "court_full_name": "Court of Appeals of Kentucky (pre-1976)",
+    "court_type": "S",
+    "court_jurisdiction": "Kentucky, KY",
+    "crime_category": "Robbery"
+}

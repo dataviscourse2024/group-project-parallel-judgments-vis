@@ -1,0 +1,46 @@
+{
+    "id": 8546144,
+    "judges": "Stewart",
+    "date_filed": -1499126400000,
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-moxitch",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Moxitch",
+    "case_name_full": "Commonwealth v. Moxitch",
+    "attorneys": "A. C. LaBarre, for claimant., T. McKeen Chidsey, District Attorney, for Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 Pa. D. & C. 31"
+    ],
+    "opinions": [
+        {
+            "author_str": "Stewart",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nStewart, P. J.\nThis is an application to the court for the approval of witness fees amounting to $132, and claimed by Charles Barosky, who was com*32mitted in default of bail to the Northampton County prison as a material witness in above case. He was confined eighty-eight days. The charge preferred against the defendant was aggravated assault and battery, and it was nol grossed, and the costs were directed to be paid by the county. The Act of April 17, 1913, P. L. 79, provides: \u201cThat any witness, in any case, who shall be committed in default of bail to prison by any judge, alderman, magistrate, justice of the peace or coroner to appear and testify in behalf of the Commonwealth, shall be paid out of the treasury of the proper county the sum of $1.50 for each day, or part of a day, such witness shall be detained in prison.\u201d It is contended that under the above act the detention of the witness fixes the liability of the county, and Kramfert v. Dauphin County, 25 Dist. R. 153, was cited by the learned counsel for the claimant as so holding. That contention cannot be sustained, nor does the case cited so hold. That charge was murder, which is exclusively triable in the Court of Oyer and Terminer, and Judge Kunkel expressly states that the affidavit in that case set forth sufficient facts to induce a firm belief in the mind of the magistrate that the witness would abscond, etc. The county\u2019s contention in that case was as to the irregularity of the commitments. The question here involved was not passed on because the liability was undoubted. Before there can be any legal liability on the county, the commitment must have been a legal commitment. If the claimant was illegally committed, he should have applied for a writ of habeas corpus, and we then would have discharged him. He cannot tamely submit to illegal imprisonment and then demand to be compensated by the county for the loss of time. The 58th section of the Act of March 31, 1860, P. L. 444, provides: \u201cNo witness in any case who enters his or her recognizance in such sum as the magistrate may demand to appear and testify in such prosecutions as require his testimony, shall be committed to prison by the judge, alderman or magistrate before whom any criminal charge may be preferred: Provided, however, that in all eases triable in the Oyer and Terminer, where a positive oath is made, reduced to writing and signed by the deponent, setting forth sufficient reasons or facts to induce the firm belief on the part of the judge, magistrate or alderman that any witness will abscond, elope or refuse to appear upon the trial, that then, and in such case, the judge, magistrate or alderman may exact bail of said witness to testify.\u201d In other words, every witness can enter his own recognizance, except \u201cthat in all cases triable in the Oyer and Terminer,\u201d etc., he can be held to bail or committed in default thereof. What is the meaning of \u201call cases triable in the Oyer and Ter-miner?\u201d When we turn to section 31 of the Act of March 31, 1860, P. L. 437, we find the Court of Oyer and Terminer has jurisdiction \u201cof all crimes committed or triable in any county.\u201d If the words quoted mean all crimes, then the privilege of entering a person\u2019s own recognizance is valueless, for he could be held to bail or committed in every case, because every case is triable in the Court of Oyer and Terminer, which would make the privilege of no avail, and the first clause of the act would amount to nothing. Such a contention is an absurdity, but the same section provides that the Court of Oyer and Terminer shall have exclusive jurisdiction in murder, manslaughter, treason, sodomy, buggery, rape, robbery, arson, mayhem, burglary and a number of other crimes. It is, therefore, obvious that the proviso in the 56th section of the Act of March 31, 1860, P. L. 444, applies only to cases exclusively triable in the Oyer and Terminer. This conclusion was reached upon the same reasoning in In re Mary Engelke, 11 Dist. R. 121, by the late President Judge Arnold. Attention should also be directed to the further requirements of the act that *33a positive oath should be made, reduced to writing and signed by the deponent, setting forth sufficient reasons or facts to induce the firm belief on the part of the officer that the witness will abscond, elope or refuse to appear upon the trial before bail can be demanded or the witness committed. A commitment to prison of a material witness is no perfunctory matter. No one\u2019s liberty should be taken from him without the officer following the exact legal procedure, and only in cases where it is legal to commit. We are influenced by the same reasons.that influenced Judge Arnold in stating our views at length; that is, that the attention of the aldermen and magistrates may be called to this important matter because of the injustice that is frequently done to innocent witnesses.\nAnd now, Dec. 24, 1921, bill is not approved.\nFrom Henry D. Maxwell, Easton, Pa.\n",
+            "ocr": true,
+            "opinion_id": 8518763
+        }
+    ],
+    "court_short_name": "Northampton County Court of Quarter Sessions",
+    "court_full_name": "Northampton County Court of Quarter Sessions",
+    "court_type": "ST",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

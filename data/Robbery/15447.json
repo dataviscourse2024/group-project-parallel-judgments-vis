@@ -1,0 +1,46 @@
+{
+    "id": 1690914,
+    "judges": "Per Curiam",
+    "date_filed": 950832000000,
+    "date_filed_is_approximate": false,
+    "slug": "wilson-v-state",
+    "case_name_short": "Wilson",
+    "case_name": "Wilson v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "752 So. 2d 1227"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n752 So.2d 1227 (2000)\nBruce WILSON, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 5D99-2318.\nDistrict Court of Appeal of Florida, Fifth District.\nFebruary 18, 2000.\n*1228 Bruce Wilson, Sanderson, pro se.\nRobert A. Butterworth, Attorney General, Tallahassee, and Carmen F. Corrente, Assistant Attorney General, Daytona Beach, for Appellee.\nPER CURIAM.\nBruce Anthony Wilson appeals the summary denial of his motion for post-conviction relief pursuant to Florida Rule of Criminal Procedure 3.800(a).\nWilson entered a plea of no contest to felony petit theft in circuit court case numbers 93-319 and 93-320. He was originally sentenced to community control followed by probation, but he agreed that if he violated the terms of his sentence he could be sentenced as an habitual felony offender. He thereafter violated his probation and was sentenced to ten years in the Department of Corrections as an habitual felony offender. His subsequent appeal was affirmed without opinion, Wilson v. State, 671 So.2d 800 (Fla. 5th DCA 1996). Denials of subsequent post-conviction motions were also affirmed in Wilson v. State, 697 So.2d 863 (Fla. 5th DCA 1997) and Wilson v. State, 719 So.2d 303 (Fla. 5th DCA 1998).\nIn this proceeding, the trial judge found that Wilson had raised the argument that he could not be sentenced as an habitual felony offender under the amended petit theft statute in a previous post-conviction proceeding and that the argument had been rejected on the merits. In Raley v. State, 675 So.2d 170 (Fla. 5th DCA), appeal dismissed, 683 So.2d 484 (Fla.1996), this court held that an issue *1229 which was previously reviewed on the merits and rejected is barred from reconsideration in a Rule 3.800(a) motion under the law of the case doctrine. However, reconsideration of the law of the case may be warranted in exceptional circumstances where reliance on the previous decision would result in manifest injustice. State v. Owen, 696 So.2d 715 (Fla.1997); see also Zolache v. State, 687 So.2d 298 (Fla. 4th DCA 1997) (appellate court has power to reconsider and correct rulings which have become law of the case, where reliance on previous decision would be manifest injustice and it would be fundamentally unfair to require defendant to serve a sentence in excess of what is legally authorized). We find that in this case, the exception to the law of the case rule should be applied.\nWhen the trial court and this court rejected Wilson's previous motions, both courts relied on Gayman v. State, 616 So.2d 17 (Fla.1993), without recognizing that subsection 812.014(2)(d), Florida Statutes (1991), the statute applied in Gayman, had been amended. Prior to 1992, subsection 812.014(2)(d) provided that sentencing for felony petit theft was required under section 775.082 (general criminal penalties), section 775.083 (criminal fines) or section 775.084 (habitual offenders). However, effective October 1, 1992, the statute was amended by Chapter 92-79, \u00a7 1, Laws of Florida, and the reference to section 775.084 (habitual offenders) was deleted. In Gayman, the court did not apply the amended statute and that statute is applicable to Wilson's 1995 case and perhaps to his 1993 cases.\nIn Ridley v. State, 702 So.2d 559 (Fla. 2d DCA 1997), the court noted that when the legislature amends a statute by omitting words or reference to a statute, the general rule of construction is to presume that the legislature intended the statute to have a different meaning. The court concluded that by eliminating the reference to the habitual offender statute when amending section 812.014, the legislature clearly intended to eliminate that sentencing option for felony petit theft. The Berch v. State, 691 So.2d 1148, 1149 (Fla. 3d DCA 1997) opinion referred to the legislative committee notes to the amendment which explained that a person prosecuted for enhanced petit theft is not subject to habitual offender penalties. Each of the district courts, other than this court, have since held that a defendant cannot be sentenced as an habitual felony offender under the amended petit theft statute. See, e.g., Burke v. State, 734 So.2d 1175 (Fla. 4th DCA 1999); Blank v. State, 726 So.2d 854 (Fla. 2d DCA 1999); Baker v. State, 724 So.2d 121 (Fla. 1st DCA 1998); Nelson v. State, 719 So.2d 1230 (Fla. 1st DCA 1998); Ridley, supra; Berch, supra.\nWilson agreed as a condition of his original plea in the 1993 cases that there was a possibility he could be habitualized if he violated his community control or probation. According to the prior post-conviction proceedings, Wilson was also advised of the maximum ten year penalty. Nonetheless, a defendant cannot agree to an illegal sentence. See, e.g., Shelton v. State, 739 So.2d 1235 (Fla. 4th DCA 1999) (defendant cannot be bound to an agreement to accept an illegal sentence); Lee v. State, 731 So.2d 71 (Fla. 2d DCA 1999) (defendant cannot authorize court to impose an illegal sentence, even by virtue of a plea agreement). Because a felony petit theft offender cannot be sentenced as an habitual felony offender under the 1992 amendment to the theft statute, Wilson could not be deemed to have agreed to this illegal sentence. We vacate the trial court's order denying relief and remand for further consideration of Wilson's post-conviction motion in light of this opinion.\nORDER VACATED; REMANDED.\nDAUKSCH, W. SHARP, and PETERSON, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1690914
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

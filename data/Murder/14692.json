@@ -1,0 +1,46 @@
+{
+    "id": 1133756,
+    "judges": "Decuir",
+    "date_filed": 1162425600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-morain",
+    "case_name_short": "Morain",
+    "case_name": "State v. Morain",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "941 So. 2d 720"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7378.0,
+            "opinion_text": "\n941 So.2d 720 (2006)\nSTATE of Louisiana\nv.\nRandall J. MORAIN.\nNo. 06-710.\nCourt of Appeal of Louisiana, Third Circuit.\nNovember 2, 2006.\nThomas C. Damico, Attorney at Law, Baton Rouge, LA, for Defendant/Appellant Randall J. Morain.\nMichael W. Shannon, Assistant District Attorney, Alexandria, LA, for Appellee State of Louisiana.\nCourt composed of OSWALD A. DECUIR, JIMMIE C. PETERS, and GLENN B. GREMILLION, Judges.\nDECUIR, Judge.\nThe Defendant, Randall J. Morain, was charged by bill of information with vehicular homicide, a violation of La. R.S. 14:32.1, and first degree vehicular negligent injuring, a violation of La.R.S. 14:39.2. The Defendant pled guilty to the charged offenses and was sentenced on August 1, 2005. For vehicular homicide, the Defendant was ordered to serve twenty-five years at hard labor, with eight years to be served without the benefit of parole, probation or suspension of sentence. For vehicular negligent injuring, *721 the court sentenced the Defendant to five years at hard labor to run concurrently with the previous sentence. Upon the Defendant's motion, the court resentenced the Defendant on November 7, 2005 to the statutory maximum of twenty years in prison, with eight years to be served without the benefit of parole, probation or suspension of sentence.\nThe Defendant is now before this court challenging the sentence for vehicular homicide as excessive and illegal. Finding illegalities in the sentence imposed, we hereby vacate and remand the case for resentencing.\nOn May 17, 2004, seventeen-year-old Evan Ammons had a flat tire on Interstate 49 while on his way to work. He called his stepfather, Alberto Hinojosa, and his mother for assistance with changing the tire. Mr. Hinojosa, his wife, and their two children arrived, and Mr. Hinojosa parked their van in front of Evan's vehicle on the shoulder of the interstate. As Mr. Hinojosa was assisting Evan with changing the tire, the Defendant's vehicle veered onto the shoulder and struck them. Evan died at the scene of the accident, and Mr. Hinojosa sustained serious injuries. The Defendant's blood was tested after the accident, and the blood alcohol content was measured at 0.10g percent.\nAt the time of the instant offense in May of 2004, the sentencing provision of La.R.S. 14:32.1 mandated a fine of not less than two thousand dollars nor more than fifteen thousand dollars and imprisonment with or without hard labor for not less than two nor more than twenty years, with at least one year without the benefit of parole, probation or suspension of sentence. Additionally, the court was required to order that the offender participate in a court-approved substance abuse program or a court-approved driver improvement program, or both.\nOur review of the sentencing transcript shows that the sentence imposed on the Defendant is indeterminate. Specifically, the court failed to specify whether the sentence was to be served with or without hard labor. The transcript contains the following pronouncement: \"I will re-sentence him to twenty years in prison. Eight years to be served without the benefit of probation, parole, or suspension of sentence.\" The court did not specifically state whether the sentence was to be served with or without hard labor. Because the penalty provision for vehicular homicide provides for the sentence to be served with or without hard labor, the sentencing court's failure to specify renders the sentence indeterminate. See State v. Loyden, 04-1558 (La.App. 3 Cir. 4/6/05), 899 So.2d 166. In Loyden, this court vacated the sentence, remanded the case for the imposition of a determinate sentence, and instructed the trial court to specify whether the sentence was to be served with or without hard labor.\nThe record before us also exposes additional errors in the sentence imposed on the Defendant. The sentencing court failed to impose a mandatory fine and did not order participation in a substance abuse and/or driver improvement program, as required by La.R.S. 14:32.1(B) at the time of the offense. These issues were raised by assignment of error, and the Defendant correctly characterizes the failure to impose a mandatory fine and require participation in an appropriate substance abuse program as patent error. In 2004, La.R.S. 14:32.1(B) required the imposition of a fine of not less than two thousand dollars nor more than fifteen thousand dollars. Additionally, the trial court was required to order participation in a court-approved substance abuse program, court-approved driver improvement program, or both. In this case, the court, *722 in failing to impose these requirements, pronounced an illegally lenient sentence.\nAccordingly, because we find the sentence imposed for the crime of vehicular homicide is both indeterminate and illegally lenient, we must vacate and remand for resentencing. Discussion of the Defendant's contention that his sentence for vehicular homicide is excessive is pretermitted by our decision to vacate.\n\nDECREE\nThe Defendant's conviction for vehicular homicide and his conviction and sentence for first degree vehicular negligent injuring are hereby affirmed. The Defendant's sentence for vehicular homicide is vacated, and the case is remanded to the trial court for imposition of a sentence in compliance with the provisions set forth in La.R.S. 14:32.1(B), as well as the views expressed herein.\nCONVICTIONS AFFIRMED; SENTENCE VACATED AND REMANDED.\n",
+            "ocr": false,
+            "opinion_id": 1133756
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

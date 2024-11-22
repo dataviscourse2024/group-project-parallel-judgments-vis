@@ -1,0 +1,46 @@
+{
+    "id": 6051121,
+    "judges": null,
+    "date_filed": 612489600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-lyons",
+    "case_name_short": "Lyons",
+    "case_name": "People v. Lyons",
+    "case_name_full": "The People of the State of New York v. Nathan Lyons",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "150 A.D.2d 804"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Nassau County (O\u2019Shaughnessy, J.), rendered January 24, 1986, convicting him of burglary in the third degree and grand larceny in the third degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nContrary to the defendant\u2019s contention we conclude that the People fully complied with CPL 240.20 (1) (c) by forwarding the two fingerprint reports in their possession prior to trial and by informing defense counsel that the fingerprint evidence was available for inspection at a mutually convenient time. We do not find that the People were required to inform the defendant of the existence of unidentifiable smudges found at the scene (see, People v Murray, 140 AD2d 949, lv denied 72 NY2d 960).\nWe have examined the defendant\u2019s remaining contentions and find them to be without merit. Rubin, J. P., Sullivan, Harwood and Balletta, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5914559
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

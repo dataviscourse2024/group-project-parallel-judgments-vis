@@ -1,0 +1,47 @@
+{
+    "id": 2121955,
+    "judges": "Heard Before White",
+    "date_filed": 66009600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-melvin",
+    "case_name_short": "Melvin",
+    "case_name": "State v. Melvin",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "194 N.W.2d 178",
+        "187 Neb. 792"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5034.0,
+            "opinion_text": "\n194 N.W.2d 178 (1972)\n187 Neb. 792\nSTATE of Nebraska, Appellee,\nv.\nVincent P. MELVIN, Appellant.\nNo. 38218.\nSupreme Court of Nebraska.\nFebruary 4, 1972.\nJohn E. Dier, Holdrege, for appellant.\nClarence A. H. Meyer, Atty. Gen., Warren D. Lichty, Jr., Asst. Atty. Gen., Gary R. Welch, Special Asst. Atty. Gen., Lincoln, for appellee.\nHeard before WHITE, C.J., and SPENCER, BOSLAUGH, SMITH, McCOWN, NEWTON and CLINTON, JJ.\nBOSLAUGH, Justice.\nThe defendant, Vincent P. Melvin, and John G. Ryan were convicted of burglary upon pleas of guilty. The charges arose out of an offense on May 14, 1971, in which both men participated.\nThe defendant was sentenced to imprisonment for 1 to 2 years. Ryan was sentenced to imprisonment for 1 year. The defendant appeals, claiming that his sentence was excessive and should not have exceeded that imposed on Ryan.\nIn passing sentence, it is proper for the trial court to take into consideration other offenses that have been committed by the accused. In this case, the defendant's record of previous offenses justifies a more severe sentence than that imposed on Ryan.\nRyan had been fined for disorderly conduct, disturbing the peace, petit larceny, *179 speeding on two occasions, and driving without an operator's license. On March 4, 1971, he had been placed on 6 months' probation for breaking and entering an automobile.\nThe defendant had been charged with writing insufficient fund checks on three occasions and had been sentenced to jail on two occasions for periods of 7 days and 30 days. In January 1971, he was sentenced to jail for 4 months for burglary and placed on probation for 1 year for destruction of property. Apparently, the present offense was committed only a short time after he had been released from jail on the previous burglary charge.\nThe record does not show an abuse of discretion. The judgment of the district court is affirmed.\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 2121955
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

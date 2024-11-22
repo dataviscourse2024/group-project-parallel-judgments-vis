@@ -1,0 +1,47 @@
+{
+    "id": 6200082,
+    "judges": null,
+    "date_filed": 977875200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-coleman",
+    "case_name_short": "Coleman",
+    "case_name": "People v. Coleman",
+    "case_name_full": "The People of the State of New York v. Albert Coleman",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "278 A.D.2d 891",
+        "718 N.Y.S.2d 504"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment unanimously modified on the law and as modified affirmed in accordance with the following Memorandum: Defendant appeals from a judgment convicting him after a nonjury trial of robbery in the third degree (Penal Law \u00a7 160.05), attempted petit larceny (Penal Law \u00a7\u00a7 110.00, 155.25), and two counts of petit larceny (Penal Law \u00a7 155.25). County Court sentenced defendant as a second felony offender to concurrent terms of imprisonment of 2 to 4 years for the robbery count, one year for each count of petit larceny, and six months for the attempted petit larceny count.\nContrary to defendant\u2019s contention, the evidence is legally sufficient to support the robbery conviction (see, People v Bleakley, 69 NY2d 490, 495; People v Broadwater, 105 AD2d 1065). The testimony of the cashier at the grocery store that defendant struck her, causing her to fall, provided the requisite evidence of force to support the robbery conviction (see, People v Brown, 266 AD2d 77, lv denied 95 NY2d 794). Further, the verdict convicting defendant of robbery in the third degree is not against the weight of the evidence (see, People v Bleakley, supra, at 495). The determination regarding the credibility of the witnesses is a task within the province of the fact finder, and its judgment should not be lightly disturbed unless clearly unsupported by the record (see, People v Gruttola, 43 NY2d 116, 122).\nWe agree with defendant, however, that the sentence imposed for attempted petit larceny is illegal. The maximum permissible sentence for attempted petit larceny, a class B misdemeanor (see, Penal Law \u00a7 110.05 [8]; \u00a7 155.25), is a definite sentence of imprisonment not to exceed three months (see, Penal Law \u00a7 70.15 [2]). Because the court expressly stated that it was sentencing defendant to the maximum sentence allowed, we modify the judgment by reducing the sentence imposed for attempted petit larceny to a determinate term of imprisonment of three months. (Appeal from Judgment of Monroe County Court, Smith, J. \u2014 Robbery, 3rd Degree.) Present \u2014 Pigott, Jr., P. J., Hurlbutt, Kehoe and Lawton, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6066530
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

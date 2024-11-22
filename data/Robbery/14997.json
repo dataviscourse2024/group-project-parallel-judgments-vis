@@ -1,0 +1,47 @@
+{
+    "id": 1343842,
+    "judges": "Gregory, Harwell, Lewis, Littlejohn, Ness",
+    "date_filed": 437184000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-perry",
+    "case_name_short": "Perry",
+    "case_name": "State v. Perry",
+    "case_name_full": "The STATE, Respondent, v. Alecia Katrena PERRY, Appellant",
+    "attorneys": "Asst. Appellate Defender Elizabeth C. Fullwood, Columbia, for appellant., Atty. Gen. T. Travis Medlock, Asst. Attys. Gen. Harold M. Coombs, Jr., Martha L. McElveen and Carolyn M. Adams and Sol. James C. Anders, Columbia, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b557-4\">\n    22004\n   </docketnumber><br><parties id=\"b557-5\">\n    The STATE, Respondent, v. Alecia Katrena PERRY, Appellant.\n   </parties><br><citation id=\"b557-6\">\n    (309 S. E. (2d) 9)\n   </citation><br><attorneys id=\"b557-12\">\n<em>\n     Asst. Appellate Defender Elizabeth C. Fullwood,\n    </em>\n    Columbia,\n    <em>\n     for appellant.\n    </em>\n</attorneys><br><attorneys id=\"b557-13\">\n<em>\n     Atty. Gen. T. Travis Medlock, Asst. Attys. Gen. Harold M. Coombs, Jr., Martha L. McElveen\n    </em>\n    and\n    <em>\n     Carolyn M. Adams\n    </em>\n    and\n    <em>\n     Sol. James C. Anders,\n    </em>\n    Columbia,\n    <em>\n     for respondent.\n    </em>\n</attorneys><br><decisiondate id=\"b557-14\">\n    Nov. 9, 1983.\n   </decisiondate>",
+    "citations": [
+        "309 S.E.2d 9",
+        "279 S.C. 539"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ness",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5661.0,
+            "opinion_text": "\n279 S.C. 539 (1983)\n309 S.E.2d 9\nThe STATE, Respondent,\nv.\nAlecia Katrena PERRY, Appellant.\n22004\nSupreme Court of South Carolina.\nNovember 9, 1983.\nAsst. Appellate Defender Elizabeth C. Fullwood, Columbia, for appellant.\nAtty. Gen. T. Travis Medlock, Asst. Attys. Gen. Harold M. Coombs, Jr., Martha L. McElveen and Carolyn M. Adams and Sol. James C. Anders, Columbia, for respondent.\nNov. 9, 1983.\nNESS, Justice:\nAppellant, Alecia Katrena Perry, was convicted of housebreaking with intent and sentenced to two years imprisonment. We reverse and remand for a new trial.\n*540 Appellant contends that the trial judge erred in refusing to allow her to call Benjamin Ashford to the stand. We agree. The trial judge permitted Ashford, who had been charged with the same offense as appellant, to claim his Fifth Amendment privilege before taking the stand, even though Ashford was to be tried separately.\nWe held in State v. McGuire, 272 S.C. 547, 550, 253 S.E. (2d) 103, 105 (1979), \"[a] judge may not invoke a witness's Fifth Amendment privilege; and, in any case, it is well settled that a witness who is not also a defendant can invoke that privilege only after the incriminating question has been put.\"\nAlthough Ashford was to be tried for the same offense, he was not a defendant in appellant's trial. The trial judge should have allowed appellant to call Ashford to the stand, notwithstanding the fact that Ashford would have asserted his Fifth Amendment privilege when questioned.\nAppellant also asserts that the trial judge erred in denying her motion for a directed verdict. We disagree. In State v. Haney, 257 S.C. 89, 92, 184 S.E. (2d) 344 (1971), this Court addressed an almost identical fact situation and determined that in the absence of evidence of other intent or explanation, the usual purpose of burglarizing a schoolhouse at night is theft.\nIn ruling on motions for directed verdict, a trial court is concerned only with the existence of evidence, not its weight. State v. Gunter, 273 S.C. 347, 256 S.E. (2d) 317 (1979); State v. Butler, 277 S.C. 452, 457, 290 S.E. (2d) 1 (1982). \" \u0097 [t]he evidence must be viewed in the light most favorable to the State. Any evidence direct or circumstantial reasonably tending to prove the guilt of the accused creates a jury issue.\"\nAppellant was apprehended while attempting to flee the grounds of a school which had just been broken into. In addition, her purse was found by investigating officers at the point of entry. This created an issue for the jury.\nWe reverse appellant's conviction of housebreaking, and remand for a new trial.\nReversed and remanded.\nLEWIS, C.J., and LITTLEJOHN, GREGORY and HARWELL, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1343842
+        }
+    ],
+    "court_short_name": "Supreme Court of South Carolina",
+    "court_full_name": "Supreme Court of South Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "South Carolina, SC",
+    "crime_category": "Robbery"
+}

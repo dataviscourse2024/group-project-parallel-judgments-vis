@@ -1,0 +1,46 @@
+{
+    "id": 7360320,
+    "judges": null,
+    "date_filed": -3968524800000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-gassaway",
+    "case_name_short": "Gassaway",
+    "case_name": "United States v. Gassaway",
+    "case_name_full": "United States v. Samuel Gassaway",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>An indictment is good and sufficient under the act of Maryland of July, 1729, c, 4, sec. 3, if it alleges that the prisoner with force and arms, into a certain storehouse, feloniously did break and enter, and then and there chattels of a greater value of five shillings of the currency of the State of Maryland, feloniously did steal, take and carry away, &c.</p>",
+    "summary": "\nFrom the Criminal Court.\n",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Hay. & Haz. 174"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThis is an indictment, for breaking into a storehouse and stealing goods, under the act of Maryland of July, 1729, C. 4, sec. 3,1 and is as follows :\nThe jurors of the United States, for the county aforesaid,, on their oath present that Samuel Gassaway, late of the county aforesaid, a slave, on the 26th day of Nov., 1842, with force and arms, at the county aforesaid, into a certain store*175house of one James Thecker and one Henry Thecker, there situate, feloniously did break and enter, and then and there three pair of boots of the value of $10,50, and of a greater value than five shillings of the currency of the State of Maryland, and then and there one quarter box of segars, of the value of four dollars and fifty cents, and of a greater value than five shillings of the currency of the State of Maryland, of the goods and chattels of the said James Thecker and the said Henry Thecker, feloniously did steal, take and carry away, against the form and statute in such case, made and provided, and against the peace and government of the United States.\nOn which indictment the jury being empannelled and sworn to say the truth on the premises, said that the prisoner is guilty.\nWhereupon the said prisoner, by his attornejq moved in arrest of judgment upon the verdict. Because the indictment states a larceny by the prisoner, and not a stealing from the house or warehouse according to the terms of the statute, and for other reasons apparent on the record.\nPursuant to the act of Congress of July 7, 1838, the motion and the questions of law' were adjourned to the Circuit Court for its decision.\nThe cause coming on to be heard on the transcript of the record of the Criminal Court of the District of Columbia for the county of Washington, on the motion in arrest of judgment and on the questions of law arising on said motion, was argued by counsel. The court decided that the judgment in this cause ought not to be arrested, because the said indictment does not charge a stealing from the house or warehouse, nor for any other reason apparent on the record. That the offence charged in said indictment is sufficiently charged therein, and that the said indictment is good and sufficient in law. Whereupon it is ordered and adjudged by this court, that the motion in arrest of judgment in said cause be, and that the same is hereby overruled, and that the same be certified to the said Criminal Court.\n\n. \u201c That if any person or persons shall, after the end of this session of assembly, break into any shop, storehouse or warehouse, although such shop, storehouse or warehouse, be not contiguous to or with any mansion-house, and steal from thence any goods, to the value of five shillings, and be thereof convict, by confession or verdict of a jury, such offender or offenders, shall suffer death as felons, without benefit of clergy, any law, usage or custom to the contrary notwithstanding.\u201d\n1 Maxcy\u2019s laws Maryland, 190.\n\n",
+            "ocr": true,
+            "opinion_id": 7279032
+        }
+    ],
+    "court_short_name": "D.C. Circuit",
+    "court_full_name": "Court of Appeals for the D.C. Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

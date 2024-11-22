@@ -1,0 +1,47 @@
+{
+    "id": 6128018,
+    "judges": null,
+    "date_filed": 811641600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-avery",
+    "case_name_short": "Avery",
+    "case_name": "People v. Avery",
+    "case_name_full": "The People of the State of New York v. Floyd Avery",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "219 A.D.2d 529",
+        "631 N.Y.S.2d 517"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Michael Corriero, J.), rendered June 11, 1993, convicting defendant, after a jury trial, of robbery in the second degree, and sentencing him to a term of 4 to 8 years, unanimously affirmed.\nViewing the evidence in the light most favorable to the People and giving them the benefit of every reasonable inference (People v Malizia, 62 NY2d 755, cert denied 469 US 932), defendant\u2019s guilt was proven beyond a reasonable doubt by legally sufficient evidence. Moreover, upon an independent review of the facts, we find that the verdict was not against the weight of the evidence (People v Bleakley, 69 NY2d 490). The credibility issues raised by defendant were properly placed before the jury and we find no reason to disturb its determinations (People v Siu Wah Tse, 91 AD2d 350, 352). Concur\u2014 Rosenberger, J. P., Rubin, Asch, Williams and Mazzarelli, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5993181
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

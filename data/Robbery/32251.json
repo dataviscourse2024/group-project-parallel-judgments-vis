@@ -1,0 +1,47 @@
+{
+    "id": 5793268,
+    "judges": "Blackburn",
+    "date_filed": 884822400000,
+    "date_filed_is_approximate": false,
+    "slug": "kulkov-v-botvinik",
+    "case_name_short": "Kulkov",
+    "case_name": "Kulkov v. Botvinik",
+    "case_name_full": "KULKOV v. BOTVINIK",
+    "attorneys": "Jason R. Hasty, for appellant., Tanya Osensky, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "230 Ga. App. 204",
+        "495 S.E.2d 662"
+    ],
+    "opinions": [
+        {
+            "author_str": "Blackburn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBlackburn, Judge.\nAlexander Kulkov appeals the trial court\u2019s order striking his answer and counterclaim and awarding judgment to Semen Botvinik. The underlying action arose when Botvinik sued his son, Kulkov, for money owed based on a promise to pay, fraud, deception, and theft. After the trial court found Kulkov in wilful violation of its previous discovery order, it struck Kulkov\u2019s answer and counterclaim. The trial court then awarded damages and attorney fees to Botvinik.\n1. In several enumerations of error, Kulkov contends that the trial court erred in its decision regarding his discovery violations. However, Kulkov has failed to provide transcripts of the hearing in this case, and he has made no effort to comply with OCGA \u00a7 5-6-41 (c).\n\u201cIt is well-settled law that without a transcript to review, this court must assume as a matter of law that the evidence at trial supported the court\u2019s findings. It is the burden of the complaining party, including pro se appellants, to compile a,complete record of what happened at the trial level, and when this is not done, there is nothing for the appellate court to review. . . . Wright v. State, 215 Ga. App. 569, 570 (2) (452 SE2d 118) (1994).\u201d (Punctuation omitted.) Jones v. State, 226 Ga. App. 608, 609 (487 SE2d 89) (1997). Because we have not been supplied with transcripts of the hearings in this matter, we are unable to review whether the trial court abused its discretion in striking Kulkov\u2019s answer and counterclaim, or whether the trial court erred in awarding damages.\n2. Kulkov contends that the trial court erred in allowing his trial counsel to withdraw at a \u201ccrucial stage\u201d leaving him unrepresented during the hearing on the sanction motion. However, the record makes it clear that Kulkov\u2019s attorney filed a motion to withdraw due to unpaid fees on December 26, 1996. The order permitting such withdrawal was signed on January 3, 1997, and filed on February 3, 1997. The motion for sanctions was filed on February 10, 1997, and the hearing thereon was held on March 19, 1997. Therefore, Kulkov had almost three months to find another attorney, which he failed to *205do. On these facts, we cannot say that the trial court abused its discretion in allowing Kulkov\u2019s attorney to withdraw.\nDecided January 15, 1998\nJason R. Hasty, for appellant.\nTanya Osensky, for appellee.\n3. \u201cBecause [Kulkov] has intentionally failed to include the hearing transcript or statutorily authorized substitute in the record on appeal, he could therefore have no reasonable basis for anticipating that this Court would reverse the judgment of the trial court. Hosseini v. Donino, 222 Ga. App. 697 (2) (475 SE2d 665) (1996). [Botvinik\u2019s] motion for sanctions for frivolous appeal is therefore granted, and pursuant to Court of Appeals Rule 15 (b), a penalty of [$500] is imposed against [Kulkov]. The trial court is directed to enter judgment against [Kulkov] in this amount upon return of the remittitur.\u201d (Punctuation omitted.) Plumides v. American Engines &amp;c., 227 Ga. App. 885, 886 (490 SE2d 552) (1997).\n\nJudgment affirmed.\n\n\nPope, P. J., and Johnson, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5648132
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

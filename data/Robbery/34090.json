@@ -1,0 +1,47 @@
+{
+    "id": 6170433,
+    "judges": null,
+    "date_filed": 925084800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mcbride",
+    "case_name_short": "McBride",
+    "case_name": "People v. McBride",
+    "case_name_full": "The People of the State of New York v. Eugene McBride",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "260 A.D.2d 649",
+        "687 N.Y.S.2d 273"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the County Court, Westchester County (West, J.), rendered July 31, 1997, convicting him of burglary in the second degree, petit larceny, criminal possession of stolen property in the fifth degree, criminal mischief in the fourth degree, and possession of burglar\u2019s tools, after a nonjury trial, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant was apprehended by police responding to a burglary-in-progress call in an apartment building. At the time of his arrest, the defendant was in possession of the fruits of the crime. Viewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620, 621), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]). Mangano, P. J., H. Miller, Feuerstein, Schmidt and Smith, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6036265
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

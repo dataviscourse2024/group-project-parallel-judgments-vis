@@ -1,0 +1,47 @@
+{
+    "id": 1227816,
+    "judges": "Bell, Pannell, Webb",
+    "date_filed": 163641600000,
+    "date_filed_is_approximate": false,
+    "slug": "dingler-v-state",
+    "case_name_short": "Dingler",
+    "case_name": "Dingler v. State",
+    "case_name_full": "Dingler v. the State",
+    "attorneys": "Gammon & Anderson, Wayne W. Gammon, for appellant., John T. Perren, District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted July 8, 1974",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b255-3\">\n    49496.\n   </docketnumber><parties id=\"AGO8\">\n    DINGLER v. THE STATE.\n   </parties>",
+    "citations": [
+        "214 S.E.2d 6",
+        "134 Ga. App. 223"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pannell",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7172.0,
+            "opinion_text": "\n134 Ga. App. 223 (1975)\n214 S.E.2d 6\nDINGLER\nv.\nTHE STATE.\n49496.\nCourt of Appeals of Georgia.\nSubmitted July 8, 1974.\nDecided March 10, 1975.\nGammon &amp; Anderson, Wayne W. Gammon, for appellant.\nJohn T. Perren, District Attorney, for appellee.\nPANNELL, Presiding Judge.\nThe appellant was charged in a three-count indictment with three counts of theft by receiving stolen property. The last two counts were identical to the charges contained in two separate prior indictments. The two prior indictments were returned to court in 1971, to which defendant, upon arraignment pleaded not guilty. The present indictment, in addition to the two prior offenses, in Count 1 charged a similar offense; that is, theft by receiving stolen property. All three of the offenses occurred at different times and involved different property stolen from different persons. Prior to arraignment on this three-count indictment, defendant interposed what he termed his demurrer and motion to quash the indictment, which also contained elements of a plea of former jeopardy, and a motion for separate trial upon the separate counts. Upon a hearing had, the trial judge took judicial cognizance of the prior indictments then pending in his court and the pleas entered thereon and overruled the motion on all grounds. From this ruling, with a certificate of review, the defendant appealed to this court. Held:\n1. \"In a criminal proceeding the pendency of a former indictment for the same offense is no ground for a plea in abatement or in bar, although the accused may have been arraigned thereon and filed a plea... Where several indictments for the same offense are pending against the same person, it is immaterial upon which he is first tried. Whenever he has been acquitted or convicted upon any one of them, he can plead such acquittal or conviction in bar of a prosecution of any of the others.\" Irwin v. State, 117 Ga. 706 (45 SE 48). See also Gray v. *224 State, 6 Ga. App. 428 (1) (65 SE 191); Cabaniss v. State, 8 Ga. App. 129 (5) (68 SE 849); Hurst v. State, 11 Ga. App. 754 (1, 2d) (76 SE 78).\n2. It has long been the law of this state that two or more counts in one indictment charging the defendant with the same species of crime may be joined in the same indictment and such an indictment is not subject to demurrer or motion to quash on the ground that it seeks to join separate and distinct criminal charges and transactions involving distinct and separate offenses alleged to have been committed at separate and distinct times, and against separate and distinct persons or individuals. Webb v. State, 177 Ga. 414 (170 SE 252); Pippin v. State, 205 Ga. 316 (2) (53 SE2d 482); Edwards v. State, 226 Ga. 811 (177 SE2d 668); Griffin v. Smith, 228 Ga. 177, 179 (8) (184 SE2d 459); Davis v. State, 57 Ga. 66; Hoskins v. State, 11 Ga. 92; also, 1 Chitty's Criminal Law (5th Am. Ed.) p. 252.\n3. However, the trial judge did err in refusing to sever and hold separate trials on each count. When two or more crimes are charged in separate counts in a single indictment, though committed at different times and places and involving transactions with different persons, and are of the same general nature or species, and the mode of trial is the same, it is mandatory that the trial judge, upon motion of defendant, order separate trials for each of the crimes charged. Dingler v. State, 233 Ga. 462, answering certified question from this court.\nJudgment reversed. Bell, C. J., and Webb, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1227816
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

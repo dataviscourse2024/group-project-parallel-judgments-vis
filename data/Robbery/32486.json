@@ -1,0 +1,47 @@
+{
+    "id": 5842366,
+    "judges": null,
+    "date_filed": 1144713600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-covington",
+    "case_name_short": "Covington",
+    "case_name": "People v. Covington",
+    "case_name_full": "The People of the State of New York v. Johnathan Covington",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "28 A.D.3d 575",
+        "811 N.Y.S.2d 919"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Parker, J.), rendered January 4, 2005, convicting him of burglary in the second degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contention that he was denied his right to due process of law when the sentencing court failed to hold a hearing into the circumstances surrounding his discharge from the Treatment Alternatives to Street Crime program is unpreserved for appellate review since he did not request a hearing or move to withdraw his plea (see CPL 470.05 [2]; see People v Mackey, 77 NY2d 846, 847 [1991]; People v Lopez, 71 NY2d 662, 665 [1988]; People v McNair, 22 AD3d 376, 377 [2005], Iv denied 6 NY3d 778 [2006]; People v Craig, 281 AD2d 429 [2001]). In any event, the sentencing court conducted an inquiry sufficient to determine that the defendant violated the *576plea agreement (see People v Valencia, 3 NY3d 714, 715 [2004]). Florio, J.P., Santucci, Fisher and Lunn, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5698293
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

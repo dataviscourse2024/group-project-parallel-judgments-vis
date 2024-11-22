@@ -1,0 +1,47 @@
+{
+    "id": 1397530,
+    "judges": "Deen, McMurray, Shulman",
+    "date_filed": 292464000000,
+    "date_filed_is_approximate": false,
+    "slug": "barraza-v-state",
+    "case_name_short": "Barraza",
+    "case_name": "Barraza v. State",
+    "case_name_full": "Barraza v. the State",
+    "attorneys": "Allison W. Davidson, Ben B. Philips, for appellant., William J. Smith, District Attorney, Douglas C. Pullen, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted March 8, 1979 \u2014, Rehearing denied April 30, 1979 \u2014",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b772-12\">\n    57454.\n   </docketnumber><parties id=\"Af5\">\n    BARRAZA v. THE STATE.\n   </parties>",
+    "citations": [
+        "256 S.E.2d 48",
+        "149 Ga. App. 738"
+    ],
+    "opinions": [
+        {
+            "author_str": "Deen",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7150.0,
+            "opinion_text": "\n149 Ga. App. 738 (1979)\n256 S.E.2d 48\nBARRAZA\nv.\nTHE STATE.\n57454.\nCourt of Appeals of Georgia.\nSubmitted March 8, 1979.\nDecided April 9, 1979.\nRehearing Denied April 30, 1979.\nAllison W. Davidson, Ben B. Philips, for appellant.\nWilliam J. Smith, District Attorney, Douglas C. Pullen, Assistant District Attorney, for appellee.\nDEEN, Chief Judge.\n1. On the appellant's trial for theft by taking, a restaurant employee testified that she saw him and another man lifting a cash register into the van of the witness Rodrigo Sewell. It was established that the register had been stolen from within the restaurant. Sewell testifed that he was driving the van, that the third man came out from the restaurant carrying the machine and the appellant helped him put it in the vehicle; they went to the other man's house, and the appellant took the cash register and threw it in a creek. Sewell further admitted that he had originally, on being questioned, insisted that he knew nothing about a cash register or about the defendant having stolen one. Asked why he *739 changed his story he replied that he was tired of lying.\nBased on this testimony, the appellant contends that the evidence is insufficient to sustain the conviction. Undoubtedly one of the witnesses was proved to have made contradictory statements, a method of impeachment under Code \u00a7 38-1803, the effect of which is solely for jury decision. Scoggins v. State, 98 Ga. App. 360 (7) (106 SE2d 39) (1958). The evidence was sufficient.\n2. The court has a perfect right, after the jury has retired to consider its verdict, to call the jury back into the courtroom and either give further instructions which have been omitted through oversight or, on receiving a request for further instructions, to give such reply as the facts may warrant. Central R. &amp;c. Co. v. Neighbors, 83 Ga. 444, 447 (2) (10 SE 115) (1889). What he should not do is to speak to one or more of them out of the hearing of the parties and their attorneys. Gibson v. Gibson, 54 Ga. App. 187 (5) (187 SE 155) (1936).\nIn this case the judge recalled the jury in order to read them the definition of theft by taking, which he had inadvertently omitted from the original instructions. Later the jury requested further instructions on \"accomplices\" and the judge, in open court, charged the provisions of Code \u00a7 26-801 relating to parties to a crime. His actions in both cases were entirely correct.\nJudgment affirmed. McMurray, P. J., and Shulman, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1397530
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

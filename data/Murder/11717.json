@@ -1,0 +1,47 @@
+{
+    "id": 1342971,
+    "judges": "Birdsong, Johnson, Smith",
+    "date_filed": 805420800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-lane",
+    "case_name_short": "Lane",
+    "case_name": "State v. Lane",
+    "case_name_full": "The State v. Lane",
+    "attorneys": "Dupont K. Cheney, District Attorney, J. Thomas Durden, Jr., Assistant District Attorney, for appellant., Donald 0. Nelson, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Reconsideration denied July 26, 1995",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b164-13\">\n    A95A0408.\n   </docketnumber><parties id=\"AdJ\">\n    THE STATE v. LANE.\n   </parties><br><citation id=\"b164-14\">\n    (460 SE2d 550)\n   </citation>",
+    "citations": [
+        "460 S.E.2d 550",
+        "218 Ga. App. 126"
+    ],
+    "opinions": [
+        {
+            "author_str": "Birdsong",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7141.0,
+            "opinion_text": "\n460 S.E.2d 550 (1995)\n218 Ga. App. 126\nThe STATE\nv.\nLANE.\nNo. A95A0408.\nCourt of Appeals of Georgia.\nJuly 11, 1995.\nReconsideration Denied July 26, 1995.\nDupont K. Cheney, Dist. Atty., J. Thomas Durden, Jr., Asst. Dist. Atty., Hinesville, for appellant.\nDonald O. Nelson, Townsend, for appellee.\nBIRDSONG, Presiding Judge.\nThe State appeals the grant of William Lane's plea of former jeopardy to a charge of voluntary manslaughter.\nIn violation of Court of Appeals Rule 27(a)(1), the State provides no statement of facts. The State, in one paragraph, then argues and cites authority only for the rule that the trial court has broad discretion to declare a mistrial because of the jury's inability to reach a verdict.\nThe record shows appellant was indicted in three counts: murder of Wayne Thomas (Count 1), aggravated assault of Larry Thomas (Count 2), and aggravated assault of Vernon Wells (Count 3). These charges arose out of a fracas at Junior's Trailer Park near JR's Lounge in McIntosh County, where Lane and others were drinking, cooking steak, and boiling crabs. According to evidence, Lane had an injured knee and was using a cane. An argument began. Lane was beaten with beer bottles and an ax handle; he shot Wayne Thomas at very close range, and he shot others. To the deputy who came to his house to arrest him, Lane appeared to be \"severely beaten\"; he said he had lost his best friend and \"had to shoot him to get him off of [him].\" Lane defended by saying he acted in self-defense.\nThe trial lasted two days, and the jury heard from 21 witnesses. The record contains the jury's notes to the trial court. The first note stated: \"We have found the defendant not guilty of Counts 2 &amp; 3. On Count 1, we have found the defendant not guilty of murder, but we are deadlocked on not guilty vs. guilty of involuntary manslaughter, 7-5.\" (Emphasis supplied.) The trial court recharged the jury. Forty minutes later, the jury returned this note: \"[We have] reached a decision on two counts. We are unable to reach a decision on one count.\" The verdict, however, found Lane not guilty of aggravated *551 assault in Counts 2 and 3 and stated: \"We, the jury, cannot reach a verdict on Count 1.\" The State did not object to the form of the verdict. The court declared a mistrial as to Count 1.\nThe trial court and both parties have assumed a retrial for murder is barred, and the trial court granted Lane's plea of former jeopardy as to voluntary manslaughter, holding: \"The State has not presented the case to a grand jury on the offense of voluntary manslaughter and relies on the original indictment [for murder].... The jury, in arriving at a not guilty verdict for murder ... did consider the essential elements of voluntary manslaughter.\" Held:\nThat the trial court has discretion to grant a mistrial does not answer the basic question posed in this case, i.e., whether the grant of mistrial in this case as to murder bars retrial as to voluntary manslaughter. The State does not address this issue. See Court of Appeals Rule 27(c)(2) as to failure to argue and cite legal authority.\nNevertheless, we find the trial court erred in granting the plea in bar. In the first place, the trial court was incorrect in ruling that the jury \"[arrived] at a not guilty verdict for murder.\" The jury handed notes to the trial court saying it had acquitted Lane of murder, that the only criminal charge of which they contemplated finding Lane guilty was involuntary manslaughter, and that seven jurors would have found Lane not guilty even of involuntary manslaughter. But there was no verdict until it was received and published in open court (Green v. State, 208 Ga.App. 1, 2, 429 S.E.2d 694), and the only verdict returned and received in open court was that the jury could not reach a verdict on Count 1 (murder). To impeach this verdict based on notes passed by the jury would be improper.\nThe grant of mistrial as to the count of murder does not prevent the State from trying the defendant again for murder and the lesser included offense of voluntary manslaughter, if the termination of trial was proper. OCGA \u00a7 16-1-8(b)(2). The termination of the trial is not improper if the jury is unable to reach a verdict. OCGA \u00a7 16-1-8(e)(2)(C). As the termination of this case by mistrial as to the count of murder was not improper, a second trial on both the charge of murder and the lesser included offense of voluntary manslaughter will not violate Lane's right under Georgia Constitution Art. I, Sec. I, Par. XVIII to be tried once for the same offense. See Phillips v. State, 238 Ga. 632, 235 S.E.2d 12.\nJudgment reversed.\nJOHNSON and SMITH, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1342971
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

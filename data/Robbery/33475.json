@@ -1,0 +1,46 @@
+{
+    "id": 6039291,
+    "judges": null,
+    "date_filed": 571276800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-duggins",
+    "case_name_short": "Duggins",
+    "case_name": "People v. Duggins",
+    "case_name_full": "The People of the State of New York v. Leroy Duggins",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "137 A.D.2d 613"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Feldman, J.), rendered May 25, 1983, convicting him of kidnapping in the first degree, robbery in the first degree (two counts), burglary in the first degree (two counts), and assault in the second degree, upon a jury verdict, and imposing sentence.\nOrdered, that the matter is remitted to the Supreme Court, Kings County, to hear and report on the issue of whether the defendant was competent to stand trial, the hearing to be held before a Justice other than the one who presided at the trial, and the appeal is held in abeyance in the interim; the Supreme Court is directed to file its report with all convenient speed.\nDuring the course of trial, the defendant began to behave in an irrational manner. Apparently believing that the defendant\u2019s conduct placed the matter of his competence in doubt, the trial court arranged to have the defendant examined by a psychiatrist during a recess. Following that examination, the court took testimony from the psychiatrist who stated that it was his opinion that the defendant was competent to stand trial. This doctor was subject to cross-examination. The court, satisfied by this testimony that the defendant was competent, continued the trial.\nOn the following Monday, when trial resumed, the trial court indicated that, over the weekend, the defendant had been taken to Kings County Hospital after an apparent suicide threat. The court arranged for a doctor from Kings County Hospital to testify, outside the presence of the jury, as to the defendant\u2019s mental condition. On the following day, this doctor stated that he was of the opinion that the defendant did not understand what was taking place, and was unfit to proceed to trial. The defense counsel then requested that the defendant be examined by a third psychiatrist in order to determine whether the defendant was competent and in addition requested a hearing pursuant to CPL 730.30. The court denied both these requests.\nOn appeal the People do not contend that the procedure employed by the court in this case was proper, but rather contend that there should have been an examination by a *614third psychiatrist and a hearing conducted. We are therefore left only with the question of how this error may be remedied. We agree with the People that it is not necessary to overturn the defendant\u2019s conviction on this basis, and that the error in respect to the court\u2019s failure to abide by the provisions of CPL 730.20 may be remedied by ordering the People to prove, at a hearing held during the pendency of this appeal, that the defendant was, in fact, competent at the time he was made to stand trial.\nAs in the cases of People v Hudson (19 NY2d 137, 140, cert denied 398 US 944) and People v Gonzalez (20 NY2d 289, 295-296 [concurring opn, Bergan, J.], cert denied 390 US 971) there were in this case psychiatric examinations of the defendant. The doctors who testified on the record in the present case considered themselves capable of assessing the defendant\u2019s competence. Thus, despite the relatively long period of time which has elapsed since the time of trial, \"[t]he availability of medical proof related to conditions at the initiation and during the progress of the trial * * * makes it possible to afford a plenary inquiry into [defendant\u2019s] competency at the time of trial\u201d (People v Hudson, supra, at 140).\nThe case of People v Peterson (40 NY2d 1014) does not hold that a new trial is necessary in this type of case. In Peterson a new trial was necessary in circumstances in which the trial court had erroneously denied several requests for a psychiatric examination of the defendant. Although it appeared in Peterson that \"[a]t some point after conviction, it was discovered that defendant had been examined and treated for psychiatric difficulties while in custody during the pendency of the trial\u201d (People v Peterson, supra, at 1016 [Jasen, J., dissenting]) there is no indication in that case, as there is in the present case, that one or more psychiatrists had actually formed opinions as to the defendant\u2019s competency. On this basis, we distinguish People v Peterson (supra) from the cases of People v Hudson (supra) and People v Gonzalez (supra), and it is the latter cases which we conclude are controlling (see also, People v Graham, 127 AD2d 443, 446; People v Arnold, 113 AD2d 101, 107-108; cf., People v Lowe, 109 AD2d 300, 305-306, lv denied 67 NY2d 653).\nAccordingly, the matter is remitted for a hearing before a Justice other than the one who presided at trial. The People will have the burden of proving that defendant was competent to stand trial (People v Arnold, supra, at 108; People v Wright, 105 AD2d 1088, affd after remittitur 124 AD2d 1015, lv denied 69 NY2d 751). The witnesses may include the witnesses and *615lawyers who were present at the trial, as well as the Justice who presided at the trial.\nIn the interim, the appeal will be held in abeyance. We express no opinion on the merits of the defendant\u2019s remaining contentions. Bracken, J. P., Kunzeman, Spatt and Harwood, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5902435
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

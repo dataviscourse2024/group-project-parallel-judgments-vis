@@ -1,0 +1,47 @@
+{
+    "id": 6933476,
+    "judges": "Benton",
+    "date_filed": 1038268800000,
+    "date_filed_is_approximate": false,
+    "slug": "jones-v-commonwealth",
+    "case_name_short": "Jones",
+    "case_name": "Jones v. Commonwealth",
+    "case_name_full": "Eric Cherron JONES v. COMMONWEALTH of Virginia",
+    "attorneys": "Corry Smith-Ashley for appellant., Virginia B. Theisen, Assistant Attorney General (Jerry W. Kilgore, Attorney General, on brief), for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "39 Va. App. 250",
+        "572 S.E.2d 491"
+    ],
+    "opinions": [
+        {
+            "author_str": "Benton",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJAMES W. BENTON, Jr., Judge.\nThe trial judge convicted Eric Cherron Jones of robbery, use of a firearm in the commission of robbery, and possession of a firearm after having been convicted of a felony. Jones contends the trial judge erred in ruling that the larceny was not complete when Jones displayed his firearm and, therefore, a robbery occurred. For the reasons that follow, we reverse the convictions for robbery and use of a firearm in the commission of robbery.\nI.\nThe facts are undisputed. Jones entered a retail shoe store, examined a pair of boots, concealed the boots inside his pants, and exited the store without paying for the boots. The manager of the store saw Jones commit these acts and fol*252lowed Jones as he walked out of the store to the parking lot. The manager first confronted Jones in the parking lot and asked Jones to give him the boots. When Jones denied having any boots, the manager told Jones he had seen him put the boots in his pants. Jones then displayed a firearm and told the manager to \u201cback ... off.\u201d Jones ran to a car and drove away.\nJones\u2019s attorney moved to strike the evidence on the robbery related indictments and argued that the evidence failed to prove robbery because the taking was complete when Jones displayed the weapon. The trial judge ruled there was \u201cnot a point at which the taking is complete\u201d and convicted Jones of robbery, use of a firearm in the commission of robbery, and possession of a firearm after having been convicted of a felony.\nII.\nThe principles applicable to the issue before us are well established. Robbery is a common law offense in Virginia, requiring proof of a \u201c \u2018taking with intent to steal, of the personal property of another, from his person or in his presence, against his will, by violence or intimidation.\u2019 \u201d Pritchard v. Commonwealth, 225 Va. 559, 561, 303 S.E.2d 911, 912 (1983) (citation omitted).\nThe violence or putting in fear, to constitute the essential element of robbery, must precede, or be concomitant with, the taking of the property from the person or presence of the owner. No violence, no excitation of fear, resorted to merely for the purpose of retaining a possession already acquired, or to effect escape, will, in point of time, supply the element of force or intimidation, an essential ingredient of the offense.\nMason v. Commonwealth, 200 Va. 253, 256, 105 S.E.2d 149, 151 (1958). Because \u201cthere is a temporal correlation among [the] elements\u201d necessary to prove robbery, the evidence must prove \u201c[t]he violence ... occur[ed] before or at the time of the taking.\u201d Branch v. Commonwealth, 225 Va. 91, 94, 300 S.E.2d 758, 759 (1983). Thus, the Supreme Court has held that \u201c \u2018a charge of robbery [may not] be sustained merely by a showing *253of retention of property, or an attempt to escape, by force or putting in fear.\u2019 \u201d Mason, 200 Va. at 255-56, 105 S.E.2d at 151. The Court noted that this rule \u201chas found frequent application where force or intimidation has been exercised after the property came into the defendant\u2019s hands by stealth.\u201d Id. at 256, 105 S.E.2d at 151.\nThe evidence proved that Jones took the boots in the store and concealed them on his person by stealth. He then carried the hidden boots from the store to the parking lot unhindered. In so doing, he severed the boots from the possession of the owner. Id. When he was confronted by the manager in the parking lot, the evidence established that he then displayed the gun. At that point, the gun was used to assist in retention of the boots or to facilitate Jones\u2019s escape. By then, the taking had been accomplished.\nWe hold, therefore, the evidence was insufficient to prove a robbery. Accordingly, we reverse the convictions for robbery and use of a firearm in the commission of robbery, and we dismiss those indictments.\n\nReversed and dismissed.\n\n",
+            "ocr": true,
+            "opinion_id": 6830166
+        }
+    ],
+    "court_short_name": "Court of Appeals of Virginia",
+    "court_full_name": "Court of Appeals of Virginia",
+    "court_type": "SA",
+    "court_jurisdiction": "Virginia, VA",
+    "crime_category": "Robbery"
+}

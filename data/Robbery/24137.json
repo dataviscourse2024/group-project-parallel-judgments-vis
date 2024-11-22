@@ -1,0 +1,47 @@
+{
+    "id": 4071102,
+    "judges": "PER CURIAM.",
+    "date_filed": -1584662400000,
+    "date_filed_is_approximate": false,
+    "slug": "mogg-v-state",
+    "case_name_short": "Mogg",
+    "case_name": "Mogg v. State",
+    "case_name_full": "Richard Mogg v. State.",
+    "attorneys": "Chas. H. Carswell and J. N. Roberson, for plaintiff in error., The Attorney General and W. C. Hall, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from District Court, Canadian County; Geo. W. Clark, Judge.\n\nRichard Mogg was convicted of grand larceny, and he appeals. Appeal dismissed, and cause remanded, with direction.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Appeal from District Court, Canadian County; Geo. W. Clark, Judge. Richard Mogg was convicted of grand larceny, and he appeals.",
+    "disposition": "Appeal dismissed, and cause remanded, with direction.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b735-3\">\n    RICHARD MOGG v. STATE.\n   </parties><br><docketnumber id=\"b735-4\">\n    No. A-3355.\n   </docketnumber><decisiondate id=\"AkLj\">\n    Opinion Filed Oct. 15, 1919.\n   </decisiondate><br><citation id=\"b735-5\">\n    (183 Pac. 520.)\n   </citation><br><summary id=\"b735-6\">\n    Appeal from District Court, Canadian County; Geo. W. Clark, Judge.\n   </summary><br><summary id=\"b735-7\">\n    Richard Mogg was convicted of grand larceny, and he appeals.\n   </summary><disposition id=\"A4Y\">\n    Appeal dismissed, and cause remanded, with direction.\n   </disposition><br><attorneys id=\"b735-8\">\n    Chas. H. Carswell and J. N. Roberson, for plaintiff in error.\n   </attorneys><br><attorneys id=\"b735-9\">\n    The Attorney General and W. C. Hall, Asst. Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "183 P. 520",
+        "16 Okla. Crim. 715"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Plaintiff in error, Richard Mogg, was tried and convicted in the district court of Canadian county on an information charging the theft of one Ford automobile, the personal property of one J.C. Shriver, and in accordance with the verdict of the jury he was on the 28th day of December, 1917, sentenced to serve a term of one year in the penitentiary at McAlester. From the judgment an appeal was perfected by filing in this court on May 10, 1918, a petition in error, with case-made.\nOn July 5, 1919, plaintiff in error filed a motion to dismiss his appeal. The appeal herein is therefore dismissed, and the cause remanded to the trial court, with direction to cause its judgment to be carried into execution. Mandate forthwith.",
+            "ocr": false,
+            "opinion_id": 3829013
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

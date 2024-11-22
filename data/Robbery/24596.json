@@ -1,0 +1,47 @@
+{
+    "id": 4160249,
+    "judges": "Christian",
+    "date_filed": -1111104000000,
+    "date_filed_is_approximate": false,
+    "slug": "thompson-v-state",
+    "case_name_short": "Thompson",
+    "case_name": "Thompson v. State",
+    "case_name_full": "Irvin Thompson Alias Blackie Thompson v. the State",
+    "attorneys": "John C. Patterson  and  Chas. E. Reagan,  both of Marlin, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of Falls County. Tried below before the Hon. E. M. Dodson, Judge.\n\nAppeal from conviction for robbery with firearms; penalty, death.\n\nAppeal dismissed.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b171-10\">\n    Irvin Thompson alias Blackie Thompson v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b171-11\">\n    No. 17130.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AAW\">\n    Delivered October 17, 1934.\n   </decisiondate><br><citation data-order=\"3\" data-type=\"citation\" id=\"b171-12\">\n    Reported in 75 S. W. (2d) 269.\n   </citation><br><p data-order=\"4\" data-type=\"summary\" id=\"b172-8\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"152\"> \n     *152\n     </span>\n    The opinion states the case.\n   </p><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b172-9\">\n<em>\n     John C. Patterson\n    </em>\n    and\n    <em>\n     Chas. E. Reagan,\n    </em>\n    both of Marlin, for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b172-10\">\n<em>\n     Lloyd W. Davidson,\n    </em>\n    State\u2019s Attorney, of Austin, for the State.\n   </attorneys>",
+    "citations": [
+        "75 S.W.2d 269",
+        "127 Tex. Crim. 151"
+    ],
+    "opinions": [
+        {
+            "author_str": "Christian",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The offense is robbery with firearms; the punishment, death.\nIt is made to appear by proper affidavits that, since his conviction in the trial court and pending his appeal to this court, appellant escaped from custody on the 22nd day of July, 1934, and was still at large on the 22nd day of September, 1934, the date the affidavits herein were made. It is observed that the jury assessed the punishment at death. Appellant was not recaptured and did not voluntarily surrender within thirty days after his escape. He was continuously at large more than thirty days after the date of his escape. Under the circumstances, the appeal must be dismissed. Article 824, C. C. P., as amended by Acts 1933, 43rd Legislature, p. 64, chap. 34.\nThe appeal is dismissed.\nAppeal Dismissed.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.",
+            "ocr": false,
+            "opinion_id": 3926091
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

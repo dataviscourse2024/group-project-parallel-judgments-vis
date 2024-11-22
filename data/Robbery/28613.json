@@ -1,0 +1,46 @@
+{
+    "id": 5060529,
+    "judges": "Clark, Nortwick, Ray",
+    "date_filed": 1343865600000,
+    "date_filed_is_approximate": true,
+    "slug": "ochala-v-state",
+    "case_name_short": "Ochala",
+    "case_name": "Ochala v. State",
+    "case_name_full": "Robert P. OCHALA v. STATE of Florida",
+    "attorneys": "Melissa Montle and Seth E. Miller of Innocence Project of Florida, Inc., Tallahassee, for Appellant., Pamela Jo Bondi, Attorney General, and Donna A. Gerace, Assistant Attorney General, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "93 So. 3d 1167"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nRobert P. Ochala, who was convicted of various crimes in connection with a burglary, appeals an order denying his motion for DNA testing of a glove recovered from the crime scene. The trial court denied the motion because the court concluded the motion was a successive motion. Because we find the motion was not a successive motion, we reverse and remand for further proceedings.\nIn 2002, appellant was convicted of burglary of a structure while armed, attempted second degree murder, grand theft of a firearm, and possession of burglary tools. He received a life sentence. In March 2009, on the authority of rule 3.853, Florida Rules of Criminal Procedure, appellant, pro se, moved for DNA testing of blood obtained from the crime scene. That motion was denied following a hearing. The circuit court denied relief explaining:\nThe defendant has failed to carry his burden of showing that there is any relevant evidence that was not tested for DNA purposes. Consalvo v. State, 3 So.3d 1014 (Fla.2009). In fact, the State has clearly proven that all relevant materials were tested by the Florida Department of Law Enforcement (FDLE) and no blood was found. Since there is nothing untested, the defendant has certainly not proven that there is anything existing that would tend to exonerate him.\nIn August 2011, with the assistance of counsel, appellant moved for DNA testing of gloves recovered from the crime scene. The State opposed the second motion arguing that the gloves were at issue in a previous proceeding and were already tested. In reply, appellant argued (i) that the gloves were previously examined for blood, and none was found; (ii) that such prior examination was not a test for the presence of DNA, which may be found in other substances; and (iii) that rule 3.853 does not contain a prohibition against successive motions.\nThe trial court denied the motion to test the gloves noting that all evidence in the cause had been previously \u201ctested\u201d and, thus, the pending motion was successive. According to the trial court, Florida case law requires that a successive motion for DNA testing under rule 3.853 may not be filed so long as a prior motion was heard.\nOn appeal, appellant argues that the trial court erroneously denied the motion to test the gloves because (i) there is no provision against successive motions for DNA testing under rule 3.853 and (ii) the motion at issue is not successive. More specifically, appellant asserts that rule 3.853, Florida Rules of Criminal Procedure, does not contain a prohibition, explicit or implicit, against successive motions. Appellant notes that, unlike rule 3.850 which requires a party seeking post-conviction relief to state whether a previous motion was filed and an explanation why *1169matters raised in a current motion were not raised in the previous motion, see rule 3.850(c)(4), there is no such disclosure obligation set forth in rule 3.853. Appellant contends this indicates that rule 3.853 does not bar successive motions. Appellant argues further that, besides lacking a provision forbidding a second or a successive motion, rule 3.853 also differs from rule 3.850 in that it lacks a period of time in which a motion for postconviction can be filed.1\nThe circuit court erred in denying the second motion as successive. The motion at issue in this appeal is not identical to the one previously filed and, thus, is not successive per se. A \u201csuccessive motion\u201d for the purposes of postconviction relief has been defined as a \u201cmotion stating substantially the same grounds as a previous motion attacking the same conviction or sentence under the Rule.\u201d McCrae v. State, 437 So.2d 1388, 1390 (Fla.1983). In the first motion, appellant sought DNA testing of blood discovered at the crime scene. The second motion, by contrast, sought testing of the gloves believed to be used by the burglar. The second motion plainly asserts that \u201cthe Defendant does not request testing of the blood sample.\u201d Thus, appellant sought different relief in the second motion and did not raise \u201csubstantially the same ground\u201d as previously raised. Compare McCrae. Because of our holding, we do not address appellant\u2019s argument that rule 3.853 does not prohibit successive motions.\nFinally, the doctrine of collateral estoppel would not bar appellant\u2019s second motion for DNA testing since the prior motion for DNA testing raised a different issue. See Rogers v. State, 970 So.2d 884 (Fla. 2d DCA 2007) (explaining that for the doctrine of collateral estoppel to bar reliti-gation of an issue, the identical issue must have been actually adjudged in the prior proceeding). The doctrine of res judicata does not bar a second motion under rule 3.853 because the rule allows for the filing of a motion \u201cat any time.\u201d Compare Raley v. State, 675 So.2d 170 (Fla. 5th DCA 1996)(holding that there is no bar to a successive motion under rule 3.800(a) because an illegal sentence may be corrected \u201cat any time\u201d so long as issue raised was not already considered on its merits).\nAccordingly, the order denying DNA testing of the gloves is REVERSED, and the cause is remanded for an evidentiary hearing on the motion.\nVAN NORTWICK, CLARK, and RAY, JJ., concur.\n\n. Rule 3.850(b) provides that a motion (which does not seek to vacate a sentence which exceeds that time limits provided by law) must be filed within two years of a judgment of conviction and sentence becoming final, unless the facts giving rise to the motion were not previously known or unless a fundamental constitutional right asserted was not established within the two-year window. In contrast, the current version of rule 3.853 simply provides that a motion seeking DNA testing \"may be filed or considered at any time following the date that the judgment and sentence in the case becomes final.\u201d\n\n",
+            "ocr": true,
+            "opinion_id": 4875697
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

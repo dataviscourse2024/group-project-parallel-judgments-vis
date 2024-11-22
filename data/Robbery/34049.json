@@ -1,0 +1,47 @@
+{
+    "id": 6160423,
+    "judges": null,
+    "date_filed": 896745600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-johnson",
+    "case_name_short": null,
+    "case_name": "People v. Johnson",
+    "case_name_full": "The People of the State of New York v. Craig Johnson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "251 A.D.2d 19",
+        "672 N.Y.S.2d 715"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment, Supreme Court, Bronx County (Joseph Fisch, J.), rendered June 9, 1994, convicting defendant, after a jury trial, of robbery in the second degree, and sentencing him to a term of 2 to 6 years, unanimously affirmed.\nThe jury\u2019s determinations of fact and credibility are supported by the record and the verdict was not against the weight of the evidence (People v Bleakley, 69 NY2d 490).\nDefendant\u2019s claims of error regarding identification testimony are unpreserved and we decline to review them in the interest of justice.\nThe court properly permitted the prosecutor to cross-examine a defense witness regarding his failure to come forward promptly with exculpatory information, after establishing that defendant and the witness were long-time friends, that the witness was aware of the charge pending against defendant and that the witness had the opportunity to come forward expeditiously (People v Dawson, 50 NY2d 311; People v Jackson, 214 AD2d 475, lv denied 86 NY2d 796). We reject defendant\u2019s argument that this type of impeachment should be limited to alibi witnesses. Concur \u2014 Sullivan, J. P., Rosenberger, Rubin, and Williams, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6026080
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

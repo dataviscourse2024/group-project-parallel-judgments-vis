@@ -1,0 +1,46 @@
+{
+    "id": 5898660,
+    "judges": null,
+    "date_filed": -132105600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-de-blasio",
+    "case_name_short": null,
+    "case_name": "People v. De Blasio",
+    "case_name_full": "The People of the State of New York v. Joseph De Blasio",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 A.D.2d 768"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by defendant from two orders of the County Court, Westchester County, entered March 2, 1965: (1) in a coram nobis proceeding, an order which denied without a hearing his application to vacate a judgment of said court, rendered September 13, 1963 on his plea of guilty, convicting him of robbery in the first degree and grand larceny and assault, both in the second degree, and imposing sentence upon him as a second felony offender; and (2) an order which denied his motion to withdraw his plea of guilty. Appeal from order denying motion to withdraw plea of guilty, dismissed. Such an order is not appealable directly but may be reviewed only on an appeal from a judgment of conviction. Order denying application to vacate judgment, affirmed (People v. Esposito, 287 N. Y. 389; People v. Smyth, 3 N Y 2d 184). Beldoek, P. J., Ughetta, Brennan, Hill and Hopkins, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5755781
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

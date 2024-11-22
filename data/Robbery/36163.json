@@ -1,0 +1,46 @@
+{
+    "id": 6584401,
+    "judges": null,
+    "date_filed": 634867200000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-vinnicombe",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Vinnicombe",
+    "case_name_full": "Commonwealth v. Dale Vinnicombe",
+    "attorneys": "Carlo Obligato, Committee for Public Counsel Services, for the defendant., Sean J. Gallagher, Assistant District Attorney, for the Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "28 Mass. App. Ct. 934"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCharged with breaking and entering a dwelling house in the nighttime with intent to commit a felony (common law burglary) and making an assault on a person lawfully therein (G. L. c. 266, \u00a7 14), the defendant *935was convicted by a jury of simply \u201cbreaking and entering.\u201d1 In the lexicon of Massachusetts crimes there is no such crime as \u201cbreaking and entering\u201d unaccompanied by intent to commit a felony or a misdemeanor. See G. L. c. 266, \u00a7\u00a7 14, 15, 16, 17, 18, 19, &amp; 20A. There is such a thing as criminal trespass. It consists of entry of, or remaining in, a dwelling house (among other places) without right after having been forbidden so to do. G. L. c. 266, \u00a7 120. See Commonwealth v. Richardson, 313 Mass. 632, 637 (1943). That crime, however, was not charged. The defendant is entitled to have the verdict set aside and judgment entered in his favor.\nThe defendant conceded that he had made an unpermitted entry but denied intent to do anything other than talk to the victim, to whom he appears to have been in the habit of pouring out his heart. Against the possibility that the jury might not have been persuaded that an assault had occurred, the Commonwealth had suggested that the judge instruct the jury that they might find the lesser included offense of breaking and entering with intent to commit a felony, i.e., that some sort of felony was intended but not carried out. Instead the judge charged the jury that it might find a break and entry had occurred but \u201cnot done by the defendant with any specific intent to commit a felony upon any person located therein.\u201d Further into his instructions the judge told the jury \u201cthe lesser included offense is just the straight breaking and entering without the intent, if you find that is what occurred in this particular matter.\u201d With the ground, thus, erroneously laid, the jury returned a verdict of guilty of \u201c[ljesser included offense as follows: breaking &amp; entering.\u201d\nIt is not appropriate to translate the jury\u2019s finding into a finding of guilty of criminal trespass, which contains elements which need not be found for breaking and entry with intent to commit a felony, notably entering or remaining after having been forbidden so to do. Commonwealth v. Anolik, 27 Mass. App. Ct. 701, 712 (1989). See Kuklis v. Commonwealth, 361 Mass. 302, 306-308 (1972). As to the distinctions between breaking and entry with intent to commit a felony and criminal trespass, see Nolan &amp; Henry, Criminal Law \u00a7 410 (2d ed. 1988). A person shall not be made to answer in the Commonwealth for an offense not charged. See Commonwealth v. Grasso, 375 Mass. 138, 139 (1978); Commonwealth v. Clark, 5 Mass. App. Ct. 673, 677 (1977); art. 12 of the Massachusetts Declaration of Rights.\nAs the defendant has not been placed in jeopardy on a charge of trespass, the Commonwealth is free to press a complaint of that crime. Cf. Commonwealth v. Burns, 8 Mass. App. Ct. 194, 198 n.2 (1979).\n\nJudgment reversed.\n\n\nVerdict set aside.\n\n\nJudgment to be entered for the defendant.\n\nCarlo Obligato, Committee for Public Counsel Services, for the defendant.\nSean J. Gallagher, Assistant District Attorney, for the Commonwealth.\n\nhe jury acquitted the defendant on indictments of assault with intent to rape and indecent assault and battery upon a person over the age of fourteeen.\n\n",
+            "ocr": true,
+            "opinion_id": 6458634
+        }
+    ],
+    "court_short_name": "Massachusetts Appeals Court",
+    "court_full_name": "Massachusetts Appeals Court",
+    "court_type": "SA",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 6118514,
+    "judges": "Andrias, Daniels, Degrasse, Feinman, Manzanet, Mazzarelli",
+    "date_filed": 1400112000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-thomason-rose",
+    "case_name_short": "Thomason-Rose",
+    "case_name": "People v. Thomason-Rose",
+    "case_name_full": "The People of the State of New York v. Tremaine Thomason-Rose",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "117 A.D.3d 548",
+        "985 N.Y.S.2d 563"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*549Judgment, Supreme Court, New York County (Thomas Farber, J.), rendered October 11, 2011, convicting defendant, upon his plea of guilty, of three counts of robbery in the second degree, and sentencing him to concurrent terms of 3V2 years, unanimously affirmed.\nThe determination of youthful offender status is a matter of discretion (People v Drayton, 39 NY2d 580, 584 [1976]). Here, the record demonstrates that the court fully considered all of the mitigating factors set forth in a prepleading memorandum and denied defense counsel\u2019s request to adjudicate defendant a youthful offender. We discern no reason to disturb the court\u2019s exercise of its discretion in denying youthful offender treatment for two separate incidents, involving three different victims. In the first robbery, defendant and his codefendant followed an elderly couple onto an elevator, and proceeded to repeatedly punch both victims in the face, causing them both to suffer extensive bruising, before stealing the husband\u2019s cell phone and wallet and the wife\u2019s purse. In the second robbery, just three hours later, the victim was kicked and punched, and sustained a puncture wound in his back, cuts to his arms and bruises, before his wallet and cell phone were stolen. The police recovered a folding knife and a razor blade at the scene. We note that defendant proceeded with this extensively negotiated plea bargain, even after being made aware that he would not be sentenced as a youthful offender (see People v Bao Lin Xue, 30 AD3d 166 [1st Dept 2006]). Nor do we find the imposition of a five-year period of postrelease supervision to be excessive.\nConcur\u2014Mazzarelli, J.E, Andrias, DeGrasse, Manzanet-Daniels and Feinman, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5983469
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

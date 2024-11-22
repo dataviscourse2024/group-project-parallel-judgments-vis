@@ -1,0 +1,47 @@
+{
+    "id": 1278552,
+    "judges": "Bell, Deen, Quillian",
+    "date_filed": 118281600000,
+    "date_filed_is_approximate": false,
+    "slug": "shue-v-state",
+    "case_name_short": "Shue",
+    "case_name": "Shue v. State",
+    "case_name_full": "SHUE Et Al. v. THE STATE",
+    "attorneys": "Michael J. Kovacich, for appellants., Richard Bell, District Attorney, Leonard W. Rhodes, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted September 10, 1973",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b789-7\">\n    48447.\n   </docketnumber><parties id=\"A06j\">\n    SHUE et al. v. THE STATE.\n   </parties><otherdate id=\"Aj_\">\n    Submitted September 10, 1973\n   </otherdate><decisiondate id=\"AME5\">\n    Decided October 1, 1973.\n   </decisiondate><br><attorneys id=\"b790-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"758\"> \n     *758\n     </span>\n<em>\n     Michael J. Kovacich,\n    </em>\n    for appellants.\n   </attorneys><br><attorneys id=\"b790-6\">\n<em>\n     Richard Bell, District Attorney, Leonard W. Rhodes,\n    </em>\n    for appellee.\n   </attorneys>",
+    "citations": [
+        "201 S.E.2d 174",
+        "129 Ga. App. 757"
+    ],
+    "opinions": [
+        {
+            "author_str": "Deen",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7150.0,
+            "opinion_text": "\n129 Ga. App. 757 (1973)\n201 S.E.2d 174\nSHUE et al.\nv.\nTHE STATE.\n48447.\nCourt of Appeals of Georgia.\nSubmitted September 10, 1973.\nDecided October 1, 1973.\n*758 Michael J. Kovacich, for appellants.\nRichard Bell, District Attorney, Leonard W. Rhodes, for appellee.\nDEEN, Judge.\n1. The motion to suppress is based on the premise that Queen in locating the narcotics equipment was in fact acting as an agent of the police, who, not having obtained a search warrant, had no right themselves to enter and search the house; that the search was therefore illegal and the evidence inadmissible. This is an exceedingly close case. One who has leased a room to the exclusive possession of another (as a hotel clerk to a guest) has no right to consent for the guest to a search of the latter's room. Stoner v. California, 376 U.S. 483 (84 SC 889, 11 LE2d 856). On the other hand the owner, or one standing in the stead of the owner, has a right to surrender contraband to the police, although it actually belongs to the defendant. Marsh v. State, 223 Ga. 590 (1)(157 SE2d 273). From the witness' testimony it appears that she and Harris were in charge of the entire premises for the purpose of taking care of it and that the defendants came to live with them. She also swore that the apparatus was turned up by her in a search for her own belongings, and by her given to the police. If the trial court believed this testimony he could infer that in her capacity as caretaker she has a primary right to the premises, and therefore a right to invite the police in and to turn over to them contraband belonging to the defendants. In this connection see Annot., 31 ALR2d 1078 et seq.\n2. There was direct testimony, although disputed by the defendants, that they had voluntarily given permission for a search of the automobile. The equipment found in the trunk was accordingly also admissible and whether it constituted tools kept for the purpose of committing burglary was a jury question.\n3. The offenses for which these defendants were on trial were *759 allegedly committed on June 18, 1972. The state introduced in evidence over the defendant's objections seven guilty pleas of Bobby Shue to thefts and burglaries committed in October, 1962, and 12 pleas of guilty by Clyde Shue to thefts and burglaries committed in March, 1966. The evidence was inadmissible, as this court and the Supreme Court have often held. Bacon v. State, 209 Ga. 261 (71 SE2d 615); Brown v. State, 109 Ga. App 212 (2) (135 SE2d 480). The fact that one of these defendants (but not the other) admitted in his unsworn statement to the jury that he had pleaded guilty to the 1962 burglaries did not, as contended by the state, constitute a waiver of the objection to the evidence. \"If, on direct examination of a witness, objection is made to the admissibility of evidence, neither cross examination of the witness on the same subject-matter nor the introduction of evidence on the same subject matter shall constitute a waiver of the objection made on direct examination.\" Code Ann. \u00a7 38-1713. Although the objection here is to documentary rather than oral evidence, the principle should be the same. Harmless error may still result, as where legally admissible evidence to the same effect is also offered (Robinson v. State, 229 Ga. 14, 16 (189 SE2d 53)) or where, although unobjected to, exactly the same evidence has previously been admitted without objection (Thomas v. State, 128 Ga. App. 32 (1) (195 SE2d 681)). But where the objection is erroneously overruled, and where it is obvious that but for this fact that subsequent statement would not have been made, it is not appropriate to apply the harmless error rule.\nAlthough we have held that the trial judge properly denied the defendant's motion to suppress in Count 2 on the illegal drug charge and would otherwise affirm the conviction on that count, we cannot say that the error discussed in Division 3 was not prejudicial as to Count 2, and we must reverse as to both counts.\nThe trial court erred in overruling the motion for a new trial.\nJudgment reversed. Bell, C. J., and Quillian, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1278552
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

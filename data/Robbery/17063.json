@@ -1,0 +1,47 @@
+{
+    "id": 846111,
+    "judges": null,
+    "date_filed": 1148947200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-smith",
+    "case_name_short": null,
+    "case_name": "People v. Smith",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "714 N.W.2d 310",
+        "475 Mich. 864"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 1.0,
+            "download_url": "http://publicdocs.courts.mi.gov:81/SCT/PUBLIC/ORDERS/20060530_S130353_57_130353_2006-05-30_or.pdf",
+            "author_id": null,
+            "opinion_text": "\n714 N.W.2d 310 (2006)\n475 Mich. 864\nPEOPLE of the State of Michigan, Plaintiff-Appellant,\nv.\nBobby Lynell SMITH, Defendant-Appellee.\nDocket No. 130353. COA No. 257353.\nSupreme Court of Michigan.\nMay 30, 2006.\nOn order of the Court, the application for leave to appeal the December 27, 2005 judgment of the Court of Appeals is considered, and it is GRANTED. The parties are directed to include among the issues to be briefed: (1) whether Blockburger v. United States, 284 U.S. 299, 304, 52 S.Ct. 180, 76 L.Ed. 306 (1932), or People v. Robideau, 419 Mich. 458, 355 N.W.2d 592 (1984), sets forth the proper test to determine when \"multiple punishments\" are barred on double jeopardy grounds pursuant to Const 1963, art 1, \u00a7 15, taking into consideration this Court's prior precedent in \"multiple punishment\" claims and the common understanding of \"same offense\" as it relates to the \"multiple punishments\" prong of double jeopardy. Cf. People v. Nutt, 469 Mich. 565, 677 N.W.2d 1 (2004), and (2) whether defendant's convictions of armed robbery and felony-murder based on a predicate felony of larceny violated double jeopardy protections under either the Blockburger or Robideau test.\nThe Prosecuting Attorneys Association of Michigan and the Criminal Defense Association of Michigan are invited to file briefs amicus curiae. Other persons or groups interested in the determination of the questions presented in this case may move the Court for permission to file briefs amicus curiae.\n",
+            "ocr": false,
+            "opinion_id": 846111
+        }
+    ],
+    "court_short_name": "Michigan Supreme Court",
+    "court_full_name": "Michigan Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

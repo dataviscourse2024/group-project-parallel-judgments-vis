@@ -1,0 +1,46 @@
+{
+    "id": 7057934,
+    "judges": "Scott",
+    "date_filed": -2754777600000,
+    "date_filed_is_approximate": true,
+    "slug": "mcgowan-v-people",
+    "case_name_short": "McGowan",
+    "case_name": "McGowan v. People",
+    "case_name_full": "John McGowan v. The People of the State of Illinois",
+    "attorneys": "Mr. James McCartney, Attorney General,, Mr. L. W. Brewer, State\u2019s Attorney,",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Wbit of ebbob in criminal case\u2014escape of prisoner. Where a person who has been convicted upon a criminal charge has sued out a writ of error, and pending the writ makes his escape from the custody of the law, it is within the discretion of the court whether it will proceed to the hearing of the cause while the escaped, prisoner is still at large.</p> <p>2. The better practice is, that the cause shall not proceed to a hearing while the person to be affected is not within the jurisdiction of the court, either actually, by being in custody, or. constructively, by being on bail, to respond to its judgment.</p> <p>3. In the particular case, upon motion to dismiss the writ of error sued out by a person who had been convicted of a criminal offence, upon the ground that he had broken jail and escaped, and was still at large, the court refused to dismiss the writ at once, but ruled that if the plaintiff in error should not in some way be brought into custody by the first day of the next succeeding term of the court, the writ of error would be dismissed.</p>",
+    "summary": "Writ of Error to the Circuit Court of La Salle county. John McGowan and Thomas Garrity were indicted, and upon a trial were convicted of the crime of burglary, and were duly sentenced to serve a term in the penitentiary. After their trial and conviction the defendants sued out this writ of error to bring in review the rulings and judgment of the court below. It is now made to appear to the court that since the suing out of the writ of error the prisoners have escaped from the county jail of La Salle county, in which they were still imprisoned, and as yet they have not been recaptured, nor have they voluntarily returned to the custody of the proper officer.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "104 Ill. 100"
+    ],
+    "opinions": [
+        {
+            "author_str": "Scott",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Scott, Ch. J.: The plaintiffs' in error are in no position to invoke the judgment of this court in respect to the errors alleged to have been committed on their trial and conviction in the court below. They do not stand ready to abide that judgment when pronounced, but since suing out the writ they have broken jail, and fled from the custody of the officer, and are standing in defiance of the law and its officers. It is a matter within the discretion of the court whether we will hear the writ under these circumstances. The better practice clearly is, that the cause shall not proceed to a hearing when the persons to be affected are not within the jurisdiction of the court to answer to its judgment, but are in the attitude of fugitives from justice. While it is not essential to the validity or binding force of any judgment which may be rendered by this court upon exceptions presented by one who has been convicted upon a criminal charge, that he should be present in court, either at the hearing of the cause or upon the rendering of the judgment, yet it would be idle for the .court to proceed to determine th'e questions presented, when the possibility of enforcing whatever judgment it might pronounce must depend upon the option of the fugitives to return into custody, or upon the remote chances of their ultimate recapture by the officers of the law. Before the powers of the court can \u2018appropriately be called into action in a criminal procedure like this, the person to be affected by the judgment ought to \"be within the control of the court below, either actually, by \u2018 being in custody, or constructively, by being on- bail. The .reason of the rule is obvious. Should a hearing of the cause re'sult in an affirmance of the judgment below, the escaped prisoners would not be likely to return voluntarily to meet the execution of the sentence. Should a reversal result, they might return and submit to another trial, or not, as the grounds of the decision might suggest to them the prudence of one or the other course of action. We do not think it would subserve the ends of justice to permit persons charged -with crime to speculate in this manner upon their chances of escape or conviction. Persons appealing to this court for redress should stand in an \"attitude to accept and abide the result, whatever that may be. The authorities upon the question are in harmony with the reason of the rule, as will appear by an examination of the cases cited by counsel. We will not dismiss the writ, of error at this time, but if \u25a0the plaintiffs in error shall not return and submit themselves to the custody of the law, or in some other way be brought within the control of the proper officer, by the first day of the next term of this court, then the writ of error will be dismissed. t&gt; ,7\u201e Mule nisi. ",
+            "ocr": true,
+            "opinion_id": 6961750
+        }
+    ],
+    "court_short_name": "Illinois Supreme Court",
+    "court_full_name": "Illinois Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Robbery"
+}

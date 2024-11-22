@@ -1,0 +1,47 @@
+{
+    "id": 6224467,
+    "judges": null,
+    "date_filed": 1039996800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-coban",
+    "case_name_short": "Coban",
+    "case_name": "People v. Coban",
+    "case_name_full": "The People of the State of New York v. Christopher Coban",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "300 A.D.2d 502",
+        "750 N.Y.S.2d 879"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Queens County (Blumenfeld, J.), rendered January 16, 2001, convicting him of robbery in the second degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe issue raised by the defendant is unpreserved for appellate review and we decline to exercise our interest of justice jurisdiction (see CPL 470.15 [3] [c]) to reach the issue. Smith, J.P., O\u2019Brien, Krausman and Rivera, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6091175
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 6108785,
+    "judges": "Clark, Daniels, Friedman, Gische, Manzanet, Tom",
+    "date_filed": 1395273600000,
+    "date_filed_is_approximate": false,
+    "slug": "ramirez-v-bb-bb-management-corp",
+    "case_name_short": "Ramirez",
+    "case_name": "Ramirez v. BB & BB Management Corp.",
+    "case_name_full": "Carlos Ramirez v. BB and BB Management Corp.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "115 A.D.3d 555",
+        "982 N.Y.S.2d 310"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOrder, Supreme Court, Bronx County (Sharon A.M. Aarons, J.), entered November 29, 2012, which granted defendants BB and BB Management Corp., Gesher Realty Corp., and Felix Gomez\u2019s motion for summary judgment dismissing the complaint as against them, unanimously affirmed, without costs.\nPlaintiffs failure to raise a triable issue of fact whether the assault on him was foreseeable, i.e. reasonably predictable, renders defendants\u2019 Worker\u2019s Compensation defense moot. Plaintiff\u2019s complaints regarding criminal elements in the neighborhood and the three police reports regarding an apartment robbery and two incidents of vandalism to cars parked outside the building were insufficient to show that the assault was reasonably predictable (see Maria T. v New York Holding Co. Assoc., 52 AD3d 356 [1st Dept 2008], lv denied 11 NY3d 708 [2008]; Ortiz v Wiis Realty Corp., 66 AD3d 429 [1st Dept 2009]). Moreover, while plaintiff testified that the front door lock had been broken, he could not say for how long, and there is no evidence that defendants were notified of the broken lock.\nConcur \u2014 Tom, J.E, Friedman, Manzanet-Daniels, Gische and Clark, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5973535
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

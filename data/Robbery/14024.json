@@ -1,0 +1,46 @@
+{
+    "id": 1451154,
+    "judges": "Baker, Crane, Hoff, Kathianne, Knaup, Mary, Nannette",
+    "date_filed": 1234828800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-wright",
+    "case_name_short": "Wright",
+    "case_name": "State v. Wright",
+    "case_name_full": "STATE of Missouri, Plaintiff/Respondent, v. Carrell Lamark WRIGHT, Defendant/Appellant",
+    "attorneys": "Scott Thompson, St. Louis, MO, for appellant., Jonathan H. Hale, Assistant Attorney General, Jefferson City, MO, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b929-7\">\n    STATE of Missouri, Plaintiff/Respondent, v. Carrell Lamark WRIGHT, Defendant/Appellant.\n   </parties><br><docketnumber id=\"b929-10\">\n    No. ED 91053.\n   </docketnumber><br><court id=\"b929-11\">\n    Missouri Court of Appeals, Eastern District, Division Four.\n   </court><br><decisiondate id=\"b929-13\">\n    Feb. 17, 2009.\n   </decisiondate><br><attorneys id=\"b929-15\">\n    Scott Thompson, St. Louis, MO, for appellant.\n   </attorneys><br><attorneys id=\"b929-16\">\n    Jonathan H. Hale, Assistant Attorney General, Jefferson City, MO, for respondent.\n   </attorneys><br><judges id=\"b929-17\">\n    Before NANNETTE A. BAKER, C.J., KATHIANNE KNAUP CRANE, J., and MARY K. HOFF, J.\n   </judges>",
+    "citations": [
+        "276 S.W.3d 909"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7686.0,
+            "opinion_text": "\n276 S.W.3d 909 (2009)\nSTATE of Missouri, Plaintiff/Respondent,\nv.\nCarrell Lamark WRIGHT, Defendant/Appellant.\nNo. ED 91053.\nMissouri Court of Appeals, Eastern District, Division Four.\nFebruary 17, 2009.\nScott Thompson, St. Louis, MO, for appellant.\nJonathan H. Hale, Assistant Attorney General, Jefferson City, MO, for respondent.\nBefore NANNETTE A. BAKER, C.J., KATHIANNE KNAUP CRANE, J., and MARY K. HOFF, J.\n\nORDER\nPER CURIAM.\nDefendant, Carrell Lamark Wright, appeals from the judgment entered upon a jury verdict finding him guilty of firstdegree robbery, in violation of section 569.020 RSMo (2000). The trial court found defendant to be a prior and persistent offender and sentenced him to twelve years imprisonment.\nNo error of law appears and no jurisprudential purpose would be served by a written opinion. However, the parties have been furnished with a memorandum opinion for their information only, setting forth the reasons for this order.\nThe judgment is affirmed in accordance with Rule 30.25(b).\n",
+            "ocr": false,
+            "opinion_id": 1451154
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 4156261,
+    "judges": "Davidson",
+    "date_filed": -2021932800000,
+    "date_filed_is_approximate": false,
+    "slug": "whitsel-v-state",
+    "case_name_short": "Whitsel",
+    "case_name": "Whitsel v. State",
+    "case_name_full": "Norman Whitsel v. the State",
+    "attorneys": "Chambers  Trice,  for appellant.\n\n Howard Martin,  Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the County Court of Red River. Tried below before Hon. J.R. Kennedy.\n\nAppeal from a conviction of theft; penalty, a fine of $1 and ten days confinement in the county jail.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": "<p>Theft\u2014Insufficiency of Evidence.</p> <p>See opinion for facts held to be insufficient to support a judgment of conviction in a case of theft.</p>",
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": "<p>Appeal from the County Court of Bed Biver. Tried below before Hon. J. B. Kennedy.</p> <p>Appeal from a conviction of theft; penalty, a fine of $1 and ten days confinement in the county jail.</p>",
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b62-5\">\n    Norman Whitsel v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b62-6\">\n    No. 3353.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AuT\">\n    Decided December 6, 1905.\n   </decisiondate><br><headnotes data-order=\"3\" data-type=\"headnotes\" id=\"b62-7\">\n    Theft\u2014Insufficiency of Evidence.\n   </headnotes><br><headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b62-8\">\n    See opinion for facts held to be insufficient to support a judgment of conviction in a case of theft.\n   </headnotes><br><summary data-order=\"5\" data-type=\"history\" id=\"b62-9\">\n    Appeal from the County Court of Bed Biver. Tried below before Hon. J. B. Kennedy.\n   </summary><br><summary data-order=\"6\" data-type=\"history\" id=\"b62-10\">\n    Appeal from a conviction of theft; penalty, a fine of $1 and ten days confinement in the county jail.\n   </summary><br><p data-order=\"7\" data-type=\"summary\" id=\"b62-11\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b62-12\">\n<em>\n     Chambers &amp; Trice,\n    </em>\n    for appellant.\n   </attorneys><br><attorneys data-order=\"9\" data-type=\"attorneys\" id=\"b62-13\">\n<em>\n     Howard Martin,\n    </em>\n    Assistant Attorney-General, for the State.\n   </attorneys>",
+    "citations": [
+        "90 S.W. 506",
+        "49 Tex. Crim. 42"
+    ],
+    "opinions": [
+        {
+            "author_str": "Davidson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5749.0,
+            "opinion_text": "The charge in the information was, that appellant committed the theft of a halter-rein. The evidence is to the effect that the halter or hitch-rein was taken off the horse the night of a social gathering. Other things were stolen the same night, among others, a couple of \"slickers\" as termed by the witnesses. There is no direct evidence as to when or how the rein was taken from the horse, or who took it. Appellant sold the rein a week or so subsequent to its disappearance to the witness Gions, stating at the time that he found it on the night of the singing convention. This witness paid appellant 15 cents for it. When defendant sold witness the rein, he remarked that he had no use for it, that he had found it, and did not know to whom it belonged; and told the purchaser if any one claimed it to turn it over to them, and he would refund the 15 cents. When Ward, the alleged owner, claimed the rein, defendant subsequently returned the 15 cents to Gions. Day and Holt testified that they were with appellant at the time the rein was found by appellant in the lane, north of the church where this singing convention should have met. This is the *Page 43 \nsubstance of the evidence, and in our judgment the contention is correct, that it is not sufficient to authorize a conviction.\nThere are several questions suggested for review, which perhaps might require a reversal of the judgment, but believing that the evidence is not sufficient to support the conviction the other matters are not discussed. The judgment is accordingly reversed and the cause remanded.\nReversed and remanded.",
+            "ocr": false,
+            "opinion_id": 3921546
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

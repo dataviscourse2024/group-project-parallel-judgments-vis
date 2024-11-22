@@ -1,0 +1,46 @@
+{
+    "id": 4478473,
+    "judges": null,
+    "date_filed": 1521158400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-cooper",
+    "case_name_short": "Cooper",
+    "case_name": "People v. Cooper",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2018 NY Slip Op 1823"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2018/2018_01823.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Cooper (2018 NY Slip Op 01823)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Cooper\r\n\r\n\r\n2018 NY Slip Op 01823\r\n\r\n\r\nDecided on March 16, 2018\r\n\r\n\r\nAppellate Division, Fourth Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on March 16, 2018\r\nSUPREME COURT OF THE STATE OF NEW YORK\r\nAppellate Division, Fourth Judicial Department\r\n\r\nPRESENT: SMITH, J.P., CENTRA, NEMOYER, CURRAN, AND TROUTMAN, JJ.\r\n\r\n\r\n405.1 KA 13-00204\r\n\r\n[*1]THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT,\r\nvCLARENCE E. COOPER, III, DEFENDANT-APPELLANT. \r\n\r\n\r\n\r\n\r\n\r\n\r\nDAVISON LAW OFFICE, PLLC, CANANDAIGUA (MARK C. DAVISON OF COUNSEL), FOR DEFENDANT-APPELLANT. \r\nSANDRA DOORLEY, DISTRICT ATTORNEY, ROCHESTER (JOSEPH R. PLUKAS OF COUNSEL), FOR RESPONDENT. \r\n\r\n\r\n\tAppeal from a judgment of the Supreme Court, Monroe County (Robert B. Wiggins, A.J.), rendered March 18, 2009. The judgment convicted defendant, upon a jury verdict, of burglary in the second degree, attempted burglary in the second degree and attempted petit larceny. \r\nIt is hereby ORDERED that the judgment so appealed from is unanimously reversed on the law and a new trial is granted.\r\nMemorandum: Defendant appeals from a judgment convicting him after a jury trial of, inter alia, burglary in the second degree (Penal Law \u00a7 140.25 [2]). As the People correctly concede, reversal is required. The record establishes that defendant was excluded from Supreme Court's Sandoval conference (see generally People v Dokes, 79 NY2d 656, 662 [1992]) and, because \"[t]he court's Sandoval ruling in this case was not wholly favorable to defendant, . . .  it cannot be said that defendant's presence at the hearing would have been superfluous' \" (People v Gardner, 144 AD3d 1546, 1547 [4th Dept 2016]; see generally People v Odiat, 82 NY2d 872, 874 [1993]).\r\nEntered: March 16, 2018\r\nMark W. Bennett\r\nClerk of the Court\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4255726
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

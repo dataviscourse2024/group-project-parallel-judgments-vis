@@ -1,0 +1,46 @@
+{
+    "id": 1949277,
+    "judges": "Thompson",
+    "date_filed": 514512000000,
+    "date_filed_is_approximate": false,
+    "slug": "majewski-v-state",
+    "case_name_short": "Majewski",
+    "case_name": "Majewski v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 9,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "487 So. 2d 32"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7095.0,
+            "opinion_text": "\n487 So. 2d 32 (1986)\nJoseph C. MAJEWSKI, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. BH-280.\nDistrict Court of Appeal of Florida, First District.\nFebruary 18, 1986.\nOn Motion for Rehearing April 22, 1986.\nJoseph C. Majewski, in pro. per.\nGregory C. Costas, Asst. Atty. Gen., Tallahassee, for appellee.\nTHOMPSON, Judge.\nMajewski appeals the trial court's denial, without hearing, of his motion for post-conviction *33 relief pursuant to Fla.R.Crim.P. 3.850. We reverse.\nThe ultimate allegations of Majewski's motion are that he received ineffective assistance of counsel, and that he should therefore receive a new trial. Among the specific allegations set forth in the motion are: (1) that Majewski was charged in Case No. 83-10 with a robbery which occurred in Panama City, Florida on July 25, 1982, (2) that prior to trial Majewski furnished his retained defense attorney with the names of several alibi witnesses who would have testified that Majewski was in Pascagoula, Mississippi at the time the robbery occurred, (3) that his attorney failed to call to trial or even to interview the alibi witnesses, and (4) that the jury convicted him of the robbery on the strength of the unrebutted testimony of certain witnesses for the state who identified him as the robber.\nIn his order summarily denying Majewski's motion the trial judge pointed out that the testimony of the state's identification witnesses was not the only evidence linking Majewski to the robbery since the results of a polygraph test which Majewski \"flunked\" had been placed before the jury pursuant to a stipulation between Majewski and the state. Therefore, reasoned the judge,\nWhen his motion for post-conviction relief is reviewed under these circumstances, even assuming the conduct of defense counsel in failing to prepare a specific defense to the charge and in failing to interview and call witnesses to rebut the state's identification testimony was deficient, it is obvious such conduct by itself did not affect the outcome of the trial.\nThe trial judge attached to his order a copy of the stipulation between Majewski and the State which indicated that the polygraph operator had found untrue Majewski's negative answers to certain questions concerning his involvement in the robbery.\nWe agree with the trial judge's conclusion, reflected in his order, that Majewski's motion sufficiently alleges ineffective assistance, i.e., we agree that the allegations of the motion, if found to be true, could support an order finding ineffectiveness on the part of defense counsel and granting a new trial. However, given the questionable reliability of polygraph examinations and the fact that the results of such examinations are not even admissible into evidence in the absence of a stipulation as to admissibility, we must disagree with the trial judge's conclusion that the presentation of the polygraph evidence so strengthened the state's case as to render harmless defense counsel's failure (if any) to present an available defense on behalf of his client.\nAccordingly, we reverse and remand for an evidentiary hearing to determine the truthfulness of the allegations of Majewski's motion.\nZEHMER and BARFIELD, JJ., concur.\n\nON MOTION FOR REHEARING\nTHOMPSON, Judge.\nThe state has filed a motion for rehearing suggesting that instead of remanding this cause for a mandatory evidentiary hearing, it should be remanded for further proceedings in accordance with the provisions of Fla.R.Crim.P. 3.850 as amended.\nWe agree and modify our opinion to provide that the case be remanded for further proceeding under rule 3.850 consistent with our opinion.\nWith this modification, the motion for rehearing is denied.\nZEHMER and BARFIELD, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1949277
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

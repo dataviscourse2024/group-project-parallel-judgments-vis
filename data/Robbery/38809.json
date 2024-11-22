@@ -1,0 +1,46 @@
+{
+    "id": 7092282,
+    "judges": "Crabtree",
+    "date_filed": -2305584000000,
+    "date_filed_is_approximate": false,
+    "slug": "mcgilvray-v-springett",
+    "case_name_short": "McGilvray",
+    "case_name": "McGilvray v. Springett",
+    "case_name_full": "John McGilvray v. George Springett",
+    "attorneys": "C. H. Patson and Kelly B. Kesslee, attorneys for appellant., Hilschee & Goodyeae, attorneys for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Slander\u2014 Words Spoken in Relation to a Known Act.\u2014In a suit for slander, if the words proven to have been spoken by the defendant of the plaintiff, were spoken about and in relation to a known act, and that act in law is not a felony, which is known to the bystanders, the defendant is not liable.</p> <p>2. Jurors\u2014Relationship to an Attorney in a Case.\u2014The mere fact that one of the jurors in a case was a brother-in-law of one of the attorneys for the successful party is not ground for a reversal where the record does not show that any question as to his competency was raised on the trial.</p>",
+    "summary": "Trespass on the Case, for slander. Appeal from the Circuit Court of Iroquois County; the Hon. Thomas F. Tipton, Judge, presiding.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": "Heard in this court at the May term, 1896.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "68 Ill. App. 275"
+    ],
+    "opinions": [
+        {
+            "author_str": "Crabtree",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. Justice Crabtree delivered the opinion of the Court. Appellant sued appellee in an action on the case for slander. The declaration contained but one count, and the slanderous words charged were: \u201c You stole the town money and they caught you at it, and made you pay it back, and I can prove it. You are not honest, and everybody knows it. You won\u2019t pay your debts.\u201d Appellee pleaded not guilty, and upon a trial by jury there was a verdict for appellee, and a neiv trial being refused, there was judgment against appellant for costs, and he brings the case here by appeal. It is insisted by appellant that the verdict is against the evidence, and was the result of passion and prejudice, but we are of the opinion it was the only verdict which could have been sustained under the facts appearing in the case. The words charged as slanderous were not understood by the bystanders as imputing the crime of larceny to appellant, nor as intended to charge him with the offense of stealing, in a criminal sense, but were understood to mean that appellee intended to charge appellant with having presented an irregular or fraudulent bill to the board of town auditors for thirty dollars, when he was entitled to but twelve. If this was the sense in which the words were understood by the bystanders, and were so intended by appellee, they were not slanderous within the legal acceptance of the term, and an action therefor would not lie. In the case of Ayres v. Gridley, 15 Ill. 37, the court refused to instruct the jury \u201c that if the words proven to have been spoken by the defendant of the plaintiff were spoken about and in relation to a known act, and that act in law is not a felony, which is known to the bystanders, they will find the defendant not guilty.\u201d The refusal of the court so to instruct was held to be error, for which the judgment was reversed. The principles announced in that case are decisive of the case at bar. Counsel for appellant insist that all of the bystanders did not understand the charge of stealing money of the town, to refer to this bill presented to the board of town auditors, and we are earnestly referred to the testimony of the witness, Lomer Hunts, Jr., and Anderson on that point, but a careful examination thereof fails to satisfy us that they understood. the words used in any different sense than the others who were present. All seem to have understood the charge made, as being in reference to the bill presented against the town, and not as imputing an actual larceny of money. The mere fact that one of the jurors was a brother-in-law of Mr. Goodyear, who, although one of the counsel for appellee, appears to have taken no part in the trial, is not sufficient to require a reversal. The record does not show that any question as to his competency was raised on the trial, and it is too late to make the objection for the first time in this court. In his cross-examination appellee volunteered the statement that appellant had \u201c hired two wife beaters to whip him,\u201d and this is now complained of, but we do not find in the record that any objection was made at the time, nor any motion made to strike out the testimony, and we can not see that any error was committed by the court which can be availed of now. The judgment was right under the evidence and must be affirmed. ",
+            "ocr": true,
+            "opinion_id": 6997811
+        }
+    ],
+    "court_short_name": "Appellate Court of Illinois",
+    "court_full_name": "Appellate Court of Illinois",
+    "court_type": "SA",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Robbery"
+}

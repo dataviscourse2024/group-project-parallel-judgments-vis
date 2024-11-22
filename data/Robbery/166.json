@@ -1,0 +1,57 @@
+{
+    "id": 7781048,
+    "judges": "Dauksch, Goshorn, Harris, Only",
+    "date_filed": 919987200000,
+    "date_filed_is_approximate": false,
+    "slug": "cade-v-state",
+    "case_name_short": "Cade",
+    "case_name": "Cade v. State",
+    "case_name_full": "Jessie Jermaine CADE v. STATE of Florida",
+    "attorneys": "James B. Gibson, Public Defender, and M.A. Lucas, Assistant Public Defender, Day-tona Beach, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and David H. Foxman, Assistant Attorney General, Daytona Beach, for Appel-lee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "726 So. 2d 859"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harris",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHARRIS, J.\nCade was convicted of kidnaping, sexual battery with threatened force, burglary of a conveyance, aggravated battery with a deadly weapon, and grand theft. The DNA evidence, unchallenged on appeal, strongly supports the jury decision. We affirm.\nWe are concerned, however, with the judge\u2019s conduct in interposing himself into the trial to question the state\u2019s expert witnesses. We suggest he read Judge Farmer\u2019s excellent discussion of this problem in his specially concurring opinion in Moton v. State, 659 So.2d 1269, 1271 (Fla. 4th DCA' *8601996). Only because we find his conduct harmless in this case do we affirm.\nAFFIRM.\n.GOSHORN, J., concurs, in result only, without opinion.\nDAUKSCH, J., concurs and concurs specially, with opinion.\n",
+            "ocr": true,
+            "opinion_id": 7720148
+        },
+        {
+            "author_str": "Dauksch",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDAUKSCH, J.,\nconcurring specially.\nI concur with the recommendation of Judge Harris. Because the evidence was quite sufficient and because the assistant state attorney did a good job in presenting the case it was more than unnecessary for the judge to intrude. Given the nature of the case, kidnapping, sexual battery, burglary, aggravated battery and grand theft, and the great trauma which would result from having to go through another trial, I am convinced an affirmance is the just thing to do.\n",
+            "ocr": true,
+            "opinion_id": 7720149
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

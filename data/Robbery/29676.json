@@ -1,0 +1,46 @@
+{
+    "id": 5273483,
+    "judges": "Hoff, III, Russell",
+    "date_filed": 999561600000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-brandon",
+    "case_name_short": "Brandon",
+    "case_name": "State v. Brandon",
+    "case_name_full": "STATE of Missouri v. Louis E. BRANDON",
+    "attorneys": "Scott Thompson, St. Louis, MO, for appellant., John Munson Morris III, Dora A. Fichter, Jefferson City, MO, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "54 S.W.3d 710"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nORDER\n\nPER CURIAM.\nLouis Brandon (\u201cDefendant\u201d) appeals from the judgment entered upon his convictions of burglary in the first degree, assault in the second degree and resisting arrest. Defendant was sentenced to concurrent prison terms of six years on the counts of burglary and assault and one year on the count of resisting arrest.\nWe have reviewed the briefs of the parties and the record on appeal and find no error of law. The trial court\u2019s judgment is based on findings and conclusions that are not an abuse of discretion or in error. No jurisprudential purpose would be served by a written opinion reciting the detailed facts and restating the principles of law. The parties, however, have been furnished with a memorandum opinion for their information only, setting forth the facts and reasons for this order.\nWe affirm the judgment pursuant to Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5101076
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

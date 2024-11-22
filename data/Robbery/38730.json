@@ -1,0 +1,46 @@
+{
+    "id": 7078527,
+    "judges": "Schaefer",
+    "date_filed": -182736000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-goffman",
+    "case_name_short": "Goffman",
+    "case_name": "People v. Goffman",
+    "case_name_full": "The People of the State of Illinois, in Error v. Paul Goffman, in Error",
+    "attorneys": "Charles W. Nauts, of Chicago, appointed by the court, for plaintiff in error., William G. Clark, Attorney General, of Springfield, and Daniel P. Ward, State\u2019s Attorney, of Chicago, (Fred G. Leach and E. Michael O\u2019Brien, Assistant Attorneys General, and Elmer C. Kissane and Richard T. Buck, Assistant State\u2019s Attorneys, of counsel,) for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied May 19, 1964.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "30 Ill. 2d 501"
+    ],
+    "opinions": [
+        {
+            "author_str": "Schaefer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. Justice Schaefer delivered the opinion of the The defendant, Paul Coffman, was convicted of robbery after a trial before a judge of the criminal.court of Cook County and was sentenced to imprisonment in the penitentiary for not less than one year nor more than 20 years. On this writ of error his sole contention is that his conviction must be reversed because he was twice placed in jeopardy for the same offense in violation of section 10 of article II of the constitution. The defendant was indicted under indictment No. 59-134 and charged with robbery of \u201cproperty that then and there was in the care, custody and control of * * * Marie Armour and * * * was * * * [the] property of one Clarence Armour.\u201d On May 7, 1959, the case came on for trial before the Hon. Harold P. O\u2019Connell without a jury. The first witness called by the prosecution was Marie Gardner. It appeared from her testimony that she was the sole employee present in the tavern on the night of the holdup and that the money that was stolen was taken from her custody. Counsel for the defendant attempted during cross-examination to raise an issue as to the discrepancy between the name of the witness and the name stated in the indictment. The court, however, directed him to complete his examination of the witness before discussing the effect of the discrepancy. At the conclusion of Marie Gardner\u2019s testimony the judge inspected the indictment and asked for the views of counsel. The assistant State\u2019s Attorney first took the position that the variance was not fatal, but counsel for the defendant argued that it was. The assistant State\u2019s Attorney finally agreed. The court then nolle prossed the indictment over the objection of the attorney for the defendant, whose motion for a finding of not guilty was denied. On the following day the defendant was reindicted and in the second indictment the name of the person from whom the money was stolen was stated to be Marie Gardner. The second indictment came on for trial before the Hon. Charles S. Dougherty. At the second trial the defendant was represented by a different attorney who had been appointed by the court. The People contend in this court that the defendant\u2019s claim of double jeopardy was waived because it was not raised in the trial court. From the record, however, it appears that the defendant\u2019s new attorney may-have been misled by inaccurate representations as to the prior history of the case which were made by an assistant State\u2019s Attorney to the second judge, and we are therefore unwilling to hold that the defendant\u2019s constitutional right was knowingly waived. Since jeopardy had attached in the first trial upon the taking of evidence (People v. Laws, 29 Ill.2d 221,) the right of the State to reindict and retry the defendant depends on whether the trial court abused its discretion in entering a nolle prosequi in the belief that the variance was fatal. In several decisions this court has held that a misnomer of this kind was a fatal variance. (See, e.g., People v. Smith, 258 Ill. 502; Sykes v. People, 132 Ill. 32.) In other cases it has held, upon the basis of idem sonans, that the variance was not fatal where the names sounded alike but were spelled somewhat differently. People v. Nelson, 17 Ill.2d 509; People v. Jankowski, 391 Ill. 298; see also People v. Rogers, 16 Ill.2d 175, 182-183. We are not called upon in this case to decide whether or not the variance between the allegation and the proof under the first indictment would have been fatal had that case been prosecuted to a conclusion. A defendant who has not been actually prejudiced should not be able to escape a trial on the merits because of a difference of opinion between the trial court and the reviewing court as to the fatal or nonfatal quality of the error that brought about the termination of the first trial. Upon the basis of the decisions of this court the trial judge could fairly have concluded that the discrepancy was fatal, and that is enough. What was said in People v. Simos, 345 Ill. 226, 231, is applicable here: \u201cCounsel for plaintiffs in error argues that where a record shows that the defendant was put upon trial and the jury was sworn to try the cause, the subsequent discharge of the jury before verdict entitles the defendant to be discharged unless the record also shows a lawful reason for such discharge of the jury. This is not the rule. It has long been recognized by this court and elsewhere that a court of justice is invested with the authority to discharge a jury from giving any verdict whenever in the court\u2019s opinion there is manifest necessity for such act or the ends of public justice would otherwise be defeated, and that such is within the discretion of the trial court and is not subject to review in the absence of abuse of discretion.\u201d (To the same effect see People v. Thomas, 15 Ill.2d 344; People v. Touhy, 361 Ill. 332.) People v. Laws, 29 Ill.2d 221, on which the defendant relies, applied the rule of the Simos case, but a majority of the court was of the opinion that the trial judge had abused his discretion. The judgment of the criminal court of Cook County is affirmed. Judgment affirmed. ",
+            "ocr": true,
+            "opinion_id": 6983464
+        }
+    ],
+    "court_short_name": "Illinois Supreme Court",
+    "court_full_name": "Illinois Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Robbery"
+}

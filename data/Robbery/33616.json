@@ -1,0 +1,46 @@
+{
+    "id": 6073403,
+    "judges": null,
+    "date_filed": 674697600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-auxilly",
+    "case_name_short": "Auxilly",
+    "case_name": "People v. Auxilly",
+    "case_name_full": "The People of the State of New York v. Wayne Auxilly",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "173 A.D.2d 627"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Queens County (Rotker, J.), rendered June 10, 1988, convicting him of murder in the second degree (two counts), robbery in the first degree (three counts), robbery in the second degree, and criminal possession of a weapon in the second degree (two counts), upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress physical evidence and statements made by him to the police.\n*628Ordered that the judgment is affirmed.\nIn reviewing suppression issues, great weight must be accorded to the determination of the hearing co\u00fart with its particular advantages of having seen and heard the witnesses. Its determination should not be disturbed unless it is clearly unsupported by the record (see, People v Prochilo, 41 NY2d 759, 761; People v Norris, 122 AD2d 82, 93). In this case, it is clear from the record that the defendant\u2019s mother, with whom the defendant lived, voluntarily consented to the entry by the police officers. It is equally clear that the actions of the police officers were not coercive or improper (see, People v Gonzalez, 39 NY2d 122; People v Zimmerman, 101 AD2d 294). Moreover, the fact that the police officers did not advise the defendant or his mother of their right to refuse to consent does not, by itself, negate the consent otherwise freely given (see, People v Buggs, 140 AD2d 617; People v Hargrove, 135 AD2d 568).\nOnce inside the apartment, the police officers observed cartridges on the floor of the defendant\u2019s bedroom and under his mattress when the defendant lifted a corner of it up. Seizure of these items, which were in plain view, was justified (see, People v Jackson, 41 NY2d 146; People v Cunningham, 163 AD2d 412).\nLikewise, the seizure of the gun in the defendant\u2019s closet was entirely lawful. One officer entered the defendant\u2019s bedroom to retrieve the cartridges which were scattered about the floor. While inside, he observed the stock of a handgun protruding from a pile of laundry inside of the defendant\u2019s closet. Thus, the gun was properly seized as contraband discovered during the course of a lawful search (see, People v Kuhn, 33 NY2d 203; People v Golob, 154 AD2d 709, 711; People v De Vito, 114 AD2d 374).\nAdditionally, the hearing court did not err in finding that the defendant did not have standing to challenge the seizure of the money found in his mother\u2019s bedroom. The defendant failed to establish a legitimate expectation of privacy in his mother\u2019s bedroom so as to challenge the propriety of the search (see, People v Ponder, 54 NY2d 160; People v Watkins, 121 AD2d 583, 584). In any event, the defendant clearly consented to the second search of his home during which the money was discovered.\nFinally the question of the admissibility of the defendant\u2019s statements to the police presented an issue of credibility for the hearing court to resolve. Notwithstanding the defendant\u2019s testimony to the contrary, the police officers\u2019 testimony at the *629pretrial hearing established that the defendant was given Miranda warnings and that he made a knowing and intelligent waiver of his rights. Keeping in mind that much weight is to be accorded to the determination of the hearing court and that its findings are not to be set aside unless they are clearly unsupported by the record (see, People v Prochilo, 41 NY2d 759, supra; People v Moore, 161 AD2d 733, 734), we cannot conclude from this record that the hearing court erred in crediting the police officers\u2019 testimony rather than that of the defendant (see, People v Moore, supra).\nThe defendant\u2019s remaining contentions are either unpreserved for appellate review (see, CPL 470.05 [2]) or without merit. Kunzeman, J. P., Balletta, Miller and O\u2019Brien, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5937347
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

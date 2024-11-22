@@ -1,0 +1,46 @@
+{
+    "id": 297166,
+    "judges": "Bryan, Butzner, Craven, Per Curiam",
+    "date_filed": 45705600000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-robert-edward-jones",
+    "case_name_short": null,
+    "case_name": "United States v. Robert Edward Jones",
+    "case_name_full": "UNITED STATES of America, Appellee, v. Robert Edward JONES, Appellant",
+    "attorneys": "Hugh E. Watkins, Alexandria, Va. (Watkins & Taylor, Alexandria, Va., on brief), for appellant., Brian P. Gettings, U. S. Atty. E. D. Va. (Gilbert K. Davis, Asst. U. S. Atty., on brief), for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued June 9, 1971.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b1139-8\">\n    UNITED STATES of America, Appellee, v. Robert Edward JONES, Appellant.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1139-10\">\n    No. 15010.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b1139-11\">\n    United States Court of Appeals, Fourth Circuit.\n   </court><br><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b1139-12\">\n    Argued June 9, 1971.\n   </otherdate><br><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b1139-13\">\n    Decided June 14, 1971.\n   </decisiondate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1139-20\">\n    Hugh E. Watkins, Alexandria, Va. (Watkins &amp; Taylor, Alexandria, Va., on brief), for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1139-21\">\n    Brian P. Gettings, U. S. Atty. E. D. Va. (Gilbert K. Davis, Asst. U. S. Atty., on brief), for appellee.\n   </attorneys><br><p data-order=\"7\" data-type=\"judges\" id=\"b1139-22\">\n    Before BRYAN, CRAVEN and BUTZNER, Circuit Judges.\n   </p>",
+    "citations": [
+        "443 F.2d 1077"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/443/443.F2d.1077.15010.html",
+            "author_id": null,
+            "opinion_text": "443 F.2d 1077\n    UNITED STATES of America, Appellee,v.Robert Edward JONES, Appellant.\n    No. 15010.\n    United States Court of Appeals, Fourth Circuit.\n    Argued June 9, 1971.\n    Decided June 14, 1971.\n    \n      Hugh E. Watkins, Alexandria, Va. (Watkins &amp; Taylor, Alexandria, Va., on brief), for appellant.\n      Brian P. Gettings, U. S. Atty. E. D. Va. (Gilbert K. Davis, Asst. U. S. Atty., on brief), for appellee.\n      Before BRYAN, CRAVEN and BUTZNER, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      Convicted of bank robbery in violation of 18 U.S.C. &#167; 2113, Robert Edward Jones complains that his fifth amendment right to be free from self-incrimination was violated when the district judge directed that he repeat words spoken by the bank robber so that a witness could identify him by means of his voice. We find no self-incrimination. The nature of the evidence was real or physical, not testimonial or communicative. Gilbert v. California, 388 U.S. 263, 266, 87 S.Ct. 1951, 18 L.Ed.2d 1178 (1967).\n    \n    \n      2\n      Affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 297166
+        }
+    ],
+    "court_short_name": "Fourth Circuit",
+    "court_full_name": "Court of Appeals for the Fourth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

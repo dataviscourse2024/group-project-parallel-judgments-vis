@@ -1,0 +1,47 @@
+{
+    "id": 6601001,
+    "judges": "Cameron, Gordon, Hays, Holohan, Struckmeyer",
+    "date_filed": 274924800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-johnson",
+    "case_name_short": null,
+    "case_name": "State v. Johnson",
+    "case_name_full": "STATE of Arizona v. John Nick JOHNSON",
+    "attorneys": "Bruce E. Babbitt, Former Atty. Gen., John A. LaSota, Jr., Atty. Gen. by William J. Schafer, III and Crane McClennen, Asst. Attys. Gen., Phoenix, for appellee., Gregory R. Jordan, Phoenix, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "120 Ariz. 170",
+        "584 P.2d 1161"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hays",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHAYS, Justice.\nAppellant John Nick Johnson pleaded guilty to second degree conspiracy. This plea was based upon the theft of four Chevrolet wheel covers of value less than $100. The complaint alleged that Johnson and a codefendant had stolen the wheel covers, and that both Johnson and the codefendant had prior felony convictions. Thus Johnson was really pleading guilty to conspiracy to commit petty theft with a prior conviction. See A.R.S. \u00a7\u00a7 13-331, 13-663 and 13-1649.\nJohnson argues that the substantive crime of petty theft with a prior conviction does not exist and, therefore, it is impossible to conspire to commit this \u201ccrime.\u201d If we accept Johnson\u2019s view, his conviction should be reversed because he entered a plea to a nonexistent crime.\nThe elements of criminal conspiracy include an unlawful object to be accomplished, a plan embodying means to accomplish the object, an agreement between two or more persons so that they are committed to cooperate for the accomplishment of the object, and an overt act. State v. Westbrook, 79 Ariz. 116, 285 P.2d 161 (1954); State v. Aguirre, 27 Ariz.App. 637, 557 P.2d 569 (1976). The facts of this case indicate that Johnson and the codefendant agreed to steal four wheel covers, and actually did so. Johnson was aware at the time of the agreement that both he and the codefendant had prior felony convictions.\nThe substantive offense of petty theft with a prior conviction is created by reading A.R.S. \u00a7 13-663, together with A.R.S. \u00a7 13-1649. The object to be accomplished in the instant case amounted to petty theft with a prior conviction. However, this court has previously held that \u201c[sjtatutes authorizing the infliction of a more severe penalty on one who is a persistent offender do not create a new, separate, distinct, independent, or substantive offense.\u201d (Cite omitted.) State v. Allen, 111 Ariz. 125, 126, 524 P.2d 502, 503 (1974). See also State v. Johnson, 80 Ariz. 45, 292 P.2d 465 (1956).\nSection 13-331 B. reads as follows:\n\u201cA person is guilty of conspiracy in the second degree if, with the intent to commit or to have another person commit, any action constituting any felony other than those listed in subsection A, he conspires with one or more persons to engage in or cause the commission of such. Conspiracy in the second degree is punishable by imprisonment in the state prison for not less than one year nor more than four years or a fine not exceeding one thousand dollars, or imprisonment in the county jail for not more than one year, or both.\u201d\nIt becomes apparent that an application of the rule in State v. Allen, supra, to the above statute renders the defendant\u2019s guilty plea invalid because the overt act alleged, to wit, theft of wheel covers, becomes a felony only as applied to sentencing. The substantive quality of the offense remains the same.\nThe plea agreement is set aside. Reversed and remanded for further proceedings.\nCAMERON, C. J., STRUCKMEYER, V. C. J., and HOLOHAN and GORDON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6476471
+        }
+    ],
+    "court_short_name": "Arizona Supreme Court",
+    "court_full_name": "Arizona Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Arizona, AZ",
+    "crime_category": "Robbery"
+}

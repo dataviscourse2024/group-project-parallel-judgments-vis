@@ -1,0 +1,46 @@
+{
+    "id": 5318578,
+    "judges": "Brett",
+    "date_filed": -131328000000,
+    "date_filed_is_approximate": true,
+    "slug": "hinex-v-state",
+    "case_name_short": "Hinex",
+    "case_name": "Hinex v. State",
+    "case_name_full": "George HINEX, 71496 v. The STATE of Oklahoma, and Ray Page, Warden, Oklahoma State Penitentiary",
+    "attorneys": "George Hinex, pro se.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "407 P.2d 607"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBRETT, Judge.\nWHEREAS, the petitioner herein, \u25a0George Hinex, on July 28, 1965 filed in this Court his petition for delayed appeal under provisions of Senate Bill No. 152, passed by the 1965 Legislature, stating that \u25a0on January 23, 1965 he was convicted in \u2022case No. 6267 in the district court of Pottawatomie County, Oklahoma, of burglary in the second degree, and sentenced to serve not less than three nor more than nine years in the State Penitentiary; and\nWHEREAS, said petitioner further alleges that on the trial of said case he had a court-appointed attorney, Mr. Scott Hendon, of Shawnee, Oklahoma; and attached to his petition copies of letters written to the Hon. Donald E. Powers, judge of said court, and to his court-appointed \u2022counsel, in which he contended that his constitutional rights were violated in the trial \u2022of his case in Pottawatomie County, Oklahoma; that he had requested his attorney to appeal his conviction to the Court of \u2022Criminal Appeals, and that the same had \u2022.not been done; and\nWHEREAS, thereafter on September 16, 1965 said application for delayed appeal was by this Court dismissed without prejudice, for the reason that such application did not contain sufficient information to invoke the jurisdiction of this Court; and\nThereafter and on October 5, 1965 said petitioner again filed herein his application for post conviction appeal on forms provided by this Court;\nNOW, THEREFORE, the Court having carefully considered the allegations set out and contained in the application for delayed appeal now before the Court, with exhibits attached thereto, make the following findings:\nThat this petitioner was sentenced to serve not less than three, and not more than nine years in the State Penitentiary on conviction of burglary in the second degree; that upon conviction defendant notified his court-appointed attorney that he wished to appeal such conviction; that he was immediately taken to the State Penitentiary to begin serving his sentence; that he has written said court-appointed attorney and the judge who rendered the judgment and sentence concerning such appeal, but has been unable to secure an appeal to this Court.\nThat said petitioner further alleges that he is an indigent person, and that he is not guilty of the crime for which he was convicted; that he was convicted on the sole uncorroborated testimony of an alleged accomplice; and that his constitutional and statutory rights have been violated.\nUnder the allegations and claims of this petitioner, which are duly sworn to, the Court is of the opinion that petitioner is entitled to have his case appealed to this Court; and in order to do so that he is entitled to have a casemade prepared at public expense, and to have an attorney appointed to perfect and prosecute his appeal.\nIT IS THEREFORE the order of this Court that the said George Hinex be and *609he is hereby granted a post conviction appeal.\nIt is further ordered that one of the Judges of the 23rd Judicial District of Oklahoma within and for Pottawatomie County, Oklahoma, be and he is hereby directed to grant said defendant an appeal in case No. 6267, State of Oklahoma v. George Hinex; to appoint an attorney for said George Hinex to file and prosecute such appeal; and to order and direct the court reporter of said court to make and prepare a casemade for such appeal within thirty (30) days from the date of this order; the attorney to be appointed for such defendant to have thirty (30) days after delivery to him of such casemade within which to have same signed, settled and filed in the Court of Criminal Appeals; thirty (30) days after the date of filing of the appeal in this Court to prepare and file his brief in support of the petition in error; and the Attorney General to have thirty (30) days thereafter within which to file brief herein.\n",
+            "ocr": true,
+            "opinion_id": 5147412
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

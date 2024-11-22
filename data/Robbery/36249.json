@@ -1,0 +1,47 @@
+{
+    "id": 6601502,
+    "judges": "Birdsall, Hathaway, Howard",
+    "date_filed": 382147200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-harmon",
+    "case_name_short": null,
+    "case_name": "State v. Harmon",
+    "case_name_full": "The STATE of Arizona v. Stephen HARMON",
+    "attorneys": "Robert K. Corbin, Atty. Gen. by William J. Schafer III and David R. Cole, Phoenix, for appellee., Douglas P. Mitchell, Tucson, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied March 31, 1982., Review Denied April 20, 1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "132 Ariz. 54",
+        "643 P.2d 1024"
+    ],
+    "opinions": [
+        {
+            "author_str": "Birdsall",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nBIRDSALL, Judge.\nThis is a consolidated appeal from convictions in two separate prosecutions. In the first of the two cases below, appellant was charged with kidnapping and sexual abuse. In the second, he was charged with kidnapping, first-degree burglary, and attempted sexual assault. After a jury trial resulting in verdicts of guilt and findings of dangerous nature on both charges in the first case, appellant reached a plea agreement with the state and entered no contest pleas to all charges in the second case. The court imposed the following sentences of imprisonment:\n1) for the first kidnapping, 10.5 years;\n2) for sexual abuse, 3 years;\n3) for the second kidnapping, 10.5 years;\n4) for burglary, 10.5 years;\n5) for attempted sexual assault, 7.5 years.\nAll sentences were ordered to run concurrently. The enhanced presumptive terms resulted from the dangerous nature findings in the first case and from the use of the first conviction as a \u201cprior\u201d in the second case. Appellant contends that the trial court committed several errors in the first trial and in sentencing. The cases have been consolidated solely because of the use of the conviction in the first trial to enhance the sentences imposed in the second case.\n*56Appellant claims that the trial court committed reversible error in the giving of two jury instructions. One instruction was given because appellant asserted an insanity defense. Although no expert medical testimony was presented on the question, virtually every witness gave an opinion regarding appellant\u2019s sanity. Several of these witnesses testified that appellant could not have understood the nature of his acts. The court instructed the jury:\n\u201cA defendant is presumed sane, however, where insanity is an issue, the burden of the state is to establish beyond a reasonable doubt the converse; that is, that the defendant knew the nature and quality of his act and that he knew that what he was doing was wrong.\u201d\nSince the record reveals no objection to this instruction below, the question framed by the briefs is whether it was fundamental error to inform the jury of the presumption of sanity after appellant had presented evidence tending to rebut it. It was not error, fundamental or otherwise. State v. Daniels, 106 Ariz. 497, 478 P.2d 522 (1970); State v. Allen, 27 Ariz.App. 577, 557 P.2d 176 (1976); State v. Knaubert, 27 Ariz.App. 53, 550 P.2d 1095 (1976).\nThe other instruction attacked by appellant concerned .the effect of evidence suggesting that he was intoxicated at the time of the offense. That instruction stated:\n\u201cNo act committed by a person while intoxicated is less criminal by reason of his having been in such condition. However, for the crime of sexual abuse, there must be proof that the defendant acted intentionally or knowingly. For the crime of kidnapping, there must be proof that the defendant acted knowingly. If you determine that the defendant was intoxicated at the time, you may consider the fact that he was intoxicated in determining whether he could have intentionally or knowingly committed these crimes.\u201d\nAppellant contends that this instruction was likely to confuse the jury and to lead it to believe that his intoxication could have no effect upon his guilt. He relies on two California cases, People v. Spencer, 60 Cal.2d 64, 31 Cal.Rptr. 782, 383 P.2d 134 (1963) and People v. Ford, 60 Cal.2d 772, 36 Cal.Rptr. 620, 388 P.2d 892 (1964). In those cases, the Supreme Court of California expressed disapproval of two instructions that began with a paragraph similar to the instruction in this case. The California court\u2019s concern, however, was not with the opening paragraph but with additional language that elaborated upon the policies underlying the law\u2019s refusal to recognize voluntary intoxication as a defense. The instruction above does not suffer from that infirmity. It correctly and understandably explains that voluntary intoxication is not itself a defense to a criminal charge, but may be considered to determine whether the accused acted knowingly or intentionally. See State v. Skaggs, 120 Ariz. 467, 586 P.2d 1279 (1978).\nAppellant also contends that his convictions and sentences, for kidnapping and sexual abuse in the first case and for kidnapping and attempted sexual assault in the second, violate both the Arizona double punishment statute and the double jeopardy prohibition of the United States Constitution. He arrives at this conclusion by purported application of the \u201cidentical elements test,\u201d See State v. Mitchell, 106 Ariz. 492, 478 P.2d 517 (1970), from which he concludes that removal of the facts supporting the one conviction in each case leaves sufficient facts to support the other.\nThe \u201cidentical elements test\u201d has no application to this case. Unlike its predecessor, former A.R.S. \u00a7 13-1641, our present double punishment statute, A.R.S. \u00a7 13-116, permits multiple convictions and sentences for offenses having some \u201cidentical elements,\u201d so long as the sentences are concurrent. Since appellant received concurrent sentences, his statutory claim must fail.\nAppellant\u2019s constitutional claim is also without merit. The \u201cdouble punishment\u201d prohibited by former A.R.S. \u00a7 13-1641 is not synonomous with \u201cdouble jeop*57ardy.\u201d When the accused has been tried only once, double jeopardy can result only from the imposition of multiple sentences for the same offense, or for different offenses if one is a lesser included offense of the other. Illinois v. Vitale, 447 U.S. 410, 100 S.Ct. 2260, 65 L.Ed.2d 228 (1980). It takes no extended analysis to reveal that the double jeopardy prohibition has not been violated in this case. Kidnapping and sexual abuse are not the same offense, nor is either a lesser included offense of the other. One can easily commit kidnapping without committing sexual abuse, and vice versa. The same holds true for kidnapping and attempted sexual assault.\nAffirmed.\nHOWARD, C. J., and HATHAWAY, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 6477018
+        }
+    ],
+    "court_short_name": "Court of Appeals of Arizona",
+    "court_full_name": "Court of Appeals of Arizona",
+    "court_type": "SA",
+    "court_jurisdiction": "Arizona, AZ",
+    "crime_category": "Robbery"
+}

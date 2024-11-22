@@ -1,0 +1,47 @@
+{
+    "id": 8035397,
+    "judges": "Smith",
+    "date_filed": -1792454400000,
+    "date_filed_is_approximate": true,
+    "slug": "jefferson-v-southern-railway",
+    "case_name_short": "Jefferson",
+    "case_name": "Jefferson v. Southern Railway",
+    "case_name_full": "Frank Jefferson v. Southern Railway in Mississippi",
+    "attorneys": "Chapman <\u00a3 Williams and Whitfield, McNeil & Whitfield, attorneys for appellant., Catchings \u00e9 Gatchings, attorneys for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Railroads. Injury to person by train. Negligence. Evidence to overcome presumption. Code 1906, section 1985.</p> <p>The presumption of negligence arising under Code 1906, section 1985, from proof of the killing of a person by a running train, held not to have been overcome by the facts as shown in the opinion of the court.</p>",
+    "headnotes": null,
+    "summary": "Appeal from the circuit court of Sunflower county. Hon. J. M. Casein, Judge. Suit by Frank Jefferson and another against the Southern Railway in Mississippi. From a judgment for defendant, plaintiffs appeal. The facts are fully stated in the opinion of the court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "105 Miss. 571",
+        "62 So. 643"
+    ],
+    "opinions": [
+        {
+            "author_str": "Smith",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSmith, C. J.,\ndelivered the opinion of the court.\nAppellants instituted this suit in the court below to recover of appellee damages for the death of Anna Jefferson, the wife of one and the mother of the other of appellants, who they allege was struck and killed by one \u2022of appellee\u2019s trains. At the close of the evidence .the jury, at the request of appellee, was instructed to find for it, and there was a verdict and judgment accordingly.\nAppellants rested their case, after making out a prima facie case of negligence under the statute, by showing that Anna was found dead early one morning between the rails of appellee\u2019s railroad, at a curve in the track, with a wound in her head and' one of her feet cut off. To *572meet this prima facie case, appellee introduced, evidence-showing that three of its trains passed over the track at the place where, and on the morning that, Anna was killed; that she was probably struck by the one of which a man by the name of Murff was the engineer. Murff was then introduced, and testified that his train passed the place where Anna was killed between 4:45 and five-o \u2019clock a. m.; that he was on the lookout and did not see her, and was not aware that she had been struck until some hours thereafter. He was then asked and answered the following questions: \u201cQ. And this engine was equipped with an oil light? A. Yes, sir. Q. Going east on that curve, is it, or not, possible to see an object from the headlight that is about half way in the curve! A. Yes, sir; it would be impossible for the man to see the-object on the lefthand side of the engine laying in the curve. Q. Well, would it be impossible on the other side? A. Yes, sir. Q. How close would you have to-get up to an object before you' could see from the headlight? A. You would be right on top of it, in twenty-five or fifty yards anyway. Q. State to the jury whether or not on that occasion, you saw any object on the track,, a body or anything else, between Heathman and Indian-ola? A. No, sir; I didn\u2019t see that. Q. Were you, or not,, on the lookout? A. I am always looking out; yes, sir.\u201d The fireman did not testify.\nIt is somewhat difficult to determine whether Murff intended to convey the idea that he could not have seen an object lying in the curve on the track at the plaee where Anna was killed at all, or that he could not have seen such an object for inore than twenty-five or fifty yards before reaching it. In either event, however, the presumption of negligence arising under the statute (section 1985 of the Code) was not met, as explained in Railroad Co. v. Cole, 57 South. 556, and the peremptory instruction requested by appellee should not have been granted. Moreover, if he intended to say that he was. *573on the lookout, and could have seen an object from twenty-five to fifty yards before reaching the place where Anna was killed, and did not see her, it may be that his was not the engine which struck and killed her.\n\nReversed, and remanded.\n\n",
+            "ocr": true,
+            "opinion_id": 7991587
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Murder"
+}

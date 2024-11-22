@@ -1,0 +1,47 @@
+{
+    "id": 8323324,
+    "judges": null,
+    "date_filed": 145152000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-goodman",
+    "case_name_short": "Goodman",
+    "case_name": "State v. Goodman",
+    "case_name_full": "The STATE v. Edward GOODMAN",
+    "attorneys": "Ernest B. Hinnant, Esq., of Florence, for Appellant., T. Kenneth Summerford, Esq., Sol., of Florence, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "263 S.C. 34",
+        "207 S.E.2d 416"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nPer Curiam:\n\nEdward Goodman was convicted at the June, 1973 term of Court of General Sessions of Florence County on a charge of armed robbery and was sentenced to confinement for a period of 15 years. At his trial he was represented by the Public Defender for Florence County, who is still his counsel. A transcript of the trial was furnished to the defendant at his request.\n*35His counsel has now advised this Court that, in his opinion, any appeal is wholly frivolous and requested leave to withdraw from the case. He has fully complied with the requirements of Anders v. State of California, 386 U. S. 738, 87 S. Ct. 1396, 18 L. Ed. (2d) 493, including the service of his brief upon the appellant, who has filed no brief in his own behalf.\nAfter careful examination of the entire record we are convinced that any appeal would be manifestly without merit and wholly frivolous. Accordingly, the request of counsel for leave to withdraw is granted and the appeal is dismissed.\n",
+            "ocr": true,
+            "opinion_id": 8290628
+        }
+    ],
+    "court_short_name": "Supreme Court of South Carolina",
+    "court_full_name": "Supreme Court of South Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "South Carolina, SC",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1321657,
+    "judges": "Carley, Quillian, Shulman",
+    "date_filed": 400291200000,
+    "date_filed_is_approximate": false,
+    "slug": "salter-v-state",
+    "case_name_short": "Salter",
+    "case_name": "Salter v. State",
+    "case_name_full": "Salter v. the State",
+    "attorneys": "F. Robert Raley, for appellant., H. Reginald Thompson, District Attorney, Richard A. Malone, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied September 30, 1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b689-11\">\n    64435.\n   </docketnumber><parties id=\"AoL9\">\n    SALTER v. THE STATE.\n   </parties>",
+    "citations": [
+        "294 S.E.2d 612",
+        "163 Ga. App. 655"
+    ],
+    "opinions": [
+        {
+            "author_str": "Quillian",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7176.0,
+            "opinion_text": "\n163 Ga. App. 655 (1982)\n294 S.E.2d 612\nSALTER\nv.\nTHE STATE.\n64435.\nCourt of Appeals of Georgia.\nDecided September 8, 1982.\nRehearing Denied September 30, 1982.\nF. Robert Raley, for appellant.\nH. Reginald Thompson, District Attorney, Richard A. Malone, Assistant District Attorney, for appellee.\nQUILLIAN, Chief Judge.\nDefendant appeals his conviction for theft by conversion. Held:\n1. Error is asserted because the trial court denied defendant's motions for directed verdict and for judgment notwithstanding the verdict made on the grounds that venue was not proven as there was no evidence that the defendant had exercised control over the converted property in Washington County, the county in which the trial was held, as required by Code Ann. \u00a7 26-1811 (Ga. L. 1968, pp. 1249; 1972, pp. 841, 842).\n\"When there is no conflict in the evidence, and the evidence introduced . . . shall demand a verdict of acquittal . . . the trial court may direct the verdict . . .\" Code Ann. \u00a7 27-1802 (Ga. L. 1971, pp. 460, 461).\nThe indictment alleged that defendant by agreement lawfully obtained in Washington County motor vehicles owned by another which he subsequently converted to his own use. The evidence was in conflict as to whether defendant exercised control over the vehicles in Washington County, with the owner testifying that defendant had exercised control over some of the vehicles in the county and the defendant denying that he had. Therefore, the evidence did not demand a verdict of not guilty and the trial court did not err in denying the motions for directed verdict and judgment notwithstanding the verdict. Whitehead v. State, 160 Ga. App. 644 (287 SE2d 648).\n2. The trial court did not err in denying defendant's motion for a new trial made on the ground that the evidence was insufficient to show that defendant converted the vehicles to his own use. Baker v. *656 State, 135 Ga. App. 500 (218 SE2d 171), cited by defendant and holding that no inference could be made from the facts of that case that the defendant therein had converted the property to his own use, is factually distinguishable.\nIn the instant case the jury was authorized to find from the evidence that defendant made an agreement with the owner of the vehicles, a used car dealer, to take them to Tampa, Florida, sell them and return the proceeds, less his commission, to the owner; that defendant did take the vehicles and sell them for about $45,000, did not remit any of the proceeds to the owner, and was not seen or heard from by the owner for about 18 months thereafter until defendant was arrested on a fugitive warrant.\nThese circumstances were sufficient to authorize the jury to infer that defendant knowingly converted the vehicles and the money from the sale to his own use. Compare, Hogsed v. State, 150 Ga. App. 872 (258 SE2d 688). The evidence was also sufficient to authorize the jury to find defendant guilty beyond a reasonable doubt. Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560).\n3. Defendant also alleges that the trial court erred in failing to charge on the issue of venue.\nWe find no merit in this allegation.\nFirst, the trial court did charge that in order to convict the jury must find beyond a reasonable doubt that the \"defendant did, in this county commit the crime of theft by conversion.\" The elements of the crime were also charged in accordance with Code Ann. \u00a7 26-1808 (Ga. L. 1976, pp. 1456, 1457).\nSecondly, defendant did not request a charge on venue and stated that he had no objection to the charge as given. Absence of an objection to a failure to charge waives the right to enumerate error on appeal. Radney v. State, 156 Ga. App. 442 (2) (274 SE2d 800).\nJudgment affirmed. Shulman, P. J., and Carley, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1321657
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

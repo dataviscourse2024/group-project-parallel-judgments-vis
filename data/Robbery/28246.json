@@ -1,0 +1,46 @@
+{
+    "id": 4987628,
+    "judges": "Barnes, Carlton, Fair, Griffis, Irving, Ishee, Lee, Maxwell, Roberts, Russell",
+    "date_filed": 1354579200000,
+    "date_filed_is_approximate": true,
+    "slug": "ray-v-state",
+    "case_name_short": "Ray",
+    "case_name": "Ray v. State",
+    "case_name_full": "Roy Lee RAY a/k/a Roy L. Ray a/k/a Roy Ray a/k/a Roy Lee Ray Jr. v. STATE of Mississippi",
+    "attorneys": "Roy Lee Ray, appellant, pro se., Office of the Attorney General by R. Stewart Smith Jr., attorney for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "104 So. 3d 171"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lee",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLEE, C.J., for the Court:\n\u00b6 1. Roy Lee Ray is currently an inmate in the custody of the Mississippi Department of Corrections (MDOC), serving a sentence for possession of cocaine. Ray sought information through the Administrative Remedies Program (ARP) regarding a parole date. However, Ray was informed that pursuant to Mississippi Code Annotated section 47-7-3(l)(h) (Rev. 2011), he was ineligible for parole.\n\u00b6 2. Ray appealed this decision to the Greene County Circuit Court. The trial court affirmed the MDOC\u2019s denial of relief through its ARP. Ray now appeals, asserting he should be classified as eligible for parole consideration. We agree and reverse and render.\nDISCUSSION\n\u00b6 3. In his only issue on appeal, Ray contends that he is eligible for parole consideration by the parole board. According to section 47-7-3(l)(h), \u201c[n]o person shall be eligible for parole who is convicted or whose suspended sentence is revoked after June 30, 1995, except that an offender convicted of only nonviolent crimes after June 30, 1995, may be eligible for parole if the offender meets the requirements in subsection (1) and this paragraph.\u201d\n\u00b6 4. The State interprets section 47-7-3(l)(h) to say that any offender who has committed a violent crime is considered a violent offender and is therefore not eligible for parole if he has been convicted of a crime after June 30, 1995, regardless of whether the new crime is violent or nonviolent. The State contends Ray\u2019s 1994 conviction in Louisiana of simple burglary of an inhabited dwelling is a violent crime. However, the statute does not mention prior crimes, violent or otherwise. Furthermore, in Louisiana, simple burglary of *172an inhabited dwelling is not considered a violent crime. La.Rev.Stat. Ann. \u00a7 14:2(B) (2012).\n\u00b6 5. Section 47 \u2014 7\u20148(1)(h) clearly says \u201can offender incarcerated for committing the crime of possession of a controlled substance under the Uniform Controlled Substances Law after July 1, 1995, shall be eligible for parole.\u201d Ray pleaded guilty on February 18, 2010, to possession of cocaine. According to the statute, Ray is eligible for parole consideration. Therefore, we must reverse and render.\n\u00b6 6. THE JUDGMENT OF THE GREENE COUNTY CIRCUIT COURT AFFIRMING THE DECISION OF THE MISSISSIPPI DEPARTMENT OF CORRECTIONS THROUGH ITS ADMINISTRATIVE REMEDY PROGRAM IS REVERSED AND RENDERED. ALL COSTS OF THIS APPEAL ARE ASSESSED TO GREENE COUNTY.\nIRVING AND GRIFFIS, P.JJ., BARNES, ISHEE, ROBERTS, MAXWELL, RUSSELL AND FAIR, JJ., CONCUR. CARLTON, J, DISSENTS WITHOUT SEPARATE WRITTEN OPINION.\n",
+            "ocr": true,
+            "opinion_id": 4797543
+        }
+    ],
+    "court_short_name": "Court of Appeals of Mississippi",
+    "court_full_name": "Court of Appeals of Mississippi",
+    "court_type": "SA",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Robbery"
+}

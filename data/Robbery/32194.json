@@ -1,0 +1,46 @@
+{
+    "id": 5781587,
+    "judges": null,
+    "date_filed": 234489600000,
+    "date_filed_is_approximate": false,
+    "slug": "thompson-v-state",
+    "case_name_short": "Thompson",
+    "case_name": "Thompson v. State",
+    "case_name_full": "THOMPSON v. State",
+    "attorneys": "Ken Gordon, for appellant., William F. Lee, Jr., District Attorney, Robert H. Sullivan, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted May 2, 1977",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "142 Ga. App. 497"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer curiam.\nDefendant appeals from his conviction for burglary. An examination of the enumeration of errors, defendant\u2019s brief, and the transcript of evidence fails to show any basis for reversal of the judgment of conviction and sentence.\n\nJudgment affirmed.\n\n\nBell, C. J., McMurray and Smith, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5635639
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6022351,
+    "judges": null,
+    "date_filed": 512006400000,
+    "date_filed_is_approximate": false,
+    "slug": "bivona-v-port-authority",
+    "case_name_short": "Bivona",
+    "case_name": "Bivona v. Port Authority",
+    "case_name_full": "Michael Bivona v. Port Authority of New York and New Jersey, Appellants Port Authority of New York and New Jersey, Third-Party v. P & F Trucking, Inc., Third-Party",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "118 A.D.2d 747"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 In an action to recover damages for personal injuries, etc., the defendant Specialties Engineering Corp. appeals, as limited by its brief, from so much of an order of the Supreme Court, Kings County (Mirabile, J.), dated June 6, 1984, as set aside the verdict in its favor, granted a new trial on the issue of its liability and set aside the award of damages to the plaintiffs as inadequate; the defendant Port Authority of New York and New Jersey appeals from so much of the same order as granted a new trial upon the issue of its liability, set aside the award of damages as to the plaintiffs as inadequate, and as held in abeyance the issue of indemnification as between the parties; and the third-party defendant P &amp; F Trucking, Inc. appeals from so much of the same order as granted a new trial upon the issue of its liability and vacated the award of damages to the plaintiffs as being inadequate.\nOrder reversed, on the law and the facts, with one bill of costs payable by the plaintiffs-respondents to the appellants, the jury verdict as to both liability and damages is reinstated, P &amp; F Trucking, Inc. is directed to indemnify the Port Authority of New York and New Jersey, and matter remitted to the Supreme Court, Kings County, for the entry of an appropriate judgment.\nThe record reveals that the jury could have found that a representative of Port Authority of New York and New Jersey (hereinafter the Authority) instructed Specialties Engineering, Inc. (hereinafter Specialties) to place bags of sand residue in a dumpster provided by P &amp; F Trucking, Inc. (hereafter P &amp; F Trucking). There was evidence that Specialties placed four bags, weighing 40 to 50 pounds each, in the dumpster, two bags on each rear wheel so as to ensure maximum stability. Further, there was evidence that if the dumpster had been improperly loaded, it would have tipped immediately. In view of the plaintiff Michael Bivona\u2019s testimony that he and his coworker had moved the dumpster four feet before it tipped, the jury was justified in determining that Specialties\u2019s employees did not act negligently in placing the bags of sand residue in the dumpster.\nIt is well settled that a jury verdict should not be set aside where to do so interferes with the fact-finding function of the jury (see, Durante v Frishling, 81 AD2d 631). Inasmuch as there is a credible view of the evidence to support the jury\u2019s *749verdict in Specialties\u2019s favor, the trial court should not have set the verdict aside.\nTurning to P &amp; F Trucking\u2019s liability, P &amp; F Trucking entered into a contract with the Authority whereby P &amp; F Trucking agreed to indemnify the Authority as follows:\n\"22. The Contractor assumes the following risks, whether such risks arise from acts or omissions (negligent or not) of the Contractor, the Port Authority or third persons or from any other cause, excepting only risks occasioned solely by affirmative willful acts of the Port Authority done subsequent to the opening of proposals for this Contract, and shall indemnify the Port Authority for all loss and expense incurred in connection with risks (b) and (c) below:\n\"a. The risk of loss or damage occurring to any property of the Contractor.\n\"b. The risk of claims, whether made against the Contractor or the Port Authority, for loss or damage occurring to any property of the Contractor\u2019s agents, employees, subcontractors, materialmen and others performing work hereunder.\n\"c. The risks of claims for personal injuries (including death) or property damages including theft or loss of any kind, just or unjust, of third persons, which claims arise or are alleged to arise out of the performance of work, whether such claims are made against the Contractor or the Port Authority\u201d.\nThe contract expressly provided that it was to be construed in accordance with the laws of New Jersey. Since such a provision was enforceable in New Jersey at the time of the agreement (see, NJ Stats Ann \u00a7\u00a7 2A:40A-1, 2A:40A-3), and the Authority was not found to be solely responsible for the accident, P &amp; F Trucking must indemnify the Authority.\nWhile the plaintiff Michael Bivona has suffered a permanent injury in that he was required to undergo partial amputation of his right big toe, the award of $86,500 for personal injuries, and the derivative award of $5,000, were not so low that they should be deemed inadequate.\nThe parties\u2019 remaining contentions have been considered and found to be without merit. Mangano, J. P., Bracken, Rubin and Fiber, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5884955
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

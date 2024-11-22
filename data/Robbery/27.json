@@ -1,0 +1,46 @@
+{
+    "id": 7752906,
+    "judges": "Lazzara, Patterson, Schoonover",
+    "date_filed": 808099200000,
+    "date_filed_is_approximate": false,
+    "slug": "hutchins-v-state",
+    "case_name_short": "Hutchins",
+    "case_name": "Hutchins v. State",
+    "case_name_full": "Rashawn Dion HUTCHINS v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Kevin Briggs, Asst. Public Defender, Bartow, for appellant., Robert A. Butterworth, Atty. Gen., Tallahassee, and Helene S. Parn\u00e9s, Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "658 So. 2d 1205"
+    ],
+    "opinions": [
+        {
+            "author_str": "Patterson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPATTERSON, Judge.\nHutchins appeals from his judgment and sentence for armed burglary, armed robbery, attempted armed robbery, resisting arrest without violence, and possession of a firearm by a convicted felon. We affirm Hutchin\u2019s convictions; however, we reverse as to the trial court\u2019s imposition of consecutive sentences for counts I, II, and III (armed burglary, armed robbery, and attempted armed robbery), since the offenses arose from the same criminal episode. See Hale v. State, 630 So.2d 521 (Fla.1993).\nAffirmed in part; reversed in part and remanded for resentencing.\nSCHOONOVER, A.C.J., and LAZZARA, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7690101
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

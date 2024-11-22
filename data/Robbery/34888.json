@@ -1,0 +1,46 @@
+{
+    "id": 6332830,
+    "judges": "Hyman",
+    "date_filed": 351475200000,
+    "date_filed_is_approximate": false,
+    "slug": "peterson-v-city-of-new-york",
+    "case_name_short": "Peterson",
+    "case_name": "Peterson v. City of New York",
+    "case_name_full": "Jeffrey Peterson v. City of New York",
+    "attorneys": "APPEARANCES OF COUNSEL, Eric S. Edelstein for plaintiffs. W. Bernard Richland, Corporation Counsel, for defendants.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "107 Misc. 2d 1055"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hyman",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION OF THE COURT\nHarold Hyman, J.\nThis is an ex parte application to allow the withdrawal of $8,500 from an account in the name of the guardian natural father of an infant. The account was created as a result of a negligence action commenced by said guardian of the infant, in the infant\u2019s behalf; the action was compromised by an order of the court dated January 23,1979, and which order directed the sum of $26,666.67 to be deposited in a savings bank to the credit of said infant and \u201cfor his sole use and benefit\u201d until he shall have reached the age of 18 years.\nIt now appears that the infant has been charged and indicted by the Grand Jury with having perpetrated a felony, namely, robbery in the first degree, a class B felony, robbery in the second degree, a class C felony, and criminal possession of a weapon in the fourth degree, a class A misdemeanor, and that he is presently in jail for want of $1,000 by way of surety bond, or $500 cash bail; the difference being $7,500 for attorney\u2019s fees to make the $8,500 total sought by this application.\nThe infant is now 16 years of age.\nCPLR 1211 (subd [a]) provides for a petition to the court \u201cfor the application of an infant\u2019s property or a portion thereof to the infant\u2019s support, maintenance or education\n*1056It is the duty of the court to protect infant\u2019s funds deposited subject to the order of the court, and such duty should be scrupulously discharged (Matter of Stackpole, 9 Misc 2d 922) even though it be contrary to the infant\u2019s and guardian\u2019s joint request for such relief.\nMr. Justice Cuff, in an erudite and beacon signaling decision in DeMarco v Seaman (157 Misc 390), pointed out the pitfalls which can be occasioned by a gnawing away at infants\u2019 funds resulting from a compromise of a negligence action resulting in a trust deposit of funds awaiting the maturity of the said infant. The decision commented upon the possibility of dire results upon loosening of the reins of control by allowing violence to be perpetrated to the reason for which the fund was created, namely, to in some measure compensate him for the pain, suffering and possibly a permanent disability resulting from the occurrence.\nAt the present time the infant is incarcerated for alleged want of $500 in cash or a $1,000 bond, as bail. If one were to limit the amount released merely to \u201cbail money\u201d, there too it would be contrary to statute. What is more the father and guardian of the infant alone and/or together with guardian\u2019s wife \u2014 infant\u2019s mother \u2014 are the owners of real property, a one-family dwelling which even though mortgaged certainly must have an equity in excess of the bail bond required ($1,000), which may be used by them as security for bail. No valid reason has been set forth why this has not been done.\nAs to counsel fees. Such are deemed necessaries which a minor may look to his parents to supply. When the services are supplied, the minor\u2019s estate may ultimately be held responsible to pay same, if not now, then upon reaching majority. There also are prescribed methods by which an infant may be sued during his minority. If counsel does not choose to represent the infant upon such basis, then an attorney appointed under article 18-B of the County Law may be obtained by court direction.\nThe ex parte application is denied.\n",
+            "ocr": true,
+            "opinion_id": 6201393
+        }
+    ],
+    "court_short_name": "New York Supreme Court",
+    "court_full_name": "New York Supreme Court",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

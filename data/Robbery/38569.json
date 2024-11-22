@@ -1,0 +1,47 @@
+{
+    "id": 7043045,
+    "judges": "Edmonds, Linder, Wollheim",
+    "date_filed": 1132099200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-volage",
+    "case_name_short": "Volage",
+    "case_name": "State v. Volage",
+    "case_name_full": "STATE OF OREGON v. ROSEMARY VOLAGE",
+    "attorneys": "Peter A. Ozanne, Executive Director, Peter Gartlan, Chief Defender, and Louis R. Miles, Deputy Public Defender, Office of Public Defense Services, filed the brief for appellant., Hardy Myers, Attorney General, Mary H. Williams, Solicitor General, and Erika L. Hadlock, Assistant Solicitor General, filed the brief for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted on record and briefs September 30,",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "202 Or. App. 667",
+        "123 P.3d 378"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM\nDefendant pleaded guilty to nine counts of aggravated theft in the first degree and one count of theft in the first degree. On appeal, she assigns error to the trial court\u2019s order of $244,000 in restitution. She argues that she admitted only to stealing $171,503.04, and that the difference had to be proved to a jury under Blakely v. Washington, 542 US 296, 124 S Ct 2531, 159 L Ed 2d 403 (2004). State v. Gutierrez, 197 Or App 496, 505, 106 P3d 670, adh\u2019d to on recons, 199 Or App 521, 112 P3d 433 (2005), is controlling on that issue. However, -under ORS 138.222(5), the trial court will be required to reconsider the issue of restitution because of defendant\u2019s other challenge.\nDefendant also challenges the trial court\u2019s imposition of an upward departure sentence on her conviction for aggravated theft in the first degree. She argues that the court\u2019s upward departure was erroneous under Blakely and Apprendi v. New Jersey, 530 US 466, 120 S Ct 2348, 147 L Ed 2d 435 (2000), because it was based on facts that were not admitted by defendant nor found by a jury. Although defendant did not advance such a challenge below, she argues that the sentence should be reviewed as plain error. Under our decision in State v. Perez, 196 Or App 364, 102 P3d 705 (2004), rev allowed, 338 Or 488 (2005), the trial court\u2019s upward departure \u2014 based on its findings that the severity of the crime and the impact on the victim were significantly greater than typical and that defendant violated the public trust \u2014 is plainly erroneous. For the reason set forth in Perez, we exercise our discretion to correct the error.\nSentences vacated; remanded for resentencing; otherwise affirmed.\n",
+            "ocr": true,
+            "opinion_id": 6946203
+        }
+    ],
+    "court_short_name": "Court of Appeals of Oregon",
+    "court_full_name": "Court of Appeals of Oregon",
+    "court_type": "SA",
+    "court_jurisdiction": "Oregon, OR",
+    "crime_category": "Robbery"
+}

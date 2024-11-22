@@ -1,0 +1,46 @@
+{
+    "id": 5922158,
+    "judges": null,
+    "date_filed": 46915200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-bennett",
+    "case_name_short": "Bennett",
+    "case_name": "People v. Bennett",
+    "case_name_full": "The People of the State of New York v. John Bennett",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "37 A.D.2d 631"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn a coram nobis proceeding, defendant appeals from an order of the Supreme Court, Kings County, dated July 3, 1968, which denied the application without a hearing. Order affirmed. Appellant was convicted of robbery in the first degree, assault in the second degree and grand larceny in the first degree in 1964, after a jury trial. The conviction was affirmed on appeal (People v. Bennett, 27 A D 2d 704). In this coram nobis proceeding, appellant seeks to vacate the conviction on the ground that the pretrial identification procedure employed by the police tainted the in-court identification. In United States v. Wade (388 U. S. 218) and Gilbert v. California (388 U. S. 263) it was held that pretrial identification is a critical stage of a criminal prosecution and the suspect is entitled to the assistance of counsel at a line-up identification. In Stovall v. Denno (388 U. S. 293) it was held that the right to counsel established in Wade would be applied prospectively only. Appellant\u2019s trial and appeal were concluded before the determination in -Wade and thus appellant cannot, and does not, rely on the rule laid down in Wade. However, in Stovall it was also held that the right to question whether, in any event, the identification confrontation was \u201c so unnecessarily suggestive and conducive to *632irreparable mistaken identification \u201d as to amount to a denial of due process was a recognized ground of attack upon a conviction independent of any right-to-counsel claim (p. 302). And it is this holding upon which appellant relies. Regardless of the merit of appellant\u2019s factual assertions, we are of the opinion that this argument cannot be asserted for the first time on a coram nobis application. Coram nobis is \u201c an emergency measure born of necessity to afford a defendant a remedy against injustice when no other avenue of judicial relief is, or ever was, available to him\u201d and may not be used as a substitute for an appeal (People v. Howard, 12 N Y 2d 65, 66, cert. den. 374 U. S. 840). The holding in Stovall relied upon by appellant was not a new rule to be applied retroactively, but was specifically stated to have always been the law. Thus, the contention now urged by appellant was available to him at the trial. Indeed, the issue of the sufficiency of the identification evidence was raised at trial and on appeal; and the facts now presented in support of the due process argument were fully brought out at the trial. Having failed to raise the' issue at trial or on appeal, appellant cannot now seek to set aside the judgment by resorting to coram nobis (People v. Brown, 13 N Y 2d 201). His failure to present the issue at the proper time precludes the assertion of it at a later date in a collateral proceeding (see People v. De Mino, 35 A D 2d 979). Rabin, P. J., Hopkins, Munder, Martuseello and Christ, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5779992
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

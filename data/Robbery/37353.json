@@ -1,0 +1,46 @@
+{
+    "id": 6815145,
+    "judges": "Moore",
+    "date_filed": 56160000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-robinson",
+    "case_name_short": "Robinson",
+    "case_name": "State v. Robinson",
+    "case_name_full": "STATE OF NORTH CAROLINA v. CHARLES ROBINSON, Alias HOWARD BEASLEY",
+    "attorneys": "\n\nAttorney General Robert Morgan and Deputy Attorney General James F. Bullock for the State.\n, \nSol G. Cherry, Public Defender, for defendant appellant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "279 N.C. 495"
+    ],
+    "opinions": [
+        {
+            "author_str": "Moore",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMOORE, Justice.\nDefendant contends that the trial judge\u2019s comment, \u201cI can\u2019t see what the key has to do with this case, frankly,\u201d constitutes an expression of opinion and is reversible error.\nDefendant has testified that he and two girls arrived at the motel about eleven or twelve o\u2019clock on the night of 30 August 1970, and the motel operator let them into the rooms and asked defendant to get the key the following morn*497ing. At this point defendant\u2019s attorney asked a leading question: \u201cAnd did you the next day go down to the desk and ask for a key?\u201d Defendant answered, \u201cYes sir.\u201d The solicitor objected to the question as leading. It was then that the court said, \u201cI can\u2019t see what the key has to do with this case, frankly.\u201d Defendant contends that the court\u2019s comment negated a possible alibi and destroyed any hope that defendant\u2019s statement with regard to his movements and activities would be considered by the jury as having any importance.\nTwo things clearly appear: First, at the time the court made the comment to which defendant takes exception, there was no evidence before the court to indicate that defendant was attempting to set up an alibi for 10:00 or 10:30 a.m. or that he was attempting to use the key incident as a part of the alibi; secondly, the comment by the judge was obviously addressed to the solicitor\u2019s objection and was in effect a statement that he was overruling the objection to the leading question. The defendant was allowed to develop his evidence as to the key incident without any limitation. It should also be noted that defendant testified that he was at the motel about 10:00 or 10:30 a.m. The defendant\u2019s evidence as to the key does not attempt to establish an alibi between 10:30 and 11:00 a.m., the time of the robbery. Thus, under any consideration of the judge\u2019s remark, it cannot be said to be an expression of an opinion prejudicial to the defendant.\nAs said in State v. Perry, 231 N.C. 467, 471, 57 S.E. 2d 774, 777 (1950) :\n\u201c . . . The comment made or the question propounded should be considered in the light of all the facts and attendant circumstances disclosed by the record, and unless it is apparent that such infraction of the rules might reasonably have had a prejudicial effect on the result of the trial, the error will be considered harmless.\u201d\nIn charging the jury the court fully stated defendant\u2019s evidence concerning the key and in the charge stated:\n\u201cNow, ladies and gentlemen of the jury, the court has no opinion as to what your verdict should not or should be. Anything that the court has said in its charge or anything that the court has said during the course of the trial, shall not be considered by you as an expression of opinion as *498to what your verdict should or should not be, because the law of North Carolina does not permit me to express an opinion. In fact the court has no opinion in this matter.\u201d\nWe think the comment made by the trial judge about the key had no appreciable effect on the result of the trial below.\nDefendant does not contend that other errors were committed, and we find none.\nNo error.\n",
+            "ocr": true,
+            "opinion_id": 6702002
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Robbery"
+}

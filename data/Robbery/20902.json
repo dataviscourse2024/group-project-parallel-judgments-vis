@@ -1,0 +1,46 @@
+{
+    "id": 3026401,
+    "judges": "Bowman, Fagg, Per Curiam, Piersol",
+    "date_filed": 987552000000,
+    "date_filed_is_approximate": false,
+    "slug": "thomas-mark-zinna-v-dave-dormire",
+    "case_name_short": null,
+    "case_name": "Thomas Mark Zinna v. Dave Dormire",
+    "case_name_full": "Thomas Mark ZINNA, Appellant, v. Dave DORMIRE, Superintendent, Jefferson City Correctional Center, Appellee",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted April 10, 2001.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": "<parties id=\"b712-17\">\n    Thomas Mark ZINNA, Appellant, v. Dave DORMIRE, Superintendent, Jefferson City Correctional Center, Appellee.\n   </parties><br><docketnumber id=\"b712-19\">\n    No. 00-3680.\n   </docketnumber><br><court id=\"b712-20\">\n    United States Court of Appeals, Eighth Circuit.\n   </court><br><otherdate id=\"b712-21\">\n    Submitted April 10, 2001.\n   </otherdate><br><decisiondate id=\"b712-22\">\n    Decided April 18, 2001.\n   </decisiondate><br><judges id=\"b713-11\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"683\"> \n     *683\n     </span>\n    Before BOWMAN and FAGG, Circuit Judges, and PIERSOL,\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n    District Judge.\n   </judges><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b713-12\">\n     The Honorable Lawrence L. Piersol, United States District Judge for the District of South Dakota, sitting by designation.\n    </p>\n</div></div>",
+    "citations": [
+        "11 F. App'x 682"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 2.0,
+            "download_url": "http://media.ca8.uscourts.gov/opndir/01/04/003680U.pdf",
+            "author_id": null,
+            "opinion_text": "                     United States Court of Appeals\n                           FOR THE EIGHTH CIRCUIT\n                                    ___________\n\n                                    No. 00-3680\n                                    ___________\n\nThomas Mark Zinna,                       *\n                                         *\n                   Appellant,            *\n                                         * Appeal from the United States\n       v.                                * District Court for the Eastern\n                                         * District of Missouri.\nDave Dormire, Superintendent,            *\nJefferson City Correctional Center,      *      [UNPUBLISHED]\n                                         *\n                   Appellee.             *\n                                    ___________\n\n                              Submitted: April 10, 2001\n\n                                   Filed: April 18, 2001\n                                    ___________\n\nBefore BOWMAN and FAGG, Circuit Judges, and PIERSOL,* District Judge.\n                           ___________\n\nPER CURIAM.\n\n       Thomas Mark Zinna was convicted of second-degree burglary, stealing firearms,\nand second-degree property damage in Missouri state court. He was sentenced as a\npersistent offender to imprisonment for forty years and six months. After exhausting\n\n\n\n\n      *\n       The Honorable Lawrence L. Piersol, United States District Judge for the District\nof South Dakota, sitting by designation.\n\fhis state court remedies, Zinna filed a federal habeas petition. The district court**\ndenied relief, but granted a certificate of appealability on one claim: whether trial\ncounsel was ineffective in failing to call coperpetrator Billy Long as a witness. During\na state postconviction hearing, Long testified he would have told the jury Zinna was not\ninvolved in the robbery because he was sleeping at a motel at the time. At the same\nhearing, Zinna's trial attorney testified that several days before trial, Long told him, \"I\nam going to hurt you. I am not going to help you.\" The state postconviction court\nfound the attorney discussed the possibility of Long testifying with Zinna and he chose\nnot to call Long as a witness as a matter of trial strategy. The court also heard Long's\ntestimony and found he lacked credibility.\n\n       On appeal, Zinna concedes the record supports the attorney's testimony at the\npostconviction proceeding, but argues Long's testimony there rendered counsel's\ndecision not to call Long at trial unreasonable. We conclude the state courts did not\nunreasonably apply federal law in denying Zinna postconviction relief because the\nperformance of Zinna's attorney was not deficient. See 28 U.S.C. \u00a7 2554(d)(1);\nStrickland v. Washington, 466 U.S. 668, 689-90 (1984). Besides, Zinna cannot\nestablish the allegedly deficient performance prejudiced him, given the overwhelming\nevidence of his guilt. See id. at 694-95. We thus affirm the district court's denial of\nZinna's habeas petition.\n\n      A true copy.\n\n             Attest:\n\n                     CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.\n\n\n\n      **\n         The Honorable Jean C. Hamilton, United States District Judge for the Eastern\nDistrict of Missouri.\n\n                                           -2-\n\f",
+            "ocr": false,
+            "opinion_id": 3026401
+        }
+    ],
+    "court_short_name": "Eighth Circuit",
+    "court_full_name": "Court of Appeals for the Eighth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

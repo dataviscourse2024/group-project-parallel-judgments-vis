@@ -1,0 +1,47 @@
+{
+    "id": 4072687,
+    "judges": "Chappell, Davenport, Edwards",
+    "date_filed": -1253577600000,
+    "date_filed_is_approximate": false,
+    "slug": "weil-v-state",
+    "case_name_short": "Weil",
+    "case_name": "Weil v. State",
+    "case_name_full": "George Weil v. State.",
+    "attorneys": "G. W. Sawyer, Boss Bizley, and R. B. Loofbourrow, for plaintiff in error., The Attorney General and P. K. Morrill, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from District Court, Texas County; F. Hiner Dale, Judge.\n\nGeorge Weil was convicted of larceny of live stock, and he appeals. Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 10,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b104-6\">\n    GEORGE WEIL v. STATE.\n   </parties><docketnumber id=\"AuN\">\n<em>\n     No.\n    </em>\n    A-6990.\n   </docketnumber><decisiondate id=\"A25\">\n    Opinion\n    <em>\n     Filed\n    </em>\n    April\n    <em>\n     12,\n    </em>\n    1930.\n   </decisiondate><citation id=\"ACVj\">\n    (287 Pac. 752.)\n   </citation><br><attorneys id=\"b105-8\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"89\"> \n     *89\n     </span>\n    G. W. Sawyer, Boss Bizley, and R. B. Loofbourrow, for plaintiff in error.\n   </attorneys><br><attorneys id=\"b105-9\">\n    The Attorney General and P. K. Morrill, Asst. Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "287 P. 752",
+        "47 Okla. Crim. 88"
+    ],
+    "opinions": [
+        {
+            "author_str": "Chappell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The plaintiff in error, hereinafter called defendant, was convicted in the district court of Texas county on a charge of larceny of domestic animal, to wit, one cow, and his punishment fixed by the jury at two years' imprisonment in the state reformatory.\nThe evidence of the state is that the defendant was operating the ranch of A.L. Fletcher, and that on the 20th day of November, 1926, he procured one William Mullenax to help him and, leaving the place about 7:30 o'clock in the evening, took the white-faced cow he was charged with stealing, to Liberal, Kan., and sold her to a Mr. Fast; that they reached Liberal about 12 or 1 o'clock; that this cow alleged to be stolen was the property of A.L. Fletcher; that defendant used at least a portion of the money received from the sale of the cow to make a payment on his automobile.\nThe defense of the defendant was that he was in charge of the ranch and cattle belonging to Fletcher and *Page 90 \nhad permission from Fletcher to sell cattle from the premises. There is a clear conflict in the evidence; that of the state sustaining its theory that the cow was stolen, that of the defendant that he was a partner in the increase of stock on the ranch and had permission to sell cattle from said ranch. This conflict was settled by the jury in favor of the state. There is sufficient competent evidence in the record to support the verdict.\nThe defendant contends that the court erred in permitting the state to read the testimony of the witness, William Mullenax, taken at the preliminary hearing, for the reason that no sufficient showing of diligence was made to entitle the state to read the evidence. Defendant in his brief says:\n\"While we do not contend for a moment that the record was changed in any manner, we do contend, however, that the defendant's substantial rights were violated and the statutes abrogated, when the court permitted this evidence to be read under the meager showing made at the trial of this case.\"\nThe state in laying its predicate for the admission of the transcript of the evidence of the witness, called the sheriff, who testified that a subpoena was delivered to him in the case of State of Oklahoma v. George Weil, for witness William Mullenax; that he made diligent search for the witness in Texas county and was unable to find him; and that his whereabouts was unknown. This showing was sufficient to entitle the state to read the transcript of the evidence taken in the preliminary trial.\nThe defendant further contends that the evidence was inadmissible for the reason that the transcript was not taken by an official court reporter and not filed in the district court. The evidence was taken by a stenographer called by the county attorney and paid by the state. This *Page 91 \nstenographer made a transcript of her shorthand notes and identified the same and testified that it was a true and correct copy of the evidence of the witness William Mullenax, taken by her in the preliminary hearing of the defendant. The question raised here was passed on by this court in the case of Pierce v. State, 35 Okla. Crim. 67, 248 P. 654. In the case at bar the objection seems to be directed principally to the contention that there was not sufficient preliminary proof of the absence of the witness. The correctness of the transcript appears not to have been questioned in the lower court and is not questioned here. The state having made a sufficient showing of the absence of the witness from the jurisdiction of the court, the transcript of the evidence was properly admitted.\nThe defendant next contends that the court erred in refusing to give to the jury appellant's requested instruction No. 1. The court on its own motion gave the following instruction:\n\"The court instructs the jury that if you find from the evidence that the defendant honestly and in good faith believed he was authorized by A.L. Fletcher to take, carry away and sell the property mentioned in the information, you will find the defendant not guilty or if you have a reasonable doubt as to whether the defendant honestly and in good faith, believed he was authorized to take, carry away and sell the property mentioned in the information, you will acquit the defendant.\"\nThe defendant made no claim that he was the owner of the cow which he was charged with having stolen. He did claim, however, that under his contract with the owner of the animal stolen, he had a right to sell her. There is no evidence in the record to support the requested instruction. The instruction given by the court sufficiently covered the law of the case as applied to the facts established *Page 92 \nby the evidence and the theory of the defendant in his defense.\nThe defendant next complains that the court erred in giving instruction No. 7, which went to the weight of the evidence and the credibility of the witnesses. This instruction is practically identical with the instruction given in the case of Nelson v. State, 3 Okla. Crim. 468, 106 P. 647; to the same effect is McDaniel v. State, 8 Okla. Crim. 209, 127 P. 358.\nThe evidence being sufficient to support the verdict of the jury, and the errors of law complained of being without merit, the cause is affirmed.\nEDWARDS, P.J., and DAVENPORT, J., concur.",
+            "ocr": false,
+            "opinion_id": 3830655
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5204719,
+    "judges": "McDonald",
+    "date_filed": -184550400000,
+    "date_filed_is_approximate": true,
+    "slug": "thigpen-v-state",
+    "case_name_short": "Thigpen",
+    "case_name": "Thigpen v. State",
+    "case_name_full": "Floyd THIGPEN v. The STATE of Texas",
+    "attorneys": "No attorney of record on appeal, for appellant., Frank Briscoe, Dist. Atty., Carl E. F. Dally, James C. Brough and Edward N. Shaw, Jr., Asst. Dist. Attys., Houston, and Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "375 S.W.2d 722"
+    ],
+    "opinions": [
+        {
+            "author_str": "McDonald",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcDonald, judge.\nThe appellant was convicted of the primary offense of Burglary, and the jury further found that he had been convicted of two prior felony offenses which were alleged for enhancement purposes, under the provisions of Article 63, Vernon\u2019s Ann.P.C. The sentence, life imprisonment in the State Penitentiary.\nThe appellant, his counsel, and the counsel for the State stipulated that the appellant was the same person who had been convicted of the two prior felonies alleged in the indictment for enhancement purposes. It was further stipulated that there was a final conviction of each felony offense alleged before the commission of the next offense alleged in chronological order.\nHouston Police Officers E. P. Rivera and Donald C. Dudley testified that they went to the vicinity of the Askew Drug Store at 2436 McKinney Avenue, in Houston, Harris County, Texas, on February 15, 1963, because the radio dispatcher announced that a burglar was reported in that building. This was about 2:15 A.M. Officer Rivera testified that he saw' appellant, Floyd Thigpen, come out of a window of the drug store building and start running away. Officer Rivera chased appellant about thirty feet, caught him, and handcuffed him. Appellant had a pair of men\u2019s socks on his hands, and inside the window *723from which he had left the building, there was a zipper-type handbag containing assorted bottles of whiskey.\nThe manager of the drug store, Joseph Wheeler, testified that he was notified at 3:00 A.M., February 15th, that the drug store had been burglarized. He went to the drug store and found the officers there with appellant. Inside a broken window to the drug store, he found a brick on the floor, apparently used to break the window. He was given half-pint bottles of whiskey, which had been on the shelves of the store when he closed at 11:00 P.M. the night before, from the zipper bag. He testified that some cigarettes and liquor which were not found in the bag were also missing, and about $120.00 worth was never recovered. The store manager further testified that he had not given appellant or anyone else permission to enter the store after he closed it at 11:00 P.M. the night before.\nAppellant adduced no testimony.\nThere are no formal bills of exception. There were no requests for special charges and no exceptions to the charge to the jury. Appellant\u2019s counsel has not favored us with a brief.\nFive informal bills of exception appearing in the statement of facts reflect that the appellant made numerous objections to the introduction of testimony and evidence, for the reason that the appellant was not taken before a magistrate immediately after his arrest and, consequently, was deprived of constitutional rights. While we do not find that the record shows appellant was not taken before a magistrate after his arrest, assuming that he was not, no error is shown. Beeland v. State, 149 Tex.Cr.App. 272, 193 S.W.2d 687; Campbell v. State, Tex.Cr.App., 358 S.W.2d 376.\nThe evidence is sufficient to support the jury's verdict of guilty in the primary offense of burglary, and the finding that appellant was previously convicted of two felonies less than capital set forth in the indictment on which the judgments have become final against him is fully supported by proper stipulation.\nNo reversible error appearing, the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5027997
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

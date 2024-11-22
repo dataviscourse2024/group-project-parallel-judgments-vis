@@ -1,0 +1,46 @@
+{
+    "id": 5180066,
+    "judges": "Christian",
+    "date_filed": -1268956800000,
+    "date_filed_is_approximate": true,
+    "slug": "wyatt-v-state",
+    "case_name_short": "Wyatt",
+    "case_name": "Wyatt v. State",
+    "case_name_full": "W. E. WYATT v. STATE of Texas",
+    "attorneys": "W. O. Scott, of Dallas, for appellant., A. A. Dawson, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "20 S.W.2d 1117"
+    ],
+    "opinions": [
+        {
+            "author_str": "Christian",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCHRISTIAN, J.\nThe offense is burglary of a railroad car; the punishment, confinement in the penitentiary for three years.\nThe record is before us without a statement of facts or bills of exception. Nothing is presented for review.\nThe judgment is affirmed.\nPER CURIAM. The foregoing opinion of the Commission of Appeals has been examined by the judges of the Court of Criminal Appeals and approved by the court.\n",
+            "ocr": true,
+            "opinion_id": 5001773
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

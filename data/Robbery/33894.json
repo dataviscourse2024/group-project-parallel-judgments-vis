@@ -1,0 +1,47 @@
+{
+    "id": 6128831,
+    "judges": null,
+    "date_filed": 814492800000,
+    "date_filed_is_approximate": false,
+    "slug": "bank-of-new-york-v-colnaghi-usa-ltd",
+    "case_name_short": null,
+    "case_name": "Bank of New York v. Colnaghi USA Ltd.",
+    "case_name_full": "Bank of New York, as Testamentary Trustee of a Trust Created by Joseph S. Stevens v. Colnaghi USA, Ltd.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "220 A.D.2d 327",
+        "633 N.Y.S.2d 18"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Order, Supreme Court, New York County (Herman Cahn, J.), entered on or about June 21, 1994, which, in an action seeking to recover the diminished value of artwork bailed by plaintiff to defendant art gallery, insofar as appealed from, denied plaintiff\u2019s motion for partial summary judgment on the issue of liability, unanimously affirmed, without costs.\nThe record indicates that artwork loaned by plaintiff to defendant gallery for exhibition was stolen from defendant\u2019s premises. The burglars obtained entry through an unalarmed skylight (see, Colnaghi, U.S.A. v Jewelers Protection Servs., 81 NY2d 821). Several years later, the artwork was recovered in damaged condition. Plaintiff, who sues for breach of bailment and seeks damages for the diminished value of the artwork and the cost of repairs, must prove that the theft was caused by defendant\u2019s lack of reasonable care in safeguarding the artwork (Sun Yau Ko v Lincoln Sav. Bank, 99 AD2d 943, affd 62 NY2d 938). Summary judgment as to that issue was properly denied plaintiff, since, as the IAS Court found, issues of fact exist as to whether it was reasonable for defendant to rely on the expertise of the security alarm company that installed its alarm system instead of specifically requesting and checking whether the skylight was alarmed, and to store the artwork in a nonreinforced panel room (see, Voorhis v Consolidated Rail Corp., 60 NY2d 878). Plaintiff\u2019s conclusory assertion, improperly raised for the first time on appeal, that the security alarm company was defendant\u2019s agent, such that the negligence of the former should be imputed to the latter, is without merit. There is no evidence that defendant had control over the company\u2019s installation of the alarm system, directed that no *328alarm be placed on the skylight, or even knew that the skylight had not been alarmed. Nor is there any evidence to suggest that defendant was not entitled to delegate, or improperly delegated, the alarm system installation to the security company (see, Del Signore v Pyramid Sec. Servs., 147 AD2d 759). Concur\u2014Kupferman, J. P., Asch, Williams and Tom, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5994013
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

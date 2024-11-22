@@ -1,0 +1,47 @@
+{
+    "id": 4138311,
+    "judges": "Davidson",
+    "date_filed": -2008627200000,
+    "date_filed_is_approximate": false,
+    "slug": "hasley-v-state",
+    "case_name_short": "Hasley",
+    "case_name": "Hasley v. State",
+    "case_name_full": "Frank Hasley v. the State",
+    "attorneys": "Oscar Callaway  and  Geo. E. Smith,  for appellant.\n\n J.E. Yantis,  Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the County Court of Comanche. Tried below before Hon. J.H. McMillan.\n\nAppeal from a conviction of theft of a chicken; penalty, a fine of $10 and five days confinement in the county jail.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": "<p>Theft of Chicken\u2014Specific Value\u2014Statutes Construed\u2014Requested Charge.</p> <p>Under article 867, Penal Code, which provides that the specific value of domesticated animals and birds must be proved, and the evidence under a prosecution of this article for theft of a chicken did not show such value, although it was alleged, the conviction could not be sustained, especially where a requested charge called this matter to the attention of the court.</p>",
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": "<p>Appeal from the County Court of Comanche. Tried below before Hon. J. H. McMillan.</p> <p>Appeal from a conviction of theft of a chicken; penalty, a fine of $10 and five days confinement in the county jail.</p>",
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b67-7\">\n    Frank Hasley v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b67-8\">\n    No. 3144.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AaY\">\n    Decided May 9, 1906.\n   </decisiondate><br><headnotes data-order=\"3\" data-type=\"headnotes\" id=\"b67-9\">\n    Theft of Chicken\u2014Specific Value\u2014Statutes Construed\u2014Requested Charge.\n   </headnotes><br><headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b67-10\">\n    Under article 867, Penal Code, which provides that the specific value of domesticated animals and birds must be proved, and the evidence under a prosecution of this article for theft of a chicken did not show such value, although it was alleged, the conviction could not be sustained, especially where a requested charge called this matter to the attention of the court.\n   </headnotes><br><summary data-order=\"5\" data-type=\"history\" id=\"b67-11\">\n    Appeal from the County Court of Comanche. Tried below before Hon. J. H. McMillan.\n   </summary><br><summary data-order=\"6\" data-type=\"history\" id=\"b67-12\">\n    Appeal from a conviction of theft of a chicken; penalty, a fine of $10 and five days confinement in the county jail.\n   </summary><br><p data-order=\"7\" data-type=\"summary\" id=\"b67-13\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b67-14\">\n    :\n    <em>\n     Oscar Callaway\n    </em>\n    and\n    <em>\n     Geo. E.\n    </em>\n    Smith, for appellant.\n   </attorneys><br><attorneys data-order=\"9\" data-type=\"attorneys\" id=\"b67-15\">\n<em>\n     J. E. Yantis,\n    </em>\n    Assistant Attorney-General, for the State.\n   </attorneys>",
+    "citations": [
+        "94 S.W. 899",
+        "50 Tex. Crim. 45"
+    ],
+    "opinions": [
+        {
+            "author_str": "Davidson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5749.0,
+            "opinion_text": "Appellant was charged with the theft of a chicken, alleged to be of the value of $2.50. The point is made that the evidence is not sufficient to support the conviction, in that it fails to prove any value of the chicken. Under the peculiar wording of our statute, we believe this point is well taken. Article 867, Penal Code, is, as follows: \"Within the meaning of personal property which may be the subject of theft, are included all domesticated animals and birds, when they are proved to be of any specific value.\" Why the value of the chicken was not shown is not accounted for; but the evidence fails to show any value. The witness proved the chicken was taken, and ordinarily it would seem this should be sufficient to presume the chicken had some value; but the statute requires it must be proved to have some \"specific value.\" This *Page 46 \nwas the legislative will as expressed in the statute, and this court will not go beyond the statute and legislate in regard to the matter. This was particularly called to the attention of the court in a requested instruction, which was refused. The court should have informed the jury that there must be a \"specific value\" proved, and in the absence of it, they should acquit. The statement of facts must show a value. For the reason indicated, the judgment is reversed and the cause remanded.\nReversed and remanded.",
+            "ocr": false,
+            "opinion_id": 3901101
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

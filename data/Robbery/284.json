@@ -1,0 +1,57 @@
+{
+    "id": 7804708,
+    "judges": "Cope, Gersten, Green",
+    "date_filed": 1005091200000,
+    "date_filed_is_approximate": false,
+    "slug": "munos-v-state",
+    "case_name_short": "Munos",
+    "case_name": "Munos v. State",
+    "case_name_full": "Onel MUNOS v. The STATE of Florida",
+    "attorneys": "Onel Munoz, in proper person., Robert A. Butterworth, Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "799 So. 2d 363"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAffirmed.\nGERSTEN and GREEN, JJ., CONCUR.\n",
+            "ocr": true,
+            "opinion_id": 7745384
+        },
+        {
+            "author_str": "Cope",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCOPE, J.\n(concurring).\nContrary to the position of the State, there is a double jeopardy issue. See Cleveland v. State, 587 So.2d 1145 (Fla.1991); Weiss v. State, 720 So.2d 1113 (Fla. 3d DCA 1998), approved, 761 So.2d 318 (Fla.2000). The effect of the defendant\u2019s plea was to waive the double jeopardy issue. Novaton v.. State, 634 So.2d 607 (Fla.1994). Defendant contends that his trial counsel was ineffective for failing to raise the double jeopardy issue.\nEven after eliminating the duplicate offenses, defendant was exposed to a life sentence as a habitual offender. Alternatively, based on the fact that the defendant committed his crime after October 1, 1998, the defendant was also exposed to a life term if he had been sentenced under the guidelines. That is so because under the revised guidelines, the court would be free to impose any sentence up to the legal maximum, which was life imprisonment, without giving an upward departure reason. \u00a7\u00a7 921.0021 et seq., Fla. Stat. (1997).\nIn this home invasion robbery case, the defendant entered the victim\u2019s home, held the victim at gunpoint, tied her up, and placed a coat over the head of the victim\u2019s six-year-old son while the defendant and a coperpetrator ransacked the residence looking for money. In the plea bargain, the defendant agreed to a fifteen-year sentence. On any standard, the fifteen-year habitual offender sentence was a favorable disposition and the defendant has failed to demonstrate that his counsel was ineffective in advising him to enter this plea bargain.\n",
+            "ocr": true,
+            "opinion_id": 7745385
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

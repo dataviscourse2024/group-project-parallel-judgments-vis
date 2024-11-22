@@ -1,0 +1,47 @@
+{
+    "id": 2059647,
+    "judges": "William J. Scott",
+    "date_filed": 12009600000,
+    "date_filed_is_approximate": false,
+    "slug": "the-people-v-keeney",
+    "case_name_short": "Keeney",
+    "case_name": "The PEOPLE v. Keeney",
+    "case_name_full": "The People of the State of Illinois, Appellee, vs. Melvin Keeney, Appellant",
+    "attorneys": "William Bailly, of Rock Island, for appellant., William J. Scott, Attorney General, of Springfield, and James N. DeWulf, State\u2019s Attorney, of Rock Island, (Fred G. Leach, Assistant Attorney General, and Robert C. Shearer, Assistant State\u2019s Attorney, of counsel,) for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b290-5\" pgmap=\"290\">\n    (No. 41516.\n   </docketnumber><br><parties id=\"b290-6\" pgmap=\"290\">\n    The People of the State of Illinois, Appellee, vs. Melvin Keeney, Appellant.\n   </parties><br><decisiondate id=\"b290-8\" pgmap=\"290\">\n    Opinion filed May 20, 1970.\n   </decisiondate><br><attorneys id=\"b290-11\" pgmap=\"290\">\n    William Bailly, of Rock Island, for appellant.\n   </attorneys><br><attorneys id=\"b290-12\" pgmap=\"290\">\n    William J. Scott, Attorney General, of Springfield, and James N. DeWulf, State\u2019s Attorney, of Rock Island, (Fred G. Leach, Assistant Attorney General, and Robert C. Shearer, Assistant State\u2019s Attorney, of counsel,) for the People.\n   </attorneys>",
+    "citations": [
+        "259 N.E.2d 56",
+        "45 Ill. 2d 280"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ward",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n45 Ill. 2d 280 (1970)\n259 N.E.2d 56\nTHE PEOPLE OF THE STATE OF ILLINOIS, Appellee,\nv.\nMELVIN KEENEY, Appellant.\nNo. 41516.\nSupreme Court of Illinois.\nOpinion filed May 20, 1970.\nWILLIAM BAILLY, of Rock Island, for appellant.\nWILLIAM J. SCOTT, Attorney General, of Springfield, and JAMES N. DeWULF, State's Attorney, of Rock Island, (FRED G. LEACH, Assistant Attorney General, and ROBERT C. SHEARER, Assistant State's Attorney, of counsel,) for the People.\nReversed and remanded.\nMr. JUSTICE WARD delivered the opinion of the court:\nThe defendant, Melvin Keeney, having waived a jury in the circuit court of Rock Island County, was found *281 guilty after a bench trial on February 27, 1967, of the crime of rape. He was represented at trial by counsel. His petition for probation was denied and following a hearing in mitigation and aggravation he was sentenced on March 3, 1967, to a term of from two to seven years.\nProceedings following sentencing left an uncommonly tangled trail, to which we shall refer only to the extent necessary to indicate what we consider to be the controlling issue on this appeal.\nThe defendant, acting pro se, filed a notice of appeal in the circuit court of Rock Island County on August 4, 1967. However, Rule 606(b) of our rules declares that \"no appeal may be taken from a trial court to a reviewing court after the expiration of 30 days from the entry of the order or judgment from which the appeal is taken.\" (43 Ill.2d R. 606.) The People accordingly moved to dismiss the notice of appeal as not having been timely. Before the circuit court acted on this motion, the defendant filed a motion for leave to appeal in this court under Rule 606(c). This portion of the rule provides: \"On motion supported by a showing of a reasonable excuse for failure to file a notice of appeal on time, accompanied by the proposed notice of appeal, filed in the reviewing court within six months of the expiration of the time for filing a notice of appeal, the reviewing court may grant leave to appeal and order the clerk to transmit the notice of appeal to the trial court for filing.\" Because we did not find a substantial constitutional question was framed by the motion as presented to us, it was transferred to the Appellate Court for the Third District. The circuit court of Rock Island County later dismissed the notice of appeal which had been filed there as untimely and the appellate court also dismissed the defendant's motion for leave to appeal under Rule 606(c). We subsequently granted the defendant leave to appeal from the dismissal by the appellate court.\nOf the questions posed by the defendant it is necessary *282 for us to consider only whether leave to appeal should have been granted by the appellate court on the defendant's motion under Rule 606(c). Was there a showing by the defendant of reasonable excuse for his failure to have filed a notice of appeal in the circuit court on time so that his motion should have been allowed?\nBecause of his indigency at the time of trial the defendant was unable to engage his own attorney. He did not request the court to appoint an attorney to represent him but he did accept the services of an attorney retained by his aunt and uncle. From the inconclusive record before us it would appear that the attorney retained for the defendant's trial may not have filed a notice of appeal because the defendant did not definitely declare to him his wish to appeal. Or it may have been that there was no filing because there were no financial arrangements made for an appeal in the conferences held between the attorney and the parents and the uncle and aunt of the defendant. The defendant declares that he definitely intended to appeal and never intended to relinquish this right. Also, the defendant urges that the trial judge in advising him of his right to appeal never informed him that a notice of appeal had to be filed no later than 30 days after the entry of the trial court judgment. He was unaware of this time limitation, he says.\nIn the light of all of the circumstances, including a record which is inconclusive as to some questions pertinent here, we believe that the defendant's motion for leave to appeal under Rule 606(c) should have been allowed. We have considered, in forming this conclusion, the spirit in which analogous problems have been viewed. See Shockey v. Illinois, 375 U.S. 22, 11 L. Ed. 2d 43, 84 S. Ct. 83.\nAccordingly, the judgment of the appellate court is reversed and the cause is remanded to that court with directions to proceed in accordance with the views expressed herein.\nReversed and remanded, with directions.\n",
+            "ocr": false,
+            "opinion_id": 2059647
+        }
+    ],
+    "court_short_name": "Illinois Supreme Court",
+    "court_full_name": "Illinois Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Rape"
+}

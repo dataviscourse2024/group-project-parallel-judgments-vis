@@ -1,0 +1,46 @@
+{
+    "id": 6005132,
+    "judges": null,
+    "date_filed": 445737600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-luke-uu",
+    "case_name_short": null,
+    "case_name": "People v. Luke UU.",
+    "case_name_full": "The People of the State of New York v. Luke UU.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "99 A.D.2d 881"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal from a judgment of the Cqunty Court of Chemung County (Monroe, J.), rendered May 27, 1980, which adjudicated defendant a youthful offender. Defendant was indicted for burglary in the second degree and grand larceny in the third degree for his participation in the burglary of a residence in which, in immediate flight therefrom, he and his companion were armed with loaded firearms allegedly stolen from the residence. In exchange for defendant\u2019s guilty plea, the prosecutor agreed not to object to defendant\u2019s being given youthful offender or juvenile treatment and recommended that a minimum sentence of zero to three years be imposed. The plea, which was knowingly and voluntarily made after consultation with counsel, was accepted by the trial court. On May 23, 1980, the date set for sentencing, defendant orally moved to withdraw his plea. The reason withdrawal was being sought was that defendant now claimed he was not guilty of the offense and that, when he pleaded guilty on April 24,1980, he had been in jail since January 30 and did not wish to remain there any longer. It is noteworthy that although defendant had initially been released in his parents\u2019 custody, his arrest and confinement shortly thereafter for another burglary prompted the court to revoke his release and to set bail at $10,000. Counsel also reminded the court defendant was only 15 years of age when the crime was committed and 16 at the time of sentencing. On appeal, it is contended that the trial court erred in denying defendant\u2019s motion without making inquiry into defendant\u2019s reasons for the withdrawal motion. A Judge hearing a motion to withdraw a plea of guilty previously entered \u201cmust exercise his discretion in affording defendant a reasonable opportunity to advance his claims from which an informed and prudent determination can be rendered\u201d {People v Frederick, 45 NY2d 520, 525). Here, defendant\u2019s reasons for the motion were urged on his behalf by his counsel, the Public Defender, and there was nothing in defendant\u2019s demeanor to suggest that counsel had not fully apprised the court of defendant\u2019s position. Having afforded defendant reasonable opportunity to advance his claims, and there being nothing to alert the court to the need to do anything further *882(People v Mangini, 82 AD2d 940), its failure to interrogate defendant personally cannot be said to constitute reversible error. Moreover, as a valid ground for withdrawal is neither asserted nor evident from the record, it appears that defendant\u2019s motion was nothing more than a delaying tactic. Accordingly, the trial court was justified in concluding that no substantive basis for the withdrawal motion existed (People v Johnson, 91 AD2d 782, 783). The claim that an indeterminate sentence of zero to three years was harsh and excessive is meritless. Defendant\u2019s further contention that he should have been committed to the custody of the New York State Division for Youth instead of the Department of Correctional Services has been rendered moot by reason of his having completed serving his sentence. Judgment affirmed. Main, J. P., Casey, Mikoll, Yesawich, Jr., and Levine, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5866933
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

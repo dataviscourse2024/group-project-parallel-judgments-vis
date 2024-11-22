@@ -1,0 +1,46 @@
+{
+    "id": 7995815,
+    "judges": "Bird, Brooke, Kuhn, Moore, Ostrander, Steere, Stone",
+    "date_filed": -1659571200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-smith",
+    "case_name_short": null,
+    "case_name": "People v. Smith",
+    "case_name_full": "PEOPLE v. SMITH",
+    "attorneys": "Thomas J. Mahon and Thomas L. Dalton, for appellants., Charles H. Jasnowski, Prosecuting Attorney, for the people.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law \u2014 Larceny\u2014Evidence\u2014Sufficiency.</p> <p>Evidence held, sufficient to sustain a conviction of both defendants, in a criminal prosecution against two women jointly for stealing money from the person of the prosecuting witness, who was with another man at the time of the commission of the crime who was engaged in conversation by one of defendants, while the other woman, during a conversation with the prosecuting witness, picked the latter\u2019s pocket.</p>",
+    "summary": "Error to recorder\u2019s court of Detroit; Connolly, J. Nellie Smith and Mabel Garson were convicted of stealing and sentenced to imprisonment from six to. nine months in the Detroit house of correction.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": "Submitted April 13, 1917.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "196 Mich. 459"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ostrander",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOstrander, J.\nRespondents are jointly informed against, charged with stealing money from the person of one William Harris, June 8,1916. They were tried together, the trial beginning October 14, 1916, and were found guilty. The record of the judgment is not before us. It is recited in the printed record that they \u201cwere sentenced from six to nine months in the Detroit House of Correction,\u201d but when they were sentenced is not apparent. Another recital is to the effect that on January 19, 1917, \u201cthe court denied motion for new trial, and denied motion to admit to bail.\u201d *460It may be assumed, perhaps, that judgment had been then pronounced, and that the respondents were in confinement. The court gave no reasons for refusing a new trial, no exceptions were taken to the action of the court, and no exception is relied upon or argued in the brief for respondents, for whom the contention is made by counsel:\n\u201cWe, therefore, respectfully submit to this court that, there being no evidence in the record to connect Mabel Garson with the offense charged, she should be discharged, and that in view of the failure of Nellie Smith to have testimony of the witnesses to the alibi produced a new trial should be granted.\u201d\nIt is not claimed that any newly-discovered evidence was, upon the motion for a new trial, brought to the attention of the court, but some affidavits were used upon the motion, and it is to these that the foregoing statement of respondents\u2019 contention refers.\nIn o'utline, the testimony for the people tended to prove that Harris, the complaining witness, and a friend, walking on the evening of June 8th at or near the corner of Hastings and Clinton streets in Detroit, were, or Harris was, accosted by one of the respondents, who were in company. She (both say it was Nellie Smith) expressed a desire to speak to Harris, and they (Harris'and Smith) went into \u201ca sort of doorway,\u201d when, after talking \u201ca half minute,\u201d some one said, \u201cBeat it.\u201d The women ran one way; Harris and his companion the other way. \u201cI got about a half a block, and I felt around for my money, and I saw it was lost.\u201d This from Harris. Later, that evening, he found $5 on the ground at the doorway. In all $60 was taken from his person. No one of the party except Nellie Smith could have taken the money from his person, and if Mabel Garson may be rightfully found guilty, it is because the testimony shows the women to have been in company, and in agreement *461in the adventure; Garson engaging Harris\u2019 friend in conversation, running away when the party broke up, the two women being found together, later in the evening, when they were arrested. Whether they had agreed to commit a crime, and each contributed something towards its commission, was a question submitted to the jury, which was instructed to acquit one, or both, unless satisfied, beyond a reasonable doubt, of guilt. The recorder must have been satisfied, as I am from an examination of the record, that if the testimony of the men is believed, necessary inferences involve both women in the commission of the offense. The men are white men; the respondents are black. They were not acquaintances. The men were accosted; they stopped; Harris was invited into the doorway; his pocket was picked there; an -alarm was made by one of the women; all fled. In a few minutes, when the men returned to the scene, the women were not to be seen. They were later on arrested, on the street, in company. Each of them testified, and respondent Garson denied a personal acquaintance with Nellie Smith; said she had just met her when they were arrested, and that she was not, that night, \u201canywhere near or in the vicinity of Clinton and Hastings\u201d street.\nReversible error is not made out.\nKuhn, C. J., and Stone, Bird, Moore, Steere, Brooke, and Fellows, JJ., concurred.\n",
+            "ocr": true,
+            "opinion_id": 7949508
+        }
+    ],
+    "court_short_name": "Michigan Supreme Court",
+    "court_full_name": "Michigan Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

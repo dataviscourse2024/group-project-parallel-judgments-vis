@@ -1,0 +1,46 @@
+{
+    "id": 688337,
+    "judges": null,
+    "date_filed": 791424000000,
+    "date_filed_is_approximate": false,
+    "slug": "anthony-j-ellis-v-ana-m-olivarez",
+    "case_name_short": null,
+    "case_name": "Anthony J. Ellis v. Ana M. Olivarez",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "46 F.3d 1140"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F3/46/46.F3d.1140.94-16178.html",
+            "author_id": null,
+            "opinion_text": "46 F.3d 1140\n    NOTICE: Ninth Circuit Rule 36-3 provides that dispositions other than opinions or orders designated for publication are not precedential and should not be cited except when relevant under the doctrines of law of the case, res judicata, or collateral estoppel.Anthony J. ELLIS, Petitioner-Appellant,v.ANA M. OLIVAREZ, Respondent-Appellee.\n    No. 94-16178.\n    United States Court of Appeals, Ninth Circuit.\n    Submitted:  Jan. 25, 1995.*\n    Decided:  Jan. 30, 1995.\n    \n      Before:  WALLACE, Chief Judge, HALL and KLEINFELD, Circuit Judges.\n    \n    \n      1\n      MEMORANDUM**\n    \n    \n      2\n      California state prisoner Anthony Jerome Ellis appeals pro se the district court's summary denial of his 28 U.S.C. Sec. 2254 habeas petition challenging his conviction and sentence for burglary.  We have jurisdiction under 28 U.S.C. Sec. 2253 and affirm.\n    \n    \n      3\n      In 1975, Ellis pleaded guilty to a state burglary charge.  In 1992, he committed a second burglary and the state court enhanced his sentence by five years after finding that the 1975 burglary was of an inhabited dwelling and therefore constituted a \"violent felony\" as defined by California Penal Code Sec. 1192.7.\n    \n    \n      4\n      In his habeas petition, Ellis challenged the sentencing enhancement citing concepts of double jeopardy, speedy trial, right to confront witnesses, and ineffective assistance of counsel.  The district court summarily dismissed the petition.\n    \n    \n      5\n      On appeal, Ellis argues that the district court misconstrued his challenge.  He states that the 1975 guilty plea was invalid because the enhancement provision was not then in effect and he therefore lacked notice that, if he committed a future crime, his conviction would be used to enhance his sentence.  We have rejected consistently this argument because courts are required to inform defendants of the direct, but not the collateral, consequences of a guilty plea.  E.g., United States v. Brownlie, 915 F.2d 527, 528 (9th Cir. 1990) (finding a voluntary guilty plea because the possibility that the defendant will be convicted of another offense in the future and will receive an enhanced sentence based on an instant conviction is not a direct consequence of a guilty plea); see also United States v. Ahumada-Avalos, 875 F.2d 681, 684 (9th Cir.)  (per curiam) (sentencing court does not violate ex post facto clause by imposing an enhancement on a defendant when the enhancement was in effect at the time defendant committed the instant offense, even though not in effect at time defendant committed the prior offense), cert. denied, 493 U.S. 837 (1989).  In all other respects, we affirm for the reasons stated in the district court's comprehensive memorandum and order.\n    \n    \n      6\n      AFFIRMED.\n    \n    \n      \n        *\n         The panel unanimously finds this case suitable for decision without oral argument.  Fed. R. App.  P. 34(a); 9th Cir.  R. 34-4\n      \n      \n        **\n         This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by 9th Cir.  R. 36-3\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 688337
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

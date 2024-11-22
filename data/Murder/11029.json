@@ -1,0 +1,46 @@
+{
+    "id": 272470,
+    "judges": "Breitenstein, Hill, Langley",
+    "date_filed": -109123200000,
+    "date_filed_is_approximate": false,
+    "slug": "donald-eugene-davis-v-sherman-h-crouse-warden-kansas-state",
+    "case_name_short": null,
+    "case_name": "Donald Eugene Davis v. Sherman H. Crouse, Warden, Kansas State Penitentiary, Lansing, Kansas",
+    "case_name_full": "Donald Eugene DAVIS, Appellant, v. Sherman H. CROUSE, Warden, Kansas State Penitentiary, Lansing, Kansas, Appellee",
+    "attorneys": "Lloyd Burke Bronston, Kansas City, Kan., for appellant., Daniel D. Metz, Asst. Atty. Gen. of Kansas (Robert C. Londerholm, Atty. Gen., of Kansas, on brief), for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b430-3\">\n    Donald Eugene DAVIS, Appellant, v. Sherman H. CROUSE, Warden, Kansas State Penitentiary, Lansing, Kansas, Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b430-5\">\n    No. 8676.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b430-6\">\n    United States Court of Appeals Tenth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b430-7\">\n    July 18, 1966.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b430-17\">\n    Lloyd Burke Bronston, Kansas City, Kan., for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b430-18\">\n    Daniel D. Metz, Asst. Atty. Gen. of Kansas (Robert C. Londerholm, Atty. Gen., of Kansas, on brief), for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b430-19\">\n    Before BREITENSTEIN and HILL, Circuit Judges, and LANGLEY, District Judge.\n   </p>",
+    "citations": [
+        "363 F.2d 382"
+    ],
+    "opinions": [
+        {
+            "author_str": "Langley",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/363/363.F2d.382.8676_1.html",
+            "author_id": null,
+            "opinion_text": "363 F.2d 382\n    Donald Eugene DAVIS, Appellant,v.Sherman H. CROUSE, Warden, Kansas State Penitentiary,Lansing, Kansas, Appellee.\n    No. 8676.\n    United States Court of Appeals Tenth Circuit.\n    July 18, 1966.\n    \n      1\n      Lloyd Burke Bronston, Kansas City, Kan., for appellant.\n    \n    \n      2\n      Daniel D. Metz, Asst. Atty. Gen. of Kansas (Robert C. Londerholm, Atty. Gen., of Kansas, on brief), for appellee.\n    \n    \n      3\n      Before BREITENSTEIN and HILL, Circuit Judges, and LANGLEY, District judge.\n    \n    \n      4\n      LANGLEY, District Judge.\n    \n    \n      5\n      This appeal is from an order of the United States District Court for the District of Kansas dismissing without a hearing appellant's petition for writ of habeas corpus.  The petition was denied for failure to show exhaustion of available state remedies.\n    \n    \n      6\n      Appellant is presently confined in the Kansas State Penitentiary.  His imprisonment began when he was sentenced by the District Court of Labette County, Kansas, to a term of 10 to 30 years after a plea of guilty to the crime of grand larceny entered September 5, 1952.  Subsequently, on November 15, 1954, in the District Court of Leavenworth County, Kansas, appellant entered pleas of guilty to charges of attempting to escape from the penitentiary and first degree murder.  He was sentenced for these crimes to five years and life imprisonment, respectively.  His petition for writ of habeas corpus was directed initially against the proceedings involving the grand larceny charge, alleging improper sentence.  When the respondent in opposing the granting of the writ pointed out that appellant would not in any event be entitled to release because of the subsequent sentences, appellant amended his petition to include an attack upon the escape and murder sentences.  As to these he alleges the guilty pleas were made as the result of coercion and lack of assistance of counsel at critical stages of the proceedings.\n    \n    \n      7\n      A motion to vacate the Labette County sentence was filed by the appellant on May 19, 1964, pursuant to K.S.A. 60-1507, which was denied.  An appeal was taken to the Supreme Court of Kansas from the orcer denying the motion and was pending at the time the petition for writ of habeas corpus was filed in the United States District Court on October 4, 1965.  No action up to that time had been taken by the appellant in the state courts with respect to the Leavenworth County sentences.  In these circumstances it is clear that the appellant was not entitled to a hearing on his petition, and that it was properly dismissed.  The fact that his motion directed to the Labette County sentence was pending in the Kansas Supreme Court eliminates any contention that his state remedies had been exhausted as to it.  Lee v. State of Kansas, 10 Cir., 346 F.2d 48; Henry v. Tinsley, 10 Cir., 344 F.2d 109.  Further, with the life sentence still in effect, appellant's release could not have been ordered pursuant to his petition for writ of habeas corpus even if the Labette County sentence had been considered on its merits and found to be invalid.  Roberts v. Crouse, 10 Cir., 350 F.2d 299.  As to his claim that his constitutional rights had been denied during the Leavenworth County proceedings by reason of failure of the state to furnish assistance of counsel at the critical stages and because of being coerced into pleas of guilty, these are matters subject to review in the state court under K.S.A. 60-1507.  Until he has exhausted the remedies presently available to him in the Kansas state courts, he is not entitled to have a petition for writ of habeas corpus considered on its merits.  28 U.S.C. 2254.\n    \n    \n      8\n      Affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 272470
+        }
+    ],
+    "court_short_name": "Tenth Circuit",
+    "court_full_name": "Court of Appeals for the Tenth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

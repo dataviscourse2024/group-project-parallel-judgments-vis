@@ -1,0 +1,46 @@
+{
+    "id": 1931661,
+    "judges": "Roberts",
+    "date_filed": -22464000000,
+    "date_filed_is_approximate": false,
+    "slug": "samuel-v-state",
+    "case_name_short": "Samuel",
+    "case_name": "Samuel v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 12,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "222 So. 2d 3"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4055.0,
+            "opinion_text": "\n222 So. 2d 3 (1969)\nNathaniel SAMUEL, Petitioner,\nv.\nThe STATE of Florida, Respondent.\nNo. 38072.\nSupreme Court of Florida.\nApril 16, 1969.\nRehearing Denied May 19, 1969.\n*4 Walter E. Gwinn, Miami, for petitioner.\nEarl Faircloth, Atty. Gen., Arden M. Siegendorf, Asst. Atty. Gen., Richard E. Gerstein, State Atty., and Charles D. Edelstein, Asst. State Atty., for respondent.\nROBERTS, Justice.\nThis cause is before the court on certiorari to review a decision of the District Court of Appeal, Third District, in Samuel v. State, Fla.App. 1968, 215 So. 2d 55. We have jurisdiction under \u00a7 4(2) Article V, Constitution of Florida, F.S.A. to consider the question of law presented, which has been certified by the appellate court as one of great public interest.\nThe question concerns the validity vel non of a search warrant that authorizes the search of a building as well as\n\"* * * the person or all persons therein who shall be connected with, or suspected of being connected with the operating or maintaining of said gaming or gambling games, devices, equipment, paraphernalia * * *.\"\nThe petitioner contended at the trial and appellate levels, and here contends, that the failure of the search warrant to describe with particularity the person or persons to be searched renders it fatally defective and void ab initio under both the statute, \u00a7 933.05, Fla. Stat. 1967, F.S.A., and the Constitution, \u00a7 22, Declaration of Rights, of this state. Relying on its previous decision in State v. Cook, Fla.App. 1968, 213 So. 2d 18, the appellate court upheld the validity of the search warrant. We agree.\nAs used in the warrant, the words \"suspected of being connected with\" the gambling operations mean that the officer may search a person found on the premises covered by the search warrant \u0097 the issuance of which constitutes a judicial determination that there is probable cause to believe that illegal gambling operations are being engaged in thereon \u0097 when he has reasonable grounds to believe that such person is connected with the gambling operation. Cf. State v. Outten, Fla. 1968, 206 So. 2d 392, in which this court upheld as valid an arrest for \"suspicion of auto theft\" in circumstances that would lead a reasonable man to believe that a felony had been committed by the person arrested. See also Dunnavant v. State, Fla. 1950, 46 So. 2d 871, in which we defined \"probable cause\" as\n\"* * * a reasonable ground of suspicion, supported by circumstances sufficiently strong in themselves to warrant a cautious man in the belief that the person accused is guilty of the offense with which he is charged.\"\nThe purpose sought to be achieved by Sec. 22, Declaration of Rights, Fla. Const., has been many times stated by this court and need not be repeated here. Essentially, it declares that the question of \"probable cause\" for the issuance of a search warrant to invade the privacy of our dwelling or person is a judicial question that must be determined by a judge or magistrate before a valid warrant may issue. See Thurman v. State, 1934, 116 Fla. 426, 156 So. 484, 488. A warrant issued solely to search the person of one suspected of having committed a crime would undoubtedly *5 be required to identify such person by name or description in order to be valid on its face. But a warrant to search a building is not rendered invalid by its failure to identify the owner or operator of the premises. He may be named in the warrant if known, see Church v. State, 1942, 151 Fla. 24, 9 So. 2d 164; Harvey v. Drake, Fla. 1949, 40 So. 2d 214. And he may be \"seized\" on the premises \u0097 that is, arrested \u0097 regardless of whether he was named in the search warrant or in a warrant of arrest, if there are reasonable grounds for believing that he is involved in the illegal operation on the premises. Cf. Lemus v. State, Fla.App.2d 1963, 158 So. 2d 143.\nWe do not read into the statutory or constitutional provisions in question a requirement that a warrant particularly describing the building to be searched and the contraband to be seized must also identify, by name or by personal description, the person or persons expected to be found therein and to be searched as an incident to the search of the building. The laws of this state denounce all facets of lotteries, including the possession of lottery tickets or any evidence of any share in a lottery. It would obviously be difficult if not impossible to identify in advance all the persons in a gambling establishment who might be guilty of a violation of the gambling laws. We think that the Sec. 22 organic requirement is satisfied when the judicial determination is made that there is probable cause to believe that the premises are being used for an illegal purpose, such as gambling; and that it is entirely reasonable and proper to search persons found on such premises when there are reasonable grounds to suspect \u0097 that is, believe \u0097 that such persons are engaged in or connected with the unlawful activities that are the subject-matter of the search. Cf. Carroll v. United States, 267 U.S. 132, 45 S. Ct. 280, 69 L. Ed. 543 (adopted as the law of this state in 1927, see Sec. 933.19, Fla. Stat. 1967, F.S.A.) upholding the right of an officer to search an automobile without a warrant \"where the officer acted upon probable cause, that is, upon the belief, reasonably arising out of circumstances known to the seizing officer, that such automobile contained that which by law was made subject to seizure and destruction.\" Thurman v. State, supra, 156 So. at page 487.\nSince we agree with the decision of the appellate court here reviewed, the writ heretofore issued should be and it is hereby\nDischarged.\nERVIN, C.J., and ADKINS and BOYD, JJ., concur.\nDREW, J., dissents.\n",
+            "ocr": false,
+            "opinion_id": 1931661
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

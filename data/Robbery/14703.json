@@ -1,0 +1,46 @@
+{
+    "id": 1906919,
+    "judges": "Per Curiam",
+    "date_filed": 639878400000,
+    "date_filed_is_approximate": false,
+    "slug": "ew-v-brown",
+    "case_name_short": "EW",
+    "case_name": "EW v. Brown",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "559 So. 2d 712"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n559 So.2d 712 (1990)\nE.W., a Child, Petitioner,\nv.\nGeorge A. BROWN, Respondent.\nNo. 90-696.\nDistrict Court of Appeal of Florida, First District.\nApril 12, 1990.\nBarbara Linthicum, Public Defender, Second Judicial Circuit, and Glenna Joyce Reeves, Asst. Public Defender, Tallahassee, for petitioner.\nRobert A. Butterworth, Jr., Atty. Gen., and Gypsy Bailey, Asst. Atty. Gen., Tallahassee, for respondent.\nPER CURIAM.\nPetitioner filed a petition for writ of habeas corpus arguing that his continued detention is illegal. After issuing an order to show cause, we granted relief by unpublished order because of the emergency nature of the relief sought. We now issue this opinion to explicate our reasons for doing so.\nPetitioner, a juvenile, had been in the Special Intensive Group (SIG) Program since December 6, 1989. Petitioner violated the terms of that program and a transfer hearing was held. As a result, the petitioner was to be transferred to a residential facility, conditioned only on placement. Additionally, petitioner was charged separately with grand theft of a motor vehicle in this case and a detention hearing was held on this charge on February 15, 1990. The trial court entered an \"Order for Delinquency Detention.\" The court found petitioner was an escapee from a commitment program or an absconder from or community control program or furlough/aftercare supervision. The order also found petitioner was already detained or had been released and was awaiting final disposition of his case and that he had a record of law violations prior to court hearings and adjudications for serious property offenses. Petitioner was ordered to be detained for 21 days in secure detention only.\nOn March 8, rather than commencing the adjudicatory hearing as required by Section 39.032(6)(b), Florida Statutes (1989), the state filed a motion for extension of detention. At the hearing on the motion for extension, the state contended its burden to show \"good cause\" was met when petitioner's original detention was established. Petitioner argued that the state must show that the adjudicatory hearing was not commenced due to good cause and the state's attempt to show good cause based upon the original detention is insufficient. P.R. v. *713 Johnson, 541 So.2d 791 (Fla. 4th DCA 1989). Over petitioner's objection, the trial court granted the motion and extended petitioner's detention. We note the order of extension failed to set a date certain for review of the extension and the order of extension appears open-ended.\nPetitioner then filed this petition for writ of habeas corpus challenging his extended detention. Section 39.032(6)(b), provides:\nNo child shall be held in nonsecure or secure detention care or a crisis home under a special detention order for more than 21 day unless an adjudicatory hearing for the case has been commenced by the court.\nSubsection (d) of that statute further provides:\nThe time limits of paragraphs (b) and (c) do not include periods of delay resulting from a continuance granted by the court for a good cause shown on motion of the child or his counsel or of the state, or upon motion of the court.\nPetitioner argues that the state failed to establish good cause justifying the failure to commence an adjudicatory hearing within the 21 day period required by Section 39.032(6)(b).\nPetitioner argues that to allow the state to justify its noncompliance with the 21 day rule by showing the child's past criminal record or that his current charges are serious, would effectively repeal the 21 day requirement because the continued detention criteria set for in Section 39.032(3)(a) through (e) authorizes continued detention beyond 24 hours only of children charged with more serious offenses or with a serious prior record. Petitioner argues that if the state's construction of the statute were accepted, good cause for extension could be shown in every case.\nWe issued an order to show cause and respondent shows that when the state filed its motion for extension of detention, petitioner was still awaiting transfer in the original case. Respondent argues that there is no requirement that the adjudicative hearing be completed within 21 days, only that it be commenced. B.J.H. v. State, 433 So.2d 1007 (Fla. 1st DCA 1983). If the state seeks and is granted a continuance before the 21 day period has run, respondent argues that the detention is legal. Respondent asserts that the \"good cause\" requirement was met when the state showed that petitioner had a transfer hearing the previous week and had been transferred from the SIG program and was awaiting placement. Additionally, the record indicated that petitioner had previously absconded and failed to appear.\nWe do not agree. The \"good cause\" requirement of the statute does not relate to the original basis for detention, but to the reason for the delay in the commencement of the adjudicatory hearing process. If the state can show the investigation is incomplete or that a witness is currently unavailable, that would go to establish good cause for an extension of detention. To extend the juvenile's detention based upon the original justification for detention runs counter to the 21 day requirement for commencement of the adjudicatory hearing. To accept respondent's argument would mean that good cause for an extension could be shown in most cases by virtue of the original detention.\nUpon consideration of the foregoing, we found the order extending the detention was improper and we issued the writ of habeas corpus and ordered petitioner's release.\nWrit issued.\nERVIN, ZEHMER and MINER, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1906919
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

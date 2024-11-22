@@ -1,0 +1,47 @@
+{
+    "id": 6112723,
+    "judges": null,
+    "date_filed": 1396310400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-olson",
+    "case_name_short": "Olson",
+    "case_name": "People v. Olson",
+    "case_name_full": "The People of the State of New York v. George Olson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "116 A.D.3d 427",
+        "982 N.Y.S.2d 760"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*428Judgments, Supreme Court, New York County (Carol Berk-man, J.), rendered October 27, 2010, convicting defendant, upon his pleas of guilty, of two counts of burglary in the third degree, and sentencing him, as a second felony offender, to consecutive terms of SVz to 7 years, unanimously affirmed.\nDefendant\u2019s contention that he was convicted of two burglary counts for the same unlawful entry, thereby violating the rule against multiplicitous counts and the corresponding double jeopardy principle, is unpreserved and waived (see People v Gonzalez, 99 NY2d 76, 82 [2002]), and we decline to review it in the interest of justice. As an alternative holding, we reject defendant\u2019s claim on the merits. The record establishes that defendant made successive unlawful entries into two places, each constituting a separate and distinct \u201cbuilding\u201d under the definition contained in Penal Law \u00a7 140.00 (2), and thus committed two separate crimes (see People v Felder, 2 AD3d 365 [1st Dept 2003], lv denied 2 NY3d 799 [2004]; see also People v Frazier, 16 NY3d 36, 41 [2010]). For similar reasons, we reject defendant\u2019s challenges to his waiver of indictment, and to the imposition of consecutive terms. Concur \u2014 Mazzarelli, J.P., Sweeny, Andrias, Manzanet-Daniels and Kapnick, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5977564
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

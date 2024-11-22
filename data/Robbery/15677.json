@@ -1,0 +1,46 @@
+{
+    "id": 1836940,
+    "judges": "Sharp",
+    "date_filed": 1050537600000,
+    "date_filed_is_approximate": false,
+    "slug": "perry-v-state",
+    "case_name_short": "Perry",
+    "case_name": "Perry v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "842 So. 2d 301"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7068.0,
+            "opinion_text": "\n842 So.2d 301 (2003)\nMichael James PERRY, Petitioner,\nv.\nSTATE of Florida, Respondent.\nNo. 5D03-683.\nDistrict Court of Appeal of Florida, Fifth District.\nApril 17, 2003.\n*302 Douglas L. Kirkland of Douglas L. Kirkland, P.A., Ocala, for Petitioner.\nCharles J. Crist, Jr., Attorney General, Tallahassee, and Mary G. Jolley, Assistant Attorney General, Daytona Beach, for Respondent.\nSHARP, W., J.\nMichael James Perry seeks a writ of habeas corpus after his bail was revoked. We agree with the trial judge that the motion to revoke bond was properly granted and thus we deny Perry's petition. However, this case poses an interesting and rarely presented issue of law, which merits being addressed.\nPerry claims his bail was wrongfully revoked after a hearing in which the trial court found probable cause he had committed new crimes while on pretrial release, because the only evidence considered at the hearing was a probable cause affidavit showing Perry had been arrested for armed robbery and false imprisonment. The probable cause affidavit alleged that three individuals went into the victims' home with firearms and woke up all the family members. The family members were all placed into one room. A co-defendant was still in the house when the police arrived, and had a gun pointed to the head of one of the victims. One of the victims later identified Perry as being one of the armed men in the house. Perry was subsequently charged by information with armed burglary and seven counts of kidnapping, based on this incident.\nPerry argues that the probable cause affidavit is hearsay and cannot be relied on as the only basis for making a probable cause determination that he committed a new crime while on pretrial release. He also argues he was denied his \"constitutional\" right to cross-examine the state witness who prepared the affidavit, or to confront the evidence.\nSection 903.0471, Florida Statutes, provides for revocation of bail under the circumstances presented in this case. It states:\nNotwithstanding section 907.041,[1] a court may, on its own motion, revoke pretrial release and order pretrial detention if the court finds probable cause to believe that the defendant committed a new crime while on pretrial release.\nThe constitutionality of this statute has been addressed and upheld by the Florida Supreme Court, in Parker v. State, 2003 WL 1563567, 843 So.2d 871 (Fla.2003). The supreme court held that section 903.0471 is consistent with the pretrial release and detention provision of Article 1, section 14, Florida Constitution, because it assures the integrity of the judicial process. The supreme court also found that section 903.0471 does not violate substantive due process or procedural due process.\nThis proceeding presents the question of what quality of evidence is required in a proceeding brought under section 903.0471, upon which to base a probable cause finding. Can it be based on hearsay evidence, alone, in the form of a probable cause affidavit?\nPerry argues that Florida Rule of Criminal Procedure 3.132(c)(1) requires that an order of pretrial detention not be based exclusively on hearsay evidence. It is the procedural counterpart to section 907.041, the pretrial detention statute. However, *303 section 903.0471 is independent of section 907.041, and the procedures and requirements of the two are different.\nThe supreme court in Parker indicated that the probable cause determination required under section 903.0471 is similar to the probable cause determination which supports an arrest warrant or the probable cause determination made at first appearance.[2]\nIn making a probable cause finding to support an arrest warrant, a judge considers a sworn affidavit prepared by a law enforcement officer. See, e.g., Ryan v. Worch, 755 So.2d 818 (Fla. 2d DCA 2000). It is often based on hearsay information, and sometimes double-hearsay, as the officer may refer to statements made by eyewitnesses who observed the alleged crime and identified the defendant. See Franks v. Delaware, 438 U.S. 154, 98 S.Ct. 2674, 57 L.Ed.2d 667 (1978) (probable cause may be established by hearsay and information received from informants); Johnson v. State, 660 So.2d 648 (Fla.1995), rev. denied, 517 U.S. 1159, 116 S.Ct. 1550, 134 L.Ed.2d 653 (1996) (it is within a magistrate's discretion to determine weight to be given to hearsay and there will be cases in which hearsay alone establishes probable cause).\nIf an arrest warrant is not issued, the judge at first appearance makes a similar probable cause determination. Florida Rule of Criminal Procedure 3.133(a)(3) states that this is a non-adversary determination, and the court should apply the same standard as is required for issuing an arrest warrant. The probable cause finding at first appearances may be based on sworn complaints, affidavits, depositions under oath, or if necessary, on testimony under oath properly recorded.\nFollowing Parker, we conclude that with regard to bail revocations pursuant to section 903.0471, if a defendant has already been arrested in a second case as occurred here, the court may revoke bail in the first case based solely on a probable cause affidavit prepared in the second case for an arrest warrant or a probable cause determination at first appearance. There is no indication in the language of section 903.0471, in contrast to section 907.041, that the Legislature intended there be an adversary hearing or that there be proffered anything other than the kind of evidence required to support an arrest warrant or probable cause determination at first appearances. Nor do the federal or state constitutions or other statutes and rules of this state require anything more.\nPetition for Writ of Habeas Corpus DENIED.\nTHOMPSON, C.J., and MONACO, J., concur.\nNOTES\n[1]  Section 907.041, Florida Statutes (2002), is the pretrial detention and release statute governing the procedure after an arrest.\n[2]  \"Probable cause\" means a reasonable ground of suspicion supported by circumstances strong enough to warrant a cautious person to believe that the named suspect is guilty of the charged offense. See Johnson v. State, 660 So.2d 648, 653 (Fla.1995).\n\n",
+            "ocr": false,
+            "opinion_id": 1836940
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

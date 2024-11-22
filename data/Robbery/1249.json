@@ -1,0 +1,46 @@
+{
+    "id": 8004553,
+    "judges": "Cynar, Gillis, Kaufman",
+    "date_filed": 376704000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-green",
+    "case_name_short": "Green",
+    "case_name": "People v. Green",
+    "case_name_full": "PEOPLE v. GREEN",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cabalan, Prosecuting Attorney, Edward Reilly Wilson, Principal Attorney, Appeals, and William T. Morris, Assistant Prosecuting Attorney, for the people., Gerald S. Surowiec, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted October 13, 1981, at Detroit.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "112 Mich. App. 655"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nDefendant was convicted by plea of attempted breaking and entering, MCL 750.92, 750.110; MSA 28.287, 28.305, and was sentenced to two years probation. During the term of probation, he was convicted by a jury of armed robbery, MCL 750.529; MSA 28.797, and felonious assault, MCL 750.82; MSA 28.277. Based on the felony convictions, defendant was charged with violation of probation. He pled not guilty, and a hearing was held at which the judgments of conviction were established by certified court record. Defendant was found guilty of violation of probation and was sentenced to two to five years in prison. He appeals as of right.\nDefendant contends that use of certified court records to establish the felony convictions denied him the right to confront and cross-examine adverse witnesses. The argument is without merit. Use of certified court records to establish facts recited therein is proper under MCL 600.2106; MSA 27A.2106, and does not deny defendant the right of confrontation. People v Hurst, 59 Mich App 441; 229 NW2d 492 (1975), People v Kirtdoll, 391 Mich 370; 217 NW2d 37 (1974).\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7958904
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

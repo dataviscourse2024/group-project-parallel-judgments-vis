@@ -1,0 +1,46 @@
+{
+    "id": 6182735,
+    "judges": null,
+    "date_filed": -733622400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-ex-rel-noto-v-martin",
+    "case_name_short": "Martin",
+    "case_name": "People ex rel. Noto v. Martin",
+    "case_name_full": "The People of the State of New York ex rel. Michael Noto, against Walter B. Martin, as Warden of Attica State Prison",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "271 A.D.2d 808"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOrder affirmed, without costs of this appeal to either party. Memorandum: The return in this habeas corpus proceeding shows that the relator was convicted of robbery, first degree, by a Kings County jury. Thereafter on February 20, 1939, he was sentenced to a term of from ten to thirty years, and five to ten years additional for being armed with a revolver in the commission of the crime. The certificate of conviction recites \u201c The court finds from the record that the defendant was armed with a dangerous weapon, to wit: a revolver, in the commission of the crime \u201d. The judgment of conviction was affirmed (258 App. Div. 753). The relator now contends that the additional sentence of five to ten years for being armed was unwarranted and illegal. We have examined the record on appeal (258 App. Div. 753) and find that evidence presented upon the trial was ample to justify the sentencing court in finding that at the time of the commission of the crime, relator was armed with a revolver. (See People v. Caruso, 249 N. Y. 302.) Relator\u2019s contention that section 1944 of the Penal Law providing additional punishment for being armed subjected him to double jeopardy is also without merit. (People ex rel. Fiannaca v. Hunt, 257 App. Div. 910.) All concur. (The order dismisses a writ of habeas corpus and remands relator to the custody of defendant.) Present \u2014 Taylor, P. J., Dowling, Harris, MeCusn and Love, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6048782
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

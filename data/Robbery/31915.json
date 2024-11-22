@@ -1,0 +1,46 @@
+{
+    "id": 5721923,
+    "judges": "Fish",
+    "date_filed": -2118700800000,
+    "date_filed_is_approximate": false,
+    "slug": "mahlay-v-state",
+    "case_name_short": "Mahlay",
+    "case_name": "Mahlay v. State",
+    "case_name_full": "Mahlay v. State",
+    "attorneys": "Robert L. Golding and John R. Cooper, for plaintiff in error., W.' W. Osborne, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for attempt to commit robbery. Before Judge Barrow. Chatham superior court. June 24, 1902.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued October 21,",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "116 Ga. 522"
+    ],
+    "opinions": [
+        {
+            "author_str": "Fish",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nFish, J.\nThis case is controlled by the decision this day rendered in Groves v. State.'\n\nJudgment reversed.\n\n\nAll the Justices concurring, except Lumpkin, P. J., absent, and Candler, J., not presiding \u25a0\n\n",
+            "ocr": true,
+            "opinion_id": 5572088
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6030377,
+    "judges": null,
+    "date_filed": 540518400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-robledo",
+    "case_name_short": "Robledo",
+    "case_name": "People v. Robledo",
+    "case_name_full": "The People of the State of New York v. William Robledo",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "127 A.D.2d 804"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Orange County (Ritter, J.), rendered September 30, 1981, convicting him of robbery in the second degree and burglary in the third degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant contends that he was deprived of the effective assistance of counsel due to excessive racial references made by his attorney during the trial. We disagree. Defense counsel\u2019s comments were apparently an attempt to establish that there had been a misidentification of the defendant by exploiting what he perceived to be a discrepancy between the description of the perpetrator given by the complaining witness and the defendant\u2019s actual appearance. This was not ineffective assistance of counsel but a matter of trial strategy which does not afford a basis for reversal (see, People v Satterfield, 66 NY2d 796; People v Baldi, 54 NY2d 137).\nFurther, we hold that the evidence adduced at the trial was sufficient to prove the defendant\u2019s guilt beyond a reasonable doubt (see, People v Foster, 64 NY2d 1144, cert denied \u2014 US *805\u2014, 106 S Ct 166). Lawrence, J. P., Kunzeman, Spatt and Sullivan, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5893274
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

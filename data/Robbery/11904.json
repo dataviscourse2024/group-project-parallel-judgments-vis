@@ -1,0 +1,47 @@
+{
+    "id": 1433285,
+    "judges": "Hunter",
+    "date_filed": -93139200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-snider",
+    "case_name_short": "Snider",
+    "case_name": "State v. Snider",
+    "case_name_full": "The State of Washington, Respondent, v. James Lee Snider, Defendant, Francis Eugene Olson, Appellant",
+    "attorneys": "Norman S. Johnson, for appellant (Appointed counsel for appeal)., George A. Kain and Donald C. Brockett, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 36,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b352-4\">\n    [No. 38670.\n   </docketnumber><court id=\"ANy\">\n    Department One.\n   </court><decisiondate id=\"AIF\">\n    January 19, 1967.]\n   </decisiondate><br><parties id=\"b352-5\">\n    The State of Washington,\n    <em>\n     Respondent,\n    </em>\n    v. James Lee Snider,\n    <em>\n     Defendant,\n    </em>\n    Francis Eugene Olson, Appellant.\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n</parties><br><attorneys id=\"b352-12\">\n<em>\n     Norman S. Johnson,\n    </em>\n    for appellant (Appointed counsel for appeal).\n   </attorneys><br><attorneys id=\"b352-13\">\n<em>\n     George A. Kain\n    </em>\n    and\n    <em>\n     Donald C. Brockett,\n    </em>\n    for respondent.\n   </attorneys><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"AGp4\">\n     Reported in 422 P.2d 816.\n    </p>\n</div></div>",
+    "citations": [
+        "422 P.2d 816",
+        "70 Wash. 2d 326"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hunter",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5981.0,
+            "opinion_text": "\n70 Wash. 2d 326 (1967)\n422 P.2d 816\nTHE STATE OF WASHINGTON, Respondent,\nv.\nJAMES LEE SNIDER, Defendant, FRANCIS EUGENE OLSON, Appellant.[*]\nNo. 38670.\nThe Supreme Court of Washington, Department One.\nJanuary 19, 1967.\nNorman S. Johnson, for appellant (Appointed counsel for appeal).\nGeorge A. Kain and Donald C. Brockett, for respondent.\nHUNTER, J.\nDefendant (appellant) Francis Olson was charged and convicted of the offense of robbery in the forceful taking of a billfold and wristwatch from the complaining witness, Charles Spencer. He appeals, contending that the trial court erred in refusing to give a requested instruction on larceny as the lesser included offense in the crime of robbery.\n[1] A criminal defendant is not entitled to an instruction on a lesser included offense merely because he makes such a request. To justify such an instruction there must *327 be some basis in the evidence produced at trial positively inferring that the lesser crime was committed and upon which the jury could make a finding as to the lesser included offense. State v. Gallagher, 4 Wash. 2d 437, 103 P.2d 1100 (1940).\nAt the trial, the defendant denied taking any property whatsoever, although he did not deny accosting the victim, Spencer. The testimony of Spencer was to the effect that the property had been taken from him by force and when he was placed in fear. A codefendant, James Lee Snider, who had earlier pleaded guilty to grand larceny, stated that he saw Spencer and the defendant fighting. Snider further testified that he went over to where they were fighting, and noticed Spencer was on the pavement, and saw the defendant Olson with some money and a wallet in his hands. Snider said that he then pulled the wristwatch from the arm of Spencer and fled with Olson to Snider's nearby car.\nUnder these facts, the defendant was either guilty of robbery or not guilty. As there was no evidence to support an instruction on larceny from the person, the trial court properly disregarded the proposed instruction.\nThe defendant contends that the trial court erred by not granting a new trial on the basis that contradictions in the testimony establish reasonable doubt that the defendant was guilty of robbery. This assignment of error is without merit.\n[2] It is the function and province of the jury to weigh the evidence, to determine the credibility of the witnesses, and to decide the disputed questions of fact. State v. McDaniels, 30 Wash. 2d 76, 190 P.2d 705 (1948). The conflicts in the evidence merely present a question of fact for the jury. State v. Kirkby, 20 Wash. 2d 455, 147 P.2d 947 (1944). The jury is the sole and exclusive judge of the evidence, the weight to be given thereto, and the credibility of the witnesses. This court will not reverse if there is substantial evidence to support the jury findings. State v. Davis, 53 Wash. 2d 387, 333 P.2d 1089 (1959).\nBy his last assignment of error, the defendant contends that the trial court erred in proceeding with the trial on *328 November 2, 1965, since it was a legal holiday (election day) of the state and all proceedings were therefore null and void.\n[3] We disagree. When this issue arose in the trial court, the parties made it a matter of record that the defendant had consented to proceed on the date in question. In State ex rel. Walter v. Superior Court, 49 Wash. 1, 94 P. 665 (1908), a trial had proceeded on two nonjudicial days. We held in that case that we would not declare a judgment void on the complaint of a consenting litigant who objects for the first time upon appeal.\nThe judgment is affirmed.\nHILL, ROSELLINI, and HALE, JJ., and JAMES, J. Pro Tem., concur.\nMarch 15, 1967. Petition for rehearing denied.\nNOTES\n[*]  Reported in 422 P.2d 816.\n\n",
+            "ocr": false,
+            "opinion_id": 1433285
+        }
+    ],
+    "court_short_name": "Washington Supreme Court",
+    "court_full_name": "Washington Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Washington, WA",
+    "crime_category": "Robbery"
+}

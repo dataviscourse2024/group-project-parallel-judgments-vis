@@ -1,0 +1,46 @@
+{
+    "id": 6045265,
+    "judges": null,
+    "date_filed": 595468800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-glover",
+    "case_name_short": "Glover",
+    "case_name": "People v. Glover",
+    "case_name_full": "The People of the State of New York v. Peter Glover",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "144 A.D.2d 483"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Huttner, J.), rendered December 4, 1986, convicting him of robbery in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant contends that the trial court erred in refusing to charge petit larceny as a lesser included offense of robbery in the second degree. We disagree.\nUnder no reasonable view of the evidence could the jury have found that the defendant committed petit larceny without having also committed robbery in the second degree as charged (see, CPL 300.50 [1]; People v White, 121 AD2d 762, lv denied 68 NY2d 774; People v Heath, 120 AD2d 746, lv denied 68 NY2d 757; People v Wedgeworth, 104 AD2d 915). Nor was there a rational basis by which the jury could reject the testimony of the People\u2019s witnesses regarding the display of the gun yet accept that the defendant committed the theft (see, People v Blim, 63 NY2d 718; People v White, supra, at 763). Under the circumstances, the trial court properly refused to charge petit larceny since to do so would have compelled the jury to resort to sheer speculation (see, People v Scarborough, 49 NY2d 364; People v Wedgeworth, supra, at 917).\nWe have examined the defendant\u2019s remaining contentions and find them to be either unpreserved for appellate review or without merit. Kunzeman, J. P., Weinstein, Rubin and Kooper, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5908590
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

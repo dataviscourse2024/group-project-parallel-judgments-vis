@@ -1,0 +1,47 @@
+{
+    "id": 6137519,
+    "judges": "Centra, Dejoseph, Lindley, Sconiers, Valentino",
+    "date_filed": 1403222400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-miller",
+    "case_name_short": null,
+    "case_name": "People v. Miller",
+    "case_name_full": "The People of the State of New York v. Damien L. Miller",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "118 A.D.3d 1463",
+        "987 N.Y.S.2d 786"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal, by permission of a Justice of the Appellate Division of the Supreme Court in the Fourth Judicial Department, from an order of the Supreme Court, Erie County (Penny M. Wolfgang, J.), dated February 29, 2012. The order denied the motion of defendant to set aside his sentence pursuant to CPL 440.20.\n*1464It is hereby ordered that the order so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from an order denying his motion pursuant to CPL 440.20 seeking to set aside the sentence imposed in 2004 with respect to his conviction of assault in the first degree (Penal Law \u00a7 120.10 [1]). The sentence sought to be set aside by defendant is a determinate term of imprisonment of 15 years plus five years of postrelease supervision (PRS), imposed upon him as a second violent felony offender. The predicate offense was a 2000 conviction of burglary in the second degree, for which defendant was sentenced to a determinate term of imprisonment without a term of PRS. Pursuant to Penal Law \u00a7 70.85, defendant was resentenced in 2011 on the burglary conviction to correct the sentencing court\u2019s failure to impose PRS (see generally People v Sparber, 10 NY3d 457, 464-465 [2008]).\nIn the instant motion, defendant contended that, because he was not lawfully sentenced on the burglary conviction until 2011, he should not be subject to an enhanced sentence on the previously entered assault conviction. Supreme Court denied defendant\u2019s motion, and a Justice of this Court granted defendant permission to appeal (see CPL 460.15). We now affirm. In People v Boyer (22 NY3d 15 [2013]), the Court of Appeals made clear that \u201ca resentencing to correct the flawed imposition of PRS does not vacate the original sentence and replace it with an entirely new sentence, but instead merely corrects a clerical error and leaves the original sentence, along with the date of that sentence, undisturbed\u201d (id. at 24; see People v Gathor, 115 AD3d 612, 613 [2014]). \u201cBecause the date defendant received a lawful sentence on a valid conviction [of burglary in the second degree] precedes the date of conviction for the instant offense, it qualifies as a prior [violent] felony conviction\u201d (People v Wood, 115 AD3d 613, 613 [2014], lv denied 22 NY3d 1204 [2014]). We thus conclude that there is no basis upon which to set aside the sentence imposed on defendant as a second violent felony offender.\nPresent\u2014Centra, J.R, Lindley, Sconiers, Valentino and DeJoseph, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6002822
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

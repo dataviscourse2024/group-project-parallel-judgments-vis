@@ -1,0 +1,46 @@
+{
+    "id": 6015934,
+    "judges": null,
+    "date_filed": 486604800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-stephenson",
+    "case_name_short": "Stephenson",
+    "case_name": "People v. Stephenson",
+    "case_name_full": "The People of the State of New York v. John Stephenson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "111 A.D.2d 774"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from a judgment of the County Court, Nassau County (Delin, J.), rendered May 6, 1983, convicting him of burglary in the first degree, upon his plea of guilty, and imposing sentence.\nJudgment affirmed.\nDefendant failed to raise his objections to the adequacy of his plea allocution in the court of first instance and accordingly has not preserved his claims for appellate review (People v Hoke, 62 NY2d 1022; People v Pellegrino, 60 NY2d 636). In any event, we find that the allocution established the requisite elements of burglary in the first degree and that defendant knowingly and intelligently pleaded guilty thereto (see, People v Harris, 61 NY2d 9).\nIn conclusion, we note that the imposed sentence of 3 \u00a52 to 10\u00a52 years\u2019 imprisonment, which was actually a lesser term than that bargained for by defendant, was appropriate under the circumstances of this case. Thompson, J. P., Brown, Niehoff and Lawrence, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5878328
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

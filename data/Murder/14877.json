@@ -1,0 +1,47 @@
+{
+    "id": 1263669,
+    "judges": "Hines",
+    "date_filed": 910569600000,
+    "date_filed_is_approximate": false,
+    "slug": "smith-v-state",
+    "case_name_short": null,
+    "case_name": "Smith v. State",
+    "case_name_full": "Smith v. the State",
+    "attorneys": "John O. Ellis, Jr., for appellant., J. Tom Morgan, District Attorney, Barbara B. Conroy, Maria Murder-Ashley, Assistant District Attorneys, Thurbert E. Baker, Attorney General, Paula K. Smith, Senior Assistant Attorney General, Jayson Phillips, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b165-12\">\n    S98A0672.\n   </docketnumber><parties id=\"AuJ\">\n    SMITH v. THE STATE.\n   </parties><br><citation id=\"b165-13\">\n    (508 SE2d 173)\n   </citation>",
+    "citations": [
+        "508 S.E.2d 173",
+        "270 Ga. 123"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hines",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4086.0,
+            "opinion_text": "\n508 S.E.2d 173 (1998)\n270 Ga. 123\nSMITH\nv.\nThe STATE.\nNo. S98A0672.\nSupreme Court of Georgia.\nNovember 9, 1998.\nJohn O. Ellis, Jr., Decatur, for Clarence V. Smith.\nJohn Thomas Morgan III, Dist. Atty., Barbara Blaine Conroy, Maria Murcier-Ashley, *174 Asst. Dist. Attys., Decatur, Thurbert E. Baker, Atty. Gen., James Jayson Phillips, Asst. Atty. Gen., Paula K. Smith, Senior Asst. Atty. Gen., Department of Law, Atlanta, for the State.\nHINES, Justice.\nClarence V. Smith appeals his convictions and sentences for malice murder and aggravated assault.[1] For the reasons which follow, we affirm.\nSmith dated Tomeca Stevenson from 1994 until January of 1996. Two to three months after ending her relationship with Smith, Stevenson began dating Caleb Walls. During a telephone conversation with Stevenson, approximately one to two weeks before the crimes occurred, Smith threatened to kill both Stevenson and Walls.\nIn the early morning hours of June 1, 1996, Stevenson and Walls finished work, went to the grocery store and returned to Stevenson's apartment about 2:00 a.m. Stevenson and Walls went to sleep in the same bed at approximately 3:15 a.m. Around 6:30 a.m., Stevenson awoke to the sounds of Smith kicking in her apartment door. Smith entered the apartment, went into Stevenson's bedroom, and shot Walls eleven times with a nine millimeter pistol. After shooting Walls, Smith hit Stevenson with the pistol and kicked her, causing an injury to her head which required ten stitches and an injury to her side which required three stitches. Stevenson fled to her sister's apartment in the same complex, and Smith left the scene. Later that day, police found him hiding in a shed behind the house of another ex-girlfriend. Smith still possessed the pistol and threatened to commit suicide; he surrendered after about two hours of negotiation.\n1. Viewed to support the verdicts, the evidence was sufficient to authorize a rational trier of fact to conclude beyond a reasonable doubt that Smith was guilty of malice murder and aggravated assault. Jackson v. Virginia, 443 U.S. 307, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979).\n2. Stevenson testified that Smith told her that \"he wasn't going to see me with anybody else ... before he would see me with someone else, he would see me dead,\" and that \"he was going to kill Caleb ... he swore on his grandmother's grave, that he was going to kill him.\" Smith objected that this testimony showed \"prior difficulties\" between Smith and the victims, that the State had not provided Smith with proper notice, and that the court had not held a hearing as required under Rules 31.1 and 31.3 of the Uniform Superior Court Rules (USCR). Smith cites Maxwell v. State, 262 Ga. 73, 75, 414 S.E.2d 470 (1992), for the proposition that it was error to admit this evidence without compliance with USCR 31.1 and 31.3. Maxwell was overruled in Wall v. State, 269 Ga. 506, 509, 500 S.E.2d 904 (1998), wherein this Court specifically held that USCR 31.1 and 31.3 would not apply to evidence of \"prior difficulties\" between a defendant and a victim. Consequently, Smith's argument is meritless.\nJudgments affirmed.\nAll the Justices concur.\nNOTES\n[1]  The crimes were committed on June 1, 1996. Smith was indicted by a DeKalb County grand jury in the July 1996 term for malice murder, aggravated assault, and assault. He was tried before a jury June 23-25, 1997, and found guilty of malice murder and aggravated assault; no verdict was returned on assault. Smith received a sentence of life in prison for malice murder, and a consecutive sentence of ten years for aggravated assault. He filed a notice of appeal on July 23, 1997, and his appeal was docketed in this Court on January 22, 1998. The appeal was submitted for decision without oral argument on March 16, 1998.\n\n",
+            "ocr": false,
+            "opinion_id": 1263669
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

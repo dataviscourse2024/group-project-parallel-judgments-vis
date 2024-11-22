@@ -1,0 +1,47 @@
+{
+    "id": 6148505,
+    "judges": null,
+    "date_filed": 862790400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-williams",
+    "case_name_short": null,
+    "case_name": "People v. Williams",
+    "case_name_full": "The People of the State of New York v. Rodney Williams",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "239 A.D.2d 368",
+        "657 N.Y.S.2d 996"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Gerges, J.), rendered April 17, 1995, convicting him of robbery in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nWe disagree with the defendant\u2019s contention that his arrest was not supported by probable cause. It is well settled that \"[pjrobable cause requires the existence of facts and circumstances which, when viewed in their totality, would lead a reasonable person possessing the same expertise as the arresting officer to conclude that an offense or crime has been or is being committed and that the person to be arrested is the perpetrator\u201d (People v Starr, 221 AD2d 488, 489). In this case, a police officer personally observed the defendant taking part in a robbery and then pursued him as he fled. Moreover, the officer pointed out the defendant to a second police officer who joined in the chase and apprehended the defendant. Additionally, immediately after the defendant\u2019s apprehension, the first police officer confirmed his identity as one of the robbers (see, People v Williams, 191 AD2d 527). Accordingly, there was probable cause to support the defendant\u2019s arrest (see, People v De Bour, 40 NY2d 210; People v Jimenez, 187 AD2d 610).\nThe defendant\u2019s contention that he was exhibited to the victim in an impermissibly suggestive showup procedure is similarly unavailing inasmuch as the victim never identified the defendant at any point prior to or during the trial. Rosenblatt, J. P., Sullivan, Pizzuto and Friedmann, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6014017
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

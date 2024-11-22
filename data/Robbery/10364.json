@@ -1,0 +1,47 @@
+{
+    "id": 1144033,
+    "judges": "Per Curiam",
+    "date_filed": 92707200000,
+    "date_filed_is_approximate": false,
+    "slug": "reedy-v-state",
+    "case_name_short": "Reedy",
+    "case_name": "Reedy v. State",
+    "case_name_full": "George Ruben Reedy, Appellant, v. State of Kansas, Appellee",
+    "attorneys": "Daniel S. Garrity, of Coombs and Brick, of Wichita, was on the brief for the appellant., Vern Miller, attorney general, Keith Sanborn, county attorney, and R. K. Hollingsworth, deputy county attorney, were on the brief for the appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b831-5\">\n    No. 46,791\n   </docketnumber><br><parties id=\"b831-6\">\n    George Ruben Reedy,\n    <em>\n     Appellant,\n    </em>\n    v. State of Kansas,\n    <em>\n     Appellee.\n    </em>\n</parties><br><citation id=\"b831-7\">\n    (504 P. 2d 146)\n   </citation><decisiondate id=\"AqK\">\n    Opinion filed December 9, 1972.\n   </decisiondate><br><attorneys id=\"b831-11\">\n<em>\n     Daniel S. Garrity,\n    </em>\n    of Coombs and Brick, of Wichita, was on the brief for the appellant.\n   </attorneys><br><attorneys id=\"b831-12\">\n<em>\n     Vern Miller,\n    </em>\n    attorney general,\n    <em>\n     Keith Sanborn,\n    </em>\n    county attorney, and\n    <em>\n     R. K. Hollingsworth,\n    </em>\n    deputy county attorney, were on the brief for the appellee.\n   </attorneys>",
+    "citations": [
+        "504 P.2d 146",
+        "210 Kan. 793"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n210 Kan. 793 (1972)\n504 P.2d 146\nGEORGE RUBEN REEDY, Appellant,\nv.\nSTATE OF KANSAS, Appellee.\nNo. 46,791\nSupreme Court of Kansas.\nOpinion filed December 9, 1972.\nDaniel S. Garrity, of Coombs and Brick, of Wichita, was on the brief for the appellant.\nVern Miller, attorney general, Keith Sanborn, county attorney, and R.K. Hollingsworth, deputy county attorney, were on the brief for the appellee.\nMEMORANDUM OPINION\nCRIMINAL LAW \u0097 Motion to Vacate \u0097 Evidentiary Hearing Denied.\nPer Curiam:\nThis is an appeal from an order of the district court of Sedgwick county overruling petitioner's motion to vacate (K.S.A. 60-1507). The question presented is whether the court erred in overruling petitioner's motion without granting an evidentiary hearing.\nPetitioner was arrested pursuant to complaint dated March 25, 1970, charging him with first degree robbery (K.S.A. 21-527) committed the previous day. He was taken before a magistrate, bond was set, he was declared indigent and an attorney appointed. He was represented by counsel at the preliminary hearing April 24, 1970, and bound over to the district court. April 28, 1970, petitioner's case came on for arraignment and, represented by the same appointed counsel, he waived arraignment, jury trial and formal reading of the information and pled guilty. He was sentenced to not less than ten nor more than twenty-one years.\nFebruary 3, 1972, petitioner filed, pro se, his motion to vacate. His only ground for relief was that he had been denied the right to be placed in a \"lineup of identification procedure\" in violation of the fifth, sixth and fourteenth amendments to the federal constitution. The motion and memorandum attached did not allege any facts to show how identification of the prisoner was made. An accused has the right to a fairly conducted identification procedure but no special right to be placed in a lineup. Petitioner presented no facts as to the identification procedure in his motion and attached memorandum. Authorities cited by petitioner involve the right of an accused to a fair lineup and the presence of an attorney, where a lineup procedure is used.\n*794 The trial court denied the motion without an evidentiary hearing. Where a proceeding is brought under K.S.A. 60-1507 and files and records conclusively show the prisoner is not entitled to relief, it is not required that formal plenary hearing be held (Smith v. State, 199 Kan. 293, 429 P.2d 103). The record here reveals petitioner's plea was made with advice of counsel pursuant to the trial court's questions: \"Are you pleading guilty because you are guilty? ... In other words, on or about the 24th day of March, you took about $200.00 in currency from the Payless Store down on South Seneca? And a Timex watch belonging to Ellis Hamilton; in the presence of, and against the will of Ellis Hamilton; is that correct?\"\nPetitioner does not contend that the facts presented by his motion make a prima facie case of unconstitutional identification procedure, but contends the very vagueness and silence of the record as to method of identification of defendant as prime suspect should have raised a question in the court's mind sufficient to warrant an evidentiary hearing. He cites Kansas cases reversing convictions based on coerced pleas. Since the matter of the voluntariness of the plea was not raised in the 1507 motion, but only by the trial court in its opinion, these case are not applicable. The record as to the voluntariness of the plea was much more complete than the record concerning identification procedures. The plea was made with advice of counsel. There is no allegation of incompetency of counsel in the 1507 motion or elsewhere. Petitioner's motion and memorandum presented no issue of fact or law for consideration and denial of evidentiary hearing was warranted.\nJudgment affirmed.\n",
+            "ocr": false,
+            "opinion_id": 1144033
+        }
+    ],
+    "court_short_name": "Supreme Court of Kansas",
+    "court_full_name": "Supreme Court of Kansas",
+    "court_type": "S",
+    "court_jurisdiction": "Kansas, KS",
+    "crime_category": "Robbery"
+}

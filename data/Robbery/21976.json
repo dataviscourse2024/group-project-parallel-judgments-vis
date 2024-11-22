@@ -1,0 +1,47 @@
+{
+    "id": 3287031,
+    "judges": "Craig, Finlayson, Works",
+    "date_filed": -1478908800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-clark",
+    "case_name_short": null,
+    "case_name": "People v. Clark",
+    "case_name_full": "The PEOPLE, Respondent, v. J. B. CLARK, Appellant",
+    "attorneys": "Morris & Rosin for. Appellant., U. S. Webb, Attorney-General, and John W. Maltman, Deputy Attorney-General, for Respondent.",
+    "nature_of_suit": null,
+    "posture": "APPEAL from a judgment of the Superior Court of Los Angeles County and from an order denying a new trial. John W. Shenk, Judge. Affirmed.\n\nThe facts are stated in the opinion of the court.",
+    "syllabus": null,
+    "headnotes": "<p>[1] Criminal Law\u2014Evidence\u2014.Impeachment of Defendant.\u2014Where \u25a0a defendant in a criminal case takes the witness-stand in his own behalf he may be impeached by testimony that his general reputation for truth, honesty, and integrity is bad.</p> <p>[2] Id.-\u2014Dismissal of Information\u2014Insufficiency of Evidence. Section 1382 of the Penal Code fixes the grounds upon which a motion may be made to dismiss an information, and a motion for a dismissal upon the ground that the evidence fails to show the guilt of the defendant is not one of them.</p>",
+    "summary": "APPEAL from a judgment of the Superior Court of Los Angeles County and from an order denying a new trial. John W. Shenk, Judge. The facts are stated in the opinion of the court.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 9,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b78-8\">\n    [Crim. No. 911.\n   </docketnumber><court id=\"APb\">\n    Second Appellate District, Division Two.\n   </court><decisiondate id=\"A5e\">\n    February 20, 1923.]\n   </decisiondate><br><parties id=\"b78-10\">\n    THE PEOPLE, Respondent, v. J. B. CLARK, Appellant.\n   </parties><br><headnotes id=\"b78-11\">\n<bracketnum>\n     [1]\n    </bracketnum>\n    Criminal Law\u2014Evidence\u2014.Impeachment of Defendant.\u2014Where \u25a0a defendant in a criminal case takes the witness-stand in his own behalf he may be impeached by testimony that his general reputation for truth, honesty, and integrity is bad.\n   </headnotes><br><headnotes id=\"b78-12\">\n<bracketnum>\n     [2]\n    </bracketnum>\n    Id.-\u2014Dismissal of Information\u2014Insufficiency of Evidence. Section 1382 of the Penal Code fixes the grounds upon which a motion may be made to dismiss an information, and a motion for a dismissal upon the ground that the evidence fails to show the guilt of the defendant is not one of them.\n   </headnotes><br><summary id=\"b78-13\">\n    APPEAL from a judgment of the Superior Court of Los Angeles County and from an order denying a new trial. John W. Shenk, Judge.\n   </summary><disposition id=\"A8f\">\n    Affirmed.\n   </disposition><br><summary id=\"b78-14\">\n    The facts are stated in the opinion of the court.\n   </summary><br><attorneys id=\"b78-15\">\n    Morris &amp; Rosin for. Appellant.\n   </attorneys><br><attorneys id=\"b78-16\">\n    U. S. Webb, Attorney-General, and John W. Maltman, Deputy Attorney-General, for Respondent.\n   </attorneys>",
+    "citations": [
+        "214 P. 248",
+        "61 Cal. App. 46"
+    ],
+    "opinions": [
+        {
+            "author_str": "Works",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "This is an appeal from a judgment of conviction of the crime of robbery and from an order denying the motion of defendant for a new trial.\n[1] At the trial the court, over the objection of appellant, admitted the testimony of certain witnesses concerning the general reputation of appellant for truth, honesty and integrity. Appellant contends that, as he offered no evidence of his character, the trial court was in error in admitting the testimony in question. In making this point appellant overlooks the distinction between the status of a party to an action, strictly as such, and the position occupied by a party when he becomes a witness. Here appellant took the witness-stand in his own behalf and the evidence to which objection is made was admitted after he had done so. The exact point now urged by appellant was passed upon by us in a recent case. \"From a very early date it has been held, time and again, that when the defendant in a criminal case testifies for himself . . . he, for the time being, removes from himself the character of a defendant, and takes on that of a witness. He becomes 'subject to the same rules for testing his credibility before the jury, by impeachment or otherwise, as any other witness,' and may be impeached by testimony that his general reputation for truth, honesty and integrity is bad\" (People v. Bannon, 59 Cal.App. 50\n[209 P. 1029]).\n[2] At the close of the case made by the people appellant moved the trial court to dismiss the information under which he was charged, upon the ground that the evidence failed to show that he was guilty of robbery. The motion was denied and appellant assigns the ruling as error. The ruling was proper, as the motion did not come within the provisions of Penal Code, section 1382, fixing the grounds upon which such a motion may be made. If we view the motion as one asking the court to advise the jury to acquit, under Penal Code, section 1118, although we do not decide that it can be so regarded, it is enough to say that the evidence of the people was such that the court could not have given the jury that advice.\nJudgment and order affirmed.\nFinlayson, P. J., and Craig, J., concurred. *Page 48 ",
+            "ocr": false,
+            "opinion_id": 3285525
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 2110990,
+    "judges": "Rhodes, P.J., Hirt, Reno, Ross, Gunther, Wright and Woodside",
+    "date_filed": -505180800000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-ex-rel-winkler-v-claudy",
+    "case_name_short": "Claudy",
+    "case_name": "Commonwealth Ex Rel. Winkler v. Claudy",
+    "case_name_full": "Commonwealth Ex Rel. Winkler, Appellant, v. Claudy",
+    "attorneys": "John Winkler, appellant, in propria persona, submitted a brief. ', Albert A. Fiok, Assistant District Attorney, with him James F. Malone, Jr., District' Attorney, for ap-pellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued November 16, 1953.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b281-5\">\n    Commonwealth ex rel. Winkler, Appellant,\n    <em>\n     v.\n    </em>\n    Claudy.\n   </parties><br><otherdate id=\"b281-11\">\n    Argued November 16, 1953.\n   </otherdate><judges id=\"As7\">\n    Before Rhodes, P. J., Hirt, Reno, Ross, Gunther, Wright and Woodside, JJ.\n   </judges><br><attorneys id=\"b282-2\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"240\"> \n     *240\n     </span>\n<em>\n     John Winkler,\n    </em>\n    appellant, in propria persona, submitted a brief. '\n   </attorneys><br><attorneys id=\"b282-3\">\n<em>\n     Albert A. Fiok,\n    </em>\n    Assistant District Attorney, with him\n    <em>\n     James F. Malone, Jr.,\n    </em>\n    District' Attorney, for ap-pellee.\n   </attorneys><decisiondate id=\"A_C\">\n    December 29, 1953:\n   </decisiondate>",
+    "citations": [
+        "174 Pa. Super. 239"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n174 Pa. Superior Ct. 239 (1953)\nCommonwealth ex rel. Winkler, Appellant,\nv.\nClaudy.\nSuperior Court of Pennsylvania.\nArgued November 16, 1953.\nDecember 29, 1953.\nBefore RHODES, P.J., HIRT, RENO, ROSS, GUNTHER, WRIGHT and WOODSIDE, JJ.\n*240 John Winkler, appellant, in propria persona, submitted a brief.\nAlbert A. Fiok, Assistant District Attorney, with him James F. Malone, Jr., District Attorney, for appellee.\nPER CURIAM, December 29, 1953:\nRelator seeks to be discharged from imprisonment in the Western State Penitentiary on a writ of habeas corpus on the ground that his sentences were void because when imposed they were in excess of the terms authorized by law.\nOn September 18, 1935, relator was sentenced by the Court of Oyer and Terminer of Allegheny County on two bills of indictment (Nos. 22 and 23, September Sessions, 1935), wherein he was charged with robbery, and robbery with aggravated circumstances. The sentence on bill No. 22 for robbery was for a term of not less than ten years nor more than forty years in the Western State Penitentiary, and the sentence on bill No. 23 for robbery with aggravated circumstances was for a term of not less than five years nor more than forty years to commence upon the expiration of sentence on bill No. 22.\nRelator filed his petition for writ of habeas corpus in the Court of Common Pleas of Allegheny County on May 27, 1953. Rule was granted and answer was filed by the Warden of the Western State Penitentiary.\nOn June 22, 1953, a hearing was held before President Judge WILLIAM H. McNAUGHER at which relator was present and represented by court-appointed counsel. Counsel for the Commonwealth and counsel for the relator agreed with the hearing judge that the sentences as originally imposed were illegal under the applicable Act of March 31, 1860, P.L. 382, as amended *241 by the Act of April 18, 1919, P.L. 61. Relator was remanded to the Court of Oyer and Terminer of Allegheny County for proper sentences according to law. The latter court thereupon corrected the sentences by reducing the sentence at No. 22, September Sessions, 1935, to not less than two and one-half years nor more than five years, and by reducing the sentence at No. 23, September Sessions, 1935, to not less than five years nor more than twenty years, to take effect upon the expiration of sentence imposed at No. 22, September Sessions, 1935.\nThe fact that the sentences as originally imposed were excessive in that they were greater than allowed by law did not render them void. Com. ex rel. Tiscio v. Burke, 173 Pa. Superior Ct. 350, 98 A. 2d 760; Com. ex rel. Flory v. Ashe, 132 Pa. Superior Ct. 405, 1 A. 2d 685. In Com. ex rel. v. Smith, 324 Pa. 73, 74, 187 A. 387, our Supreme Court stated: \"It is well established that sentence to imprisonment for a greater period than warranted by law is an illegal sentence, to correct which the prisoner is entitled to a writ of habeas corpus: [Cases cited]. In such case, however, the petitioner will not be discharged, but remanded to the court below for proper sentence: [Cases cited].\"\nThe corrected sentences were not such sentences as the Court of Oyer and Terminer of Allegheny County would have no power to impose after the term. Com. ex rel. Monaghan v. Burke, 169 Pa. Superior Ct. 256, 260, 261, 82 A. 2d 337; Com. ex rel. Tiscio v. Burke, supra, 173 Pa. Superior Ct. 350, 355, 98 A. 2d 760.\nIn view of the only question presented, it is unnecessary to refer to the argument in the court below or to recite relator's record involving parole and violations of parole.\nAppeal is dismissed.\n",
+            "ocr": false,
+            "opinion_id": 2110990
+        }
+    ],
+    "court_short_name": "Superior Court of Pennsylvania",
+    "court_full_name": "Superior Court of Pennsylvania",
+    "court_type": "SA",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

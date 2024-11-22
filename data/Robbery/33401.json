@@ -1,0 +1,46 @@
+{
+    "id": 6028421,
+    "judges": null,
+    "date_filed": 534384000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-dekoskie",
+    "case_name_short": "Dekoskie",
+    "case_name": "People v. Dekoskie",
+    "case_name_full": "The People of the State of New York v. John E. Dekoskie",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "125 A.D.2d 405"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the County Court, Dutchess County (Marlow, J.), rendered April 27, 1984, convicting him of burglary in the third degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nViewing the evidence in the light most favorable to the prosecution, the defendant\u2019s guilt was proven beyond a reasonable doubt (see, Jackson v Virginia, 443 US 307, 319; People v Contes, 60 NY2d 620, 621). The evidence, although circumstantial, was inconsistent with the defendant\u2019s innocence and excluded to a moral certainty every other reasonable hypothesis but his guilt (see, People v Way, 59 NY2d 361, 365; People v Milea, 112 AD2d 1011, lv denied 66 NY2d 921).\nThe People\u2019s cross-examination of the defendant with respect to a prior burglary conviction did not deprive him of a fair trial (see, People v Pavao, 59 NY2d 282, 292). The fact that a defendant may specialize in one type of criminal activity should not shield him from impeachment with prior similar convictions (see, People v Rahman, 62 AD2d 968, affd 46 NY2d 882; People v Cherry, 106 AD2d 458). Mangano, J. P., Weinstein, Lawrence and Kooper, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5891258
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

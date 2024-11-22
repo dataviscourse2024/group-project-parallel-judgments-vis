@@ -1,0 +1,46 @@
+{
+    "id": 5867399,
+    "judges": null,
+    "date_filed": -283824000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-wilson",
+    "case_name_short": "Wilson",
+    "case_name": "People v. Wilson",
+    "case_name_full": "The People of the State of New York v. Myron E. Wilson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "12 A.D.2d 771"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant, from an order of the County Court, Westchester County, dated May 8,1958, denying, after a hearing, his coram nobis application to vacate a judgment of said court, rendered November 24, 1924, convicting him, on his plea of guilty, of burglary in the third degree. The application was made on the ground that defendant was not advised of his right to counsel. Order affirmed. Defendant\u2019s claim that he was not advised of his right to counsel is clearly rebutted by positive testimony in this record to the contrary. Nolan, P. J., Beldock, Kleinfeld, Pette and Brennan, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5723762
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

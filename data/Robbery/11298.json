@@ -1,0 +1,47 @@
+{
+    "id": 1286026,
+    "judges": "McWilliams",
+    "date_filed": -184118400000,
+    "date_filed_is_approximate": false,
+    "slug": "velasquez-v-people",
+    "case_name_short": "Velasquez",
+    "case_name": "Velasquez v. People",
+    "case_name_full": "Ernest Velasquez, Etc., v. the People of the State of Colorado",
+    "attorneys": "Mr. Richard P. Cullen, Mr. James W. Heyer, for plaintiff in error., Mr. Duke W. Dunbar, Attorney General, Mr. Frank E. Hickey, Deputy, Mr. John P. Moore, Assistant, for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b304-4\">\n    No. 20,277.\n   </docketnumber><br><parties id=\"b304-5\">\n    Ernest Velasquez, etc.,\n    <em>\n     v.\n    </em>\n    The People of the State of Colorado.\n   </parties><br><citation id=\"b304-6\">\n    (389 P. [2d] 849)\n   </citation><br><decisiondate id=\"b304-7\">\n    Decided March 2, 1964.\n   </decisiondate><br><attorneys id=\"b304-12\">\n    Mr. Richard P. Cullen, Mr. James W. Heyer, for plaintiff in error.\n   </attorneys><br><attorneys id=\"b304-13\">\n    Mr. Duke W. Dunbar, Attorney General, Mr. Frank E. Hickey, Deputy, Mr. John P. Moore, Assistant, for defendant in error.\n   </attorneys><br><court id=\"b305-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"285\"> \n     *285\n     </span>\n<em>\n     In Department.\n    </em>\n</court>",
+    "citations": [
+        "389 P.2d 849",
+        "154 Colo. 284"
+    ],
+    "opinions": [
+        {
+            "author_str": "McWilliams",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 3925.0,
+            "opinion_text": "\n389 P.2d 849 (1964)\nErnest VELASQUEZ, a/k/a Joseph W. Romero, Plaintiff in Error,\nv.\nThe PEOPLE of the State of Colorado, Defendant in Error.\nNo. 20277.\nSupreme Court of Colorado, In Department.\nMarch 2, 1964.\nRichard P. Cullen, James W. Heyer, Denver, for plaintiff in error.\nDuke W. Dunbar, Atty. Gen., State of Colorado, Frank E. Hickey, Deputy Atty. Gen., John P. Moore, Asst. Atty. Gen., Denver, for defendant in error.\nMcWILLIAMS, Chief Justice.\nThis dispute arises out of the efforts of the State of California to return Velasquez to that state from Colorado as a parole violator.\nPrior to receipt of formal requisition from the Governor of California, the district attorney in order to obtain a warrant to arrest Velasquez filed in the district court what he denominated as \"An Information for Fugitive Charge under C.R.S. '53, 60-1-13, as amended\", alleging therein that Velasquez had been charged and convicted in California of the crime of attempted burglary; that he was later granted parole but had violated the terms of his parole and was now believed to be in Colorado.\nAttached to this so-called \"information\" was a form of oath wherein one Williamson, a Denver police officer, \"upon oath\" declared that \"the facts stated in the foregoing charge hereto attached are true\". Williamson subscribed his signature to this document, though the judge who administered the oath apparently neglected to affix his signature thereto. The judge, however, did grant written leave to the district attorney to file this \"information\" and set bail at $3,000. A warrant for the arrest of Velasquez thereupon issued and upon arrest Velasquez was released on bond.\nThe record before us discloses that thereafter the Governor of California in due time forwarded an application for requisition, as required by C.R.S. '53, 60-1-23, as amended. The Governor of Colorado then granted this requisition and proceeded to issue a warrant for the arrest of Velasquez, as authorized by C.R.S. '53, 60-1-7. The application for requisition and the Governor's warrant were then duly filed in the trial court in the instant proceeding.\nSome five weeks after this application for requisition and the Governor's warrant were thus filed, Velasquez filed what he chose to denominate in the trial court as a \"Petition\", but which is here referred to by him as a \"Motion to Dismiss\". In this petition, or motion to dismiss, Velasquez asked that the \"information\" be dismissed and that he be discharged on the ground that his arrest was unlawful because the information was \"defective for the reason that the same *850 is not sworn to and therefore does not contain an affidavit of verification as required by C.R.S. `53, 39-4-2.\" Upon hearing the motion to dismiss was denied and by writ of error Velasquez now seeks reversal of the order denying his motion.\nThe Governor's warrant for the arrest of Velasquez having issued and having been filed with the court in the pending proceeding, the issue as to whether Velasquez was lawfully arrested in the first instance is not just academic but moot. In Travis v. People, 135 Colo. 141, 308 P.2d 997, where one was jailed without any warrant to so do, it was nonetheless stated: \"Conceding that the original detention was not based on a warrant, he cannot oppose proper extradition proceedings on this ground.\"\nWrit of error dismissed.\nMOORE and DAY, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1286026
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

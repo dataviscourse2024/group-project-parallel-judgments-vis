@@ -1,0 +1,46 @@
+{
+    "id": 7776728,
+    "judges": "Campbell, Fulmer, Northcutt",
+    "date_filed": 902880000000,
+    "date_filed_is_approximate": false,
+    "slug": "jessie-v-state",
+    "case_name_short": "Jessie",
+    "case_name": "Jessie v. State",
+    "case_name_full": "Kenneth Lee JESSIE v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Douglas Chanco, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Ronald Napolitano, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "714 So. 2d 1220"
+    ],
+    "opinions": [
+        {
+            "author_str": "Campbell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCAMPBELL, Acting Chief Judge.\nThe only issue raised by appellant on appeal is whether the trial court erred in sentencing him to five-and-one-half years\u2019 imprisonment upon revocation of his community control in Case No. 91-16683, since the maximum sentence for his 1991 offenses of burglary of a structure and grand theft is five years. The State concedes that even with bump-ups for violation of community control, appellant\u2019s sentence in that case exceeded the maximum permitted by statute. See Fla. R.Crim. P. 3.701(d)(10) (1991). Accordingly, appellant\u2019s sentence in Case No. 91-16683 is reversed and remanded for resentencing.\nFULMER and NORTHCUTT, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7715533
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5319118,
+    "judges": "Brett, Bussey, Nix",
+    "date_filed": -61776000000,
+    "date_filed_is_approximate": true,
+    "slug": "jump-v-page",
+    "case_name_short": "Jump",
+    "case_name": "Jump v. Page",
+    "case_name_full": "Floyd Eugene JUMP v. Ray H. PAGE, Warden, Oklahoma State Penitentiary",
+    "attorneys": "Floyd Eugene Jump, pro se., G. T. Blankenship, Atty. Gen., Oklahoma \u2018City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "437 P.2d 283"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n. MEMORANDUM OPINION\nBRETT, Judge:\nFloyd Eugene Jump filed his petition in this Court for release from the State Penitentiary by writ of habeas corpus.\nPetitioner states that he is presently serving two sentences, entered by the district court of Caddo County, Oklahoma on March 31, 1967, one for seven years in which he was convicted of grand larceny, after former conviction of a felony, and the other a sentence of five years, wherein he was convicted of burglary, second degree, after former conviction of felony, the sentences to run concurrently.\nPetitioner\u2019s only ground for the issuance of a writ of habeas corpus seems to be that he was convicted in the district court of Caddo County in case No. 3313 in the year 1960, and that such conviction was used against him for the purpose of enhancing punishment under the \u201cafter former\u201d or \u201chabitual criminal\u201d statute (Tit. 21 Okl.St. Ann. \u00a7 51) in three sbsequent felony convictions; alleging further that the Tenth Circuit Court of Appeals has held that a former first conviction may be so used only upon a second conviction, and not upon a third or subsequent conviction of a felony.\nPetitioner does not provide the citation for any case to support his contention. This court has not rendered such a decision, with reference to the above statute, and we have no knowledge of any such holding by the Court of Appeals, Tenth Circuit.\nThe second or subsequent offense statute, also referred to as the \u201cHabitual Criminal Act\u201d, provides: \u201cEvery person who, having been convicted of any offense punishable by imprisonment in the penitentiary, commits any crime after such conviction, is punishable therefor as follows: * *\nIn Stanford v. State, Okl.Cr.App., 363 P.2d 515, this Court said:\n\u201cIt is proper to charge in the information one or more offenses of prior conviction, and offer proof to sustain the same. 21 O.S.A. \u00a7 51.\u201d\n*284And in Hunter v. State, Okl.Cr.App., 375 P.2d 357, the Court said:\n\u201cThe \u2018habitual criminal act\u2019 does not invade the privileges and immunities of the citizen, does not deny equal protection of the law or due process, or constitute unjust discrimination or double jeopardy.\u201d\nThe Attorney General has filed a demurrer to this action, alleging that the petitioner fails to state a cause of action. We are of the opinion that the demurrer is well taken.\nThe petition for writ of habeas corpus is denied.\nNIX, P. J. and BUSSEY, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5147982
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

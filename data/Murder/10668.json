@@ -1,0 +1,46 @@
+{
+    "id": 672948,
+    "judges": "Easterbrook, Kanne, Posner",
+    "date_filed": 772848000000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-ricardo-duarte",
+    "case_name_short": null,
+    "case_name": "United States v. Ricardo Duarte",
+    "case_name_full": "UNITED STATES of America, Plaintiff-Appellee, v. Ricardo DUARTE, Defendant-Appellant",
+    "attorneys": "Andrew B. Baker, Jr., Philip P. Simon, Asst. U.S. Attys., Dyer, IN, for plaintiff-appellee., S. Ross Hubbell, Merrillville, IN, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted May 25, 1994.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 15,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b127-13\">\n    UNITED STATES of America, Plaintiff-Appellee, v. Ricardo DUARTE, Defendant-Appellant.\n   </parties><br><docketnumber id=\"b127-16\">\n    No. 93-2872.\n   </docketnumber><br><court id=\"b127-17\">\n    United States Court of Appeals, Seventh Circuit.\n   </court><br><otherdate id=\"b127-18\">\n    Submitted May 25, 1994.\n   </otherdate><br><decisiondate id=\"b127-19\">\n    Decided June 29, 1994.\n   </decisiondate><br><attorneys id=\"b128-3\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"48\"> \n     *48\n     </span>\n    Andrew B. Baker, Jr., Philip P. Simon, Asst. U.S. Attys., Dyer, IN, for plaintiff-appellee.\n   </attorneys><br><attorneys id=\"b128-4\">\n    S. Ross Hubbell, Merrillville, IN, for defendant-appellant.\n   </attorneys><br><judges id=\"b128-5\">\n    Before POSNER, Chief Judge, and EASTERBROOK and KANNE, Circuit Judges.\n   </judges>",
+    "citations": [
+        "28 F.3d 47"
+    ],
+    "opinions": [
+        {
+            "author_str": "Posner",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F3/28/28.F3d.47.93-2872.html",
+            "author_id": null,
+            "opinion_text": "28 F.3d 47\n    UNITED STATES of America, Plaintiff-Appellee,v.Ricardo DUARTE, Defendant-Appellant.\n    No. 93-2872.\n    United States Court of Appeals,Seventh Circuit.\n    Submitted May 25, 1994.Decided June 29, 1994.\n    \n      Andrew B. Baker, Jr., Philip P. Simon, Asst. U.S. Attys., Dyer, IN, for plaintiff-appellee.\n      S. Ross Hubbell, Merrillville, IN, for defendant-appellant.\n      Before POSNER, Chief Judge, and EASTERBROOK and KANNE, Circuit Judges.\n      POSNER, Chief Judge.\n      The defendant pleaded guilty to a federal narcotics offense--then threatened the government's informant, which resulted in the defendant's receiving an enhanced sentence (of 15 months) on grounds of obstruction of justice.  U.S.S.G. Sec. 3C1.1.  Later he pleaded guilty to witness retaliation for having threatened the informant, 18 U.S.C. Sec. 1513, and was sentenced to 37 months in prison, to run concurrently with his 15-month sentence;  and his first argument is that, having received an obstruction of justice enhancement of his first sentence, he could not, consistently with the double-jeopardy clause, be prosecuted for the conduct (the threat) constituting the obstruction.  But he wasn't prosecuted or punished, in the first proceeding, for obstruction of justice;  rather, the obstruction was taken into account in determining the proper punishment for the offense, a drug offense unrelated to obstructing justice, for which he had been prosecuted.  So there was no double jeopardy, as countless cases, illustrated in this circuit by United States v. Troxell, 887 F.2d 830, 835 (7th Cir.1989), hold.  Any suggestion to the contrary emanating from United States v. Koonce, 945 F.2d 1145 (10th Cir.1991), and United States v. McCormick, 992 F.2d 437 (2d Cir.1993), must be rejected.  In addition to being inconsistent with Troxell and a host of similar decisions, Koonce had relied (see 945 F.2d at 1148-49) on Grady v. Corbin, 495 U.S. 508, 110 S. Ct. 2084, 109 L. Ed. 2d 548 (1990), which was overruled in United States v. Dixon, --- U.S. ----, ----, 113 S. Ct. 2849, 2860, 125 L. Ed. 2d 556 (1993), and McCormick had relied on Koonce.  Koonce 's basic mistake was to confuse prosecution or conviction, on the one hand, with using evidence of one crime in determining the punishment for another.  Duarte could not be prosecuted more than once for the same offense, but he could be prosecuted for the offense and punished more severely for another offense because he had committed this one.  Otherwise recidivist statutes would violate the right not to be subjected to double jeopardy, since to punish a person more heavily because of his criminal record is, in the same sense in which Koonce understood punishment, to \"repunish\" him for his earlier crimes.\n      The defendant also complains about receiving an eight-level increase in the base offense level for witness retaliation.  The increase was for \"causing or threatening to cause physical injury to a person, or property damage, in order to obstruct the administration of justice.\"   U.S.S.G. Sec. 2J1.2(b)(1).  The defendant argues that since, when he made the threat, he had already pleaded guilty to the drug offense (unlike United States v. Weston, 960 F.2d 212, 219 (1st Cir.1992)), so that the informant's services were no longer necessary for his prosecution, the threat could not have been made \"in order to obstruct the administration of justice.\"   This argument misunderstands the function of section 2J1.2(b)(1).  It is to distinguish threats of physical injury or property damage from lesser threats, cf. U.S.S.G. Sec. 2J1.3;  United States v. Pierson, 946 F.2d 1044, 1047 (4th Cir.1991), rather than to introduce refined distinctions within the broad category of obstruction of justice.  The witness-retaliation statute punishes conduct calculated to impede the administration of justice--that is the invariable tendency of retaliating against a witness, and is the purpose of making witness retaliation a separate crime (codified in the chapter of Title 18 (ch. 73) that is entitled--\"Obstruction of Justice\") from assaults and threats generally.  The tendency is no less merely because the offender's motive is purely vengeful.  The guideline is expressly applicable to the statute, and we cannot think of any reason why the guideline's authors would have wanted to distinguish between vengeful and instrumental retaliations and punish the former more lightly.  Cf. United States v. Cotts, 14 F.3d 300, 308 (7th Cir.1994);  United States v. Woods, 976 F.2d 1096, 1103 (7th Cir.1992).  On the defendant's interpretation, a vengeful threat to murder a witness would be punished more lightly under the obstruction of justice statutes than a lie made to an investigator.  That would make no sense.\n    \n    \n      1\n      AFFIRMED.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 672948
+        }
+    ],
+    "court_short_name": "Seventh Circuit",
+    "court_full_name": "Court of Appeals for the Seventh Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

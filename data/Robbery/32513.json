@@ -1,0 +1,46 @@
+{
+    "id": 5849061,
+    "judges": null,
+    "date_filed": -351648000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-duffy",
+    "case_name_short": "Duffy",
+    "case_name": "People v. Duffy",
+    "case_name_full": "The People of the State of New York v. William Duffy",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "7 A.D.2d 642"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal from a judgment of the County Court, Kings County, convicting appellant of robbery in the first degree, grand larceny in the first degree, and assault in the second degree, and sentencing him as a second felony offender to serve from 15 to 30 years. Judgment unanimously affirmed. No opinion. Present -\u2014Wenzel, Acting P. J., Beldock, Murphy, Ughetta and Hallinan, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5705158
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

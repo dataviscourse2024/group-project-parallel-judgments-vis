@@ -1,0 +1,46 @@
+{
+    "id": 6044345,
+    "judges": null,
+    "date_filed": 591840000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-jones",
+    "case_name_short": "Jones",
+    "case_name": "People v. Jones",
+    "case_name_full": "The People of the State of New York v. Pierre Jones",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "143 A.D.2d 683"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the Supreme Court, Kings County (Owens, J.), rendered April 16, 1985, convicting him of robbery in the first degree and robbery in the second degree, upon his plea of guilty, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress certain identification testimony.\nOrdered that the judgment is affirmed.\nContrary to the defendant\u2019s contentions, the complainant\u2019s unprompted identification \u2014 which occurred within an hour of the robbery (see, People v Digiosaffatte, 63 AD2d 703) and after the defendant was observed on the street entering an automobile associated with the crime \u2014 cannot be characterized as the product of an unduly suggestive procedure (cf., People v Kennedy, 128 AD2d 549, lv denied 69 NY2d 1005).\nThe record reveals that shortly after the robbery, the police promptly transported the complainant to an address which was obtained during a check of the license plate of the car in which the defendant fled. Upon arriving at this address, the police observed three men enter the getaway car, which had been previously identified as such by the complainant. After the police briefly detained the men, the complainant spontaneously identified the defendant and a second man as perpetrators of the crime.\nIn light of the foregoing, the hearing court properly denied the defendant\u2019s motion to suppress. Kooper, J. P., Sullivan, Harwood and Balletta, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5907644
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

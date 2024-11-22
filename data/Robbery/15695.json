@@ -1,0 +1,46 @@
+{
+    "id": 1847988,
+    "judges": "Hobson",
+    "date_filed": 309744000000,
+    "date_filed_is_approximate": false,
+    "slug": "davis-v-state",
+    "case_name_short": "Davis",
+    "case_name": "Davis v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "376 So. 2d 1198"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6934.0,
+            "opinion_text": "\n376 So. 2d 1198 (1979)\nTyrone DAVIS, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 79-698.\nDistrict Court of Appeal of Florida, Second District.\nOctober 26, 1979.\nRehearing Denied November 29, 1979.\n*1199 Jack O. Johnson, Public Defender, and Paul C. Helm, Asst. Public Defender, Bartow, for appellant.\nJim Smith, Atty. Gen., Tallahassee, and Eula Tuttle Mason, Asst. Atty. Gen., Tampa, for appellee.\nHOBSON, Judge.\nThe appellant appeals his conviction for burglary of a dwelling and sexual battery. Although two points have been raised, only one, involving the admissibility of collateral crimes on the issue of identity, has merit and requires reversal.\nEvidence of collateral crimes is relevant and therefore admissible for any purpose save that of showing bad character or propensity. Williams v. State, 110 So. 2d 654 (Fla. 1959); Davis v. State, 276 So. 2d 846 (Fla. 2d DCA 1974). Where the identity of the defendant is, as here, a material issue, evidence of a collateral crime to which the defendant can be positively connected is relevant, but it is not admissible unless there is more than a mere general similarity between the two crimes. Duncan v. State, 291 So. 2d 241 (Fla. 2d DCA 1974); Helton v. State, 365 So. 2d 1101 (Fla. 1st DCA 1979). The mere fact that a defendant is identified as having been involved in another crime does not render such collateral evidence admissible. Drayton v. State, 292 So. 2d 395 (Fla. 3d DCA 1974). There must be something unique or unusual about the perpetrators themselves or their modus operandi before evidence of a collateral crime will be admissible on the issue of identity. Marion v. State, 287 So. 2d 419 (Fla. 4th DCA 1974); Beasley v. State, 305 So. 2d 285 (Fla. 3d DCA 1974); Sweet v. State, 313 So. 2d 130 (Fla. 2d DCA 1975).\nWhile we agree with the learned trial judge that the facts of this case present a close question, we conclude that there were not enough similarities between the two crimes to justify admission of the collateral crime. Both crimes involved a burglary and sexual battery. A window was used to gain entry into the homes of young women living alone. The crimes were committed within three weeks of each other and took place at about the same time of night. Money was taken in both cases. There were significant dissimilarities, however. Not only did the crimes occur in different parts of the city, but the manner in which the sexual assaults were committed and the attitude of the assailant toward the victim varied substantially. Moreover, in addition to taking money, the assailant in the collateral crime ransacked the house for objects of value.\nWe reverse and remand for a new trial.\nGRIMES, C.J., and OTT, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1847988
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

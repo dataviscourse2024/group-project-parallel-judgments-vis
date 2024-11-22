@@ -1,0 +1,46 @@
+{
+    "id": 1960921,
+    "judges": "Bell, Cohen, Eagen, Jones, O'Brien, Pomeroy, Roberts",
+    "date_filed": 5443200000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-musser",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Musser",
+    "case_name_full": "Commonwealth v. Musser, Petitioner",
+    "attorneys": "Theodore 8. Danforth, Public Defender, for appellant., D. Richard E ciernan, Assistant District Attorney, and Clarence C. 'Neiocomer, District Attorney, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 15,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b225-3\">\n    Commonwealth\n    <em>\n     v.\n    </em>\n    Musser, Petitioner.\n   </parties><br><judges id=\"b225-8\">\n    Before Bell, C. J., Jones, Cohen, Eagen, O\u2019Brien, Roberts and Pomeroy, JJ.\n   </judges><br><attorneys id=\"b226-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"132\"> \n     *132\n     </span>\n<em>\n     Theodore 8. Danforth,\n    </em>\n    Public Defender, for appellant.\n   </attorneys><br><attorneys id=\"b226-5\">\n<em>\n     D. Richard E ciernan,\n    </em>\n    Assistant District Attorney, and\n    <em>\n     Clarence C. 'Neiocomer,\n    </em>\n    District Attorney, for Commonwealth, appellee.\n   </attorneys><decisiondate id=\"Ak4\">\n    March 5, 1970:\n   </decisiondate>",
+    "citations": [
+        "437 Pa. 131"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n437 Pa. 131 (1970)\nCommonwealth\nv.\nMusser, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 5, 1970.\nBefore BELL, C.J., JONES, COHEN, EAGEN, O'BRIEN, ROBERTS and POMEROY, JJ.\n*132 Theodore S. Danforth, Public Defender, for appellant.\nD. Richard Eckman, Assistant District Attorney, and Clarence C. Newcomer, District Attorney, for Commonwealth, appellee.\nOPINION PER CURIAM, March 5, 1970:\nPetitioner Gerald Musser was indicted for conspiracy, assault with intent to kill and robbery. On November 10, 1967, he entered a guilty plea to all charges and received a sentence of ten to twenty years. Subsequently, he filed a Post Conviction Hearing Act petition alleging that at the time of the entry of the guilty plea he was not informed of his right to appeal. The District Attorney admitted that this was so, and on May 15, 1968, petitioner was granted the right to file an appeal nunc pro tunc. The Superior Court, on direct appeal, affirmed the judgment of sentence per curiam, Judge SPAULDING writing a dissenting opinion in which Judge HOFFMAN joined. 214 Pa. Super. 128, 251 A.2d 664 (1969).\nAlthough the basis for the Superior Court's denial of relief is not clear, it is apparent to us that petitioner is being deprived of his right to litigate at some stage the question of the voluntariness of his guilty plea.\nExcept where a petitioner has pleaded guilty to murder generally and has been convicted of murder in the *133 first degree, a denial of the right to direct appeal is not prejudicial since all claims cognizable on direct appeal may be raised in collateral proceedings. Com. v. Culpeper, 434 Pa. 15, 252 A.2d 624 (1969), Com. v. Armstead, 430 Pa. 428, 243 A.2d 443 (1968).\nOnce it has been found that an individual was denied his right to appeal it is not always proper to conclude the collateral proceedings by either granting the right to file post-trial motions or to make a direct appeal. When the conviction from which the right of appeal was denied was based upon a plea of guilty, the PCHA court should usually proceed to hear and decide all of the petitioner's other claims since he will generally have no claim of error which is not cognizable in the PCHA proceedings. The general rule is inapplicable in first degree murder. In those cases the petitioner may wish to contest the sufficiency of the evidence introduced by the Commonwealth to raise the offense to murder in the first degree. Since this claim is not constitutional, and therefore not appropriately raised in PCHA proceedings, the proper disposition is to terminate the PCHA hearing and permit the petitioner to file post-trial motions. The court which receives those motions, after holding a hearing on any claim which presents a question of fact, can then proceed to dispose of the case.\nHere, the Lancaster County court found that petitioner had been denied his right of appeal and granted him the right of appeal as though timely filed. The court should then have proceeded to hold an evidentiary hearing on the constitutional claim before the matter reached the appellate court. The futility of granting him the appeal without an evidentiary hearing and factual determination is perfectly illustrated by cases like the instant one, for the appellate court must remand for a hearing.\n*134 The petition for allocatur is granted and the record is remanded to the Court of Common Pleas, Criminal Division, of Lancaster County for an evidentiary hearing to determine whether the entry of the guilty plea was voluntary.\n",
+            "ocr": false,
+            "opinion_id": 1960921
+        }
+    ],
+    "court_short_name": "Supreme Court of Pennsylvania",
+    "court_full_name": "Supreme Court of Pennsylvania",
+    "court_type": "S",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

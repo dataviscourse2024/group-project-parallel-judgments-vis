@@ -1,0 +1,46 @@
+{
+    "id": 5687320,
+    "judges": "Cooke, Jasen, Jones, Kaye, Ler, Meyer, Simons, Wacht",
+    "date_filed": 455846400000,
+    "date_filed_is_approximate": false,
+    "slug": "rolfe-v-village-of-falconer",
+    "case_name_short": "Rolfe",
+    "case_name": "Rolfe v. Village of Falconer",
+    "case_name_full": "Jean D. Rolfe v. Village of Falconer",
+    "attorneys": "Howard F. Crossley for appellant., James J. Duggan for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "APPEARANCES OF COUNSEL",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued May 12, 1984;",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "62 N.Y.2d 884"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION OF THE COURT\nMemorandum.\nThe order of the Appellate Division should be affirmed, with costs.\nPlaintiff seeks to recover damages for the loss of asbestos shingles that were allegedly stolen by one Kenneth Lanan-ger, who had received from defendant a building permit to remodel and enlarge two porches and an entrance on plaintiff\u2019s building. In obtaining the permit, Lananger represented himself to be the building\u2019s owner.\nPlaintiff\u2019s action cannot succeed. The purpose of the building permit is to ensure compliance with the pertinent construction laws. Nothing in the ordinances indicates that they are intended to protect owners against unauthorized modifications to their buildings or, indeed, theft of their building materials. That the application form refers to the applicant as \u201cOwner\u201d does not thereby impose such a duty of protection on the municipality. Consequently, defendant had no obligation to ascertain whether Lananger *886was truly the owner of plaintiff\u2019s building when he applied for the building permit. In the absence of even an implicit assumption by the municipality of a duty to verify ownership, the burden of protecting against unauthorized alterations leading to the theft of materials may not be imposed on the Village.\nChief Judge Cooke and Judges Jasen, Jones, Wacht-ler, Meyer, Simons and Kaye concur.\nOrder affirmed, with costs, in a memorandum.\n",
+            "ocr": true,
+            "opinion_id": 5536442
+        }
+    ],
+    "court_short_name": "New York Court of Appeals",
+    "court_full_name": "New York Court of Appeals",
+    "court_type": "S",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

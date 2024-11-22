@@ -1,0 +1,46 @@
+{
+    "id": 7789440,
+    "judges": "Joanos, Padovano, Webster",
+    "date_filed": 947203200000,
+    "date_filed_is_approximate": false,
+    "slug": "bing-v-state",
+    "case_name_short": "Bing",
+    "case_name": "Bing v. State",
+    "case_name_full": "Erron BING v. STATE of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender, and Robert Friedman, Assistant Public Defender, Tallahassee, for Appellant., Robert A. Butterworth, Attorney General, and Carolyn J. Mosley, Assistant Attorney General, Office of the Attorney General, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Feb. 14, 2000.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "750 So. 2d 703"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nFinding no reversible error, we affirm the defendant\u2019s conviction and sentence for robbery with a firearm. As we did in Woods v. State, 740 So.2d 20 (Fla. 1st DCA 1999), we certify the following question to the supreme court, as one of great public importance:\nDOES THE PRISON RELEASEE REOFFENDER PUNISHMENT ACT, CODIFIED AS SECTION 775.082(8), FLORIDA STATUTES (1997), VIOLATE THE SEPARATION OF POWERS CLAUSE OF THE FLORIDA CONSTITUTION?\nJOANOS, WEBSTER and PADOVANO, JJ., CONCUR.\n",
+            "ocr": true,
+            "opinion_id": 7729111
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

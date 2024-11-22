@@ -1,0 +1,47 @@
+{
+    "id": 1339995,
+    "judges": "Hunter, Martin, McCullough",
+    "date_filed": 1210032000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-farrar",
+    "case_name_short": "Farrar",
+    "case_name": "State v. Farrar",
+    "case_name_full": "State of North Carolina v. Pierre Torez-Omar Farrar",
+    "attorneys": "\n\nAttorney General Roy Cooper, by Assistant Attorney General David L. Elliott, for the State.\n, \nParish & Cooke, by James R. Parish, for defendant appellant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b234-9\">\n    STATE OF NORTH CAROLINA v. PIERRE TOREZ-OMAR FARRAR\n   </parties><br><docketnumber id=\"b234-10\">\n    No. COA05-1319-2\n   </docketnumber><decisiondate id=\"AV4\">\n    (Filed 6 May 2008)\n   </decisiondate><br><attorneys id=\"b235-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"203\"> \n     *203\n     </span>\n<em>\n     Attorney General Roy Cooper, by Assistant Attorney General David L. Elliott, for the State.\n    </em>\n</attorneys><br><attorneys id=\"b235-5\">\n<em>\n     Parish &amp; Cooke, by James R. Parish, for defendant appellant.\n    </em>\n</attorneys>",
+    "citations": [
+        "660 S.E.2d 116",
+        "190 N.C. App. 202"
+    ],
+    "opinions": [
+        {
+            "author_str": "McCullough",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 8024.0,
+            "opinion_text": "\n660 S.E.2d 116 (2008)\nSTATE of North Carolina\nv.\nPierre Torez-Omar FARRAR.\nNo. COA05-1319-2.\nCourt of Appeals of North Carolina.\nMay 6, 2008.\nAttorney General Roy Cooper, by Assistant Attorney General David L. Elliott, for the State.\nParish &amp; Cooke, by James R. Parish, Fayetteville, for defendant appellant.\nMcCULLOUGH, Judge.\nPreviously, this Court reversed defendant's conviction for first-degree burglary finding a fatal variance between the indictment and the jury instructions given by the trial judge. State v. Farrar, 179 N.C.App. 561, 634 S.E.2d 253 (2006). On 9 November 2007, our Supreme Court vacated that portion of this Court's decision which held that the variance was fatal, holding that where the variance is favorable to defendant no prejudice results. Thus, defendant's first-degree burglary conviction was reinstated. State v. Farrar, 361 N.C. 675, 651 S.E.2d 865 (2007).\nThis case was remanded to this Court for consideration of the remaining assignment of error. That assignment of error alleged that the trial court erred in failing to dismiss the charge of first-degree burglary due to the insufficiency of the evidence.\nThe facts of this home invasion are more fully discussed in the prior opinions set forth above. The elements of burglary in the first degree are:\n(1) the breaking (2) and entering (3) in the nighttime (4) into a dwelling house or a room used as a sleeping apartment (5) which is actually occupied at the time of the offense (6) with the intent to commit a felony therein.\nState v. Wells, 290 N.C. 485, 496, 226 S.E.2d 325, 332 (1976).\nThe evidence at trial showed that defendant and two other men went to the victim's residence around 9:30 p.m. on Avalon Road in Guilford County. The men went on the porch, put shirts over their faces, and latex gloves on their hands. One of the men had a gun, kicked in the door, and all three entered the house and confronted Darlene and Mollie Slade with their children. A chain necklace, a Play Station, some games, and a VCR were taken while the men asked, \"where is the money?\"\nTaken in the light most favorable to the State, we believe substantial evidence on each element was presented and the motion properly denied. Accordingly, this assignment of error is overruled.\nAs this Court has now considered all of defendant's assignments of error and found them to be without merit, defendant's trial was conducted free of prejudicial error.\nNo prejudicial error.\nChief Judge MARTIN and Judge HUNTER concur.\n",
+            "ocr": false,
+            "opinion_id": 1339995
+        }
+    ],
+    "court_short_name": "Court of Appeals of North Carolina",
+    "court_full_name": "Court of Appeals of North Carolina",
+    "court_type": "SA",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Robbery"
+}

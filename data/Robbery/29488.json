@@ -1,0 +1,46 @@
+{
+    "id": 5235426,
+    "judges": "Gler, Manford, Shan, Somerville",
+    "date_filed": 433468800000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-dorsey",
+    "case_name_short": "Dorsey",
+    "case_name": "State v. Dorsey",
+    "case_name_full": "STATE of Missouri v. James DORSEY a/k/a Ronald Brackett",
+    "attorneys": "Richard E. McFadin, F.A. White, Jr., and Thomas C. Fincham of McFadin & White, North Kansas City, Mo., for appellant., John Ashcroft, Atty. Gen., George Cox, Asst. Atty. Gen., Jefferson City, Mo., for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Nov. 29, 1983.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "661 S.W.2d 794"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM:\nORDER\nThis is a direct appeal from a jury conviction for robbery, first degree, in violation of \u00a7 569.020, RSMo 1978.\nNo jurisprudential purpose would be served by written opinion.\nJudgment affirmed. All concur.\nRule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5060608
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

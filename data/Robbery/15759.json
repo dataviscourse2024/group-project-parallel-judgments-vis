@@ -1,0 +1,46 @@
+{
+    "id": 1896609,
+    "judges": "Joanos",
+    "date_filed": 563068800000,
+    "date_filed_is_approximate": false,
+    "slug": "bellinger-v-state",
+    "case_name_short": "Bellinger",
+    "case_name": "Bellinger v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "514 So. 2d 1142"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6940.0,
+            "opinion_text": "\n514 So. 2d 1142 (1987)\nDarrin BELLINGER, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. BP-252.\nDistrict Court of Appeal of Florida, First District.\nNovember 5, 1987.\nMichael E. Allen, Public Defender, and P. Douglas Brinkmeyer, Asst. Public Defender, Tallahassee, for appellant.\nRobert A. Butterworth, Atty. Gen., and Patricia Conners, Asst. Atty. Gen., Tallahassee, for appellee.\nJOANOS, Judge.\nIn this appeal from a conviction for armed robbery with a firearm, appellant appeals both the imposition of a three year mandatory minimum sentence under section 775.087(2), Florida Statutes (1985), for possession of a firearm during commission of a crime, and the imposition of $200 in additional court costs under section 27.3455, *1143 Florida Statutes (1985). Appellee concedes that both points were in error. We agree and reverse.\nSection 775.087(2) states that any person who is convicted of robbery and who \"had in his possession a `firearm'\" shall be sentenced to a minimum term of three years imprisonment. While constructive or vicarious possession is sufficient to sustain a conviction for robbery with a firearm, it is insufficient to constitute possession under this statute. Earnest v. State, 351 So. 2d 957 (Fla. 1977). Actual physical possession of the weapon is contemplated before imposition of the section 775.087(2) mandatory minimum three-year term of imprisonment may be imposed. See Lester v. State, 458 So. 2d 1194 (Fla.1st DCA 1984). As both appellant and appellee point out, appellant's accomplice had possession of the weapon during the entire course of the crime. Appellant was never in possession. Therefore, the mandatory minimum sentence portion of appellant's sentence is reversed.\nAs to costs assessed pursuant to section 27.3455, Florida Statutes (1985), appellant was entitled to a determination of his indigency status at the time of sentencing. Lawton v. State, 492 So. 2d 404, 406 (Fla. 1st DCA 1986). Had appellant been adjudged indigent at sentencing, the trial court would have been required to impose a term of community service in lieu of costs. \u00a7 27.3455, Fla. Stat. (1985). Additionally, appellant, who had been adjudged indigent for the purposes of representation by a public defender, should have received adequate notice and a full opportunity to object prior to the imposition of costs, as well as a judicial finding of his ability to pay prior to any enforcement of the collection of costs. Jenkins v. State, 444 So. 2d 947 (Fla. 1984); Lawton, 492 So.2d at 406. As to these costs, the cause is remanded for resentencing under amended section 27.3455, Florida Statutes (Supp. 1986), after appellant is given notice and an opportunity to be heard on the issue of his indigency. Carter v. State, 513 So. 2d 782 (Fla. 1st DCA 1987); Gaskins v. State, 513 So. 2d 1087 (Fla. 1st DCA 1987); Riddell v. State, 509 So. 2d 956 (Fla. 1st DCA 1987).\nAppellant also was assessed costs of $20.00 pursuant to section 960.20, Florida Statutes, and $2.00 pursuant to section 943.25(4), Florida Statutes. Appellant similarly should have received notice and an opportunity to object prior to the imposition of these costs. Jenkins, 444 So.2d at 950. Though appellant failed to object to these costs at trial, sentencing errors that produce an illegal sentence and are apparent from the record can be addressed on appeal without a contemporaneous objection. Brown v. State, 508 So. 2d 776 (Fla. 1st DCA 1987). And though appellant fails to raise the issue of these particular costs in his brief on appeal, appellant does in his notice of appeal generally request that this court review the judgment wherein these costs are imposed. The sentencing error is apparent from a review of the record. As to these costs, the cause is remanded so that appellant can be given notice and an opportunity to be heard prior to their imposition.\nThe conviction is affirmed, but the sentence is reversed and the cause is remanded for resentencing in accordance with this opinion.\nSMITH, C.J., and WENTWORTH, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1896609
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

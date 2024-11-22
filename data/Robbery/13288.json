@@ -1,0 +1,46 @@
+{
+    "id": 1604133,
+    "judges": "Schwartz, C.J., Barkdull and Jorgenson",
+    "date_filed": 784339200000,
+    "date_filed_is_approximate": false,
+    "slug": "hill-v-state",
+    "case_name_short": "Hill",
+    "case_name": "Hill v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "645 So. 2d 90"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n645 So. 2d 90 (1994)\nJonathan HILL, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 93-2075.\nDistrict Court of Appeal of Florida, Third District.\nNovember 9, 1994.\nBennett H. Brummer, Public Defender, and Julie M. Levitt, Sp. Asst. Public Defender, for appellant.\nRobert A. Butterworth, Atty. Gen., and Lucrecia R. Diaz, Asst. Atty. Gen., for appellee.\nBefore SCHWARTZ, C.J., BARKDULL and JORGENSON, JJ.\nPER CURIAM.\nJonathan Hill appeals his convictions and sentences for burglary of an unoccupied vehicle, grand theft of a motor vehicle, and possession of burglary tools. We affirm his convictions,[1] but for the following reasons we vacate his sentence, remand to the trial court for resentencing and certify a question to the Florida Supreme Court as one of great public importance.\nHill was sentenced as an habitual violent felony offender to ten years on each count, with the sentences to run consecutively. The court also imposed a five-year mandatory prison term under the habitual violent felony *91 statute for the conviction of burglary of an unoccupied vehicle. Hill argues that the consecutive sentences were unlawful under Hale v. State, 630 So. 2d 521 (Fla. 1993), cert. denied, ___ U.S. ___, 115 S. Ct. 278, 130 L. Ed. 2d 195 (1994), where the court held that an individual sentenced as an habitual offender could receive only concurrent, not consecutive, sentences where the crimes arose from the same criminal episode. The State concedes that Hale would appear to apply to this case, but that its application renders the habitual offender statute meaningless because it allows the trial court to impose a lesser sentence for an habitual offender than for a regular offender. The State argues Hale should preclude the imposition of consecutive minimum mandatory sentences, but not consecutive sentences in all circumstances.\nWhile we understand the State's frustration, we have no choice but to apply Hale to this case, vacate the sentences, and remand for resentencing with directions to impose concurrent sentences. \"We find nothing in the language of the habitual offender statute which suggests that the legislature also intended that, once the sentences from multiple crimes committed during a single criminal episode have been enhanced through the habitual offender statutes, the total penalty should then be further increased by ordering that the sentences run consecutively.\" Hale, 630 So.2d at 524. We also certify the following question to the Florida Supreme Court as one of great public importance:\nWhether Hale v. State, 630 So. 2d 521 (Fla. 1993), cert. denied, Case No. 94-5612 [___ U.S. ___, 115 S. Ct. 278, 130 L. Ed. 2d 195] (U.S. Oct. 3, 1994), precludes under all circumstances the imposition of consecutive sentences for crimes arising from a single criminal episode for habitual felony or habitual violent felony offenders?\nHill also argues, and the State concedes, that the trial court erred in referring on the judgment form to section 775.087, Florida Statutes (1993). The elements of the statute were neither proven by the State nor relied upon by the trial court in enhancing the defendant's sentence. On remand, the trial court should correct the judgment form.\nIn summary, we hold that the trial court erroneously sentenced Hill as an habitual violent felony offender to consecutive prison terms. We affirm Hill's convictions; vacate his sentences and remand with direction to impose concurrent sentences and correct the judgment form; and certify a question to the Florida Supreme Court as one of great public importance.\nNOTES\n[1]  The defendant claims he is entitled to a new trial because the prosecution improperly used a peremptory strike on an African-American potential juror. After reviewing the record, we find no merit in this argument.\n\n",
+            "ocr": false,
+            "opinion_id": 1604133
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

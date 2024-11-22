@@ -1,0 +1,46 @@
+{
+    "id": 6087694,
+    "judges": null,
+    "date_filed": 714614400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-goodson",
+    "case_name_short": "Goodson",
+    "case_name": "People v. Goodson",
+    "case_name_full": "The People of the State of New York v. Thomas Goodson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "185 A.D.2d 945"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the Supreme Court, Kings County (Marrus, J.), rendered August 28, 1990, convicting him of sodomy in the first degree and robbery in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\n*946The defendant did not object to the comments made by the prosecutor on summation and, therefore, no error of law was preserved for appellate review (see, People v Nuccie, 57 NY2d 818). In any event, the prosecutor\u2019s remarks constituted fair comment upon the evidence or were responsive to arguments raised by the defense in summation and did not exceed the bounds of permissible rhetorical comment (see, People v Galloway, 54 NY2d 396; People v Guthrie, 157 AD2d 668; People v Estrella, 156 AD2d 710; People v Brown, 158 AD2d 461; People v Vaughn, 136 AD2d 752).\nThe defendant\u2019s remaining contentions are either unpreserved for appellate review or without merit. Bracken, J. P., Sullivan, Harwood and Lawrence, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5952041
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

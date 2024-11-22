@@ -1,0 +1,47 @@
+{
+    "id": 1331299,
+    "judges": "Clark, Deen, Jordan",
+    "date_filed": 67737600000,
+    "date_filed_is_approximate": false,
+    "slug": "wells-v-state",
+    "case_name_short": "Wells",
+    "case_name": "Wells v. State",
+    "case_name_full": "Wells v. the State",
+    "attorneys": "Marshall L. Fountain, for appellant., H. R. Thompson, District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted February 7, 1972",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b613-7\">\n    46907.\n   </docketnumber><parties id=\"AIdj\">\n    WELLS v. THE STATE.\n   </parties>",
+    "citations": [
+        "188 S.E.2d 407",
+        "125 Ga. App. 579"
+    ],
+    "opinions": [
+        {
+            "author_str": "Deen",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7150.0,
+            "opinion_text": "\n125 Ga. App. 579 (1972)\n188 S.E.2d 407\nWELLS\nv.\nTHE STATE.\n46907.\nCourt of Appeals of Georgia.\nSubmitted February 7, 1972.\nDecided February 24, 1972.\nMarshall L. Fountain, for appellant.\nH. R. Thompson, District Attorney, for appellee.\nDEEN, Judge.\nUnder the new criminal code (Ga. L. 1968, pp. 1249, 1280 et seq.) numerous offenses formerly specifically set out are grouped as assaults or batteries. Ch. 26-13. The former offense of mayhem is replaced by Code Ann. \u00a7 26-1305 (aggravated battery) and the offense of shooting at another by Code Ann. \u00a7 26-1302 (aggravated assault), according to notes of the Criminal Law Study Committee (Ga. L. 1961, p. 96). Presumably aggravated assault (\"assault... with a deadly weapon\") was also intended to include the former offense of stabbing provided the weapon was in fact of the denominated character. That a knife \"designed for the purpose of offense and defense\" is in the new criminal code a deadly weapon *580 almost by definition, see Code Ann. \u00a7 26-2901, 26-2902.\nWe are called upon here to decide whether the evidence supported a verdict of aggravated assault as against the contention that there was no proof the victim was assaulted with a deadly weapon. The defendant admitted cutting his estranged wife during a visit to the quarters where she was living. The victim identified the instrument as a switchblade knife; medical testimony established a 3/4-inch puncture wound in the chest above the second rib, and a portion of the knife blade broken off in the wound was exhibited to the jury. There was also a superficial wound in the back consistent with testimony that after the frontal blow the witness was cut again with the broken blade.\nIt is true that nobody testified in terms that a switchblade knife is a deadly weapon. It has a well defined meaning, being a pocketknife which flies open when a spring is released. Webster's Third International Dictionary. The jury had some information of its size and potential from viewing the recovered portion of the blade and the medical description of the wound. As to the former offense of assault with intent to murder, the rule was that if the indictment charged an assault with a knife as an instrument likely to produce death, such face must be explicitly proved. Paschal v. State, 125 Ga. 279 (1) (54 SE 172); Jackson v. State, 56 Ga. App. 374 (1) (192 SE 633). But the testimony need only be sufficient to sustain a jury inference to this effect. \"The lethal character of the weapon used in making an assault may be inferred from the effect and nature of the wound inflicted.\" Nelson v. State, 4 Ga. App. 223 (60 SE 1072); Hardy v. State, 24 Ga. App. 141 (100 SE 20); Jackson v. State, 56 Ga. App. 374 (1) (192 SE 633). In Chisholm v. State, 41 Ga. App. 311 (152 SE 907), it was held that the trial court did not err in instructing the jury it was for them to decide whether a pocketknife with which the prosecutor was stabbed was a deadly weapon. The evidence here was sufficient to support the verdict. Since the court instructed *581 the jury as to the offenses of simple and aggravated assault, and that \"aggravated assault is a more serious crime in that it puts the denomination of one more factor to the offense of simple assault; that is, that it was done, the assault was committed, with a deadly weapon,\" the defendant, had he wished further instructions on the subject, should have submitted a timely written request.\nJudgment affirmed. Jordan, P. J., and Clark, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1331299
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

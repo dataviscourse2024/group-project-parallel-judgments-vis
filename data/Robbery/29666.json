@@ -1,0 +1,46 @@
+{
+    "id": 5271923,
+    "judges": "Blackmar, Crahan, Russell",
+    "date_filed": 965692800000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-rulo",
+    "case_name_short": "Rulo",
+    "case_name": "State v. Rulo",
+    "case_name_full": "STATE of Missouri v. Richard A. RULO",
+    "attorneys": "Mary J. Lake, Hillsboro, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Krista D. Boston, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing and/or Transfer to Supreme Court Denied Oct. 4, 2000.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "28 S.W.3d 369"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nORDER\n\nPER CURIAM.\nRichard Rulo (\u201cDefendant\u201d) appeals the judgment entered upon his convictions of robbery in the first degree and robbery in the second degree, sections 569.020 and 569.030 RSMo 1994, for which he was sentenced to consecutive terms of ten years imprisonment and five years imprisonment, respectively.\nWe have reviewed the briefs of the parties and the record on appeal and find no merit to the points raised on appeal. An extended opinion would have no prece-dential value. We have, however, furnished the parties with a brief memorandum for their use only, explaining the reason for our decision. We affirm the judgment pursuant to Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5099459
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

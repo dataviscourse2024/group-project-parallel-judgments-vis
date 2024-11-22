@@ -1,0 +1,46 @@
+{
+    "id": 1631201,
+    "judges": "Altenbernd",
+    "date_filed": 1029283200000,
+    "date_filed_is_approximate": false,
+    "slug": "lang-v-state",
+    "case_name_short": "Lang",
+    "case_name": "Lang v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "826 So. 2d 433"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6817.0,
+            "opinion_text": "\n826 So. 2d 433 (2002)\nJames E. LANG, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 2D01-4391.\nDistrict Court of Appeal of Florida, Second District.\nAugust 14, 2002.\nRehearing Denied September 30, 2002.\n*434 James E. Lang, pro se.\nRobert A. Butterworth, Attorney General, Tallahassee, and William I. Munsey, Jr., Assistant Attorney General, Tampa, for Appellee.\nALTENBERND, Judge.\nJames E. Lang appeals the trial court's order denying his motion for postconviction relief. We affirm.\nThe police stopped Mr. Lang on December 18, 1998, because they believed he was committing auto theft. As a result of this stop, Mr. Lang was ultimately charged with six offenses, including aggravated battery on a law enforcement officer, felon in possession of a firearm, and possession of a firearm by a violent career criminal. Mr. Lang filed a pretrial motion to suppress evidence of the firearm found on his person, arguing that the officers did not have reasonable suspicion to detain him, and therefore, the firearm was tainted evidence. The trial court denied his motion. Thereafter, Mr. Lang was convicted by a jury of the two offenses involving possession of the firearm. After his trial, he pleaded nolo contendere to the remaining charges of aggravated battery on a law enforcement officer, carrying a concealed firearm, alteration of a firearm serial number, and trespass.\nIn his timely motion for postconviction relief pursuant to Florida Rule of Criminal Procedure 3.850, Mr. Lang primarily argued that his trial counsel was ineffective because she failed to preserve the suppression issue for appeal.[1] The trial court conducted an evidentiary hearing on this claim and found that Mr. Lang's lawyer failed to preserve the suppression issue for appeal. Nevertheless, the trial court denied Mr. Lang's postconviction motion. We affirm the trial court's denial of Mr. Lang's motion because any ineffectiveness of counsel did not prejudice Mr. Lang.\n*435 Even assuming the officers in this case did not have reasonable suspicion to detain Mr. Lang for auto theft, Mr. Lang resisted the officer's stop with violence and committed a battery on a police officer. This act against the officer was unlawful regardless of any potential technical illegality in the officer's initial stop. See, e.g., Nesmith v. State, 616 So. 2d 170, 171 (Fla. 2d DCA 1993). Once Mr. Lang committed the battery against the police officer, the police had probable cause to arrest him and to conduct the search incident to that arrest, during which the firearm was discovered on his person. See Lennear v. State, 784 So. 2d 1181, 1183 (Fla. 5th DCA 2001) (citing Reed v. State, 606 So. 2d 1246 (Fla. 5th DCA 1992); Jones v. State, 570 So. 2d 433 (Fla. 5th DCA 1990)); see also Bradford v. State, 567 So. 2d 911, 914 (Fla. 1st DCA 1990). Based on these facts and the case law, the trial court's denial of Mr. Lang's motion to suppress would have been affirmed on appeal. As such, defense counsel's failure to preserve the suppression issue during trial, even if it constituted ineffective assistance, did not prejudice Mr. Lang.\nOnly one other claim merits discussion in this case. Following the evidentiary hearing in the postconviction proceeding, but prior to the entry of the trial court's order, Mr. Lang filed amendments to his motion adding several additional grounds. The amendments were filed within the two-year period allowed for such motions. The trial court regarded the amendments as untimely because they were filed after the evidentiary hearing. The trial court denied the amendments without addressing the merits of the new grounds. The trial court's ruling was probably supported by our decision in McConn v. State, 708 So. 2d 308 (Fla. 2d DCA 1998) (en banc). However, McConn was effectively overruled by the supreme court's decision in Gaskin v. State, 737 So. 2d 509 (Fla.1999), which requires a trial court to address timely amendments that are filed prior to the entry of an order disposing of a postconviction motion. Thus, the trial court should have considered Mr. Lang's amendments. We have reviewed Mr. Lang's amendments and conclude that the grounds raised are either facially insufficient or are conclusively refuted by the documents already in our record. Accordingly, the trial court's error was harmless.\nAffirmed.\nGREEN and SILBERMAN, JJ., Concur.\nNOTES\n[1]  We affirm the trial court's decision to deny relief on several other grounds without comment.\n\n",
+            "ocr": false,
+            "opinion_id": 1631201
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7961320,
+    "judges": null,
+    "date_filed": -141091200000,
+    "date_filed_is_approximate": false,
+    "slug": "joyner-v-state",
+    "case_name_short": "Joyner",
+    "case_name": "Joyner v. State",
+    "case_name_full": "JOYNER v. STATE",
+    "attorneys": "Irving B. Klitzner for appellant., Submitted on brief by Thomas B. Finan, Attorney General, Stuart H. Rome, Assistant Attorney General, Charles B. Moylan, Jr. and Lucy Ann Garvey, State\u2019s Attorney and Assistant State\u2019s Attorney, respectively, for Baltimore City, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "239 Md. 707"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nThis is another frivolous appeal. Appellant\u2019s only contention is that the evidence was insufficient to support his conviction in a non-jury trial for breaking into a storehouse and stealing therefrom. The State\u2019s proof showed that the police found the appellant and an accomplice in a lunchroom early one morning with 28 packs of chewing gum and $15.50 in nickels, taken from the establishment, as well as a screwdriver, in their pockets. Other merchandise was strewn about the place. Entrance had been gained by breaking a panel and a lock on a rear door. The trial judge was not required to believe the appellant\u2019s story *708that he had entered the lunchroom the evening before, when it was still open for business, had remained therein all night, and had taken no part in breaking in. The evidence was ample to sustain the conviction.\n\nJudgment affirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 7912995
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Robbery"
+}

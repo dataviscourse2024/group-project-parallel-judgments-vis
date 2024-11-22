@@ -1,0 +1,47 @@
+{
+    "id": 5849702,
+    "judges": "Mercure",
+    "date_filed": 1152748800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-alexander",
+    "case_name_short": "Alexander",
+    "case_name": "People v. Alexander",
+    "case_name_full": "The People of the State of New York v. Natara J. Alexander",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "31 A.D.3d 885",
+        "817 N.Y.S.2d 786"
+    ],
+    "opinions": [
+        {
+            "author_str": "Mercure",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMercure, J.P.\nAppeal from a judgment of the Supreme Court *886(Teresi, J.), rendered September 16, 2004 in Albany County, convicting defendant upon her plea of guilty of the crimes of identity theft in the first degree, possession of a forged instrument in the second degree (two counts) and grand larceny in the fourth degree.\nPursuant to a negotiated plea agreement, defendant waived indictment and pleaded guilty to a superior court information charging her with identity theft in the first degree, two counts of possession of a forged instrument in the second degree and grand larceny in the fourth degree in connection with her use of another\u2019s identity to cash forged checks at several banking institutions in Albany County. Additionally, defendant waived her right to appeal. As agreed, Supreme Court ordered that defendant pay restitution in the amount of $28,000 and imposed prison terms of 2 to 4 years on each charge, directing that the sentences run concurrently with each other as well as the sentence imposed upon defendant\u2019s violation of probation. Defendant now appeals.\nDefendant\u2019s challenge to the sufficiency of the plea allocution is precluded by her waiver of the right to appeal and the issue of the voluntariness of her plea is not preserved for our review due to her failure to make a motion to withdraw the plea or vacate the judgment of conviction (see People v Johnson, 21 AD3d 1149, 1149 [2005]; People v Mondore, 18 AD3d 961, 961 [2005]; People v Sharlow, 12 AD3d 724, 725 [2004], lv denied 4 NY3d 748 [2004]; People v MacCue, 8 AD3d 910, 911 [2004], lv denied 3 NY3d 708 [2004]). The exception to the preservation rule is not applicable here because defendant made no statements inconsistent with her guilt (see People v Johnson, supra at 1149; People v Mondore, supra at 961; People v Sharlow, supra at 725). Were we to review the issue of the voluntariness of the plea, we would conclude that reversal in the interest of justice is unwarranted. Before Supreme Court, defendant acknowledged each of the rights being relinquished and specifically waived her right to appeal. Furthermore, defendant\u2019s responses to questions posed by Supreme Court established the elements of the crimes. Nothing in the record indicates that defendant\u2019s plea was anything less than knowing, voluntary and intelligent. Finally, defendant\u2019s valid waiver of the right to appeal precludes her claim that the sentence was unduly severe and should be reduced in the interest of justice (see People v Lopez, 6 NY3d 248, 255-256 [2006]; People v Mondore, supra at 962; People v Clow, 10 AD3d 803, 804 [2004]).\nCarpinello, Mugglin, Rose and Kane, JJ., concur. Ordered that the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5705806
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

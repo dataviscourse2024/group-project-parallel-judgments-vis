@@ -1,0 +1,47 @@
+{
+    "id": 2993886,
+    "judges": "Clark, Devine, Garry, Lahtinen",
+    "date_filed": 1443052800000,
+    "date_filed_is_approximate": false,
+    "slug": "matter-of-foster-v-new-york-state-parole-board",
+    "case_name_short": null,
+    "case_name": "Matter of Foster v. New York State Parole Board",
+    "case_name_full": "In the Matter of Warren Foster, Appellant, v. New York State Parole Board, Respondent",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"Alas\">\n    In the Matter of Warren Foster, Appellant, v New York State Parole Board, Respondent.\n   </parties><citation id=\"ACu\">\n    [16 NYS3d 633]\n   </citation>",
+    "citations": [
+        "131 A.D.3d 1332",
+        "16 N.Y.S.3d 633"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 3.0,
+            "download_url": "http://decisions.courts.state.ny.us/ad3/Decisions/2015/520441.pdf",
+            "author_id": null,
+            "opinion_text": "                          State of New York\n                   Supreme Court, Appellate Division\n                      Third Judicial Department\nDecided and Entered: September 24, 2015                   520441\n________________________________\n\nIn the Matter of WARREN\n   FOSTER,\n                    Appellant,\n      v                                     MEMORANDUM AND ORDER\n\nNEW YORK STATE PAROLE BOARD,\n                    Respondent.\n________________________________\n\n\nCalendar Date:   August 10, 2015\n\nBefore:   Lahtinen, J.P., Garry, Devine and Clark, JJ.\n\n                             __________\n\n\n     Warren Foster, Moravia, appellant pro se.\n\n      Eric T. Schneiderman, Attorney General, Albany (Frank Brady\nof counsel), for respondent.\n\n                             __________\n\n\n      Appeal from a judgment of the Supreme Court (McCarthy, J.),\nentered December 12, 2014 in Albany County, which, in a\nproceeding pursuant to CPLR article 78, granted respondent's\nmotion to dismiss the petition.\n\n      Petitioner is currently serving a prison term of 16 years\nto life as a result of his conviction of robbery in the second\ndegree (People v Foster, 300 AD2d 131 [2002], lv denied 99 NY2d\n628 [2003]). He reappeared before the Board of Parole in May\n2014 and, following a hearing, the Board denied his application\nfor discretionary parole release and ordered him held for an\nadditional 24 months. Petitioner filed a notice of appeal to the\nBoard's appeals unit but subsequently withdrew it. Thereafter\npetitioner commenced this CPLR article 78 proceeding challenging\nthe Board's determination denying parole. Supreme Court granted\nrespondent's motion to dismiss based upon petitioner's failure to\n\f                              -2-                520441\n\nexhaust administrative remedies, prompting this appeal.\n\n      We affirm. Under established law, \"one who objects to the\nact of an administrative agency must exhaust available\nadministrative remedies before being permitted to litigate in a\ncourt of law\" (Town of Oyster Bay v Kirkland, 19 NY3d 1035, 1038\n[2012], cert denied ___ US ___, 133 S. Ct. 1502 [2013] [internal\nquotation marks and citation omitted]; see Matter of Adams v\nEvans, 92 AD3d 1056, 1057 [2012]; Matter of Connerton v Ryan, 86\nAD3d 698, 699 [2011]; see also Executive Law \u00a7 259-i [4]; 9 NYCRR\n8006.1 et seq.). Supreme Court correctly found that petitioner's\nwithdrawal of his administrative appeal and consequent failure to\nperfect his appeal and exhaust his administrative remedies\npreclude judicial review of respondent's determination (see\nPiedra v New York State Div. of Parole, 117 AD3d 477, 477 [2014];\nMatter of Adams v Evans, 92 AD3d at 1057 [2012]; Matter of Boddie\nv Alexander, 65 AD3d 1446, 1447 [2009], appeal dismissed 13 NY3d\n886 [2009]). Petitioner's mere assertion of constitutional\nclaims does not relieve him of the obligation to first exhaust\nadministrative remedies that could provide the requested relief\n(see Town of Oyster Bay v Kirkland, 19 NY3d at 1038; accord\nMatter of Schulz v State of New York, 86 NY2d 225, 232 [1995];\nMatter of Connerton v Ryan, 86 AD3d at 700; Matter of Boddie v\nAlexander, 65 AD3d at 1447). Petitioner's claim that the Board\nfailed to properly apply the relevant statutes to his application\nfor release presented factual issues that are reviewable on an\nadministrative appeal (see Town of Oyster Bay v Kirkland, 19 NY3d\nat 1038; Piedra v New York State Div. of Parole, 117 AD3d at\n477).\n\n     Lahtinen, J.P., Garry, Devine and Clark, JJ., concur.\n\f                        -3-                  520441\n\nORDERED that the judgment is affirmed, without costs.\n\n\n\n\n                       ENTER:\n\n\n\n\n                       Robert D. Mayberger\n                       Clerk of the Court\n\f",
+            "ocr": false,
+            "opinion_id": 2993886
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

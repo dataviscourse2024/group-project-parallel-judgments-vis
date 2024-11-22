@@ -1,0 +1,46 @@
+{
+    "id": 1693047,
+    "judges": "Laborde, Knoll and King",
+    "date_filed": 643593600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-melancon",
+    "case_name_short": "Melancon",
+    "case_name": "State v. Melancon",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "563 So. 2d 913"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7416.0,
+            "opinion_text": "\n563 So. 2d 913 (1990)\nSTATE of Louisiana, Plaintiff-Appellee,\nv.\nLinston MELANCON, Defendant-Appellant.\nNo. CR 89-1150.\nCourt of Appeals of Louisiana, Third Circuit.\nMay 25, 1990.\nJ. Lyle DeBellevue, Crowley, for defendant-appellant.\nGlennon P. Everett, Asst. Dist. Atty., Crowley, for plaintiff-appellee.\nBefore LABORDE, KNOLL and KING, JJ.\nKNOLL, Judge.\nDefendant, Linston Melancon, seeks a reversal of his conviction for armed robbery contending the trial court erred in not granting his motion to quash the petit jury venire because the venire did not contain a representative percentage of black potential jurors.\nDefendant, a black male, was found guilty by an all white jury. He was sentenced to 20 years at hard labor without benefit of parole, probation, or suspension of sentence.\n\nPETIT JURY VENIRE\nDefendant contends that he was denied a fair trial because the pool of potential jurors in the petit jury venire contained so few blacks that the jury could not be selected from a representative and fair cross-section of the community. This underrepresentation of blacks resulted in an all white jury. Defendant does not allege any form of discrimination by the State or that the selection process of the petit jury venire is discriminatory.\n*914 A defendant is entitled to a trial by an impartial jury. U.S. Const. Amend. VI; La.Const. art. 1 section 16. Implicit in the concept of an impartial jury is the inclusion of a representative venire so that the jury will be drawn from a fair cross-section of the community. Holland v. Illinois, ___ U.S. ___, ___, 110 S. Ct. 803, 807, 107 L. Ed. 2d 905, 916 (1990). To pass muster under the U.S. Constitution and the La. Constitution, the venire from which juries are drawn must not systematically exclude distinctive groups in the community. Taylor v. Louisiana, 419 U.S. 522, 538, 95 S. Ct. 692, 702, 42 L. Ed. 2d 690, 702 (1975); State v. Curry, 262 La. 280, 263 So. 2d 36 (1972). Moreover, the jurisprudence is clear that a criminal defendant is not entitled to any particular jury or to any jury with a specific racial composition. Batson v. Kentucky, 476 U.S. 79, 86, 106 S. Ct. 1712, 1717, 90 L. Ed. 2d 69, 80 (1986); State v. Stephenson, 291 So. 2d 767, 768 (La.1974); State v. Worthen, 550 So. 2d 399, 400 (La.App. 3rd Cir.1989).\nUnder Louisiana law, a petit jury venire shall not be set aside for any reason unless fraud has been practiced or some great wrong committed that would cause irreparable injury to the defendant, or unless persons were systematically excluded from the venires solely upon the basis of race. LSA-C.Cr.P. Art. 419.\nIn the case sub judice, it is undisputed that the 200 persons in the petit jury venire were selected at random by a computer. After several persons were excused from jury service, the clerk pulled twelve names at random from the jury box, and continued accordingly until a twelve person jury was selected. During voir dire, the State successfully challenged two jurors for cause but did not peremptorily challenge any jurors. The defendant successfully challenged two jurors for cause and peremptorily challenged five jurors. Although the petit jury venire was approximately 5% to 10% black,[1] no blacks were selected for voir dire. After an all white jury was selected, accepted and sworn in, the defendant filed a motion to quash the petit jury venire on the basis that it did not contain a representative cross-section of the community. According to the defendant, this forced him \"to go to trial with an all white jury.\"\nIn State v. Kirts, 447 So. 2d 1 (La.App. 3rd Cir.1983), writ not considered, 464 So. 2d 306 (La.1985), this court addressed and rejected the same argument defendant asserts in the case sub judice. In Kirts, defense counsel filed a motion to quash the petit jury venire on the morning of trial, contending that the petit jury venire was racially imbalanced. Although no allegation of discrimination was offered for the racial imbalance, counsel for defendant asserted that a newly drawn venire, representative of a crosssection of the community, was necessary to assure that defendant would be judged by a fair and impartial jury. On appeal from the trial court's refusal to grant the motion to quash, we rejected Kirts' argument. We held that the defendant failed to make a prima facie showing of discrimination where there are no allegations of fraud, and the record is devoid of any indications of such, or that some great wrong was committed that would work irreparable injury to him. Id. 447 So.2d at 3.\nIn the case sub judice, defendant asserts that he was prejudiced by the petit jury venire. We disagree. At the argument of the motion to quash, defense counsel stated that he was not alleging fraud, and offered no evidence of discrimination or irreparable injury attributable to the petit jury venire. Therefore, based on a careful examination of the record, we find that the trial court properly denied defendant's motion to quash the petit jury venire, finding that defendant failed to make a prima facie showing of discrimination. State v. Kirts, supra. Defendant's assignment of error is without merit.\n*915 For the foregoing reasons, the defendant's conviction is affirmed.\nAFFIRMED.\nNOTES\n[1]  The record is unclear on the percentage of blacks in the petit jury venire. At one place in the record, defense counsel approximates black representation at 5%, and later at 10%. Nowhere in the record is an arithmetical computation of the percentage provided.\n\n",
+            "ocr": false,
+            "opinion_id": 1693047
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

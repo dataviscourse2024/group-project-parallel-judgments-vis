@@ -1,0 +1,47 @@
+{
+    "id": 4152647,
+    "judges": "Brooks",
+    "date_filed": -2069107200000,
+    "date_filed_is_approximate": false,
+    "slug": "lawhorn-v-state",
+    "case_name_short": "Lawhorn",
+    "case_name": "Lawhorn v. State",
+    "case_name_full": "Juet Lawhorn v. the State",
+    "attorneys": "Henderson  Robison  and  Bolin  Terrell,  for appellant.\n\n Howard Martin,  Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of Morris. Tried below before Hon. P.A. Turner.\n\nAppeal from a conviction of theft of a horse; penalty, two years imprisonment in the penitentiary.\n\nNo statement necessary.",
+    "syllabus": null,
+    "headnotes": "<p>Continuance\u2014Motion for New Trial.</p> <p>Where to the motion for a new trial is attached the affidavit of the absent witness upon whose testimony the first application for continuance was refused, swearing to the facts set out in said application, and the testimoney is material and diligence having been used to procure his attendance, the motion should be granted regardless of what the court may think of the probable truth of said testimony.</p>",
+    "summary": "Appeal from the District Court of Morris. Tried below before Hon. P. A. Turner. Appeal from a conviction of theft of a horse; penalty, two years imprisonment in the penitentiary. Ho statement necessary.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b575-4\">\n    Juet Lawhorn v. The State.\n   </parties><br><docketnumber id=\"b575-5\">\n    No. 2794.\n   </docketnumber><decisiondate id=\"AYWH\">\n    Decided June 8, 1904.\n   </decisiondate><br><headnotes id=\"b575-6\">\n    Continuance\u2014Motion for New Trial.\n   </headnotes><br><headnotes id=\"b575-7\">\n    Where to the motion for a new trial is attached the affidavit of the absent witness upon whose testimony the first application for continuance was refused, swearing to the facts set out in said application, and the testimoney is material and diligence having been used to procure his attendance, the motion should be granted regardless of what the court may think of the probable truth of said testimony.\n   </headnotes><br><summary id=\"b575-8\">\n    Appeal from the District Court of Morris. Tried below before Hon. P. A. Turner.\n   </summary><br><summary id=\"b575-9\">\n    Appeal from a conviction of theft of a horse; penalty, two years imprisonment in the penitentiary.\n   </summary><br><summary id=\"b575-10\">\n    Ho statement necessary.\n   </summary><br><attorneys id=\"b575-11\">\n<em>\n     Henderson- &amp; Robison\n    </em>\n    and\n    <em>\n     Bolin &amp;\n    </em>\n    Terrell, for appellant.\n   </attorneys><br><attorneys id=\"b575-12\">\n<em>\n     Howard\n    </em>\n    Martin, Assistant Attorney-General, for the State.\n   </attorneys>",
+    "citations": [
+        "81 S.W. 714",
+        "46 Tex. Crim. 555"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brooks",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Appellant was convicted of horse theft. When the case was called for trial appellant presented his first application for continuance, among other things, for want of the testimony of Mrs. Josephine Pickens, by whom he proposed to prove, in substance, that she (Mrs. Pickens) saw a negro pass her house riding one horse and leading a claybank horse, which claybank horse was subsequently claimed by prosecuting witness Snellgrove. Appellant's defense was that he bought the horse, for the theft of which he was being tried, from said mulatto negro. The witness was properly subpoenaed, but was not present at the trial. Attached to the motion for new trial is the affidavit of said Mrs. Josephine Pickens, swearing to the facts above set forth. While the writer believes the record demonstrates the lack of probable truth of her affidavit, yet the majority of the court hold that, where a witness has been summoned and the testimony is material, and the continuance is refused, if appellant attaches to the motion for new trial the affidavit of the absent witness swearing to the facts claimed by him in his application he expected to prove, they will not speculate as to the probable truth of said statement; in other words, that the affidavit per se entitles appellant to a new trial. In the opinion of the writer this proposition contravenes one phase of the statute on continuances, which requires the court to pass not only upon the materiality but the probable truth of the absent testimony; and the fact of the filing of an affidavit does not change the right of this court to pass upon the probable truth. But the majority differ with the writer on this question. For a discussion on this matter see Banes v. State, 42 Tex.Crim. Rep., 1 Texas Ct. Rep., 116; Freeman v. State, 8 Texas Ct. Rep., 173. It follows from the opinion of the majority on this *Page 556 \nquestion that the court erred in not granting the motion for new trial. For which error, the judgment is reversed and the cause remanded.\nReversed and remanded.",
+            "ocr": false,
+            "opinion_id": 3917441
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

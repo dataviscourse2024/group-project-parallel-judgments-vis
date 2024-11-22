@@ -1,0 +1,46 @@
+{
+    "id": 1839797,
+    "judges": "Cope, Goderich and Shevin",
+    "date_filed": 896832000000,
+    "date_filed_is_approximate": false,
+    "slug": "hart-v-state",
+    "case_name_short": "Hart",
+    "case_name": "Hart v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "710 So. 2d 1047"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n710 So. 2d 1047 (1998)\nJerome HART, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 97-1329.\nDistrict Court of Appeal of Florida, Third District.\nJune 3, 1998.\nBennett H. Brummer, Public Defender, and Robert Kalter, Assistant Public Defender, for appellant.\nRobert A. Butterworth, Attorney General, and Terri Leon-Benner, Assistant Attorney General, for appellee.\nBefore COPE, GODERICH and SHEVIN, JJ.\nPER CURIAM.\nJerome Hart appeals his conviction for burglary of an unoccupied conveyance and the order of restitution. We find no trial error and affirm the conviction.\nDefendant-appellant contends that the evidence is insufficient to support the $500 restitution order. This claim is not properly preserved for appellate review, because it was not presented in the first instance in the trial court. See \u00a7 924.051(3), Fla. Stat. (Supp.1996). Loring v. State, 674 So. 2d 165, 168 (Fla. 4th DCA 1996); Gliszczynski v. State, 654 So. 2d 579, 580 (Fla. 5th DCA 1995); Bayer v. State, 597 So. 2d 870, 871-72 (Fla. 5th DCA 1992).\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 1839797
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

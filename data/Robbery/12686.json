@@ -1,0 +1,46 @@
+{
+    "id": 1530706,
+    "judges": "Douglas",
+    "date_filed": 100310400000,
+    "date_filed_is_approximate": false,
+    "slug": "ex-parte-mckenzie",
+    "case_name_short": null,
+    "case_name": "Ex Parte McKenzie",
+    "case_name_full": "Ex Parte Gene Everett McKENZlE",
+    "attorneys": "Herbert Green, Jr., Dallas, for relator., Jim D. Vollers, State\u2019s Atty. and Robert A. Huttash, Asst. State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 130,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b154-22\">\n    Ex parte Gene Everett McKENZlE.\n   </parties><br><docketnumber id=\"b154-23\">\n    No. 46641.\n   </docketnumber><br><court id=\"b154-24\">\n    Court of Criminal Appeals of Texas.\n   </court><br><decisiondate id=\"b154-25\">\n    March 7, 1973.\n   </decisiondate><br><attorneys id=\"b155-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"123\"> \n     *123\n     </span>\n    Herbert Green, Jr., Dallas, for relator.\n   </attorneys><br><attorneys id=\"b155-6\">\n    Jim D. Vollers, State\u2019s Atty. and Robert A. Huttash, Asst. State\u2019s Atty., Austin, for the State.\n   </attorneys>",
+    "citations": [
+        "491 S.W.2d 122"
+    ],
+    "opinions": [
+        {
+            "author_str": "Douglas",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5753.0,
+            "opinion_text": "\n491 S.W.2d 122 (1973)\nEx parte Gene Everett McKENZIE.\nNo. 46641.\nCourt of Criminal Appeals of Texas.\nMarch 7, 1973.\n*123 Herbert Green, Jr., Dallas, for relator.\nJim D. Vollers, State's Atty. and Robert A. Huttash, Asst. State's Atty., Austin, for the State.\n\nOPINION\nDOUGLAS, Judge.\nThis is a post conviction habeas corpus proceeding. The complaint is that applicant was denied a speedy trial. McKenzie was convicted in 1968 for an offense committed in 1964.\nWhen this contention was raised on appeal in McKenzie v. State, 450 S.W.2d 67, the record then showed a motion for speedy trial was filed in June, 1968. The trial was held in September of 1968. This Court held under that record that he was not denied a speedy trial.\nIn 1972, the applicant was taken from the Texas Department of Corrections, where he was serving other sentences, to Dallas for a hearing on the application for a writ of habeas corpus. A hearing was conducted by the Honorable Jerome Chamberlain, Judge of the Criminal District Court of Dallas County. After the hearing, Judge Chamberlain found that the applicant had written letters and made requests for a speedy trial and concluded that the applicant \"was, to his prejudice, denied a speedy trial.\"\nThe indictment returned on November 4, 1964, in the present case recites that McKenzie committed the offense of robbery on or about the 13th day of October, 1964. Evidence was introduced at the habeas corpus hearing that witnesses who could have testified that McKenzie was in Alabama on that date had died and were unavailable at the trial. Copies of letters and a motion showing the applicant had requested a speedy trial were introduced. One was dated December 1, 1967. A copy of a motion for speedy trial prepared while the applicant was incarcerated in Mississippi, dated May 9, 1967, was introduced. It recited that in 1965 detainers or warrants for him were issued in Dallas County. He requested that a speedy trial be afforded him or that charges be dismissed. It is not shown what happened to this motion, but on December 1, 1967, the applicant, who was then in the correctional institution in Mississippi, received a letter from a student deputy counsel for a legal clinic at Southern Methodist University reciting that he had talked to the district attorney and that the district attorney refused to extradite the applicant. The letter also recited that the letters of the applicant and his mother had been received and answered by the district attorney's office. Without reciting everything that was introduced at the hearing, suffice it to say, there was sufficient evidence for the hearing judge to conclude, as he did, that the applicant had been prejudiced by the denial of a speedy trial.\nThe Sixth and Fourteenth Amendments to the United States Constitution and Article 1, Section 10 of the Constitution of the State of Texas, Vernon's Annotated Statutes, guarantee the right of a speedy trial. In Courtney v. State, Tex. Cr.App., 472 S.W.2d 151, this Court discussed the four factors to be considered in an alleged violation of an accused's right to a speedy trial. They are the length of delay, reason for delay, waiver of the right and prejudice to the accused. Cases from other jurisdictions and the different approaches were also discussed. There we adopted the test that if an accused made a prima facie showing of prejudice, the State \"must carry the obligation of proving that the accused suffered no serious prejudice beyond that which ensued from the ordinary and inevitable delay.\" See also Barker v. Wingo, 407 U.S. 514, 92 S. Ct. 2182, *124 33 L. Ed. 2d 101 (1972); Perkins v. State, Tex.Cr.App., 485 S.W.2d 792, McKinney v. State, Tex.Cr.App., 491 S.W.2d 404 (1973).\nIn the present case, the applicant has made at least a prima facie showing of prejudice which has not been rebutted.\nFor the reasons stated, the applicant is entitled to be released in Cause No. E-8202-JH in the Criminal District Court of Dallas County. Since the denial of a speedy trial has prejudiced his right to a fair trial, the prosecution should be dismissed.\nIt is so ordered.\n",
+            "ocr": false,
+            "opinion_id": 1530706
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

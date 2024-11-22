@@ -1,0 +1,47 @@
+{
+    "id": 5958130,
+    "judges": null,
+    "date_filed": 1303171200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-chimilio",
+    "case_name_short": "Chimilio",
+    "case_name": "People v. Chimilio",
+    "case_name_full": "The People of the State of New York v. Richard Chimilio",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "83 A.D.3d 537",
+        "921 N.Y.S.2d 234"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, Bronx County (John N. Byrne, J.), rendered May 9, 2006, convicting defendant, upon his plea of guilty, of attempted robbery in the first degree, and sentencing him to a term of years, unanimously affirmed.\nThe court properly exercised its discretion in denying defendant\u2019s motion to withdraw his guilty plea, without granting a *538hearing (see People v Frederick, 45 NY2d 520 [1978]). \u201cWhen a defendant moves to withdraw a guilty plea, the nature and extent of the fact-finding inquiry rest[s] largely in the discretion of the Judge to whom the motion is made and a hearing will be granted only in rare instances\u201d (People v Brown, 14 NY3d 113, 116 [2010] [internal quotation marks omitted]).\nThe transcript of the plea proceeding demonstrates that the plea was knowingly, voluntarily and intelligently made. In his original and supplementary plea withdrawal motions, defendant alleged he was innocent and had been coerced by prior counsel, with particular reference to counsel\u2019s statement that defendant had \u201cno choice\u201d but to plead guilty. Despite ample opportunity to elaborate on his claims, and the assistance of new counsel, defendant did not establish any basis for vacating the plea or conducting a hearing. He did not give the court any reason to believe the allegedly coercive conduct amounted to anything more than frank advice, based on the strength of the People\u2019s case and defendant\u2019s predicted sentencing exposure, to accept the favorable plea offer.\nWe have considered and rejected defendant\u2019s remaining challenges to his plea. Concur\u2014Andrias, J.P., Saxe, Moskowitz, Richter and Manzanet-Daniels, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5816987
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

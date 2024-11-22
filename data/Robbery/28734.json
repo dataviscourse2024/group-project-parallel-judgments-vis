@@ -1,0 +1,46 @@
+{
+    "id": 5090006,
+    "judges": "Willson",
+    "date_filed": -2573856000000,
+    "date_filed_is_approximate": true,
+    "slug": "guynes-v-state",
+    "case_name_short": "Guynes",
+    "case_name": "Guynes v. State",
+    "case_name_full": "W. R. Guynes v. State",
+    "attorneys": "T. 8. Henderson and J. M. Balston, for the appellant., W. L. Davidson, Assistant Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Burglary\u2014Charge of the Court\u2014Indictment charging a nocturnal burglary -will authorize a conviction only upon proof that the burglary was committed in the night time. Instruction that the jury could convict upon proof that the accused committed the burglary either in the night time or day time, was material error.</p>",
+    "headnotes": null,
+    "summary": "Appeal from the District Court of Milam. Tried below before the Hon. John ST. Henderson. The conviction was for burglary, and the penalty assessed was a term of three years in the penitentiary. The ruling of the court on this appeal does not call for a statement of the facts. It may be said, however, that the testimony clearly established the burglary, and tended strongly to show the complicity of the defendant, but failed to show with certainty whether the offense was committed during the day time or at night.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "25 Tex. Ct. App. 584"
+    ],
+    "opinions": [
+        {
+            "author_str": "Willson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWillson, Judge.\nThis is a conviction for burglary, the indictment charging a burglary in the night time. In his charge the judge instructed the jury that they might convict if the evidence showed that the defendant committed the burglary, either in the night time or in the day time. Defendant excepted to this instruction, and reserved his exception by bill.\nIt was error to give such instruction, as under the indictment \u2022the conviction could only be had for a burglary committed in the night time. (Bravo v. The State, 20 Texas Ct. App., 188; Mace v. The State, 9 Texas Ct. App., 110.)\nThe judgment is reversed and the cause is remanded.\n\nReversed and remanded.\n\n",
+            "ocr": true,
+            "opinion_id": 4907368
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

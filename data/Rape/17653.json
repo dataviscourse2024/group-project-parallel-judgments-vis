@@ -1,0 +1,47 @@
+{
+    "id": 2303357,
+    "judges": "Robie",
+    "date_filed": 1201132800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-stuart",
+    "case_name_short": "Stuart",
+    "case_name": "People v. Stuart",
+    "case_name_full": "The PEOPLE, Plaintiff and Respondent, v. SHAWN RANSOM STUART, Defendant and Appellant",
+    "attorneys": "Counsel, Valerie G. Wass, under appointment by the Court of Appeal, for Defendant and Appellant., Edmund G. Brown, Jr., Attorney General, Dane R. Gillette, Chief Assistant Attorney General, Michael P. Farrell, Assistant Attorney General, and John G. McLean, Deputy Attorney General, for Plaintiff and Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber data-order=\"0\" data-type=\"docketnumber\" id=\"b284-3\">\n    [No. C054017.\n   </docketnumber><court data-order=\"1\" data-type=\"court\" id=\"A7k\">\n    Third Dist.\n   </court><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEE\">\n    Jan. 24, 2008.]\n   </decisiondate><br><parties data-order=\"3\" data-type=\"parties\" id=\"b284-4\">\n    THE PEOPLE, Plaintiff and Respondent, v. SHAWN RANSOM STUART, Defendant and Appellant.\n   </parties><br><p data-order=\"4\" data-type=\"attorneys\" id=\"b285-8\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"313\"> \n     *313\n     </span>\n    Counsel\n   </p><br><p data-order=\"5\" data-type=\"attorneys\" id=\"b285-9\">\n    Valerie G. Wass, under appointment by the Court of Appeal, for Defendant and Appellant.\n   </p><br><p data-order=\"6\" data-type=\"attorneys\" id=\"b285-10\">\n    Edmund G. Brown, Jr., Attorney General, Dane R. Gillette, Chief Assistant Attorney General, Michael P. Farrell, Assistant Attorney General, and John G. McLean, Deputy Attorney General, for Plaintiff and Respondent.\n   </p>",
+    "citations": [
+        "70 Cal. Rptr. 3d 920",
+        "159 Cal. App. 4th 312"
+    ],
+    "opinions": [
+        {
+            "author_str": "Robie",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6562.0,
+            "opinion_text": "\n70 Cal. Rptr. 3d 920 (2008)\n159 Cal. App. 4th 312\nThe PEOPLE, Plaintiff and Respondent,\nv.\nShawn Ransom STUART, Defendant and Appellant.\nNo. C054017.\nCourt of Appeal of California, Third District.\nJanuary 24, 2008.\nValerie G. Wass, under appointment by the Court of Appeal, for Defendant and Appellant.\nEdmund G. Brown, Jr., Attorney General, Dane R. Gillette, Chief Assistant Attorney General, Michael P. Farrell, Senior Assistant Attorney General, John G. McLean, Supervising Deputy Attorney General, for Plaintiff and Respondent.\nROBIE, J.\nPursuant to a negotiated agreement, defendant Shawn Ransom Stuart pled no contest to forcible rape and making criminal threats. The trial court imposed the upper term of eight years for the rape based on its finding that \"the circumstances in mitigation are not outweighed by those in aggravation, ... including the following, the crime involved great violence, great bodily injury with the threat of great bodily injury; defendant used or was armed with a weapon, and the victim *921 was particularly vulnerable.\" For making a criminal threat, the court imposed a consecutive term of eight months.\nOn appeal, defendant contends the court's imposition of the upper term for the rape based on its finding of the above factors violated his constitutional right to have the aggravating factors determined by a jury beyond a reasonable doubt as required by Cunningham v. California (2007) 549 U.S. ___, 127 S. Ct. 856, 166 L. Ed. 2d 856, Blakely v. Washington (2004) 542 U.S. 296, 124 S. Ct. 2531, 159 L. Ed. 2d 403, and Apprendi v. New Jersey (2000) 530 U.S. 466, 120 S. Ct. 2348, 147 L. Ed. 2d 435. We reject this claim.\nFollowing the filing of the briefs in this case, the California Supreme Court rendered its decision in People v. Black (2007) 41 Cal. 4th 799, 62 Cal. Rptr. 3d 569, 161 P.3d 1130, concluding that \"imposition of the upper term does not infringe upon the defendant's constitutional right to jury trial so long as one legally sufficient aggravating circumstance has been found to exist by the jury, has been admitted by the defendant, or is justified based upon the defendant's record of prior convictions.\" (Id. at p. 816, 62 Cal. Rptr. 3d 569, 161 P.3d 1130, italics added.) Consequently, \"[t]he issue to be determined in each case is whether the trial court's fact finding increased the sentence that otherwise could have been imposed, not whether it raised the sentence above that which otherwise would have been imposed.\" (Id. at p. 815, 62 Cal. Rptr. 3d 569, 161 P.3d 1130.)\nHere, although the court did not mention defendant's six prior misdemeanor convictions as a reason for imposing the upper term,[1] those convictions qualified as an aggravating circumstance under rule 4.421(b)(2) of the California Rules of Court, which provides that circumstances in aggravation include that \"[t]he defendant's prior convictions as an adult or sustained petitions in juvenile delinquency proceedings are numerous or of increasing seriousness.\" Six prior convictions are plainly \"numerous.\" Because one legally sufficient aggravating circumstance was justified based on defendant's record of prior convictions, the trial court's finding of additional aggravating circumstances did not violate defendant's constitutional rights under Black.\n\nDISPOSITION\nThe judgment is affirmed.\nWe concur: BLEASE, Acting P.J., and MORRISON, J.\nNOTES\n[1]  In discussing why it would have denied defendant probation even if he were not statutorily ineligible for probation, the trial court did note that \"defendant's prior record of criminal conduct indicates a pattern of regular, increasing serious conduct. He has six prior misdemeanors, even though this is his first felony....\"\n\n",
+            "ocr": false,
+            "opinion_id": 2303357
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Rape"
+}

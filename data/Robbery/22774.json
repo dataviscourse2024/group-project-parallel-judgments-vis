@@ -1,0 +1,47 @@
+{
+    "id": 3491704,
+    "judges": "Collins, Delaplaine, Henderson, Marbury, Markell",
+    "date_filed": -698457600000,
+    "date_filed_is_approximate": false,
+    "slug": "blount-v-wright",
+    "case_name_short": "Blount",
+    "case_name": "Blount v. Wright",
+    "case_name_full": "Charlie H. Blount v. . J. Le Roy Wright, Warden",
+    "attorneys": "Charlie H. Blount,  in  pro. per .\n\n Hall Hammond, Attorney General,  and  J. Edgar Harvey,  Assistant Attorney General,  for the appellee.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the Baltimore City Court (SMITH, J.).\n\n Habeas corpus  proceeding by Charlie H. Blount against J. Le Roy Wright, Warden of the Maryland House of Correction. From an order denying issuance of writ of  habeas corpus,  the applicant appeals.\n\nOrder affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 12,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b308-7\">\n    CHARLIE H. BLOUNT\n    <em>\n     v.\n    </em>\n    J. LE ROY WRIGHT, Warden\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b308-8\">\n    [No. 26,\n   </docketnumber><p data-order=\"2\" data-type=\"misc\" id=\"AS3\">\n    October Term, 1947.]\n   </p><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b309-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"295\"> \n     *295\n     </span>\n<em>\n     Decided November 14, 1947.\n    </em>\n</decisiondate><br><p data-order=\"4\" data-type=\"judges\" id=\"b309-9\">\n    The cause was argued before Marbury, C. J., and Delaplaine, Collins, Henderson, and Markell, JJ.\n   </p><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b309-10\">\n<em>\n     Charlie H. Blount,\n    </em>\n    in\n    <em>\n     pro. per.\n    </em>\n</attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b309-11\">\n<em>\n     Hall Hammond, Attorney General,\n    </em>\n    and ,7.\n    <em>\n     Edgar Harvey, Assistant Attorney General,\n    </em>\n    for the appellee.\n   </attorneys>",
+    "citations": [
+        "55 A.2d 709",
+        "189 Md. 294"
+    ],
+    "opinions": [
+        {
+            "author_str": "Delaplaine",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4676.0,
+            "opinion_text": "This petition for a writ of habeas corpus was filed by Charlie H. Blount, who alleges that he was tried in the Criminal Court of Baltimore on the charge of \"assault robbery with deadly weapon,\" and was found guilty and sentenced to the Maryland House of Correction.\nPetitioner claims that at his trial on June 26, 1946, the State did not produce sufficient evidence to support the charges against him and his constitutional rights were violated. The application was denied without a hearing by Chief Judge W. Conwell Smith, of the Supreme Bench of Baltimore City. Petitioner thereupon appealed to this Court from the order denying issuance of the writ.\nPetitioner claims that he was framed by two co-defendants, who had retained two attorneys to represent them, and that his constitutional rights were violated by the attorneys. He says that they refused to let him *Page 296 \nand his witnesses go on the witness stand to testify in his own behalf. It is firmly established that the writ of habeas corpus\ncannot be used as a writ of error. The Court has no more right onhabeas corpus than on direct appeal to inquire into the legal sufficiency of the evidence on which the petitioner was convicted. Bernard v. Warden of Maryland House of Correction,187 Md. 273, 49 A.2d 737. The function of habeas corpus is exhausted when it is ascertained that the court under whose order the petitioner is being held had jurisdiction to act. An imprisonment under sentence by a court of competent jurisdiction is not unlawful unless the sentence is not merely erroneous but an absolute nullity. But a trial court may lose its jurisdiction in the course of the proceedings through the violation of certain constitutional rights in criminal procedure, and its judgment may consequently be void. Olewiler v. Brady, 185 Md. 341,44 A.2d 807.\nIn this case there is no allegation that the petitioner was unable to employ counsel, or that he was incapable of making his defense, or that he requested the Court to appoint counsel. The only allegation is that the attorneys for the co-defendants refused to let him and his witnesses testify. There is no merit in his contention that his constitutional rights were violated. If he desired to testify in his own defense, and if he had witnesses present in court to testify in his behalf, the Court would have allowed them to take the stand. There is no averment that the Court would not allow either the petitioner or any of his witnesses to testify concerning any facts relevant to the issue. Article 21 of the Declaration of Rights declares that every person accused of crime has the right \"to be confronted with the witnesses against him; to have process for his witnesses; to examine the witnesses for and against him on oath.\" But the Declaration of Rights does not guarantee the attendance of witnesses, and accordingly an accused does not show that he has been denied any constitutional right when a witness who was duly summoned is not present at the trial, *Page 297 \nand the accused does not give any reason for the absence of the witness. Edmondson v. Brady, 188 Md. 96, 52 A.2d 96. If a request for postponement is made, a trial can be delayed under proper circumstances while further efforts are made to produce the witnesses whose testimony is believed to be essential for the defense. Copeland v. Wright, 188 Md. 666, 53 A.2d 553.\nPetitioner alleges that he had witnesses to testify in his behalf, but that he was tried without them. Apparently he implies that they had been summoned and they appeared at the trial, but they did not take the witness stand on account of the advice of the attorneys who were more interested in the two co-defendants than in him. Petitioner does not allege that he was denied any of the rights as to attendance of witnesses to which he was constitutionally entitled. He cannot make the mere silence of witnesses a ground for the issuance of a writ of habeas corpus.\nEven if it be assumed that petitioner's statements are true, he is not entitled to discharge. The Judge was right in refusing to issue the writ. A hearing on his application would have been merely a useless formality. Olewiler v. Brady, 185 Md. 341,44 A.2d 807.\nOrder affirmed, without costs.",
+            "ocr": false,
+            "opinion_id": 3489698
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Robbery"
+}

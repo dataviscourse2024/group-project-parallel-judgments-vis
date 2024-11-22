@@ -1,0 +1,46 @@
+{
+    "id": 1711052,
+    "judges": "Per Curiam",
+    "date_filed": 1105488000000,
+    "date_filed_is_approximate": false,
+    "slug": "charles-v-state",
+    "case_name_short": "Charles",
+    "case_name": "Charles v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "890 So. 2d 542"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n890 So. 2d 542 (2005)\nEmmanuel CHARLES, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 4D03-3972.\nDistrict Court of Appeal of Florida, Fourth District.\nJanuary 12, 2005.\nJohn H. Lipinski of The Law Offices of J.H. Lipinski, Pembroke Pines, for appellant.\nCharles J. Crist, Jr., Attorney General, Tallahassee, and Melanie Dale Surber, Assistant Attorney General, West Palm Beach, for appellee.\nPER CURIAM.\nAppellant Emmanuel Charles was convicted of six counts of robbery with a firearm and was sentenced to concurrent terms of twenty-five years in prison. Here, he appeals the trial court's summary denial of his motion for post conviction relief filed pursuant to Florida Rule of Criminal Procedure 3.850. We affirm the summary denial of all claims except for claim six, in which Charles alleged ineffective assistance of trial counsel for failure to request jury instructions on permissive lesser included offenses such as aggravated assault, aggravated battery and grand theft. Appellant's claim was colorable under rule 3.850, and the trial court erred in summarily denying it without conducting an evidentiary hearing or attaching portions of the record to refute it. See Willis v. State, 840 So. 2d 1135 (Fla. 4th DCA 2003); Smith v. State, 807 So. 2d 755 (Fla. 4th DCA 2002); Peffley v. State, 766 So. 2d 418 (Fla. 4th DCA 2000). We acknowledge conflict with the First District on this issue, as we did in Willis, 840 So.2d at 1137.\nAFFIRMED in part, REVERSED in part and REMANDED.\nKLEIN, STEVENSON and GROSS, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1711052
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

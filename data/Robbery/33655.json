@@ -1,0 +1,46 @@
+{
+    "id": 6082243,
+    "judges": null,
+    "date_filed": 697680000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-robertson",
+    "case_name_short": "Robertson",
+    "case_name": "People v. Robertson",
+    "case_name_full": "The People of the State of New York v. William Robertson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "180 A.D.2d 697"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Orange County (Byrne, J.), rendered September 2, 1988, convicting him of burglary in the second degree, criminal possession of stolen property in the fifth degree, and petit larceny, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe issues raised by the defendant were not preserved for appellate review (see, CPL 470.05 [2]; People v Udzinski, 146 AD2d 245, 248-252), and, under the circumstances of this case, we decline to review them in the exercise of our interest of *698justice jurisdiction. Mangano, P. J., Sullivan, Balletta and Ritter, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5946410
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

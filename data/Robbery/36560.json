@@ -1,0 +1,46 @@
+{
+    "id": 6670679,
+    "judges": "Wood",
+    "date_filed": -1830384000000,
+    "date_filed_is_approximate": false,
+    "slug": "walders-v-state",
+    "case_name_short": "Walders",
+    "case_name": "Walders v. State",
+    "case_name_full": "Walders v. State",
+    "attorneys": "Edwin Hiner, for appellant., Hal L. Norwood, Attorney General, and William H. Rector, Assistant, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Burglary \u2014 -burglarious intent. \u2014 Whether one who, after entering a saloon at night, was accidentally locked up therein, and while there and during the night Committed grand larceny, was guilty of burglary or not. depends upon whether at the time of such entry he intended to commit a felony. (Page 347.)</p> <p>2. Same \u2014 intent.\u2014One who enters a saloon at night through an open door with intent to commit a felony is guilty of burglary. (Page 348.)</p>",
+    "summary": "Appeal from Sebastian Circuit Court, Fort Smith District; Daniel Hon, Judge; The court\u2019s instruction on the question of burglary is too general. Taken as a whole, it is meaningless and misleading. The entry being admitted, the jury should have been instructed specifically on the question of intent, and the court\u2019s refusal so to instruct them at appellant\u2019s request was reversible error. 92 Ark. 216. 1. The instruction requested by appellant is correct, but the principle of law therein contained is included in the instruction given by the court on its own motion, and its repetition was not necessary, and not required. 2. If the appellant entered the store by the usual mode, through the door, with the intention of secreting himself there and waiting until the store had been closed and then committing a felony, under the law as announced by this court, appellant was guilty of burglary. 91 Ark. 434.",
+    "disposition": "affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "101 Ark. 345"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Wood, J. The appellant was convicted, upon' a sufficient indictment, of the crime of burglary. The testimony on the part of the State tended to prove that the saloon of Northum &amp; Company had been closed at 12 o\u2019clock at night on the 16th of August, 1911; that on the following morning two of their cash registers had been entered. These registers contained something over six dollars in money, which had been taken, and some whisky had also been stolen. The value of the whisky and money amounted to more than ten dollars. There was testimony tending to show that the person committing the larceny of the money and the whisky was locked up in the saloon at night. It was admitted by counsel for appellant that the appellant was the person that entered the saloon in the night time, and who was left in the saloon, and he says that the owners of the saloon locked him up in there. The contention on the part of the appellant is that he was drunk and went to sleep in the saloon, and was not discovered by the owners thereof when they closed up for the night, and that afterwards he awoke and committed the larceny, and that he had no intention of committing the larceny when he entered the saloon. The court, among other instructions, gave the following: \u201cOn the charge of burglary, if you find from the evidence beyond a reasonable doubt that the defendant, in this county and district, within three years prior to the returning of this indictment, which indictment was returned on the 16th day of this month, entered the house of J. A. Northum Liquor Company unlawfully and with the felonious intent to commit a felony, that is, to commit grand larceny, you will find the defendant guilty if you find those facts beyond a reasonable doubt.\u201d And also the following: \u201cIf the defendant was accidentally locked up in the saloon and woke up and found it out and got out, unless he went in there for the purpose of being locked up for the purpose of stealing something, if he entered there in the night time with the intent to commit a felony after he was left in there, he would be guilty of burglary, but if he did not he would not; or if he went back there afterwards and found the door partially open and entered for the purpose (as he says) of closing the door, he would not be guilty of burglary; but if he went back there with the intention of committing a felony, even after he found the door open in the night time and entered with the intent to commit a felony, he would be guilty of burglary. \u201d The court also refused the following prayer for instruction asked by appellant: \u201cThe jury are instructed that, before the defendant can be convicted of the crime of burglary, the jury must believe from the evidence, beyond a reasonable doubt, that at the time the defendant entered the saloon there existed in his mind a fixed, certain and specific intent to commit a felony. \u201d \u201cBurglary is the unlawful entering a house * * * in the night time with the intent to commit a felony.\u201d Kirby\u2019s Digest, \u00a7 1603. In Pinson v. State, 91 Ark. 434, this court said: \u201cOne who at night enters a saloon open for business during business hours, and without fraud or deception practiced on the owner in making the entry, will be guilty of burglary if he enters with the purpose formed before or at the time of the entry to commit a felony. \u201d While it is necessary for a specific intent to be formed in the mind of the accused at the time he enters the building to commit a felony, we are of the opinion that the instructions given by the court were sufficient on this point. The jury must have understood from these instructions that it was necessary for the State to prove beyond a reasonable doubt that the appellant entered the saloon in the night time, with the specific intent at the time he entered to commit a felony, towit: grand larceny, before they were authorized to convict the defendant of burglary. No prejudicial error, therefore, was committed by the court in refusing the prayer of the appellant, although it was correct. It was contended on behalf of appellant that he had no intention when he entered the saloon of committing grand larceny, but that the intention was formed after he awoke in the saloon. But it was a question for the jury, under the evidence, as to whether or not he had the intention at the time he entered the saloon of committing the larceny. The court properly submitted that question to the jury, in the instruction which we have set out. While the instruction was loosely drawn, we are of the opinion, as already stated, that the jury must have undersood that it was necessary for the appellant to have had the specific intent in his mind to commit a felony at the time he entered the saloon in the night time before he could be convicted of the crime of burglary. It could serve no useful purpose to review the evidence in detail. It was amply sufficient to support the verdict. The judgment is therefore correct, and is affirmed. ",
+            "ocr": true,
+            "opinion_id": 6548726
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Robbery"
+}

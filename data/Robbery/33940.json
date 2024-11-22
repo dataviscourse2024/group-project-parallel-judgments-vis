@@ -1,0 +1,47 @@
+{
+    "id": 6138127,
+    "judges": null,
+    "date_filed": 835574400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-jamison",
+    "case_name_short": "Jamison",
+    "case_name": "People v. Jamison",
+    "case_name_full": "The People of the State of New York v. David Jamison",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "228 A.D.2d 698",
+        "645 N.Y.2d 503"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe defendant contends that the Supreme Court erred in its Sandoval ruling, which permitted the prosecutor to impeach him only with the underlying facts of a prior attempted robbery conviction and precluded the prosecutor from questioning the defendant about two other convictions. We disagree. Convictions involving theft, such as robbery, are highly relevant to the issue of credibility because they demonstrate the defendant\u2019s willingness to deliberately further his self-interest at the expense of society (see, People v Creel, 215 AD2d 577, 578; People v Kelland, 208 AD2d 954; People v Lowenstein, 203 AD2d 304). Any similarities between the crime charged and the prior conviction do not compel preclusion (see, People v Pavao, 59 NY2d 282; People v Creel, supra; People v Kelland, supra). Moreover, the record demonstrates that the court engaged in a proper balancing between the probative value of the prior conviction for impeachment purposes and the prejudicial effect of such impeachment upon the defendant (see, People v Sandoval, 34 NY2d 371, 376; People v Creel, supra; People v West, 212 AD2d 651).\n*699Upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]).\nThe defendant\u2019s sentence was not excessive (see, People v Suitte, 90 AD2d 80). Sullivan, J. P., Joy, Krausman and McGinity, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6003436
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

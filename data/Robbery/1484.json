@@ -1,0 +1,46 @@
+{
+    "id": 8053319,
+    "judges": "Thomas",
+    "date_filed": -2468188800000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-moore",
+    "case_name_short": "Moore",
+    "case_name": "State v. Moore",
+    "case_name_full": "State v. Moore",
+    "attorneys": "John M. Wood, Attorney General, and A. C. Clover, Circuit Attorney, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Criminal Law : robbery : practice. On a trial for robbery in the first degree, whei'e there is evidence that defendant took property from the owner by fox'ce and against her will, with intent to steal it, a demurrer to the evidence should be overruled.</p> <p>2. -:-:--: petit larceny, In such case, where the accused denies all knowledge of the alleged exime, no conviction for petit lax\u2019ceny can be had.</p>",
+    "summary": "Appeal from St. Louis Criminal Court. \u2014 Hon. J. C. Normile, Judge. (1) The verdict was warranted by the evidence; the quantum of force used was more than sufficient to make the offense robbery. State v. Broderick, 59 Mo. 318, and cases cited. (2) If the accused told the truth he is guilty of no offense ; if the prosecuting witness is to be believed, he is guilty of robbery; hence, there was no error in refusing to instruct for petit larceny. State v. Brown, 104 Mo. 365.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "106 Mo. 480"
+    ],
+    "opinions": [
+        {
+            "author_str": "Thomas",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThomas, J.\nThe defendant, William Moore, was convicted of robbery of the first degree at the May term, 1890, of the St. Louis criminal court, and was sentenced to seven years\u2019 imprisonment in the penitentiary. Only an abstract of the testimony is contained in the record, and from this it appears that the prosecuting witness, Mrs. Mary Waitz, was walking at midday on Fourteenth street, in the city of St. Louis, and carrying in her left arm a couple of packages, on the top of which *481her pocketbook was lying. As she approached the mouth of an alley a negro sprang out and made a grab at the pocketbook; as he did so Mrs. Waitz caught hold of it, whereupon the man struck her a blow in the-breast, wrested.the pocketbook from her hand and fled. In a few moments after, the defendant was found a short distance from the place of assault in a water-closet-with his clothing in disorder; he was put under arrest, and at once positively identified by Mrs. Waitz as her assailant. A search of the water-closet resulted in the finding of Mrs. Waitz\u2019s pocketbook, from which ISO-had been taken. The only defense made was a denial of all knowledge of the transaction by the defendant,, and proof of his former good character.\nThe defendant asked, and was refused, two instrucr tions. One, asked at the conclusion of the state\u2019s case, was in the nature of a demurrer to the evidence, and the-other for petit larceny.\nThe court properly defined the offense of robbery of the first degree and fully instructed the jury in regard to the credibility of the witnesses, reasonable doubt and the good character of defendant.\nI. The court committed no error in overruling defendant\u2019s demurrer to the evidence. The evidence warranted the jury in finding that defendant was the party who committed the offense, and that he took the pocketbook from Mrs. Waitz by force and against her will with the intent to steal. State v. Broderick, 59 Mo. 318.\nII. The instruction, authorizing a conviction of petit larceny, was properly refused. If the accused told the truth he was guilty of no offense; if the prosecuting witness is to be believed he was guilty of robbery as charged. State v. Brown, 104 Mo. 365. Finding that the court and jury committed no error in the trial of defendant the judgment is affirmed. All concur.\n",
+            "ocr": true,
+            "opinion_id": 8010229
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

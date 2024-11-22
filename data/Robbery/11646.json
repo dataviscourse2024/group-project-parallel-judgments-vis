@@ -1,0 +1,46 @@
+{
+    "id": 588704,
+    "judges": null,
+    "date_filed": 711158400000,
+    "date_filed_is_approximate": false,
+    "slug": "leonard-rogers-v-tyrone-anderson-previously-filed-",
+    "case_name_short": null,
+    "case_name": "Leonard Rogers v. Tyrone Anderson, (Previously Filed as John Doe), in Re: Leonard Rogers, Petition for Writ of Mandamus.",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "972 F.2d 354"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/972/972.F2d.354.92-8059.92-1027.html",
+            "author_id": null,
+            "opinion_text": "972 F.2d 354\n    NOTICE:  Eighth Circuit Rule 28A(k) governs citation of unpublished opinions and provides that they are not precedent and generally should not be cited unless relevant to establishing the doctrines of res judicata, collateral estoppel, the law of the case, or if the opinion has persuasive value on a material issue and no published opinion would serve as well.Leonard ROGERS, Appellant,v.Tyrone ANDERSON, (previously filed as John Doe), Appellee.In re:  Leonard ROGERS, Petition for Writ of Mandamus.  Petitioner.\n    Nos. 92-1027, 92-8059.\n    United States Court of Appeals,Eighth Circuit.\n    Submitted:  June 29, 1992.Filed:  July 15, 1992.\n    \n      Before JOHN R. GIBSON, FAGG, and HANSEN, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      In these consolidated cases, Leonard Rogers appeals the judgment in his 42 U.S.C. &#167; 1983 action, in which the district court1 granted defendant's motion for a directed verdict, assessed costs against Rogers, and precluded Rogers from filing further civil suits until he pays the costs (No. 92-1027).  Rogers also seeks a writ of mandamus to vacate the court's order concerning costs (No. 92-8059).  We affirm the district court's judgment and deny Rogers's petition for a writ of mandamus.  We deny Rogers's motions to strike appellee's brief and to \"clarify the issues on appeal.\"\n    \n    \n      2\n      This action arose from the apprehension of Rogers by Tyrone Anderson and Jane Rousan, private security guards working at St. Louis Union Station, after Rogers stole money from a retail store.  St. Louis police officers later arrested Rogers, and he was convicted in state court of stealing the money and of assaulting the security guards.  Rogers filed this action, claiming that he suffered a facial injury when Anderson used excessive force in apprehending him.  The case proceeded to trial and the district court granted defendant's motion for a directed verdict at the close of Rogers's case, concluding that Rogers offered no evidence that Anderson acted under color of state law or used excessive or unnecessary force.  The court also concluded that Rogers's suit was frivolous and exhibited an abuse of process.  The court assessed defendant's costs against Rogers in the amount of $1,445.40 and ordered that no further filings of civil suits by Rogers would be accepted until Rogers had paid the costs.\n    \n    \n      3\n      We conclude that the district court committed no error in granting Anderson's motion for a directed verdict.  Rogers failed to produce evidence that Anderson acted in concert with state officials, and thus, acted under color of state law.   See Rogers v. Bruntrager, 841 F.2d 853, 856 (8th Cir. 1988) (private individuals may act under color of state law when they conspire with state officials, but in order to state conspiracy claim, plaintiff must allege specific facts showing \"meeting of the minds\").  There was no evidence that Anderson summoned the police;  the arresting police officer testified that Anderson took no part in arresting Rogers or issuing the warrant;  and Rogers conceded at trial that Anderson did not conspire with the police.  Because Anderson was not shown to be a state actor, any force he may have used would not be a constitutional violation cognizable under &#167; 1983.  Even if Anderson were found to be a state actor, Rogers also failed to produce evidence that Anderson deprived him of a constitutional right by using excessive force in taking him into custody.  An excessive force claim is properly denied where the officer's actions are objectively reasonable, considering such factors as \" 'the severity of the crime ..., whether the suspect poses an immediate threat to the safety of ... others, and whether he is ... resisting arrest.' \"  Gainor v. Rogers, No. 91-1708, slip op. at 4 (8th Cir.  May 28, 1992).  Rogers produced evidence that he sustained an injury, but he produced no evidence that he received the injury as a result of Anderson's actions.  There was evidence that Rogers \"wrestled\" and \"tussled\" with Anderson when Anderson pulled Rogers from the car and handcuffed him, but there was no evidence that Anderson hit Rogers, knocked him down, or used any unreasonable force.\n    \n    \n      4\n      We also conclude that the district court had the authority to assess costs against Rogers, an in forma pauperis litigant, under 28 U.S.C. &#167; 1915(e), and that the court did not abuse its discretion in doing so.  Rogers's argument that he was denied access to the courts by the district court's order precluding him from filing further suits until he pays the costs is without merit because Rogers has not shown prejudice.   See Smith v. Boyd, 945 F.2d 1041, 1043 (8th Cir. 1991) (holding that access-to-the-courts claim requires showing of prejudice).  Rogers did not assert that he had grounds for another lawsuit or that he wished to file another lawsuit.  We finally conclude that Rogers's other arguments are without merit.\n    \n    \n      5\n      Accordingly, we affirm.\n    \n    \n      \n        1\n         The Honorable William L. Hungate, Senior United States District Judge for the Eastern District of Missouri\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 588704
+        }
+    ],
+    "court_short_name": "Eighth Circuit",
+    "court_full_name": "Court of Appeals for the Eighth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

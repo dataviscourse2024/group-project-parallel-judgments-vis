@@ -1,0 +1,46 @@
+{
+    "id": 5216346,
+    "judges": "Morrison",
+    "date_filed": 98496000000,
+    "date_filed_is_approximate": true,
+    "slug": "morgan-v-state",
+    "case_name_short": "Morgan",
+    "case_name": "Morgan v. State",
+    "case_name_full": "Sylvester MORGAN and Rubin Lee Morgan v. The STATE of Texas",
+    "attorneys": "Shelly P. Hancock and J. Michael As-kins, Houston, for appellant., Carol Vance, Dist. Atty., James C. Brough and Henry Oncken, Asst. Dist. Attys., Houston, Jim D. Vollers, State\u2019s Atty., and Robert A. Huttash, Asst. State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "490 S.W.2d 581"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nMORRISON, Judge.\nThe offense is robbery; the punishment to each appellant, fifteen (15) years.\nThe first ground of error for each appellant is that the court infringed upon his right to a public trial when the following occurred during the examination of a witness:\n\u201cTHE COURT: I am getting a little help from somebody in the audience. The man in the red shirt is doing a lot of bowing and scraping and he seems to agree with you [Defense Counsel].\nMr. Bailiff, find out who that man is. He is looking down my eyes.\n\u201cSPECTATOR IN THE AUDIENCE: I am from the hometown.\n\u201cTHE COURT: Get out of here.\u201d\nThere is no showing in this record that this \u201chometowner\u201d was actually ejected from the courtroom and certainly no showing that anyone was deprived of a public trial. There is clearly no merit in the first ground of error.\nAppellant Sylvester Morgan\u2019s second ground of error is that reversible error is reflected by a comment of the trial judge. While Sylvester was testifying his *582attorney objected to a question propounded by the prosecutor as follows:\n\u201cMR. HANCOCK: I object again. May I have a running objection to it, Judge?\n\u201cTHE COURT: I guess you may have. Looks like you may need it.\n\u201cMR. HANCOCK: I object to the court\u2019s comment on the weight of the evidence.\n\u201cTHE COURT: I am not commenting at all.\n\u201cMR. HANCOCK: Ask the jury to disregard your comment.\n\u201cTHE COURT: If they want to, they may. I instruct you to disregard it.\u201d\nWe are at a complete loss to ascertain how this, the above, could constitute a comment on the weight of the evidence.\nNext, both appellants claim if we properly understand their contention, that a certain box was improperly admitted in evidence where the officer through whom it was offered was unable to trace the chain of custody following its seizure and prior to its offer in evidence.\nWe quote from the voir dire examination of Officer Dickerson in questioning by Sylvester Morgan\u2019s attorney:\n\u201cQ Are your initials on that box, Officer?\n\u201cA I don\u2019t see them anywhere.\n\u201cQ All you can testify to is it is similar to the box you saw out there on Bigwood [Street], correct?\n\u201cA That is the same box.\n\u201cQ Are your initials on it?\n\u201cA No.\n\u201cQ How do you recall that is the same box?\n\u201cA I recognize it. We have had it in our custody in the property room from the time it was recovered until it was here, in trial.\n\u201cQ Where has it been in the last 24 hours ?\n\u201cA In the possession of the Court, I assume.\n\u201cTHE COURT: Objections overruled.\u201d\nWe note initially that the box was not admitted in evidence and the Court finally instructed the jury to disregard the testimony which had been offered. It would appear that all parties understood the trial court\u2019s last ruling which declined to admit the box in evidence, because an examination of the argument reveals that no mention was made of the box or its contents.\nSince the exhibits in question were not introduced in evidence, their chain of custody need not be shown. However, appellant\u2019s reliance upon Easley v. State, Tex.Cr.App., 472 S.W.2d 128, will be discussed. In Easley, supra, the sending officer failed to positively identify the exhibit and there was a failure to show that the exhibit finally reached the place of examination without alteration. In Easley, supra, we discussed Wright v. State, Tex.Cr.App., 420 S.W.2d 411, where it was contended that the narcotics exhibits were open to others while in the custody of the chemist. We concluded that this contention went to the weight rather than the admissibility of the exhibits. In the case at bar, Dickerson had possession of the exhibit from the time of seizure until the time of its introduction. Wright v. State, supra, is here controlling.\nFinding no reversible error, the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5040291
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

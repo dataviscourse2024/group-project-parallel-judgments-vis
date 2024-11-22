@@ -1,0 +1,47 @@
+{
+    "id": 8081098,
+    "judges": "Boslaugh, Clinton, Cown, Kuns, Kxnsrs, Newton, Spencer, White",
+    "date_filed": 182044800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-dedrick",
+    "case_name_short": "Dedrick",
+    "case_name": "State v. Dedrick",
+    "case_name_full": "State of Nebraska v. Lee Allen Dedrick",
+    "attorneys": "Thomas B. Thomsen of Sidner, Svoboda, Schilke & Wiseman, for appellant., Paul L. Douglas, Attorney General, and Steven C. Smith, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "194 Neb. 500",
+        "233 N.W.2d 777"
+    ],
+    "opinions": [
+        {
+            "author_str": "Kxnsrs",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKxnsrs, Retired District Judge.\nThis is an appeal from convictions for assault and battery and larceny from the person.\nAppellant was charged originally with assault and battery and robbery. Pursuant to a plea bargain shown by the record, the charge of robbery was withdrawn, and a charge of larceny from the person was substituted. Appellant then pleaded guilty to each of the charges, admitting that he had assaulted a hotel clerk, and had taken money from the cash drawer of the hotel. The plea bargain did not include a recommendation by the county attorney.\nThe trial court then secured a presentence report and an evaluation from the Nebraska Division of Corrections. From these it appeared that appellant had previously been in custody as a juvenile for a period of 3 years; and that appellant seems to be emotionally disturbed and to have a drinking problem. Although he has not previously been convicted of a felony, none of the various examiners had the opinion that a probationary program could deal with appellant\u2019s known problems and tendencies.\nThe trial court imposed a sentence of 60 days confinement in the county jail upon count I, assault and battery, and an indeterminate term of 2 to 5 years in the Nebraska Penal and Correctional Complex, without solitary confinement, upon count II, larceny from the person, both sentences to run concurrently. Appellant contends that the sentence is excessive.\nSection 29-2260(2), R. S. Supp., 1974, provides: \u201cWhenever a court considers sentence for an offender convicted of either a misdemeanor or a felony, the court may withhold sentence of imprisonment unless, having regard to the nature and circumstances of the crime and the history, character and condition of the offender, the court finds that imprisonment of the offender is necessary for protection of the public because: (a) *502The risk is substantial that during the period of probation the offender will engage in additional criminal conduct; (b) The offender is in need of correctional treatment that can be provided most effectively by commitment to a correctional facility; or (c) A lesser sentence will depreciate the seriousness of the offender\u2019s crime or promote disrespect for law.\u201d\nFrom the record, it appears that the trial court was amply justified under both (a) and (b) in concluding that a sentence of imprisonment was necessary. No abuse of judicial discretion is shown.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 8040310
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

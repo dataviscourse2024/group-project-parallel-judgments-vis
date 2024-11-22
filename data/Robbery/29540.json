@@ -1,0 +1,46 @@
+{
+    "id": 5245790,
+    "judges": "Crist, Gaertner, Reinhard",
+    "date_filed": 580435200000,
+    "date_filed_is_approximate": true,
+    "slug": "felker-v-state",
+    "case_name_short": "Felker",
+    "case_name": "Felker v. State",
+    "case_name_full": "Harold Lester FELKER v. STATE of Missouri",
+    "attorneys": "Lisa K. Clover, Hillsboro, for appellant., William L. Webster, Atty. Gen., Christopher M. Kehr, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "750 S.W.2d 719"
+    ],
+    "opinions": [
+        {
+            "author_str": "Crist",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCRIST, Judge.\nMovant pled guilty to murder second degree and robbery first degree for an incident involving the stomping to death of an elderly woman and the robbing of her home. Pursuant to a plea bargain he was sentenced to two consecutive life sentences. Movant then filed a Rule 27.26 motion alleging his pleas were involuntary. After an evidentiary hearing movant\u2019s motion was denied. We affirm.\nMovant\u2019s first challenge to the vol-untariness of his pleas involves the withdrawal, at the end of the guilty plea hearing, of a motion for a psychiatric evaluation. In his brief movant altemativly argues his guilty pleas were involuntary because his attorney deprived him of the possibility of using a defense of not guilty by reason of mental disease or defect, and because he was not competent to plead guilty.\nWhen the motion for the psychiatric evaluation was withdrawn, the court questioned movant extensively. Movant indicated he felt he was of sane and sound mind and not suffering from mental disease or defect. He also agreed, at the guilty plea hearing, to the withdrawal of the motion. The tenor of movant\u2019s responses and participation at that hearing supported these statements. The only evidence to support the contention that mov-ant had a mental disease or defect at the time of his guilty plea hearing was the filing of the motion for a psychiatric evalu*720ation and his assertion, at the Rule 27.26 evidentiary hearing, that he felt he needed help because he was sick. Although the evaluation was requested there was no notice of an intent to rely on a defense of mental disease or defect.\nMovant correctly asserts that the trial court must decide the issue of a defendant\u2019s competency if it arises. State v. Beal, 602 S.W.2d 22, 23[1] (Mo.App.1980). Along with that duty to address the issue of competency the court has broad discretion in deciding whether to order a psychiatric examination. Id. [2]. In view of the broad discretion afforded the trial court and movant\u2019s lack of evidence, movant failed to show his motion would likely have been granted if pursued, that an examination would have shown him to have a mental disease or defect, and that he was therefore prejudiced by the withdrawal of the motion and the entering of the guilty pleas. Simmons v. State, 741 S.W.2d 800, 801[1] (Mo.App.1987); Cooper v. State, 624 S.W.2d 155 (Mo.App.1981) (not ineffective assistance of counsel to withdraw motion for mental examination upon changing plea to guilty even where the plea originally entered was \u201cnot guilty by reason of mental disease or defect\u201d).\nMovant\u2019s second assertion is \u201che was denied effective assistance of counsel based upon counsel\u2019s failure to fully inform appellant of the criminal proceedings against him.\u201d The argument section pertaining to this point reveals that movant now asserts his \u201cunderstanding of the plea agreement was that he would serve one life sentence on both charges.\u201d The test for determining, in the face of such an assertion, whether a plea was voluntary is whether there is a reasonable basis in the plea transcript to support a belief that the sentences would be concurrent. Marlatt v. State, 672 S.W.2d 165, 167[2] (Mo.App.1984). At the plea hearing the judge thoroughly explained the sentences to movant and told him they were to be served consecutively. The Rule 27.26 court was not required to believe movant\u2019s assertion that he did not know what consecutive meant. Coffman v. State, 740 S.W.2d 250 (Mo.App.1987); Black v. State, 723 S.W.2d 474, 475[2] (Mo.App.1986) (credibility is for the Rule 27.26 court which is not required to believe movant\u2019s testimony).\nLastly, movant asserts he was forced to plead guilty because his attorney failed to file a timely motion for change of venue. There is no absolute right to a change of venue on the grounds of community prejudice. Rule 32.04(a) (\u201ca change of venue may be ordered ...\u201d); State v. Carr, 687 S.W.2d 606, 612[9] (Mo.App.1985). Movant presented no evidence other than his own opinion that \u201cdue to the sickness and the nature of the crime that was committed ... no one could expect anyone to get a fair trial in the same community that this person [the victim] lived.\u201d The heinous nature of the crime does not of itself require a change of venue and denials of motions for change of venue have been upheld despite allegations of prejudicial pretrial publicity and prejudice. See e.g. State v. Frederickson, 739 S.W.2d 708, 710[3] (Mo. banc 1987); Carr, 687 S.W.2d at 612[11]; State v. Chaney, 663 S.W.2d 279, 286[10] (Mo.App.1983). Movant has failed to show how he was prejudiced by the late filing of the motion for change of venue. Jackson v. State, 736 S.W.2d 515, 516 (Mo.App.1987).\nJudgment affirmed.\nGARY M. GAERTNER, P.J., and REINHARD, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5071813
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

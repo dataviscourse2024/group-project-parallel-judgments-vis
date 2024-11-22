@@ -1,0 +1,46 @@
+{
+    "id": 8068097,
+    "judges": "Green, Hatfield, Shanstrom",
+    "date_filed": 124070400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-sexton",
+    "case_name_short": "Sexton",
+    "case_name": "State v. Sexton",
+    "case_name_full": "STATE OF MONTANA v. EDWARD SEXTON",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "162 Mont. 14"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDECISION\nThe application of the above-named defendant for a review of the sentence of 10 years for Burglary First Degree, imposed on June 12, 1973, was fully heard and after a careful consideration of the entire matter it is decided that:\nThe sentence be and remain as originally imposed.\nWe wish to thank Gerald Neeley, Attorney at Law, for his assistance to the defendant and to this Court.\nSENTENCE REVIEW DIVISION\nPaul G. Hatfield, chairman; Jack D. Shanstrom, Jack L. Green.\n",
+            "ocr": true,
+            "opinion_id": 8026320
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Robbery"
+}

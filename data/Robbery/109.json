@@ -1,0 +1,46 @@
+{
+    "id": 7769464,
+    "judges": "Dell, Polen, Stevenson",
+    "date_filed": 867801600000,
+    "date_filed_is_approximate": false,
+    "slug": "cod-v-state",
+    "case_name_short": "C.O'D.",
+    "case_name": "C.O'D. v. State",
+    "case_name_full": "C.O'D., a child v. STATE of Florida",
+    "attorneys": "Richard L. Jorandby, Public Defender, and Ellen Griffin, Assistant Public Defender, West Palm Beach, for appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Ettie Feistmann, Assistant Attorney General, West Palm Beach, for ap-pellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "696 So. 2d 492"
+    ],
+    "opinions": [
+        {
+            "author_str": "Stevenson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSTEVENSON, Judge.\nA petition for adjudication of delinquency was filed charging appellant, C.O\u2019D., with grand theft. Following a bench trial, appellant was found to have committed the offense, adjudication was withheld, and appellant was placed on community control. We *493reverse because the evidence was insufficient to support the finding that C.O\u2019D. committed the charged grand theft.\nThe record is devoid of evidence that appellant committed any act in furtherance of the charged offense; it established only that appellant was in the company of others who committed the charged theft. See In re A.R., 460 So.2d 1024, 1025 (Fla. 4th DCA 1984)(holding that knowledge that a crime is going to be committed and presence at the scene, without more, is generally insufficient to establish aiding and abettingXquoting G.C. v. State, 407 So.2d 639, 640 (Fla. 3d DCA 1981)); see also Evans v. State, 643 So.2d 1204 (Fla. 1st DCA 1994), rev. denied, 652 So.2d 818 (Fla.1995); C.P.P. v. State, 479 So.2d 858 (Fla. 1st DCA 1985).\nAccordingly, the order on appeal is reversed, and on remand, appellant shall be discharged from community control or any other sanction imposed for this offense.\nDELL and POLEN, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7707718
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

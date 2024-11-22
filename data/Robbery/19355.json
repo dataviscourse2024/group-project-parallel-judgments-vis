@@ -1,0 +1,47 @@
+{
+    "id": 1306753,
+    "judges": "Boslaugh, Clinton, McCown, Newton, Smith, Spencer, White",
+    "date_filed": 41817600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-mcmillian",
+    "case_name_short": "McMillian",
+    "case_name": "State v. McMillian",
+    "case_name_full": "State of Nebraska, Appellee, v. William McMillian Et Al., Appellants",
+    "attorneys": "William McMillian pro se., Clarence A. H. Meyer, Attorney General, and Melvin K. Kammerlohr, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b800-8\">\n    State of Nebraska, appellee, v. William McMillian et al., appellants.\n   </parties><br><citation id=\"b800-10\">\n    186 N. W. 2d 481\n   </citation><br><decisiondate id=\"b800-11\">\n    Filed April 30, 1971.\n   </decisiondate><docketnumber id=\"AG0\">\n    No. 37793.\n   </docketnumber><br><attorneys id=\"b800-14\">\n    William McMillian pro se.\n   </attorneys><br><attorneys id=\"b801-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"785\"> \n     *785\n     </span>\n    Clarence A. H. Meyer, Attorney General, and Melvin K. Kammerlohr, for appellee.\n   </attorneys><br><judges id=\"b801-6\">\n    Heard before White, C. J., Spencer, Boslaugh, Smith, McCown, Newton, and Clinton, JJ.\n   </judges>",
+    "citations": [
+        "186 N.W.2d 481",
+        "186 Neb. 784"
+    ],
+    "opinions": [
+        {
+            "author_str": "Boslaugh",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5034.0,
+            "opinion_text": "\n186 N.W.2d 481 (1971)\n186 Neb. 784\nSTATE of Nebraska, Appellee,\nv.\nWilliam McMILLIAN and Benjamin Brock, Appellants.\nNo. 37793.\nSupreme Court of Nebraska.\nApril 30, 1971.\n*482 William McMillian, pro se.\nClarence A. H. Meyer, Atty. Gen., Mel Kammerlohr, Asst. Atty. Gen., Lincoln, for appellee.\nHeard before WHITE, C. J., and SPENCER, BOSLAUGH, SMITH, McCOWN, NEWTON and CLINTON, JJ.\nBOSLAUGH, Justice.\nThe defendants, William McMillian and Benjamin Brock, pleaded guilty to burglary and were each sentenced to 5 years' imprisonment. They seek post conviction relief on the ground that their pleas were involuntary because they were not advised that they would be ineligible for parole if they received \"flat\" sentences instead of \"split\" sentences.\nUnder section 83-1, 110, R.S.Supp., 1969, the defendants are eligible for release on parole upon completion of their minimum terms less reductions, or upon completion of the minimum sentences provided by law less reductions if approved by the sentencing judge or his successor in office.\nThe judgment denying post conviction relief is affirmed.\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 1306753
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5320146,
+    "judges": "Bussey",
+    "date_filed": 42854400000,
+    "date_filed_is_approximate": true,
+    "slug": "morgan-v-state",
+    "case_name_short": "Morgan",
+    "case_name": "Morgan v. State",
+    "case_name_full": "Ben Graham MORGAN, in Error v. The STATE of Oklahoma, in Error",
+    "attorneys": "Don Anderson, Public Defender, for plaintiff in error., Larry Derryberry, Atty. Gen., James Gullett, Asst. Atty. Gen., for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "485 P.2d 476"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bussey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBUSSEY, Presiding Judge.\nBen Graham Morgan, hereinafter referred to as defendant, was charged, tried and convicted in the District Court of Oklahoma County of the offense of Burglary in the Second Degree After Former Conviction of a Felony, his punishment was fixed at ten (10) years imprisonment, *477and from said judgment and sentence a timely appeal has been perfected to this Court. Briefly stated the evidence at the trial adduced that on August 15, 1970, Albert Ward parked his pickup truck around 2:00 P.M. in the 200 block of Couch Drive in Oklahoma City. He testified that he returned in about thirty minutes and saw a police officer there and discovered that a carton of cigarettes and matches were missing from the glove compartment of his truck. The officer was putting defendant into a police car. Ward had left the door of the glove compartment closed.\nBruce Shaw of the Oklahoma City Police Department testified that August 15, 1970, was his day off and he was in the vicinity of the 200 block of Couch Drive about 1:45 P.M. and noticed defendant looking into various parked cars. He kept watching defendant and soon saw him enter a Ford pickup and remove a carton of cigarettes .and leave. Shaw then arrested defendant. He identified the cigarettes and matches taken from defendant as State\u2019s Exhibit 1 and 2.\nDefendant testified that on the afternoon of August 15, 1970, he was in the vicinity of Couch Drive and began to feel as if he were going to black out. He climbed into a truck in order not to be injured if he fell. He remembered picking up a pack of cigarettes from the floor and putting them in the glove compartment, then he blacked out and regained consciousness in the county jail. He remembered nothing during the interim, except that the glove compartment door was already open. He admitted the previous felony conviction.\nThe first proposition contends that the verdict is not supported by the evidence. We have repeatedly held that where there is competent evidence in the record from which the jury could reasonably conclude that the defendant was guilty as charged, the Court of Criminal Appeals will not interfere with the verdict even though there is a sharp conflict in the evidence and different inferences may be drawn therefrom, since it is the exclusive province of the jury to weigh the evidence and determine the facts. Gray v. State, Okl.Cr., 467 P.2d 518.\nThe final proposition asserts that the \"punishment is excessive. We find this proposition to. be without merit since the punishment imposed was the minimum allowed by law.\nThe record is free of any error which would require reversal or justify modification and the judgment and sentence is accordingly\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 5149064
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

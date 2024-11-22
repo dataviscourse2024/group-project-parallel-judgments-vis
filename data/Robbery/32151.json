@@ -1,0 +1,46 @@
+{
+    "id": 5772564,
+    "judges": "Guerry",
+    "date_filed": -1050624000000,
+    "date_filed_is_approximate": false,
+    "slug": "hale-v-state",
+    "case_name_short": "Hale",
+    "case_name": "Hale v. State",
+    "case_name_full": "Hale v. State",
+    "attorneys": "T. J. Lewis, Young H. Fraser, for plaintiff in error., Glande G. Smith, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "54 Ga. App. 236"
+    ],
+    "opinions": [
+        {
+            "author_str": "Guerry",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGuerry, J.\nAaron Hale was indicted with another person for robbery. After conviction he filed a motion for new trial, containing the general and special grounds. Writ of error was brought to this court to review a judgment overruling this motion.\n1. Where in the indictment it was alleged that the accused committed the offense of robbery by stealing from a named person \u201cone 23-jewel Hamilton open-face, gold watch, movement number 2480206, case number 9540738, of the value of $65, one gold watch chain of the value of $2.50,\u201d and on the trial the watch was identified as the one described *237in the indictment and as the property of such named person, there was no fatal variance between the allegata and probata because no witness specifically testified that the watch was of the value of $65, where one witness testified: \u201cIt sold for $60 new. After a watch has been used it hasn\u2019t got a specified value;\u201d and where it was further shown by the evidence that the watch was bought in 1931, and had been regularly inspected by a jeweler since that time.\nDecided September 16, 1936.\nT. J. Lewis, Young H. Fraser, for plaintiff in error.\nGlande G. Smith, solicitor-general, contra.\n2. The evidence amply supports the verdict, and this court can not interfere with the action of the judge in overruling the motion for new trial upon the general grounds.\n\nJudgment affirmed.\n\n\nBroyles, C. J., and MacIntyre, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5625850
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

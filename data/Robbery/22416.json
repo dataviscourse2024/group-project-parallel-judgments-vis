@@ -1,0 +1,47 @@
+{
+    "id": 3411838,
+    "judges": "Broyles, Guerry, MacIntyre",
+    "date_filed": -938044800000,
+    "date_filed_is_approximate": false,
+    "slug": "norman-v-state",
+    "case_name_short": "Norman",
+    "case_name": "Norman v. State",
+    "case_name_full": "Norman v. the State",
+    "attorneys": "Hugh E. Combs,  for plaintiff in error.\n\n J. Cecil Davis, solicitor-general,  contra.",
+    "nature_of_suit": null,
+    "posture": "Burglary; from Wilkes superior court &#8212; Judge Perryman. October 12, 1939.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied July 23, 1940.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b928-6\">\n    28170.\n   </docketnumber><parties id=\"Atg3\">\n    Norman\n    <em>\n     v.\n    </em>\n    The State.\n   </parties><decisiondate id=\"A3du\">\n    Decided April 11, 1940.\n   </decisiondate><otherdate id=\"AZ4\">\n    Rehearing denied July 23, 1940.\n   </otherdate><br><attorneys id=\"b928-10\">\n<em>\n     Hugh H. Combs,\n    </em>\n    for plaintiff in error.\n   </attorneys><br><attorneys id=\"b928-11\">\n<em>\n     J. Cecil Davis, solicitor-general,\n    </em>\n    contra.\n   </attorneys>",
+    "citations": [
+        "10 S.E.2d 211",
+        "62 Ga. App. 892"
+    ],
+    "opinions": [
+        {
+            "author_str": "Broyles",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "1. One may be legally convicted of a felony, other than treason or perjury, where the only evidence directly connecting him with the offense charged is the testimony of an accomplice, and where the only corroboration thereof is the testimony of another accomplice. Pope v. State, 171 Ga. 655\n(156 S.E. 599), s. c. 42 Ga. App. 680 (9) (157 S.E. 211). Under the foregoing ruling the conviction of the defendant in the instant case was authorized by the evidence.\n2. The special grounds of the motion for new trial are based on alleged errors of omission or of commission in the charge of the court. These alleged errors, when considered in the light of the entire charge and the facts of the case, show no cause for a reversal of the judgment. The refusal to grant a new trial was not error.\nJudgment affirmed. MacIntyre and Guerry, JJ.,concur.\n         DECIDED APRIL 11, 1940. REHEARING DENIED JULY 23, 1940.",
+            "ocr": false,
+            "opinion_id": 3406902
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

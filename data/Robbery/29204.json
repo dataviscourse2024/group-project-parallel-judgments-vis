@@ -1,0 +1,46 @@
+{
+    "id": 5183411,
+    "judges": "Morrow",
+    "date_filed": -1133481600000,
+    "date_filed_is_approximate": true,
+    "slug": "bell-v-state",
+    "case_name_short": null,
+    "case_name": "Bell v. State",
+    "case_name_full": "Davis BELL v. STATE",
+    "attorneys": "Oliver W. Johnson, of San Antonio, for appellant., \u2022 Lloyd W. Davidson, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "67 S.W.2d 1112"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrow",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMORROW, Presiding Judge.\nBurglary is the offense; penalty assessed at confinement in the penitentiary for three years.\nThe indictment appears regular.\nAppellant entered a plea of guilty and sought a suspended sentence, which was denied by the jury.\nNothing in the record is perceived which would authorize or require a reversal of the judgment. It is therefore affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5005455
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

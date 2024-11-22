@@ -1,0 +1,46 @@
+{
+    "id": 233409,
+    "judges": "Holmes, Hutcheson, Per Curiam, Rives",
+    "date_filed": -501292800000,
+    "date_filed_is_approximate": false,
+    "slug": "brant-v-united-states",
+    "case_name_short": "Brant",
+    "case_name": "Brant v. United States",
+    "case_name_full": "Brant v. United States",
+    "attorneys": "Freddie Brant, in propria persona., Richard C. Baldwin, Asst. U. S. Atty., George R. Blue, U. S. Atty., New Orleans, La., for appellee. .",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 6,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b518-3\">\n    BRANT v. UNITED STATES.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b518-4\">\n    No. 14571.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b518-5\">\n    United States Court of Appeals Fifth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b518-6\">\n    Feb. 12, 1954.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b518-11\">\n    Freddie Brant, in propria persona.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b518-12\">\n    Richard C. Baldwin, Asst. U. S. Atty., George R. Blue, U. S. Atty., New Orleans, La., for appellee. .\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b518-21\">\n    Before HUTCHESON, Chief Judge, and HOLMES and RIVES, Circuit Judges.\n   </p>",
+    "citations": [
+        "210 F.2d 470"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/210/210.F2d.470.14571_1.html",
+            "author_id": null,
+            "opinion_text": "210 F.2d 470\n    BRANTv.UNITED STATES.\n    No. 14571.\n    United States Court of Appeals Fifth Circuit.\n    February 12, 1954.\n    \n      Freddie Brant, in propria persona.\n      Richard C. Baldwin, Asst. U. S. Atty., George R. Blue, U. S. Atty., New Orleans, La., for appellee.\n      Before HUTCHESON, Chief Judge, and HOLMES and RIVES, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      Appellant's motion in the district court, filed August 8, 1952, purported to be a motion for new trial based on newly discovered evidence. He had pleaded guilty to an indictment in two counts charging violations of the bank robbery statute, Title 18, &#167; 2113(a) and (d), United States Code, and had been sentenced to serve five years on Count 1 and seven years on Count 2 of the indictment, the sentences to run consecutively. The judgment of conviction and sentence had been entered on March 1, 1950, more than two years before the filing of the motion. The district judge recognized the two year limitation prescribed by Rule 33, Federal Rules of Criminal Procedure, 18 U.S.C.,1 but considered the motion on its merits because he said, \"The same rule provides that the court may grant a new trial to a defendant if such is required in the interest of justice.\"2 In a full opinion entered on November 4, 1952, the district judge expressed his reasons for denying the motion on its merits. Further, treating the motion as brought also under Section 2255 of Title 28, United States Code,3 and hence timely made, the district court held that there existed no ground for relief under that section. A further motion for new trial based on alleged additional newly discovered evidence was filed on November 21, 1952 and denied on March 2, 1953. Notice of appeal was filed April 29, 1953.\n    \n    \n      2\n      The foregoing statement of the case results in its disposition here for the notice of appeal was filed too late to vest this Court with jurisdiction. Rule 37(a) (2), Federal Rules of Criminal Procedure;4 Huff v. United States, 5 Cir., 192 F.2d 911, 913, 914; McIntosh v. United States, 5 Cir., 204 F.2d 545; United States v. Bloom, 2 Cir., 164 F.2d 556; Crow v. United States, 9 Cir., 203 F.2d 670; cf. Wallace v. United States, 8 Cir., 174 F.2d 112, 114, and cases there cited. The appeal is, therefore,\n    \n    \n      3\n      Dismissed.\n    \n    \n      \n        Notes:\n      \n      \n        1\n         \"Rule 33. New Trial\n        \"The court may grant a new trial to a defendant if required in the interest of justice. If trial was by the court without a jury the court may vacate the judgment if entered, take additional testimony and direct the entry of a new judgment. A motion for a new trial based on the ground of newly discovered evidence may be made only before or within two years after final judgment, but if an appeal is pending the court may grant the motion only on remand of the case. A motion for a new trial based on any other grounds shall be made within 5 days after verdict or finding of guilty or within such further time as the court may fix during the 5-day period.\"\n      \n      \n        2\n         As to whether the district court then had jurisdiction to grant the motion for new trial, see Oddo v. United States, 2 Cir., 171 F.2d 854, 858; Harrison v. United States, 5 Cir., 191 F.2d 874, 875, 876; Howell v. United States, 4 Cir., 172 F.2d 213, 216\n      \n      \n        3\n         The first paragraph of Section 2255 reads:\n        \"A prisoner in custody under sentence of a court established by Act of Congress claiming the right to be released upon the ground that the sentence was imposed in violation of the Constitution or laws of the United States, or that the court was without jurisdiction to impose such sentence, or that the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral attack, may move the court which imposed the sentence to vacate, set aside or correct the sentence.\"\n      \n      \n        4\n         In part, \"An appeal by a defendant may be taken within 10 days after entry of the judgment or order appealed from, * * *.\"\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 233409
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

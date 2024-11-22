@@ -1,0 +1,46 @@
+{
+    "id": 5813247,
+    "judges": null,
+    "date_filed": -3668025600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mcintyre",
+    "case_name_short": "McIntyre",
+    "case_name": "People v. McIntyre",
+    "case_name_full": "The People against Alanson McIntyre",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>\nCriminal law; separate trials; order of trials; witnesses.\n</p>",
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Seld. Notes 162"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAlanson and Carrington McIntyre were jointly indicted for burglary and larceny, and when the case was moved by the district attorney for trial, gt the Madison *163County Court of Sessions, the defendants demanded separate trials, and that Carrington McIntyre be first tried. The district attorney elected to try Alanson first: the court sustained his right to do so, and the defendant excepted. On the trial the defendant proposed to examine his co-defendant, Carrington, as a witness in his behalf; the court excluded the witness and the defendant excepted. The defendant was convicted and sentenced, and the sentence confirmed by the Supreme Court.\nThe Court of Appeals affirmed the judgment of the Supreme Court.\n(S. C., 1 Park. 371.)\n",
+            "ocr": true,
+            "opinion_id": 5668735
+        }
+    ],
+    "court_short_name": "New York Court of Appeals",
+    "court_full_name": "New York Court of Appeals",
+    "court_type": "S",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

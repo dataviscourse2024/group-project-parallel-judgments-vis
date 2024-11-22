@@ -1,0 +1,46 @@
+{
+    "id": 1881591,
+    "judges": "Altenbernd",
+    "date_filed": 1008288000000,
+    "date_filed_is_approximate": false,
+    "slug": "lawrence-v-state",
+    "case_name_short": "Lawrence",
+    "case_name": "Lawrence v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 8,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "801 So. 2d 293"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6817.0,
+            "opinion_text": "\n801 So. 2d 293 (2001)\nDonna R. LAWRENCE, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 2D00-264.\nDistrict Court of Appeal of Florida, Second District.\nDecember 14, 2001.\nJames Marion Moorman, Public Defender, and Patricia J. Kelly, Special Assistant Public Defender, Bartow, for Appellant.\n*294 Robert A. Butterworth, Attorney General, Tallahassee, and Robert J. Krauss, Senior Assistant Attorney General, Chief of Criminal Law, Tampa, for Appellee.\n\nEN BANC\nALTENBERND, Judge.\nDonna R. Lawrence appeals a judgment adjudicating her guilty of DUI manslaughter and leaving the scene of an accident involving death. We affirm Ms. Lawrence's convictions for both offenses. Even though both offenses include death as an element, convictions for both of these offenses based upon one accident are not contrary to legislative intent and do not constitute double jeopardy. Our affirmance requires that we recede from our prior opinion in Pelham v. State, 771 So. 2d 1254 (Fla. 2d DCA 2000).\nOn September 24, 1998, at approximately midnight, Ms. Lawrence hit and killed a pedestrian with her car. She was intoxicated. She left the scene of this accident. She was charged with DUI manslaughter and leaving the scene of an accident involving death. A jury found Ms. Lawrence guilty of both charges. The trial court adjudicated her guilty and sentenced her to concurrent terms for each count of twelve years in prison followed by three years' probation.\nThe issue now on appeal is whether a single death can support both of Ms. Lawrence's convictions. Under current law, these two convictions do not violate double jeopardy. See Blockburger v. United States, 284 U.S. 299, 52 S. Ct. 180, 76 L. Ed. 306 (1932). See also \u00a7 775.021(4)(b)(1), Fla. Stat. (1997); Gordon v. State, 780 So. 2d 17, 19-20 (Fla.2001). The two offenses each require proof of an element that the other does not. Compare \u00a7 316.193(3)(c)(3), Fla. Stat. (Supp.1998), with \u00a7 316.027(1)(b), .062(2), Fla. Stat. (1997). In addition, the two offenses are not degrees of the same offense, nor is one offense a lesser offense subsumed by the greater offense. \u00a7 775.021(4)(b)(2), (3).\nMs. Lawrence argues that she cannot be convicted for both of these crimes because the legislature did not intend that a single death could be used to \"enhance\" two different crimes, relying upon this court's opinion in Pelham, 771 So. 2d 1254. In Pelham, the defendant was convicted of the identical offenses that Ms. Lawrence was convicted of in this case. Based upon the State's concession of error in that case, this court concluded that the two convictions \"enhanced\" by a single death were improper. This court ordered that Pelham's lesser conviction for leaving the scene of an accident involving death be vacated.\nIn Pelham, this court relied on State v. Chapman, 625 So. 2d 838 (Fla.1993), and State v. Cooper, 634 So. 2d 1074 (Fla.1994), in rendering its decision. Those cases held that the legislature did not intend to impose more than one penalty for causing the death of a single victim. We now conclude, however, that Chapman and Cooper are distinguishable from Pelham and this case in several respects. First, unlike in Chapman where the defendant was convicted of DUI manslaughter and vehicular homicide, Ms. Lawrence was not punished under two separate homicide statutes for a single death. Instead, in this case Ms. Lawrence was convicted of a homicide charge and a subsequent traffic felony.\nSecond, in Cooper the defendant was charged with both DUI manslaughter and driving while license suspended and carelessly or negligently causing the death of another human being. Again, both offenses included an element of causation. Thus, the defendant in that case, as in Chapman, was punished twice for causing *295 a death, even though only one death occurred.\nIn this case, although the offense of leaving the scene of an accident involving death requires a showing that the defendant was involved in an accident resulting in death, it does not require a showing that the defendant actually caused the death. \u00a7 316.027(1)(b), Fla. Stat. (1997). Ms. Lawrence was only charged with one offense that included an element of causation, the DUI manslaughter charge. Thus, Ms. Lawrence was appropriately punished once for having caused one death.\nFinally, we note that in both Chapman and Cooper the defendants were each convicted of two offenses that stemmed from a single act. The defendant in each case committed the offenses simultaneously. Here, Ms. Lawrence's offenses arose from two separate acts that occurred sequentially. She first operated her vehicle while intoxicated and caused a death. Thereafter, she left the scene of the accident when she knew or should have known of the death.\nThus, we now recede from Pelham because we conclude that Ms. Lawrence's convictions on both counts do not constitute double jeopardy and do not contravene any legislative intent. Based on the foregoing, we affirm Ms. Lawrence's convictions for both offenses.\nBLUE, C.J., THREADGILL, PARKER, FULMER, WHATLEY, NORTHCUTT, GREEN, CASANUEVA, SALCINES, STRINGER, DAVIS, SILBERMAN, and COVINGTON, JJ., Concur.\n",
+            "ocr": false,
+            "opinion_id": 1881591
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

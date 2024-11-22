@@ -1,0 +1,58 @@
+{
+    "id": 8080137,
+    "judges": "Carter, Chappell, Mess, More, Paine, Simmons, Wenke, Yeager",
+    "date_filed": -659145600000,
+    "date_filed_is_approximate": false,
+    "slug": "swanson-v-state",
+    "case_name_short": "Swanson",
+    "case_name": "Swanson v. State",
+    "case_name_full": "Roger Swanson, in error v. State of Nebraska, in error",
+    "attorneys": "Frank J. Reed, for plaintiff in error., Walter R. Johnson, Attorney General and Leslie Boslaugh, for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "150 Neb. 761",
+        "35 N.W.2d 826"
+    ],
+    "opinions": [
+        {
+            "author_str": "Chappell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nChappell, J.\nAn information, filed in the district court for Kimball County, charged in substance that on-or about April 21, 1947, in said county, defendant, \u201ca male person of the age of Seventeen years,\u201d did feloniously assault Clara Buddecke, \u201ca female child of the age of seventeen years,\u201d with the intent to commit rape upon her, which acts of defendant were contrary to the form of the statutes made and provided, and against the peace and dignity of the State of Nebraska. Upon defendant\u2019s plea of not guilty thereto, a jury found him guilty. His motion for new trial was overruled, and on December 27, 1947, he was sentenced to imprisonment in the State Reformatory for Men at Lincoln for a period of five years from that date.\nThereupon, defendant prosecuted error to this court, assigning many errors, but since the judgment is revers\u00e9d and the cause is remanded, only the following contentions require discussion and decision, to wit: (1) That it was prejudicial error to allege the age of defendant and the age of prosecutrix in the information and include the same verbatim in instruction No. 2 given by the trial court; (2) that the trial court erred in overruling defendant\u2019s objection to the county attorney\u2019s competency as a witness; (3) erred in the rejection of certain evidence offered by defendant; (4) erred in giving instructions Nos. 6, 9, and 10; and, (5) that the state\u2019s evidence was insufficient to sustain the verdict and judgment. We conclude that the foregoing third and fourth contentions should be sustained.\nThis case, although tried separately, grew out of the same incident as that involved in Frank v. State, ante p. 745, 35 N. W. 2d 816.\nIt will be noted that the information herein not only failed to allege that prosecutrix was previously chaste, but also described defendant as \u201ca male person of the age of Seventeen years,\u201d as distinguished from one \u201cof the age of eighteen years or upwards,\u201d which allegation was *763not prejudicial but beneficial to defendant in that it required the state to prove beyond a reasonable doubt that defendant committed an assault upon prosecutrix with the intent to commit a rape \u00fapon her by the use of force, without consent, and notwithstanding her resistance. Defendant was thus given the benefit of the defense of consent and want of resistance. Therefore, the first contention would be controlled by the same principles as those appearing in the discussion and conclusion with reference to the first contention in Frank v. State, supra.\nThe third and fifth contentions, as well as instructions Nos. 6 and 10, given by the trial court, and claimed prejudicially erroneous in the fourth contention, are all identical in principle and respectively controlled by rules of law discussed and conclusions reached with regard thereto in Frank v. State, supra.\nWith reference to defendant\u2019s second contention, the record discloses that after the county attorney had partially prepared the case for trial, a special prosecutor was appointed by the trial court to try the case, and the county attorney\u2019s name was endorsed upon the information as a witness for the state. The special prosecutor appeared at the trial as counsel representing the state, and prosecuted the action as such. There is no evidence in this record, or offer by defendant to adduce any evidence, that the county attorney conducted himself during the trial in any manner inconsistent with his position as a witness or his interest as an officer of the state.\nWhen the county attorney attempted to testify as a witness for the state, defendant simply objected to his competency as a witness, which the trial court overruled, stating, \u201cThe witness hasn\u2019t taken any part in the trial of this case.\u201d As will be observed by the authorities cited in Frank v. State, supra, the court\u2019s ruling was not erroneous.\nInstruction No. 9, given by the trial court herein, stated the rule regarding the necessity and character of corroboration, but as a part of the same instruction, *764cautionary in character with regard to the effect of testimony given by the county attorney relating to admissions made to him by defendant, the trial court therein erroneously assumed, as an established fact, that all such admissions had been made by defendant, which was generally denied not only by defendant but by Marvin Frank, another witness for defendant. Whether or not the admissions were made as testified by the county attorney was also a question for the jury to decide. For the foregoing reasons, instruction No. 9 was prejudicially erroneous.\nFor the reasons heretofore stated, and those stated in Frank v. State, supra, and incorporated herein by reference, the judgment of the trial court should be and hereby is reversed and the cause is remanded.\nReversed and remanded.\nPaine, J., not participating.\n",
+            "ocr": true,
+            "opinion_id": 8039264
+        },
+        {
+            "author_str": "Simmons",
+            "per_curiam": false,
+            "type": "040dissent",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSimmons, C. J.,\ndissenting.\nFor the reasons stated in my dissent in Frank v. State, ante p. 745, 35 N. W. 2d 816, I concur in the judgment of the court and would go further and dismiss.\nThe charge arises out of the same events which are involved in Frank v. State, supra. The.same assignments of error generally are made here as in the Frank case. The case was tried the month following the Frank case.\nHere the witness Gerald Donoghue did not testify for the state, so that whatever corroborative value there was in his testimony in the Frank case is lacking here.\nHere the evidence of the prosecutrix has even less probative value than it had in the Frank case.\nHere the county attorney did not relate much of his testimony in the Frank case and by qualifications weakened that which he did give.\nSubject to these changes, my dissent in Frank v. State, supra, is applicable here.\n",
+            "ocr": true,
+            "opinion_id": 8039265
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Rape"
+}

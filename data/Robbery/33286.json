@@ -1,0 +1,46 @@
+{
+    "id": 6003831,
+    "judges": null,
+    "date_filed": 439430400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-yearby",
+    "case_name_short": "Yearby",
+    "case_name": "People v. Yearby",
+    "case_name_full": "The People of the State of New York v. Gregory Yearby",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "98 A.D.2d 733"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by defendant from a judgment of the Supreme Court, Suffolk County (D\u2019Amaro, J.), rendered June 9,1981, convicting him of attempted robbery in the second degree, upon his plea of guilty, and imposing sentence. Judgment affirmed. We have reviewed the record and agree with defendant\u2019s assigned counsel that there are no meritorious issues that could be raised on appeal. Counsel\u2019s application for leave to withdraw as counsel is granted. (See Anders v California, 386 US 728; People v Paige, 54 AD2d 631; cf. People v Gonzalez, 47 NY2d 606.) Lazer, J. P., Mangano, Bracken and Niehoff, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5865524
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

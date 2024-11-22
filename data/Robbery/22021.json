@@ -1,0 +1,47 @@
+{
+    "id": 3295313,
+    "judges": null,
+    "date_filed": -1137024000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-wheeler",
+    "case_name_short": "Wheeler",
+    "case_name": "People v. Wheeler",
+    "case_name_full": "The People v. William O. Wheeler",
+    "attorneys": "No appearance for Appellants.\n\nU.S. Webb, Attorney-General, and J. Charles Jones, Deputy Attorney-General, for Respondent.",
+    "nature_of_suit": null,
+    "posture": "APPEAL from judgments of the Superior Court of Sacramento County and from orders denying a new trial. L.M. Shelley, Judge. Affirmed.\n\nThe facts are stated in the opinion of the court.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "27 P.2d 944",
+        "136 Cal. App. 15"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "THE COURT.\nThe appellants were convicted in the Superior Court of Sacramento County of a felony, to wit: Robbery of the first degree.\n[1] The transcript on appeal was filed in this court September 15, 1933. No brief has been filed in behalf of appellants. The cause was regularly placed on the calendar for oral argument on December 4, 1933.\nNo briefs having been filed and the time therefor having expired, pursuant to the provisions of section 1253 of the Penal Code the judgments and the orders are affirmed. *Page 16 ",
+            "ocr": false,
+            "opinion_id": 3294012
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Robbery"
+}

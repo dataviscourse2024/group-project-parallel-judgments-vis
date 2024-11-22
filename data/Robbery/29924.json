@@ -1,0 +1,46 @@
+{
+    "id": 5330818,
+    "judges": "Kelly, Smith, Sternberg",
+    "date_filed": 543110400000,
+    "date_filed_is_approximate": true,
+    "slug": "people-v-collyer",
+    "case_name_short": "Collyer",
+    "case_name": "People v. Collyer",
+    "case_name_full": "The PEOPLE of the State of Colorado v. Ronald Paul COLLYER a/k/a Bob Collyer",
+    "attorneys": "Duane Woodard, Atty. Gen., Charles B. Howe, Chief Deputy Atty. Gen., Richard H. Forman, Sol. Gen., David R. Little, Asst. Atty. Gen., Denver, for plaintiff-appellee., Wittman & Farry, Edward T. Farry, Jr., Colorado Springs, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "736 P.2d 1267"
+    ],
+    "opinions": [
+        {
+            "author_str": "Kelly",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKELLY, Judge.\nThe defendant, Ronald Paul Collyer, appeals from a judgment of conviction entered upon a jury verdict finding him guilty of theft. Collyer contends that the trial court erred in denying his Crim.P. 35(e) motion for post-conviction relief. As grounds for reversal, Collyer claims that he should have been tried for theft of cable television service, a misdemeanor, rather than for felony theft. He also asserts that there was insufficient evidence to support his conviction. We affirm.\nIn March 1985, Collyer was convicted under the general theft statute, \u00a7 18-4-401, C.R.S. (1986 RepLVol. 8B) of stealing a cable television \u201csignal.\u201d The conduct which led to his conviction took place from October 1983 through December 1984. Collyer was charged with exercising unauthorized control over the TV signal by using an amplifier and signal splitters to provide unauthorized cable television service to tenants in the apartment house he managed. In return, the tenants paid fees to Collyer which he did not remit to the cable TV company that transmitted the signal.\nAfter Collyer was arrested, but before he was tried in 1985, the General Assembly enacted \u00a7 18-4-701, C.R.S. (1986 Repl.Vol. 8B), entitled \u201cTheft of Cable Television Service.\u201d A violation of that statute is a class 2 misdemeanor. Section 18-4-701(3), C.R.S. (1986 Repl.Vol. 8B). The General Assembly made the statute effective July 1, 1984, and it is specifically applicable to offenses taking place after that date. Colo.Sess.Laws 1984, ch. 133 at 544.\nI.\nFor several reasons, Collyer contends that he should have been tried under the provisions of \u00a7 18-4-701. He argues that this is the specific statute relating to the offense at issue and should be applied over the general theft statute. He also argues that he has been denied equal protection of the laws because of the existence of two statutes that cover the facts giving rise to the charges. Finally, although he makes no reference either to Crim.P. 35(c)(1) or to \u00a7 18-l-410(l)(f), C.R.S. (1986 Repl.Vol. 8B), he urges that \u00a7 18-4-701 is a significant change in the law which should be applied retroactively in his case. We reject these contentions.\nDefendant\u2019s contentions relative to a denial of equal protection and that he should have been tried under the specific statute are without merit.\nAs to his retroactivity argument, statutes are presumed to be prospective in operation and are to be construed accordingly unless the General Assembly specifically states otherwise. Section 2-4-202, C.R.S. (1980 Repl.Vol. IB). But, in \u00a7 18-1-410(1), C.R.S., (1986 Repl.Vol. 8B) the General Assembly has explicitly provided for post-conviction review if \u201cthere has been significant change in the law, applied to the applicant\u2019s conviction or sentence, allowing in the interests of justice retroactive application of the changed legal standard.\u201d The provisions of Crim.P. 35(c)(1) are identical.\nThese statutory provisions have been frequently applied by the Supreme Court to require reduction of a defendant\u2019s sentence retroactively. See Shook v. District Court, 188 Colo. 76, 533 P.2d 41 (1975); People v. Thornton, 187 Colo. 202, 529 P.2d 628 (1974); People v. Thomas, 185 Colo. 395, 525 P.2d 1136 (1974). Relief was denied, however, in People v. Macias, 631 P.2d 584 (Colo.1981) because the amend-atory legislation explicitly stated that it was to apply only to offenses committed after a certain date, without reference to the statute or rule authorizing the application of a changed legal standard.\n*1269While the statute and rule have not previously been applied to a defendant\u2019s conviction, as opposed to his sentence, we see no reason why the principles announced in Macias, supra, should not apply. Accordingly, since \u00a7 18-4-701 makes no reference to the rule or the statute, and explicitly applies to offenses committed after the effective date, retrospective application may not be given to the misdemeanor statute.\nII.\nCollyer\u2019s contention that there was insufficient evidence to support the verdict is also without merit.\nIf a defendant challenges his conviction on the basis of insufficient evidence, the reviewing court must examine the evidence in a light most favorable to the prosecution. People v. Quick, 713 P.2d 1282 (Colo.1986). Doing so here, we conclude that a reasonable juror could find all the elements of the charged offense beyond a reasonable doubt. Thus-, the verdict must be allowed to stand. People v. Quick, supra; People v. Gonzales, 666 P.2d 123 (Colo.1983).\nThe judgment is affirmed.\nSMITH and STERNBERG, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5161358
+        }
+    ],
+    "court_short_name": "Colorado Court of Appeals",
+    "court_full_name": "Colorado Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

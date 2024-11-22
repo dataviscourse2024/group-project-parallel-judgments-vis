@@ -1,0 +1,47 @@
+{
+    "id": 5789848,
+    "judges": "McMurray",
+    "date_filed": 647827200000,
+    "date_filed_is_approximate": false,
+    "slug": "woods-v-state",
+    "case_name_short": "Woods",
+    "case_name": "Woods v. State",
+    "case_name_full": "WOODS v. State",
+    "attorneys": "G. Scott Sampson, for appellant., Lewis R. Slaton, District Attorney, Joseph J. Drolet, William C. Akins, Carl P. Greenberg, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "196 Ga. App. 395",
+        "396 S.E.2d 74"
+    ],
+    "opinions": [
+        {
+            "author_str": "McMurray",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcMurray, Presiding Judge.\nVia two indictments, defendant was accused of entering an automobile with intent to commit a theft therein on March 3, 1989, and of entering an automobile with intent to commit a theft therein again on June 20, 1989. Following a jury trial, defendant was convicted of criminal trespass with regard to the March 3, 1989, offense and convicted of entering an automobile with intent to commit a theft therein with regard to the June 20, 1989, offense. Defendant\u2019s motion for a new trial was overruled and he appeals. Held:\n1. In his first enumeration of error, defendant complains the trial court erred in permitting the officer who arrested him in connection with the June 20, 1989, offense to testify over a hearsay objection that the owner of the automobile did not give defendant permission to enter the automobile. This enumeration of error is without merit.\nDefendant was seen peering into various automobiles in the vicinity of the automobile in question. A window of that automobile was shattered and defendant was seen emerging from the automobile. He hid from passing cars, ran from the police and, at the time of his apprehension, possessed a screwdriver and pocketknife. Moreover, fragments of glass were observed on the seat of defendant\u2019s pants following his arrest. Any error in admitting the officer\u2019s testimony was *396manifestly harmless since the evidence was more than sufficient to establish that defendant entered the automobile with the requisite unlawful intent. See OCGA \u00a7 16-8-18; Heflin v. State, 183 Ga. App. 149, 150 (2) (358 SE2d 298).\n2. In addition to charging the jury concerning entering an automobile with intent to commit a theft therein, OCGA \u00a7 16-8-18, the trial court charged the jury concerning misdemeanor criminal trespass, OCGA \u00a7 16-7-21 (b). As noted above, defendant was convicted of misdemeanor criminal trespass in connection with the March 3, 1989, offense. In his second enumeration of error, defendant asserts the trial court erred in failing to charge OCGA \u00a7 16-7-21 (a), misdemeanor criminal trespass by intentionally damaging property of another without his consent where the damage is less than $500. We find no error in this regard since, as discussed in Division 1, the evidence was sufficient to establish the completed offense of entering an automobile with intent to commit a theft therein in connection with the June 20, 1989 offense. See Mallory v. State, 166 Ga. App. 812, 814 (2) (305 SE2d 656). Moreover, defendant failed to submit a written request to charge the provisions of OCGA \u00a7 16-7-21 (a). See State v. Stonaker, 236 Ga. 1 (222 SE2d 354).\n3. Defendant contends the trial court erred in joining the March 3, 1989, and the June 20, 1989 offenses for trial. We disagree.\n\u201c \u2018The Supreme Court of Georgia has held that a defendant has a right to severance \u201cwhere the offenses are joined solely on the ground that they are of the same or similar character . . . \u2018because of the great risk of prejudice from a joint disposition of unrelated charges.\u2019 \u201d (Cits.) However, where the joinder is based upon the same conduct or on a series of acts connected together or constituting parts of a single scheme or plan, severance \u201clies within the sound discretion of the trial judge since the facts in each case are likely to be unique.\u201d (Cits.) In determining whether severance is necessary to achieve a fair determination of the defendant\u2019s guilt or innocence of each offense, the \u201ccourt should consider whether in view of the number of offenses charged and the complexity of the evidence to be offered, the trier of fact will be able to distinguish the evidence and apply the law intelligently as to each offense.\u201d (Cit.)\u2019 Coats v. State, 234 Ga. 659, 662 (4) (217 SE2d 260) (1975); Fluellen v. State, 163 Ga. App. 425 (2) (294 SE2d 653) (1982). Where the modus operandi of the perpetrator is so strikingly alike that it demonstrates and designates the defendant as the common perpetrator, the offenses may be joined, subject to the right of the defendant to a severance in the interests of justice. Davis v. State, 159 Ga. App. 356, 357 (1) (238 SE2d 283) (1981); Mack v. State, 163 Ga. App. 778, 779 (1) (296 SE2d 115) (1982).\u201d Knight v. State, 185 Ga. App. 619, 620 (365 SE2d 484).\nIn the case sub judice, defendant entered two automobiles in *397which the windows were smashed. The entries took place during the night and within a few miles of each other. The evidence pertaining to each offense was simple and it is highly unlikely that the jury was confused by it. We cannot say the trial court abused its discretion in joining the offenses for trial. Defendant\u2019s third enumeration of error is without merit.\nDecided July 13, 1990.\nG. Scott Sampson, for appellant.\nLewis R. Slaton, District Attorney, Joseph J. Drolet, William C. Akins, Carl P. Greenberg, Assistant District Attorneys, for appellee.\n\nJudgment affirmed.\n\n\nCarley, C. J., and Sognier, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5644425
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

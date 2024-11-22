@@ -1,0 +1,46 @@
+{
+    "id": 5232300,
+    "judges": "Bissett, Kennedy, Utter",
+    "date_filed": 391305600000,
+    "date_filed_is_approximate": true,
+    "slug": "fearon-v-state",
+    "case_name_short": "Fearon",
+    "case_name": "Fearon v. State",
+    "case_name_full": "Edward FEARON v. STATE of Texas",
+    "attorneys": "Patrick McGuire, Corpus Christi, for appellant., William B. Mobley, Jr., Dist. Atty., Corpus Christi, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied June 17, 1982., Discretionary Review Refused Sept. 15,1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "636 S.W.2d 17"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bissett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nBISSETT, Justice.\nThis is an appeal from a conviction for bail jumping. Appellant pled guilty, and the court assessed punishment at five years in the Texas Department of Corrections.\nAppellant\u2019s sole ground of error alleges that the indictment is fundamentally defective \u201cfor failure to allege that the appellant\u2019s release from custody in the underlying felony case was lawful.\u201d\nThe indictment alleges that appellant: \u201cdid then and there while under an indictment returned in the 105th Judicial District Court of Nueces County, Texas, in Cause Number 78-CR-758, charging him with the felony offense of burglary, and while released on bail from custody under said indictment on the condition that he subsequently appear, intentionally and knowingly fail to appear in the 105th Judicial District Court of Nueces County, Texas, in accordance with the terms of his release which required that he, the defendant, make his personal appearance after indictment before the 105th Judicial District Court of Nueces County, Texas, from the date of said indictment and there remain from day to day and from term to term until discharged by due course of law.\u201d (Emphasis added).\nAppellant argues, and we quote:\n\u201cIf \u2018A,\u2019 a civilian with no lawful authority to release an accused on bond, helps \u2018B,\u2019 an accused, escape from jail based on \u2018B\u201ds secured promise to \u2018A\u2019 that \u2018B\u2019 will appear and answer before the proper court and \u2018B\u2019 thereafter fails to appear, \u2018B\u2019 may be guilty of escape and he may have breached his promise. He is not, however, guilty of bail jumping since his release was not lawful. Lawfulness of the release is a necessary element required to be alleged and proved by the State.\u201d We do not agree.\nThe State is not required to aver that the act charged was \u201cunlawful\u201d where *18the facts alleged clearly show it to be unlawful. See Vasquez v. State, 522 S.W.2d 910 (Tex.Cr.App.1975) and cases cited therein. We can think of no reason why the rule should be any different where the statute uses the word \u201clawful.\u201d The indictment in this case charges the existence of facts which, if sustained, show a violation of the law. We think it clear that one who is \u201creleased on bail from custody\u201d is perforce lawfully released within the meaning of the statute.\nAppellant\u2019s hypothetical episode involving \u201cA\u201d and \u201cB,\u201d which states a truism, misses the point since an escape is not a lawful release from custody, while bail is. The failure to insert the word \u201clawfully\u201d in the indictment does not vitiate it.\nThe appellant\u2019s ground of error is overruled, and the judgment of the trial court is AFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 5057249
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

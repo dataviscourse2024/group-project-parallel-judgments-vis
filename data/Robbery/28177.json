@@ -1,0 +1,46 @@
+{
+    "id": 4963994,
+    "judges": "Allen, Barns, Kanner, Paul",
+    "date_filed": -301276800000,
+    "date_filed_is_approximate": true,
+    "slug": "gantner-v-state",
+    "case_name_short": "Gantner",
+    "case_name": "Gantner v. State",
+    "case_name_full": "Ralph George GANTNER v. STATE of Florida",
+    "attorneys": "Ross E. Mowry and Wallace E. Allbrit-ton, Fort Lauderdale, for appellant., Richard W. Ervin, Atty. Gen., and David U. Tumin, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied July 14, 1960.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "121 So. 2d 668"
+    ],
+    "opinions": [
+        {
+            "author_str": "Kanner",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKANNER, Judge.\nAn information was filed against Ralph George Gantner charging him with the unlawful buying, receiving, or aiding in the concealment of certain stolen property valued at more than one hundred dollars, knowing the same to have been stolen. The jury returned a verdict of guilty as charged in the information but found that, the property was of a value less than one hundred dollars. The trial court thereupon sentenced Gantner to imprisonment by confinement at hard labor in the Broward County jail for a term of one year.\nBeing dissatisfied with that result, Gardner has brought this appeal. He complains of several errors which we do not deem necessary to enumerate, because after a careful study of the record and briefs, and having in mind the oral arguments, we irresistibly arrive at the determination that there is no foundation in the record to require a reversal.\nThe State of Florida, however, has cross-assigned error, specifying that under the prevailing statute, section 811.16, Florida Statutes, F.S.A., the sentence imposed should be in the state prison instead of in the county jail. With this we agree and note that appellant also is in accord. However, we shall set forth the basis that makes this necessary.\nSection 811.16, Florida Statutes, F.S.A., under which Gantner was convicted and sentenced, denounces as a crime the offense of knowingly buying, receiving, or aiding in the concealment of stolen property and prescribes the penalty by \u201cimprisonment in the state prison not exceeding five years, or by fine not exceeding five hundred dollars.\u201d Section 811.17, Florida Statutes, F.S.A., provides that upon a first conviction under section 811.16, when the act of stealing the property is not by law a felony, if the convicted party makes satisfaction to the party injured to the full value of the property stolen arid not restored, the convicted party shall not be imprisoned in the state prison but may be liable to such additional punishment as the court may direct. These statutes must be read and considered in pari materia. Our perusal of the record establishes that the stolen property had a value of less than $100.00. Thus the larceny was not a felony within the purview of section 811.-17. The record, however is wholly silent as to the requisite of making satisfaction by Gantner to the party injured in the full value of the property stolen and not restored. Hence, the condition of restoration is lacking, and as a consequence these statutes require the imposition of sentence of imprisonment in the state prison. The case of McKinnes v. State, Fla.App. *6701959, 115 So.2d 184, aptly deals with the question and is decisive here.\nAccordingly, the judgment of conviction is affirmed, but the cause is remanded with directions to vacate the sentence improperly imposed and to re-sentence Gantner pursuant to the provisions of section 811.16, taking into account the incarceration to which he has been subjected under the improper sentence.\nAffirmed and remanded.\nALLEN, C. J., and BARNS, PAUL, Associate Judge, concur.\n",
+            "ocr": true,
+            "opinion_id": 4772462
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

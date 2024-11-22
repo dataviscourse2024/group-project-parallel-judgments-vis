@@ -1,0 +1,47 @@
+{
+    "id": 5826278,
+    "judges": null,
+    "date_filed": 1107388800000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-steven-p",
+    "case_name_short": null,
+    "case_name": "In re Steven P.",
+    "case_name_full": "In the Matter of Steven P., a Person Alleged to be a Juvenile Delinquent",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "15 A.D.3d 197",
+        "789 N.Y.S.2d 48"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOrder of disposition, Family Court, Bronx County (Alma Cordova, J.), entered on or about January 6, 2004, which adjudicated appellant a juvenile delinquent, upon a fact-finding determination that he committed acts which, if committed by an adult, would constitute the crimes of attempted robbery in the second degree, assault in the second and third degrees, criminal possession of stolen property in the fifth degree, and two counts of attempted assault in the third degree, and placed him in the custody of New York State Office of Children and Family Services for a period of 18 months, unanimously affirmed, without costs.\nThe court\u2019s finding was based on legally sufficient evidence and was not against the weight of the evidence (see People v Bleakley, 69 NY2d 490 [1987]). There is no basis for disturbing the court\u2019s determinations concerning credibility (see People v *198Gaimari, 176 NY 84, 94 [1903]). Appellant\u2019s course of conduct established that he was a participant in an attempt to forcibly steal a bicycle, and was not consistent with a theory that he was merely attempting to recover a bicycle allegedly stolen by the complainants from a third party. In particular, appellant ignored a warning from an adult bystander that the bicycle belonged to the complainants, and fled, accompanying the other participants in the crime, upon the approach of the police. We have considered and rejected appellant\u2019s remaining claims. Concur\u2014 Mazzarelli, J.E, Ellerin, Nardelli, Gonzalez and Catterson, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5681946
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

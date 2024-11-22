@@ -1,0 +1,47 @@
+{
+    "id": 4096826,
+    "judges": "PER CURIAM, October 12, 1938:",
+    "date_filed": -985305600000,
+    "date_filed_is_approximate": false,
+    "slug": "com-ex-rel-vincent-v-smith-warden",
+    "case_name_short": null,
+    "case_name": "Com. Ex. Rel. Vincent v. Smith, Warden",
+    "case_name_full": "Com. Ex Rel. Vincent v. Smith, Warden.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": "Petition for writ of habeas corpus. Original jurisdiction, No. 4, Misc. Docket No. 419, in case of Com. ex rel. Charles Vincent v. Herbert Smith, Warden, Eastern State Penitentiary. Rule to show cause discharged and petition denied.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 7,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b503-2\">\n    Com.\n    <em>\n     ex\n    </em>\n    rel. Vincent\n    <em>\n     v.\n    </em>\n    Smith, Warden.\n   </parties><decisiondate id=\"Ayf\">\n    October 12, 1938:\n   </decisiondate>",
+    "citations": [
+        "1 A.2d 838",
+        "132 Pa. Super. 469"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Pursuant to the practice established by the Supreme Court (SeeCom. v. Curry, 285 Pa. 289, pp. 298-9, 132 A. 370) we granted a rule to show cause why a writ of habeas corpus should not issue on the petition of the relator, Charles Vincent, returnable October 10, 1938.\nThe grounds alleged by the petitioner as requiring his discharge from custody were: (1) That the trial judge following petitioner's plea of guilty to an indictment containing three counts illegally imposed in one sentence a cumulative maximum and minimum, to wit, imprisonment, by separate and solitary confinement at labor, for a period of not more than ten years, nor less than five years; (2) that the indictment was vague, indefinite and inadequate in its description of the crimes charged. They raise only questions of law; no issues of fact are involved. *Page 470 \n(1) The copy of the indictment sent up with the answer of the district attorney shows that the relator, under the name of Charles O'Neil, alias Anthony Vershinsky, was indicted May 17, 1932 on three counts: (1) Felonious burglary, in that he did on May 16, 1932, about the hour of eleven o'clock in the night, with force and arms, etc., unlawfully, wilfully, maliciously, feloniously and burglariously break and enter the City Garage in Shamokin, Northumberland County, with intent feloniously to steal, take and carry away the goods and chattels of Jacob Axel in the said City Garage then and there being, and did feloniously and burglariously steal, take and carry away a certain Oldsmobile automobile then and there in said City Garage, of the value of $1000 and upwards, the property of Jacob Axel, etc. [Sec. 135 of the Act of March 31, 1860, P.L. 382]; (2) Felonious entry in the night time without breaking, in that he did on the day and year aforesaid, at the county aforesaid, about the hour of eleven at night, with force and arms, etc., feloniously, etc., enter the City Garage, without breaking the same, with intent to feloniously steal, take and carry away a certain Oldsmobile automobile, of a value of $1000 and upwards, the property of the said Jacob Axel, [Sec. 2 of the Act of April 22, 1863 P.L. 531, as amended by the Act of March 13, 1901, P.L. 49]; (3) Receiving the goods, property etc., feloniously stolen as aforesaid well knowing them to have been feloniously stolen, taken and carried away [Act of April 23, 1909, P.L. 159].\nHe was arraigned in the court of oyer and terminer on May 20, 1932, and pleaded guilty in open court. On May 24, 1932, he was sentenced to pay costs of prosecution, pay a fine of $500, and undergo imprisonment in the Eastern Penitentiary for a period of not more than ten years nor less than five years. The sentence could legally have been pronounced on a conviction or plea of guilty on either the first or second count. It *Page 471 \nwas not an illegal cumulation of sentences such as was set aside in Halderman's Petition, 276 Pa. 1, 119 A. 735; and Com. ex rel.Hallett v. McKenty, 80 Pa. Super. 249, and similar cases. The sentence is legally sustainable under the second count. The court does not have to sentence on every count; a sentence is legal, if it is warranted by any count in the indictment.\n(2) The indictment is sufficiently specific to support the plea of guilty. It sufficiently informed the accused of the crimes of which he was charged.\nIt further appears by the record returned to us that the relator on June 1, 1932, escaped from the Northumberland County Prison, that on January 8, 1937 he was returned to the county prison and on January 18, 1937, the court ordered him remanded to the Eastern Penitentiary to serve the full sentence imposed on him on May 24, 1932 as aforesaid, to be computed from January 18, 1937.\nAnd Now, October 12, 1938, it appearing that the relator is legally in custody by virtue of the foregoing sentence, the rule to show cause is discharged and the petition denied.",
+            "ocr": false,
+            "opinion_id": 3856350
+        }
+    ],
+    "court_short_name": "Superior Court of Pennsylvania",
+    "court_full_name": "Superior Court of Pennsylvania",
+    "court_type": "SA",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

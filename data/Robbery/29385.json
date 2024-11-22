@@ -1,0 +1,46 @@
+{
+    "id": 5214661,
+    "judges": "Douglas",
+    "date_filed": 64540800000,
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-shirley",
+    "case_name_short": "Ex parte Shirley",
+    "case_name": "Ex parte Shirley",
+    "case_name_full": "Ex parte George Henderson SHIRLEY",
+    "attorneys": "C. C. Divine, Houston, for appellant., Jim D. Vollers, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied March 1, 1972.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "475 S.W.2d 929"
+    ],
+    "opinions": [
+        {
+            "author_str": "Douglas",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nDOUGLAS, Judge.\nThis is an appeal from an order denying relief in a habeas corpus proceeding before the Honorable George L. Walker, Judge of the 185th Judicial District Court of Harris County.\nFollowing a conviction for felony theft, wherein the jury assessed his punishment at the maximum of ten years, appellant sought release from jail pending his appeal to this Court. Appellant submitted an appeal bond with himself as principal and Charles W. and Audry O. Burch, husband and wife, as sureties in the amount of $25,000.00. Each surety made in writing and subscribed to the oath to test the sufficiency of the security offered under Art. 17.13, Vernon\u2019s Ann.C.C.P., swearing to be worth more than double the amount of the sum of the bail as required by Article 17.11, V.A.C.C.P. (Supp.1972). The sheriff valued the property at only slightly more than the sum of $25,000.00 and the bond was denied. At the hearing the appellant called Lieutenant W. T. Leonard, Deputy Sheriff of Harris County, who disapproved the bond. He testified that he checked the deed of records in the clerk\u2019s office and determined that all property listed except one lot was in the name of the sureties. To determine the value he checked with the tax assessor\u2019s and collector\u2019s office. He then took that valuation on the land and improvements and multiplied this figure by four to reach a total valuation of $28,080. Since he found this amount insufficient to be double the amount of the bond he did not check for any encumbrances. Leonard further testified that he found no homestead designation on file.\nMr. and Mrs. Burch testified that they also owned a lot not shown in their names in the deed of records and that they valued their property with improvements at $128,080.00. They offered no proof beyond their testimony and affidavit that *930their valuation was correct or that the Sheriff\u2019s was in error. Mrs. Burch testified that they resided on part of the property but it was not their homestead.\nThe trial court denied the appellant\u2019s application for habeas corpus which was tantamount to a holding that the security offered was not double the amount of the bail as required by Article 17.11, supra.\nNo abuse of discretion has been shown. See Ex parte Williams, 116 Tex.Cr.R. 125, 32 S.W.2d 839; Greathouse v. Gilmartin, 164 S.W.2d 757 (Tex.Civ.App. Fort Worth 1942, no writ). The judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5038499
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

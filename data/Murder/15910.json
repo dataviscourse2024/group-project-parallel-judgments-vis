@@ -1,0 +1,46 @@
+{
+    "id": 1956759,
+    "judges": "King, C.J., Chandler and Ishee",
+    "date_filed": 1132012800000,
+    "date_filed_is_approximate": false,
+    "slug": "fuller-v-state",
+    "case_name_short": "Fuller",
+    "case_name": "Fuller v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "914 So. 2d 1230"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n914 So. 2d 1230 (2005)\nKenneth Ray FULLER a/k/a Wizard, Appellant\nv.\nSTATE of Mississippi, Appellee.\nNo. 2004-CP-00839-COA.\nCourt of Appeals of Mississippi.\nNovember 15, 2005.\n*1231 Kenneth Ray Fuller, Appellant, pro se.\nOffice of the Attorney General by Deirdre McCrory, attorney for appellee.\nBefore KING, C.J., CHANDLER and ISHEE, JJ.\nKING, C.J., for the Court.\n\u00b6 1. Kenneth Ray Fuller, pro se, appeals from the Pike County Circuit Court's denial of his Petition to Clarify Sentence. The petition essentially attacked the legality of his sentence, implicitly requesting the trial court to grant post-conviction relief. Fuller now seeks post-conviction relief from this Court by claiming that he received a sentence that exceeds the five year maximum prescribed by Mississippi Code Annotated \u00a7 97-1-5. Fuller also argues that he was not properly informed of the maximum sentence before his plea. Finding no error with regard to the former claim and finding the latter claim to be procedurally barred, this Court affirms.\n\nFACTS\n\u00b6 2. On April 29, 2003, Kenneth Ray Fuller pled guilty to accessory after the fact to murder. Pursuant to Mississippi Code Annotated \u00a7 97-1-5 (Rev.2000), Fuller was sentenced by the Circuit Court of Pike County to five years in the custody of the Mississippi Department of Corrections. The sentencing order provided that Fuller shall serve the first three years of the sentence in prison with the remaining two years to be served on post-release supervision. However, Fuller's commitment paper stated that he had been sentenced to five years in the custody of the Mississippi Department of Corrections with two years suspended, three years to serve, and five years probation. On July 28, 2003, Fuller filed a Petition to Clarify Sentence. The circuit court judge denied Fuller's petition on March 29, 2004, stating that the sentence was unambiguous and warranted no clarification. Fuller filed his notice of appeal on April 27, 2004.\n\nLAW AND ANALYSIS\n\u00b6 3. A motion for post-conviction relief \"shall be filed as an original civil action in the trial court, except in cases in which the prisoner's conviction and sentence have been appealed to the supreme court of Mississippi and there affirmed or the appeal dismissed.\" Miss.Code Ann. \u00a7 99-39-7 (Rev.2000). Although Fuller did not explicitly file a motion for post-conviction relief in the trial court, his Petition *1232 to Clarify Sentence addressed what Fuller believed to be an illegal sentence. We therefore consider Fuller's appeal as one from a denial of post-conviction relief, but find that it is without merit.\n\u00b6 4. Fuller relies on the commitment paper in arguing that his five year sentence combined with five years of probation amounts to a sentence of ten years, violating the statutory five year maximum sentence for accessory after the fact. This contention fails for two reasons. First, probation is not considered part of the sentence. Carter v. State, 754 So. 2d 1207, 1209(\u00b6 5) (Miss.2000). Second, although the record is conflicting, the sentencing order, not the commitment paper, controls. \"A commitment paper is not a judgment. Rather, the validity of a commitment depends on the judgment behind it.\" Strickland v. Howell, 654 So. 2d 1387, 1389 (Miss. 1995) (citing Hode v. Sanford, 101 F.2d 290 (5th Cir.1939)). Accordingly, we find that Fuller was sentenced to serve three years in the custody of the Mississippi Department of Corrections followed by two years of post-release supervision. While probation is not calculated as part of a sentence, \"the total number of years of incarceration plus the total number of years of post-release supervision shall not exceed the maximum sentence authorized to be imposed by law for the felony committed.\" Miss.Code Ann. \u00a7 47-7-34 (Rev.2004). Fuller's sentence of three years of incarceration plus two years of post-release supervision do not exceed the five year statutory maximum sentence for the crime of accessory after the fact.\n\u00b6 5. Fuller also misapprehends his five year sentence. In direct contradiction of his initial argument, Fuller insists that he was sentenced to serve three years, two of which were to be suspended. This is simply an incorrect reading of the record. Even the conflicting commitment paper states that the sentence imposed by the court's order is five years. We find that Fuller's sentence is valid under Mississippi Code Annotated \u00a7 97-1-5.\n\u00b6 6. Fuller also argues in his appellate brief that the trial court failed to inform him of the maximum sentence allowed by law before accepting his plea of guilt to accessory after the fact to murder. However, Fuller failed to raise this issue in the trial court. Mississippi Code Annotated \u00a7 99-39-21 (Rev.2000) provides in part that a claim not presented to the trial court is waived and procedurally barred from being brought for the first time on appeal. Since Fuller failed to raise the issue of the voluntariness of his plea in the court below, we are barred from considering the issue on appeal. Therefore, the decision of the Pike County Circuit Court is affirmed.\n\u00b6 7. THE JUDGMENT OF THE CIRCUIT COURT OF PIKE COUNTY DENYING POST-CONVICTION RELIEF IS AFFIRMED. ALL COSTS OF THIS APPEAL ARE ASSESSED TO PIKE COUNTY.\nLEE AND MYERS, P.JJ., BRIDGES, IRVING, CHANDLER, GRIFFIS, BARNES AND ISHEE, JJ., CONCUR.\n",
+            "ocr": false,
+            "opinion_id": 1956759
+        }
+    ],
+    "court_short_name": "Court of Appeals of Mississippi",
+    "court_full_name": "Court of Appeals of Mississippi",
+    "court_type": "SA",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Murder"
+}

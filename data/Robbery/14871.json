@@ -1,0 +1,47 @@
+{
+    "id": 1261462,
+    "judges": "Beasley, Carley, McMurray",
+    "date_filed": 624672000000,
+    "date_filed_is_approximate": false,
+    "slug": "denegal-v-state",
+    "case_name_short": "Denegal",
+    "case_name": "Denegal v. State",
+    "case_name_full": "Denegal v. the State",
+    "attorneys": "Lawrence E. Diamond, for appellant., Lewis R. Slaton, District Attorney, Henry Newkirk, Joseph J. Drolet, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b272-7\">\n    A89A1356.\n   </docketnumber><parties id=\"AyY\">\n    DENEGAL v. THE STATE.\n   </parties><br><citation id=\"b272-8\">\n    (387 SE2d 434)\n   </citation>",
+    "citations": [
+        "387 S.E.2d 434",
+        "193 Ga. App. 238"
+    ],
+    "opinions": [
+        {
+            "author_str": "Carley",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7146.0,
+            "opinion_text": "\n193 Ga. App. 238 (1989)\n387 S.E.2d 434\nDENEGAL\nv.\nTHE STATE.\nA89A1356.\nCourt of Appeals of Georgia.\nDecided October 18, 1989.\nLawrence E. Diamond, for appellant.\nLewis R. Slaton, District Attorney, Henry Newkirk, Joseph J. Drolet, Assistant District Attorneys, for appellee.\nCARLEY, Chief Judge.\nAppellant was tried before a jury and found guilty of armed robbery. He appeals from the judgment of conviction and sentence entered by the trial court on the jury's guilty verdict.\n1. Appellant moved to suppress the introduction of evidence of his identification as the perpetrator of the offense, contending that he had been identified in a pre-trial photographic display and a physical line-up which were impermissibly suggestive and that this suggestiveness would serve to taint any in-court identification. The trial court's denial of this motion is enumerated as error.\nThe trial court found that there was no impermissible suggestiveness in either of the pre-trial identification procedures and the evidence of record supports this conclusion. The pre-trial photographic display consisted of head-and-shoulder photographs of six men, one of whom was appellant and all of whom were of the same general age and physical characteristics. See generally Jones v. State, 251 Ga. 361, 362 (1) (306 SE2d 265) (1983). Likewise, the six-man pre-trial physical line-up consisted of appellant and five other physically similar males. Although appellant appeared at the physical line-up wearing a tank top and the other five participants wore t-shirts, the perpetrator was reported to have been wearing a coat and there is no basis for concluding that the clothing worn by appellant at the physical line-up impermissibly suggested that he was the perpetrator. See James v. State, 157 Ga. App. 645, 646 (2) (278 SE2d 187) (1981). Moreover, that the physical line-up was not impermissibly suggestive is further demonstrated by the fact that only one of the two witnesses who participated in that procedure identified appellant as the perpetrator. See Fletcher v. State, 159 Ga. App. 789 (1) (285 SE2d 762) *239 (1981).\nAppellant was the only person to appear in both the photographic display and the physical line-up, but this would not render the pre-trial identification procedures impermissibly suggestive. See Clark v. State, 166 Ga. App. 366, 368 (3) (304 SE2d 494) (1983). The trial court did not err in denying the motion to suppress evidence of the identification of appellant as the perpetrator.\n2. In his opening statement, counsel for the State purportedly stated that, at the time of appellant's arrest for the instant armed robbery, he was already under arrest for a shoplifting offense. Appellant subsequently moved for a mistrial, urging that this comment was improper. The trial court's refusal to grant the motion for mistrial is enumerated as error.\nThere is considerable doubt whether appellant has even preserved this issue for appellate review. He made no contemporaneous objection, but moved for a mistrial only after the State's crucial eyewitness had testified. See Cawthon v. State, 65 Ga. App. 428, 430 (3) (16 SE2d 247) (1941). Moreover, there is no transcript of the opening statement. See Wyley v. State, 169 Ga. App. 106, 108 (1) (311 SE2d 530) (1983). However, even assuming that a proper objection had been made and that the transcript demonstrated that counsel for the State did make the comment attributed to him, there was no error in denying the motion for mistrial. Under the controlling Supreme Court authority of State v. Luke, 232 Ga. 815 (209 SE2d 165) (1974), evidence regarding the circumstances of appellant's arrest would be admissible and those circumstances would, therefore, be a proper topic for comment in the opening statement. See Bryan v. State, 157 Ga. App. 635, 636 (4) (278 SE2d 177) (1981).\n3. Appellant enumerates the general grounds. We find more than sufficient evidence from which a rational trior of fact could reasonably have found proof of appellant's guilt of armed robbery beyond a reasonable doubt. Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979).\nJudgment affirmed. McMurray, P. J., and Beasley, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1261462
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

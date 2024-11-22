@@ -1,0 +1,46 @@
+{
+    "id": 6036565,
+    "judges": null,
+    "date_filed": 564019200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-lopez",
+    "case_name_short": "Lopez",
+    "case_name": "People v. Lopez",
+    "case_name_full": "The People of the State of New York v. Pedro Lopez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "134 A.D.2d 456"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Kooper, J.), rendered July 6, 1983, convicting him of murder in the second degree (four counts) and criminal possession of a weapon in the second degree (three counts), upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was for the suppression of physical evidence.\nOrdered that the judgment is affirmed.\nThe defendant claims that the trial court erred in refusing to suppress evidence seized from his residence located at 157 17th Street in Brooklyn on the asserted basis that the Judge who issued the search warrant did not record the examination of the police informant as required by CPL 690.40 (1). The record reveals, however, that \"a conscientious effort to comply with constitutional and statutory requirements applicable to search warrants\u201d was made, and therefore the court correctly refused to suppress the evidence seized from that location (see, People v Brown, 40 NY2d 183, 188). The warrant application, which was supported by the sworn affidavit of the investigating officer, provided sufficient facts for the issuance of the search warrant. Moreover, the reliability of the police informant, whose identity was not confidential, was demonstrated by the fact that his knowledge of the underlying facts was based on personal observation. The informant\u2019s credibility was *457further established when he was questioned under oath by the Judge prior to the issuance of the search warrant. Under these circumstances, the failure to record the testimony of the police informant did not render the search warrant invalid.\nWe further reject the defendant\u2019s claim that the court erred in refusing to suppress evidence seized from the apartment located at 188 Richmond Street in Brooklyn. On July 22, 1982, an eyewitness identified the defendant as 1 of the 4 men who killed two security guards during the robbery of a payroll car in Brooklyn earlier that afternoon. On July 29, 1982, a confidential source informed the police that the defendant and a companion were paying two women to hide them in the women\u2019s top-floor apartment at 188 Richmond Street. The informant pointed the apartment out to the police who proceeded to that location to investigate.\nWhen the police arrived at the apartment, they knocked on the door, but heard no answer. A few minutes later the defendant emerged from the apartment and stepped out into the hallway. One of the detectives present recognized the defendant as a result of a prior eyewitness\u2019s photographic identification and shouted \"That\u2019s him\u201d, at which point the defendant turned around and ran back into the apartment. The officers immediately followed the defendant into the apartment and caught him in the bedroom where he was handcuffed. While the defendant was being placed in custody in the bedroom, the officers looked in the direction of an open closet and observed, in plain view, two handguns and stacks of brand new money wrapped in bank wrappers. The officers did not touch the property, but rather, secured the premises and waited until a search warrant was obtained.\nThe police clearly had probable cause to believe that the defendant committed the crime in question, since an eyewitness had identified the defendant as one of the perpetrators, and the police had already seized incriminating evidence from the defendant\u2019s 17th Street residence. Therefore, once the defendant stepped out into the public hallway, the police had the right to make a warrantless arrest (see, United States v Watson, 423 US 411). The defendant may not defeat an arrest which has been set in motion in a public place by the expedient of escaping into a private place, and, therefore, under the exigent circumstances present, the police acted properly in following the defendant into the apartment and arresting him there (see, Payton v United States, 445 US 573; United States v Santana, 427 US 38; People v Green, 103 AD2d 362). In determining whether exigent circumstances exist, a court *458must consider a number of factors, including, inter alia, (1) the gravity or violent nature of the offense, (2) whether the suspect is reasonably believed to be armed, (3) whether there is a reliable basis for believing the person being sought is in the premises in issue, (4) the possibility the suspect will escape, (5) whether there has been a clear demonstration of the existence of probable cause to make an arrest, and (6) the time of day of the entry and whether the entry was peaceful in nature (see, People v Green, supra, at 363-364). Here, the offense was, clearly, of a grave and violent nature. The suspect was reasonably believed to be armed since several guns had been used during the holdup, none of which had been recovered. The officers had a reasonable basis to believe that the defendant was in the apartment, based on the informant\u2019s information and the fact that one of the detectives identified him once he emerged. Moreover, the police obviously had reason to believe that the defendant might attempt to escape when he fled into the apartment, particularly in light of the fact that on a prior occasion when the police visited the defendant\u2019s residence at 17th Street in Brooklyn, the defendant successfully fled from the house and evaded detention. As indicated above, the police had probable cause to believe that the defendant had committed the crime and under the totality of the circumstances, the warrantless entry into the apartment was proper due to exigent circumstances.\nWe have reviewed the defendant\u2019s remaining contentions and find them to be without merit. Mollen, P. J., Mangano, Brown and Lawrence, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5899645
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7768152,
+    "judges": "Fulmer, Northcutt, Parker",
+    "date_filed": 857088000000,
+    "date_filed_is_approximate": false,
+    "slug": "jenkins-v-state",
+    "case_name_short": "Jenkins",
+    "case_name": "Jenkins v. State",
+    "case_name_full": "Bennie JENKINS v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Robert D. Rosen, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Dale E. Tarpley, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied March 26, 1997.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "693 So. 2d 597"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nThe defendant, Bennie Jenkins, appeals his convictions for grand theft of a firearm and obtaining property by worthless check. Because the defendant failed to address his appellate arguments concerning the grand theft of a firearm charge to the trial court in a motion for judgment of acquittal, he did not preserve the issue for appellate review. See Hardman v. State, 584 So.2d 649 (Fla. 1st DCA 1991); Johnson v. State, 478 So.2d 885 (Fla. 3d DCA 1985), appeal dismissed, 488 So.2d 830 (Fla.1986); see generally, Steinhorst v. State, 412 So.2d 332 (Fla.1982) (holding specific legal ground must be asserted as an objection, exception or motion before the trial court to be cognizable on appeal). Accordingly, we affirm the conviction without discussion.\nWith respect to the worthless check conviction, the trial court imposed restitution without stating the amount and the manner in which it was determined and without determining the defendant\u2019s ability to pay. Accordingly, we reverse and remand for the trial court to hold a hearing to determine the amount of the loss and the defendant\u2019s ability to pay. See Williams v. State, 673 So.2d 908 (Fla. 2d DCA 1996).\nAffirmed in part, reversed in part and remanded with instructions.\nPARKER, A.C.J., and FULMER and NORTHCUTT, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7706332
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6080841,
+    "judges": null,
+    "date_filed": 696556800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-murphy",
+    "case_name_short": null,
+    "case_name": "People v. Murphy",
+    "case_name_full": "The People of the State of New York v. Carlos Murphy",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "179 A.D.2d 559"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThis prosecution arises out of the burglary of an apartment by defendant and codefendant in the company of a confidential informant who kept police apprised of the burglary\u2019s progress. As a result, the perpetrators were arrested as they left the apartment. When defendant was arrested, he made an inculpatory statement. There is no merit to defendant\u2019s argument that the prosecutor, eliciting testimony from a police officer that codefendant made no statement, imputed testimony of post-arrest silence to defendant. With respect to codefendant\u2019s failure to object to the court\u2019s curative instruction, any claim is waived (People v Williams, 46 NY2d 1070).\nTo the extent that there was no written agreement between law enforcement authorities and the confidential informant, defendant has no claim under Brady v Maryland (373 US 83). Since defense counsel was advised prior to trial about the existence of the confidential informant, and elicited during trial that there was an oral agreement that any cooperation *560would be brought to the attention of the court in which the informant was being prosecuted, defendant was not unduly prejudiced.\nDefendant\u2019s constitutional claims directed to the prosecutor\u2019s summation comments are unpreserved (People v Iannelli, 69 NY2d 684, cert denied 482 US 914). Defendant\u2019s general motion for a mistrial did not allow the court to correct any improper statements at the time they were made, and thus failed to preserve defendant\u2019s appellate challenge to the prosecutor\u2019s summation (People v Bruen, 136 AD2d 648; People v Soto, 167 AD2d 302, lv denied 77 NY2d 1001). We decline to review in the interest of justice. The challenged summation comments, individually and collectively, did not deprive defendant of a fair trial.\nBy failing to properly object to the court\u2019s charge, defendant has waived any such claim for review (People v Cruz, 172 AD2d 383, lv denied 78 NY2d 964).\nWe have considered defendant\u2019s remaining contentions and find them to be meritless. Concur \u2014 Murphy, P. J., Sullivan, Ellerin, Ross and Kassal, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5944961
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

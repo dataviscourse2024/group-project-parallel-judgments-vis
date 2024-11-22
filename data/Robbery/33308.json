@@ -1,0 +1,46 @@
+{
+    "id": 6008263,
+    "judges": null,
+    "date_filed": 459993600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-fondal",
+    "case_name_short": "Fondal",
+    "case_name": "People v. Fondal",
+    "case_name_full": "The People of the State of New York v. Barry Fondal",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "103 A.D.2d 848"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by defendant from a judgment of the Supreme Court, Queens County (Leahy, J.), rendered October 27, 1982, convicting him of robbery in the first degree, sexual abuse in the first degree, unlawful imprisonment in the first degree, criminal use of a firearm in the first degree and assault in the second degree, upon a jury verdict, and imposing sentence. *84911 Judgment reversed, on the law, and new trial ordered. The facts have been considered and have been determined to be established. 11 On October 10,1981 the victim was robbed, assaulted, and sexually abused at gunpoint. Defendant asserted an alibi defense, and he called his mother and half brother as witnesses to corroborate this defense. On cross-examination, the prosecution was permitted to impeach these witnesses by questioning them about their failure to advise the law enforcement officers of the exculpatory evidence prior to the trial. At the outset of this line of questioning, defense counsel requested a side-bar conference. The request was denied. As a result, during redirect examination, defense counsel was required to elicit from the witnesses that their failure to come forward had been upon the advice of defendant\u2019s attorney. We also note that the person serving as defendant\u2019s attorney at the time this advice was given was not permitted to testify that she had advised the witnesses not to come forward. Finally, during the prosecutor\u2019s summation, he again referred to the failure of the witnesses to come forward with their exculpatory evidence. 11 In People v Dawson (50 NY2d 311, 322) the Court of Appeals noted that \u201csome [alibi witnesses] may remain silent because they were explicitly instructed to do so by the defendant\u2019s attorney\u201d. The court directed that \u201cwhen such questioning begins, the Trial Judge should call a bench conference to ascertain whether the witness refrained from speaking under the advice of defense counsel, for in such a case examination on the issue of the witness\u2019 postconsultation silence would be improper and could well result in a mistrial (cf. People v Conrow, 200 NY 356, 367, supra)\u201d (People v Dawson, supra, p 323). The Trial Judge here failed to obey this directive, resulting in severe prejudice to defendant\u2019s defense. Timely objection was made. Accordingly, a new trial is required. Titone, J. P., Thompson, Bracken and O\u2019Connor, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5870305
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

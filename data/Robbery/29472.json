@@ -1,0 +1,46 @@
+{
+    "id": 5232947,
+    "judges": "Billings, Hogan, Maus",
+    "date_filed": 400896000000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-millican",
+    "case_name_short": "Millican",
+    "case_name": "State v. Millican",
+    "case_name_full": "STATE of Missouri, Plaintiff-Respondent v. Benjamin Clifford MILLICAN",
+    "attorneys": "Loren R. Honecker, Springfield, for defendant-appellant., John Ashcroft, Atty. Gen., Kristie Green, Asst. Atty. Gen., Jefferson City, for plaintiff-respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing Overruled and to Transfer to Supreme Court Denied Oct. 7, 1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "641 S.W.2d 144"
+    ],
+    "opinions": [
+        {
+            "author_str": "Billings",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBILLINGS, Judge.\nDefendant Benjamin Clifford Millican was jury-tried and convicted for stealing [\u00a7 570.030, RSMo 1978]. He was found to be a persistent offender [\u00a7 558.021, RSMo 1978] and sentenced to 12 years imprisonment. He contends the evidence was not sufficient to support the verdict and instructional error was committed by the court. We affirm.\nDefendant was initially charged with Shirley D. James and Donald Ray James with stealing a valuable diamond from the Diamond Shoppe in Springfield, and in a second count defendant was also charged with first degree assault [\u00a7 565.050, RSMo 1978] for driving an automobile and striking an employee of the jewelry store.1 The cases against the three defendants were severed and separate trials conducted.2 An amended information further charged defendant with being a persistent offender by reason of four prior felony convictions.\nThe basic facts are not in dispute and are more fully set out in State v. Shirley D. James, 641 S.W.2d 146 (Mo.App.1982), decided this date, and need not be repeated here. In addition to defendant\u2019s identification by witnesses as the driver of the getaway car at the scene, at the convenience store, and at the Springfield dwelling where the trio were attempting to obtain further transportation, there was further evidence linking defendant to the Jameses and the diamond switch. The Texas Cadillac was owned and licensed to defendant\u2019s mother and defendant was a known associate of Donald Ray James and they had been seen together in Texas after the Springfield theft.\nThe presence of one at the commission of a felony by another is evidence to be considered in determining whether or not he was guilty of aiding and abetting and it has also been held that presence, companionship and conduct before and after the offense are circumstances from which one\u2019s participation in the criminal intent may be inferred. State v. Reed, 453 S.W.2d 946 (Mo.1970). \u201cEvidence fairly showing any form of affirmative participation in a crime is sufficient to support a conviction.\u201d State v. Ramsey, 368 S.W.2d 413 at 417 (Mo.1963). One\u2019s affirmative participation in the commission of a felony may be satisfied by inference and the evidence need not directly place the defendant in the act of committing the crime for which he is charged. State v. Arnold, 566 S.W.2d 185 (Mo. banc 1978).\nWe are of the opinion that from the facts and reasonable inferences to be drawn therefrom the jury could reasonably find that defendant was an active and affirmative participant in the diamond switch. He was the driver of the getaway car, his mother\u2019s vehicle, and was parked a short distance from the entrance to the jewelry store. The motor of the car was running when his confederates beat a hasty retreat to the vehicle after purloining the diamond. Defendant\u2019s flight from the scene of the theft, with his companions in the rear seat of the automobile, resulted in the vehicle striking one of the store\u2019s employees. The trio were observed as being those persons occupying the vehicle shortly before it was abandoned and, again, defendant identified as its driver. Although there was a telephone at the convenience store where the car was abandoned, the threesome went to a residence several blocks away for one of their number to call for further transportation. Defendant and the Jameses were known to have associated together in Texas and after the theft were seen together in Texas. The foregoing facts and circumstances support the jury\u2019s determination that defendant was the driver of the getaway car and thereby knowingly partici*146pated in the stealing crime. State v. Cleveland, 627 S.W.2d 600 (Mo.1982); State v. Fowler, 558 S.W.2d 366 (Mo.App.1977). Also see: State v. Chernick, 278 S.W.2d 741 (Mo.1955).\nDefendant\u2019s remaining point is not preserved for our review. At trial defendant\u2019s trial attorney made a general objection to the court\u2019s instructions. The motion for new trial did not comply with Rule 28.03, V.A.M.R., in that it did not contain specific objections to the instructions. Consequently, his present claim of error in the verdict directing instruction is not for appellate review. State v. James, 641 S.W.2d 146, (Mo.App.1982); State v. Martin, 620 S.W.2d 54 (Mo.App.1981). As we said in State v. James, supra, \u201c[W]e do not find the instruction misdirected or failed to instruct the jury upon the law so as to cause manifest injustice or miscarriage of justice. State v. Ealey, 624 S.W.2d 465 (Mo.App.1981).\u201d Plain error review is denied.\nThe judgment is affirmed.\nMAUS, P.J., and HOGAN, J., concur.\n\n. The jury found the defendant not guilty of first degree assault and were unable to arrive at a verdict on lesser degrees of assault.\n\n\n. Donald Ray James was convicted of stealing and third degree assault and sentenced as a persistent offender to consecutive terms of 15 years and 1 year. We affirmed his conviction in No. 12353 by order June 24, 1982. Shirley D. James\u2019 2 year sentence was affirmed in State v. James, 641 S.W.2d 146 (Mo.App.1982), filed this date.\n\n",
+            "ocr": true,
+            "opinion_id": 5057934
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

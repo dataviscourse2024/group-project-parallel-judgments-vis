@@ -1,0 +1,46 @@
+{
+    "id": 6640550,
+    "judges": "Head",
+    "date_filed": -2307657600000,
+    "date_filed_is_approximate": true,
+    "slug": "richardson-v-state",
+    "case_name_short": null,
+    "case_name": "Richardson v. State",
+    "case_name_full": "Richardson v. State",
+    "attorneys": "G. L. Comer, for appellant,, William C. Fitts, Attorney-General, for the State,",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>\nIndictment for Burglary.\n</p> <p>1. Burglary; allegations of ownership in indictment; evidence sufficient to warrant conviction. \u2014 Where, in an indictment for burglary, the house burglarized is described as a smoke-house, and the ownership is laid in a certain named man, and the evidence shows that the smoke-house burglarized was on the same lot and premises with the dwelling, and was used in connection with the dwelling house occupied by said named man and his wife as their home, and that both of said houses were the property of the wife, but were subject to the control of the husband, who kept meat belonging to him therein, he carrying the key to the smoke-house, and his wife exercising over it the usual control incident to her household duties, such evidence is sufficient to sustain a conviction under the said indictment; it being competent in such case to lay the ownership of the house in either the husband or the wife.</p>",
+    "summary": "Appeal from the Circuit Court of Barbour. Tried before tlie Hon. J. M. Carmichael. \u2022 The appellant, John Richardson, was indicted, tried and convicted for the burglary of a smoke-house ; and was sentenced to the penitentiary for four years. The facts of the case are sufficiently stated in the opinion. The defendant requested the court to give the following written charges tp the jury, and separately excepted to the court\u2019s refusal to give each of them as asked: (1.) \u201cIf the jury believe the evidence, they must find the defendant not guilty.\u201d (2.) \u201cIf the jury believe from the evidence that the smoke-house alleged to have been broken into was at the time of said breaking the property of Mary A. Price, the wife of said Henry Wilson Price, they must find the defendant not guilty.\u201d cited Rollins'v. State, 98 Al\u00e1. 79 ; Johnson v. State, 100 Ala. 55 ; Young v. State, 100 Ala. 126. cited State v. Trapp, 43 Amer. Rep. 614; Young v. State, 100 Ala. 127.'",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "115 Ala. 113"
+    ],
+    "opinions": [
+        {
+            "author_str": "Head",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHEAD, J.\nIn Young v. The State, 100 Ala. 126, the defendant was indicted and tried for burglary of a dwelling house alleged to be the property of Lucius Starr. The testimony showed that the legal title to the house was in the wife of the said Starr at the time of the burglary, and that the house was then actually occupied by the husband and wife as their home. We said, upon this state of evidence, that actual occupancy of the dwelling by the husband with -the wife and the right to such use and occupancy, was sufficient to justify the laying of the ownership in the husband. Though the legal title was in the wife, it was also his dwelling-house. We distinguished the case from that of larceny of \u25a0 personal property belonging to the wife, as was the case in Johnson v. The State, 100 Ala. 55.\nIn the present case, the house broken and entered was* a smoke-house used in connection with the dwelling-house occupied by a husband and wife as their home, both being the property of the wife. The ownership was laid in the indictment in the husband. The proof showed that the smoke-house, being on the same lot and premises with the dwelling, was subjected to the ordinary family uses of a smoke-house. Meat belonging to the husband was kept therein and was subject to his control. He carried the key to the house. His wife exercised over the smoke-house the usual control incident to her household duties. We think the case is the same in principle as Young\u2019s Case, 100 Ala. 126, supra. Under the circumstances, the smoke-house was ,a part of the domestic establishment; it was an appurtenance of the dwelling, and was in the same occupancy and control of the hus\u25a0band as the dwelling. \u2014 2 Bish. New Or. Proc.,' \u00a7\u00a7 137, 138; State v. Trapp, 43 Am. Rep. 614.\nThere was no error in the rulings of the court, and the judgment isaffirmed.\n",
+            "ocr": true,
+            "opinion_id": 6517176
+        }
+    ],
+    "court_short_name": "Supreme Court of Alabama",
+    "court_full_name": "Supreme Court of Alabama",
+    "court_type": "S",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

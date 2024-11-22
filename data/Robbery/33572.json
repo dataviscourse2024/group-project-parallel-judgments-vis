@@ -1,0 +1,46 @@
+{
+    "id": 6061667,
+    "judges": null,
+    "date_filed": 642643200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-lopez",
+    "case_name_short": "Lopez",
+    "case_name": "People v. Lopez",
+    "case_name_full": "The People of the State of New York v. George Lopez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "161 A.D.2d 670"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Garry, J.), rendered December 10, 1986, convicting him of robbery in the first degree and grand larceny in the third degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nThe record amply supports the hearing court\u2019s determination that the pretrial photographic and lineup identification procedures were not unduly suggestive (People v Harmon, 51 NY2d 863; People v Galarza, 126 AD2d 666). Accordingly, suppression was properly denied.\nWith regard to the trial court\u2019s Sandoval ruling, the defendant argues that the court erred in allowing him to be cross-examined with respect to prior convictions which were similar to those charged in the instant case. We disagree. It is well settled that \"the mere fact that the acts used as cross-examination material are similar in nature to the conduct alleged at trial does not, in and of itself, mandate preclusion (see, People v Pavao, 59 NY2d 282)\u201d (People v Hall, 99 AD2d 843).\nFurthermore, viewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt (see also, People v Bleakley, 69 NY2d 490). Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]; see also, People v Bleakley, supra).\nFinally, we have reviewed the defendant\u2019s remaining arguments and find them to be without merit (People v Farrar, 52 NY2d 302; People v Malinsky, 15 NY2d 86; CPL 240.44). Mangano, P. J., Kunzeman, Rubin and Balletta, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5925304
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

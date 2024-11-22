@@ -1,0 +1,46 @@
+{
+    "id": 5750338,
+    "judges": "Russell",
+    "date_filed": -1970438400000,
+    "date_filed_is_approximate": false,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "Johnson v. State",
+    "attorneys": "J. J. Forehand, T. R. Perry, for plaintiff in error., J. H. Tipton, solicitor, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Accusation of larceny from house, from city court of Sylvester\u2014 Judge Park. May 28, 1907.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted July 18,",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 Ga. App. 405"
+    ],
+    "opinions": [
+        {
+            "author_str": "Russell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRussell, J.\n1. To steal articles of value from the porch of a building used as a restaurant, it being shown by the evidence that said porch was also used as a part of the restaurant, is larceny from the house, and it is not error to instruct the jury that if they \u201cfind from the evidence that the basket containing these articles was taken from an ice-box which-was jammed up between the front steps and the front part of the restaurant, and if you further find that the ice-box was part of the appurtenances belonging to that restaurant, and that, besides this, the offense is proven to you beyond a reasonable doubt, it would be larceny from the house.\u201d\n2. To charge the jury that \u201cthe State contends before you, gentlemen, that this defendant was seen by a certain witness to take and start away and carry away this basket containing the article testified to you about; that it was afterwards found in a wagon he was'in charge *406of and driving, and that this is the only way possible to account for the theft,\u201d so particularizes and argumentatively enforces upon the jury the inference of guilt as to amount to an intimation of opinion, within the terms of \u00a74334 of the Civil Code, and is reversible error.\nAccusation of larceny from house, from city court of Sylvester\u2014 Judge Park. May 28, 1907.\nSubmitted July 18,\nDecided July 25, 1907.\nJ. J. Forehand, T. R. Perry, for plaintiff in error.\nJ. H. Tipton, solicitor, contra.\n3. To charge the jury that \u201cgood character proven by a reliable witness goes to the credit of a witness; but I charge you further to take all the surrounding circumstances of this case together and see if you can learn the facts and arrive at a truthful verdict,\u201d is not a correct charge where the defendant has put his character in issue. It does not. give the jury the proper rule applicable to proof of good character \\&gt;i the defendant.\u2019 It was unauthorized by the evidence in the case, for the reason that no evidence was adduced as to the good character of any of the witnesses; and in the absence of instructions as to the effect of evidence of good character, the latter portion of the charge was . calculated to diminish the force of the evidence of good character in behalf of the defendant, if it did not indeed entirely withdraw it from, the consideration of the jury. Judgment reversed.\n",
+            "ocr": true,
+            "opinion_id": 5602552
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

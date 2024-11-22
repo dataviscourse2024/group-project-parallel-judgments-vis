@@ -1,0 +1,46 @@
+{
+    "id": 1655594,
+    "judges": "Altenbernd",
+    "date_filed": 998438400000,
+    "date_filed_is_approximate": false,
+    "slug": "brown-v-state",
+    "case_name_short": "Brown",
+    "case_name": "Brown v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "798 So. 2d 773"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6817.0,
+            "opinion_text": "\n798 So.2d 773 (2001)\nTerry F. BROWN, Petitioner,\nv.\nSTATE of Florida, Respondent.\nNo. 2D01-2452.\nDistrict Court of Appeal of Florida, Second District.\nAugust 22, 2001.\nRehearing Denied September 11, 2001.\n*774 Terry F. Brown, pro se.\nRobert A. Butterworth, Attorney General, Tallahassee, and Cerese C. Taylor, Assistant Attorney General, Tampa, for Respondent.\nALTENBERND, Judge.\nTerry F. Brown petitions this court for a writ of prohibition alleging a violation of his right to a speedy trial under Florida Rule of Criminal Procedure 3.191. Mr. Brown properly filed a motion for discharge in the trial court which that court denied. He then sought review here. We deny the petition, but write to explain our reasoning because the trial court's order, although reaching the correct result, did so for the wrong reason.\nMr. Brown has been charged by information with grand theft. He is currently incarcerated in state prison in Florida for unrelated convictions. On November 27, 2000, Mr. Brown filed a demand for speedy trial under rule 3.191(b).[1] That rule provides in pertinent part that \"every person charged with a crime by indictment or information shall have the right to demand a trial within 60 days, by filing with the court a separate pleading and serving a copy on the prosecuting authority.\" Fla. R.Crim. P. 3.191(b).\nThe rule goes on to state that if the defendant is not brought to trial within fifty days of the filing of the demand, the defendant shall have the right to the appropriate remedy provided for in rule 3.191(p). Fla. R.Crim. P. 3.191(b)(4). Rule 3.191(p) provides that at any time after the expiration of the prescribed period the defendant may file a notice of expiration of speedy trial, and if the defendant is not brought to trial within a certain time after the filing of the notice, the defendant shall be entitled to discharge.[2]\nMr. Brown filed his notice of expiration on January 10, 2001. The trial court struck the notice of expiration because Mr. Brown had never \"been taken into custody under rule 3.191(d) ... by either arrest or being served with a notice to appear.\" Although not expressly stated in its order, the trial court appears to be proceeding as though Mr. Brown had asserted his right to a speedy trial under rule 3.191(a) rather than rule 3.191(b).\nRule 3.191(a) specifically provides that the time periods established in that subsection do not begin to run until the defendant is taken into custody as defined in rule 3.191(d). That portion of the rule also explicitly states that it ceases to apply whenever a person files a valid demand for speedy trial under rule 3.191(b). Fla. R.Crim. P. 3.191(a).\nRule 3.191(b) does not require that a defendant be taken into custody before the time provided for in that subsection begins to run. See Carter v. State, 509 So.2d 1126 (Fla. 5th DCA 1987); Fla. R.Crim. P. 3.191(b). Rather, the time begins to run upon the filing of the demand. Id. Therefore, whether Mr. Brown had been taken into custody on the grand theft charge was irrelevant, and the reasoning of the trial court's order is erroneous.\nWe conclude, nonetheless, that the trial court correctly struck Mr. Brown's notice of expiration because it was premature. Mr. Brown's demand was filed November *775 27, 2000. He was entitled to file his notice of expiration any time after the fifty-day period expired. See Fla. R. Crim P. 3.191(b)(4), (p)(2). Instead of waiting, however, Mr. Brown filed his notice of expiration on January 10, 2001, forty-four days after he filed his demand. As such, the notice was premature and properly stricken. See Sarrain v. State, 632 So.2d 1063 (Fla. 3d DCA 1994). Because the notice was properly stricken, Mr. Brown was not entitled to discharge.[3]\nPetition for writ of prohibition denied.\nPARKER, A.C.J., and NORTHCUTT, J., Concur.\nNOTES\n[1]  A prisoner in Florida in state custody may demand speedy trial, even though he or she is not in the jurisdiction of the court where the charge is pending. Cheeks v. Swanson, 541 So.2d 1346 (Fla. 2d DCA 1989).\n[2]  The rule provides for certain exceptions not relevant to our inquiry. See Fla. R.Crim. P. 3.191(j).\n[3]  We reject without discussion the State's argument that this court should find Mr. Brown's demand invalid simply because Mr. Brown has not obtained counsel or engaged in discovery. See Landry v. State, 666 So.2d 121 (Fla.1995).\n\n",
+            "ocr": false,
+            "opinion_id": 1655594
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

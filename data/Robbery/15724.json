@@ -1,0 +1,46 @@
+{
+    "id": 600590,
+    "judges": null,
+    "date_filed": 728611200000,
+    "date_filed_is_approximate": false,
+    "slug": "earl-glenn-fingers-v-united-states",
+    "case_name_short": null,
+    "case_name": "Earl Glenn Fingers v. United States",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "986 F.2d 502"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/986/986.F2d.502.92-3471.html",
+            "author_id": null,
+            "opinion_text": "986 F.2d 502\n    NOTICE:  Eighth Circuit Rule 28A(k) governs citation of unpublished opinions and provides that they are not precedent and generally should not be cited unless relevant to establishing the doctrines of res judicata, collateral estoppel, the law of the case, or if the opinion has persuasive value on a material issue and no published opinion would serve as well.Earl Glenn FINGERS, Appellant,v.UNITED STATES of AMERICA, Appellee.\n    No. 92-3471.\n    United States Court of Appeals,Eighth Circuit.\n    Submitted:  January 27, 1993.Filed:  February 2, 1993.\n    \n      Before FAGG, BEAM, and HANSEN, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      A jury convicted Earl Glenn Fingers for possession of a firearm by a felon.  See 18 U.S.C. &#167; 922(g)(1) (1988).  The district court imposed the minimum fifteen-year sentence under 18 U.S.C. &#167; 924(e)(1) because Fingers had three earlier state robbery convictions.  Fingers appeals the district court's order denying his 28 U.S.C. &#167; 2255 motion to vacate his sentence.  We affirm.\n    \n    \n      2\n      Fingers contends his state convictions arose from a \"single spasm of criminal activity,\" and thus, are not separate convictions for purposes of &#167; 924(e)(1).  We disagree.  Convictions are considered separate for purposes of &#167; 924(e)(1) if the offenses occurred at different times.   United States v. Gibson, 928 F.2d 250, 254 (8th Cir. 1991);   see United States v. McDile, 914 F.2d 1059, 1061 (8th Cir. 1990) (per curiam), cert. denied, 111 S. Ct. 997 (1991).  Although the state court imposed sentences for the robbery convictions at the same time, the robberies occurred on different days.  Thus, the district court properly considered the robbery convictions as separate convictions under &#167; 924(e)(1).\n    \n    \n      3\n      Accordingly, we affirm the district court's denial of Finger's &#167; 2255 motion.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 600590
+        }
+    ],
+    "court_short_name": "Eighth Circuit",
+    "court_full_name": "Court of Appeals for the Eighth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

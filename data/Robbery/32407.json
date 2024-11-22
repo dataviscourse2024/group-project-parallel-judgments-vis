@@ -1,0 +1,47 @@
+{
+    "id": 5825132,
+    "judges": "Carpinello",
+    "date_filed": 1102550400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-schiffer",
+    "case_name_short": "Schiffer",
+    "case_name": "People v. Schiffer",
+    "case_name_full": "The People of the State of New York v. Gary Schiffer",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "13 A.D.3d 719",
+        "785 N.Y.S.2d 789"
+    ],
+    "opinions": [
+        {
+            "author_str": "Carpinello",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCarpinello, J.\nAppeal from a judgment of the Supreme Court (Lamont, J.), rendered May 7, 1999 in Albany County, convicting defendant upon his plea of guilty of the crimes of burglary in the first degree (four counts) and attempted robbery in the first degree.\nDefendant pleaded guilty to four counts of burglary in the first degree and one count of attempted robbery in the first degree and was sentenced to concurrent prison terms of 6 to 12 years. The charges stem from his role with two others in the entering of a City of Albany residence at around 10:00 p.m. on October 30, 1997, the display of a knife and handgun and the attack of its occupants with a baseball bat in an attempt to steal their property. While defendant claims that this plea was neither voluntarily, knowingly, nor intelligently obtained, he has not preserved this issue for our review as he did not move to withdraw it or vacate the judgment of conviction (see e.g. People v Pierre, 8 AD3d 904 [2004], lv denied 3 NY3d 710 [2004]). Were we to address the issue, we would nevertheless find it meritless as the record reveals that defendant\u2019s plea was indeed knowingly, intelligently and voluntarily entered after a sufficient and detailed inquiry by Supreme Court (see e.g. People v Russo, 8 AD3d 903 [2004], lv denied 3 NY3d 681 [2004]).\nNext, contrary to defendant\u2019s contention, the record of the Wade hearing supports Supreme Court\u2019s determination that, even if the photo array presented to Albany Police Sergeant Christopher Boardman may have been impermissibly suggestive, Boardman had an independent basis for an in-court identification of defendant. At that hearing, Boardman testified that on the evening in question, he was dispatched to a \u201cburglary in progress\u201d at a particular residence. As he approached the residence, he saw a white male with light-colored hair running off the front porch carrying a gun. Boardman testified that this individual looked directly toward him and that he was thus able to observe his face. Boardman further established that, although it was dark outside, a porch light illuminated the area. Given Boardman\u2019s status as a trained law enforcement officer whose presence at the scene that night was to investigate criminal activity in progress (see generally People v Morales, 37 NY2d 262, 271 [1975]; People v Parker, 257 AD2d 693 [1999], lvs denied 93 NY2d 1015, 1024 [1999]; People v Hill, 147 AD2d 500, 501 [1989]; People v Snow, 128 AD2d 564 [1987]) and his unequivocal testimony that he had a full facial view of defendant on a lit porch, we are unable to conclude that Supreme Court erred in finding that an in-court identification was permissible (see People v McMillian, 120 AD2d 967, 967-968 [1986], lv denied 68 NY2d 758 [1986]).\n*721Finally, we reject defendant\u2019s claim that his sentence was unduly harsh and excessive.\nCardona, P.J., Crew III, Peters and Spain, JJ., concur. Ordered that the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5680780
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 591631,
+    "judges": null,
+    "date_filed": 717033600000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-brian-k-johnson",
+    "case_name_short": null,
+    "case_name": "United States v. Brian K. Johnson",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "976 F.2d 728"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/976/976.F2d.728.91-5885.html",
+            "author_id": null,
+            "opinion_text": "976 F.2d 728\n    NOTICE: Fourth Circuit I.O.P. 36.6 states that citation of unpublished dispositions is disfavored except for establishing res judicata, estoppel, or the law of the case and requires service of copies of cited unpublished dispositions of the Fourth Circuit.UNITED STATES of AMERICA, Plaintiff-Appellee,v.Brian K. JOHNSON, Defendant-Appellant.\n    No. 91-5885.\n    United States Court of Appeals,Fourth Circuit.\n    Submitted:  June 25, 1992Decided:  September 21, 1992\n    \n      Appeal from the United States District Court for the Eastern District of North Carolina, at New Bern.  Malcolm J. Howard, District Judge.  (CR-91-26)\n      Samuel S. Popkin, Jacksonville, North Carolina, for Appellant.\n      Margaret Person Currin, United States Attorney, R. E. Breckenridge, Special Assistant United States Attorney, Camp Lejeune, North Carolina, for Appellee.\n      E.D.N.C.\n      Affirmed.\n      Before WIDENER, WILKINSON, and WILLIAMS, Circuit Judges.\n      PER CURIAM:\n    \n    OPINION\n    \n      1\n      Brian K. Johnson pled guilty to conspiracy to steal and sell government property, 18 U.S.C. &#167; 371 (1988), and to five substantive counts of stealing and selling government property, 18 U.S.C. &#167; 641 (1988).  The district court departed upward from the guideline range of ten to sixteen months and imposed a sentence of twenty-one months.  Johnson contests the departure on appeal.  However, despite being expressly given an opportunity to object, Johnson offered no objection to the departure in the district court, and thus has waived the issue for appellate review.   United States v. Davis, 954 F.2d 182 (4th Cir. 1992).  We therefore affirm the sentence imposed by the district court.\n    \n    \n      2\n      Even if we were to review the issue raised by Johnson on the merits, the departure meets the test set out in  United States v. Summers, 893 F.2d 63 (4th Cir. 1990).  The district court identified a factor not adequately considered by the Sentencing Commission, the theft and sale during a war of equipment which may soon be needed to supply units engaged in combat, the factor was clearly present in the case, and the district court did not abuse its discretion in deciding to depart or in the extent of the departure.\n    \n    \n      3\n      The judgment of the district court is accordingly affirmed.  We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the Court and argument would not aid the decisional process.\n    \n    AFFIRMED\n    ",
+            "ocr": false,
+            "opinion_id": 591631
+        }
+    ],
+    "court_short_name": "Fourth Circuit",
+    "court_full_name": "Court of Appeals for the Fourth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

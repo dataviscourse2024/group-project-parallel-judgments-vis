@@ -1,0 +1,48 @@
+{
+    "id": 3333386,
+    "judges": "Palmer",
+    "date_filed": -160272000000,
+    "date_filed_is_approximate": false,
+    "slug": "wilson-v-warden-of-connecticut-state-prison",
+    "case_name_short": "Wilson",
+    "case_name": "Wilson v. Warden of Connecticut State Prison",
+    "case_name_full": "Alton Wilson v. Warden of Connecticut State Prison",
+    "attorneys": "Alton Wilson,  the plaintiff, pro se.\n\n John D. LaBelle,  state's attorney, and  Harry W.  Hultgren, Jr.,  assistant state's attorney, for the defendant.",
+    "nature_of_suit": null,
+    "posture": "Memorandum of decision on petition for habeas corpus.  Petition denied.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b8-6\">\n    Alton Wilson\n    <em>\n     v.\n    </em>\n    Warden of Connecticut State Prison\n   </parties><br><court id=\"b8-7\">\n    Superior Court Hartford County\n   </court><docketnumber id=\"Af\">\n    File No. 139936\n   </docketnumber><br><decisiondate id=\"b8-11\">\n    Memorandum filed December 3, 1964\n   </decisiondate><br><attorneys id=\"b8-13\">\n<em>\n     Alton Wilson,\n    </em>\n    the plaintiff, pro se.\n   </attorneys><br><attorneys id=\"b8-14\">\n<em>\n     John D. LaBelle,\n    </em>\n    state\u2019s attorney, and\n    <em>\n     Harry W. Hultgren, Jr.,\n    </em>\n    assistant state\u2019s attorney, for the defendant.\n   </attorneys>",
+    "citations": [
+        "209 A.2d 688",
+        "26 Conn. Super. Ct. 4",
+        "26 Conn. Supp. 4"
+    ],
+    "opinions": [
+        {
+            "author_str": "Palmer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "This is a petition for a writ of habeas corpus alleging unlawful imprisonment. On March 12, 1963, the petitioner pleaded guilty as follows: to two informations charging the two crimes of robbery with violence (General Statutes &#167; 53-14); one information charging breaking and entering a dwelling in the daytime (&#167; 53-73); and one information charging two counts of failure to appear according *Page 5 \nto bail bond (&#167; 53-154). He received an effective sentence of not less than one and one-half years nor more than nine years in the state prison, where he is now confined. Said effective sentence was ordered to commence on the petitioner's release from confinement in the federal penitentiary at Lewisburg, Pennsylvania, and did commence upon such release on or about July 4, 1964.\nThe petitioner was arrested in this state on or about March 3, 1961, and charged with robbery with violence. He was released on bond and left the state. He was next heard from when he was arrested in Maryland on federal offenses of forgery and altering checks. On or about December 5, 1961, he was returned to this state by the federal authorities. He was convicted upon federal charges in the United States District Court at New Haven and there received an effective prison sentence of six years. He was sent to the Lewisburg penitentiary to serve the sentence imposed by the federal court.\nWhile confined at Lewisburg, he made application dated January 22, 1963, for a speedy trial of the charges pending in this state, in accordance with his constitutional right to such a trial. On February 5, 1963, the bureau of prisons of the United States department of justice authorized the petitioner's production in the Superior Court in Hartford County, subject to the conditions and statutes under which federal prisoners are produced in state courts. On February 13, 1963, the Superior Court in Hartford County issued a writ of habeas corpus ad prosequendum, pursuant to which the petitioner appeared in that court. On March 12, 1963, he was sentenced as above set forth. On July 3, 1964, he was released from Lewisburg to Connecticut authorities, who delivered him to the respondent herein on a mittimus issued by the Superior Court in Hartford *Page 6 \nCounty pursuant to the sentences imposed on March 12, 1963.\nOn this state of facts, the petitioner claims that the due process clause of the fourteenth amendment was violated when he was taken out of the federal prison and prosecuted and sentenced in Hartford County. The fact is that he himself requested and initiated the procedure whereby he was brought to this state for trial of the state charges against him here. He asked for his constitutional right to a speedy trial, and it was granted to him. He is in no position to complain that a procedure he desired and asked for, and in no way objected to, violated any of his constitutional rights.\nThe petition herein also alleges that the state of Connecticut \"lost jurisdiction to try petitioner\" when it permitted him to stand \"Federal trial and to commence service of the Federal sentence.\" After his arrest in this state in March, 1961, and his release on bond, the petitioner became a fugitive from justice. In December, 1961, he was arrested by federal authorities on federal charges. He voluntarily returned here from Maryland in federal custody for trial in a federal court, where he was convicted and sent to a federal prison. The state of Connecticut did not have him in custody, and during these events did not have any \"jurisdiction\" over him which it could \"lose.\" The simple facts demonstrate that no other conclusion is possible.\nThe petitioner has called to the court's attentionIn re Carey, 372 Mich. 378. In that case, the Supreme Court of Michigan held in a four-to-three decision that where a person is serving a federal sentence he may not receive a sentence in a state court to commence at the completion or expiration of the federal sentence, in the absence of statutory authority. This rule appears to be confined to *Page 7 \nMichigan. It is contrary to the long-established practice in this state, and also contrary to the general rule which sanctions the imposition of a sentence in one jurisdiction to commence upon release from service of a sentence in another jurisdiction. 24B C.J.S., Criminal Law, &#167; 1996(6). The Michigan case does not rest upon any constitutional ground and is in conflict with the law of this state, which is binding on the court.\nAny possible question as to the propriety of the procedure followed in respect to this petitioner is obviated by the decision of Chief Justice Taft of the United States Supreme Court in the case of Ponzi\nv. Fessenden, 258 U.S. 254, where the prisoner was serving a sentence imposed by the United States District Court. He was taken into a state court in Massachusetts, where he stood mute and a plea of not guilty was entered for him by the court. The United States Supreme Court held that he may be lawfully tried in the state court and that the sentence imposed by the state court can be made to commence when the prior sentence imposed by the federal court terminates, which was the exact procedure followed when this petitioner was sentenced to the term he is now serving. Moreover, in the Ponzi case the prisoner was taken into the state court against his will, whereas this petitioner requested trial in the state court and voluntarily submitted himself to its jurisdiction.\n   The questions raised by the petition are not such as to warrant the appointment of counsel, and the petitioner's motion for counsel is denied.\nThe petition for a writ of habeas corpus is denied.",
+            "ocr": false,
+            "opinion_id": 3328889
+        }
+    ],
+    "court_short_name": "Connecticut Superior Court",
+    "court_full_name": "Connecticut Superior Court",
+    "court_type": "SA",
+    "court_jurisdiction": "Connecticut, CT",
+    "crime_category": "Robbery"
+}

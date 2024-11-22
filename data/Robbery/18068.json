@@ -1,0 +1,47 @@
+{
+    "id": 2393533,
+    "judges": "Alan, Barnes, Blackburn, Pope",
+    "date_filed": 1282694400000,
+    "date_filed_is_approximate": false,
+    "slug": "coleman-v-state",
+    "case_name_short": "Coleman",
+    "case_name": "Coleman v. State",
+    "case_name_full": "Coleman v. the State",
+    "attorneys": "Brandon Coleman, pro se., Gwendolyn Keyes Fleming, District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b706-6\">\n    A10A1558.\n   </docketnumber><parties id=\"ARcq\">\n    COLEMAN v. THE STATE.\n   </parties><br><citation id=\"b706-7\">\n    (700 SE2d 668)\n   </citation>",
+    "citations": [
+        "700 S.E.2d 668",
+        "305 Ga. App. 680"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pope",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7175.0,
+            "opinion_text": "\n700 S.E.2d 668 (2010)\nCOLEMAN\nv.\nThe STATE.\nNo. A10A1558.\nCourt of Appeals of Georgia.\nAugust 25, 2010.\nBrandon Coleman, pro se.\nGwendolyn Keyes Fleming, Dist. Atty., for appellee.\nPOPE, Senior Appellate Judge.\nOn November 8, 2007, Brandon Coleman pled guilty to four counts of armed robbery and hijacking a motor vehicle. He was sentenced to serve a total of ten years of incarceration.[1] Almost two years later, Coleman filed a pro se \"Motion to Correct Illegal Sentence.\" The trial court denied the motion, from which Coleman appeals. Coleman contends that his plea was not intelligently and voluntarily entered; that his trial counsel rendered ineffective assistance; and that the trial court was not impartial and failed to order that witnesses be present for examination at the plea hearing. Because Coleman's claims of error challenge only the procedures employed in imposing the sentence, and do not raise a valid allegation that the sentence was void, this appeal must be dismissed for lack of jurisdiction.\nThis Court has a duty to inquire into its jurisdiction to review the errors alleged on appeal. See Miller v. State, 264 Ga.App. 801, 802, 592 S.E.2d 450 (2003).\n[A] sentence that is void for any reason is a mere nullity and may be vacated at any time in any court where it becomes material to the interest of the parties to consider it. Accordingly, the denial of a motion to correct or vacate a void sentence is directly appealable. However, in determining whether a purported motion to correct or vacate a void sentence is in fact such a motion, we look to the substance of the motion rather than its nomenclature. A sentence is only void when the trial court imposes a punishment that the law does not allow. When the sentence imposed falls within the statutory range of punishment, the sentence is not void and is not subject to post-appeal modification beyond that provided in OCGA \u00a7 17-10-1(f).... [A]ssertions taking issue with the procedure employed in imposing a valid sentence or questioning the fairness of an imposed sentence do not allege a sentence is void and therefore are not a means for post-appeal, post-OCGA \u00a7 17-10-1(f) sentence modification. Rather, a petition for writ of habeas corpus is the means for seeking sentence review for such allegations.\n(Punctuation and footnotes omitted.) Mosley v. State, 301 Ga.App. 47, 48-49, 686 S.E.2d *669 833 (2009). See also Jones v. State, 278 Ga. 669, 670-671, 604 S.E.2d 483 (2004); Green v. State, 273 Ga.App. 654, 655, 615 S.E.2d 818 (2005).\nColeman's ten-year sentence was within the statutory ranges of punishment. See OCGA \u00a7\u00a7 16-5-44.1(c); 16-8-41(b). Although Coleman has characterized the sentence as \"void,\" his claims of error do not present a colorable claim of voidness. Coleman therefore is not entitled to a direct appeal from the trial court's denial of his motion, and we must dismiss. See id. See also Burg v. State, 297 Ga.App. 118, 120, 676 S.E.2d 465 (2009).\nAppeal dismissed.\nBARNES, P.J., and Senior Appellate Judge G. ALAN BLACKBURN concur.\nNOTES\n[1]  Coleman was sentenced to ten years on each count, with all counts to run concurrently.\n\n",
+            "ocr": false,
+            "opinion_id": 2393533
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

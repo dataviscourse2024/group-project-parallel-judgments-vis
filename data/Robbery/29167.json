@@ -1,0 +1,46 @@
+{
+    "id": 5175831,
+    "judges": null,
+    "date_filed": 1632787200000,
+    "date_filed_is_approximate": false,
+    "slug": "matter-of-paul-p",
+    "case_name_short": null,
+    "case_name": "Matter of Paul P.",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2021 NY Slip Op 05088"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2021/2021_05088.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nMatter of Paul P. (2021 NY Slip Op 05088)\r\n\r\n\r\n\r\n\r\n\r\nMatter of Paul P.\r\n\r\n\r\n2021 NY Slip Op 05088\r\n\r\n\r\nDecided on September 28, 2021\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided and Entered: September 28, 2021\r\n\r\nBefore: Acosta, P.J., Singh, Kennedy, Mendez, Higgitt, JJ. \r\n\r\n\r\nDocket No. D3816/18 Appeal No. 14214 Case No. 2019-03540 \r\n\r\n[*1]In the Matter of Paul P., a Person Alleged to be a Juvenile Delinquent, Appellant. Presentment Agency\r\n\r\n\r\nJanet E. Sabel, The Legal Aid Society, New York (John A. Newbery of counsel), for appellant.\r\nGeorgia M. Pestana, Corporation Counsel, New York (Rebecca L. Visgaitis of counsel), for presentment agency.\r\n\r\n\r\n\r\nOrder of disposition, Family Court, Bronx County (Peter J. Passidomo, J.), entered on or about August 23, 2019, which adjudicated appellant a juvenile delinquent upon a fact-finding determination that he committed acts that, if committed by an adult, would constitute the crimes of robbery in the second and third degrees, grand larceny in the fourth degree, petit larceny, and criminal facilitation in the fourth degree, and placed him on probation for a period of 12 months, unanimously modified, on the law, to the extent of vacating the findings as to the robbery in the third degree and petit larceny counts and dismissing those counts, and otherwise affirmed, without costs.\r\nThe court's finding was supported by legally sufficient evidence and was not against the weight of the evidence (see People v Danielson, 9 NY3d 342, 348-349 [2007]). There is no basis for disturbing the court's determinations regarding identification and accessorial liability. The victim made a reliable identification of appellant that was corroborated by circumstantial evidence. Appellant's conduct, viewed as a whole, was \"inconsistent with that of a mere bystander\" (Matter of Richard G., 95 AD3d 455, 455-456 [1st Dept 2012]), and it supported the conclusion that he acted as a lookout while the other participant in the crime stole the victim's property.\r\nAppellant's convictions for third degree robbery and petit larceny should be vacated and dismissed as they are lesser included offenses of second degree robbery (see generally People v Bayard, 32 AD3d 328, 330 [1st Dept 2006]), and fourth degree grand larceny (People v Ferrara, 121 AD2d 159, 160 [1st Dept 1986]), respectively. We have considered and rejected appellant's remaining claims.\r\nTHIS CONSTITUTES THE DECISION AND ORDER OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: September 28, 2021\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4997210
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

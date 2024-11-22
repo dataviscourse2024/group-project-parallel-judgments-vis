@@ -1,0 +1,46 @@
+{
+    "id": 8028647,
+    "judges": "Chalmers",
+    "date_filed": -2957299200000,
+    "date_filed_is_approximate": true,
+    "slug": "henry-v-shepherd",
+    "case_name_short": "Henry",
+    "case_name": "Henry v. Shepherd",
+    "case_name_full": "Eliza Henry v. F. M. Shepherd",
+    "attorneys": "Barry & Brame, for plaintiff in error :, Flaniken & Qerdine, for defendant in error :",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1. Practice : Right to bring and maintain a suit in forma pauperis. Code of 1871, U 571, 572.</p> <p>Tbe code of 1871, \\ 571, authorizes the bringing of suits in forma pauperis, and. a party so bringing his suit has the right to prosecute it to final judgment, and cannot be deprived of the right by a motion for security for costs, under \u00a7 572. The former section operates as a proviso on the latter.</p> <p>:2. Same : Claim for excessive damages.</p> <p>Though a claim for damages may seem ludicrously, or even maliciously, excessive, it -will not prevent such recovery as the plaintiff may show himself entitled to.</p>",
+    "headnotes": null,
+    "summary": "Error to. the Circuit Court of O difax County. Hon. J. A. Orr, Judge. Plaintiff in error brought her suit in forma pauperis to the February term, 1875, of the circuit court of Colfax county, against defendant, to recover damages for the wrongful killing of chickens and other poultry, and laid her damages at $5,000. Defendant filed an affidavit to require plaintiff to give security for the costs of suit. This motion was sustained by the court, .and a rule of sixty days entered. At the next term of the court the rule was made absolute and the case dismissed, and it comes to this court on a writ of error. The action of the court in dismissing the case is assigned for \u25a0error. Cited Hilliard on Rem. for Torts, 441, 442 ; Sedgw. on Damages, 517, 528 ; 40 Miss., 356 ; 43 ib., Ill; 3 Chitty PL, 425 ; Code, 1871, \u00a7 571. Cited Code of 1871, \u00a7\u00a7 571, 572; Cole v. Curtis, 16 Minn., 182 ; Driggs v. Burton, 44 Vt., 126.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "52 Miss. 125"
+    ],
+    "opinions": [
+        {
+            "author_str": "Chalmers",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nChalmers, J.,\ndelivered the opinion of the court.\nThis suit was dismissed by the circuit judge without plaintiff being allowed to go to the jury. This action was based, and is sought to be upheld, upon two grounds: 1st, that plaintiff failed to give security for costs when thereto required upon affidavit filed; and, 2d, that the declaration did not \u25a0disclose a just cause of action.\nPlaintiff commenced her suit in forma pauperis by taking the oath prescribed by \u00a7 571 of the Code. Having so commenced it, she was entitled to prosecute it to final judgment, *127and cannot be deprived of the right by a motion for security for costs, under \u00a7 572. The latter of these sections is modified and controlled by the former, or, in other words, \u00a7 571 operates as a proviso on \u00a7 572.\nThe circuit judge had no right to dismiss the suit as showing no just cause of action. The declaration is correctly drawn. The suit was for damages sustained in the willful and wrongful Tilling, by plaintiff, of defendant\u2019s chickens.\nThe damages are laid at $5,000.' This claim of damage .\u25a0seems ludicrously, if not maliciously, excessive, but this will not prevent such recovery as the plaintiff may show herself \u25a0entitled to, nor does the cause of action fall within the maxim de minimis non curat lex.\nThe cause is reversed and remanded, and writ o\u00ed procedendo awarded.\n",
+            "ocr": true,
+            "opinion_id": 7984631
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1200109,
+    "judges": "Banke, Pope, Sognier",
+    "date_filed": 610329600000,
+    "date_filed_is_approximate": false,
+    "slug": "huff-v-state",
+    "case_name_short": "Huff",
+    "case_name": "Huff v. State",
+    "case_name_full": "Huff v. the State",
+    "attorneys": "Dilmus Huff, pro se., Judith Y. Shelnutt, for appellant., W. Fletcher Sams, District Attorney, William H. Stevens, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b510-10\">\n    A89A0725.\n   </docketnumber><parties id=\"AJMZ\">\n    HUFF v. THE STATE.\n   </parties><br><citation id=\"b510-11\">\n    (382 SE2d 183)\n   </citation>",
+    "citations": [
+        "382 S.E.2d 183",
+        "191 Ga. App. 476"
+    ],
+    "opinions": [
+        {
+            "author_str": "Banke",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7135.0,
+            "opinion_text": "\n191 Ga. App. 476 (1989)\n382 S.E.2d 183\nHUFF\nv.\nTHE STATE.\nA89A0725.\nCourt of Appeals of Georgia.\nDecided May 5, 1989.\nJudith Y. Shelnutt, for appellant.\nW. Fletcher Sams, District Attorney, William H. Stevens, Assistant District Attorney, for appellee.\nBANKE, Presiding Judge.\nOn appeal from his conviction of burglary, the appellant contends that his character was improperly placed in issue and that he was denied effective assistance of counsel. Held:\n1. During direct examination of the investigating officer, the state elicited testimony concerning a comparison which had been made between the appellant's fingerprints and prints taken from the crime scene. When asked what the crime scene prints had been compared with, the witness responded, \"Fingerprints taken off of Mr. \u0097 that had been taken off of Mr. Huff previously.\" No objection was made to this testimony at trial; however, the appellant contends the trial court should have declared a mistrial sua sponte on the ground that this testimony impermissibly placed his character in issue. This enumeration is patently without merit. The response did not intimate that the appellant's fingerprints were already on record at the time of his arrest for the present offense; and even if it had, \"[t]he fact that a copy of one's fingerprints is on record is not indicative of prior criminal activity and it alone does not introduce the issue of a defendant's character into issue.\" Weldon v. State, 175 Ga. App. 172, 173 (333 SE2d 23) (1985).\n*477 2. The appellant was represented by appointed counsel at trial. Following his conviction, he filed a pro se notice of appeal, as well as an affidavit of poverty and a motion for appointment of counsel to represent him on appeal. Appellate counsel was thereafter appointed and has raised for the first time on appeal the issue of the effectiveness of counsel during the trial.\nAs no motion for new trial was filed in the case, the trial court has not yet had an opportunity to consider this issue. In Simpson v. State, 250 Ga. 365, 367 (2) (297 SE2d 288) (1982), the Georgia Supreme Court held that an enumeration of error asserting ineffective assistance of counsel would not be considered under such circumstances. This holding has never been overruled, although the Court has since issued a series of differing rulings dealing with the consideration to be given an enumeration of error challenging the effectiveness of trial counsel where the defendant obtained new counsel following the trial, but such counsel either failed to raise the issue in an amended motion for new trial or did raise the issue but failed to request an evidentiary hearing on it. See Brown v. State, 251 Ga. 598 (3) (308 SE2d 182) (1983); Smith v. State, 255 Ga. 654 (3) (341 SE2d 5) (1986); Thompson v. State, 257 Ga. 386 (2) (359 SE2d 664) (1987); Dawson v. State, 258 Ga. 380 (369 SE2d 897) (1988). Currently, the rule appears, once again, to be that a challenge to the effectiveness of trial counsel will not be considered on appeal where it has not been raised in the trial court in such a manner as to enable the court to rule on it. Accordingly, inasmuch as no challenge to the effectiveness of counsel was made in the trial court in the present case, this enumeration of error presents nothing for review.\nJudgment affirmed. Sognier and Pope, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1200109
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

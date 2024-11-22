@@ -1,0 +1,47 @@
+{
+    "id": 897684,
+    "judges": "Per Curiam",
+    "date_filed": 1123027200000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-disciplinary-action-against-korsmo",
+    "case_name_short": "In Re Disciplinary Action Against Korsmo",
+    "case_name": "In Re Disciplinary Action Against Korsmo",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2005 ND 148",
+        "703 N.W.2d 305"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.ndcourts.gov/wp/20050251.wpd",
+            "author_id": null,
+            "opinion_text": "\n703 N.W.2d 305 (2005)\n2005 ND 148\nIn the Matter of the Application for DISCIPLINARY ACTION AGAINST John T. KORSMO, a Member of the Bar of the State of North Dakota.\nDisciplinary Board of the Supreme Court, Petitioner,\nv.\nJohn T. Korsmo, Respondent.\nNo. 20050251.\nSupreme Court of North Dakota.\nAugust 3, 2005.\n\nINTERIM SUSPENSION ORDERED.\nPER CURIAM.\n[\u00b6 1] On July 27, 2005, an Application for the Interim Suspension of John T. *306 Korsmo, a member of the Bar of North Dakota, and a certified copy of the Judgment in a Criminal Case in United State of America John T. Korsmo, United States District Court, District of Columbia, Case No. CR05-104-01, was filed under N.D.R. Lawyer Discipl. 4.1(D) by Paul W. Jacobson, Disciplinary Counsel. The Judgment in a Criminal Case shows that Korsmo was found guilty of one count of false and fictitious statements in violation of 18 U.S.C. \u00a7 1001(a)(2), a felony.\n[\u00b6 2] N.D.R. Lawyer Discipl. 4.1(D) provides that upon the filing with the court of a certificate or other satisfactory evidence of conviction demonstrating that a lawyer has been convicted of a serious crime, the court shall enter an order immediately suspending the lawyer pending final disposition of a disciplinary proceeding predicated upon the conviction.\n[\u00b6 3] Under N.D.R. Lawyer Discipl. 4.1(C), a serious crime is any felony and any lesser crime a necessary element of which, as determined by the statutory or common law definition of the crime, involves interference with the administration of justice, false swearing, misrepresentation, fraud, willful failure to file income tax returns, deceit, bribery, extortion, misappropriation, theft, or an attempt or a conspiracy or solicitation of another to commit any of those crimes.\n[\u00b6 4] ORDERED, under N.D.R. Lawyer Discipl. 4.1(D), John T. Korsmo's certificate of admission to the Bar of the State of North Dakota is SUSPENDED effective immediately and until further order of this Court, pending final disposition of a disciplinary proceeding predicated upon the conviction.\n[\u00b6 5] GERALD W. VANDE WALLE, C.J., MARY MUEHLEN MARING and CAROL RONNING KAPSNER, JJ., concur.\n[\u00b6 6] The Honorable DALE V. SANDSTROM and the Honorable DANIEL J. CROTHERS, deeming themselves disqualified, did not participate in this decision.\n",
+            "ocr": false,
+            "opinion_id": 897684
+        }
+    ],
+    "court_short_name": "North Dakota Supreme Court",
+    "court_full_name": "North Dakota Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "North Dakota, ND",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7753631,
+    "judges": "Dauksch, Only, Sharp, Thompson",
+    "date_filed": 811728000000,
+    "date_filed_is_approximate": false,
+    "slug": "rios-v-state",
+    "case_name_short": "Rios",
+    "case_name": "Rios v. State",
+    "case_name_full": "Hernando RIOS v. STATE of Florida",
+    "attorneys": "James G. Gibson, Public Defender, and Sean K. Ahmed, Assistant Public Defender, Daytona Beach, for appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Barbara Arlene Fink, Assistant Attorney General, Daytona Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "660 So. 2d 795"
+    ],
+    "opinions": [
+        {
+            "author_str": "Dauksch",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDAUKSCH, Judge.\nThis is an appeal from convictions for grand theft of a motor vehicle1 and failure to return a hired vehicle.2 The question on appeal is whether appellant could be constitutionally convicted of both offenses when the facts are that appellant rented a car, kept it beyond its due date for return and failed to return it.\nAlthough the elements of the failure to return a hired vehicle crime and the theft crime are not the same, it is clear that the specific crime regarding a hired vehicle is generally included in the general theft statute. That is to say, if one commits the failure to return the hired vehicle crime then he has also necessarily completed the theft element of a taking with the intent to deprive the owner of the use of the vehicle.\nThe general theft statute, section 812.014, Florida Statutes (1993) defines that crime as follows:\n1. A person commits theft if he knowingly obtains or uses, or endeavors to obtain or to use, the property of another with intent to, either temporarily or permanently:\n(a) Deprive the other person of a right to the property or a benefit therefrom.\n(b) Appropriate the property to his own use or to the use of any person not entitled thereto.\nThe failure to return a hired vehicle statute provides:\n817.52(3), FAILURE TO REDELIVER A HIRED VEHICLE. \u2014 Whoever, after hiring a motor vehicle under an agreement to redeliver the same to the person letting such motor vehicle or his agent, at the termination of the period of which it was let, shall, without the consent of such person or persons and with intent to defraud, abandon or willfully refuse to redeliver such vehicle as agreed shall, upon conviction, be guilty of a felony ...\n\u00a7 817.52(3), Fla.Stat. (1993).\nBecause the failure to return elements fit within the grand theft elements it was error, constitutionally under the double jeopardy clauses, to convict appellant of both. See Thompson v. State, 585 So.2d 492 (Fla. 5th DCA 1991).\nREVERSED; REMANDED for resen-tencing.\nTHOMPSON, J., concurs.\nW. SHARP, J., concurs in result only.\n\n. \u00a7 812.014(l)(a), (b) &amp; (2)(c)(4), Fla.Stat. (1993).\n\n\n. \u00a7 817.52(3), Fla.Stat. (1993).\n\n",
+            "ocr": true,
+            "opinion_id": 7690880
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

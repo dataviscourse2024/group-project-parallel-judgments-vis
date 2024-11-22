@@ -1,0 +1,47 @@
+{
+    "id": 1308869,
+    "judges": "Harry C. Martin",
+    "date_filed": 342144000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-murphy",
+    "case_name_short": null,
+    "case_name": "State v. Murphy",
+    "case_name_full": "State of North Carolina v. Bobby Murphy",
+    "attorneys": "\n\nAttorney General Edmisten, by Assistant Attorney General Marilyn R. Rich, for the State.\n, \nHulse & Hulse, by Donald M. Wright, for defendant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b469-8\">\n    STATE OF NORTH CAROLINA v. BOBBY MURPHY\n   </parties><docketnumber id=\"AOv\">\n    No. 808SC545\n   </docketnumber><decisiondate id=\"AHp\">\n    (Filed 4 November 1980)\n   </decisiondate><br><attorneys id=\"b470-6\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"444\"> \n     *444\n     </span>\n<em>\n     Attorney General Edmisten, by Assistant Attorney General Marilyn R. Rich, for the State.\n    </em>\n</attorneys><br><attorneys id=\"b470-7\">\n<em>\n     Hulse &amp; Hulse, by Donald M. Wright, for defendant.\n    </em>\n</attorneys>",
+    "citations": [
+        "271 S.E.2d 573",
+        "49 N.C. App. 443"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harry",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n271 S.E.2d 573 (1980)\n49 N.C. App. 443\nSTATE of North Carolina\nv.\nBobby MURPHY.\nNo. 808SC545.\nCourt of Appeals of North Carolina.\nNovember 4, 1980.\n*574 Atty. Gen. Rufus L. Edmisten by Associate Asst. Atty. Gen. Marilyn R. Rich, Raleigh, for the State.\nHulse &amp; Hulse by Donald M. Wright, Goldsboro, for defendant.\nHARRY C. MARTIN, Judge.\nDefendant argues first that the evidence was insufficient to carry the state's case to the jury and that the trial court erred in denying his motion to dismiss. It is familiar law that upon this motion the court has the duty to consider the evidence in the light most favorable to the state, and give the state the benefit of all reasonable inferences that may be gathered from it. The evidence must be deemed true and discrepancies and contradictions are disregarded. State v. Witherspoon, 293 N.C. 321, 237 S.E.2d 822 (1977). However, there must be substantial evidence of all material elements of the crime charged to withstand the motion to dismiss. State v. Rigsbee, 285 N.C. 708, 208 S.E.2d 656 (1974); State v. Spellman, 40 N.C.App. 591, 253 S.E.2d 320, disc. rev. denied, 297 N.C. 616, 267 S.E.2d 657 (1979). Circumstantial evidence as well as direct evidence may be considered upon such motion. State v. McKnight, 279 N.C. 148, 181 S.E.2d 415 (1971); State v. Johnson, 199 N.C. 429, 154 S.E. 730 (1930).\nApplying these rules to the evidence in this case, we find plenary evidence to withstand defendant's motion to dismiss. The evidence clearly shows that Willie Taylor knew the defendant and identified him as one of the four men who ran after him and robbed him. Defendant was not merely present; he actively participated in the robbery by chasing Willie. True it is, Willie did not know which of the four \"clogged\" him in the head or which one took his money. This does not defeat the state's case. All four men were there, acting together in concert with a common plan and purpose to rob their victim. Under these circumstances it is not essential to the state's case that it prove who struck the blow or took the money. All participants are equally guilty in the eyes of the law. State v. Westbrook, 279 N.C. 18, 181 S.E.2d 572 (1971), death sentence vacated, 408 U.S. 939, 92 S.Ct. 2873, 33 L.Ed.2d 761 (1972); State v. Lovelace, 272 N.C. 496, 158 S.E.2d 624 (1968). In order to show a community of unlawful purpose, it is not necessary to show an express agreement or understanding between the parties, nor is it necessary that it be shown by positive or direct evidence. Its existence may be inferred from all the circumstances accompanying the doing of the unlawful act, and from the conduct of defendant subsequent to the criminal act. Preconcert or a community of purpose may be shown by circumstances as well as by direct evidence. State v. Sanders, 288 N.C. 285, 218 S.E.2d 352 (1975), cert. denied, 423 U.S. 1091, 96 S.Ct. 886, 47 L.Ed.2d 102 (1976); State v. Westbrook, supra. There is ample evidence to show that defendant was present and actively engaged with his three cohorts in the chasing and robbing of Willie Taylor. State v. Mitchell and State v. McKinzie, 6 N.C.App. 755, 171 S.E.2d 74 (1969). We also hold the *575 evidence is sufficient for a rational trier of fact to find defendant guilty beyond a reasonable doubt of the crime of common law robbery according to the standards of Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560, rehearing denied, 444 U.S. 890, 100 S.Ct. 195, 62 L.Ed.2d 126 (1979). The assignment of error is overruled.\nDefendant contends the trial court erred in allowing the prosecuting attorney to ask certain questions of defendant on cross-examination. These questions were for the purpose of impeaching defendant. They related to defendant's use of drugs and his efforts to forge a prescription for drugs. We hold the questions were proper. It is permissible, for the purposes of impeachment, to cross-examine a defendant about disparaging acts he may have committed, both as to criminal acts and to degrading acts. State v. Williams, 279 N.C. 663, 185 S.E.2d 174 (1971); State v. Page, 31 N.C.App. 740, 230 S.E.2d 433 (1976). The assignment of error is overruled.\nWe have carefully examined defendant's other assignments of error as to his post-verdict motions and the signing of the judgment, and they are overruled.\nNo error.\nVAUGHN and WELLS, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1308869
+        }
+    ],
+    "court_short_name": "Court of Appeals of North Carolina",
+    "court_full_name": "Court of Appeals of North Carolina",
+    "court_type": "SA",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Robbery"
+}

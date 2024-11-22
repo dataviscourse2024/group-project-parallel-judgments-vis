@@ -1,0 +1,46 @@
+{
+    "id": 5075222,
+    "judges": "Lindsay",
+    "date_filed": -3171571200000,
+    "date_filed_is_approximate": true,
+    "slug": "brown-v-state",
+    "case_name_short": "Brown",
+    "case_name": "Brown v. State",
+    "case_name_full": "W. Brown v. State",
+    "attorneys": "No brief for the appellant., W. H. Andrews, Acting Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1\u2014In an indictment for tlieft it was alleged that \u201c T. G. Lucky\u201d was the owner of the property; whereas, on the trial the evidence proved that the name of the owner was \" C. C. Lucky.\u201d Held, that the court below correctly instructed the jury that if they were satisfied from the evidence that \u201cT. C. Lucky \u201d and \u201cC. C. Lucky\u201d is one and the same person, and that the difference in the name is a mere variance in the description of but one person, who was the owner of the property stolen, then the variance is immaterial, and the evidence sustains the charge of the indictment as to the ownership of the property.</p>",
+    "headnotes": null,
+    "summary": "Appeal from McLennan. Tried below before Hon. A. J. Evans. The appellant was indicted for the theft of a mare, the property of T. G. Lucky. By the evidence it appeared that the name was 0. 0. Lucky, and there was no proof that it was ever otherwise called or written, or that the owner of the property ever was called or known by the name of T. 0. Lucky.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "32 Tex. 124"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lindsay",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLindsay, J.\nThe only error, relied upon by the defendant for the reversal of the judgment of conviction, is the variance between the allegation of the name of the injured party in the indictment and the proof upon the trial.\nThe charge in the indictment was, that the animal stolen was the property of \u201c T. 0. Lucky,\u201d whereas the proof showed it to he the property of \u201c G. C. Lucky.\u201d Upon this point the court very properly and very correctly gave the law to the jury in the charge, and the jury passed upon the facts to which the charge was applicable, and settled the fact of the ownership of the property; and this court can see no sufficient reason to disturb the verdict. The judgment of the court below is affirmed, and the sentence of the law ordered to he pronounced.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 4890752
+        }
+    ],
+    "court_short_name": "Texas Supreme Court",
+    "court_full_name": "Texas Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

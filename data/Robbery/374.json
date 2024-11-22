@@ -1,0 +1,46 @@
+{
+    "id": 7823276,
+    "judges": "Gross, Hazouri, Warner",
+    "date_filed": 1075852800000,
+    "date_filed_is_approximate": false,
+    "slug": "rosado-v-state",
+    "case_name_short": "Rosado",
+    "case_name": "Rosado v. State",
+    "case_name_full": "Elias ROSADO v. STATE of Florida",
+    "attorneys": "Carey Haughwout, Public Defender, and Ian Seldin, Assistant Public Defender, West Palm Beach, for appellant., Charles J. Crist, Jr., Attorney General, Tallahassee, and Sue-Ellen Kenny, Assistant Attorney General, West Palm Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "867 So. 2d 440"
+    ],
+    "opinions": [
+        {
+            "author_str": "Warner",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWARNER, J.\nAppellant sought to withdraw his plea after he was sentenced to concurrent five-year prison terms for grand theft and dealing in stolen property. Appellant challenges the trial court\u2019s denial of the motion claiming that adjudication and sentencing for both grand theft and dealing in stolen property violates double jeopardy and constitutes fundamental error. We affirm, concluding that appellant\u2019s plea amounted to a plea bargain, and any double jeopardy claim was therefore waived.\nAppellant was charged with burglary of a dwelling, dealing in stolen property, and grand theft. The events resulting in the charges involved appellant breaking into a house, stealing a gold chain, and then pawning it. At the sentencing hearing for a prior crime, the state noticed appellant that it would seek habitualization for the instant crimes. The judge entered into the discussions and promised that he would not habitualize appellant if he were to plea open to the court, but the judge would not be inclined to go below five years as a sentence, even though appellant was requesting an eighteen month sentence. Appellant then agreed to an open plea to the court, and the judge sentenced him to concurrent five year sentences.\nAfter sentencing, appellant timely moved to withdraw his plea, claiming that it was entered under duress. However, at the hearing, no such proof was offered. On appeal, appellant claims for the first time that his conviction and sentence for both grand theft and dealing in stolen property violates double jeopardy, and that this issue can be raised for the first time on appeal.\nWhile appellant relies on Hall v. State, 826 So.2d 268, 271 (Fla.2002), for the proposition that conviction of both grand theft and dealing in stolen property violates double jeopardy, Hall is based upon a construction of section 812.025, Florida Statutes (1999), which precludes conviction for both grand theft and dealing in stolen property if they flow from one scheme. *442Nevertheless, if it were a fundamental error, even fundamental errors such as double jeopardy may be waived when the dual conviction arises from a negotiated plea agreement. See Novaton v. State, 634 So.2d 607, 609 (Fla.1994). In the present case, we conclude that the plea was the result of a negotiation with the judge in which the judge agreed not to habitualize appellant if he were to plead open to the court. Thus, just as in Novaton, appellant avoided a greater prison term through ha-bitualization by agreeing to plead open to the court. He obtained what he bargained for and cannot now be heard to complain of the deal he made.\nAffirmed.\nGROSS and HAZOURI, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7765218
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

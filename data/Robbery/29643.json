@@ -1,0 +1,46 @@
+{
+    "id": 5266993,
+    "judges": "Dowd, Hoff, Simon",
+    "date_filed": 886464000000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-miller",
+    "case_name_short": null,
+    "case_name": "State v. Miller",
+    "case_name_full": "STATE of Missouri, Plaintiff-Respondent v. Clarence MILLER, Defendant-Appellant Clarence MILLER v. STATE of Missouri, Respondent-Respondent",
+    "attorneys": "Ellen H. Flottman, Asst. Public Defender, Columbia, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Karen L. Kramer, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "959 S.W.2d 954"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nPER CURIAM.\nDefendant, Clarence Miller, appeals from the judgment entered upon the conviction by a jury of two counts of stealing, third offense, Sections 570.030 and 570.040, RSMo 1994. The court found Defendant to be a prior and persistent offender and sentenced him to fifteen years\u2019 imprisonment on each count, the sentences to run concurrently. Defendant also appeals from the dismissal of his Rule 29.15 motion for post-conviction relief because of Defendant\u2019s escape prior to sentencing. We affirm. We have reviewed the record and find the claims of error to be without merit. An opinion would have no prece-dential value nor serve any jurisprudential purpose. The parties have been furnished with a memorandum for their information only, setting forth the reasons for this order pursuant to Rules 30.25(b) and 84.16(b).\n",
+            "ocr": true,
+            "opinion_id": 5094283
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

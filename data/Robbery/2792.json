@@ -1,0 +1,46 @@
+{
+    "id": 8322198,
+    "judges": "Barrows",
+    "date_filed": -1640304000000,
+    "date_filed_is_approximate": false,
+    "slug": "handley-v-ogorman",
+    "case_name_short": "Handley",
+    "case_name": "Handley v. O'Gorman",
+    "case_name_full": "William Handley v. John F. O'Gorman",
+    "attorneys": "For plaintiff: Edwards & Angel\u00ed., For defendant: L. T. Murphy.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Super. Ct. (R.I.) 32"
+    ],
+    "opinions": [
+        {
+            "author_str": "Barrows",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBARROWS, J.\nAction of Case. Heard on a demurrer to a declaration containing five counts.\nThe first count avers that plaintiff for hire stored an automobile in defendant\u2019s public garage; that defendant\u2019s agent, Mowry, who was left in sole charge thereof, stole, or without claim of right took said automobile from the garage, and that it has not since been found.\nFor plaintiff: Edwards &amp; Angel\u00ed.\nFor defendant: L. T. Murphy.\nThe second, third and fourth counts aver bailment- for hire and allege that defendant negligently failed to care for the automobile by reason of his knowledge that Mowry had wrongfully taken other automobiles and was an untrustworthy person -to leave m charge of the garage.\nThe fifth count avers an agreement by defendant to keep said automobile safe from theft or wrongful taking by defendant\u2019s servant and avers said wrongful taking as before.\nDefendant\u2019s demurrer to the second, third, fourth and fifth counts possesses no merit.\nTravellers\u2019 Indemnity Co., vs. Fawkes, 120 Minn. 353 (1913);\nSame case, 139 North Western 703.\nMcLain vs. W. Virginia Auto Co., 72 W. Va. 738. (1913).\nPreston vs. Prather, 137 U. S. 604 (1891);\nFireman\u2019s Fund Ins. vs. Schriber, 150 Wis. 42 (1912).\nThe demurrer to the first count is on the ground that the facts show no breach of duty and it is well taken. Counsel argued the matter and submitted authorities on the question whether the allegation of a bailment for hire and non-return by the bailee without an averment of negligence in caring for the bailed property was sufficient. The authorities on this question are not agreed.\nSchouler, Bailments &amp; Carriers, 3rd ed. p. 27, Sec. 23 and cases there cited.\nApart from special contract most authorities agree that a bailee for hire is liable only for failure to take due care of the property entrusted to him. He is not absolutely liable as an insurer.\nHuddy, Law of Automobiles, 4th ed. Par. 243, p. 338.\nThere are strong practical reasons why the burden of proving due care should rest upon the bailee in cases like the present, and plaintiff urges that the averment of- such a bailment and non-return states a prima facie case.\nBabbitt, Law applied to Motor Vehicles, 2d ed., p. 396, Par. 545.\nWe are not called upon to decide this question, however, because an examination of the first count shows that plaintiff has not presented such a state of facts. He has stated not alone a bailment and failure to keep the property but has set forth as reasons for such failure a felony or unauthorized act of defendant\u2019s agent Mowry. We cannot indulge the presumption that because Mowry\u2019s act was done during the period of employment, it was within the scope of his authority from defendant, nor that theft of the property bailed was due to defendant\u2019s negligence.\nClaflin vs. Meyer, 75 N. Y. 260 (1878);\nWylie vs. No. Hampton Bank, 119 U. S. 361 (1896).\nMowry\u2019s theft or conversion of the car without proof that defendant was reasonably chargeable with notice of such probability would furnish a complete answer to plaintiff\u2019s claim that defendant .had failed -to exercise due care in keeping the automobile. For this reason, even if an allegation of bailment' and non-return is sufficient, plaintiff has averred other facts which furnish defendant a complete excuse and the count as 'it stands does not state a cause of action against defendant.\nThe demurrer to the first count 'is therefore sustained and that to all other counts is overruled\n",
+            "ocr": true,
+            "opinion_id": 8289449
+        }
+    ],
+    "court_short_name": "Superior Court of Rhode Island",
+    "court_full_name": "Superior Court of Rhode Island",
+    "court_type": "SA",
+    "court_jurisdiction": "Rhode Island, RI",
+    "crime_category": "Robbery"
+}

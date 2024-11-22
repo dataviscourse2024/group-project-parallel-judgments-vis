@@ -1,0 +1,47 @@
+{
+    "id": 4069975,
+    "judges": "Barefoot, Doyle, Jones",
+    "date_filed": -757296000000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-thomas",
+    "case_name_short": "In Re Thomas",
+    "case_name": "In Re Thomas",
+    "case_name_full": "In Re William Frank Thomas.",
+    "attorneys": "Earl E. James, of Oklahoma City, for petitioner.\n\nRandell S. Cobb, Atty. Gen., Jess L. Pullen, Asst. Atty. Gen., and Warren Edwards, Co. Atty. of Oklahoma County, and Fred Hoyt, Asst. Co. Atty., both of Oklahoma City, for respondent.",
+    "nature_of_suit": null,
+    "posture": "Original habeas corpus proceeding by William Frank Thomas, for reduction of bail. Writ denied.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b364-2\">\n    In re WILLIAM FRANK THOMAS.\n   </parties><docketnumber id=\"A2m\">\n    No. A-10698.\n   </docketnumber><decisiondate id=\"AmP\">\n    Jan. 2. 1946.\n   </decisiondate><citation id=\"ATq\">\n    (165 P. 2d 149.)\n   </citation><br><attorneys id=\"b364-9\">\n    Earl E. James, of Oklahoma City, for petitioner.\n   </attorneys><br><attorneys id=\"b364-10\">\n    Randell S. Cobb, Atty. Gen., Jess L. Pullen, Asst. Atty. Gen., and Warren Edwards, Co. Atty. of Oklahoma County, and Fred Hoyt, Asst. Co. Atty., both of Oklahoma City, for respondent.\n   </attorneys>",
+    "citations": [
+        "165 P.2d 149",
+        "81 Okla. Crim. 348"
+    ],
+    "opinions": [
+        {
+            "author_str": "Barefoot",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Petitioner, William Frank Thomas, filed his application in this court, praying for reduction of bail.\nPetitioner alleged that he was being illegally held in the county jail of Oklahoma county, Okla.; that he was charged with the crime of burglary in the second degree after former conviction of a felony, by preliminary complaint in the justice court, and that he had been ordered placed under a $1,500 bond for his appearance; that thereafter, on application of the county attorney of said county, said bail had been raised to $15,000; that said bail was excessive, and he prayed that same be reduced.\nTo this petition a response was filed by George Goff, sheriff of Oklahoma county, in compliance with an order *Page 349 \nto show cause issued by this court on November 17, 1945. It was alleged in said response:\n\"That said petitioner William Frank Thomas stands charged with burglary in the second degree by preliminary information, and said charge is now pending on preliminary hearing in the justice court of Otis D. James, justice of the peace; and that said preliminary information alleges the petitioner to be guilty of said offense after a former conviction of a felony for which your respondent holds a commitment of the said petitioner.\n\"Your respondent would further show that the said petitioner stands charged by information in the district court of Oklahoma county with the crime of burglary in the second degree in cause number 17292; that the petitioner stands charged by information in the district court of Oklahoma county with the crime of burglary in the second degree in cause number 17293; and that the petitioner was convicted in the district court of Oklahoma county in cause number 17294, and sentenced to ten years in the penitentiary, on the 17th day of November, 1945.\n\"Your respondent would further show that said petitioner stands charged with the crime of burglary in the second degree in the District Court of Oklahoma County in cause number 17390, and in all of said causes he is alleged to be guilty of a felony after a previous conviction of a felony.\"\nA hearing was had before this court on November 21, 1945, at which time the court refused to grant the relief prayed.\nUnder other circumstances, the bail fixed in this case might be held excessive, but the response and evidence offered at the hearing show clearly that this petitioner, in addition to the charge here presented of second-degree burglary, stands charged with the same offense in two other cases in the district court of Oklahoma county, and *Page 350 \nhas been tried in another case, convicted and sentenced to serve a term of ten years in the State Penitentiary, which case is now being appealed to this court. In all of the above-mentioned cases, defendant is charged after previous conviction of a felony. It was also disclosed at the hearing in this case that petitioner was charged with similar offenses in other counties of this state.\nUnder the above statement, this court does not feel justified in reducing the bond fixed in this case.\nFor the reasons above stated, the petition is denied.\nJONES, J., concurs. DOYLE, J., not participating.",
+            "ocr": false,
+            "opinion_id": 3827849
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Robbery"
+}

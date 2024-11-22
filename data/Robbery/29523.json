@@ -1,0 +1,46 @@
+{
+    "id": 5241331,
+    "judges": "Devany, Scales, Vance",
+    "date_filed": 514684800000,
+    "date_filed_is_approximate": true,
+    "slug": "porter-v-state",
+    "case_name_short": "Porter",
+    "case_name": "Porter v. State",
+    "case_name_full": "Leon Calvin PORTER v. The STATE of Texas",
+    "attorneys": "Richard Weaver, McKinney, for appellant., H. Ownby, Crim. Dist. Atty., McKinney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "711 S.W.2d 698"
+    ],
+    "opinions": [
+        {
+            "author_str": "Devany",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDEVANY, Justice.\nLeon Calvin Porter appeals his conviction of forgery by possession with intent to pass. The jury, after finding the enhancement allegations to be true, assessed punishment at 25 years. Because we agree with appellant\u2019s contention that the evidence is insufficient to sustain the jury\u2019s guilty verdict, we reverse the judgment of the trial court and remand for entry of a judgment of acquittal.\nAppellant was arrested at the First National Bank of Allen, Texas on September 13,1984 while attempting to pass two cashier\u2019s checks payable in amounts of $470.64 and $192.49 on which the payee\u2019s name had been altered. The named payee on the altered checks was Sidney Lee Reeves, who described himself as a partner of appellant in the used tire business. Reeves had driven appellant to the bank and was waiting outside of the bank for him. Reeves had endorsed the checks on the back.\nThe State introduced evidence that the cashier\u2019s checks in question had been stolen the day before appellant was arrested. The State\u2019s complaining witness, Kristine Brown, testified that the checks, which originally had been made payable to \u201cChristmas Around the World,\u201d had been in her purse when her purse was stolen the day before appellant was arrested. She testified that as she left a mall that day, she saw a white \u201chippie looking\u201d man with straggly hair on a motorcycle next to her car. Brown testified that she thought she had put her purse in the car. However, when she got home, she realized that her purse was missing.\nAt trial, the State proved that the cashier\u2019s checks were forged. The controversy centers upon whether the State sufficiently proved that appell\u00e1nt possessed the requisite \u201cintent to defraud or harm\u201d when he attempted to pass them. TEX.PENAL CODE ANN. \u00a7 32.21(b) (Vernon 1974). The standard of review which we must apply is whether any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. Carlsen v. State, 654 S.W.2d 444, 449-50 (Tex.Crim.App.1983) (on rehearing). In a forgery case, this includes intent to defraud or harm, a finding of which requires a showing that the defendant knew that the instrument that he attempted to pass was forged. See Stuebgen v. State, 547 S.W.2d 29, 32 (Tex.Crim.App.1977).\nAlthough appellant did not testify at the guilt/innocence phase of the trial, the State provided appellant\u2019s explanation for being in possession of the checks. The State introduced testimony through several witnesses and a tape recorded statement by Reeves that appellant had consistently stated that he was in the business of buying and selling used tires and that appellant had taken the checks in question in payment for the sale of tires. Further evi*700dence was introduced that the individual who bought the tires from appellant \u201clooked kind of scroungy\u201d and was not a \u201cflashy dude.\u201d Other ' evidence showed that because appellant did not have identification to cash a check, the check was made payable to his partner, Reeves. The evidence on this transaction is unclear on whether appellant or the alleged tire buyer filled in Reeves\u2019s name as the payee.\nIn maintaining that it sufficiently proved that appellant knew that the checks were forged, the State relies on considerable evidence that the checks had obviously been altered by erasure and that appellant must have been aware of these alterations because he knew that a bank and a convenience store had each refused to cash the checks for appellant and Reeves because of the alterations. The State further points out that the carbon copies of the certified checks, upon which the name of the original payee could still be discerned on close examination, were in appellant\u2019s possession when he was arrested. While the State attempts to use these facts as numerous distinct pieces of circumstantial evidence tending to show that appellant possessed the requisite intent to defraud or harm, we conclude that they show only that appellant was aware that the checks had been altered, but not that they had been altered illegally. This evidence, alone, is insufficient to establish intent to defraud or harm. Spencer v. State, 700 S.W.2d 300, 302 (Tex.App.\u2014Austin 1985, no pet.).\nThe State further points out that the cashier\u2019s checks were stolen only the day before appellant was arrested for attempting to pass them. While close proximity in time between a theft and attempt to pass may be probative in some instances on the issue of intent to defraud or harm, we cannot agree in this instance that a one day time interval is probative on the issue of knowledge of the forgery, because the evidence indicates that appellant, who is black, was not the initial thief.\nAppellant made no statement from which it could be inferred that he knew the instruments were forged; he did not falsely represent himself; there was no evidence connecting appellant to the theft of the complainant\u2019s purse which contained the checks; and appellant made no attempt to flee and was cooperative with the police. See Crittendon v. State, 671 S.W.2d 527, 528 (Tex.Crim.App.1984). We conclude that, even without the exculpatory evidence first introduced by the State that appellant received the checks in payment for tires, there is not sufficient evidence from which any rational trier of fact could conclude beyond a reasonable doubt that appellant possessed the intent to injure or defraud that is required for conviction. Because the State has not directly or indirectly disproved the exculpatory statements that it offered, appellant is also entitled to an acquittal on this basis. Gonzales v. State, 685 S.W.2d 385, 387 (Tex.App.\u2014San Antonio 1985, pet. ref\u2019d).\nThe judgment of the trial court is reversed. The cause is remanded to the trial court with instructions that the trial court enter a judgment of acquittal.\n",
+            "ocr": true,
+            "opinion_id": 5067007
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

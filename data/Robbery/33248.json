@@ -1,0 +1,57 @@
+{
+    "id": 5995125,
+    "judges": "Murphy",
+    "date_filed": 394329600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-johnson",
+    "case_name_short": null,
+    "case_name": "People v. Johnson",
+    "case_name_full": "The People of the State of New York v. Ronald Johnson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "89 A.D.2d 506"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, Bronx County (Goldfluss, J.), rendered on January 11,1981, convicting defendant upon a jury verdict of robbery in the second degree, and resentencing him on March 19, 1981, as a second felony offender to a term of 6V2 to 13 years, reversed, on the law, the facts and as a matter of discretion, in the interest of justice, and the matter remanded for a new trial. The defendant and a codefendant were indicted in a supermarket robbery. The robbers were pursued by the police and fired at the officers who returned the fire. The robbers escaped on foot, but the defendant Johnson was apprehended. The significance of the shooting at the police officers is apparent in the fact that a challenge for cause was denied to the defendant for a juror whose son was then a police officer, said juror being seated because the defendant had exhausted his peremptory challenges. Under the circumstances, there could have been an implied bias, and the failure to exclude that juror may be considered error. The defendant\u2019s parents testified that the defendant had spent the day in question at home with them, and his young niece claimed to have talked to him on the telephone at home on the evening in question. The charge to the jury stated \u201cyou must be satisfied as to the truth of the alibi\u201d. While the usual explanation of guilt beyond a reasonable doubt charge was also given, this, too, may be considered error. Further, evidence was introduced to show that a friend of the codefendant had known one Smith, deceased prior to the trial, who confessed to the friend shortly after the robbery that Smith and another had attempted a robbery at a supermarket near the friend\u2019s home, and that there had been a shootout with the police. The defendant offered in evidence two photographs of the said confessor, which were excluded as \u201ctoo speculative\u201d. However, the defense was not offering the photograph of just another who might fit the robber\u2019s description, but rather tried to introduce evidence of the appearance of a particular person already inculpated in sworn testimony. This, too, may have been error. While perhaps no one of the afore-mentioned possible errors would warrant a reversal, the cumulative effect requires a new trial. Concur \u2014 Kupferman, Sandler, Fein and Asch, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5856150
+        },
+        {
+            "author_str": "Murphy",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMurphy, P. J.,\nconcurs in a memorandum as follows: I would reverse on the sole ground that the charge on the alibi defense improperly shifted the burden of proof to the defendant (People v Acevedo, 83 AD2d 813). I do not find that, as a matter of law, the trial court abused its discretion in permitting Mr. Ramerie to be seated as the twelfth juror.\n",
+            "ocr": true,
+            "opinion_id": 5856151
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

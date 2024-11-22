@@ -1,0 +1,46 @@
+{
+    "id": 6585221,
+    "judges": "Porada",
+    "date_filed": 815875200000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-johnson",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Johnson",
+    "case_name_full": "Commonwealth v. Melvin Johnson",
+    "attorneys": "Richard L. Goldman for the defendant., Marcia B. Julian, Assistant District Attorney, for the Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "September 11, 1995.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "39 Mass. App. Ct. 410"
+    ],
+    "opinions": [
+        {
+            "author_str": "Porada",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPorada, J.\nThe defendant was convicted on indictments charging him with unarmed robbery and larceny of a motor vehicle by a jury in the Superior Court. On appeal, he claims that the judge erred in giving a missing witness instruction to the jury and compounded the error by giving a defective instruction. We affirm.\nThe defendant argues that the judge should not have given a missing witness instruction because the Commonwealth had not established the necessary foundation. The appropriateness. of a \u201cmissing witness\u201d instruction \u201cnecessarily depends, as with inferences generally, upon the posture of the particular case and the state of the evidence.\u201d Common*411wealth v. O\u2019Rourke, 311 Mass. 213, 222 (1942). Commonwealth v. Graves, 35 Mass. App. Ct. 76, 81 (1993).\nHere, the Commonwealth\u2019s case against the defendant was a strong one. The victim testified that she left her vehicle with the engine running in order to make a phone call at a gas station located next to a Burger King restaurant in Springfield. As she made her call she saw a man get into the car and drive it away. The victim had left some personal belongings, including some of her pay checks in the car. Two days later (after the defendant was apprehended with two other people who tried to cash one of her pay checks at a grocery store), the victim identified the defendant in a photographic array as the man who stole her car.\nAt the trial, the defendant admitted that on the same day that the victim\u2019s car was stolen, he had been driving around in Springfield in a car occupied by three of his friends \u2014 Van Kilpatrick, Claude Brantley and Cornell Rogers \u2014 and that as they drove into Burger King, located next to the gas station at which the victim\u2019s car was stolen, Kilpatrick got out and said he was going to take a car. The defendant then stated that moments later Brantley moved into the driver\u2019s seat and drove to Lionel Benoit Road in Springfield where they observed the car Kilpatrick had taken. The victim\u2019s car was later found at that location. The defendant said that on the following day Brantley told him that he needed a white girl to help him cash a check. The defendant introduced Brantley to his neighbor and the three of them proceeded to a grocery store where Brantley and the defendant\u2019s neighbor were arrested when they attempted to cash one of the victim\u2019s pay checks. The defendant at that time was apprehended outside the store.\nBased on this evidence, the defendant would naturally have been expected to call his friend Cornell Rogers as a witness who could corroborate his version of the incident. Rogers\u2019 testimony was neither unimportant, collateral, nor cumulative, but rather necessary to corroborate the defendant\u2019s testimony. Commonwealth v. Graves, 35 Mass. App. Ct. at 83.\n*412The defendant argues, however, that even if this is so, the instruction should not have been given because the Commonwealth did not establish that the witness, Cornell Rogers, was more available to the defendant than to the Commonwealth, particularly in light of his incarcerated status at the York Street jail in Springfield. While availability is one of the factors a judge should examine before giving a \u201cmissing witness\u201d instruction, there was nothing in the record to indicate that the witness\u2019s presence could not have been secured by the defendant as well as by the Commonwealth if desired. In addition, the mere fact that a witness appears to be equally available to both parties does not preclude the giving of such an instruction if it appears from the posture of the case that the defendant would be naturally expected to call the witness. Commonwealth v. Niziolek, 380 Mass. 513, 519 (1980). This is particularly true where there is evidence that the witness is a friend of the accused. Id.\nThe defendant argues, however, that no such inference could be drawn in this case because he had a plausible reason for nonproduction of the witness, namely the fact that the witness was incarcerated at the York Street jail. See Commonwealth v. Franklin, 366 Mass. 284, 294 (1974). While the record is silent as to the witness\u2019s status at the York Street jail, the defendant\u2019s argument carries no weight, because he never indicated to the court that he chose not to call Cornell Rogers as a witness because of his incarceration.\nIn sum, we conclude that the judge\u2019s decision to give a \u201cmissing witness\u201d instruction was entirely reasonable given the posture and state of the evidence in this case. Commonwealth v. Gagliardi, 29 Mass. App. Ct. 225, 244 (1990).\nThe defendant also argues that the instruction was defective as given because it did not identify the missing witness and did not indicate that an adverse inference from the defendant\u2019s failure to call the witness could only be drawn where the jury were persuaded of the truth of the inference beyond a reasonable doubt. We find no merit in the defendant\u2019s argument that the instruction was defective because it did not identify the witness by name. It was clear from both *413the defendant\u2019s and the Commonwealth\u2019s arguments that the witness was Cornell Rogers. We do, however, agree that it was error for the judge to fail to inform the jury that they should not draw an adverse inference against the defendant for failure to call Rogers as a witness unless they were persuaded of the truth of the inference beyond a reasonable doubt. Commonwealth v. Niziolek, 380 Mass, at 522. Commonwealth v. Olszewski, 416 Mass. 707, 724 n.18 (1993).\nNonetheless, in this case the defendant made no objection to the substance of the missing witness charge. Accordingly, our review is limited to the standard of substantial risk of miscarriage of justice. Commonwealth v. Olszewski, 416 Mass, at 724 n.18. Given the strength of the Commonwealth\u2019s case against the defendant and the judge\u2019s clear instructions on presumption of innocence, burden of proof, and reasonable doubt, we conclude that no substantial risk of a miscarriage of justice arose from the judge\u2019s omission. Compare Commonwealth v. Olszewski, 416 Mass, at 724 n.18. Commonwealth v. Graves, 35 Mass. App. Ct. at 86-87.\n\nJudgment affirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 6459478
+        }
+    ],
+    "court_short_name": "Massachusetts Appeals Court",
+    "court_full_name": "Massachusetts Appeals Court",
+    "court_type": "SA",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Robbery"
+}

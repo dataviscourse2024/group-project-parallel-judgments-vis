@@ -1,0 +1,46 @@
+{
+    "id": 5330699,
+    "judges": "Quinn",
+    "date_filed": 542246400000,
+    "date_filed_is_approximate": true,
+    "slug": "people-v-goodman",
+    "case_name_short": "Goodman",
+    "case_name": "People v. Goodman",
+    "case_name_full": "The PEOPLE of the State of Colorado v. Mathias L. GOODMAN",
+    "attorneys": "Duane Woodard, Atty. Gen., Charles B. Howe, Chief Deputy Atty. Gen., Richard H. Forman, Sol. Gen., Robert M. Petrusak, Asst. Atty. Gen., Denver, for petitioner., David F. Vela, State Public Defender, Douglas D. Barnes, Deputy State Public Defender, Denver, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied March 23, 1987.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "733 P.2d 1204"
+    ],
+    "opinions": [
+        {
+            "author_str": "Quinn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nQUINN, Chief Justice.\nWe granted the People\u2019s petition for cer-tiorari to review the unpublished opinion of the court of appeals in People v. Goodman, 83CA1360 (October 31, 1985), which re- - versed the defendant\u2019s convictions on three counts of crime of violence, \u00a7 16-11-309, 8A C.R.S. (1986), on the basis that such convictions violated the constitutional prohibition against double jeopardy in article II, section 18 of the Colorado Constitution. We reverse the judgment of the court of appeals and remand the case to that court for further consideration of issues not resolved by the court\u2019s opinion.\nThe defendant, Mathias L. Goodman, was found guilty by a jury of first degree sexual assault, first degree burglary while armed with a deadly weapon, aggravated rob*1205bery, and three counts of violent crime by using or possessing and threatening the use of a deadly weapon during the commission of the substantive offenses. Goodman appealed to the court of appeals, which affirmed the conviction on the substantive offenses but reversed the convictions on the violent crime counts. The court of appeals held that the violent crime convictions contravened the Double Jeopardy Clause of the Colorado Constitution because each of the substantive crimes \u201cincluded the use or threatened use of a deadly weapon as an integral element of the offense\u201d and this same deadly weapon element was also the only basis for the violent crimes convictions.\nThe court of appeals\u2019 decision is contrary to our recent decision in People v. Haymaker, 716 P.2d 110 (Colo.1986). In Hay-maker, we relied on the reasoning of the United States Supreme Court in Missouri v. Hunter, 459 U.S. 359, 103 S.Ct. 673, 74 L.Ed.2d 535 (1983), where the Court considered \u201cwhether the prosecution and conviction of a criminal defendant in a single trial on both a charge of \u2018armed criminal action\u2019 and a charge of first degree robbery \u2014 the underlying felony \u2014 violates the Double Jeopardy Clause of the Fifth Amendment.\u201d 459 U.S. at 360, 103 S.Ct. at 675. The Missouri statutory scheme in Hunter provided that first degree robbery by means of a deadly weapon was punishable by imprisonment for not less than five years, and further provided for an additional sentence of not less than three years for the commission of any felony with a deadly weapon. In holding that the double jeopardy prohibition against multiple punishments for the same offense was not violated by Hunter\u2019s conviction and sentence to ten years\u2019 imprisonment for first degree robbery and fifteen years\u2019 concurrent imprisonment for armed criminal actions, the Court stated:\nWhere, as here, a legislature specifically authorizes cumulative punishment under two statutes, regardless of whether those two statutes proscribe the \u201csame\u201d conduct under Blockburger [v. United States, 284 U.S. 299, 52 S.Ct. 180, 76 L.Ed. 306 (1932) ], a court\u2019s task of statutory construction is at an end and the prosecutor may seek and the trial court or jury may impose cumulative punishment under such statutes in a single trial.\n459 U.S. at 368-69, 103 S.Ct. at 679.\nFinding no basis under Colorado case law or the Colorado Double Jeopardy Clause for diverging from the Supreme Court\u2019s analysis in Hunter, we concluded in Hay-maker that the intent of the Colorado legislature to authorize a punishment for a crime of violence that was cumulative to the punishment for the underlying substantive offense is \u201csimply unmistakable.\u201d 716 P.2d at 117. Our decision in Haymaker thus requires that the judgment of the court of appeals be reversed on this issue.\nIn his appeal to the court of appeals, the defendant claimed that the trial court erred in instructing the jury on the elements of a crime of violence. In sustaining the defendant\u2019s double jeopardy challenge to the crime of violence convictions, the court of appeals found it unnecessary to address the correctness of the elemental jury instruction on a crime of violence. Since we granted certiorari in this case only on the double jeopardy issue, it is necessary to remand this case to the court of appeals for consideration of the defendant\u2019s unresolved challenge to the jury instruction.\nThe judgment is accordingly reversed and the cause is remanded to the court of appeals for further proceedings not inconsistent with the views herein expressed.\n",
+            "ocr": true,
+            "opinion_id": 5161225
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

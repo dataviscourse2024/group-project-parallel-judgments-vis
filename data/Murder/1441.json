@@ -1,0 +1,46 @@
+{
+    "id": 8044114,
+    "judges": "Napton, Other",
+    "date_filed": -3478032000000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-cushing",
+    "case_name_short": null,
+    "case_name": "State v. Cushing",
+    "case_name_full": "The State v. Cushing",
+    "attorneys": "Noell, for appellant., Mauro, (circuit attorney,) for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. It is improper to direct a jury in a criminal case to disregard the entire evidence of a -witness, if they believe him false in any particular.</p> <p>2. The courts should not, in instructing juries, comment upon the testimony.</p> <p>3. It is not incumbent upon the State in a prosecution for murder, if there is a failure to prove that the mortal blow was struck with the weapon mentioned in the indictment, to prove what the weapon used was.</p>",
+    "summary": "\n\nAppeal from St. Franpois Circuit Court.\n The following is a portion of the charge of the court to the jury: \u201c Murder in the second decree differs from murder in the first degree more in the nature and quality of the evidence necessary in each degree than in the character of the constituent facts pertaining to each; for, in murder in the first degree the law requires that the deliberate purpose to take life or do some great bodily harm should be shown and established by the evidence, and by evidence alone ; such evidence as of its own proper and natural weight establishes affirmatively the existence of such deliberate purpose to kill,  The following is the fourth instruction asked by the defendant and refused: \u201c 4. The indictment in this case having alleged that the mortal blow was struck with a bottle or with some other weapon to the jury unknown, said allegation is not established unless it is proved that the mortal blow was struck with the bottle or by some other weapon. If the jury find it was not with the bottle, then it is incumbent on the State to prove what the other weapon was.\u201d I. The State failed to prove the venue. The instructions given are erroneous. The instructions concerning murder in the second degree and concerning circumstantial evidence are erroneous. The instructions asked should have been given.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "29 Mo. 215"
+    ],
+    "opinions": [
+        {
+            "author_str": "Napton",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nNapton, Judge,\ndelivered the opinion of the court.\nAn examination of the testimony in this case has satisfied us that if the jury committed any error in their verdict, it was an error in favor of the accused.\nThe instructions upon which the case was tried are substantially correct. The one chiefly complained of, concerning murder in the second degree, appears to, conform-to the views expressed by this court in the case of the State v. Phillips &amp; Ross, 24 Mo. 488.)\nThe instructions asked by .the defendant were, in our opinion, properly refused. The first is an instruction directing the jury to disregard the entire evidence of a witness, if they believe him false in any particular. Such instructions invade the province of the jury, whose business it is to determine the credibility of witnesses, and who are not to be hampered in exercising their judgment by any inflexible rules on the subject. The second instruction is a comment on the testimony, which, under our practice, is not permitted, and so is the third. The fourth is not law.\nThe proof of the venue in this case was a matter for the jury. (State v. Lamb, 28 Mo. 228.) The judgment is affirmed;\nthe other judges concur.\n",
+            "ocr": true,
+            "opinion_id": 8000689
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1293958,
+    "judges": "Carley, Deen, Sognier",
+    "date_filed": 582854400000,
+    "date_filed_is_approximate": false,
+    "slug": "holden-v-state",
+    "case_name_short": "Holden",
+    "case_name": "Holden v. State",
+    "case_name_full": "Holden v. the State",
+    "attorneys": "Rickie L. Brown, for appellant., Jack O. Partain III, District Attorney, Kermit N. McManus, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b629-9\">\n    76514.\n   </docketnumber><parties id=\"Accn\">\n    HOLDEN v. THE STATE.\n   </parties><br><citation id=\"b629-10\">\n    (370 SE2d 847)\n   </citation>",
+    "citations": [
+        "370 S.E.2d 847",
+        "187 Ga. App. 597"
+    ],
+    "opinions": [
+        {
+            "author_str": "Carley",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7146.0,
+            "opinion_text": "\n187 Ga. App. 597 (1988)\n370 S.E.2d 847\nHOLDEN\nv.\nTHE STATE.\n76514.\nCourt of Appeals of Georgia.\nDecided June 21, 1988.\nRickie L. Brown, for appellant.\nJack O. Partain III, District Attorney, Kermit N. McManus, Assistant District Attorney, for appellee.\nCARLEY, Judge.\nAppellant was tried before a jury and found guilty of the offense of child molestation. Appellant appeals from the judgment of conviction and sentence entered on the jury's verdict.\n1. A witness for the State was allowed to give certain testimony *598 over appellant's relevancy objection. The trial court's failure to sustain the objection so as to disallow the testimony is enumerated as error.\n\"An objection to evidence on the ground that it is irrelevant... is `entirely too vague and general to present any question for determination by the trial court, and the overruling of this objection did not constitute reversible error. [Cits.]' [Cit.]... [Appellant also] argues that the testimony should not have been admitted on grounds not raised at trial. `\"A reason why evidence should not be admitted will not be considered on appeal unless the reason was urged below.\" [Cits.]' [Cit.]\" Croom v. State, 165 Ga. App. 676, 677 (3) (302 SE2d 598) (1983).\n2. The step-sister of the victim was allowed to testify that she too had been sexually molested by appellant. This testimony was admitted for the limited evidentiary purpose of showing appellant's course of conduct and his common design of child abuse. Over appellant's hearsay objection, a child counselor was then allowed to testify that the victim's step-sister had told her of having been molested by appellant. Appellant enumerates as error the trial court's admission into evidence of the counselor's testimony.\nUnder the authority of OCGA \u00a7 24-3-16, it has been held that prior consistent out-of-court statements of the victim concerning the sexual abuse suffered at the hands of the defendant are not susceptible to a hearsay objection. See Reynolds v. State, 257 Ga. 725 (1) (363 SE2d 249) (1988); Lovell v. State, 185 Ga. App. 521, 522 (2) (365 SE2d 133) (1988). See also Cuzzort v. State, 254 Ga. 745 (334 SE2d 661) (1985). It is undisputed that the victim's step-sister was under the age of fourteen and that she was available for the purposes of cross-examination. Appellant does not contest the trial court's finding that the circumstances surrounding the statement which was made by the victim's step-sister to the counselor provided \"sufficient indicia of reliability.\" Accordingly, the only issue for determination is whether OCGA \u00a7 24-3-16 extends to out-of-court statements concerning sexual abuse that have been made by a child under the age of 14 who is not the actual victim in the case.\n\"When a statute is plain and susceptible of but one natural and reasonable construction, the court has no authority to place a different construction upon it but must construe it according to its terms. [Cits.]\" Richmond County Bd. of Tax Assessors v. Ga. R. Bank &amp;c. Co., 242 Ga. 23, 24 (247 SE2d 761) (1978). By its own terms, the hearsay exception created by OCGA \u00a7 24-3-16 applies to statements made by \"a child under the age of 14 years.\" Nowhere in the text of the statute itself or in its preamble did the legislature implicitly or explicitly limit the statute's applicability to those statements which have been made by a child who is under the age of 14 and who is also the *599 victim in the criminal action. Accordingly, we hold that the hearsay exception that is created by OCGA \u00a7 24-3-16 applies to the out-of-court statements made by a child under the age of 14 concerning the sexual abuse that he or she may have suffered, regardless of whether or not the child is the actual victim in the case. It follows that appellant's enumeration is without merit.\nJudgment affirmed. Deen, P. J., and Sognier, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1293958
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Rape"
+}

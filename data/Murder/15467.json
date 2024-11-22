@@ -1,0 +1,46 @@
+{
+    "id": 1703562,
+    "judges": "Hendry, C.J., and Pearson and Hubbart",
+    "date_filed": 236995200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-acurse",
+    "case_name_short": "Acurse",
+    "case_name": "State v. Acurse",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "347 So. 2d 828"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n347 So.2d 828 (1977)\nSTATE of Florida, Appellant,\nv.\nSandy ACURSE, Appellee.\nNo. 76-516.\nDistrict Court of Appeal of Florida, Third District.\nJuly 6, 1977.\n*829 Richard E. Gerstein, State Atty., for appellant.\nAlan E. Weinstein, Miami Beach, for appellee.\nBefore HENDRY, C.J., and PEARSON and HUBBART, JJ.\nHUBBART, Judge.\nThis is a criminal prosecution in which the defendant was discharged from the cause on the ground that he was denied his right to speedy trial. The state appeals.\nThe question presented for review is whether a criminal defendant has been denied his right to a speedy trial under Fla.R. Crim.P. 3.191(a)(2)[1] when: (1) he expressly waives his speedy trial rights in writing and continues his case, (2) he later revokes such waiver and files an otherwise valid and bona fide demand for a speedy trial serving a copy of same on the state, (3) he is not brought to trial within sixty days after the filing of such speedy trial demand, (4) he is continuously available for trial during the above sixty day period, and (5) the state does not obtain a court order extending the sixty day speedy trial limit on a showing of exceptional circumstances. We hold that under these circumstances the defendant has been denied his right to a speedy trial and should be discharged from the cause under Fla.R.Crim.P. 3.191(a)(2). We, accordingly, affirm.\nOn June 28, 1974, the appellee Sandy Acurse was arrested and charged with certain criminal offenses which subsequently led to the filing of an information charging him and several co-defendants with possession of a controlled substance, sale or delivery of a controlled substance, conspiracy to commit a felony, and assault with intent to commit murder, before the Circuit Court of the Eleventh Judicial Circuit of Florida. There followed a period of delay which is *830 unexplained in the record filed in this court by the state. On May 19, 1975, the defendant filed a written waiver of his speedy trial rights. Subsequent thereto, he moved for a continuance which was granted by the court.\nOn November 10, 1975, the case was called for trial. The defense announced ready for trial, but the state was not ready and the case was continued at the request of the state. At that time, the defendant objected to the continuance and advised both the court and counsel for the state that he intended to file a demand for speedy trial.\nOn November 14, 1975, the defendant filed with the court a demand for speedy trial and served a copy thereof upon the state under Fla.R.Crim.P. 3.191(a)(2) in which he revoked all prior waivers of speedy trial. The state at no time objected to the filing of this demand, or moved to strike such demand, or requested an extension of the sixty day speedy trial period triggered by the demand upon a showing of exceptional circumstances. The case, instead, lay dormant for over sixty days during which time the defendant was not brought to trial although he was continuously available during that time for such purpose.\nOn January 19, 1976, the defendant filed a motion for discharge for failure to accord him a speedy trial under Fla.R.Crim.P. 3.191(a)(2) which the trial court granted. This appeal by the state follows.\nThe law is well-settled that a defendant may properly file a demand for speedy trial under Fla.R.Crim.P. 3.191(a)(2) subsequent to the filing of an indictment or information so long as he has a bona fide desire to go to trial, has diligently investigated his case and is prepared for trial. State ex rel. Hanks v. Goodman, 253 So.2d 129 (Fla. 1971). If the defendant is not brought to trial within sixty days thereafter and is continuously available for trial during that time, he must be finally discharged from the cause, unless the state has sought and obtained a court order extending the sixty day speedy trial limit upon a showing of exceptional circumstances. State ex rel. Fouraker v. McCauley, 258 So.2d 453 (Fla. 1st DCA 1972); Fla.R. Crim.P. 3.191(a)(2), (f); 9 Fla.Jur. \"Criminal Law\" \u00a7 381 (1972). A demand for speedy trial revokes any prior express or implied waivers of speedy trial. State ex rel. Butler v. Cullen, 253 So.2d 861 (Fla. 1971). See also Rubiera v. Dade County ex rel. Benitez, 305 So.2d 161 (Fla. 1974).\nIn the instant case, the defendant filed a demand for speedy trial and served a copy thereof on the state. The state made no effort to object to or strike the demand as not being valid or bona fide nor did it move the court for an extension of the sixty day speedy trial limit upon a showing of exceptional circumstances. Instead the state let the case remain dormant for sixty days during which time the defendant was continuously available for trial. Upon the state's failure to bring the defendant to trial within sixty days subsequent to the filing of the speedy trial demand, the trial court had no alternative under the law but to discharge the defendant.\nAffirmed.\nNOTES\n[1]  \"Speedy Trial Upon Demand. Except as otherwise provided, and subject to the limitations imposed under section (c) hereof, every person charged with a crime by indictment or information shall upon demand filed with the court having jurisdiction and upon service of a copy of such demand upon the prosecuting attorney be brought to trial within 60 days, unless the State is granted a continuance because of exceptional circumstances as defined in this Rule, and if not brought to trial within such period of time following such demand shall upon motion timely filed with the court and served on the prosecuting attorney be forever discharged from the crime; provided, the court before granting such motion shall ascertain that such person has been continuously available for trial during said period of time. The time period established by this section shall commence when such demand has been properly filed and served.\"\n\n",
+            "ocr": false,
+            "opinion_id": 1703562
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

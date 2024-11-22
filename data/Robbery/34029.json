@@ -1,0 +1,47 @@
+{
+    "id": 6155801,
+    "judges": null,
+    "date_filed": 885254400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-williams",
+    "case_name_short": null,
+    "case_name": "People v. Williams",
+    "case_name_full": "The People of the State of New York v. Steven Williams",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "246 A.D.2d 612",
+        "667 N.Y.S.2d 294"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Starkey, J.), rendered March 18, 1996, convicting him of grand larceny in the fourth degree, criminal possession of stolen property in the fourth degree, criminal mischief in the fourth degree, and unauthorized use of a vehicle in the third degree, upon a jury verdict, and imposing sentence.\n*613Ordered that the judgment is affirmed.\nIn the early morning hours of July 6, 1995, the defendant was arrested at a gas station in possession of an automobile that had been stolen from a parking space a few blocks away. Contrary to the defendant\u2019s contention, the trial court properly admitted evidence of his prior conviction involving the theft of an automobile to prove his intent to steal the automobile and his knowledge that it was stolen (see, People v Molineaux, 168 NY 264, 293; People v Polizzi, 150 AD2d 616). Furthermore, the defendant\u2019s objection to the alleged failure of the prosecutor to file a special information with the indictment was rendered academic when the trial court, with both parties\u2019 consent, reduced the felony conviction for unauthorized use of a vehicle in the second degree (see, Penal Law \u00a7 165.06) to the misdemeanor of unauthorized use of a vehicle in the third degree (see, Penal Law \u00a7 165.05).\nViewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]). Miller, J. P., O\u2019Brien, Copertino and McGinity, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6021400
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6012500,
+    "judges": null,
+    "date_filed": 475372800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-brody",
+    "case_name_short": "Brody",
+    "case_name": "People v. Brody",
+    "case_name_full": "The People of the State of New York v. Mark Brody",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "107 A.D.2d 939"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal from a judgment of the County Court of Albany County (Harris, J.), rendered January 13, 1983, convicting defendant upon his plea of guilty of the crime of criminal possession of a controlled substance in the fourth degree.\nOn this appeal, defendant challenges the trial court\u2019s denial of his motion to suppress the controlled substances (LSD and marihuana) which were found at his apartment pursuant to a search warrant, and which formed the basis of the charges brought against him. Specifically, defendant contends that probable cause did not exist on which to base the issuance of the search warrant. A review of the record reveals that this contention lacks merit.\nOn August 6, 1982, Colonie Police Detective David McCall applied to a Colonie Town Justice for the search warrant in question. In his application, Detective McCall stated that three confidential informants had observed defendant in possession of quantities of LSD and marihuana. He further detailed that informant No. 1 had been with defendant when he had purchased over 2,000 \u201chits\u201d of LSD. Informant No. 2 had recently purchased several pounds of marihuana from defendant and had observed defendant to be in possession of large quantities of LSD. Informant No. 3 was with defendant on August 6, 1982 at defendant\u2019s apartment at 1151 Troy-Schenectady Road in the Town of Colonie (the premises to be searched), and had there observed defendant to be in possession of 200 \u201chits\u201d of LSD and over one-half pound of marihuana. Detective McCall also submitted a four-page affidavit from informant No. 1 in which the informant described accompanying defendant on trips to New Paltz and New York City, where defendant had purchased quantities of marihuana and LSD and had then brought them back to the Town of Colonie. Based on this information, the Colonie Town Justice issued the search warrant which led to the search of defendant\u2019s apartment and, ultimately to the conviction appealed from.\nWe cannot agree with defendant\u2019s contention that his conviction must be reversed because the search warrant was issued for less than probable cause, thereby violating the requirements of Aguilar v Texas (378 US 108) (see People v Brown, 95 AD2d 569, 572). We hold that the two-pronged test of Aguilar was satisfied here, i.e., (1) the veracity of the informants was established and *940(2) there was a reliable factual basis for the informants\u2019 information and conclusions, that is, there was probable cause to believe that illegal substances would be found in defendant\u2019s apartment.\nFirst, as to the reliability of the informants, informant No. 1 was the author of a signed statement, described above, on which was printed a warning that false statements could lead to prosecution for perjury. It has been held that such a statement, in this context, is the equivalent of an oath or affirmation (People v Sullivan, 56 NY2d 378, 383) and \u201cmay be relied upon by a magistrate when determining probable cause\u201d (id., at p 384).\nInformant No. 2\u2019s veracity was also established in that his statement included the admission that he had recently purchased marihuana from defendant, thereby himself admitting to a crime. Such admissions of crime \u201ccarry their own indicia of credibility \u2014 sufficient at least to support a finding of probable cause to search\u201d (People v Wolzer, 41 AD2d 679, 681; accord People v Davis, 93 AD2d 970, 971).\nInformant No. 3\u2019s reliability was similarly established by his speaking against his penal interests. The record discloses that he had agreed to provide the information needed for the search warrant pertaining to defendant\u2019s apartment in exchange for leniency in police prosecution of other charges pending against him, thereby admitting his guilt of those other charges. Further, the statements of the three informants confirmed and verified each other by their reiteration of defendant\u2019s extensive involvement with illegal drugs (see People v Wheatman, 29 NY2d 337, 345, cert den sub nom. Marcus v New York, 409 US 1027; People v Duncan, 57 AD2d 638, 639).\nThe second prong of the Aguilar test, i.e., the reliability of the information, was also established. Each informant described his own firsthand observation of defendant in possession of illegal drugs. Accordingly, the magistrate had before him not mere rumors, but eyewitness accounts to confirm that illegal drugs would be present at defendant\u2019s apartment. This was sufficient to establish the reliability of the allegations and to furnish probable cause on which to issue the search warrant (People v Brown, 40 NY2d 183, 186; People v Bowers, 92 AD2d 669, 670). We conclude that the search warrant was properly issued and that the evidence seized as a result thereof was correctly ruled admissible.\nDefendant\u2019s second contention is that his sentence of 4 to 12 years was harsh and excessive. We cannot agree. At the time defendant was arrested for the instant crime, he was serving a *941term of five years\u2019 probation following his adjudication as a youthful offender upon his guilty plea to a charge of third degree burglary. It is apparent from the record presented here that further leniency would be wasted on defendant and that the term of incarceration imposed by the sentencing court was appropriate.\nJudgment affirmed. Kane, J. P., Main, Casey and Weiss, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5874780
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

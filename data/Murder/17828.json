@@ -1,0 +1,46 @@
+{
+    "id": 583005,
+    "judges": null,
+    "date_filed": 706147200000,
+    "date_filed_is_approximate": false,
+    "slug": "james-t-kiles-jr-v-martin-makel-warden",
+    "case_name_short": null,
+    "case_name": "James T. Kiles, Jr. v. Martin Makel, Warden",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "963 F.2d 373"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/963/963.F2d.373.92-1019.html",
+            "author_id": null,
+            "opinion_text": "963 F.2d 373\n    NOTICE: Sixth Circuit Rule 24(c) states that citation of unpublished dispositions is disfavored except for establishing res judicata, estoppel, or the law of the case and requires service of copies of cited unpublished dispositions of the Sixth Circuit.James T. KILES, Jr., Petitioner-Appellant,v.Martin MAKEL, Warden, Respondent-Appellee.\n    No. 92-1019.\n    United States Court of Appeals, Sixth Circuit.\n    May 18, 1992.\n    \n      Before RYAN, BOGGS and BATCHELDER, Circuit Judges.\n    \n    ORDER\n    \n      1\n      This case has been referred to a panel of the court pursuant to Rule 9(a), Rules of the Sixth Circuit.   Upon examination, this panel unanimously agrees that oral argument is not needed.   Fed.R.App.P. 34(a).\n    \n    \n      2\n      James Kiles, a Michigan inmate, filed a petition for habeas corpus relief under 28 U.S.C. &#167; 2254 in which he challenged the constitutionality of a two count 1987 conviction for uttering and publishing.   The matter was referred to a magistrate judge who recommended that the petition be dismissed.   The district court adopted the recommendation over Kiles's objections and this appeal followed.   The parties have briefed the issues, Kiles proceeding without counsel.\n    \n    \n      3\n      Upon consideration, we find no error in the proceedings on review.   Kiles contends that his conviction for uttering and publishing violates Fifth Amendment double jeopardy proscriptions.   Evidence of this misconduct was used in an earlier trial in which Kiles was accused of murder;  the conduct was introduced to prove Kiles's motive.   The jury returned a guilty verdict to manslaughter only and Kiles claims that a second prosecution for the uttering and publishing is now precluded.\n    \n    \n      4\n      The United States Supreme Court recently held that the use of evidence at trial only for the purpose of demonstrating the defendant's mental state does not preclude a subsequent prosecution for that misconduct.  United States v. Felix, --- S.Ct. ----, 60 U.S.L.W. 4259 (March 25, 1992).   We find Felix controlling of the issue presented by Kiles.\n    \n    \n      5\n      Accordingly, the district court's judgment is affirmed.   Rule 9(b)(3), Rules of the Sixth Circuit.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 583005
+        }
+    ],
+    "court_short_name": "Sixth Circuit",
+    "court_full_name": "Court of Appeals for the Sixth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

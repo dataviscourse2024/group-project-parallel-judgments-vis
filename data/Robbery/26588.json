@@ -1,0 +1,46 @@
+{
+    "id": 4620202,
+    "judges": null,
+    "date_filed": 1557964800000,
+    "date_filed_is_approximate": false,
+    "slug": "israel-j-wilson-v-state-of-florida",
+    "case_name_short": null,
+    "case_name": "Israel J. Wilson v. State of Florida",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "271 So. 3d 1237"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 3.0,
+            "download_url": "https://edca.1dca.org/DCADocs\\2018/1774/181774_1284_05162019_10302709_i.pdf",
+            "author_id": null,
+            "opinion_text": "          FIRST DISTRICT COURT OF APPEAL\n                 STATE OF FLORIDA\n                  _____________________________\n\n                          No. 1D18-1774\n                  _____________________________\n\nISRAEL J. WILSON,\n\n    Appellant,\n\n    v.\n\nSTATE OF FLORIDA,\n\n    Appellee.\n                  _____________________________\n\nOn appeal from the Circuit Court for Duval County.\nTatiana Salvador, Judge.\n\n                           May 16, 2019\n\n\nPER CURIAM.\n\n      Israel Wilson (\u201cWilson\u201d) appeals the denial of his motion for\npost-conviction relief pursuant to Florida Rule of Criminal\nProcedure 3.850. He claims ineffective assistance of counsel in\nfailing to file a motion to suppress witness identification, to object\nto improper closing arguments, and to request a jury instruction\nthat he was proceeding to trial with the aid of medication to treat\nhis mental disorders. Because Wilson\u2019s claims are meritless, we\naffirm.\n\n      In July 2010, Wilson was convicted of burglary with an\nassault or battery, attempted robbery, robbery, and fraudulent use\nof a credit card. The trial court sentenced him to concurrent terms\nof life in prison for the burglary offense, ten years in prison each\nfor the attempted robbery and the fraudulent credit card use\n\foffenses, and thirty years in prison for the robbery offense. He was\ndesignated a habitual felony offender and a prison releasee\nreoffender. His judgment and sentence were per curiam affirmed\non December 8, 2011. Wilson v. State, 75 So. 3d 728 (Fla. 1st DCA\n2011) (table decision).\n\n     To succeed on claims of ineffective assistance of counsel,\nWilson must show that his trial counsel\u2019s performance was\ndeficient and that such deficient performance prejudiced the\ndefense so as to deprive him of a fair trial. See Strickland v.\nWashington, 466 U.S. 668, 687 (1984). To show deficiency, he must\ndemonstrate that counsel\u2019s representation fell below an objective\nstandard of reasonableness based on professional norms. See\nOdegaard v. State, 137 So. 3d 505, 507 (Fla. 2d DCA 2014). To\nsatisfy the prejudice prong, Wilson must show that, but for the\nerror, there was a reasonable probability the outcome would have\nbeen different. Jones v. State, 998 So. 2d 573, 584 (Fla. 2008).\n\n     Regarding ground one, failure to file a motion to suppress out-\nof-court and in-court identifications, the trial court attached\nportions of the record to show that this claim was without merit.\nCounsel cannot be deemed ineffective if the motion to suppress\nwould have been meritless. See Johnston v. State, 63 So. 3d 730,\n740 (Fla. 2011).\n\n     On ground two, failure to object to improper closing\narguments, in order to prevail on an ineffective assistance of\ncounsel claim for failing to object to comments made during closing\narguments, Wilson must show that the comments were\nobjectionable and that there was no tactical reason for failing to\nobject. See Wickham v. State, 124 So. 3d 841, 860 (Fla. 2013);\nStephens v. State, 975 So. 2d 405, 420 (Fla. 2007). He must also\nshow that the comments were so prejudicial that they deprived\nhim of a fair trial. Stephens, 975 So. 2d at 420. Wilson fails to\ndemonstrate any deficiency of counsel in failing to object to the\nabove comments by the State. A review of the closing arguments\nshows that the comments were made in rebuttal to defense counsel\non the same subject; therefore, they were an \u201cinvited response\u201d and\nnot improper. See Walls v. State, 926 So. 2d 1156, 1166 (Fla.\n2006).\n\n\n                                 2\n\f     Finally, in his third ground, failure to request a jury\ninstruction to explain his use of psychotropic medication, the trial\ncourt properly dismissed this claim as untimely.           Wilson\u2019s\namended motion for post-conviction relief raising this claim was\nnot filed within two years of this Court\u2019s mandate. As he raised a\nnew claim rather than simply providing additional allegations to\nhis original two claims, the time requirements in Rule 3.850(b)\napplied to the amended motion. See Lanier v. State, 826 So. 2d\n460, 461-62 (Fla. 1st DCA 2002).\n\n    AFFIRMED.\n\nLEWIS, WINSOR, and M.K. THOMAS, JJ., concur.\n                _____________________________\n\n    Not final until disposition of any timely and\n    authorized motion under Fla. R. App. P. 9.330 or\n    9.331.\n               _____________________________\n\nIsrael J. Wilson, pro se, Appellant.\n\nAshley Moody, Attorney General, Tallahassee, for Appellee.\n\n\n\n\n                                 3\n\f",
+            "ocr": false,
+            "opinion_id": 4397455
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

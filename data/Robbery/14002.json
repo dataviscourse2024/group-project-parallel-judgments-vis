@@ -1,0 +1,46 @@
+{
+    "id": 1801959,
+    "judges": "Cope, C.J., and Green and Corti\u00e3\u0091as",
+    "date_filed": 1168992000000,
+    "date_filed_is_approximate": false,
+    "slug": "stanley-v-state",
+    "case_name_short": "Stanley",
+    "case_name": "Stanley v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "947 So. 2d 627"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n947 So.2d 627 (2007)\nDarren Jarrod STANLEY, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 3D06-1233.\nDistrict Court of Appeal of Florida, Third District.\nJanuary 17, 2007.\n*628 Darren Jarrod Stanley, in proper person.\nBill McCollum, Attorney General, and Richard L. Polin, Bureau Chief, for appellee.\nBefore COPE, C.J., and GREEN and CORTI\u00d1AS, JJ.\nPER CURIAM.\nDarren Jarrod Stanley appeals from the trial court's order summarily denying his motion to correct illegal sentence pursuant to Rule 3.800(a), Fla. R.Crim. P. We affirm the order because the motion was facially insufficient.\nOn August 13, 1997, the appellant was charged with committing an armed robbery and battery on a pregnant woman. On June 26, 1998, he entered a guilty plea and was sentenced to fifteen years in prison as a habitual felony offender and prison releasee reoffender. Stanley then filed the subject 3.800(a) motion and claimed that he was sentenced under the 1995 sentencing guidelines, which have since been deemed unconstitutional, see Heggs v. State, 759 So.2d 620 (Fla.2000). He also asserted that he should have been sentenced pursuant to the 1994 guidelines, which would have resulted in a recommended sentence five years lower than that imposed under the 1995 guidelines. A copy of the scoresheet was appended to the motion. The trial court summarily denied the motion without a hearing.\nIn its response, the State correctly cited at least two reasons why the trial court's summary denial of Stanley's motion was legally correct. First of all, as a matter of law, Stanley is not entitled to relief under Heggs because the charged offenses occurred on August 13, 1997. As explained by the Florida Supreme Court in Trapp v. State, 760 So.2d 924, 928 (Fla. 2000), \"Heggs challenges\" are not applicable to offenses committed after May 24, 1997.[1] Since Stanley's offenses occurred after the expiration of the window period and after the proper reenactment of the 1995 guidelines, it is clear the his Heggs challenge is facially insufficient.\nNext, where, as here, a habitual offender sentence is imposed for offenses committed after October 1988, the guidelines are irrelevant and inapplicable. See Parrish v. State, 780 So.2d 287, 288 (Fla. 3d DCA 2001)(\"For crimes committed on or after October 1, 1988, the sentencing guidelines do not apply to habitual offender sentences.\"). Thus, again, as a matter of law, Stanley's motion was facially insufficient because it did not aver facts that *629 would entitle him to relief under Heggs, since Heggs is inapplicable to a defendant sentenced as a habitual offender.\nThus, where as here, it was clear from the face of Stanley's motion that he was entitled to no relief as a matter of law, we affirm the trial courts summary denial of the same.\nAffirmed.\nNOTES\n[1]  In Trapp, the Supreme Court stated:\n\n[W]e hold that [the] window period for challenging the sentencing guidelines provisions amended in chapter 95-184, Laws of Florida, opened on October 1, 1995, when such amended guidelines provisions became effective, and closed on May 24, 1997, when chapter 97-97, Laws of Florida, reenacted the amendments contained in chapter 95-184 as part of the biennial adoption process. Stated another way, persons such as Trapp who are challenging a sentence imposed under the sentencing guidelines as amended by chapter 95-184 have standing to do so if the relevant criminal offense or offenses occurred on or after October 1, 1995, and before May 24, 1997.\nTrapp, 760 So.2d at 928.\n\n",
+            "ocr": false,
+            "opinion_id": 1801959
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

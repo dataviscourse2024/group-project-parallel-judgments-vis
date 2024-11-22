@@ -1,0 +1,46 @@
+{
+    "id": 5922396,
+    "judges": null,
+    "date_filed": 47606400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-rios",
+    "case_name_short": "Rios",
+    "case_name": "People v. Rios",
+    "case_name_full": "The People of the State of New York v. Raymond Rios",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "37 A.D.2d 734"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from an amended judgment of the Supreme Court, Kings County, rendered September 24, 1970, adjudging him guilty of violation of probation and resentencing him to a prison term of not more than four years upon a prior conviction of attempted burglary in the third degree, upon a guilty plea. Defendant is now incarcerated under this resentence. Judgment modified, on the law, by deferring imprisonment under the resentence until the termination of defendant\u2019s in-patient confinement as a narcotics addict pursuant to his certification as an addict on March 16,1970. As so modified, judgment affirmed. On June 24, 1969 defendant was sentenced to five years\u2019 probation by Mr. Justice Brownstein after he had pleaded guilty to attempted burglary in the third degree. On March 16, 1970 he pleaded guilty to possession of a dangerous drug (heroin) in the fourth degree, a misdemeanor, and was sentenced to the custody of the Narcotic Addiction Control Commission (NACC) for 36 months by Mr. Justice Kern, pursuant to section 208 of the Mental Hygiene Law. In September, 1970, while still confined as an in-patient by NACC, he was brought before Mr. Justice Brownstein for a hearing on the charge of violation of probation. After the hearing, at which the violation of probation was established by defendant\u2019s guilty plea and sentence for possession of heroin, Mr. Justice Brownstein revoked probation, imposed a prison sentence of up to four years, and committed defendant to the State Department of Correction. Defendant is now incarcerated under Mr. Justice Brown-stein\u2019s sentence. While we find no fault with the resentence imposed by Mr. *735Justice Brownstein, we believe defendant\u2019s immediate incarceration thereunder was without authority in law. Prior to 1967, section 2188 of the Penal Law and section 470-a of the Code of Criminal Procedure provided that imprisonment directed by a judgment may not be interrupted after the imprisonment has commenced. Those sections were construed as expressly prohibiting a court from interrupting a prisoner\u2019s sentence after his imprisonment has begun (People ex rel. Rainone v. Murphy, 1 N Y 2d 367). (While Bainone was subsequently overruled insofar as it equated interruption by the Parole Board with interruption by a court [People ex rel. Petite v. Follette, 24 N Y 2d 60], it appears still to be good law insofar as it bars interruption by a court.) In People v. Michels (30 A D 2d 666) we held that this rule applied where incarceration in an NACC facility was interrupted by imprisonment in a State prison under a subsequent conviction and sentence; and we there ordered the prisoner\u2019s transfer from the State prison to the custody of NACC for service of the balance of his sentence in its custody. The rationale of that holding was that confinement in an NACC facility was imprisonment under a final judgment of conviction. In 1967 section 470-a of the Code of Criminal Procedure and section 2188 of the Penal Law were repealed. However, the provision against interruption of a sentence of imprisonment was transferred, in substantially the same form, to section 482 of the Code of Criminal Procedure and that statute is still on the books. Hence, the reasoning and holdings in Bainone and Michels are still viable. It is true that in the present case the first sentence was the sentence of probation imposed by Mr. Justice Brownstein on June 24, 1969, However, the subsequent sentence to NACC, by Mr. Justice Kern, was not an illegal interruption of that first sentence because the first sentence was not a sentence of imprisonment, and it is only interruptions of imprisonment that are prohibited (see Code Crim. Pro., \u00a7 482; People ex rel. Rainone v. Murphy, supra; People v. Michels, supra). On the other hand, the sentence to NACC was a sentence of imprisonment (People v. Michels, supra); and neither a court nor NACC, itself, had the power to interrupt it (People v. Michels, supra). Hence, the interruption of the NACC sentence by the commitment of defendant to prison for immediate service of the prison sentence imposed by Mr. Justice Brownstein was unauthorized. Rabin, P. J., Munder, Gulotta, Brennan and Benjamin, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5780233
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

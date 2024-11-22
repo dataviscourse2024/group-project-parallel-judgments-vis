@@ -1,0 +1,46 @@
+{
+    "id": 6546252,
+    "judges": "Gray",
+    "date_filed": -2824588800000,
+    "date_filed_is_approximate": false,
+    "slug": "commonwealth-v-darling",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Darling",
+    "case_name_full": "Commonwealth v. Benjamin F. Darling",
+    "attorneys": "B. F. Brickett, for Darling., G. Marston, Attorney General, for the Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Several counts for similar offences may be joined in one indictment.</p> <p>It is no misjoinder to charge in the same indictment, either in one or in several counts, one person with breaking and entering a building and stealing therein, and another person with receiving the goods stolen.</p>",
+    "summary": "Indictment found at May term 1879 of the Superior Court for the county of Essex, containing nine paragraphs, the first three of which were as follows: \u201c The jurors for the Commonwealth of Massachusetts, upon their oath present, that Albert E. Pemberton, late of Haverhill in said county of Essex, on the first day of February in the year of our Lord one thousand eight hundred and seventy-nine, and in the night-time of said day, at Haverhill, in the county of Essex aforesaid, the building of one George H. Nichols, James M. Nichols and George H. Leighton, situated in said Haverhill, the said building being then and there occupied by said George H. Nichols, James M. Nichols and George H. Leighton as a shop, feloniously and burglariously did break and enter with intent then and there in said building feloniously and burglariously to commit the crime of larceny, against the peace of the Commonwealth aforesaid, and contrary to the form of the statute in such' case made and provided. \u201cAnd the jurors aforesaid, upon their oath aforesaid, do further present, that said Albert R. Pemberton, on the first day of February, in the year aforesaid, at said Haverhill, six dozen sheep roans, of the value of five dollars each dozen, and five hundred and sixty pairs of soles, of the value of ten cents each pair, of the goods and chattels of said George H. Nichols, James M. Nichols and George H. Leighton, and then and there in the possession of said George H. Nichols, James M. and Leighton being found, in the building of said George H. Nichols, James M. and Leighton, in said Haverhill, then and there feloniously did steal, take and carry away in the building aforesaid, against the peace of the Commonwealth aforesaid, and contrary to the form of the statute in such case made and provided. \u201c And the jurors aforesaid, upon their oath aforesaid, do further present, that Warren R. Goodwin and Benjamin F. Darling afterwards, on the said first day of February in the year aforesaid, at said Haverhill, the goods and chattels aforesaid, so as aforesaid feloniously stolen, taken and carried away, feloniously did receive and have, and did then and there aid in the concealment of the same, the said Goodwin and Darling each then and there well knowing the said goods and chattels to have been feloniously stolen, taken and carried away, against the peace of the Commonwealth aforesaid and contrary to the form of the statute in such case made and provided.\u201d The fourth, fifth and sixth paragraphs of the indictment were respectively like the first, second and third, except in laying the ownership and the possession of the building entered and of the goods stolen in Ira O. Sawyer and Arthur B. Priest. And the seventh, eighth and ninth paragraphs were similar, except in alleging such ownership and possession to have been in Charles O. McLean, and the offences to have been committed on March 1, 1879. Pemberton pleaded guilty; and Darling, before the jury were empanelled, moved to quash the indictment for the following reasons: \u201c 1st. Because there is a misjoinder of counts therein 2d. Because there is a misjoinder of offences therein.\u201d Rockwell, J. overruled the motion, and allowed a bill of exceptions, tendered by Darling, which stated that \u201c Goodwin and Darling were then tried, and a verdict of guilty was returned against them upon the sixth and ninth counts.\u201d",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Nov. 5, 1879.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "129 Mass. 112"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gray",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGray, C. J.\nIt is immaterial whether this indictment is treated, as in the bill of exceptions, as containing nine counts; or, as appears to have been the intention of the pleader, .as containing three counts only, each consisting of three paragraphs or allegations, alleging respectively a breaking and entering, a stealing, and a receiving of the goods stolen. See Commonwealth v. Glover, 111 Mass. 395; Commonwealth v. Cohen, 120 Mass. 198. In either view, a majority of the court is of opinion that it is conclusively established by authority that there is no misjoinder, either of offences or of counts.\nIn this Commonwealth, several counts for similar offences whether misdemeanors or felonies, may be joined in one indict ment. Pettes v. Commonwealth, 126 Mass. 242, 245. A thief and a receiver of goods stolen may be indicted together. Commonwealth v. Adams, 7 Gray, 43. In an indictment for breaking and entering a building, with intent to steal, it is usual, though not necessary, to allege an actual stealing therein; and if one person is charged both with breaking and entering and with stealing, he may be convicted and sentenced for either offence, or, if the two offences are charged in separate counts and are proved to be distinct, for both. Crowley v. Commonwealth, 11 Met. 575. Jennings v. Commonwealth, 105 Mass. 586.\nIf one p.erson breaks and enters a building and steals therein, and another person takes no part in the transaction until after the breaking has been accomplished, but participates in the subsequent stealing, each may be convicted and sentenced accordingly, the one for the breaking and entering, and the other for the stealing, under an indictment which charges both defendants with having jointly committed both offences. Stark. Crim. Pl. (2d ed.) 38, 44. Rex v. Butterworth, Russ. &amp; Ry. 520. Or they may be separately charged in one indictment, according to the actual facts of the case, the one with breaking and entering and\n*115stealing, and the other with stealing only, or with receiving the goods stolen. Rex v. Hartall, 7 Car. &amp; P. 475. Rex v. Austin, 7 Car. &amp; P. 796. Commonwealth v. Hills, 10 Cush. 530, 533.\n\nExceptions overruled.\n\n",
+            "ocr": true,
+            "opinion_id": 6419983
+        }
+    ],
+    "court_short_name": "Massachusetts Supreme Judicial Court",
+    "court_full_name": "Massachusetts Supreme Judicial Court",
+    "court_type": "S",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 6183870,
+    "judges": null,
+    "date_filed": -719366400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-mandelbaum",
+    "case_name_short": "Mandelbaum",
+    "case_name": "People v. Mandelbaum",
+    "case_name_full": "The People of the State of New York v. Jack Mandelbaum",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "271 A.D.2d 1021"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment of the County Court, Kings County, convicting defendant of the crime of robbery in the first degree, unanimously affirmed. No opinion. Present \u2014 Lewis, P. J., Hagarty, Carswell, Johnston and Adel, JJ. [See 272 App. Div. 824.]\n",
+            "ocr": true,
+            "opinion_id": 6049936
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 3280005,
+    "judges": "Henderson",
+    "date_filed": -1154649600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-carson",
+    "case_name_short": "Carson",
+    "case_name": "People v. Carson",
+    "case_name_full": "The PEOPLE, Respondent, v. ROBERT C. CARSON, Appellant",
+    "attorneys": "William I. 0 \u2019Shaughnessy for Appellant., U. S. Webb, Attorney-General, and Bayard Rhone for Respondent.",
+    "nature_of_suit": null,
+    "posture": "APPEAL from a judgment of the Superior Court of Los Angeles County and from an order denying a new trial. Fletcher Bowron, Judge. Affirmed.\n\nThe facts are stated in the opinion of the court.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b362-8\">\n    [Crim. No. 2343.\n   </docketnumber><court id=\"AkXS\">\n    Second Appellate District, Division One.\n   </court><decisiondate id=\"AsF\">\n    May 31, 1933.]\n   </decisiondate><br><parties id=\"b362-10\">\n    THE PEOPLE, Respondent, v. ROBERT C. CARSON, Appellant.\n   </parties><br><attorneys id=\"b363-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"329\"> \n     *329\n     </span>\n    William I. 0 \u2019Shaughnessy for Appellant.\n   </attorneys><br><attorneys id=\"b363-5\">\n    U. S. Webb, Attorney-General, and Bayard Rhone for Respondent.\n   </attorneys>",
+    "citations": [
+        "22 P.2d 578",
+        "132 Cal. App. 328"
+    ],
+    "opinions": [
+        {
+            "author_str": "Henderson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The defendant was charged by an information with the offense of robbery. He was tried and found guilty by a jury of robbery in the first degree. This appeal is taken from the judgment and the order denying his motion for a new trial. The testimony shows that on the morning of May 6, 1932, at the hour of 9 o'clock the defendant and one Curtis, unmasked and armed with automatic revolvers, entered the Auto-Bank, an automobile loan company in the city of Los Angeles, where the defendant held up and robbed the credit manager, W.D. Adams, of $1800. The robbery, which required from three to five minutes for its consummation, occurred in the presence of the other officers and employees of the company, who were at the same time covered by Curtis. The latter, who was arrested, convicted and confined in the state penitentiary several months prior to the apprehension of the defendant, was the only witness called to testify in his behalf. During the course of his direct testimony he denied the participation of the defendant in the robbery and insisted that one Cline was his confederate in the commission of the offense.\n[1] On cross-examination for the purpose of laying a foundation for impeachment, the witness was asked by the deputy district attorney whether he had not written a certain letter from the penitentiary to Adams stating that defendant was implicated in the offense. In response thereto the witness admitted the writing of the letter but denied that it contained the suggested statement. On the insistence of defendant's counsel that the letter be produced the attorney for the prosecution requested an adjournment until the following morning in order that the witness Adams might procure it from the files of his company. Subsequently, when the deputy district attorney was unable to produce the letter, the court emphatically and properly admonished the jury to entirely disregard any reference made to it or any inferences that might be drawn therefrom. *Page 330 \nIt is claimed that the failure to produce the purported letter, alleged by the deputy district attorney to implicate the defendant in the commission of the offense, was such serious misconduct as to deprive the defendant of a fair and impartial trial. There is no merit to the contention. Any harmful effect that could possibly follow from the alleged misconduct was subsequently removed by the court's timely and proper admonition to the jury. The rule is thus briefly stated in the case ofPeople v. Ho Kim You, 24 Cal.App. 451, at page 467 [141 P. 950, 957]: \". . . there is no presumption that misconduct will prevail with a jury to the detriment of a defendant in the face of an admonitory charge to disregard the same; but that, to the contrary, the presumption is ordinarily that the jury heeded the charge of the court.\"\n[2] It is further urged that the testimony identifying appellant as a participant in the robbery was so highly improbable that the evidence is insufficient to support the verdict. In view of the evidence, however, which discloses the positive testimony of an abundance of witnesses to sustain the jury's verdict, we are bound to leave their conclusion undisturbed. (People v. Willis, 70 Cal.App. 465\n[233 P. 812].)\nThe judgment and order are affirmed.\nConrey, P.J., and Houser, J., concurred.",
+            "ocr": false,
+            "opinion_id": 3278320
+        }
+    ],
+    "court_short_name": "California Court of Appeal",
+    "court_full_name": "California Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5124620,
+    "judges": "Carey, Herrmann, Wolcott",
+    "date_filed": -83462400000,
+    "date_filed_is_approximate": true,
+    "slug": "crawley-v-state",
+    "case_name_short": "Crawley",
+    "case_name": "Crawley v. State",
+    "case_name_full": "James A. CRAWLEY, Below v. STATE of Delaware, Below",
+    "attorneys": "Michael F. Tucker, Asst. Public Defender, Wilmington, for defendant below, appellant., Jay H. Conner, Deputy Atty. Gen., Wilmington, for plaintiff below, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "229 A.2d 839"
+    ],
+    "opinions": [
+        {
+            "author_str": "Herrmann",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHERRMANN, Justice.\nThe defendant was convicted of burglary in the fourth degree.1 Upon appeal, the conviction was affirmed. See Del., 219 A. 2d 158. Thereafter, under Superior Court Rule 35(a), Del.C.Ann.2, the defendant moved for correction of his sentence on the ground that it was illegal. Upon denial of that motion, the defendant appeals.\nThe defendant contends that his sentence was illegal because certain evidence used in the burglary case had previously been the subject of charges of obtaining money under false pretenses, to which he had pleaded guilty in the Municipal Court. In the earlier prosecution, the defendant was charged with attempting to cash certain checks that had been stolen from the premises which were the subject of the burglary charge. Asserting that the same evidence, i. e., possession of the stolen checks, was unlawfully used against him in both charges, the defendant points to 11 Del.C. \u00a7 5543 and claims violation of that Statute as the ground for his claim that his sentence on the burglary conviction was illegal.\nThe defendant\u2019s position is untenable. 11 Del.C. \u00a7 554 refers to the closely related offenses of obtaining property under false pretenses and larceny, the purpose *841of the Statute being to connect the two offenses so that a technical failure of proof as to the lesser offense will not result in an unjust acquittal. But the crime of burglary is not thus closely related to the offense of obtaining property under false pretenses, either by the basic nature of the offenses or by the Statute. Hence, the subsequent prosecution of the defendant for burglary, and sentence thereon, was not rendered illegal by \u00a7 554 because of the earlier prosecution involving the same evidence.\nAccordingly, the judgment below will be affirmed.\n\n. 11 Del.C. \u00a7 395 provides:\n\u201c\u00a7 395. Burglary in the fourth degree \u201cWhoever,\n\u201c1. With intent to commit a crime therein, whether such intent be executed or not, breaks and enters a building, or a room, or any part of the building; or,\n\u201c2. Being in any building, commits a crime therein and breaks out of the same,\n\u201cis guilty of burglary in the fourth degree and a felony, and shall be imprisoned not more than 5 years.\u201d\n\n\n. For the text of Superior Court Buie 35(a) see Priest v. State, Del., 227 A.2d 576, 578.\n\n\n. 11 Del.C. \u00a7 554 provides as follows:\n\u201c\u00a7 554. Obtaining property by false pretense; prosecution as barring larceny prosecution \u201cWhoever, by any false pretense, obtains from any other person any chattel, money or thing tlie subject of larceny, or any valuable thing, or any right or privilege, with intent to cheat or defraud any person of the same, shall be fined or imprisoned, or both, as the court deems proper under the circumstances; but, if upon the trial of any person for such offense, it shall be proved that he obtained the property in question, in any such manner as to amount in law to larceny, he shall not by reason thereof be entitled to be acquitted of such offense, and no such person tried for such offense shall be liable to be afterwards prosecuted for larceny upon the same facts.\u201d\n\n",
+            "ocr": true,
+            "opinion_id": 4943464
+        }
+    ],
+    "court_short_name": "Supreme Court of Delaware",
+    "court_full_name": "Supreme Court of Delaware",
+    "court_type": "S",
+    "court_jurisdiction": "Delaware, DE",
+    "crime_category": "Robbery"
+}

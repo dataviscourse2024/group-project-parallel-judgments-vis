@@ -1,0 +1,46 @@
+{
+    "id": 1679923,
+    "judges": "Per Curiam",
+    "date_filed": 350092800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-carey",
+    "case_name_short": "Carey",
+    "case_name": "State v. Carey",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 9,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "392 So. 2d 443"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n392 So.2d 443 (1981)\nSTATE of Louisiana\nv.\nEstelle CAREY.\nNo. 80-KA-2020.\nSupreme Court of Louisiana.\nFebruary 4, 1981.\n*444 William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., John M. Mamoulides, Dist. Atty., Abbott J. Reeves, W. C. Douglas Friederichsen, Asst. Dist. Attys., for plaintiff-appellee.\nJames S. Weidner, Jr., Tooley, Waldmann &amp; Weidner, Gretna, for defendant-appellant.\nPER CURIAM.\nOver the course of eight years, defendant, the mother of seven, received welfare payments and benefits to which she was not entitled, by misrepresenting that she was neither employed nor receiving financial support from the children's father. She was charged by bill of information with the theft of food stamps, medical benefits and currency (welfare payments) valued at $26,633.42 belonging to the State Department of Family Services. On January 21, 1980, the amount of the theft was amended downward to $10,170.42, and defendant pleaded guilty. Thereafter, the court sentenced her to serve five years at hard labor, but suspended sentence and placed defendant on five years' active probation, with the special conditions that she serve one year in parish prison, and make restitution to Family Services at the rate of $50 per week from the time of her release until the entire amount stolen ($10,170.42) was paid.\nOn appeal, defendant argues that the sentence is excessive and unsupported by any statement of reasons. The latter complaint requires that the sentence be set aside, for there has been no compliance with the directive of Louisiana Code of Criminal Procedure Article 894.1 that the court \"state for the record the considerations taken into account ... in imposing sentence.\" See, State v. Bourgeois, 388 So.2d 359 (La.1980); State v. Kenner, 384 So.2d 413 (La.1980).\nThe inadequacy of a statement of sentencing reasons has sometimes been overlooked on appeal where the record itself explains the sentence imposed. See, State v. Day, 391 So.2d 1147 (La.1980), No. 67,359; State v. Jones, 381 So.2d 416 (La. 1980). However, that is not the case here. Defendant, a 39-year-old mother of seven, is a first offender. Her poor educational background allows only limited employment opportunities: at present, she is earning $528 per month, a bare match for the most basic monthly expenses of her family. Thus, the schedule of payments established by the trial court is virtually unsupportable by defendant, and the additional sentence of imprisonment, a hardship in itself, can only contribute to defendant's difficulties in making full reimbursement.\nThe purpose of probation is to promote the defendant's rehabilitation by allowing him or her to reintegrate into society without confinement. State v. Clark, 391 So.2d 1174 (La.1980). It holds no promise and serves no purpose if the conditions are so harsh that the probationer is destined for failure at the outset.\nAccordingly, defendant's conviction is affirmed, but the sentence is set aside and the *445 case is remanded for resentencing in accordance with the views expressed herein.\nMARCUS and LEMMON, JJ., concur in the result.\n",
+            "ocr": false,
+            "opinion_id": 1679923
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

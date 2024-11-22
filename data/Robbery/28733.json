@@ -1,0 +1,46 @@
+{
+    "id": 5089224,
+    "judges": "Hurt",
+    "date_filed": -2670019200000,
+    "date_filed_is_approximate": true,
+    "slug": "mcintosh-v-state",
+    "case_name_short": "McIntosh",
+    "case_name": "McIntosh v. State",
+    "case_name_full": "Sylvester McIntosh v. State",
+    "attorneys": "U, T. Sims and John C. Randolph filed an able brief and argument for the appellant., J. U, Burts, Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1. Cattle-theft.\u2014Indictment charged the theft of \u201c four animals of the cattle species.\u201d Held, notwithstanding the more comprehensive definition given by lexicographers, that the word \u201c cattle \u201d in article 747 of the Penal Code means domesticated animals of the bovine genus, and does not include sheep, goats, etc. The indictment, therefore, sufficiently charges the theft of \u201c cattle \u201d as that offense is defined in said article, and the evidence must be limited to that kind of animals.</p> <p>2. Same\u2014Ownership\u2014Want of Consent.\u2014 Indictment for theft alleged the stolen cattle to be the property of W. C. and J. B. Hunter, and that the cattle were taken from their possession without the consent of the \u201c owner,\u201d -and with intent, etc,, to deprive the \u201cowner\u201d of the value, etc. Held, that the indictment is insufficient because it does not allege the want of the consent of each and both of the owners.</p> <p>3. Same \u2014 Charge of the Court.\u2014 In a trial for theft of property alleged to belong to \u201c W. C. and J. B. Hunter,\u201d the charge to the jury in effect warranted a conviction if the defendant took the property without the consent of either of the alleged owners. Held, error.</p>",
+    "headnotes": null,
+    "summary": "Appeal from, the District Court of Coleman. Tried below before the Hon. W. A. Blackburn. Ho matters of evidence are involved in the rulings. A term of two years in the penitentiary was the penalty assessed against the appellant.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "18 Tex. Ct. App. 284"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hurt",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHurt, Judge.\nThis conviction was for theft of cattle. The description given in the indictment of the animals alleged to be stolen is as follows: \u201cFour animals of the cattle species.\u201d\nBy tho Code it is provided that if any person shall steal any cattle he shall be punished by confinement in the penitentiary for a term of not less than two nor more than five years.\nThe question presented is, does this indictment allege the theft of cattle? If we should be governed by the meaning of the word cattle,\u2014 that given by Mr. Webster,\u2014 not only domestic animals of the bovine genus would be embraced in the Code, but also sheep, goats, horses, mules, asses and swine. These animals, however, are clearly not included in the word cattle, for our Code makes express provision for the punishment of the theft of those, and the punishments will be found different from that imposed for the theft of cattle. And, as all words and phrases used in the Codes are to be taken and understood in their usual acceptation in common language except, etc., the word cattle in article 747 of the Penal Code means domesticated animals of the bovine genus. In common parlance cattle means bulls, cows, steers, yearlings, and calves of the bovine genus; which from timeout of mind has been domesticated. And while it may be true that an \u201c animal of the cattle species \u201d may be such as does not come within the meaning of our domesticated animals \"of the bovine genus, still we hold that the allegation that the animal stolen was of the cattle species charged the theft of such cattle as is meant in article 747 of the Penal Code, *286and that, under such a description of the animals stolen, proof will be confined to some domesticated animals of the bovine genus, commonly known as cattle.\nThe indictment charges that the cattle were the property of W. \u00fc. and J. B. Hunter, and that they were taken from their possession without the consent of \u201cthe owner\u201d (singular). Appellant moved in arrest because the indictment does not negative the consent of the owners (plural).\nTo prove the want of consent of both owners there must first be an allegation that the property was taken against or without their consent. To charge that the property was taken without or against their consent would be bad, because it is not necessary for the defendant to have the consent of both of the owners. Mow, when there are more owners than one, the indictment must allege that the taking was without or against the consent of either. This may be done in different ways or by different allegations, but the want of consent of each owner in some manner must be charged. This is not done in this indictment, and it is, therefore, fatally defective.\nThe court charged the jury, in effect, that to convict they must believe from the evidence that the cattle were taken without the consent of W. 0. or J. B. Hunter. If the defendant had the consent of either W. 0. or J. B. Hunter to take the cattle, he would not be guilty. Hence the necessity of instructing the jury that, to convict, the State must prove that the defendant took the cattle without the consent of both W. C. and J. B. Hunter. A charge to this effect was submitted by counsel for defendant, and was refused by the court, and the defendant reserved his bill of exceptions. This was error for which the judgment must be reversed.\nMor is this error rendered harmless by proof of circumstances which tend to show that W. G. Hunter was dead at the time of the trial. He was living when the cattle were taken and for some time thereafter.\n\nReversed and dismissed.\n\n[Opinion delivered May 23, 1885.]\n",
+            "ocr": true,
+            "opinion_id": 4906571
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

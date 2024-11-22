@@ -1,0 +1,46 @@
+{
+    "id": 800178,
+    "judges": "Canby, Graber, Smith",
+    "date_filed": 1337299200000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-ronda-bird",
+    "case_name_short": null,
+    "case_name": "United States v. Ronda Bird",
+    "case_name_full": "UNITED STATES of America, Plaintiff-Appellee, v. Ronda Renee BIRD, Defendant-Appellant",
+    "attorneys": "Lori Anne Harper Suek, Assistant U.S., Leif Johnson, Assistant U.S., USBI-Office of the U.S. Attorney, Billings, MT, Laura Bissett Weiss, Assistant U.S., Office of the U.S. Attorney, Great Falls, MT, for Plaintiff-Appellee., Daniel Donovan, Esquire, Thompson, Potts & Donovan, P.C., Great Falls, MT, for Defendant-Appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted May 15, 2012.*",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b626-8\">\n    UNITED STATES of America, Plaintiff-Appellee, v. Ronda Renee BIRD, Defendant-Appellant.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b626-11\">\n    No. 11-30198.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b626-12\">\n    United States Court of Appeals, Ninth Circuit.\n   </court><br><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b626-13\">\n    Submitted May 15, 2012.\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n</otherdate><br><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b626-14\">\n    Filed May 18, 2012.\n   </decisiondate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b626-15\">\n    Lori Anne Harper Suek, Assistant U.S., Leif Johnson, Assistant U.S., USBI-Office of the U.S. Attorney, Billings, MT, Laura Bissett Weiss, Assistant U.S., Office of the U.S. Attorney, Great Falls, MT, for Plaintiff-Appellee.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b626-19\">\n    Daniel Donovan, Esquire, Thompson, Potts &amp; Donovan, P.C., Great Falls, MT, for Defendant-Appellant.\n   </attorneys><br><p data-order=\"7\" data-type=\"judges\" id=\"b626-21\">\n    Before: CANBY, GRABER, and M. SMITH, Circuit Judges.\n   </p><div class=\"footnotes\"><div class=\"footnote\" data-order=\"8\" data-type=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b626-16\">\n     The panel unanimously concludes this case is suitable for decision without oral argument.\n     <em>\n      See\n     </em>\n     Fed. R.App. P. 34(a)(2).\n    </p>\n</div></div>",
+    "citations": [
+        "473 F. App'x 594"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 2.0,
+            "download_url": "http://www.ca9.uscourts.gov/datastore/memoranda/2012/05/18/11-30198.pdf",
+            "author_id": null,
+            "opinion_text": "                                                                           FILED\n                            NOT FOR PUBLICATION                             MAY 18 2012\n\n                                                                        MOLLY C. DWYER, CLERK\n                     UNITED STATES COURT OF APPEALS                      U .S. C O U R T OF APPE ALS\n\n\n\n\n                             FOR THE NINTH CIRCUIT\n\n\n\nUNITED STATES OF AMERICA,                        No. 11-30198\n\n               Plaintiff - Appellee,             D.C. No. 4:10-cr-00102-SEH\n\n  v.\n                                                 MEMORANDUM *\nRONDA RENEE BIRD,\n\n               Defendant - Appellant.\n\n\n\n                    Appeal from the United States District Court\n                            for the District of Montana\n                     Sam E. Haddon, District Judge, Presiding\n\n                                                       **\n                              Submitted May 15, 2012\n\nBefore:        CANBY, GRABER, and M. SMITH, Circuit Judges.\n\n       Ronda Renee Bird appeals from the 37-month sentence imposed following\n\nher guilty-plea conviction for involuntary manslaughter, in violation of 18 U.S.C.\n\n\u00a7\u00a7 1153(a) and 1112(a). We have jurisdiction under 28 U.S.C. \u00a7 1291, and we\n\n\n\n\n          *\n             This disposition is not appropriate for publication and is not precedent\nexcept as provided by 9th Cir. R. 36-3.\n          **\n             The panel unanimously concludes this case is suitable for decision\nwithout oral argument. See Fed. R. App. P. 34(a)(2).\n\faffirm.\n\n      Bird contends that the government breached the plea agreement by failing to\n\nmove for a third point for acceptance of responsibility under U.S.S.G. \u00a7 3E1.1(b).\n\nUnder the terms of the plea agreement, the government was not obligated to move\n\nfor the third point if Bird acted in any way that was inconsistent with acceptance of\n\nresponsibility. The record reflects that the government had an adequate basis to\n\ndecline to move for the third point. Accordingly, it did not breach the plea\n\nagreement. See United States v. Cannel, 517 F.3d 1172, 1177 (9th Cir. 2008)\n\n(\"Because the government was obligated to move for the reduction only if [the\n\ndefendant] met the specified conditions, and because there is no suggestion that it\n\nacted based on unconstitutional or arbitrary motives, the government did not\n\nbreach the plea agreement by not recommending an adjustment for acceptance of\n\nresponsibility.\") (footnote omitted).\n\n      AFFIRMED.\n\n\n\n\n                                          2                                    11-30198\n\f",
+            "ocr": false,
+            "opinion_id": 800178
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

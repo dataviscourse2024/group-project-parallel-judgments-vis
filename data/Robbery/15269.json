@@ -1,0 +1,46 @@
+{
+    "id": 1557488,
+    "judges": "Ramirez, C.J., and Cope and Gersten",
+    "date_filed": 1269388800000,
+    "date_filed_is_approximate": false,
+    "slug": "singletary-v-state",
+    "case_name_short": "Singletary",
+    "case_name": "Singletary v. State",
+    "case_name_full": "Sammie SINGLETARY, Appellant, v. the STATE of Florida, Appellee",
+    "attorneys": "Sammie Singletary, in proper person., Bill McCollum, Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b729-7\">\n    Sammie SINGLETARY, Appellant, v. The STATE of Florida, Appellee.\n   </parties><br><docketnumber id=\"b729-10\">\n    No. 3D09-397.\n   </docketnumber><br><court id=\"b729-11\">\n    District Court of Appeal of Florida, Third District.\n   </court><br><decisiondate id=\"b729-13\">\n    March 24, 2010.\n   </decisiondate><br><attorneys id=\"b729-15\">\n    Sammie Singletary, in proper person.\n   </attorneys><br><attorneys id=\"b729-16\">\n    Bill McCollum, Attorney General, for appellee.\n   </attorneys><br><judges id=\"b729-17\">\n    Before RAMIREZ, C.J., and COPE and GERSTEN, JJ.\n   </judges>",
+    "citations": [
+        "30 So. 3d 675"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cope",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n30 So. 3d 675 (2010)\nSammie SINGLETARY, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 3D09-397.\nDistrict Court of Appeal of Florida, Third District.\nMarch 24, 2010.\nSammie Singletary, in proper person.\nBill McCollum, Attorney General, for appellee.\nBefore RAMIREZ, C.J., and COPE and GERSTEN, JJ.\nCOPE, J.\nThis is an appeal of an order denying a motion to correct illegal sentence under Florida Rule of Criminal Procedure 3.800(a). We affirm.\nFor present purposes we assume, without deciding, that the claim of defendant-appellant Sammie Singletary is cognizable under Rule 3.800(a). The defendant maintains that his twenty-year sentence for escape should not be consecutive to his ten-year sentence for burglary. He maintains that the trial court was led into error at his sentencing, and that under the circumstances of this case, a consecutive sentence for escape is permissible, but not required.\nThe following transpired at sentencing:\nTHE COURT: What are his guidelines?\n[ASA]: Twenty-two to 27 years, Judge, but as the PSI indicates, he well qualifies for habitual offender. By his own testimony he admitted 21 prior convictions. I have certified copies I would like to make part of the record. There are 20 felonies and one misdemeanor petty theft. That is the basis for his admission to 21 convictions. A lot of them are burglary. It is clear for [sic] the record and the safety of the community an enhanced sentence is warranted in this case.\nTHE COURT: I have to tell you, Mr. Singletary, if you are not a habitual felony offender then nobody is a habitual felony offender. Not even 30 years old and you have all those felony convictions?\n\nAs to Count I, burglary of a structure, I am going to sentence the defendant pursuant to provisions 775.084 as a habitual felony offender. As to Count I, burglary of a structure, I will sentence the defendant to ten years. Criminal *676 mischief, I will sentence him to time served. Battery on a police officer I will sentence him to ten years. Escape, I am going to sentence him to 30 years and the sentence is to run concurrent.\n\n[ASA]: I believe the escape count must be consecutive by law.\nTHE COURT: I don't think so. I think it is only\u0097\n[ASA]: I am pretty sure it has to be a consecutive sentence.\n[DEFENSE COUNSEL]: I believe it does, Judge, in all honesty.\nTHE COURT: If it has to be consecutive, fine. I will sentence him to 20 years, consecutive. It is not my intention to give any more than 30 years. With burglary and battery on a police officer those will run concurrent with one another. The 20 year sentence will run consecutive to the ten years.\n\n(Emphasis added).\nThe judge intended to impose an aggregate sentence of thirty years, and that is exactly what the defendant received. The defendant raised this issue on direct appeal and this court affirmed the sentencing order. Singletary v. State, 613 So. 2d 38 (Fla. 3d DCA 1993) (table). The defendant raised the issue in Singletary v. State, 753 So. 2d 749 (Fla. 3d DCA 2000), and this court denied relief.\nThe defendant is advised that if he files any further motions, petitions or appeals relating to this meritless claim, the court will refer this matter to the Department of Corrections for forfeiture of gain time.\nAffirmed.\n",
+            "ocr": false,
+            "opinion_id": 1557488
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

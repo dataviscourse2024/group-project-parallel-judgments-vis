@@ -1,0 +1,46 @@
+{
+    "id": 1849956,
+    "judges": "Grimes",
+    "date_filed": 185587200000,
+    "date_filed_is_approximate": false,
+    "slug": "lomax-v-state",
+    "case_name_short": "Lomax",
+    "case_name": "Lomax v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 7,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "322 So. 2d 650"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4038.0,
+            "opinion_text": "\n322 So. 2d 650 (1975)\nGregory Lewis LOMAX, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 74-1089.\nDistrict Court of Appeal of Florida, Second District.\nNovember 19, 1975.\nJames A. Gardner, Public Defender, Sarasota, and Ellen Condon, Asst. Public Defender, Tampa, for appellant.\nRobert L. Shevin, Atty. Gen., Tallahassee, and William I. Munsey, Jr., Asst. Atty. Gen., Tampa, for appellee.\nGRIMES, Judge.\nThis case is another in a long line of cases which concern the effect of the failure to give a requested instruction on a lesser included offense.\nOn the night of March 28 the appellant was seen hanging around the lobby of a motel for a couple of hours. He then pulled a pistol on the clerk and had her fill a paper bag with the contents of the cash register. He took her across the street to another building, had her disrobe and tied her in a shower. She managed to get free *651 and called the police. A police officer heard the radio description of the robber and began to cruise the area. He stopped appellant and a fight ensued. The appellant then fled but was caught by other officers responding to the sounds of gunfire. The appellant was carrying a suitcase containing a pistol and a paper bag full of cash. Appellant was charged with robbery.\nAt trial appellant was identified as the perpetrator of the crime and was convicted of robbery. Before the jury was charged, however, the defense requested instructions on attempted robbery, assault with intent to commit robbery, grand larceny and petit larceny. The court refused to instruct on assault with intent to commit robbery and attempted robbery expressly for the reasons that the only lesser included offenses to robbery set forth in Florida Standard Jury Instructions in Criminal Cases are grand larceny and petit larceny.\nSeveral opinions have indicated that assault with intent to commit robbery is a category (3)[1] necessarily lesser included offense of robbery. Gilford v. State, Fla. 1975, 313 So. 2d 729; Bracy v. State, Fla.App.4th, 1974, 299 So. 2d 126; Henry v. State, Fla.App.2d, 1973, 277 So. 2d 78. However, the Supreme Court recently held in State v. White, Fla. 1975, 324 So. 2d 630, (Opinion filed September 10, 1975), that one of the elements of assault is the victim's well-founded fear that violence is imminent. Under the reasoning of that case where, as here, the information charges robbery in the usual statutory terms, it would be possible to commit the robbery without committing an assault. Therefore, if anything, assault with intent to commit robbery could have only been a category (4) offense in this case. Turning to the proof, we find ample evidence of an assault so it was error to fail to give the requested instruction on this charge.[2] Likewise, the mandate of RCrP 3.510 required an instruction on attempted robbery. The question posed is whether the failure to give these instructions can be considered harmless error.\nWhile also being different in kind, assault with intent to commit robbery is a more serious crime than grand larceny in terms of penalty. Therefore, the rule of DeLaine v. State, Fla. 1972, 262 So. 2d 655, holding harmless the failure to give an instruction \"two steps removed,\" does not apply. Yet, the evidence in this case is so overwhelming, we are prompted to ask whether the harmless error rule can apply where the instruction which should have been given concerns an offense one step removed from that of which the appellant was charged and convicted. Upon reflection, we conclude that it can.\nIn State v. Wilson, Fla. 1973, 276 So. 2d 45, the Supreme Court held that even though the court should have given a requested instruction on assault where the defendant was charged with and convicted of robbery, the failure to do so was harmless in view of the \"substantial evidence in support of the jury's verdict.\" While the DeLaine \"two step\" rationale might have been applicable because a charge on grand larceny was given, the court chose to base its decision on the overwhelming evidence of guilt. The fact that Justice Boyd's plea for the right of \"jury pardon\" of the higher degree of crime was a minority position in Gilford v. State, supra, lends support to our conclusion. In short, we hold that the failure to give an instruction of an immediately lesser included offense may be harmless if there is overwhelming evidence that the appellant committed the greater crime and the jury could not reasonably have found that only the lesser crime was committed.\n*652 The same reasoning is applicable to the failure to give a charge on attempted robbery. Since the evidence of a completed robbery was so great, there was no rational basis for the jury to have concluded that attempted robbery was the only crime committed. Cf. Gilford v. State, supra.\nTo hold that this appellant was not fairly tried for the failure to give the requested instructions would be an affront to justice. Appellant's other points on appeal do not merit discussion.\nAffirmed.\nMcNULTY, C.J., and HOBSON, J., concur.\nNOTES\n[1]  As defined in Brown v. State, Fla. 1968, 206 So. 2d 377.\n[2]  But see Mitchell v. State, Fla.App.1st, 1975, 321 So. 2d 108 (Opinion filed October 29, 1975), the rationale of which suggests that if the evidence conclusively shows the robbery to have been completed, there would be no error in refusing to charge on assault with an intent to commit robbery.\n\n",
+            "ocr": false,
+            "opinion_id": 1849956
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

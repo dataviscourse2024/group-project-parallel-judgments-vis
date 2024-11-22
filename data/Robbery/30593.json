@@ -1,0 +1,46 @@
+{
+    "id": 5464927,
+    "judges": null,
+    "date_filed": -1297900800000,
+    "date_filed_is_approximate": true,
+    "slug": "garey-v-kulp-theft-proof-lamp-co",
+    "case_name_short": "Garey",
+    "case_name": "Garey v. Kulp Theft Proof Lamp Co.",
+    "case_name_full": "Eugene L. Garey and Another v. Kulp Theft Proof Lamp Company, Impleaded, etc.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "225 A.D. 660"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n.Motion granted. Present \u2014 Dowling, P. J., Finch, McAvoy, Martin and O\u2019Malley, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5304012
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

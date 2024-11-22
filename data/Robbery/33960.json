@@ -1,0 +1,47 @@
+{
+    "id": 6142271,
+    "judges": "Carni, Centra, Smith, Valentino, Whalen",
+    "date_filed": 1405036800000,
+    "date_filed_is_approximate": false,
+    "slug": "reid-v-saj",
+    "case_name_short": "Reid",
+    "case_name": "Reid v. Saj",
+    "case_name_full": "In the Matter of Cedric Reid v. Gregory Saj, Deputy Superintendent, Livingston Correctional Facility",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "119 A.D.3d 1445",
+        "990 N.Y.S.2d 398"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nProceeding pursuant to CPLR article 78 (transferred to the Appellate Division of the Supreme Court in the Fourth Judicial Department by order of the Supreme Court, Livingston County [Robert B. Wiggins, A.J.], entered March 11, 2013) to review a determination of respondent. The determination found after a tier II hearing that petitioner had violated various inmate rules.\nIt is hereby ordered that the determination so appealed from is unanimously modified on the law and the petition is granted in part by annulling those parts of the determination finding that petitioner violated inmate rules 113.11 (7 NYCRR 270.2 [B] [14] [ii]), 113.14 (7 NYCRR 270.2 [B] [14] [iv]) and 118.31 (7 NYCRR 270.2 [B] [19] [ix]) and as modified the determination is confirmed without costs and respondent is directed to expunge from petitioner\u2019s institutional record all references to the violation of those inmate rules.\nMemorandum: Petitioner commenced this CPLR article 78 proceeding, transferred to this Court pursuant to CPLR 7804 (g), seeking to annul the determination, following a tier II hearing, that he violated inmate rules 113.11 (7 NYCRR 270.2 [B] *1446[ii] [possession of altered item]), 113.14 (7 NYCRR 270.2 [B] [14] [iv] [possession of unauthorized medication]), 116.10 (7 NYCRR 270.2 [B] [17] [i] [stealing]), 116.13 (7 NYCRR 270.2 [B] [17] [iv] [possession of stolen property]), and 118.31 (7 NYCRR 270.2 [B] [19] [ix] [tampering with electricity]). Respondent concedes that those parts of the determination finding that petitioner violated inmate rules 113.11, 113.14 and 118.31, as alleged in the misbehavior report, are not supported by substantial evidence. We therefore modify the determination by granting the petition in part and annulling those parts of the determination finding that petitioner violated the stated rules, and we direct respondent to expunge from petitioner\u2019s institutional record all references thereto. Because the penalty has already been served and there was no recommended loss of good time, there is no need to remit the matter to respondent for reconsideration of the penalty.\nContrary to petitioner\u2019s contention, the remaining parts of the determination, finding that he violated inmate rules 116.10 and 116.13, are supported by substantial evidence (see People ex rel. Vega v Smith, 66 NY2d 130, 139 [1985]). Petitioner\u2019s contention that he owned the object that he was alleged to have stolen created, at most, a credibility issue for the Hearing Officer to resolve (see generally Matter of Foster v Coughlin, 76 NY2d 964, 966 [1990]).\nPetitioner\u2019s further contention that he was entitled to employee assistance in preparing his defense in this tier II hearing is without merit (see Matter of Vann v Costello, 285 AD2d 924, 924-925 [2001]; Matter of Booker v Rivera, 276 AD2d 985, 985 [2000]; see generally 7 NYCRR 251-4.1 [b]). We reject petitioner\u2019s contention that the Hearing Officer abused his discretion in denying petitioner\u2019s request for assistance in light of the complexity of this matter (see generally 7 NYCRR 251-4.1 [b]), particularly in the absence of any evidence of prejudice to petitioner from the lack of assistance (see Matter of Cliff v De Celle, 260 AD2d 812, 813-814 [1999], lv denied 93 NY2d 814 [1999]). We have considered petitioner\u2019s remaining contentions and conclude that they are without merit.\nPresent \u2014 Smith, J.P, Centra, Carni, Valentino and Whalen, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6007700
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

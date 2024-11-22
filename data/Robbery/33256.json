@@ -1,0 +1,46 @@
+{
+    "id": 5996905,
+    "judges": null,
+    "date_filed": 406771200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-aviles",
+    "case_name_short": "Aviles",
+    "case_name": "People v. Aviles",
+    "case_name_full": "The People of the State of New York v. Carlos Aviles",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "90 A.D.2d 833"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by defendant from a judgment of the Supreme Court, Westchester County (Rubin, J., at plea; Wood, J., at sentence), rendered January 21, 1982, convicting him of robbery in the first degree, upon his plea of guilty, and imposing sentence. Judgment affirmed. We have reviewed the record and agree with defendant\u2019s assigned counsel that there are no meritorious issues which could be raised on appeal. Counsel\u2019s application for leave to withdraw as counsel is granted (see Anders v California, 386 US 738; People v Paige, 54 AD2d 631; cf. People v Gonzalez, 47 NY2d 606). Titone, J. P., O\u2019Connor, Thompson and Bracken, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5858015
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 324112,
+    "judges": "Brown, Coleman, Dyer, Per Curiam",
+    "date_filed": 162432000000,
+    "date_filed_is_approximate": false,
+    "slug": "fred-postel-v-dr-george-j-beto-director",
+    "case_name_short": null,
+    "case_name": "Fred Postel v. Dr. George J. Beto, Director",
+    "case_name_full": "Fred POSTEL, Petitioner-Appellant, v. Dr. George J. BETO, Director, Respondent-Appellee",
+    "attorneys": "Harry H. Walsh, Donald L. Kraemer, Tex. Dept, of Corrections, Huntsville, Tex., for petitioner-appellant., John L. Hill, Atty. Gen. of Tex., Dunk-lin Sullivan, Gilbert Pena, Asst. Attys. Gen., Austin, Tex., for respondent-appel-lee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b773-16\">\n    Fred POSTEL, Petitioner-Appellant, v. Dr. George J. BETO, Director, Respondent-Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b773-18\">\n    No. 73-1088.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b773-19\">\n    United States Court of Appeals, Fifth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b773-21\">\n    Feb. 24, 1975.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b773-23\">\n    Harry H. Walsh, Donald L. Kraemer, Tex. Dept, of Corrections, Huntsville, Tex., for petitioner-appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b773-24\">\n    John L. Hill, Atty. Gen. of Tex., Dunk-lin Sullivan, Gilbert Pena, Asst. Attys. Gen., Austin, Tex., for respondent-appel-lee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b773-26\">\n    Before BROWN, . Chief Judge, and COLEMAN and DYER, Circuit Judges.\n   </p>",
+    "citations": [
+        "508 F.2d 679"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/508/508.F2d.679.73-1088.html",
+            "author_id": null,
+            "opinion_text": "508 F.2d 679\n    Fred POSTEL, Petitioner-Appellant,v.Dr. George J. BETO, Director, Respondent-Appellee.\n    No. 73-1088.\n    United States Court of Appeals, Fifth Circuit.\n    Feb. 24, 1975.\n    \n      Harry H. Walsh, Donald L. Kraemer, Tex.  Dept. of Corrections, Huntsville, Tex., for petitioner-appellant.\n      John L. Hill, Atty. Gen. of Tex., Dunklin Sullivan, Gilbert Pena, Asst. Attys.  Gen., Austin, Tex., for respondent-appellee.\n      Appeal from the United States District Court for the Southern District of Texas.\n      Before BROWN, Chief Judge, and COLEMAN and DYER, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      This appeal of the denial of petitioner's 2254 habeas petition asserts a double infirmity in petitioner's murder trial in 1951.  First, postel argues that he was denied his right to appeal since his retained counsel was not present at sentencing and failed to advise him of this right.  It is the settled rule in this Court that the failure of the state trial court to advise a convicted defendant of his right to appeal is no violation of constitutional rights unless it knows or has reason to know that he wishes to appeal and knows or has reason to know that he is an indigent.  Johnson v. Wainwright, 5 Cir., 1972, 456 F.2d 1200; Beto v. Martin, 5 Cir., 1968, 396 F.2d 432; Worts v. Dutton, 5 Cir., 1968, 395 F.2d 341.  Neither of these two conditions were met.\n    \n    \n      2\n      Petitioner's second ground for appeal is the claim of ineffectiveness of his retained counsel by his failure to appear for sentencing and advise petitioner of his right to appeal.  As this inescapably involved the question of state action for errors of omission of retained counsel this case has been held pending our en banc decision in Fitzgerald v. Estelle, 5 Cir., 1974,505 F.2d 1334.  In line with the holding in this case we have carefully examined the record and determined that the District Court had ample basis for concluding that the actions of retained counsel did not operate to deprive the trial of fundamental fairness as required by the Fourteenth Amendment and that he was not less than reasonably effective in violation of the Sixth Amendment.\n    \n    \n      3\n      Affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 324112
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

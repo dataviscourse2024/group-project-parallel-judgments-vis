@@ -1,0 +1,46 @@
+{
+    "id": 7784475,
+    "judges": "Dauksch, Peterson, Sharp",
+    "date_filed": 930268800000,
+    "date_filed_is_approximate": false,
+    "slug": "flowers-v-state",
+    "case_name_short": "Flowers",
+    "case_name": "Flowers v. State",
+    "case_name_full": "Harry Lee FLOWERS v. STATE of Florida",
+    "attorneys": "James B. Gibson, Public Defender, and Leonard R. Ross, Assistant Public Defender, Daytona Beach, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Kellie A. Nielan, Assistant Attorney General, Daytona Beach, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "738 So. 2d 412"
+    ],
+    "opinions": [
+        {
+            "author_str": "Peterson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPETERSON, J.\nThe appellant asserts that the state failed to present sufficient evidence that his crimes, burglary of a dwelling and robbery, were committed with a firearm. Sufficient direct and circumstantial evidence, however, was presented from which *413a jury could reasonably conclude that appellant possessed a firearm during the commission of these offenses. Crump v. State, 629 So.2d 231 (Fla. 5th DCA 1993); T.T. v. State, 459 So.2d 471 (Fla. 1st DCA 1984). Although no weapons were recovered, the victim testified that he was certain that the appellant and the appellant\u2019s accomplice both had guns. The victim, moreover, testified that the appellant walked within five feet of him, pointed the gun in his direction, and ordered him on the floor. Even without the introduction of the weapon into evidence, or of any evidence of gunfire, there was sufficient evidence presented to sustain appellant\u2019s convictions. See Butler v. State, 602 So.2d 1303, 1305-6 (Fla. 1st DCA 1992) for discussion of when evidence of firearm, deadly weapon, or weapon is legally sufficient. See also Mitchell v. State, 698 So.2d 555, 562 (Fla. 2d DCA 1997) (\u201cwith both words and actions [the defendant] implied that the gun was loaded and operable\u201d), affirmed, 703 So.2d 1062 (Fla.1997).\nAFFIRMED.\nDAUKSCH and W. SHARP, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7723839
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

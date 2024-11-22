@@ -1,0 +1,46 @@
+{
+    "id": 5526892,
+    "judges": null,
+    "date_filed": -908496000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-martin",
+    "case_name_short": "Martin",
+    "case_name": "People v. Martin",
+    "case_name_full": "In the Matter of The People of the State of New York, Matthew Costanza, against Dr. Walter B. Martin, as Warden of Clinton Prison, and Others, Comprising the Prison Board, Correction Law, Section 235",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "261 A.D. 1034"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRelator has appealed from an order of the Clinton Special Term denying his application for a peremptory mandamus order against the Warden of Clinton Prison and the Correction or Prison Board, commanding them to meet and determine the amount of time to which relator was entitled and to make a report thereof to the Governor of the State. Relator was convicted of the crime of burglary, third degree, on June 20, 1936, and received a sentence of from five to ten years in State Prison. An information was filed against him charging him with previous convictions. He admitted such previous convictions. It appeared that he had been convicted in September, 1931, of the crime of possessing burglar\u2019s instruments and on such\u2022 conviction received-a sentence of two and one-half to six years in prison. He was paroled on June 12, 1933, and declared delinquent on June 20, 1936. At the time of instituting this proceeding his sentence on the prior conviction had not been completed and the proceeding was prematurely instituted. Relator contends that while on parole under his first conviction he was surrendered to the State of New Jersey to be prosecuted for a crime alleged to have been committed in that State and that consequently the State of New York ceased to have control of him. This contention is without merit. (People ex rel. Gariti v. Brophy, 255 App. Div. 823; appeal dismissed, 279 N. Y. 778.) Order unanimously affirmed, without costs. Present \u2014 Hill, P. J., Crapser, Bliss, Heffernan and Sehenck, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5367355
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

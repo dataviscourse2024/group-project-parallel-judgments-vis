@@ -1,0 +1,47 @@
+{
+    "id": 1233525,
+    "judges": "Andrews, Mikell, Phipps",
+    "date_filed": 1029801600000,
+    "date_filed_is_approximate": false,
+    "slug": "paul-v-state",
+    "case_name_short": "Paul",
+    "case_name": "Paul v. State",
+    "case_name_full": "Paul v. the State",
+    "attorneys": "Gardner & Weathers, Joseph D. Weathers, Chestley N. Merritt, for appellant., J. Thomas Durden, Jr., District Attorney, Mark A. Hendrix, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 7,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b156-8\">\n    A02A0998.\n   </docketnumber><parties id=\"ABC\">\n    PAUL v. THE STATE.\n   </parties><br><citation id=\"b156-9\">\n    (570 SE2d 399)\n   </citation>",
+    "citations": [
+        "570 S.E.2d 399",
+        "257 Ga. App. 86"
+    ],
+    "opinions": [
+        {
+            "author_str": "Mikell",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7169.0,
+            "opinion_text": "\n570 S.E.2d 399 (2002)\n257 Ga. App. 86\nPAUL\nv.\nThe STATE.\nNo. A02A0998.\nCourt of Appeals of Georgia.\nAugust 20, 2002.\nGardner &amp; Weathers, Joseph D. Weathers, Chestley N. Merritt, Moultrie, for appellant.\nJ. Thomas Durden, Jr., District Attorney, Mark A. Hendrix, Assistant District Attorney, for appellee.\nMIKELL, Judge.\nA Liberty County jury found Delores S. Paul guilty of armed robbery. She appeals, claiming that she received ineffective assistance of counsel. We disagree and affirm.\nOn appeal from a criminal conviction, the defendant no longer enjoys the presumption of innocence, and we view the evidence in the light most favorable to the jury's verdict.[1] So viewed, the evidence shows that 86-year-old Molly Ashmore drove to a Wal-Mart store on the morning of January 19, 2001. Paul parked next to Ashmore. Ashmore went into the store and returned to her car pushing a buggy. As Ashmore reached her car, Paul confronted her with a steak knife and threatened to kill Ashmore if she did not give Paul her money. Paul grabbed Ashmore's pocketbook, which contained $300 in traveler's checks and $240 in cash, ran *400 back to her car, and drove out of the Wal-Mart parking lot at a high rate of speed.\nMichael Wilkinson saw a white car speed out of the Wal-Mart parking lot and, thinking that it might be stolen, followed the car until the area of Hack's Pasture Hunting Club, where he stopped and called police. Off-duty detective Rick Baatz heard over his radio that police were looking for an armed robbery suspect last seen in the area of Hack's Pasture Hunting Club. Baatz went to the area of the hunting club and was flagged down by Paul, who told him that someone had been chasing her, and that her car had gotten stuck in the mud. After additional officers arrived at the scene, Baatz looked around the area and found a purse containing traveler's checks bearing Ashmore's name. He also found a note which read: \"This is a robbery. Put the money in the bag. Don't give me bait or a dye pack.\" Police found a steak knife in Paul's car and Ashmore's traveler's checks in Paul's purse, along with two watches and a gold $1 coin consistent with items that Ashmore had told police were in her purse. The police arrested Paul and informed her of her Miranda rights. She signed a Miranda rights waiver form. She then confessed to robbing Ashmore.\nPaul's only claim on appeal is that she received ineffective assistance of counsel. \"In order to prevail on a claim of ineffective assistance of counsel, a criminal defendant must show that counsel's performance was deficient and that the deficient performance so prejudiced the client that there is a reasonable likelihood that, but for counsel's errors, the outcome of the trial would have been different.\"[2] Paul argues that she received ineffective assistance of counsel because she received no measurable defense. Our review of the record shows that this was not the case. The strategy of the defense was to show that the State could prove robbery, but not armed robbery. This was a reasonable professional strategy considering the overwhelming evidence that Paul stole Ashmore's pocketbook. In defense counsel's cross-examination of Ashmore, he elicited testimony indicating that Ashmore believed that Paul was bluffing and did not intend to hurt her, that she did not hand her purse over to Paul under threat from the knife, and that Paul finally snatched Ashmore's purse from behind. Paul's counsel was ultimately unsuccessful in convincing the jury to return a verdict of robbery, as opposed to armed robbery, but he was not ineffective.\nPaul also argues that her defense counsel failed to introduce evidence that she was a recent employee of a large bank, and that she was suffering from postpartum depression. Even if her trial counsel could have introduced this evidence, it was not central to Paul's defense, and we will not second-guess trial counsel's decision not to do so.[3]\nJudgment affirmed.\nANDREWS, P.J., and PHIPPS, J., concur.\nNOTES\n[1]  Grant v. State, 195 Ga.App. 463, 464(1), 393 S.E.2d 737 (1990).\n[2]  Chapman v. State, 273 Ga. 348, 349-350(2) (541 S.E.2d 634) (2001).\n[3]  Reed v. State, 248 Ga.App. 107, 109(1)(a), 545 S.E.2d 655 (2001).\n\n",
+            "ocr": false,
+            "opinion_id": 1233525
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1319126,
+    "judges": "Candler",
+    "date_filed": -558921600000,
+    "date_filed_is_approximate": false,
+    "slug": "wise-v-state",
+    "case_name_short": "Wise",
+    "case_name": "Wise v. State",
+    "case_name_full": "Wise v. the State",
+    "attorneys": "H. Alonzo Woods, for plaintiff in error., Eugene Cook, Attorney-General, W. H. Lanier, Solicitor-General, and Rubye G. Jackson, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted March 10, 1952, Rehearing denied Mat 14, 1952.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b135-4\">\n    Wise\n    <em>\n     v.\n    </em>\n    The State.\n   </parties><docketnumber id=\"AYY\">\n    No. 17793.\n   </docketnumber><otherdate id=\"Aa5\">\n    Submitted March 10, 1952\n   </otherdate><decisiondate id=\"AsV\">\n    Decided April 16, 1952\u2014\n   </decisiondate><otherdate id=\"ANo\">\n    Rehearing denied Mat 14, 1952.\n   </otherdate><br><attorneys id=\"b135-12\">\n<em>\n     H. Alonzo Woods,\n    </em>\n    for plaintiff in error.\n   </attorneys><br><attorneys id=\"b135-13\">\n<em>\n     Eugene Cook, Attorney-General, W. H. Lanier, Solicitor-General,\n    </em>\n    and\n    <em>\n     Rubye G. Jackson,\n    </em>\n    contra.\n   </attorneys>",
+    "citations": [
+        "70 S.E.2d 598",
+        "209 Ga. 115"
+    ],
+    "opinions": [
+        {
+            "author_str": "Candler",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4070.0,
+            "opinion_text": "\n209 Ga. 115 (1952)\n70 S.E.2d 598\nWISE\nv.\nTHE STATE.\n17793.\nSupreme Court of Georgia.\nSubmitted March 10, 1952.\nDecided April 16, 1952.\nRehearing Denied May 14, 1952.\nH. Alonzo Woods, for plaintiff in error.\nEugene Cook, Attorney-General, W. H. Lanier, Solicitor-General, and Rubye G. Jackson, contra.\n*116 CANDLER, Justice.\n1. A charge to the jury on circumstantial evidence is required only when a conviction depends entirely thereon. Williams v. State, 196 Ga. 503 (26 S.E. 2d, 926); Booth v. State, 198 Ga. 648 (32 S.E. 2d, 303); Pippin v. State, 205 Ga. 316 (53 S.E. 2d, 482). In this case the State relied upon direct and positive evidence for conviction; and a charge upon circumstantial evidence was, therefore, neither required nor authorized. Bivins v. State, 5 Ga. App. 434 (63 S.E. 523).\n2. A rifle admittedly used by the accused in the commission of a homicide for which he is on trial, is clearly admissible in evidence over an objection that it had not been \"properly and sufficiently identified as being the gun used in the actual killing.\"\n3. The court, after first stating to the jury that the defendant was on trial for murder and had filed a plea of not guilty, further charged: \"The defendant is presumed to be innocent of that charge until and unless the evidence satisfies your minds beyond a reasonable doubt as to his guilt. The burden of producing such evidence is upon the State.\" The quoted excerpt, when considered in connection with the charge as a whole, is manifestly not subject to the criticism of being erroneous because incomplete.\n4. The verdict is abundantly supported by evidence.\n5. Since neither the general grounds of the motion for new trial nor any of the special grounds thereof are meritorious for any reason assigned, the judgment complained of is not erroneous, as contended.\nJudgment affirmed. All the Justices concur.\n",
+            "ocr": false,
+            "opinion_id": 1319126
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

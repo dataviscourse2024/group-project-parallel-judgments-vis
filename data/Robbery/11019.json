@@ -1,0 +1,46 @@
+{
+    "id": 271659,
+    "judges": "Breitenstein, Lewis, Murrah, Per Curiam",
+    "date_filed": -117244800000,
+    "date_filed_is_approximate": false,
+    "slug": "elry-austin-welch-v-united-states",
+    "case_name_short": null,
+    "case_name": "Elry Austin Welch v. United States",
+    "case_name_full": "Elry Austin WELCH, Appellant, v. UNITED STATES of America, Appellee",
+    "attorneys": "Stanley J. Walter, Lakewood, Colo., for appellant., Jan Eric Cartwright, Asst. U. S. Atty. (Bruce Green, U. S. Atty., with him on the brief), for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b218-10\">\n    Elry Austin WELCH, Appellant, v. UNITED STATES of America, Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b218-12\">\n    No. 8499.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b218-13\">\n    United States Court of Appeals Tenth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b218-14\">\n    April 15, 1966.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b218-24\">\n    Stanley J. Walter, Lakewood, Colo., for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b218-25\">\n    Jan Eric Cartwright, Asst. U. S. Atty. (Bruce Green, U. S. Atty., with him on the brief), for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b218-26\">\n    Before MURRAH, Chief Judge, and LEWIS and BREITENSTEIN, Circuit Judges.\n   </p>",
+    "citations": [
+        "360 F.2d 164"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/360/360.F2d.164.8499_1.html",
+            "author_id": null,
+            "opinion_text": "360 F.2d 164\n    Elry Austin WELCH, Appellant,v.UNITED STATES of America, Appellee.\n    No. 8499.\n    United States Court of Appeals Tenth Circuit.\n    April 15, 1966.\n    \n      Stanley J. Walter, Lakewood, Colo., for appellant.\n      Jan Eric Cartwright, Asst. U. S. Atty. (Bruce Green, U. S. Atty., with him on the brief), for appellee.\n      Before MURRAH, Chief Judge, and LEWIS and BREITENSTEIN, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      A jury found appellant-defendant guilty of the interstate transportation of a stolen motor vehicle in violation of 18 U.S.C. &#167; 2312. In this appeal from the sentence imposed he relies entirely on the proposition that the evidence is insufficient to sustain the verdict.\n    \n    \n      2\n      The evidence for the prosecution was that a 1960 white Ford was taken from a used car lot in Paris, Texas, on the night of November 27, 1964. The defendant was found on November 30 in Oklahoma with a white 1960 Ford parked near a campfire where he and his wife were cooking a meal.\n    \n    \n      3\n      Appellant asserts that the evidence does not show that the automobile stolen in Texas was the same automobile as that found in Oklahoma. This is not a case like Tyler v. United States, 10 Cir., 323 F.2d 711, where the proof of identity was that a 1956 Lincoln was stolen in Texas and a 1956 Lincoln driven by the defendant was in an Oklahoma automobile accident. Here the owner of the Texas used car lot positively identified the car and among other things testified that it still bore one of the tags which were on it before the theft. Identification by serial number is not required when other competent evidence establishes that the car stolen and the car found in another state are one and the same.\n    \n    \n      4\n      The testimony of the defendant was that the 1960 Ford had been left at the spot where the officers found it by a chance acquaintance who had proposed that the defendant haul some whiskey to Oklahoma City. From this it is argued that the defendant did not know the car was stolen and exercised no possession over it. A sufficient answer is found in the testimony of an FBI agent that the defendant after being advised of his constitutional rights, including the right to have a lawyer appointed for him, admitted that he stole the car in Texas, drove it to Oklahoma, and kept it until the county sheriff arrested him. The denial of this admission by the defendant when he took the stand raised only a question of credibility. The jury resolved that issue against him.\n    \n    \n      5\n      Affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 271659
+        }
+    ],
+    "court_short_name": "Tenth Circuit",
+    "court_full_name": "Court of Appeals for the Tenth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 6141325,
+    "judges": "Centra, Dejoseph, Lindley, Sconiers, Valentino",
+    "date_filed": 1404345600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-guariglia",
+    "case_name_short": "Guariglia",
+    "case_name": "People v. Guariglia",
+    "case_name_full": "The People of the State of New York v. Michael A. Guariglia",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "119 A.D.3d 1350",
+        "989 N.Y.S.2d 215"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal from a judgment of the Oneida County Court (Barry M. Donalty, J.), rendered March 8, 2012. The judgment convicted defendant, upon a jury verdict, of grand larceny in the fourth degree and burglary in the third degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him following a jury trial of grand larceny in the fourth degree (Penal Law \u00a7 155.30 [1]) and burglary in the third degree (\u00a7 140.20). The evidence at trial established that defendant, an employee of a pizzeria, gave his keys to the pizzeria and the safe inside to a codefendant who, during the early morning hours, entered the building and stole approximately $3,000 in cash. The evidence further established that defendant drove the codefendant to the pizzeria but stayed in the vehicle while the codefendant went inside, and that the two men then split the proceeds.\n*1351We reject defendant\u2019s contention that county court erred in allowing the codefendant to testify at trial that, when defendant suggested that they commit the crime, defendant stated that he and his brother had previously stolen money from another employer in a similar manner. As the court properly determined, evidence of defendant\u2019s statement to the codefendant was part of the res gestae, inasmuch as it showed how defendant planned the crime and persuaded the codefendant to assist him (see generally People v Owens, 51 AD3d 1369, 1371 [2008], lv denied 11 NY3d 740 [2008]; People v Chavys, 263 AD2d 964, 965 [1999], lv denied 94 NY2d 821 [1999]). In any event, any error with respect to the admission of the codefendant\u2019s testimony is harmless (see generally People v Crimmins, 36 NY2d 230, 241-242 [1975]).\nDefendant further contends that he was deprived of a fair trial because the People failed to disclose fully the benefits that a prosecution witness received in return for her testimony. The witness in question is defendant\u2019s former girlfriend, who at the time of trial had two outstanding warrants from Rome City Court, one for a traffic ticket and the other for a petit larceny charge. The People disclosed prior to trial that in return for her testimony the witness was promised that she would not be taken into custody when she appeared in court to testify and that she would be allowed to turn herself in on the warrants. The day after she testified, the witness appeared in Rome City Court and was released on her own recognizance on both warrants. Defense counsel later learned that the prosecutor had called the judge in city court and asked that the witness be released on the warrants. In a subsequent CPL 330.30 motion, defendant contended that he was entitled to a new trial because, among other reasons, the prosecutor did not disclose that the witness had been promised that she would be released on the warrants. In their papers opposing defendant\u2019s postverdict motion, the People did not controvert defendant\u2019s assertion that the prosecutor contacted the city court judge to recommend the witness\u2019s release.\nEven assuming, arguendo, that the court should have conducted a hearing on defendant\u2019s motion to determine whether the prosecutor made undisclosed promises to the witness before she testified (see CPL 330.40 [2] [f]; see generally People v Nicholson, 222 AD2d 1055, 1056-1057 [1995]; People v Tokarski, 178 AD2d 961, 961 [1991]), we conclude that the error is harmless beyond a reasonable doubt (see generally Crimmins, 36 NY2d at 237). We note that the witness\u2019s trial testimony was consistent with a statement she gave to the po*1352lice and her grand jury testimony, both of which occurred before the People made any promises to her. Moreover, the jurors knew that the witness had been promised that she would not be taken into custody at trial on the warrants, and it is doubtful that their assessment of her credibility would have changed if they had been informed that the prosecutor would recommend that she be released on the warrants once she turned herself in to city court.\nFinally, we reject defendant\u2019s remaining contention that he was impermissibly denied his right to confront the same prosecution witness, i.e., his former girlfriend, about her theft of an electronics device from the home of her son\u2019s father during a birthday party to which she had been invited (see generally People v Rivera, 98 AD3d 529 [2012], lv denied 20 NY3d 935 [2012]; cf. People v Young, 235 AD 2d 441, 445-446 [1997], lv denied 89 NY2d 1042 [1997]). The court did not allow defense counsel to cross-examine the witness about the underlying facts of the crime because the witness, and apparently the court, were under the misapprehension that the charge was still pending, and thus the court was concerned that defense counsel\u2019s questions would implicate the witness\u2019s Fifth Amendment rights. As defense counsel determined after the witness testified but before the People rested, however, the witness had pleaded guilty to a lesser offense with respect to the theft and had already been sentenced by the time she testified at defendant\u2019s trial. When defense counsel informed the court that the theft charge was no longer pending, the court ruled that defendant could serve the witness with a subpoena and then question her in detail about the theft. It appears from the motion papers that the prosecutor knew that the petit larceny charge was no longer pending and yet was silent when the court precluded defense counsel from cross-examining the witness due to concerns about her nonexistent Fifth Amendment rights, and the People do not explain the prosecutor\u2019s conduct in this regard. Nevertheless, because defendant was given the opportunity to have the witness brought back to the stand for further examination but declined to do so, it cannot be said that he was deprived of his right to confront the witness about the petit larceny charge.\nPresent \u2014 Centra, J.P, Lindley, Sconiers, Valentino and DeJoseph, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6006733
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

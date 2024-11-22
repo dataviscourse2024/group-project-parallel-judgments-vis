@@ -1,0 +1,46 @@
+{
+    "id": 5076384,
+    "judges": "Ogden",
+    "date_filed": -3045340800000,
+    "date_filed_is_approximate": true,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "William Johnson alias David Wright v. State",
+    "attorneys": "James H. Burts, for appellant., Browne, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>.An indictment for theft which does not allege that the property charged to \"have heen -stolen\u00a1was taken without the consent of the owner, 'is fatally defective.</p>",
+    "headnotes": null,
+    "summary": "Appeal from Bexar. Tried below before the Hon. Geo. H. Noonan. Wm. Johnson alias David Wright was indicted for \u201c feloniously, fraudulently and unlawfully\u201d stealing a saddle, the property of one Radford Sharp. The indictment failed to charge in terms that the property was taken without the consent of the owner. A motion was made to quash the indictment because of this defect, which was overruled, and this action of the court is assigned for error. Verdict and judgment of guilty, from which Johnson -appealed.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "39 Tex. 393"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ogden",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOgden, P. J.\nThe indictment in this case is fatally defective, in that it does not charge that the property alleged to have been stolen was taken without the consent of the-owner. (Article 2381, Paschal\u2019s Digest; Garcia v. The State, 26 Texas, 210.) The court therefore erred in overruling the exceptions to the indictment in that respect.\nThe judgment is reversed and the cause dismissed.\nReversed and- dismissed.\n",
+            "ocr": true,
+            "opinion_id": 4891939
+        }
+    ],
+    "court_short_name": "Texas Supreme Court",
+    "court_full_name": "Texas Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}

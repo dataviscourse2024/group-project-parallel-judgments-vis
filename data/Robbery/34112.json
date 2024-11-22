@@ -1,0 +1,47 @@
+{
+    "id": 6174049,
+    "judges": null,
+    "date_filed": 934156800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-quinones",
+    "case_name_short": "Quinones",
+    "case_name": "People v. Quinones",
+    "case_name_full": "The People of the State of New York v. Giovani N. Quinones",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "264 A.D.2d 430",
+        "693 N.Y.S.2d 445"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from two judgments of the County Court, Rock-land County (Nelson, J.), both rendered October 28, 1997, convicting him of robbery in the first degree (two counts) and robbery in the second degree under Indictment No. 97-00156, and robbery in the first degree (two counts) and robbery in the second degree under Indictment No. 97-00157, upon jury verdicts, and imposing sentences. The appeals bring up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony and statements made by him to law enforcement officials.\nOrdered that the judgments are affirmed.\nThe hearing court correctly determined that the identification of the defendant by the complainant under Indictment No. 97-00157 was not made as a result of a police-arranged procedure (see, People v Dawson, 185 AD2d 854; People v Malone, 169 AD2d 564).\n*431The defendant\u2019s sentences were proper in all respects (see, People v Cabrera, 243 AD2d 720; People v Suitte, 90 AD2d 80).\nThe defendant\u2019s remaining contention is without merit. San-tucci, J. P., Krausman, Florio and Feuerstein, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6039962
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

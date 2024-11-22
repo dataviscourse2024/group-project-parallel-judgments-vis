@@ -1,0 +1,46 @@
+{
+    "id": 5911925,
+    "judges": "Greenblott",
+    "date_filed": -27216000000,
+    "date_filed_is_approximate": false,
+    "slug": "claim-of-stewart-v-allegheny-ludlum-steel-corp",
+    "case_name_short": null,
+    "case_name": "Claim of Stewart v. Allegheny Ludlum Steel Corp.",
+    "case_name_full": "In the Matter of the Claim of Nellie Stewart v. Allegheny Ludlum Steel Corporation, Workmen's Compensation Board",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "31 A.D.2d 875"
+    ],
+    "opinions": [
+        {
+            "author_str": "Greenblott",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGreenblott, J.\nAppeal by a self-insured employer from a decision of the Workmen\u2019s Compensation Board, filed December 13, 1967, awarding death benefits. Decedent sustained a fatal coronary attack on November 22, 1963. The record reveals that decedent had been employed *876by appellant since 1935, and for about 20 years prior to his death had held the positions of foreman or assistant foreman, where he did little manual labor. However, on September 3, 1963, decedent was assigned to work as a laborer. The parties stipulated that decedent had worked as a laborer for about four weeks and as a mason\u2019s helper for the balance of the period. Appellant\u2019s own job specfications classified both of these laboring jobs as requiring \u201cmoderate physical exertion\u201d. During the last itwo days of his life, decedent\u2019s work consisted of assisting a brick mason in building a wall. Decedent carted to the site and unloaded 32 cement blocks, each weighing 15 to 20 pounds. He also mixed and shoveled mortar \u2014 a job which required the decedent, to lift a 70 pound bag of mortar, mix it with sand and water in a wheelbarrow and then empty it onto a mortar board. Just before quitting time on November 22, 1963, decedent collapsed and died. On the .basis of the evidence presented, the board was warranted in finding that \u201c decedent\u2019s work activities from August 13, 1963 to November 22, 1963 * * * involved more strenuous exertion than the ordinary wear and tear of life \u201d, and that \u201c said strenuous exertion, superimposed upon pre-existing coronary .artery disease aggravated such pre-existing disease and caused claimant to suffer a fatal coronary occlusion \u201d. Appellant contends that the work decedent did during the last two days of his life was less than even moderately heavy and was only his customary work. However, it is \u201c now well settled that the performance of one\u2019s customary duties does not preclude the finding that such activities themselves are sufficiently arduous to entail \u2018 greater exertion than the ordinary wear and tear of life \u2019 \u201d, (Matter of Pickhardt v. C. H. Heist Ohio Corp., 20 A D 2d 737, mot. for Iv. to app. den. 14 N Y 2d 484.) Appellant does not dispute the diagnosis of death by coronary occlusion, but attacks as insubstantial the testimony of decedent\u2019s physicians as to causation. This appears to be nothing more than the usual conflict in medical testimony. When there is conflicting medical evidence in the record, the board is free to choose the version it believes the most credible. (Matter of Palermo v. Gallucci &amp; Sons, 5 N Y 2d 529; Matter of Stachera v. Hallman Chevrolet, 30 A D 2d 988.) Decision affirmed, with costs to the Workmen\u2019s Compensation Board. Gibson, P. J., Herlihy, Reynolds, Aulisi and Greenblott, JJ., concur in memorandum by Greenblott, J.\n",
+            "ocr": true,
+            "opinion_id": 5769470
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

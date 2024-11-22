@@ -1,0 +1,46 @@
+{
+    "id": 1709101,
+    "judges": "Downey",
+    "date_filed": 532742400000,
+    "date_filed_is_approximate": false,
+    "slug": "santiago-v-state",
+    "case_name_short": "Santiago",
+    "case_name": "Santiago v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 12,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "497 So. 2d 975"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6883.0,
+            "opinion_text": "\n497 So. 2d 975 (1986)\nDavid SANTIAGO, Appellant,\nv.\nSTATE of Florida, Appellee.\nNos. 4-86-0157, 4-86-0158.\nDistrict Court of Appeal of Florida, Fourth District.\nNovember 19, 1986.\n*976 Richard L. Jorandby, Public Defender, and Tatjana Ostapoff, Asst. Public Defender, West Palm Beach, for appellant.\nJim Smith, Atty. Gen., Tallahassee, and Noel A. Pelella, Asst. Atty. Gen., West Palm Beach, for appellee.\nDOWNEY, Judge.\nWhile on probation for a robbery charge, Santiago was charged with burglary of a conveyance and robbery. He was convicted of robbery and grand theft (as a lesser included offense of burglary) and concurrently sentenced on each charge to four years' imprisonment followed by two years' probation.\nThe current charges stemmed from an incident in which Santiago reached into the victim's car and tore two gold necklaces from around her neck and departed the scene, leaving the victim with a few scratch marks and some redness around her neck.\nSantiago contends the evidence of force was insufficient to support a conviction of robbery. We disagree. The facts of this case, unlike picking a pocket or snatching a purse without any force or violence, show sufficient force, be it ever so little, to support robbery. See McCloud v. State, 335 So. 2d 257 (Fla. 1976).\nIt is further argued by Santiago that this record does not support his conviction for grand theft as a lesser included offense. Theft was not charged under the burglary count but, rather, only an intent to commit theft, see State v. Allen, 362 So. 2d 10 (Fla. 1978), and there was no allegation in either count in the information that the value of the property taken was valued at $100 or more. Moreover, it was recently held in Bing v. State, 492 So. 2d 833 (Fla. 5th DCA 1986), that taking property valued at $100 or more, with force, cannot support convictions for both robbery and grand theft. Therefore, we hold the conviction for grand theft must be reversed.\nThe only other point that needs to be treated is Santiago's contention that the trial court erred in failing to consider in writing each of the criteria set forth in section 39.111(6)(c), Florida Statutes. We agree.\nAccordingly, the conviction for robbery is affirmed; the conviction for grand theft is reversed; and the cause is remanded to the trial court for resentencing in accordance with section 39.111(6)(c) and (d).\nANSTEAD, J., and WILLIS, BEN C., Associate Judge (Retired), concur.\n",
+            "ocr": false,
+            "opinion_id": 1709101
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

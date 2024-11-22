@@ -1,0 +1,47 @@
+{
+    "id": 6131490,
+    "judges": null,
+    "date_filed": 820195200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-williams",
+    "case_name_short": null,
+    "case_name": "People v. Williams",
+    "case_name_full": "The People of the State of New York v. Dorphus Williams",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "222 A.D.2d 721",
+        "636 N.Y.S.2d 347"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Queens County (Sherman, J.), rendered April 22, 1993, convicting him of robbery in the first degree and robbery in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nContrary to the defendant\u2019s contention, Payton v New York (445 US 573) is inapplicable to the arrest made outside of his home (see, People v Roe, 73 NY2d 1004; People v Hayes, 221 AD2d 468; People v Rosario, 186 AD2d 598).\nIn addition, the ruse employed by the detectives to get the defendant to exit his home did not render his arrest unlawful. A detective knocked on the defendant\u2019s door and told the woman who answered that there had been an accident involving the defendant\u2019s automobile. The defendant voluntarily left his house to investigate. Because the deception was not \"so fundamentally unfair as to deny due process\u201d (People v Tarsia, 50 NY2d 1, 11), the hearing court properly denied suppression of identification testimony on that ground (see, People v Roe, supra; People v Coppin, 202 AD2d 279; People v Rosario, supra).\nThe defendant\u2019s contention that the trial court erred in allowing a police officer to testify that he arrested the defendant after a conversation with a codefendant who did not testify at trial is unpreserved for appellate review (see, CPL 470.05 [2]; People v Valverde, 216 AD2d 339; People v Anthony, 179 AD2d 765; People v Caldwell, 147 AD2d 581; People v Dubois, 137 AD2d 706; People v Cummings, 109 AD2d 748). In any event, any error was harmless in view of the overwhelming evidence of the defendant\u2019s guilt, including the strong identification testimony of the two victims (see, People v Crimmins, 36 NY2d 230; People v Valverde, supra; People v Anthony, supra).\n*722Similarily, any error regarding the prosecutor\u2019s opening and summation comments was harmless in view of the overwhelming evidence of the defendant\u2019s guilt (see, People v Crimmins, 36 NY2d 230; People v Gagne, 129 AD2d 808, 811).\nThe defendant\u2019s sentence was not excessive (see, People v Suitte, 90 AD2d 80). Sullivan, J. P., Balletta, Miller and O\u2019Brien, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5996701
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

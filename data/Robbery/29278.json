@@ -1,0 +1,46 @@
+{
+    "id": 5197075,
+    "judges": null,
+    "date_filed": -438566400000,
+    "date_filed_is_approximate": true,
+    "slug": "white-v-state",
+    "case_name_short": "White",
+    "case_name": "White v. State",
+    "case_name_full": "Wilford M. WHITE v. The STATE of Texas",
+    "attorneys": "No attorney on appeal for appellant., Dan Walton, Dist. Atty., Eugene Brady, Thomas D. White, Asst. Dist. Attys., Houston, Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "286 S.W.2d 631"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nFelony theft is the offense; the punishment, two years in the penitentiary.\nThe record on appeal contains no statement of facts or bills of exception. All proceedings appear to be regular and nothing is presented for review. The judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5019989
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Robbery"
+}
