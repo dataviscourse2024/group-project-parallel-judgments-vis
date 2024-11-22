@@ -286,15 +286,34 @@ h1 {
 /* Parallel coordinates plot container */
 #parallel-coordinates-area {
     position: relative;
-    width: 40%;
-    margin: 10px auto;
+    width: 700px;
+    margin: 20px 0;
     border: 1px solid #ccc;
+    border-radius: 8px;
     padding: 20px;
-    background-color: #f7f8fc;
+    background-color: #ffffff;
     margin-right: auto; /* Automatically push the chart to the left */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+/* Chart title styling */
+.chart-title {
+    fill: #333;
+    font-family: Arial, sans-serif;
+    dominant-baseline: middle;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.axis-label {
+    font-size: 12px;
+    fill: #666;
+}
+
+#parallel-coordinates-area .dimension-label {
+    font-size: 14px;
+    fill: #333;
+}
 /* Styling for lines in the plot */
 #parallel-coordinates-area path {
     stroke-width: 2;
@@ -376,6 +395,13 @@ h1 {
 
 .bar-segment:hover {
     opacity: 1;
+}
+
+#similarity-chart-area {
+    background-color: #ffffff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
 }
 
 #similarity-chart-area .alert {

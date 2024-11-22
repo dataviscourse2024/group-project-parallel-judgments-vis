@@ -287,11 +287,25 @@ function createRadarChart(data) {
     d3.select("#radar-chart-area").selectAll("svg").remove();
 
     // Create SVG container
-    const chartArea = d3.select("#radar-chart-area")
+    const svg = d3.select("#radar-chart-area")
         .append("svg")
         .attr("width", width)
         .attr("height", height)
-        .append("g")
+        .attr("viewBox", `0 0 ${width} ${height}`)
+        .attr("preserveAspectRatio", "xMidYMid meet");
+
+    // Add title
+    svg.append("text")
+        .attr("x", width / 2)
+        .attr("y", 30)
+        .attr("text-anchor", "middle")
+        .attr("dominant-baseline", "middle")
+        .style("font-size", "20px")
+        .style("font-weight", "bold")
+        .text("Case Characteristics Comparison");
+
+    // Create chart area as a group within the existing SVG
+    const chartArea = svg.append("g")
         .attr("transform", `translate(${width / 2},${height / 2})`);
 
     const axes = [
@@ -299,6 +313,7 @@ function createRadarChart(data) {
         { id: 'cites_to', label: 'Cites To' },
         { id: 'decision_year', label: 'Decision Year' }
     ];
+
     const angleSlice = (Math.PI * 2) / axes.length;
 
     // Create scales for each axis
@@ -531,7 +546,7 @@ function processParallelData(data) {
  * @param {Array} data - Array of structured data objects for parallel plot
  */
 function createParallelCoordinatesPlot(data) {
-    const margin = { top: 40, right: 100, bottom: 10, left: 10 };
+    const margin = { top: 60, right: 100, bottom: 40, left: 50 };
     const width = 700 - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
 
@@ -560,9 +575,21 @@ function createParallelCoordinatesPlot(data) {
         .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
-        .append("g")
+    
+    // Add title
+    svg.append("text")
+        .attr("x", (width + margin.left + margin.right) / 2)
+        .attr("y", margin.top / 2 - 20)
+        .attr("text-anchor", "middle")
+        .attr("class", "chart-title")
+        .style("font-size", "20px")
+        .style("font-weight", "bold")
+        .text("Parallel Coordinates Plot");
+
+    // Create chart area group
+    const chartArea = svg.append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
-    // Add a legend container
+
     // Add an info icon for the legend
     if (d3.select(".legend-tooltip-trigger").empty()) {
         d3.select("#parallel-coordinates-area")
@@ -598,7 +625,7 @@ function createParallelCoordinatesPlot(data) {
     }
 
     // Draw lines for each case
-    svg.selectAll("myPath")
+    chartArea.selectAll("myPath")
         .data(data)
         .enter()
         .append("path")
@@ -647,13 +674,15 @@ function createParallelCoordinatesPlot(data) {
 
     // Draw the axes for each dimension
     dimensions.forEach(dimension => {
-        svg.append("g")
+        chartArea.append("g")
             .attr("transform", `translate(${xScale(dimension)},0)`)
             .each(function () { d3.select(this).call(d3.axisLeft(yScales[dimension])); })
             .append("text")
+            .attr("class", "dimension-label")
             .style("text-anchor", "middle")
-            .attr("y", -20)
-            .text(dimension.replace(/_/g, " ")) // Replace underscores with spaces for labels
+            .attr("y", -9)  // Adjusted position
+            .attr("x", 0)   // Centered
+            .text(dimension.replace(/_/g, " "))
             .style("fill", "black");
     });
 }
