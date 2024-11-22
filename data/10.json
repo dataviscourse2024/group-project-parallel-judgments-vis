@@ -1,0 +1,46 @@
+{
+    "id": 7749826,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Marcus",
+    "date_filed": 795398400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-guidry",
+    "case_name_short": "Guidry",
+    "case_name": "State v. Guidry",
+    "case_name_full": "STATE of Louisiana v. Carlton GUIDRY",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "651 So. 2d 267"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn re Guidry, Carlton; \u2014 Defendant(s); applying for writ of certiorari and/or review; to the Court of Appeal, Third Circuit, No. CR94-0596; Parish of Calcasieu, 14th Judicial District Court, Div. \u201cH\u201d, No. 9949-94.\nDenied.\nMARCUS, J., not on panel.\n",
+            "ocr": true,
+            "opinion_id": 7686798
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA"
+}

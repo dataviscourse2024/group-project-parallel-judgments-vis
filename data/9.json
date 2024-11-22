@@ -1,0 +1,46 @@
+{
+    "id": 7749006,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Watson",
+    "date_filed": 791164800000,
+    "date_filed_is_approximate": false,
+    "slug": "arceneaux-v-unr-inc",
+    "case_name_short": "Arceneaux",
+    "case_name": "Arceneaux v. Unr Inc.",
+    "case_name_full": "Gwendolyn ARCENEAUX v. UNR INC. d/b/a UNR Home Products",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "649 So. 2d 386"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn re Areeneaux, Gwendolyn; \u2014 Plaintiffs); applying for writ of certiorari and/or review; Parish of Ouachita, Office of Workers Compensation, No. 92-02965; to the Court of Appeal, Second Circuit, No. 26235-CA.\nDenied.\nWATSON, J., not on panel.\n",
+            "ocr": true,
+            "opinion_id": 7685932
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA"
+}

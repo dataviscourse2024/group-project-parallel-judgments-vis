@@ -1,0 +1,46 @@
+{
+    "id": 7748466,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Hall",
+    "date_filed": 787536000000,
+    "date_filed_is_approximate": false,
+    "slug": "pogue-v-lumbermens-mutual-casualty-insurance",
+    "case_name_short": "Pogue",
+    "case_name": "Pogue v. Lumbermen's Mutual Casualty Insurance",
+    "case_name_full": "William POGUE and Connie V. Pogue v. LUMBERMEN'S MUTUAL CASUALTY INSURANCE and Vincent Peperone",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "648 So. 2d 390"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*391In re Pogue, William; Pogue, Connie V.;\u2014 Plaintiffs); applying for writ of certiorari and/or review; Parish of Jefferson, 24th Judicial District Court, Div. \u201cG\u201d, No. 421-064; to the Court of Appeal, Fifth Circuit, No. 94-CA-0123.\nDenied.\nHALL, J., not on panel.\n",
+            "ocr": true,
+            "opinion_id": 7685367
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA"
+}

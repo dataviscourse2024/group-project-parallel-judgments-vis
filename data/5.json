@@ -1,0 +1,68 @@
+{
+    "id": 7748349,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Grimes, Harding, Kogan, McDonald, Overton, Shaw",
+    "date_filed": 790473600000,
+    "date_filed_is_approximate": false,
+    "slug": "jy-v-state",
+    "case_name_short": "J.Y.",
+    "case_name": "J.Y. v. State",
+    "case_name_full": "J.Y., a child v. STATE of Florida",
+    "attorneys": "James B. Gibson, Public Defender, and Brynn Newton, Asst. Public Defender, Day-tona Beach, for petitioner., Robert A. Butterworth, Atty. Gen., and Myra J. Fried, Asst. Atty. Gen., Daytona Beach, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "648 So. 2d 134"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nWe originally accepted for review J.Y. v. State, 635 So.2d 34 (Fla. 5th DCA 1993), which cited a case pending review in this Court. B.H. v. State, 622 So.2d 615 (Fla. 5th DCA 1993), approved in part, 645 So.2d 987 (Fla.1994). On further examination, we find that jurisdiction was improvidently granted and accordingly dismiss the petition.\nIt is so ordered.\nGRIMES, C.J.,' OVERTON and SHAW, JJ., and McDONALD, Senior Justice, concur.\nHARDING, J., concurs in part and dissents in part with an opinion.\nKOGAN, J., dissents with an opinion.\nNO MOTION FOR REHEARING WILL BE ALLOWED.\n",
+            "ocr": true,
+            "opinion_id": 7685243
+        },
+        {
+            "author_str": "Harding",
+            "per_curiam": false,
+            "type": "035concurrenceinpart",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHARDING, Justice,\nconcurring in part and dissenting in part.\nI concur in part and dissent in part for the reasons stated in my separate opinion to B.H. v. State, 645 So.2d 987 (Fla.1994) (Harding, J., concurring in part, dissenting in part).\n",
+            "ocr": true,
+            "opinion_id": 7685244
+        },
+        {
+            "author_str": "Kogan",
+            "per_curiam": false,
+            "type": "040dissent",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKOGAN, Justice,\ndissenting.\nI dissent for the reasons stated in my partial dissent to B.H., and I further dissent from the dismissal of this petition. It perhaps deserves emphasis that the majority\u2019s denial of review here hinges solely on the holding of B.H. Assuming B.H. espouses sound legal doctrine, then it is true that J.Y. will suffer no deprivation of justice if review is denied. However, the United States Supreme Court still possesses the authority to review the Fourteenth Amendment due process issues apparent in these cases, which I have outlined in my separate opinion in B.H. Should that Court issue certiorari and reverse the majority\u2019s decision in B.H., I believe this Court then would have jurisdiction to review J.Y.\u2019s case afresh by way of the all writs authority, art. V, \u00a7 3(b)(7), Fla. Const.; State ex rel. Chiles v. Public Employees Relations Comm\u2019n, 630 So.2d 1093 (Fla.1994), among other possible bases.\n",
+            "ocr": true,
+            "opinion_id": 7685245
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL"
+}

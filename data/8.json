@@ -1,0 +1,46 @@
+{
+    "id": 7748606,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Docket, Grant, Kimball, Lemmon",
+    "date_filed": 786931200000,
+    "date_filed_is_approximate": false,
+    "slug": "dawsey-v-boone",
+    "case_name_short": "Dawsey",
+    "case_name": "Dawsey v. Boone",
+    "case_name_full": "John DAWSEY v. Hayward BOONE",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "648 So. 2d 906"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn re Boone, Hayward; \u2014 Defendant(s); applying for writ of certiorari and/or review; to the Court of Appeal, First Circuit, No. CE94 2388; Parish of Washington, 22nd Judicial District Court, Div. \u201cB\u201d, No. 72,037.\nGranted. The trial court judgment is reinstated. The court of appeal erred in finding that objections to the election procedure were waived.\nKIMBALL, J., would grant and docket the case for argument.\nLEMMON, J., not on panel.\n",
+            "ocr": true,
+            "opinion_id": 7685516
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA"
+}

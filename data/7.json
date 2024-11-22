@@ -1,0 +1,46 @@
+{
+    "id": 7748596,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Barkdull, Cope, Gersten",
+    "date_filed": 791596800000,
+    "date_filed_is_approximate": false,
+    "slug": "dirube-v-capital-bank",
+    "case_name_short": "Dirube",
+    "case_name": "Dirube v. Capital Bank",
+    "case_name_full": "Emilio DIRUBE v. CAPITAL BANK, A Florida banking corporation",
+    "attorneys": "Gustavo Gutierrez, Miami, for appellant., Tew & Garcia-Pedrosa and Mat\u00edas R. Dor-ta, Miami, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "648 So. 2d 860"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAffirmed. Fla.R.Civ.P. 1.510(c), (f). Independent Fire Insurance Company v. Rogers, 580 So.2d 229 (Fla. 3d DCA 1991); Slachter v. Abundio Inv. Co., 566 So.2d 348 (Fla. 3d DCA 1990); J.R. Carter v. Cessna Finance Corp., 498 So.2d 1319 (Fla. 1st DCA 1989); Ahmed v. Travelers Indemnity Co., 516 So.2d 40 (Fla. 3d DCA 1987); Onderko v. Advanced Auto Insurance, Inc., 477 So.2d 1026 (Fla. 2d DCA 1985); McNutt v. Scherrill, 141 So.2d 309 (Fla. 3d DCA 1962).\n",
+            "ocr": true,
+            "opinion_id": 7685506
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL"
+}

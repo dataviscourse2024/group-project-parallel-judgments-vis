@@ -1,0 +1,46 @@
+{
+    "id": 7747443,
+    "crime_cegatory": "Kidnapping",
+    "judges": "Hawkins, Roberts, Smith",
+    "date_filed": 784425600000,
+    "date_filed_is_approximate": false,
+    "slug": "adams-v-state",
+    "case_name_short": "Adams",
+    "case_name": "Adams v. State",
+    "case_name_full": "Willie ADAMS v. STATE of Mississippi",
+    "attorneys": "Willie Adams, pro se., Michael C. Moore, Atty. Gen., Deirdre McCrory, Sp. Asst. Atty. Gen., Jackson, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "645 So. 2d 930"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal No. 10016 from Judgment dated Jan. 11, 1993; William R. Lamb, Ruling Judge, Lafayette County Circuit Court.\nBefore HAWKINS, C.J., and JAMES L. ROBERTS, Jr., and SMITH, JJ.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7684239
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS"
+}
