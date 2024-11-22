@@ -17,19 +17,56 @@ function loadData() {
         // Consolidate the data from all JSON files
         let allData = [].concat(...data);
         
+        // Calculate min and max dates
+        const minDate = d3.min(allData, d => new Date(d.decision_date));
+        const maxDate = d3.max(allData, d => new Date(d.decision_date));
+
+        // Initialize the date range slider
+        const dateRangeSlider = document.getElementById('date-range-slider');
+
+        // Initialize noUiSlider
+        noUiSlider.create(dateRangeSlider, {
+            start: [minDate.getFullYear(), maxDate.getFullYear()],
+            connect: true,
+            range: {
+                min: minDate.getFullYear(),
+                max: maxDate.getFullYear()
+            },
+            step: 1,
+        });
+
         // Call function to create table
         createTable(allData);  // Create the table
 
-        // Process and normalize data for radar chart
-        // let radarData = processRadarData(allData);
+        // Add event listener for date range slider
+        dateRangeSlider.noUiSlider.on('update', function(values) {
+            const selectedMinYear = parseInt(values[0]);
+            const selectedMaxYear = parseInt(values[1]);
+            document.getElementById('date-range-values').textContent = `${selectedMinYear} - ${selectedMaxYear}`;
+            filterTableByDateRange(selectedMinYear, selectedMaxYear);
+        });
         
-        // // Process data for parallel coordinates plot
-        // let parallelData = processParallelData(allData);
-       
-        // createRadarChart(radarData);
-        // createParallelCoordinatesPlot(parallelData);
+        
     }).catch(function(error) {
         console.error('Error loading the data:', error);
+    });
+}
+
+// Function to filter table by date range
+function filterTableByDateRange(minYear, maxYear) {
+    const rows = document.querySelectorAll('#table-area table tbody tr');
+    rows.forEach(row => {
+        const dateCell = row.querySelector('.col-date');
+        if (dateCell) {
+            const decisionDate = new Date(dateCell.textContent);
+            const decisionYear = decisionDate.getFullYear();
+            console.log(`Row date: ${decisionYear}, Min: ${minYear}, Max: ${maxYear}`);
+            if (decisionYear >= minYear && decisionYear <= maxYear) {
+                row.style.display = ''; // Show row
+            } else {
+                row.style.display = 'none'; // Hide row
+            }
+        }
     });
 }
 
@@ -211,6 +248,7 @@ function createTable(data) {
 
     // Initial update with default selection
     updateVisualizations();
+    
 }
 /**
  * Function to process and normalize data for the radar chart
