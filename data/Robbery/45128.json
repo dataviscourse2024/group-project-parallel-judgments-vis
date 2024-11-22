@@ -1,8 +1,8 @@
 {
     "id": 8377217,
     "judges": "Cbew, Davis, Price, Shauck, Spear, Summers",
-    "date_filed": -2051049600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-05-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-carl",
     "case_name_short": "Carl",
     "case_name": "State v. Carl",

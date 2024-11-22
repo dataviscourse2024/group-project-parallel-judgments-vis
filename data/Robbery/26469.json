@@ -1,8 +1,8 @@
 {
     "id": 4591061,
     "judges": null,
-    "date_filed": 1543536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-09-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lessley",
     "case_name_short": "Lessley",
     "case_name": "State v. Lessley",

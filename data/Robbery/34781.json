@@ -1,8 +1,8 @@
 {
     "id": 6310172,
     "judges": "Mulcahy",
-    "date_filed": -263692800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-08-15",
+    "date_filed_is_approximate": true,
     "slug": "people-v-davidson",
     "case_name_short": "Davidson",
     "case_name": "People v. Davidson",

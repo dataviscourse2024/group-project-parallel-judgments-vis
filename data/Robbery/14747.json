@@ -1,8 +1,8 @@
 {
     "id": 1174280,
     "judges": "Fox",
-    "date_filed": -386985600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-05-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-olds",
     "case_name_short": "Olds",
     "case_name": "People v. Olds",

@@ -1,8 +1,8 @@
 {
     "id": 1900786,
     "judges": "Dauksch",
-    "date_filed": 494121600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-08-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-schmidt",
     "case_name_short": "Schmidt",
     "case_name": "State v. Schmidt",

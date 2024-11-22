@@ -1,8 +1,8 @@
 {
     "id": 1812957,
     "judges": "Terrell",
-    "date_filed": -407116800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-07-09",
+    "date_filed_is_approximate": true,
     "slug": "thomas-v-state",
     "case_name_short": "Thomas",
     "case_name": "Thomas v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 5199980,
+    "judges": "Morrison",
+    "date_filed": "2003-03-17",
+    "date_filed_is_approximate": true,
+    "slug": "rosser-v-state",
+    "case_name_short": "Rosser",
+    "case_name": "Rosser v. State",
+    "case_name_full": "Clifford Harrison ROSSER v. The STATE of Texas",
+    "attorneys": "Temple R. Driver, Roger W. Crampton, Wichita Falls, for appellant., L. T. Wilson, Dist. Atty., Wichita Falls, and Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "318 S.W.2d 82"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMORRISON, Presiding Judge.\nThe offense is murder; the punishment, life.\nNo statement of facts in the trial on the merits accompanied the record.\nThe only question sought to be raised is the failure of the trial court to grant his motion for severance. There is nothing in the record to show that such motion was ever presented to the trial court or that he acted thereon. Since there is no order and no exception thereto, there is no informal hill of exception which can he considered under Article 760c, Vernon\u2019s Ann.C.C.P., and nothing is presented for review. Crawford v. State, Tex.Cr.App., 30S S.W.2d 362.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5023017
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

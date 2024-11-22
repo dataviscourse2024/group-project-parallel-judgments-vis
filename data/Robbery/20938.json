@@ -1,8 +1,8 @@
 {
     "id": 3036678,
     "judges": null,
-    "date_filed": 1142899200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-01-15",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-ligon",
     "case_name_short": "Ligon",
     "case_name": "United States v. Ligon",

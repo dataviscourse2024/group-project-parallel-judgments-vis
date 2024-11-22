@@ -1,8 +1,8 @@
 {
     "id": 3455656,
     "judges": "Perry",
-    "date_filed": -847238400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-01-14",
+    "date_filed_is_approximate": true,
     "slug": "rains-v-commonwealth",
     "case_name_short": "Rains",
     "case_name": "Rains v. Commonwealth",

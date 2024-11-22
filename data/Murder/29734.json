@@ -1,0 +1,46 @@
+{
+    "id": 5286610,
+    "judges": "Amburg, Cohen, Hess",
+    "date_filed": "1976-12-10",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-grissom",
+    "case_name_short": "Grissom",
+    "case_name": "State v. Grissom",
+    "case_name_full": "STATE of Missouri, Plaintiff/Respondent v. Ladon T. GRISSOM",
+    "attorneys": "Erin R. Griebel, St. Louis, MO, for appellant., Robert J. Bartholomew, Jr., Assistant Attorney General, Jefferson City, MO, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "423 S.W.3d 330"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nPER CURIAM.\nLadon T. Grissom appeals his jury trial convictions of first-degree assault, two counts of second-degree murder, and three counts of armed criminal action. On appeal, he contends that: 1) the State elicited improper character evidence; 2) the trial court erred in denying his Batson challenge; and 3) the trial court improperly sentenced him to life terms on his armed criminal action conviction contrary to \u00a7 571.015.1 RSMo (Supp.2011). We affirm.\nWe have reviewed the briefs of the parties and the record on appeal and find the claims of error to be without merit. No error of law appears. An extended opinion would have no jurisprudential purpose. We have, however, provided a memorandum opinion only for the use of the parties setting forth the reasons for our decision.\nWe affirm the judgment pursuant to Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5115081
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

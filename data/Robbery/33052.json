@@ -1,8 +1,8 @@
 {
     "id": 5958130,
     "judges": null,
-    "date_filed": 1303171200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-28",
+    "date_filed_is_approximate": true,
     "slug": "people-v-chimilio",
     "case_name_short": "Chimilio",
     "case_name": "People v. Chimilio",

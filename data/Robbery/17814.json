@@ -1,8 +1,8 @@
 {
     "id": 2317077,
     "judges": "Bianchini",
-    "date_filed": 1159660800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-22",
+    "date_filed_is_approximate": true,
     "slug": "torres-v-donnelly",
     "case_name_short": "Torres",
     "case_name": "Torres v. Donnelly",

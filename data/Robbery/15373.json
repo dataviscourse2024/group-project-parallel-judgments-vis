@@ -1,8 +1,8 @@
 {
     "id": 1636272,
     "judges": "Cochran, Hervey, Holcomb, Johnson, Keasler, Keller, Meyers, Price, Womack",
-    "date_filed": 1040169600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-03-25",
+    "date_filed_is_approximate": true,
     "slug": "beal-v-state",
     "case_name_short": "Beal",
     "case_name": "Beal v. State",

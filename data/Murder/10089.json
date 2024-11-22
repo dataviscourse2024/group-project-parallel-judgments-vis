@@ -1,8 +1,8 @@
 {
     "id": 1107086,
     "judges": "Gaskins, Moore and Lolley",
-    "date_filed": 1209513600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-07-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cook",
     "case_name_short": "Cook",
     "case_name": "State v. Cook",

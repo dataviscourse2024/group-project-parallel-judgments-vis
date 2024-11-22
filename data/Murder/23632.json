@@ -1,0 +1,57 @@
+{
+    "id": 3928772,
+    "judges": "TatIiOK",
+    "date_filed": "2018-10-08",
+    "date_filed_is_approximate": true,
+    "slug": "mcdonald-v-murchison",
+    "case_name_short": "McDonald",
+    "case_name": "McDonald v. . Murchison",
+    "case_name_full": "Margaret McDonald v. Kenneth Murchison.",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": "CASE for speaking of the plaintiff these words: \"You swore to a lie to-day, in a case tried before Josiah Tyson, esquire, against Daniel McDonald, for killing a dog, and you offered to swear to a lie before.\" On the trial before  Norwood, Judge , the plaintiff not being able to produce the warrant on which the proceedings before Tyson were had, nor to account for its absence, the judge directed a nonsuit, holding such proof to be a necessary part of the plaintiff's case, whereupon the plaintiff appealed.",
+    "syllabus": null,
+    "headnotes": "<p>In an action for words, charging the Plaintiff with perjury in a particular suit, he is not bound to produce the record, of that suit.</p>",
+    "summary": "From Moore. Case for speaking of the Plaintiff these words, \u201cyou swore to a lie to-day, in a case tried before Josiah Tyson, Esquire, against Daniel McDonald, for killing a dog, and you offered to swear to a lie before.\u201d On the trial before Norwood, Judge, tiie Plaintiff not being able to produce the warrant, on which the proceedings before Tyson were had, nor to account for its absence, the Judge directed a nonsuit, holding such proof to be a necessary part of the Plaintiff\u2019s case, whereupon the Plaintiff appealed.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b15-7\">\n    Margaret McDonald\n    <em>\n     v\n    </em>\n    . Kennith Murchison.\n   </parties><summary id=\"A1\">\n    From Moore.\n   </summary><br><headnotes id=\"b15-10\">\n    In an action for words, charging the Plaintiff with perjury in a particular suit, he is not bound to produce the record, of that suit.\n   </headnotes><br><summary id=\"b15-11\">\n    Case for speaking of the Plaintiff these words, \u201cyou swore to a lie to-day, in a case tried before\n    <em>\n     Josiah Tyson,\n    </em>\n    Esquire, against\n    <em>\n     Daniel McDonald,\n    </em>\n    for killing a dog, and you offered to swear to a lie before.\u201d On the trial before Norwood, Judge, tiie Plaintiff not being able to produce the warrant, on which the proceedings before\n    <em>\n     Tyson\n    </em>\n    were had, nor to account for its absence, the Judge directed a nonsuit, holding such proof to be a necessary part of the Plaintiff\u2019s case, whereupon the Plaintiff appealed.\n   </summary>",
+    "citations": [
+        "12 N.C. 7"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "When one person charges another with having been forsworn, such words are not actionable unless it is (9)  also charged that the forswearing took place in some judicial proceeding, before a tribunal legally constituted, having jurisdiction of it; in that case, it is not material whether any such judicial proceeding ever took place or not. If there never had been any such judicial proceeding, and the defendant in that particular was guilty of a falsehood, he ought not to be in a better situation than if he had told the truth, which he certainly would be if it was incumbent upon the plaintiff to produce it or be nonsuited. When the plaintiff, in the present case, proved the words charged in the declaration, she made out her case, and was not bound to produce the proceeding before the justice of the peace. I therefore think the nonsuit should be set aside, and a new trial granted.\nApproved: Chambers v. White, 47 N.C. 383.",
+            "ocr": false,
+            "opinion_id": 3675417
+        },
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5312.0,
+            "opinion_text": "If it were not necessary to state in the declaration the warrant and proceedings before the magistrate, it could not be necessary to adduce upon the trial any proofs of their existence. And when the words spoken in this case are considered in reference to their actionable quality, I think it will appear that the law requires no other proof to be made than such as the plaintiff offered.                       (8)\nTo say of a person that he is forsworn is not necessarily actionable, because the words do not imply that the plaintiff had forsworn himself in a judicial proceeding, and that alone will constitute the crime of perjury. In bringing an action for such words, therefore, the plaintiff must, by way of introduction or inducement, state in the declaration that some proceeding took place, or that some fact existed, to which the defendant alluded; and this inducement is material and traversable. It must be shown by a colloquium that the words import a criminal charge, otherwise they are not actionable. But where the words spoken can be understood in none other than a criminal sense, as where the plaintiff is directly charged with a theft or a perjury, no extrinsic matter is necessary to be charged, nor consequently to be proved. These words do upon their face directly import that the plaintiff was guilty of a judicial perjury, inasmuch as a magistrate has, in the first instance, jurisdiction of indictable trespasses, for the purpose of examining the charge, and of either binding the accused to court or discharging him. The words used by the defendant have discharged the plaintiff from the necessity of making the averments necessary to show that a judicial proceeding *Page 6 \nexisted, and are certainly actionable, if spoken maliciously. In such a case the prima facie presumption is that everything took place before a court of competent jurisdiction, and if the fact be not so, it is incumbent on the defendant to prove it.\nThe slander in its present shape is calculated to injure the plaintiff to the same extent as if it had been shown that the warrant was issued and returned, and that the magistrate had jurisdiction; for every one, hearing it, would put the construction upon it that she had perjured herself in a judicial trial. For these reasons, I think the nonsuit was improperly awarded, and that there ought to be a new trial.",
+            "ocr": false,
+            "opinion_id": 3675416
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

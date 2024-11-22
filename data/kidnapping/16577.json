@@ -1,8 +1,8 @@
 {
     "id": 2083132,
     "judges": "Rizzi",
-    "date_filed": 301104000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-03-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-galloway",
     "case_name_short": "Galloway",
     "case_name": "People v. Galloway",

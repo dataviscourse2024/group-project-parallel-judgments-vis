@@ -1,8 +1,8 @@
 {
     "id": 7028070,
     "judges": "Buttler, Rossman, Warren",
-    "date_filed": 394934400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-12-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-freeland",
     "case_name_short": "Freeland",
     "case_name": "State v. Freeland",

@@ -1,8 +1,8 @@
 {
     "id": 2144856,
     "judges": "Rathje",
-    "date_filed": 863049600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-02-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-taylor",
     "case_name_short": "Taylor",
     "case_name": "People v. Taylor",

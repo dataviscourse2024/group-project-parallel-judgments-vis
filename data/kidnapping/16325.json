@@ -1,8 +1,8 @@
 {
     "id": 2015214,
     "judges": "Bilandic, Freeman, Heiple, Miller",
-    "date_filed": 835228800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-03-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-nitz",
     "case_name_short": "Nitz",
     "case_name": "People v. Nitz",

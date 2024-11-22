@@ -1,8 +1,8 @@
 {
     "id": 8723903,
     "judges": "Crow",
-    "date_filed": 762480000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-04-06",
+    "date_filed_is_approximate": true,
     "slug": "sherlock-v-bps-guard-services-inc",
     "case_name_short": "Sherlock",
     "case_name": "Sherlock v. BPS Guard Services, Inc.",

@@ -1,8 +1,8 @@
 {
     "id": 1185322,
     "judges": "Cameron, Hays, Struckmeyer",
-    "date_filed": 55123200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-pierson",
     "case_name_short": "Pierson",
     "case_name": "State v. Pierson",

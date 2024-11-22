@@ -1,8 +1,8 @@
 {
     "id": 6076006,
     "judges": null,
-    "date_filed": 683164800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-03-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-boye",
     "case_name_short": "Boye",
     "case_name": "People v. Boye",

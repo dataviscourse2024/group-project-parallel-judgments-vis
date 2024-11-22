@@ -1,0 +1,47 @@
+{
+    "id": 7879612,
+    "judges": null,
+    "date_filed": "2011-03-07",
+    "date_filed_is_approximate": true,
+    "slug": "echols-v-state",
+    "case_name_short": "Echols",
+    "case_name": "Echols v. State",
+    "case_name_full": "Damien Wayne ECHOLS v. STATE of Arkansas",
+    "attorneys": "Appellant, pro se., Winston Bryant, Att\u2019y Gen., by: David R. Raupp, Asst. Att\u2019y Gen., and Vada Berger, Asst. Att\u2019y Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "321 Ark. 497",
+        "902 S.W.2d 781"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Per Curiam. In 1994 Damien Wayne Echols was found guilty by a jury of capital murder and sentenced to death. The record has been lodged in this court on appeal. Counsel for appellant Echols filed the appellant\u2019s brief on June 19, 1995. On June 27, 1995, appellant filed a pro se motion in which he states that he waives all points for appeal which concern the sentence of death. He desires to limit the appeal to those issues which concern the judgment of conviction. Appellant\u2019s pro se motion is now before us.  We remand the matter for findings by the trial court on the questions of whether appellant Echols has been advised by counsel with respect to abandoning issues already raised and whether appellant will submit himself to a judicial review to be held in the trial court to consider whether he fully appreciates his position and can make a rational choice with respect to pursuing or abandoning issues on appeal concerning the sentence of death.  If the trial court determines that appellant has reached his decision with benefit of counsel and will submit himself to a judicial review of his capacity to abandon the death penalty issues raised on appeal, the trial court is directed to hold a competency hearing. An appellant sentenced to death will be permitted to abandon a state appeal of a death sentence only if he has been judicially determined to have the capacity to appreciate his position and make a rational choice with respect to continuing or abandoning further litigation of the death sentence; that is, he must be determined to have the capacity to understand the choice of life or death and to knowingly and intelligently waive any and all rights to appeal the death sentence. See Franz v. State, 296 Ark. 181, 754 S.W.2d 839 (1988).  If a competency hearing is held and the lower court determines appellant to have made a knowing and intelligent waiver of the issues pertaining to the death sentence, the record of the hearing and the court\u2019s findings shall be returned to this court for review. We will review the proceeding to determine whether appellant Echols had the capacity to understand the choice between life and death and to knowingly and intelligently waive his rights to challenge the sentence of death on appeal. See Franz v. State, supra. The standard of review is whether the trial court\u2019s conclusion is clearly erroneous. See Franz, supra, citing Rector v. State, 277 Ark. 17, 638 S.W.2d 672 (1982). Remanded. ",
+            "ocr": true,
+            "opinion_id": 7825917
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

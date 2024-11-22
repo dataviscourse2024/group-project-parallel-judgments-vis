@@ -1,8 +1,8 @@
 {
     "id": 8003006,
     "judges": "Burns, Holbrook, McGregor",
-    "date_filed": 33782400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-08-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cruthird",
     "case_name_short": "Cruthird",
     "case_name": "People v. Cruthird",

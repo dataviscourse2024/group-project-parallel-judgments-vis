@@ -1,0 +1,46 @@
+{
+    "id": 6008066,
+    "judges": null,
+    "date_filed": "2017-04-25",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-johnson",
+    "case_name_short": null,
+    "case_name": "People v. Johnson",
+    "case_name_full": "The People of the State of New York v. Michael Johnson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "103 A.D.2d 755"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeals by defendant (1) from a judgment of the Supreme Court, Richmond County (Barlow, J.), rendered October 18, 1978, convicting him of attempted rape in the first degree, upon his plea of guilty, and imposing sentence, and (2) by permission, from an order of the same court (Owens, J.), dated September 24,1982, denying his motion pursuant to CPL 440.10 (subd 1, par [h]) to vacate the judgment of conviction and to reinstate his plea of not guilty. 11 By order dated July 5, 1983, this court remitted the case to the Supreme Court, Richmond County, for further proceedings and in the interim held the appeals in abeyance (People v Johnson, 96 AD2d 516). Criminal Term (Felig, J.), has filed its report. H The case is again remitted to the Supreme Court, Richmond County, for further proceedings consistent herewith and the appeals are held in abeyance in the interim. The court shall file its report with all convenient speed. 11 In our prior decision in this case we held, inter alia, that (1) a limited inquiry should have been made by Criminal Term when defendant asserted his innocence at the time of sentencing, and (2) upon remittal, defendant should be afforded a reasonable opportunity to present his contentions in order for the court to make an informed determination. 11 Upon remittance to Criminal Term for this purpose, it conducted this inquiry without the presence of defendant. Indeed, it denied defense counsel\u2019s request for his client\u2019s production. Under the circumstances, this ruling was error (cf. CPL 380.40, subd 1). The case of People v Garrett (43 AD2d 503, affd 36 NY2d 727), relied on by the People, is inapposite to the facts at bar. In contrast to the *756defendant herein, the defendant in People v Garrett (supra) was physically present in court at the time his counsel moved to vacate the guilty plea, and presumably, could have personally addressed the sentencing Judge, had he chosen to do so. The defendant herein was improperly denied that opportunity and, accordingly, a further remittance is necessary. Mangano, J. P., O\u2019Connor, Niehoff and Lawrence, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5870106
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

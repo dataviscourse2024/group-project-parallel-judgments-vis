@@ -1,0 +1,46 @@
+{
+    "id": 8069468,
+    "judges": "Baugh, Davis, Hon, McLean",
+    "date_filed": "2004-03-27",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-keefe",
+    "case_name_short": "Keefe",
+    "case_name": "State v. Keefe",
+    "case_name_full": "STATE OF MONTANA v. STEVEN KEEFE",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "256 Mont. 18"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOn January 17, 1986, the Defendant was sentenced to Count I, Life Sentence, Deliberate Homicide plus ten (10) years for the use of a weapon; Count II, Life Sentence, Deliberate Homicide plus ten (10) years for the use of a weapon; Count III, Life Sentence, Deliberate Homicide plus ten (10) years for the use of a weapon; Count IV, ten (10) years for Burglary; all above sentences shall be served consecutively. The defendant shall be designated a dangerous offender and must serve thirty (30) years on each life sentence, less good time allowance provided for in Section 53-30-105, MCA. The defendant is declared ineligible for parole and participation in the supervised released program.\nOn July 23,1992, the Defendant\u2019s application for review of that sentence was heard by the Sentence Review Division of the Montana Supreme Court.\nThe Defendant was present and was represented by Michael Donahoe, Attorney from Helena, Montana. The state was represented by Stephen Hagerman, Deputy County Attorney, from Great Falls, Montana.\nBefore hearing the application, the Defendant was advised that the Sentence Review Division has the authority not only to reduce the sentence or affirm it, but also to increase it if such is possible. The defendant was further advised that there is no appeal from a decision of the Sentence Review Division. The defendant acknowledged that he understood this and stated that he wished to proceed.\nAfter careful consideration, it is the unanimous decision of the Sentence Review Division that the sentence shall remain the same as originally imposed.\nThe reason for the decision is the sentence imposed by the District Court is presumed correct pursuant to Section 46-18-904(3), MCA. The Division finds that the reasons advanced for modification are insufficient to deem inadequate or excessive as required to overcome the presumption per Rule 17 of the Rules of the Sentence Review Division of the Montana Supreme Court.\nHon. Ed McLean, Chairman, Hon. Frank M. Davis, Acting Member, Hon. G. Todd Baugh, Judges.\nThe Sentence Review Board wishes to thank Michael Donahoe, Attorney at Law from Helena for his assistance to the defendant and to this Court. We also wish to thank Stephen Hagerman, Deputy County Attorney from Great Falls for representing the state.\n",
+            "ocr": true,
+            "opinion_id": 8027924
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Murder"
+}

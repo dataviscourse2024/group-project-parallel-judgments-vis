@@ -1,8 +1,8 @@
 {
     "id": 1329565,
     "judges": "Denny",
-    "date_filed": -290995200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-02-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-case",
     "case_name_short": "Case",
     "case_name": "State v. Case",

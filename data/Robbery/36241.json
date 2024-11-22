@@ -1,8 +1,8 @@
 {
     "id": 6600488,
     "judges": "Hays, Lockwood, Udall",
-    "date_filed": 49075200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-06-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-brooks",
     "case_name_short": "Brooks",
     "case_name": "State v. Brooks",

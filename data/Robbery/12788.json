@@ -1,8 +1,8 @@
 {
     "id": 1012068,
     "judges": "Hamilton, Per Curiam, Traxler, Williams",
-    "date_filed": 1071100800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-11-02",
+    "date_filed_is_approximate": true,
     "slug": "orbe-v-true",
     "case_name_short": "Orbe",
     "case_name": "Orbe v. True",

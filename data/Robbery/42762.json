@@ -1,8 +1,8 @@
 {
     "id": 7904774,
     "judges": null,
-    "date_filed": 605750400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-08-05",
+    "date_filed_is_approximate": true,
     "slug": "state-v-harrell",
     "case_name_short": "Harrell",
     "case_name": "State v. Harrell",

@@ -1,8 +1,8 @@
 {
     "id": 1140939,
     "judges": "Brett, Bussey, Nix",
-    "date_filed": 16848000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-06-26",
+    "date_filed_is_approximate": true,
     "slug": "peterson-v-state",
     "case_name_short": "Peterson",
     "case_name": "Peterson v. State",

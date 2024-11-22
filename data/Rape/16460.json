@@ -1,8 +1,8 @@
 {
     "id": 2055480,
     "judges": "Foley, Kalitowski, Stone",
-    "date_filed": 633052800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-07-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mosby",
     "case_name_short": "Mosby",
     "case_name": "State v. Mosby",

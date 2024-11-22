@@ -1,0 +1,46 @@
+{
+    "id": 6032115,
+    "judges": null,
+    "date_filed": "2003-01-18",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-wilson",
+    "case_name_short": "Wilson",
+    "case_name": "People v. Wilson",
+    "case_name_full": "The People of the State of New York v. Gregory Wilson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "129 A.D.2d 825"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Owens, J.), rendered June 30, 1983, convicting him of murder in the second degree and assault in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nWe find unpersuasive the defendant\u2019s contention that the trial court erroneously denied his request to charge the crime of manslaughter in the second degree as a lesser included offense of murder in the second degree. In order for such a *826charge to be submitted to the jury, there must be a reasonable view of the evidence which would support a conviction of the defendant for the lesser crime and not the greater (see, CPL 300.50 [1]; People v Glover, 57 NY2d 61; People v Green, 56 NY2d 427, rearg denied 57 NY2d 775). We conclude, as did the trial court, that the eyewitness accounts of the killing and the extensive medical testimony in this case negate any reasonable possibility that the jury could have found the defendant guilty of manslaughter in the second degree and not guilty of one of the greater homicide offenses (see, e.g., People v Brensic, 119 AD2d 281, lv granted 69 NY2d 719; People v Bova, 122 AD2d 798, lv denied 68 NY2d 810; People v Doctor, 98 AD2d 780).\nWe find similarly unavailing the defendant\u2019s contention that the court should have granted his motion for a mistrial based upon the photo identification of the defendant by an eyewitness at the crime scene (see, Matter of Michael J., 117 AD2d 602, 603; People v Williams, 87 AD2d 876; People v Tillman, 74 AD2d 911).\nAdditionally, we discern no error in the sentencing of the defendant, as the court was fully aware of his lengthy criminal history, his personal and social background, and the serious nature of the instant offenses (see, People v Pedraza, 66 NY2d 626; People v Farrar, 52 NY2d 302; People v Suitte, 90 AD2d 80).\nWe have considered the defendant\u2019s remaining contention and find it to be without merit (see, People v Pobliner, 32 NY2d 356, cert denied 416 US 905). Lawrence, J. P., Weinstein, Kunzeman and Kooper, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5895061
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1040517,
     "judges": null,
-    "date_filed": 1378857600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-05-27",
+    "date_filed_is_approximate": true,
     "slug": "the-people-v-crawford-ca11",
     "case_name_short": null,
     "case_name": "The People v. Crawford CA1/1",

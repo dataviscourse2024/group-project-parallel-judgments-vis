@@ -1,8 +1,8 @@
 {
     "id": 1199674,
     "judges": "Madsen",
-    "date_filed": 925948800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-10-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-finch",
     "case_name_short": "Finch",
     "case_name": "State v. Finch",

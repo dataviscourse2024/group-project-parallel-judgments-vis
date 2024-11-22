@@ -1,8 +1,8 @@
 {
     "id": 7769266,
     "judges": "Blue, Frank, Parker",
-    "date_filed": 864777600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-08-18",
+    "date_filed_is_approximate": true,
     "slug": "ceg-v-sw",
     "case_name_short": "C.E.G.",
     "case_name": "C.E.G. v. S.W.",

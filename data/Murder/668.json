@@ -1,0 +1,47 @@
+{
+    "id": 7885499,
+    "judges": "Hodges",
+    "date_filed": "1980-06-17",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-jackson",
+    "case_name_short": null,
+    "case_name": "People v. Jackson",
+    "case_name_full": "The People of the State of Colorado v. Lawrence Thomas Jackson",
+    "attorneys": "J. D. MacFarlane, Attorney General, David W. Robbins, Deputy, Edward G. Donovan, Solicitor General, Lynne Ford, Assistant Attorney General, for plaintiff-appellee., J. Gregory Walta, State Public Defender, Craig L. Truman, Chief Deputy, Lee Belstock, Deputy, Steven H. Denman, Deputy, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied October 29, 1979.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "198 Colo. 193",
+        "601 P.2d 622"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hodges",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMR. CHIEF JUSTICE HODGES\ndelivered the opinion of the Court.\nThe appellant was convicted of first-degree assault upon a police officer under section 18-3-202(l)(e), C.R.S. 1973 (now in 1978 Repl. Vol. 8), and of resisting arrest, section 18-8-103, C.R.S. 1973 (now in 1978 Repl. *194Vol. 8). He previously appealed to this court on constitutional and evidentiary grounds. In that case we held the first-degree assault statute to be constitutionally sound as applied to the appellant and found no merit in his other contentions. People v. Jackson, 194 Colo. 93, 570 P.2d 527 (1977). The facts of this case are fully and adequately set forth in that opinion.\nJackson now brings an appeal on the limited grounds that he is entitled to a new trial because the jury was not instructed that an unreasonable, but good faith belief that the defendant used force against the police in self-defense is an affirmative defense. The appellant relies on People v. Bramlett, 194 Colo. 205, 573 P.2d 94 (1977), to support this contention.\nPeople v. Estrada. 198 Colo. 198, 601 P.2d 619 (1979), announced contemporaneously with this opinion, reaffirmed Bramlett\u2019s ruling that the divergent penalties of criminally negligent homicide and first-degree assault violate equal protection because both statutes proscribed similar conduct and intent. This limited Bramlett, however, and for the reasons therein expressed, we affirm the judgment of the trial court.\n",
+            "ocr": true,
+            "opinion_id": 7832213
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Murder"
+}

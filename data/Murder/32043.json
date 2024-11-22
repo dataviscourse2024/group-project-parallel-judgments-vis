@@ -1,0 +1,46 @@
+{
+    "id": 5750340,
+    "judges": "Russell",
+    "date_filed": "1974-06-04",
+    "date_filed_is_approximate": true,
+    "slug": "white-v-state",
+    "case_name_short": "White",
+    "case_name": "White v. State",
+    "case_name_full": "White v. State",
+    "attorneys": "A. H. Freeman, for plaintiff in error., J. R. Terrell, solicitor-general, W. L. Stallings, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Conviction of manslaughter, from Coweta superior court\u2014 Judge Freeman. May 30, 1907;",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted July 18,",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 Ga. App. 412"
+    ],
+    "opinions": [
+        {
+            "author_str": "Russell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRussell, J.\n1. The charge of the presiding judge was not, for any reason, erroneous. It is a clear, impartial, and comprehensive presentation of the law applicable to the evidence adduced in the case.\n(a) Evidence for the State showing that the killing occurred shortly after the deceased\u2019s attempt to kill the defendant, but after the deceased had' been disarmed, and while the deceased was making an 'assault upon the defendant, fully authorized the charge of the court upon the subject of voluntary manslaughter. If the jury believed this testimony, the killing could be attributed, either to the sudden irresistible impulse of passion aroused by the attempts of the deceased to slay the defendant before being disarmed, or to the fact that the defendant, no longer being in danger of losing his life or having a felony committed upon his person, killed the deceased merely to prevent an assault or an assault and battery. If this testimony was believed by the jury, th\u00e9 killing, in either event, would be voluntary manslaughter.\n&lt;i&gt;) There was no error in not charging the jury the principle of law contained in the Penal Code, \u00a772. This section refers only to homicides having their origin in a forcible attack and invasion of the property or habitation of another; and as there was no evidence tending to show that any attack or invasion of the habitation of the defendant *413was intended by the deceased, but that on the contrary he was a guest or visitor at defendant\u2019s residence before the beginning of the difficulty, a charge upon \u00a772 would have been unauthorized and erroneous.\nConviction of manslaughter, from Coweta superior court\u2014 Judge Freeman. May 30, 1907;\nSubmitted July 18,\nDecided July 25, 1907.\nA. H. Freeman, for plaintiff in error.\nJ. R. Terrell, solicitor-general, W. L. Stallings, contra.\n\nJudgment affirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 5602554
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

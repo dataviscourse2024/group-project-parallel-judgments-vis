@@ -1,8 +1,8 @@
 {
     "id": 8104415,
     "judges": "Gummere",
-    "date_filed": -1635465600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-01-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-rubin",
     "case_name_short": "Rubin",
     "case_name": "State v. Rubin",

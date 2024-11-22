@@ -1,8 +1,8 @@
 {
     "id": 2769382,
     "judges": null,
-    "date_filed": 1421107200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-08-17",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hill",
     "case_name_short": "Hill",
     "case_name": "State v. Hill",

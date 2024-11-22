@@ -1,8 +1,8 @@
 {
     "id": 8027301,
     "judges": "Knutson, Murphy, Otis, Peterson",
-    "date_filed": 69033600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-04-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-miller",
     "case_name_short": null,
     "case_name": "State v. Miller",

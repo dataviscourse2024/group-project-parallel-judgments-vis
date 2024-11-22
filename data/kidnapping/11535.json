@@ -1,8 +1,8 @@
 {
     "id": 1316663,
     "judges": "Petrich, Petrie, Reed",
-    "date_filed": 444614400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-07-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hudlow",
     "case_name_short": "Hudlow",
     "case_name": "State v. Hudlow",

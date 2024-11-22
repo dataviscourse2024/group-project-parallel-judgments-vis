@@ -1,8 +1,8 @@
 {
     "id": 2635707,
     "judges": "Carparelli, Connelly, Taubman",
-    "date_filed": 1233792000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-07-31",
+    "date_filed_is_approximate": true,
     "slug": "people-v-oram",
     "case_name_short": "Oram",
     "case_name": "People v. Oram",

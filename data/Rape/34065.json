@@ -1,0 +1,47 @@
+{
+    "id": 6163952,
+    "judges": null,
+    "date_filed": "1987-07-23",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-fullwood",
+    "case_name_short": "Fullwood",
+    "case_name": "People v. Fullwood",
+    "case_name_full": "The People of the State of New York v. James Fullwood",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "254 A.D.2d 431",
+        "678 N.Y.S.2d 904"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Westchester County (Cirigliano, J.), rendered April 22, 1996, convicting him of rape in the first degree, after a nonjury trial, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contention that the evidence is legally insufficient to establish his guilt beyond a reasonable doubt is unpreserved for appellate review, since at the close of the People\u2019s case he made only a general motion for dismissal and did not assert the ground that he now relies upon (see, CPL 470.05 [2]; People v Gray, 86 NY2d 10). In any event, viewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]; People v Sullivan, 159 AD2d 738).\nIn addition, the defendant has not preserved for appellate review his contention that the trial court\u2019s sanction for the unexplained loss of the recording officer\u2019s initial notes concerning his interview with the complaining witness was inadequate (see, People v Fields, 215 AD2d 775; People v Roe, 196 AD2d 899). In any event, the trial court\u2019s sanction, an adverse inference charge, was adequate.\nThe sentence imposed was not excessive (see, People v Suitte, 90 AD2d 80). O\u2019Brien, J. P., Sullivan, Pizzuto and Florio, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6029691
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

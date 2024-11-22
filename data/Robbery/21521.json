@@ -1,8 +1,8 @@
 {
     "id": 3180964,
     "judges": "Boyle, Jones, Smith",
-    "date_filed": 1456444800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-02-03",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-juan-ortega-calderon",
     "case_name_short": null,
     "case_name": "United States v. Juan Ortega-Calderon",

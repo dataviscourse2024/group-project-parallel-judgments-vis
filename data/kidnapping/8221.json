@@ -1,8 +1,8 @@
 {
     "id": 2458916,
     "judges": "Dudley, Hickman",
-    "date_filed": 352339200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-11-20",
+    "date_filed_is_approximate": true,
     "slug": "williams-v-state",
     "case_name_short": null,
     "case_name": "Williams v. State",

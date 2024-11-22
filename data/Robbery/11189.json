@@ -1,8 +1,8 @@
 {
     "id": 1273045,
     "judges": "Cameron, Hays, Holohan, Lockwood, Struck-Meyer",
-    "date_filed": 123206400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-01-09",
+    "date_filed_is_approximate": true,
     "slug": "in-re-maricopa-county-juvenile-action-no-j-73355",
     "case_name_short": "In Re Maricopa County, Juvenile Action No. J-73355",
     "case_name": "In Re Maricopa County, Juvenile Action No. J-73355",

@@ -1,8 +1,8 @@
 {
     "id": 2588297,
     "judges": "Agosti, Becker, Leavitt, Maupin, Rose, Shearing, Young",
-    "date_filed": 1028246400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-05-15",
+    "date_filed_is_approximate": true,
     "slug": "williams-v-state",
     "case_name_short": null,
     "case_name": "Williams v. State",

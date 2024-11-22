@@ -1,8 +1,8 @@
 {
     "id": 1377554,
     "judges": "Carley, Hunstein, Thompson",
-    "date_filed": 981331200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-14",
+    "date_filed_is_approximate": true,
     "slug": "perkinson-v-state",
     "case_name_short": "Perkinson",
     "case_name": "Perkinson v. State",

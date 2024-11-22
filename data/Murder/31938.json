@@ -1,0 +1,46 @@
+{
+    "id": 5727214,
+    "judges": "Fish",
+    "date_filed": "1977-03-02",
+    "date_filed_is_approximate": true,
+    "slug": "baynes-v-state",
+    "case_name_short": "Baynes",
+    "case_name": "Baynes v. State",
+    "case_name_full": "Baynes v. State",
+    "attorneys": "Eugene M. Baynes, for plaintiff in error., John O. Mart, altorney-g'eneral,tmd Joseph E. Pottle, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for murder. Before Judge Lewis. Jasper superior court. April 20, 1910.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "135 Ga. 219"
+    ],
+    "opinions": [
+        {
+            "author_str": "Fish",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nFish, C. J.\nUpon the trial of one of two defendants jointly indicted for murder, there was evidence tending to show that they both, about the same time, assaulted and wounded the person alleged to have been' killed, the defendant on trial using- a gun stock and a scantling, the other defendant shooting with a pistol, and that the person so wounded died several days thereafter from one or more of the wounds so indicted; but the evidence did not demand a finding that there was any conspiracy or common felonious design on the part of the defendants to take the life of such person, nor that any assault made by the defendant on trial caused his death. Held,, that the court should have instructed the jury to the effect, (1) that if the defendant on trial did not kill the deceased nor participate in the felonious design of the person who *220did kill him, but made a separate and independent assault upon the deceased, with a weapon likely to produce death, and with a separate intent of his own to kill the deceased, and under such circumstances that if death had ensued it would have been murder, then such defendant would be guilty of assault with intent to murder; and (2) that if the defendant on trial assaulted and wounded the deceased under such circumstances as just detailed, unlawfully, but without any intention to kill him, and such assault did not result in death, then he would be guilty of assault and battery. See Brooks v. State, 128 Ga. 261 (57 S. E. 483, 12 L. R. A. (N. S.) 889); Walker v. State, 116 Ga. 537 (5) (42 S. E. 787, 67 L. R. A. 426); McLeroy v. State, 125 Ga. 240 (1) (54 S. E. 125); Smith v. State, 127 Ga. 262 (56 S. E. 360). Where the defendant on trial was found guilty of murder, the failure to instruct the jury substantially as above indicated was cause for a new trial. Judgment reversed.\nOctober 11, 1910.\nIndictment for murder. Before Judge Lewis. Jasper superior court. April 20, 1910.\nEugene M. Baynes, for plaintiff in error.\nJohn O. Mart, altorney-g'eneral,tmd Joseph E. Pottle, solicitor-general, contra.\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5577498
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

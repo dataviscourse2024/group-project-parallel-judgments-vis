@@ -1,8 +1,8 @@
 {
     "id": 1343842,
     "judges": "Gregory, Harwell, Lewis, Littlejohn, Ness",
-    "date_filed": 437184000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-05-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-perry",
     "case_name_short": "Perry",
     "case_name": "State v. Perry",

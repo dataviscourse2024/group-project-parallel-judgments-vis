@@ -1,8 +1,8 @@
 {
     "id": 2341816,
     "judges": "Cohen, Glenn, Kurt, Norton, Odenwald, Patricia",
-    "date_filed": 1239062400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-05-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-flaugher",
     "case_name_short": "Flaugher",
     "case_name": "State v. Flaugher",

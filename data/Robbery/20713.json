@@ -1,8 +1,8 @@
 {
     "id": 2981311,
     "judges": null,
-    "date_filed": 1345420800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-08-20",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-james-wooten",
     "case_name_short": null,
     "case_name": "United States v. James Wooten",

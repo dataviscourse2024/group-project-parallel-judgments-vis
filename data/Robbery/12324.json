@@ -1,8 +1,8 @@
 {
     "id": 1441959,
     "judges": "Moody",
-    "date_filed": 775872000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-06-08",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-kelly",
     "case_name_short": "Kelly",
     "case_name": "United States v. Kelly",

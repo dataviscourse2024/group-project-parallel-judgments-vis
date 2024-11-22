@@ -1,8 +1,8 @@
 {
     "id": 230357,
     "judges": "Bratton, Murrah, Phillips",
-    "date_filed": -542592000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-11-09",
+    "date_filed_is_approximate": true,
     "slug": "myers-v-hunter",
     "case_name_short": "Myers",
     "case_name": "Myers v. Hunter",

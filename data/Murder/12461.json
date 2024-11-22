@@ -1,8 +1,8 @@
 {
     "id": 1465305,
     "judges": "Eagen, Larsen, Manderino, Nix, O'Brien, Pomeroy, Roberts",
-    "date_filed": 262569600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-02-10",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-brenizer",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Brenizer",

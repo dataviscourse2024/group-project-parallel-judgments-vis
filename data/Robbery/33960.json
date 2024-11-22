@@ -1,8 +1,8 @@
 {
     "id": 6142271,
     "judges": "Carni, Centra, Smith, Valentino, Whalen",
-    "date_filed": 1405036800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-08-03",
+    "date_filed_is_approximate": true,
     "slug": "reid-v-saj",
     "case_name_short": "Reid",
     "case_name": "Reid v. Saj",

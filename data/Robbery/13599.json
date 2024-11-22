@@ -1,8 +1,8 @@
 {
     "id": 1704613,
     "judges": "Anstead",
-    "date_filed": 973728000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-08-06",
+    "date_filed_is_approximate": true,
     "slug": "drew-v-state",
     "case_name_short": "Drew",
     "case_name": "Drew v. State",

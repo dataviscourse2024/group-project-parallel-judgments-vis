@@ -1,8 +1,8 @@
 {
     "id": 1297068,
     "judges": "Campbell, Greene, McCULLOUGH",
-    "date_filed": 1016496000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-09-17",
+    "date_filed_is_approximate": true,
     "slug": "state-v-harris",
     "case_name_short": "Harris",
     "case_name": "State v. Harris",

@@ -1,8 +1,8 @@
 {
     "id": 2969409,
     "judges": null,
-    "date_filed": 957398400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-02-09",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-allen",
     "case_name_short": "Allen",
     "case_name": "United States v. Allen",

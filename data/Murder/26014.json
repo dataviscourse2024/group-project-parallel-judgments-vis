@@ -1,0 +1,46 @@
+{
+    "id": 4478482,
+    "judges": null,
+    "date_filed": "2014-10-16",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-brown",
+    "case_name_short": "Brown",
+    "case_name": "People v. Brown",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2018 NY Slip Op 1769"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2018/2018_01769.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Brown (2018 NY Slip Op 01769)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Brown\r\n\r\n\r\n2018 NY Slip Op 01769\r\n\r\n\r\nDecided on March 16, 2018\r\n\r\n\r\nAppellate Division, Fourth Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on March 16, 2018\r\nSUPREME COURT OF THE STATE OF NEW YORK\r\nAppellate Division, Fourth Judicial Department\r\n\r\nPRESENT: CARNI, J.P., LINDLEY, NEMOYER, TROUTMAN, AND WINSLOW, JJ.\r\n\r\n\r\n276 KA 12-01620\r\n\r\n[*1]THE PEOPLE OF THE STATE OF NEW YORK, RESPONDENT,\r\nvEUGENE S. BROWN, ALSO KNOWN AS EUGENE NESMITH, DEFENDANT-APPELLANT. \r\n\r\n\r\n\r\n\r\n\r\n\r\nJEFFREY WICKS, PLLC, ROCHESTER (JEFFREY WICKS OF COUNSEL), FOR DEFENDANT-APPELLANT. \r\nSANDRA DOORLEY, DISTRICT ATTORNEY, ROCHESTER (LEAH R. MERVINE OF COUNSEL), FOR RESPONDENT. \r\n\r\n\r\n\tAppeal from a judgment of the Monroe County Court (Vincent M. Dinolfo, J.), rendered May 3, 2012. The judgment convicted defendant, upon a jury verdict, of murder in the second degree. \r\nIt is hereby ORDERED that the judgment so appealed from is unanimously affirmed.\r\nMemorandum: Defendant appeals from a judgment convicting him upon a jury verdict of murder in the second degree (Penal Law \u00a7 125.25 [1]). Defendant failed to preserve for our review his contention that County Court erred in failing to conduct an inquiry into whether jurors were sleeping during the trial (see People v Lancaster, 143 AD3d 1046, 1051 [3d Dept 2016], lv denied 28 NY3d 1147 [2017], reconsideration denied 29 NY3d 999 [2017]; People v Quinones, 41 AD3d 868, 868 [2d Dept 2007], lv denied 9 NY3d 1008 [2007]). We note that defendant asked the court to discharge one juror on the ground that he was \"grossly unqualified\" (CPL 270.35 [1]), the court granted his request and discharged the juror, and defendant did not request that the court inquire into the conduct of any other particular juror. Defendant also failed to preserve for our review his challenges to the court's Sandoval ruling (see People v Huitt, 149 AD3d 1481, 1482 [4th Dept 2017], lv denied 30 NY3d 950 [2017]), and its Molineux ruling (see People v Pendergraph, 150 AD3d 1703, 1704 [4th Dept 2017], lv denied 29 NY3d 1132 [2017]). We decline to exercise our power to review those unpreserved contentions as a matter of discretion in the interest of justice (see CPL 470.15 [6] [a]).\r\nEntered: March 16, 2018\r\nMark W. Bennett\r\nClerk of the Court\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4255735
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1806179,
     "judges": "Frank, Gallagher, Knutson, Peterson, Rogosheske, Sheran",
-    "date_filed": 8553600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-06-01",
+    "date_filed_is_approximate": true,
     "slug": "brown-v-state",
     "case_name_short": "Brown",
     "case_name": "Brown v. State",

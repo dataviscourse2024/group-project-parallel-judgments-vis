@@ -1,0 +1,46 @@
+{
+    "id": 8483965,
+    "judges": "Beezer, Smith, Tallman",
+    "date_filed": "2006-01-15",
+    "date_filed_is_approximate": true,
+    "slug": "arrasmith-v-conway",
+    "case_name_short": "Arrasmith",
+    "case_name": "Arrasmith v. Conway",
+    "case_name_full": "Kenneth D. ARRASMITH v. Jeff CONWAY, Warden of Idaho Correctional Center",
+    "attorneys": "Kenneth D. Arrasmith, Boise, ID, pro se., L. Lamont Anderson, Esq., Office of the Idaho Attorney General, Boise, ID, for Respondent-Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Jan. 23, 2009.*",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "312 F. App'x 931"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM **\nKenneth Arrasmith appeals the district court\u2019s denial of his petition for writ of habeas corpus. We have jurisdiction under 28 U.S.C. \u00a7\u00a7 1291 and 2253. We review de novo the district court\u2019s decision to deny a habeas petition. Slovik v. Yates, 545 F.3d 1181, 1185 (9th Cir.2008). We also review de novo a claim dismissed as procedurally defaulted. Cassett v. Stew*932art, 406 F.3d 614, 620 (9th Cir.2005). We affirm the district court.\nThe facts of the case are known to the parties and we do not repeat them here.\nI\nArrasmith argues that the state court\u2019s decision on his Brady claims involves an \u201cunreasonable application\u201d of Supreme Court precedent. See 28 U.S.C. \u00a7 2254(d)(1). We disagree. The undisclosed handguns would not have been favorable to Arrasmith\u2019s self-defense claim because the handguns were found in closed containers away from the victims\u2019 bodies and had not been recently handled. See United States v. Jernigan, 492 F.3d 1050, 1053 (9th Cir.2007). The undisclosed handguns would also not have been favorable to Arrasmith\u2019s request for a voluntary manslaughter instruction because the handguns are irrelevant to Arrasmith\u2019s theory of the case, no evidence links either victim to any handgun and ample evidence suggests that Arrasmith possessed a premeditated intent to kill. See id.\nFor similar reasons, the undisclosed handguns are immaterial because their disclosure would not have created a reasonable probability of a different result. See United States v. Agurs, 427 U.S. 97, 109-10, 96 S.Ct. 2392, 49 L.Ed.2d 342 (1976). The mere existence of two handguns near the crime scene, especially given the poor condition and relative inaccessibility of the handguns in this case, is insufficient to undermine confidence in the jury verdict.\nII\nArrasmith concedes that his Sixth Amendment claim premised on the trial court\u2019s refusal to instruct on voluntary manslaughter is procedurally defaulted and that he cannot establish cause and prejudice for the default. We deem this argument abandoned. See United States v. Kimble, 107 F.3d 712, 715 n. 2 (9th Cir.1997).\nAFFIRMED.\n\n This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8456015
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

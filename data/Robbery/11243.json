@@ -1,8 +1,8 @@
 {
     "id": 1278552,
     "judges": "Bell, Deen, Quillian",
-    "date_filed": 118281600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-09-03",
+    "date_filed_is_approximate": true,
     "slug": "shue-v-state",
     "case_name_short": "Shue",
     "case_name": "Shue v. State",

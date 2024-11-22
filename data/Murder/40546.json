@@ -1,0 +1,47 @@
+{
+    "id": 7450772,
+    "judges": "Coleman, Goodwyn, Livingston, Simpson",
+    "date_filed": "2015-08-03",
+    "date_filed_is_approximate": true,
+    "slug": "gilliland-v-state",
+    "case_name_short": "Gilliland",
+    "case_name": "Gilliland v. State",
+    "case_name_full": "Thomas Oscar GILLILAND v. STATE of Alabama",
+    "attorneys": "Morgan Reynolds, Grady Reynolds and Reynolds & Reynolds, Clanton, for appellant., John Patterson, Atty. Gen., and Jas. W. Webb, Asst. Atty. Gen., for State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "266 Ala. 24",
+        "93 So. 2d 745"
+    ],
+    "opinions": [
+        {
+            "author_str": "Simpson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSIMPSON, Justice.\nThe defendant appeals from a judgment of conviction of murder in the second degree and a sentence of thirty-eight years in the penitentiary.\nThe action of the trial court in overruling the defendant\u2019s motion for a new trial because of the improper conduct of the jury in inspecting the clothing of the deceased while deliberating on their verdict is urged as error to reverse. This is the only ruling pending trial meriting discussion.\nFollowing, briefly, is what occurred: The jury room was also used as a witness room, and the coroner left in this room the box containing the clothing worn by the deceased when he was killed; the box contained the shirt, underwear, pants and shoes, and one of the jurors removed the shirt and underwear from the box and inspected them to sec where the bullet had entered; other jurors also inspected these articles; the pants were also removed from the box, but whether or not the jurors inspected them is not clear; the shirt and underwear were soaked with blood and the front of the pants had the appearance of blood also; the shoes were not removed from the box; none of these articles of clothing were introduced in evidence on trial.\nThis conduct of the jury was clearly improper. The jury is not permitted to consider extraneous matters, but only that *26which is introduced into evidence pending trial. Humber v. State, 19 Ala.App. 451, 99 So. 68, certiorari denied 210 Ala. 559, 99 So. 73; 39 Am.Jur., \u00a7 84, p. 97; 23 C.J.S., Criminal Law, \u00a7 1369, p. 1038; 67 A.L.R. at page 1531.\nIn reviewing the ruling of the trial court on a motion for a new trial when extraneous matter apart from the trial is brought before the jury, the test is, whether, in our opinion, such matter might have influenced the jury in reaching their verdict. The observation in Oliver v. State, 232 Ala. 5, 10, 166 So. 615, 617, is apposite here:\n\u201cIt is established that in their deliberation the jury should be separated from and uninfluenced by the outside world. Any misconduct that might influence the jury, affect the verdict rendered or the punishment fixed, is a cause for a new trial. The test of vitiating influence upon a jury authorizing a new trial is not whether it did influence the jury to act without the evidence, but whether it might have unlawfully influenced the jury in the verdict returned, as to its nature, character, or degree, or the amount and extent of the punishment fixed by the jury within the statute.\u201d\nSee also Roan v. State, 225 Ala. 428, 143 So. 454; Williams v. State, 28 Ala.App. 481, 189 So. 81.\nWe entertain the view that the misconduct of the jury was error prejudicial to the defendant.\nThe Attorney General argues that the clothing would have been admissible in evidence anyway, thereby making its inspection by the jury error without injury. These articles may or may not have been admissible, Hyche v. State, 22 Ala.App. 176, 113 So. 644; Boyette v. State, 215 Ala. 472, 110 So. 812, a matter we need not decide. The fact that the clothing was not so-introduced, with right of the defendant to-a full and free cross examination with respect to them, made it improper for the jury to consider them. Authorities, supra.\nIt would be the merest conjecture to say that the misconduct of members of the jury in inspecting-these articles of clothing-might not have had some influence to the prejudice of the defendant on the verdict returned. Sympathy or indignation once-aroused in the average juror readily becomes enlisted to the prejudice of the person accused. Human feelings are easily excited by the exhibition of objects which appeal to the senses. Rollings v. State, 160 Ala. 82, 49 So. 329; Louisville &amp; N. R. Co. v. Pearson, 97 Ala. 211, 12 So. 176. In Rollings\u2019 case it was held prejudicial error to allow in evidence the saddle of the deceased on which he was riding when killed,, his suspenders he was wearing at the time, and tobacco, keys and ring found on his person. Pearson\u2019s case held it to be reversible error to allow in evidence only a shoe worn by the deceased when he was killed (a civil action). Certainly in the instant case the exhibition of the bloody shirt and undershirt with the bullet hole and the trousers, could not but excite the sympathy of the jurors who inspected them.\nOn the basis of the foregoing considerations, we are constrained to hold that there-was error in the ruling below, denying defendant\u2019s motion for a new trial on the stated ground.\nReversed and remanded.\nLIVINGSTON, C. J., and GOODWYN and COLEMAN, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7371432
+        }
+    ],
+    "court_short_name": "Supreme Court of Alabama",
+    "court_full_name": "Supreme Court of Alabama",
+    "court_type": "S",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

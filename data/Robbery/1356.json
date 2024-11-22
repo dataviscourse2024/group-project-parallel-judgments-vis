@@ -1,8 +1,8 @@
 {
     "id": 8026975,
     "judges": "Knutson",
-    "date_filed": -86400000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-05-30",
+    "date_filed_is_approximate": true,
     "slug": "state-ex-rel-wolfe-v-lund",
     "case_name_short": "Lund",
     "case_name": "State ex rel. Wolfe v. Lund",

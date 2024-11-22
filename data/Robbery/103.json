@@ -1,8 +1,8 @@
 {
     "id": 7768152,
     "judges": "Fulmer, Northcutt, Parker",
-    "date_filed": 857088000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-10-31",
+    "date_filed_is_approximate": true,
     "slug": "jenkins-v-state",
     "case_name_short": "Jenkins",
     "case_name": "Jenkins v. State",

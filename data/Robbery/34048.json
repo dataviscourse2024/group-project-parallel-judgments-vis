@@ -1,8 +1,8 @@
 {
     "id": 6160389,
     "judges": "Mikoll",
-    "date_filed": 896313600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-09-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-johnson",
     "case_name_short": null,
     "case_name": "People v. Johnson",

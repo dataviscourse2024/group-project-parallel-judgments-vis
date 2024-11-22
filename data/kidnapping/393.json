@@ -1,8 +1,8 @@
 {
     "id": 7827149,
     "judges": "Baschab, Cobb, McMillan, Shaw, Wise",
-    "date_filed": 1033084800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-09-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-walker",
     "case_name_short": "Walker",
     "case_name": "State v. Walker",

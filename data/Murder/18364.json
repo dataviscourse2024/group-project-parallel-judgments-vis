@@ -1,8 +1,8 @@
 {
     "id": 4769,
     "judges": null,
-    "date_filed": 706320000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-09-24",
+    "date_filed_is_approximate": true,
     "slug": "us-v-russell",
     "case_name_short": "Russell",
     "case_name": "U.S. v. Russell",

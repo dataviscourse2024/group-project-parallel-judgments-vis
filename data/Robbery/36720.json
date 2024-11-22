@@ -1,8 +1,8 @@
 {
     "id": 6705148,
     "judges": "Munson, Rowell, Start, Taft, Tyler, Watson",
-    "date_filed": -2132092800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-11-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-kimball",
     "case_name_short": "Kimball",
     "case_name": "State v. Kimball",

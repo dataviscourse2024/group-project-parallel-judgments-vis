@@ -1,8 +1,8 @@
 {
     "id": 686538,
     "judges": "Kozinski, Thompson, Wiggins",
-    "date_filed": 789264000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-01",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-lorenzo-soto-olivas",
     "case_name_short": null,
     "case_name": "United States v. Lorenzo Soto-Olivas",

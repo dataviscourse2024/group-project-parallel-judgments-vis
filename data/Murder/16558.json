@@ -1,8 +1,8 @@
 {
     "id": 2082958,
     "judges": "Erickstad, Paulson, Pederson, Sand, Vande, Walle",
-    "date_filed": 396835200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-01-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lind",
     "case_name_short": "Lind",
     "case_name": "State v. Lind",

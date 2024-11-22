@@ -1,8 +1,8 @@
 {
     "id": 7924769,
     "judges": "Forsberg, Popo, Popovich, Randall, Vich",
-    "date_filed": 460080000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-05-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-rud",
     "case_name_short": "Rud",
     "case_name": "State v. Rud",

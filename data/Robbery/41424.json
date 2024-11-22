@@ -1,8 +1,8 @@
 {
     "id": 7623966,
     "judges": "Lehan, Prank, Sanderlin",
-    "date_filed": 540000000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-06-03",
+    "date_filed_is_approximate": true,
     "slug": "lewis-v-state",
     "case_name_short": "Lewis",
     "case_name": "Lewis v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1169996,
     "judges": "Krucker",
-    "date_filed": -14428800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-03-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-christopher",
     "case_name_short": "Christopher",
     "case_name": "State v. Christopher",

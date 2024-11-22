@@ -1,8 +1,8 @@
 {
     "id": 8799469,
     "judges": "Neese",
-    "date_filed": -4752000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-05-20",
+    "date_filed_is_approximate": true,
     "slug": "lawson-v-neil",
     "case_name_short": "Lawson",
     "case_name": "Lawson v. Neil",

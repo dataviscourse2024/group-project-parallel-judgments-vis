@@ -1,8 +1,8 @@
 {
     "id": 13423,
     "judges": "Duplantier, King, Politz",
-    "date_filed": 880329600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-02-21",
+    "date_filed_is_approximate": true,
     "slug": "rodriguez-v-sarabyn",
     "case_name_short": "Rodriguez",
     "case_name": "Rodriguez v. Sarabyn",

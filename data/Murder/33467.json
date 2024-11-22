@@ -1,0 +1,46 @@
+{
+    "id": 6037848,
+    "judges": null,
+    "date_filed": "2002-04-30",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-herrera",
+    "case_name_short": "Herrera",
+    "case_name": "People v. Herrera",
+    "case_name_full": "The People of the State of New York v. Willie Herrera",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "135 A.D.2d 830"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the Supreme Court, Queens County (Balbach, J.), rendered May 8, 1986, convicting him of bribery in the second degree (two counts) and attempted bribery in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s conviction stems from his participation in a scheme to bribe two police detectives and a special investigator posing as a corrupt police official in order to stop police ticketing of his illegal after-hours club and its patrons. Immediately after the initial bribe offer by the defendant\u2019s wife, the *831detectives notified the Internal Affairs Division. Ultimately, the State Special Prosecutor\u2019s Office was also notified. The detectives carried a tape recorder to record their discussions with the defendant and his wife.\nThe defendant charges that the police conduct rose to such a level of impropriety as to deprive him of due process (see, People v Isaacson, 44 NY2d 511, rearg denied 45 NY2d 776). Pursuant to People v Isaacson (supra), we must examine (1) whether the police manufactured a crime which otherwise would not have occurred \u2014 the defendant\u2019s wife approached detectives investigating a homicide and she and the defendant negotiated the protection money payoffs; (2) whether the police themselves engaged in criminal conduct \u2014 the detectives immediately reported the offer to their superiors and the Office of the State Special Prosecutor; (3) whether the defendant\u2019s reluctance to commit the crime was overcome by humanitarian appeals \u2014 there is no evidence in the record which shows the defendant was a reluctant participant; and (4) whether the record reveals a desire to simply obtain a conviction \u2014 the record is devoid of such evidence. Under this analysis, it is clear the police conduct here was legal and did not violate the defendant\u2019s due process rights.\nThe defendant also claims that his guilt was not proven beyond a reasonable doubt. The evidence was legally sufficient to support the verdict (see, People v Contes, 60 NY2d 620). Tape-recorded conversations with the defendant showed that he suggested the payoffs and actually paid one of the detectives $150 on two separate occasions. The fact that his wife did much of the talking for the couple does not demonstrate that the defendant was a victim of guilt by association.\nWe have examined the defendant\u2019s other claims of error and find them to be unpreserved or without merit. Bracken, J. P., Kunzeman, Spatt and Harwood, JJ., concur. [See, 131 Mise 2d 96.]\n",
+            "ocr": true,
+            "opinion_id": 5900958
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

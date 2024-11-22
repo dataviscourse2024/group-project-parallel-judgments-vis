@@ -1,8 +1,8 @@
 {
     "id": 2729260,
     "judges": "Calabria, Elmore, Stephens",
-    "date_filed": 1390262400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-12-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mcgrady",
     "case_name_short": "McGrady",
     "case_name": "State v. McGrady",

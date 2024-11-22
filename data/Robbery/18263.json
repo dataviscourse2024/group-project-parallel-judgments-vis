@@ -1,8 +1,8 @@
 {
     "id": 2408151,
     "judges": "Brown",
-    "date_filed": 221875200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-09-21",
+    "date_filed_is_approximate": true,
     "slug": "masters-v-state",
     "case_name_short": "Masters",
     "case_name": "Masters v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 7506353,
+    "judges": "Allen, Liles, Pierce",
+    "date_filed": "2010-01-25",
+    "date_filed_is_approximate": true,
+    "slug": "jackson-v-state",
+    "case_name_short": null,
+    "case_name": "Jackson v. State",
+    "case_name_full": "Willie Perry JACKSON v. STATE of Florida",
+    "attorneys": "Harry Lee, Sebring, for appellant., Earl Faircloth, Atty. Gen., Tallahassee, and Robert R. Crittenden, Asst. Atty. Gen., Lakeland, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "215 So. 2d 784"
+    ],
+    "opinions": [
+        {
+            "author_str": "Allen",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nALLEN, Judge.\nAppellant has filed this appeal from a final order of the trial court denying his amended Motion to Vacate Judgment and Sentence under Florida Criminal Rules of Procedure 1.850, formerly Rule 1, 33 F.S.A.\nThe appellant, defendant below, was indicted by the grand jury of Highlands County on September 28, 1965, for murder in the first degree.\nOn August 30, 1965, two attorneys were appointed by the court to represent the defendant and on November 5, 1965, he was arraigned and plead not guilty by reason of insanity. On November 8, 1965, the court ordered psychiatric examination of the defendant and the reports showed he was sane at the time of the commission of the purport\u00e9d crime, and that he could assist his counsel in the defense of the charges lodged against him.\nOn January 28, 1966, the defendant was tried and after the State rested its case the defendant moved for a directed verdict on the ground that the State had failed to prove that the death of the decedent was caused by the bullet wounds inflicted by the defendant, which motion was denied by the court.\nCounsel for the defendant asked permission of the court to withdraw his plea of not guilty and to enter his plea of guilty with request for mercy.\nCounsel representing the State said:\n\u201cYour Honor, in view of that request, of entering a plea of guilty, the State will not object to the Court accepting that plea, and on the basis that he get a life sentence.\n\u201cTHE COURT: Bring the prisoner to the bar. \u2014 You have consulted with your counsel on this action?\n\u201cWILLIE PERRY JACKSON: Yes sir.\n\u201cTHE COURT: And this is your decision ?\n\u201cWILLIE PERRY JACKSON: Yes sir.\n\u201cTHE COURT: All right, the Court accepts your plea of guilty and adjudicates you to stand guilty of the crime of murder in the first degree as charged in the indictment in this case. Do you have any cause to say why sentence should not be imposed upon you ?\n\u201cWILLIE PERRY JACKSON: [Shaking head]\n\u201cTHE COURT: The taking of a human life, even under the responsibility and the cold logic and adversary proceeding of a trial under the sanction and duty of law is an awesome responsibility, but to take it as you did under this evidence involving a dispute of money, however right your position as to that money be, is wholly defenseless. It\u2019s *786the judgment and sentence of this Court that you be confined by the Department of Corrections of the State of Florida for the term of your natural life.\u201d\nWe have read the entire testimony that was adduced against the defendant and find that the action of pleading guilty was done by his counsel and that the defendant concurred in it as he was questioned by the able trial judge and the defendant admitted this was willingly done by him.\nThe testimony in this case would have been sufficient to have sent the defendant to the electric chair had the jury so determined. The defendant pleaded guilty in order to receive a life sentence instead of a possible death sentence. He must now accept the consequences of his voluntary action in pleading guilty.\nWe conclude that the lower court\u2019s order denying appellant\u2019s amended motion to vacate judgment and sentence was correct and should be affirmed.\nAffirmed.\nLILES, C. J., and PIERCE, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7429537
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

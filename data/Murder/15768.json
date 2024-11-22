@@ -1,8 +1,8 @@
 {
     "id": 1902908,
     "judges": "Chehardy",
-    "date_filed": 942192000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-02-12",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jones",
     "case_name_short": "Jones",
     "case_name": "State v. Jones",

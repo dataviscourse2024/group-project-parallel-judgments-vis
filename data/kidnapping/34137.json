@@ -1,8 +1,8 @@
 {
     "id": 6180247,
     "judges": null,
-    "date_filed": 951955200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-11-27",
+    "date_filed_is_approximate": true,
     "slug": "people-v-you",
     "case_name_short": "You",
     "case_name": "People v. You",

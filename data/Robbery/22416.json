@@ -1,8 +1,8 @@
 {
     "id": 3411838,
     "judges": "Broyles, Guerry, MacIntyre",
-    "date_filed": -938044800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-11-30",
+    "date_filed_is_approximate": true,
     "slug": "norman-v-state",
     "case_name_short": "Norman",
     "case_name": "Norman v. State",

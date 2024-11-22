@@ -1,8 +1,8 @@
 {
     "id": 8926695,
     "judges": "Bownes",
-    "date_filed": 412560000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-11-14",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-southard",
     "case_name_short": "Southard",
     "case_name": "United States v. Southard",

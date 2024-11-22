@@ -1,8 +1,8 @@
 {
     "id": 2879980,
     "judges": null,
-    "date_filed": 1250640000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-03-22",
+    "date_filed_is_approximate": true,
     "slug": "lawrence-dale-v-state",
     "case_name_short": null,
     "case_name": "Lawrence Dale v. State",

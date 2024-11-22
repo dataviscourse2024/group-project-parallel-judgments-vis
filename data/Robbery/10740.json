@@ -1,8 +1,8 @@
 {
     "id": 1235169,
     "judges": "Loken, Chief Judge, Riley, and Smith, Circuit Judges",
-    "date_filed": 1214179200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-09-29",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-starr",
     "case_name_short": "Starr",
     "case_name": "United States v. Starr",

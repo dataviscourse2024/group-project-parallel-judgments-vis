@@ -1,8 +1,8 @@
 {
     "id": 1404918,
     "judges": "Durham, Howe, Russon, Stewart, Zimmerman",
-    "date_filed": 908496000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-02-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-dutchie",
     "case_name_short": "Dutchie",
     "case_name": "State v. Dutchie",

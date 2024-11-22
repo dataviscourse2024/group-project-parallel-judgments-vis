@@ -1,8 +1,8 @@
 {
     "id": 2218825,
     "judges": "Knecht, Lund, Steigmann",
-    "date_filed": 709862400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-02-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lawson",
     "case_name_short": "Lawson",
     "case_name": "People v. Lawson",

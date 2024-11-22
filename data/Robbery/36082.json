@@ -1,8 +1,8 @@
 {
     "id": 6567774,
     "judges": "Crosby",
-    "date_filed": -1100736000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-08-17",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-millen",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Millen",

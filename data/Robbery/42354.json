@@ -1,8 +1,8 @@
 {
     "id": 7813223,
     "judges": "Murray, Plotkin, Waltzer",
-    "date_filed": 1032912000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-09-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jackson",
     "case_name_short": null,
     "case_name": "State v. Jackson",

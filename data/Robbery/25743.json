@@ -1,8 +1,8 @@
 {
     "id": 4415163,
     "judges": null,
-    "date_filed": 1499904000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-05-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-king",
     "case_name_short": "King",
     "case_name": "State v. King",

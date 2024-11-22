@@ -1,8 +1,8 @@
 {
     "id": 1560931,
     "judges": "Watkins, President Judge, and Jacobs, Hoffman, Cercone, Price, Van Der Voort and Spaeth",
-    "date_filed": 249868800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-01",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-dorsey",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Dorsey",

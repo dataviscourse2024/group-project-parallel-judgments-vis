@@ -1,0 +1,47 @@
+{
+    "id": 6997598,
+    "judges": null,
+    "date_filed": "2011-04-24",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-chaims",
+    "case_name_short": "Chaims",
+    "case_name": "State v. Chaims",
+    "case_name_full": "STATE v. CHAIMS",
+    "attorneys": "Mr. Henry E. McGinn (Messrs. Alfred F. Sears, Jr., and Nathan D. Simon on the brief), for Appellant., Messers. George E. Chamberlain, Attorney-General, and John H. Hall (Mr. Wilson T. Hume on the brief), for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Assauec with Intent to Rape\u2014Instruction\u2014Invadins Province op Jury.\u2014On trial for assault with intent to rape, the oourt did not invade the province of the jury in charging that, \u201cif the evidence establish the facts which usually accompany and precede the crime of rape when fully consummated, then if such facts and circumstances have not been explained, and the assault \u00cd3 made out, it is fair to presume that the assault was accompanied with the intent.\u201d</p>",
+    "summary": "Appeal from Multnomah: M. G. Munly, Judge. Elias Chaims was indicted for assault with intent to commit a rape upon a female child under fourteen years of age. Nellie Bower, the prosecutrix, testified that defendant took improper liberties with her. Other witnesses testified to the place where defendant was seen with her; and defendant denied the charge as sworn to by prosecutrix, and offered testimony as to his good reputation. The only exception relied upon for reversal on appeal was to the following instruction by the trial court to the jury: \u201cIf you find that the alleged assault was made as charged, then has the intent been sufficiently proven. The intent must be established from the evidence, but it may be inferred from the facts and circumstances in evidence in this case. If the evidence establish the facts which usually accompany and precede the crime of rape when fully consummated, then, if such facts and circumstances have not been explained, and the assault is made out, it is fair to presume that the assault was accompanied with the intent.\u201d The defendant was convicted and appeals.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": "[Argued January 10;",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "25 Or. 221",
+        "35 P. 450"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nThe alleged error upon which the defendant relies for a reversal of the judgment is a certain instruction excepted to and set out in the bill of exceptions. This instruction is a transcript of an instruction approved in State v. Newton, 44 Iowa, 45, where the defendant was indicted and convicted of a like offense. Upon the facts as presented by this record, we think the instruction was applicable, and did not invade the province of the jury. Judgment affirmed. Affirmed.\n",
+            "ocr": true,
+            "opinion_id": 6896529
+        }
+    ],
+    "court_short_name": "Oregon Supreme Court",
+    "court_full_name": "Oregon Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Oregon, OR",
+    "crime_category": "Rape"
+}

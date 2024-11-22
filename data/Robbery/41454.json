@@ -1,8 +1,8 @@
 {
     "id": 7630456,
     "judges": "Danahy, Lehan, Schoonover",
-    "date_filed": 566611200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-05-14",
+    "date_filed_is_approximate": true,
     "slug": "norton-v-state",
     "case_name_short": "Norton",
     "case_name": "Norton v. State",

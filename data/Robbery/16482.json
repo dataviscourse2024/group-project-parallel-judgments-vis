@@ -1,8 +1,8 @@
 {
     "id": 2077965,
     "judges": "Smith, Judge, Kelley, Judge, and Jiuliante, Senior Judge",
-    "date_filed": 1008201600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-02-22",
+    "date_filed_is_approximate": true,
     "slug": "voss-v-pennsylvania-board-of-probation-parole",
     "case_name_short": "Voss",
     "case_name": "Voss v. Pennsylvania Board of Probation & Parole",

@@ -1,0 +1,47 @@
+{
+    "id": 7878149,
+    "judges": "Glaze",
+    "date_filed": "1991-10-08",
+    "date_filed_is_approximate": true,
+    "slug": "stanton-v-state",
+    "case_name_short": null,
+    "case_name": "Stanton v. State",
+    "case_name_full": "Clifton STANTON v. STATE of Arkansas",
+    "attorneys": "Terry Crabtree, for appellant., Steve Clark, Att\u2019y Gen., by: DavidB. Eberhard, Asst. Att\u2019y Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "299 Ark. 54",
+        "770 S.W.2d 147"
+    ],
+    "opinions": [
+        {
+            "author_str": "Glaze",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " T\u00f3m Glaze, Justice. This is an appeal from the trial court\u2019s denial of the appellant\u2019s petition for post-conviction relief without an evidentiary hearing. Appellant Clifton Stanton was convicted of murder in the first degree and was sentenced to forty (40) years imprisonment. He did not appeal his conviction, but he filed a timely Rule 37 petition alleging among other things ineffective assistance of counsel.  The appellant failed to abstract the court\u2019s order denying his Rule 37 petition, and the state did not provide a supplemental abstract. This court has held that the judgment or decree appealed from is ordinarily an essential component of the abstract. Brown v. State, 298 Ark. 396, 767 S.W.2d 313 (1989); Davis v. Wingfield, 297 Ark. 57, 759 S.W.2d 219 (1988). Because the appellant has failed to abstract the trial court\u2019s order, we affirm pursuant to Ark. Sup. Ct. R. 9(e)(1). Affirmed. ",
+            "ocr": true,
+            "opinion_id": 7824190
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 3156505,
     "judges": "Seitz",
-    "date_filed": 1447891200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-01-26",
+    "date_filed_is_approximate": true,
     "slug": "lawson-v-state",
     "case_name_short": "Lawson",
     "case_name": "Lawson v. State",

@@ -1,0 +1,57 @@
+{
+    "id": 3906749,
+    "judges": "Henderson, Taxxor",
+    "date_filed": "1992-08-27",
+    "date_filed_is_approximate": true,
+    "slug": "stout-v-wren",
+    "case_name_short": "Stout",
+    "case_name": "Stout v. Wren.",
+    "case_name_full": "Stout v. . Wren",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": "FROM RANDOLPH. The plaintiff and defendant had a quarrel and agreed to fight. After retiring for that purpose, defendant asked plaintiff \"if he would clear him of the law.\" Plaintiff answered, \"Yes,\" and defendant beat him. Plaintiff made no resistance during the beating, and, according to the testimony of some, was too much intoxicated to know what he what he was doing. Other witnesses thought otherwise.\n\nThe court instructed the jury that, if the plaintiff was so much intoxicated as not to know what he was doing, they ought to give\nhim a verdict; but if he was not ignorant of what he was about, he was not entitled to recover, having assented to the fight.\n\nThe jury found for the defendant. A new trial having been refused, and judgment rendered, plaintiff appealed.",
+    "syllabus": null,
+    "headnotes": "<p>A man shall not recover a recompense for an injury received by liis own consent, provided the act from which the injury is received be lawful: but where two fight by consent, and one is beaten, he may recover damages for the injury, because fighting is an unlawful act.</p>",
+    "summary": "From Randolph. The Plaintiff and Defendant had a quarrel and agreed to fight. After retiring for that purpose, Defendant asked Plaintiff \u201c if he would clear him of the law.\u201d Plaintiff answered, \u201c yesand Defendant beat him. Plaintiff made no resistance during the beating, and according to the testimony of some, was too much intoxicated to know what he was doing: other witnesses thought otherwise. The Court instructed the Jury, that if the Plaintiff Was so much intoxicated as not to know what he was doing, they ought to give him a verdict; but if he was not ignorant of what he was about, he was not entitled to recover, having assented to the fight. The Jury found for the Defendant. A new trial having been refused, and judgment rendered, Plaintiff appealed.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b424-5\">\n    Stout\n    <em>\n     v.\n    </em>\n    Wren.\n   </parties><summary id=\"Avon\">\n    From Randolph.\n   </summary><br><headnotes id=\"b424-8\">\n    A man shall not recover a recompense for an injury received by liis own consent, provided the act from which the injury is received be lawful: but where two fight by consent, and one is beaten, he may recover damages for the injury, because fighting is an unlawful act.\n   </headnotes><br><summary id=\"b424-9\">\n    The Plaintiff and Defendant had a quarrel and agreed to fight. After retiring for that purpose, Defendant asked Plaintiff \u201c if he would clear him of the law.\u201d Plaintiff answered, \u201c yesand Defendant beat him. Plaintiff made no resistance during the beating, and according to the testimony of some, was too much intoxicated to know what he was doing: other witnesses thought otherwise.\n   </summary><br><summary id=\"b424-10\">\n    The Court instructed the Jury, that if the Plaintiff Was so much intoxicated as not to know what he was doing, they ought to give him a\n    <em>\n     verdict;\n    </em>\n    but if he was not ignorant of what he was about, he was not entitled to recover, having assented to the fight.\n   </summary><br><summary id=\"b424-11\">\n    The Jury found for the Defendant. A new trial having been refused, and judgment rendered, Plaintiff appealed.\n   </summary>",
+    "citations": [
+        "8 N.C. 420"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Upon principle, unconnected with municipal law or policy, I doubt how far a person is entitled to recover damages, after having agreed to take his chance in a combat, and after the event had proved the miscalculation he made upon his own strength. Considering it merely as a violation of a private right, I should say, volenti non fit injuria.\nWhere the State is a party by way of indictment, the consent of the party does not stand in the way of a conviction, because the fine goes to the State for the injury done her by a breach of the peace. However, the authority in Buller's N. P., 16, is the other way, and, I am inclined to believe, has policy for its *Page 223 \nsupport. For these reasons, I acquiesce and agree that the   (422) rule for a new trial shall be made absolute.",
+            "ocr": false,
+            "opinion_id": 3652885
+        },
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5312.0,
+            "opinion_text": "It is equally reasonable and correct that a man shall not recover a recompense for an injury received by his own consent; but the rule must necessarily be received with this qualification, that the act from whence the injury proceeded be (421) lawful. Hence, in those manly sports and exercises which are thought to qualify men for the use of arms and to give them strength and activity, if two played by consent at cudgels, and one hurt the other, no action would lie. But where, in an action for assault and battery, the defendant offered to give in evidence that the plaintiff and he boxed by consent, from whence the inquiry proceeded, it was held to be no bar to the action; for, as the act of boxing is unlawful, the consent of the parties to fight could not excuse the injury. Boulter v.Clark, Buller, N. P., 16. The consequence of this distinction is apparent also in the law of homicide; for if death ensue from innocent and allowable recreations, the case will fall within the rule of excusable homicide; but if the sport be unlawful and endanger the peace, and death ensue, the party killing is guilty of manslaughter. Fost., 259. It is laid down in Mather v.Ollerton, Comberb., 218, that if one license another to beat him, such license is void, because it is against the peace, and the plaintiff recovered a verdict and judgment.\nThe case was very fairly put to the jury as to the evidence of the plaintiff's intoxication; but I think the law was misconceived in stating to them that if the plaintiff was sober, and assented, he was not entitled to recover. There must be a\nNew trial.",
+            "ocr": false,
+            "opinion_id": 3652884
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

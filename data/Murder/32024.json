@@ -1,0 +1,47 @@
+{
+    "id": 5747028,
+    "judges": "Weltner",
+    "date_filed": "1972-06-13",
+    "date_filed_is_approximate": true,
+    "slug": "clifton-v-state",
+    "case_name_short": "Clifton",
+    "case_name": "Clifton v. State",
+    "case_name_full": "CLIFTON v. State",
+    "attorneys": "Sandra L. Heath, David R. Rogers, for appellant., William G. Hamrick, Jr., District Attorney, Peter J. Skandalakis, Assistant District Attorney, Michael J. Bowers, Attorney General, Mary H. Hines, Staff Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "261 Ga. 825",
+        "412 S.E.2d 277"
+    ],
+    "opinions": [
+        {
+            "author_str": "Weltner",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWeltner, Presiding Justice.\nCalvin Clifton shot and killed Theodore Smith with a handgun. He beat his wife, Louise Clifton, with the same weapon. He was convicted by a jury of murder and aggravated assault, and was sentenced to life imprisonment and a term of years. 1\n1. The evidence is sufficient under Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979).\n2. A charge on voluntary manslaughter was not required, because the evidence raised the possibility only of factual findings of murder or accident.\n3. A jury charge that (\u201cYou should consider with great care and caution the evidence of any statement made by the defendant\u201d) was agreed to by the defendant, and was not burden-shifting.\n4. Defense counsel was not ineffective. The privilege of refusing to testify belonged to Clifton\u2019s wife, and could not have been asserted by him. Because the defense strategy was to portray Louise Clifton as promiscuous, a failure to object to her testimony concerning her premarital relationship with Clifton was not ineffective.\n*826Decided January 17, 1992.\nSandra L. Heath, David R. Rogers, for appellant.\nWilliam G. Hamrick, Jr., District Attorney, Peter J. Skandalakis, Assistant District Attorney, Michael J. Bowers, Attorney General, Mary H. Hines, Staff Attorney, for appellee.\n5. There is no ground for relief in failure of defense counsel to arrange for a verbatim transcript of the Jackson-Denno hearing.\n6. The opinion of a pathologist concerning the distance of the handgun\u2019s muzzle from the head of the decedent at the time that the fatal shot was fired was within his area of expertise, and was based upon many years of experience in examining gunshot wounds. There was no error.\n\nJudgment affirmed.\n\n\nClarke, C. J., Bell, Hunt, Benham. and Fletcher, JJ., concur.\n\n\n The offenses occurred on July 30, 1990. Clifton was indicted on November 6, 1990. He was found guilty on November 28, 1990, and was sentenced the same date. His motion for new trial was filed on December 14, 1990, amended on February 22, 1991, and denied on May 7, 1991. A notice of appeal was filed in the Court of Appeals on June 6, 1991. The appeal was docketed in the Court of Appeals on September 9, 1991. The appeal was transferred to this court on September 26, 1991, and submitted on briefs on November 8, 1991.\n\n",
+            "ocr": true,
+            "opinion_id": 5598993
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

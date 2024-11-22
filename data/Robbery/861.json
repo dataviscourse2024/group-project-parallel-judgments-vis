@@ -1,8 +1,8 @@
 {
     "id": 7926082,
     "judges": "Hus, Parker, Peni, Randall",
-    "date_filed": 526608000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-10-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-isenberg",
     "case_name_short": "Isenberg",
     "case_name": "State v. Isenberg",

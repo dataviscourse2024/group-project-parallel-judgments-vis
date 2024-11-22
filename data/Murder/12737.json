@@ -1,8 +1,8 @@
 {
     "id": 1537629,
     "judges": "Judges Lynch, Larner and Horn",
-    "date_filed": 195091200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-05-05",
+    "date_filed_is_approximate": true,
     "slug": "state-v-sims",
     "case_name_short": "Sims",
     "case_name": "State v. Sims",

@@ -1,0 +1,47 @@
+{
+    "id": 7252109,
+    "judges": "Breaux",
+    "date_filed": "1984-08-05",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-sonier",
+    "case_name_short": "Sonier",
+    "case_name": "State v. Sonier",
+    "case_name_full": "STATE v. SONIER",
+    "attorneys": "Joseph Gilbert Fournet, for appellant. Walter Gui\u00f3n, Atty. Gen., and Leland I-Iugh Moss, Dist. Atty. (Lewis Gui\u00f3n, of counsel), for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Criminar Law \u2014 Appear\u2014Record.</p> <p>The proceedings which resulted in defendant\u2019s conviction were regularly conducted, and defendant failed to bring up for review any ground upon which he can possibly obtain relief.</p> <p>(Syllabus by the Court.)</p>",
+    "headnotes": null,
+    "summary": "Appeal from Fifteenth Judicial District Court, Parish of Calcasieu; Edmund Dennis Miller, Judge. Mallory Sonier was convicted of shooting with intent to kill, and appeals.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "115 La. 1106",
+        "40 So. 473"
+    ],
+    "opinions": [
+        {
+            "author_str": "Breaux",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBREAUX, C. J.\nAn indictment was found against the defendant in this ease charging him, in due form, with having shot one Charles Rice with a pistol with intent to murder.\nHe waived arraignment, and pleaded not guilty.\nHe was tried. The jury by whom he was tried found him guilty of willfully and feloniously shooting with intent to' kill.\nHe was sentenced to imprisonment in the state penitentiary for 10 years.\nThe record does not show that a bill of exception was taken, no motion in arrest of judgment, no motion for a new trial made, nor any assignment of errors filed. There is nothing before us to review on appeal.\nIt is therefore ordered, adjudged, and decreed that the verdict and sentence are affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7165313
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

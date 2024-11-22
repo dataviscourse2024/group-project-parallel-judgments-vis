@@ -1,8 +1,8 @@
 {
     "id": 9321726,
     "judges": "Stranahan",
-    "date_filed": 425779200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-03-28",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-hughes",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Hughes",

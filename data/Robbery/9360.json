@@ -1,8 +1,8 @@
 {
     "id": 1043139,
     "judges": "Howard, Stahl, Thompson",
-    "date_filed": 1380758400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-07-22",
+    "date_filed_is_approximate": true,
     "slug": "damon-v-united-states",
     "case_name_short": "Damon",
     "case_name": "Damon v. United States",

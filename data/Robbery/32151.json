@@ -1,8 +1,8 @@
 {
     "id": 5772564,
     "judges": "Guerry",
-    "date_filed": -1050624000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-08-21",
+    "date_filed_is_approximate": true,
     "slug": "hale-v-state",
     "case_name_short": "Hale",
     "case_name": "Hale v. State",

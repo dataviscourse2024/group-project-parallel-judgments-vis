@@ -1,8 +1,8 @@
 {
     "id": 7566615,
     "judges": "Harris",
-    "date_filed": 282873600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-07-15",
+    "date_filed_is_approximate": true,
     "slug": "pinkston-v-state",
     "case_name_short": "Pinkston",
     "case_name": "Pinkston v. State",

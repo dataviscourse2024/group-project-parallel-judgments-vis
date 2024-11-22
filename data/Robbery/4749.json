@@ -1,8 +1,8 @@
 {
     "id": 8709678,
     "judges": "Griesa",
-    "date_filed": 684028800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-10-08",
+    "date_filed_is_approximate": true,
     "slug": "bonilla-v-hoke",
     "case_name_short": "Bonilla",
     "case_name": "Bonilla v. Hoke",

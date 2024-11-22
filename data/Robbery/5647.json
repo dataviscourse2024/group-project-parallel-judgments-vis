@@ -1,8 +1,8 @@
 {
     "id": 8898327,
     "judges": "Sweet",
-    "date_filed": 472435200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-04-06",
+    "date_filed_is_approximate": true,
     "slug": "sherrier-v-richard",
     "case_name_short": "Sherrier",
     "case_name": "Sherrier v. Richard",

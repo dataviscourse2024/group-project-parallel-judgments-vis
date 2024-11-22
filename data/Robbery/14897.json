@@ -1,8 +1,8 @@
 {
     "id": 1276827,
     "judges": "Kelley",
-    "date_filed": 11836800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-06-02",
+    "date_filed_is_approximate": true,
     "slug": "maciel-v-people",
     "case_name_short": "MacIel",
     "case_name": "MacIel v. People",

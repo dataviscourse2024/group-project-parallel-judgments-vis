@@ -1,8 +1,8 @@
 {
     "id": 1837552,
     "judges": "Stringer",
-    "date_filed": 1137715200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-04-13",
+    "date_filed_is_approximate": true,
     "slug": "cohen-v-state",
     "case_name_short": "Cohen",
     "case_name": "Cohen v. State",

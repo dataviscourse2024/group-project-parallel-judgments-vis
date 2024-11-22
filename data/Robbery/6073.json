@@ -1,8 +1,8 @@
 {
     "id": 8976520,
     "judges": "Becker, Gibbons, Rosenn",
-    "date_filed": 607046400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-07-30",
+    "date_filed_is_approximate": true,
     "slug": "burt-v-ferrese",
     "case_name_short": "Burt",
     "case_name": "Burt v. Ferrese",

@@ -1,0 +1,46 @@
+{
+    "id": 4763707,
+    "judges": null,
+    "date_filed": "2012-06-21",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-martinez",
+    "case_name_short": "Martinez",
+    "case_name": "People v. Martinez",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2020 NY Slip Op 3591"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2020/2020_03591.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Martinez (2020 NY Slip Op 03591)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Martinez\r\n\r\n\r\n2020 NY Slip Op 03591\r\n\r\n\r\nDecided on June 25, 2020\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on June 25, 2020\r\n\r\nFriedman, J.P., Richter, Gesmer, Oing, Singh, JJ.\r\n\r\n\r\n11687 3763/12\r\n\r\n[*1] The People of the State of New York, Respondent,\r\nvOmar Martinez, Defendant-Appellant.\r\n\r\n\r\nChristina A. Swarns, Office of The Appellate Defender, New York (Stephen Chu of counsel), for appellant.\r\nOmar Martinez, appellant pro se.\r\nDarcel D. Clark, District Attorney, Bronx (Emily Anne Aldridge of counsel), for respondent.\r\n\r\n\r\n\r\nJudgment, Supreme Court, Bronx County (James W. Hubert, J.), rendered January 25, 2016, convicting defendant, after a jury trial, of murder in the second degree and criminal possession of a weapon in the fourth degree, and sentencing him to an aggregate term of 25 years to life, unanimously affirmed.\r\nThe court properly denied defendant's motion to suppress identification testimony. There was no need for a hearing pursuant to People v Rodriguez (79 NY2d 445 [1992]), or any other hearing, because defendant never disputed the People's assertion that the witness at issue was defendant's stepdaughter, who had extensive contact with and knew defendant well during the three years that he and the witness's mother were married, thus establishing a relationship familiarity (see People v Rodriguez, 47 AD3d 417 [1st Dept 2008], lv denied 10 NY3d 816 [2008]).\r\nDefendant did not preserve any of his remaining claims, and we decline to review them in the interest of justice. As an alternative holding, we find no basis for reversal. Although the cell site data should have been introduced through a competent witness, that error, or any other error involving that evidence or the DNA evidence was harmless (see People v Crimmins, 36 NY2d 230 [1975]). Defendant's challenges to the People's summation, and the argument raised in defendant's pro se brief are unavailing.\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: JUNE 25, 2020\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4544054
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

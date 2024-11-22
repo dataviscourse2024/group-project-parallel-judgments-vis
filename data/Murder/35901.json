@@ -1,0 +1,46 @@
+{
+    "id": 6536497,
+    "judges": "Shaw",
+    "date_filed": "1978-10-14",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-stafford",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Stafford",
+    "case_name_full": "Commonwealth v. John Stafford",
+    "attorneys": "H. C. Hutchins Sf E. F. Head, for the defendant., R. Choate, (attorney-general,) and J. C. Park, (district-attorney,) for the commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>An indictment for murder will not be quashed merely because it alleges that the death was caused by a series of beatings administered on different days and months of the same year.</p>",
+    "summary": "The defendant was tried for the murder of his wife, Ellen Stafford, February 22,1853, before the chief justice, and justices Metcalf and Bigelow. There were two counts in the indictment, both of which set forth that the defendant caused the death of his wife by a series of beatings, the first upon the 25th of September, 1852, the second, on the 26th of the same month, the third, on the 3d day of October, 1852, and the fourth, on the 4th day of the same month, and concluded as follows : \u201c And the said Ellen, at said Boston, on said fourth day of October, of the said mortal wounds, strokes, kicks, bruises, and compressions so received from the said John at the said several times and places as above set forth, and from the multiplicity of said injuries, did die; and so the jurors do say, that the said John Stafford, in manner and form as aforesaid, the said Ellen did then and there kill and murder,\u201d &c. The counsel for the prisoner filed a motion that the indictment be quashed, because, first, four distinct and separate offences or assaults are set forth therein, and, second, because it is nowhere alleged in the indictment that death resulted from any one of these assaults.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "66 Mass. 619"
+    ],
+    "opinions": [
+        {
+            "author_str": "Shaw",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nShaw, C. J.\nFrom the necessity of the case, embarrassing questions are often presented to us in the course of capital trials, and which we have little time to consider. We should like to have had more time for the consideration of the question now presented. But upon the consideration we are able to give, the court are of opinion, that murder may be committed in the manner set forth in this indictment. It is unusual, but we cannot say it is impossible, or that the evidence will not sustain it. Take the case of poisoning referred to in Hawkins\u2019s Pleas of the Crown, where poison is administered at various times. Murder is the result, and it is proper to set forth in the indictment that it was committed by poison administered at various times. Take a case of starvation ; a person may be deprived of food at various times, and so reduced as to produce death; the proper mode of setting forth the offence would be, that the person came to his death by being deprived of food at various times. 3 Inst. 50; 3 Chit. Crim. Law, 777; Regina v. Bird, 2 Eng. Law &amp; Eq. R. 448. Verdict, guilty of cm assault-\n",
+            "ocr": true,
+            "opinion_id": 6410217
+        }
+    ],
+    "court_short_name": "Massachusetts Supreme Judicial Court",
+    "court_full_name": "Massachusetts Supreme Judicial Court",
+    "court_type": "S",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Murder"
+}

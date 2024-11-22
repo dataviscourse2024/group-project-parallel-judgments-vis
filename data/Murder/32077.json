@@ -1,0 +1,46 @@
+{
+    "id": 5759172,
+    "judges": "Luke",
+    "date_filed": "2016-08-26",
+    "date_filed_is_approximate": true,
+    "slug": "bowman-v-state",
+    "case_name_short": "Bowman",
+    "case_name": "Bowman v. State",
+    "case_name_full": "Bowman v. State",
+    "attorneys": "John A. Fort, for plaintiff in error., Jule Felton, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Conviction of manslaughter; from Sumter superior court\u2014Judge Littlejohn. April 5, 1919.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 Ga. App. 274"
+    ],
+    "opinions": [
+        {
+            "author_str": "Luke",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLuke, J.\nIn the light of the qualifying notes of the trial judge, and when the entire evidence is considered, there is nothing in either of the two grounds of the amendment to the motion for a new trial which would authorize this court to set aside a verdict supported by the evidence and approved by the trial judge.\n\nJudgment affirmed.\n\n\nBroyles, O. J., and Bloodworth, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5611729
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

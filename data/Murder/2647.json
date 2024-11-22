@@ -1,0 +1,46 @@
+{
+    "id": 8293224,
+    "judges": "Thompson",
+    "date_filed": "1986-05-24",
+    "date_filed_is_approximate": true,
+    "slug": "kinion-v-kansas-city-springfield-memphis-railroad",
+    "case_name_short": "Kinion",
+    "case_name": "Kinion v. Kansas City, Springfield & Memphis Railroad",
+    "case_name_full": "B. J. Kinion v. Kansas City, Springfield & Memphis Railroad Company",
+    "attorneys": "Wallace Pratt and Olden & Green, for the appellant:, Livingston & Pitts, for the respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Damages \u2014 Stock Killed on Bailway Track \u2014 Adjoining Townships. . Where the plaintiff\u2019s cow was killed by a railroad train in a town- \u2022 ship other than that in which suit was commenced under the \u25a0 statute before a justice of the peace, it must be averred and proved that the two townships were adjoining, otherwise a judgment for \u25a0 the plaintiff cannot stand</p>",
+    "summary": "Appeal from the Howell Circuit Court, Hon. J. F. Hale, Judge. The suit was brought before a justice of the peace of Dry Creek township. The petition alleges, and the proof shows that the killing occurred in Hutton Valley township, but there is not one word of proof that Hutton Valley township adjoins Dry Creek township. Mitchell v. Railroad, 82 Mo. 106 ; Palmer v. Railroad, 21 Mo. App. 437; Bilis v. Railrood, 83 Mo. 372; Wright v. Railroad, 25 Mo. App. 236. In an action before a justice of the peace for damages-against a railroad .company for the killing of stock, the statement must show, in addition to other jurisdictional facts, that the animal was killed in the same township in which the justice is a justice, or in an adjoining township. Rev. Sfcat., sec. 2839; Vaughn v. Railroad, .17 Mo. App. 4; Matson v. Railroad, 80 Mo. 229 ; Backenstoe v. Railroad, 86 Mo. 492 ; Rohland v. Railroad, 89 Mo. 180.",
+    "disposition": "\nReversed and remanded.\n",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "30 Mo. App. 573"
+    ],
+    "opinions": [
+        {
+            "author_str": "Thompson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThompson, J.,\ndelivered the opinion of the court.\nThis was an action under section 809, R evised Statutes, to recover double damages for killing the plaintiff \u2019s cow at a place on the defendant\u2019s railway where its track was not fenced. The action was brought before a justice,of the peace of Dry Creek township, in Howell county. The statement averred, inferentially, that the cow was killed in Hutton Valley township, and the evidence showed that such was the fact. It was not alleged in the statement, nor was there any evidence tending to show that Hutton Valley township adjoins Dry Creek \u25a0township. The rule in such actions is, that, where the statement alleges that the killing occurred in a township other than the one in which the action is brought, -and *575does not aver that the two townships adjoin, and the evidence adduced fails to show that they adjoin, a demurrer to the evidence should be sustained. Ellis v. Railroad, 83 Mo. 372; Backenstoe v. Railroad, 86 Mo. 492. Not only must the statement show that the township in which the animal was killed adjoined the township in which the action was brought, but this must also be shown in the evidence. Mitchell v. Railroad, 82 Mo. 106; Palmer v. Railroad, 21 Mo. App. 437; Wright v. Railroad, 25 Mo. App. 236; Backenstoe v. Railroad, supra.\nFor the failure to aver and prove this essential fact, the demurrer to the evidence should have been sustained ; and accordingly we must reverse the judgment. As the defect may be cured by amendment in the circuit court and by evidence on another trial (Mitchell v. Railroad, 82 Mo. 106), we shall remand the cause.\nThe judgment will be reversed and the cause remanded.\nAll the judges concur.\n",
+            "ocr": true,
+            "opinion_id": 8259471
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1233129,
     "judges": "Andrews, Banke, Beasley, Carley, McMurray, Pope, Sognier",
-    "date_filed": 668995200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-02-16",
+    "date_filed_is_approximate": true,
     "slug": "robinson-v-state",
     "case_name_short": "Robinson",
     "case_name": "Robinson v. State",

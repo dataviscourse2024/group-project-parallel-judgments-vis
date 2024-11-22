@@ -1,8 +1,8 @@
 {
     "id": 1163590,
     "judges": "Per Curiam",
-    "date_filed": 175305600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-03-16",
+    "date_filed_is_approximate": true,
     "slug": "coombs-v-state",
     "case_name_short": "Coombs",
     "case_name": "Coombs v. State",

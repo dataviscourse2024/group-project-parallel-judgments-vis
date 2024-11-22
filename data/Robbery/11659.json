@@ -1,8 +1,8 @@
 {
     "id": 1334140,
     "judges": "Koontz",
-    "date_filed": 771638400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-01-09",
+    "date_filed_is_approximate": true,
     "slug": "lockhart-v-com",
     "case_name_short": "Lockhart",
     "case_name": "Lockhart v. Com.",

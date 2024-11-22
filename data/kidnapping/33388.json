@@ -1,8 +1,8 @@
 {
     "id": 6026009,
     "judges": null,
-    "date_filed": 524102400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-11-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-suarez",
     "case_name_short": "Suarez",
     "case_name": "People v. Suarez",

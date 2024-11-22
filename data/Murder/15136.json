@@ -1,8 +1,8 @@
 {
     "id": 1440173,
     "judges": "Gunderson, Manoukian, Mowbray, Springer, Zenoff",
-    "date_filed": 388800000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-09-01",
+    "date_filed_is_approximate": true,
     "slug": "burleigh-v-state-bar-of-nevada",
     "case_name_short": "Burleigh",
     "case_name": "Burleigh v. State Bar of Nevada",

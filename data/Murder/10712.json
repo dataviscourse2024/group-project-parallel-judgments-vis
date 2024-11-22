@@ -1,8 +1,8 @@
 {
     "id": 1230907,
     "judges": "Boyles, Butzel, Carr, Dethmers, Kelly, Reid, Sharpe, Smith",
-    "date_filed": -467596800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-12-29",
+    "date_filed_is_approximate": true,
     "slug": "dempsey-v-miles",
     "case_name_short": "Dempsey",
     "case_name": "Dempsey v. Miles",

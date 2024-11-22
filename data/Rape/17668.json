@@ -1,8 +1,8 @@
 {
     "id": 2306712,
     "judges": "Wells",
-    "date_filed": 1097798400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-01-01",
+    "date_filed_is_approximate": true,
     "slug": "waldron-v-jackson",
     "case_name_short": "Waldron",
     "case_name": "Waldron v. Jackson",

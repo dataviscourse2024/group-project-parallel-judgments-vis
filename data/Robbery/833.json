@@ -1,8 +1,8 @@
 {
     "id": 7919332,
     "judges": "McMurray",
-    "date_filed": 936835200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-04-09",
+    "date_filed_is_approximate": true,
     "slug": "jackson-v-state",
     "case_name_short": null,
     "case_name": "Jackson v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1841911,
     "judges": "Garrison",
-    "date_filed": 355363200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-07-26",
+    "date_filed_is_approximate": true,
     "slug": "state-v-norwood",
     "case_name_short": "Norwood",
     "case_name": "State v. Norwood",

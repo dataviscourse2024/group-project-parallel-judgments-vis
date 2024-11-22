@@ -1,8 +1,8 @@
 {
     "id": 6220379,
     "judges": null,
-    "date_filed": 1025568000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-05-31",
+    "date_filed_is_approximate": true,
     "slug": "people-v-hollis",
     "case_name_short": "Hollis",
     "case_name": "People v. Hollis",

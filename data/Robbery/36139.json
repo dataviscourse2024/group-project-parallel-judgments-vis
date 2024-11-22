@@ -1,8 +1,8 @@
 {
     "id": 6578607,
     "judges": "Greaney",
-    "date_filed": 1035417600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-10-15",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-paulding",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Paulding",

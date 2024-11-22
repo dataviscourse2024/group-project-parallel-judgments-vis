@@ -1,8 +1,8 @@
 {
     "id": 6082243,
     "judges": null,
-    "date_filed": 697680000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-27",
+    "date_filed_is_approximate": true,
     "slug": "people-v-robertson",
     "case_name_short": "Robertson",
     "case_name": "People v. Robertson",

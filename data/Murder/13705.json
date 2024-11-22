@@ -1,8 +1,8 @@
 {
     "id": 1713685,
     "judges": "Fine, Curley and Kessler",
-    "date_filed": 1113264000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-07-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thames",
     "case_name_short": "Thames",
     "case_name": "State v. Thames",

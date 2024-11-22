@@ -1,0 +1,46 @@
+{
+    "id": 5127332,
+    "judges": "Horsey, McNeilly, Quillen",
+    "date_filed": "1998-01-26",
+    "date_filed_is_approximate": true,
+    "slug": "cooper-v-state",
+    "case_name_short": "Cooper",
+    "case_name": "Cooper v. State",
+    "case_name_full": "Dannette R. COOPER, Below v. STATE of Delaware, Below",
+    "attorneys": "Thomas Little (argued) and Laurence I. Levinson, Wilmington, for defendant-appellant., Alex J. Smalls (argued), Deputy Atty. Gen., Wilmington, for plaintiff-appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted: Nov. 12, 1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "453 A.2d 800"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM:\nThe defendant, Dannette R. Cooper, was indicted for Murder Second Degree and Possession of a Deadly Weapon During the Commission of a Felony. The defendant was found guilty by a jury of the crimes of Manslaughter in violation of 11 Del.C. \u00a7 632 (a lesser included offense of Murder Second Degree) and Possession of a Deadly Weapon During the Commission of a Felony in violation of 11 Del.C. \u00a7 1447.\nThe defendant brings this appeal, alleging two errors. First, the defendant contends that the evidence presented was insufficient to support the convictions and the motion for acquittal after verdict should have been granted. Second, she contends the introduction of a photograph of the victim\u2019s body, showing the wound, through the testimony of the victim\u2019s mother, was highly inflammatory and severely prejudicial.\nAs to the first contention, the Trial Judge, in denying the posttrial motion, said: \u201cThe jury could very easily have found that it was criminal recklessness to produce a loaded gun and aim it at the victim which would therefore justify a verdict of Manslaughter.\u201d While the evidence indicates the victim was in defendant\u2019s apartment *801without her permission, they were familiar acquaintances, his pursuit was triggered by her taking his money, she testified she \u201cwasn\u2019t afraid of him\u201d, and she knowingly placed a live round of ammunition in the chamber. Moreover, the jury could draw its own conclusions from the evidence as to the firing of the gun in light of the necessary cocking, the safety, the pressure necessary to fire, the distances involved, the line of fire, and the defendant\u2019s behavior after the shooting. There was sufficient evidence to enable a jury to find both the manslaughter and the weapons charges were established beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979); Holden v. State, Del.Supr., 305 A.2d 320, 322 (1973).\nThe second contention is more troublesome. The facts indicate that, while the victim was handing money to his brother in the street, the defendant snatched the money. Furthermore, after the shooting the victim re-emerged from the apartment house and his brother administered aid. Thus, the victim\u2019s brother was a necessary fact witness. The State chose to prove the identification of the victim through a photograph of the victim\u2019s body showing the wound. For this purpose, and, disregarding some background context, solely for this purpose, the State called the victim\u2019s mother. Obviously, the State, as noted by the Trial Judge, could have used the victim\u2019s brother for the photographic identification. There was no dispute as to the general cause of death and the identity of the victim. Granting the State is usually entitled to prove its case through witnesses it chooses, there appears in this instance no reason for the calling of the victim\u2019s mother other than evocation of sympathy and it is hard to approve the tactic. But every judgmental error of the prosecution does not require reversal. Even though defense counsel moved for a mistrial after the testimony and thus preserved the issue, we should examine the whole record. The precise language of the Trial Judge shows he was immediately alert to the situation. He interrupted the State\u2019s attempt to justify the tactic with the following comment:\n\u201cExcuse me. Mr. Robert Lee Skinner, the victim\u2019s brother, testified, who not only is his brother, but administered to him right on the sidewalk, and it would have been just as easy if he had identified the victim. However, I\u2019m not going to declare a mistrial. I intend to give the jury a sympathy charge at the conclusion of the case, and there\u2019s no question but the victim in this case died. The question is the defense of accident or lesser degree or something of that nature. And it is emotional. We all know murder cases usually are. The Court\u2019s not gonna \u2014 not going to grant a mistrial in this case. However, she was emotional and I do have some problems with that aspect of it.\u201d\nWhile we obviously share the Trial Judge\u2019s concern and note generally that reversals would be less frequent if prosecutors would take more responsibility for the record, we see no basis for overruling the Trial Judge in a matter of discretion. The Trial Judge was on the scene and was promptly on top of and controlled the problem. The victim\u2019s mother\u2019s testimony was brief. During the balance of the case, it was made clear both in the closing argument of the prosecutor and the charge that sympathy was to play no role. The photograph itself, given its difficult subject, was not inflammatory in the sense of being gory or gruesome and it did show the position of the wound in the body. The jury reached a reasonable verdict in normal course. We do not find any reversible error. See Hooks v. State, Del.Supr., 416 A.2d 189, 203-08 (1980). To the contrary, we find the defendant received a fair trial.\nThe judgment of the Superior Court is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 4946266
+        }
+    ],
+    "court_short_name": "Supreme Court of Delaware",
+    "court_full_name": "Supreme Court of Delaware",
+    "court_type": "S",
+    "court_jurisdiction": "Delaware, DE",
+    "crime_category": "Murder"
+}

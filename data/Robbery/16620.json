@@ -1,8 +1,8 @@
 {
     "id": 2096500,
     "judges": "Ward",
-    "date_filed": 164851200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-09-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-wolf",
     "case_name_short": "Wolf",
     "case_name": "People v. Wolf",

@@ -1,8 +1,8 @@
 {
     "id": 453087,
     "judges": "Fagg, Heaney, Ross",
-    "date_filed": 486604800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-11-11",
+    "date_filed_is_approximate": true,
     "slug": "kevin-richard-johnson-v-crispus-c-nix",
     "case_name_short": null,
     "case_name": "Kevin Richard Johnson v. Crispus C. Nix",

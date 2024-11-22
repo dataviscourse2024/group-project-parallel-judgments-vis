@@ -1,8 +1,8 @@
 {
     "id": 8053948,
     "judges": "Burgess",
-    "date_filed": -2419372800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-03-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-johnson",
     "case_name_short": null,
     "case_name": "State v. Johnson",

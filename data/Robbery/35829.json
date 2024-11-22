@@ -1,8 +1,8 @@
 {
     "id": 6521865,
     "judges": "Rowley",
-    "date_filed": 172454400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-10-22",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-williams",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Williams",

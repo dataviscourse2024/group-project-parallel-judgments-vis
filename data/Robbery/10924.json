@@ -1,8 +1,8 @@
 {
     "id": 1199861,
     "judges": "Lansing, Perry, Walters",
-    "date_filed": 754272000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-01-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lindsay",
     "case_name_short": "Lindsay",
     "case_name": "State v. Lindsay",

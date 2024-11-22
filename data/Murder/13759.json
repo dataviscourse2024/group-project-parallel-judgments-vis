@@ -1,8 +1,8 @@
 {
     "id": 2047510,
     "judges": "Barteau, Riley, Sharpnack",
-    "date_filed": 766108800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-09-30",
+    "date_filed_is_approximate": true,
     "slug": "spann-v-state",
     "case_name_short": "Spann",
     "case_name": "Spann v. State",

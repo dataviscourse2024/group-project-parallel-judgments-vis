@@ -1,8 +1,8 @@
 {
     "id": 7605024,
     "judges": "Boardman, Danahy, Lehan",
-    "date_filed": 457920000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-06-23",
+    "date_filed_is_approximate": true,
     "slug": "bridenthal-v-state",
     "case_name_short": "Bridenthal",
     "case_name": "Bridenthal v. State",

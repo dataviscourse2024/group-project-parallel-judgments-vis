@@ -1,0 +1,46 @@
+{
+    "id": 5199676,
+    "judges": "Woodley",
+    "date_filed": "1996-10-31",
+    "date_filed_is_approximate": true,
+    "slug": "brown-v-state",
+    "case_name_short": "Brown",
+    "case_name": "Brown v. State",
+    "case_name_full": "Sarah Nash BROWN v. The STATE of Texas",
+    "attorneys": "No attorney on appeal, for appellant., Dan Walton, Dist. Atty., Frank Briscoe and Thomas D. White, Asst. Dist. Attys., Houston, and Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "314 S.W.2d 109"
+    ],
+    "opinions": [
+        {
+            "author_str": "Woodley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWOODLEY, Judge.\nThe offense is murder; the punishment, life.\nThe statement of facts is in narrative form and there are no bills of exception, formal or informal.\nNo brief has been filed in appellant\u2019s behalf, and nothing is presented for review save the sufficiency of the evidence to sustain the conviction.\nThe evidence from the standpoint of the State shows that appellant, shortly after her husband was granted a divorce, shot him two or three times at close range with a pistol, the last shot as he lay on his back on the floor, and was heard to say \u201cI am going to kill you, you bastard.\u201d\nThe jury resolved the issue of self-defense against appellant and there is ample evidence to sustain their finding.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5022693
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

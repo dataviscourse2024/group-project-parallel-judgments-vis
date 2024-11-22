@@ -1,8 +1,8 @@
 {
     "id": 4417340,
     "judges": "Austin, Dillon, Hinds-Radix, LaSalle",
-    "date_filed": 1502236800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-09-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-newman",
     "case_name_short": "Newman",
     "case_name": "People v. Newman",

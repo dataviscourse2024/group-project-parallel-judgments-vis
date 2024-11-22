@@ -1,8 +1,8 @@
 {
     "id": 2172462,
     "judges": "Blease",
-    "date_filed": 453427200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-05-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-irwin",
     "case_name_short": "Irwin",
     "case_name": "People v. Irwin",

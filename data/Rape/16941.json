@@ -1,8 +1,8 @@
 {
     "id": 2171249,
     "judges": "Heard",
-    "date_filed": 457056000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-12-23",
+    "date_filed_is_approximate": true,
     "slug": "matter-of-martenies",
     "case_name_short": "In re Martenies",
     "case_name": "Matter of Martenies",

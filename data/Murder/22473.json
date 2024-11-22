@@ -1,0 +1,47 @@
+{
+    "id": 3424205,
+    "judges": "O'Malley",
+    "date_filed": "2018-09-26",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-richardson",
+    "case_name_short": null,
+    "case_name": "State v. Richardson",
+    "case_name_full": "State of Indiana v. Richardson Et Al.",
+    "attorneys": "James A. Emmert,  Attorney General,  Frank E. Coughlin,  First Assistant Attorney General,  Sherwood Blue,  Prosecuting Attorney of Marion County,  Saul I. Rabb, Rufus Kuykendall,  and  Wesley  T. Wilson,  Deputy Prosecuting Attorneys, for the State.\n\n T. Ernest Maholm,  of Indianapolis, for appellee.",
+    "nature_of_suit": null,
+    "posture": "From the Marion Criminal Court;  Dewey E. Myers,  Judge.\n\nAlbert Kirk and Ingram Richardson were indicted for murder in the first degree and murder in the perpetration of a robbery, and defendant Kirk was convicted of second-degree murder on a plea of guilty entered by his attorneys, after which he filed a petition for writ of error  coram nobis,  to which a demurrer was filed by the State and overruled. From a judgment sustaining the petition and permitting the withdrawal of the plea of guilty, the State appealed.\n\n Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b603-7\">\n    State of Indiana\n    <em>\n     v.\n    </em>\n    Richardson et\n    <em>\n     al.\n    </em>\n</parties><br><docketnumber id=\"b603-8\">\n    [No. 28,091.\n   </docketnumber><decisiondate id=\"A3y\">\n    Filed October 29, 1945.]\n   </decisiondate><br><attorneys id=\"b604-9\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"558\"> \n     *558\n     </span>\n<em>\n     James A. Emmert,\n    </em>\n    Attorney General,\n    <em>\n     Frank E. Coughlin,\n    </em>\n    First Assistant Attorney General,\n    <em>\n     Sherwood Blue,\n    </em>\n    Prosecuting Attorney of Marion County,\n    <em>\n     Saul I. Babb, Bitfus Kuykendall,\n    </em>\n    and\n    <em>\n     Wesley T. Wilson,\n    </em>\n    Deputy Prosecuting Attorneys, for the State.\n   </attorneys><br><attorneys id=\"b604-10\">\n<em>\n     T. Ernest Maholm,\n    </em>\n    of Indianapolis, for appellee.\n   </attorneys>",
+    "citations": [
+        "63 N.E.2d 195",
+        "223 Ind. 557"
+    ],
+    "opinions": [
+        {
+            "author_str": "O'Malley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The appellee, Albert Kirk, and another, were indicted in two counts for murder in the first degree and murder in the perpetration of a robbery. *Page 559 \nA \"plea of not guilty\" was entered for the named appellee and trial commenced before a jury in the Criminal Court of Marion County. After a number of witnesses had testified for the prosecution, the appellee's attorneys asked leave of court to withdraw the submission of the cause, to withdraw the \"plea of not guilty,\" and to enter a \"plea of guilty\" to second degree murder.\nThe court sustained the motion and withdrew the submission, and thereafter the \"plea of not guilty\" was withdrawn, and a \"plea of guilty\" to murder in the second degree was entered. All of this was done by the attorneys for the appellee.\nSubsequently appellee was called before the court and sentenced to imprisonment for life. Two years and 10 months later, to-wit: on August 24, 1944, the appellee filed his verified petition for a writ of error coram nobis.\nA demurrer to the petition was filed by the state but this was overruled. Trial was had on the petition, and on January 2, 1945, the petition was sustained and the court set aside the judgment and permitted the withdrawal of the \"plea of guilty,\" so that the cause stands on the docket as if there never had been a judgment. A motion for a new trial was filed and overruled, and this appeal was taken.\nThe demurrer which was filed did not assert that the petition was insufficient to state a cause for the issuance of the writ. It was couched in such terms that the lower court must have 1.  felt that no question was raised. We agree with the holding below that the demurrer was not sufficient to raise any question.\nThe other questions raised involve the sufficiency of the evidence to sustain the holding of the court. The evidence disclosed that the attorneys for the appellee *Page 560 \ndid not discuss with him or get his permission to move for the withdrawal of the submission of the cause; that the \"plea of guilty\" was entered by his attorneys and without his permission; that he was innocent of the crime charged and was not in the vicinity of the place where the crime was committed, at or near the time of the murder; that he was afterwards sentenced, but at that time he did not have funds with which to employ counsel to protect his rights; that he secured funds in 1944 and then employed counsel and filed his petition for relief; that at the time of sentence he was twenty (20) years of age; and that both he and his family were in poor circumstances.\nIf there ever was any doubt of the necessity of a \"plea of guilty\" being entered by the defendant personally in a felony case, that question was settled in Nahas v. State\n2.  (1927), 199 Ind. 117, 121, 155 N.E. 259, 260, where this court said:\n\"It must be remembered that we are considering a felony case, and that the general rule in such cases is that a plea by an attorney made for the accused `will be considered a mere nullity, except a plea of not guilty &#8212; which plea cannot injure his client.' 8 R.C.L. 109, &#167; 74.\"\nThis hearing was held before the same judge who received the \"plea of guilty\" under the conditions set forth above. The evidence was sufficient to satisfy him that the petitioner 3.  had never authorized the \"plea of guilty\" which was entered. On that question the evidence was not in dispute.\nWe cannot say that reasonable men might not reach different conclusions from a consideration of the evidence and all the surrounding circumstances on the question of diligence, or that the evidence was not sufficient *Page 561 \nto support the decision of the court. We therefore cannot disturb the judgment of the lower court.\nNo error being shown, the judgment is affirmed.\nNote. &#8212; Reported in 63 N.E.2d 195.",
+            "ocr": false,
+            "opinion_id": 3421097
+        }
+    ],
+    "court_short_name": "Indiana Supreme Court",
+    "court_full_name": "Indiana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Murder"
+}

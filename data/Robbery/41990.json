@@ -1,8 +1,8 @@
 {
     "id": 7740042,
     "judges": "Barkett, Grimes, Harding, Kogan, McDonald, Overton, Shaw",
-    "date_filed": 754790400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-09-22",
+    "date_filed_is_approximate": true,
     "slug": "cash-v-state",
     "case_name_short": "Cash",
     "case_name": "Cash v. State",

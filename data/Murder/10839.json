@@ -1,8 +1,8 @@
 {
     "id": 1914275,
     "judges": "Boslaugh, Caporale, Fahrnbruch, Hastings, Lanphier, Shanahan, White",
-    "date_filed": 733104000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-06-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-frizzell",
     "case_name_short": "Frizzell",
     "case_name": "State v. Frizzell",

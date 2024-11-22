@@ -1,0 +1,47 @@
+{
+    "id": 3226186,
+    "judges": "Samford",
+    "date_filed": "2002-06-25",
+    "date_filed_is_approximate": true,
+    "slug": "bailey-v-state",
+    "case_name_short": "Bailey",
+    "case_name": "Bailey v. State",
+    "case_name_full": "Bailey v. State.",
+    "attorneys": "J. J. Cockrell and Pruet  Glass, all of Ashland, for appellant.\n\nCharges 7 and 12 stated correct propositions of law, and their refusal was error. (Charge 7) Bone v. State,  8 Ala. App. 62 , 62 So. 455 ; Black v. State,  5 Ala. App. 87 ,  59 So. 692 ; Twitty v. State,  168 Ala. 59 ,  53 So. 308 ; Crumley v. State, 18 Ala. App. 105 ,  89 So. 847 ; (Charge 12) Langston v. State, 8 Ala. App. 130 ,  63 So. 38 ; Tyus v. State,  10 Ala. App. 10 , 64 So. 516 ; Kirkley v. State,  19 Ala. App. 571 ,  99 So. 56 ; Richardson v. State,  191 Ala. 21 ,  68 So. 57 ; Glass v. State, 201 Ala. 441 ,  78 So. 819 ; Williams v. State,  18 Ala. App. 473 , 93 So. 57 .\n\nCharlie C. McCall, Atty. Gen., for the State.\n\nBrief did not reach the Reporter.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Circuit Court, Clay County; E. S. Lyman, Judge.\n\nOlin Bailey was convicted of manslaughter in the first degree, and he appeals. Reversed and remanded.\n\nSee, also, ante, p. 185,  113 So. 830 .\n\nThese charges were refused to defendant:\n\n\"(7) The court charges the jury that a man has the same right to use such reasonable force as may be necessary, under the circumstances by which he is surrounded, to defend himself from great bodily harm, that he has to prevent his life being taken, and he may excusably use this necessary force to repel any felonious assault.\"\n\n\"(12) The court charges the jury that it is not necessary under the evidence in this case that the defendant should have been actually in danger of death or great bodily harm at the time he killed Hill, the deceased, or that retreat would have really increased his peril in order for him to be justified in striking Hill. He had the right to act on the appearance of things at the time, taken in the light of all the facts, and he had the right to interpret the conduct of Hill in the light of an assault that the evidence proves Hill might have made against the defendant's wife. If the circumstances attending the killing were such as to justify a reasonable man in the belief that he was in danger of great bodily harm or death, and that he could not have retreated without adding to his peril, and should honestly believe such to be the case, then in that event he had the right to strike Hill in his own defense, although as a matter of fact he was not in actual danger, and retreat or further retreat would not have endangered his personal safety; and, if the jury believe that the defendant acted under such conditions and circumstances as above set out, the burden of showing that he was not free from fault in bringing on the difficulty is on the state, and, if not shown, the jury should acquit him.\"",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": "See, also, ante, p. 185, 113 So. 830.",
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<citation id=\"b547-4\">\n    (117 So. 505)\n   </citation><br><parties id=\"b547-5\">\n    BAILEY v. STATE.\n   </parties><citation id=\"A1f\">\n    (7 Div. 411.)\n   </citation><br><court id=\"b547-6\">\n    Court of Appeals of Alabama.\n   </court><decisiondate id=\"AEl_\">\n    June 26, 1928.\n   </decisiondate><br><seealso id=\"b547-14\">\n    See, also, ante, p. 185, 113 So. 830.\n   </seealso><br><attorneys id=\"b547-18\">\n    J. J. Cockrell and Pruet &amp; Glass, all of Ashland, for appellant.\n   </attorneys><br><attorneys id=\"b547-20\">\n    \u2022 Charlie C. McCall, Atty. Gen., for the State.\n   </attorneys><br><attorneys id=\"b547-21\">\n    Brief did not reach the Reporter.\n   </attorneys>",
+    "citations": [
+        "117 So. 505",
+        "22 Ala. App. 531"
+    ],
+    "opinions": [
+        {
+            "author_str": "Samford",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The plea in this case was self-defense. The evidence for defendant tended to sustain this plea. The defendant requested the court in writing to give charge No. 7. This charge was refused. This charge should have been given. It did not profess to set out the ingredients of self-defense, but dealt only with the question as to whether great bodily harm threatened is equal to life threatened, so as to justify the use of force. Crumley v. State, 18 Ala. App. 105, 89 So. 847; Bone v. State,8 Ala. App. 59, 62 So. 455; Black v. State, 5 Ala. App. 87,59 So. 692; Richardson v. State, 204 Ala. 124, 85 So. 789.\nThe refusal of the court to give charge 12 was also error. It was pointed out in Williams v. State, 18 Ala. App. 473,93 So. 57, on rehearing, that this charge had many times been approved, both by this court and the Supreme Court.\nOther questions presented by this record will probably not arise on another trial. We do not pass upon them.\nFor the errors pointed out, the judgment is reversed, and the cause is remanded.\nReversed and remanded.",
+            "ocr": false,
+            "opinion_id": 3226531
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

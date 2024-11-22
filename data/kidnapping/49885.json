@@ -1,8 +1,8 @@
 {
     "id": 9342751,
     "judges": "Butler",
-    "date_filed": 172972800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-12-04",
+    "date_filed_is_approximate": true,
     "slug": "mabery-v-garrison",
     "case_name_short": "Mabery",
     "case_name": "Mabery v. Garrison",

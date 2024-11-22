@@ -1,8 +1,8 @@
 {
     "id": 5952259,
     "judges": "McGuire",
-    "date_filed": 1293494400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-05-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rodriguez",
     "case_name_short": "Rodriguez",
     "case_name": "People v. Rodriguez",

@@ -1,0 +1,46 @@
+{
+    "id": 5228405,
+    "judges": "Crist, Dowd, Reinhard",
+    "date_filed": "1988-01-14",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-collins",
+    "case_name_short": "Collins",
+    "case_name": "State v. Collins",
+    "case_name_full": "STATE of Missouri, Plaintiff-Respondent v. John COLLINS",
+    "attorneys": "Harris, Kirksey & Thomas, Charles E. Kirksey, Jr., St. Louis, for defendant-appellant., John Ashcroft, Atty. Gen., Paul Robert Otto, Asst. Atty. Gen., Jefferson City, George A. Peach, Circuit Atty., St. Louis, for plaintiff-respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "602 S.W.2d 12"
+    ],
+    "opinions": [
+        {
+            "author_str": "Crist",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCRIST, Judge.\nDefendant was convicted by a jury of second-degree murder and felonious wounding. He was sentenced to concurrent sentences of twenty years and two years, respectively. We affirm.\nOn August 26, 1977, the victim, his wife, and four year old son were sitting on a ledge outside a St. Louis restaurant. Defendant with a black gun in his hand, approached them. Wife had previously seen defendant on two different occasions while he was talking to her husband. She immediately recognized defendant. Defendant fired four or five shots at her husband, *13killing him and injuring her son. Wife later told police she knew defendant had killed her husband. She identified defendant at a lineup and at trial.\nDefendant\u2019s first point complains about the failure of the trial court to give his proffered instruction. It was a cautionary instruction pertaining to the jury\u2019s receiving with care and caution the testimony relating to wife\u2019s identification of defendant. Defendant did not set out the proffered \u201cmistaken identity\u201d instruction in the argument portion of his brief in violation of Rule 84.04(e). Accordingly, the propriety of this instruction is not preserved for review. State v. Fleming, 528 S.W.2d 513, 515 (Mo.App.1975). In any event, there was no error in the refusal to give the mistaken identity instruction. Wife\u2019s testimony did not indicate she was mistaken about the identity of the defendant. The giving of the cautionary instruction was discretionary. State v. Higgins, 592 S.W.2d 151, 161 (Mo. banc 1979). . We find no abuse of discretion.\nDefendant\u2019s second point is insufficient under Rule 84.04(d). The point states, \u201cThe trial court erred in admitting state\u2019s Exhibit 7 because no chain of custody had been established and therefore the defendant was prejudiced by the admission of the exhibit.\u201d Exhibit 7 consisted of a boxed kit containing five cotton swabs used in administering a gun powder residue test to defendant. Defendant failed to show wherein and why \u201cno chain of custody had been established.\u201d State v. Crowell, 560 S.W.2d 889, 890 (Mo.App.1978). Nothing was preserved for review.\nThe defendant\u2019s point is without merit. The thrust of defendant\u2019s argument is that the state did not account for the swabs from the time when the kit was prepared with 5 percent nitric solution until it was used by the testing officer. The defendant contends there was no showing that the 5 percent nitric solution remained uncontaminated. There was direct testimony that one of the five swabs in the kit was a control swab and that testing of that swab showed no contamination. This was sufficient. State v. Johnson, 539 S.W.2d 493, 505 (Mo.App.1976), cert. denied, 430 U.S. 934, 97 S.Ct. 1558, 51 L.Ed.2d 779 (1977).\nJudgment affirmed.\nDOWD, P. J., and REINHARD, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5053095
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

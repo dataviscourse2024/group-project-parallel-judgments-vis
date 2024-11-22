@@ -1,8 +1,8 @@
 {
     "id": 1762545,
     "judges": "Bronson, Danhoe, McGregor",
-    "date_filed": 29030400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-10-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-james-brown",
     "case_name_short": null,
     "case_name": "People v. James Brown",

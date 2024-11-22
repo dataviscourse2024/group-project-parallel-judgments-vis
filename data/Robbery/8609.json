@@ -1,8 +1,8 @@
 {
     "id": 2659900,
     "judges": "Judge John D. Bates",
-    "date_filed": 1381968000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-08-02",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-hong-vo",
     "case_name_short": "Vo",
     "case_name": "United States v. Hong Vo",

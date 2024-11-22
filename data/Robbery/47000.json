@@ -1,8 +1,8 @@
 {
     "id": 8766051,
     "judges": "Weinberger",
-    "date_filed": -140227200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-09-21",
+    "date_filed_is_approximate": true,
     "slug": "lynch-v-united-states",
     "case_name_short": null,
     "case_name": "Lynch v. United States",

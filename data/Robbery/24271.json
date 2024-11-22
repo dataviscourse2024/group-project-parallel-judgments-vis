@@ -1,8 +1,8 @@
 {
     "id": 4095253,
     "judges": "Baldrige, Cunningham, Hirt, Keller, Parker, Rhodes, Stadtfeld",
-    "date_filed": -950227200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-09-28",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-sharpe",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Sharpe",

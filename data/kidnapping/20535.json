@@ -1,8 +1,8 @@
 {
     "id": 2943710,
     "judges": null,
-    "date_filed": 1269388800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-07-12",
+    "date_filed_is_approximate": true,
     "slug": "mayer-kenneth-lee",
     "case_name_short": null,
     "case_name": "Mayer, Kenneth Lee",

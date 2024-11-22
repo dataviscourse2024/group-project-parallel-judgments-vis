@@ -1,8 +1,8 @@
 {
     "id": 4478473,
     "judges": null,
-    "date_filed": 1521158400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-08-16",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cooper",
     "case_name_short": "Cooper",
     "case_name": "People v. Cooper",

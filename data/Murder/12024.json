@@ -1,8 +1,8 @@
 {
     "id": 1392250,
     "judges": "Harnsberger",
-    "date_filed": -409968000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-12",
+    "date_filed_is_approximate": true,
     "slug": "arnold-v-state",
     "case_name_short": "Arnold",
     "case_name": "Arnold v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 8557748,
+    "judges": "Worn",
+    "date_filed": "2023-06-02",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-ramirez",
+    "case_name_short": "Ram\u00edrez",
+    "case_name": "People v. Ram\u00edrez",
+    "case_name_full": "People of Porto Rico, and v. Juan Ram\u00edrez, and",
+    "attorneys": "Leopoldo Tormes, for appellant. B. A. Gomes, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued November 15, 1929.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "40 P.R. 378"
+    ],
+    "opinions": [
+        {
+            "author_str": "Worn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMr. Justice Worn?\ndelivered the opinion of the court.\nJuan Ramirez was one of several defendants who, in the District Court of Ponce, were charged with murder in the second degree and the said Ramirez was convicted of voluntary manslaughter. Other defendants were acquitted. The attack in this court is directed against the verdict and the judgment as being against the weight of the evidence. The appellant draws attention to contradictions in the testimony of the principal witnesses among themselves and in what they said in another trial, People v. Pacheco, ante, p. 377. He also draws attention to the very light sentence imposed on appellant by the court, namely, a period of six months.\nMore especially we agree with the appellant that the fiscal tried too strongly to introduce evidence that the defendants were intoxicated when the court refused to admit such evidence. \"With regard to these attempts of the fiscal we do not find the appellant took sufficient action in the court below to claim a reversal in this court on the ground suggested alone or in connection with the supposed contradictions.\nThe evidence was in truth contradictory, but there Wa,s enough to go to the jury and it would take a very strong case for this court to set aside a verdict rendered under such circumstances. When a judge sits alone it is rare for us to review a mere conflict in the evidence, but when a jury hears the case an appellate court will rarely set aside a verdict and especially not without a stronger showing than appears in this appeal. The case of Hern\u00e1ndez v. Mendoza, 26 P.R.R. 336, contains no pronouncement in conflict with the conclusion at which we have arrived.\nThe trial judge has a discretion in determining the.penalty and in the case before us he may have felt that defendant, although aiding, was not primarily responsible, especially as the facts show that it was Jes\u00fas Pacheco who inflicted the mortal blows.\nWe find no error and the judgment should be affirmed.\n",
+            "ocr": true,
+            "opinion_id": 8530653
+        }
+    ],
+    "court_short_name": "Supreme Court of Puerto Rico",
+    "court_full_name": "Supreme Court of Puerto Rico",
+    "court_type": "TS",
+    "court_jurisdiction": "Puerto Rico, PR",
+    "crime_category": "Murder"
+}

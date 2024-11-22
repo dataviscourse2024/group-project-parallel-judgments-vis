@@ -1,8 +1,8 @@
 {
     "id": 6155801,
     "judges": null,
-    "date_filed": 885254400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-01-07",
+    "date_filed_is_approximate": true,
     "slug": "people-v-williams",
     "case_name_short": null,
     "case_name": "People v. Williams",

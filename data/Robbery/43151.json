@@ -1,8 +1,8 @@
 {
     "id": 7983459,
     "judges": "Grant, Hooker, Long, McGrath, Montgomery",
-    "date_filed": -2416867200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-06-02",
+    "date_filed_is_approximate": true,
     "slug": "davidson-v-kolb",
     "case_name_short": "Davidson",
     "case_name": "Davidson v. Kolb",

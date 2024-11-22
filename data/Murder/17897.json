@@ -1,8 +1,8 @@
 {
     "id": 2331573,
     "judges": "Brown, Korsmo, Sweeney",
-    "date_filed": 1317254400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-07-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-savoie",
     "case_name_short": "Savoie",
     "case_name": "State v. Savoie",

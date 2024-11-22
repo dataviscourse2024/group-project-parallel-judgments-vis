@@ -1,8 +1,8 @@
 {
     "id": 1200056,
     "judges": "Brown, Chin, Mosk",
-    "date_filed": 941414400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-08-29",
+    "date_filed_is_approximate": true,
     "slug": "people-v-falsetta",
     "case_name_short": "Falsetta",
     "case_name": "People v. Falsetta",

@@ -1,8 +1,8 @@
 {
     "id": 7784661,
     "judges": "Allen, Benton, Lawrence",
-    "date_filed": 931478400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-09-17",
+    "date_filed_is_approximate": true,
     "slug": "gammon-v-state",
     "case_name_short": "Gammon",
     "case_name": "Gammon v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 8459258,
+    "judges": "Beezer, Hall, Silverman",
+    "date_filed": "1998-05-22",
+    "date_filed_is_approximate": true,
+    "slug": "singh-v-ashcroft",
+    "case_name_short": "Singh",
+    "case_name": "Singh v. Ashcroft",
+    "case_name_full": "Nirmal SINGH v. John ASHCROFT, Attorney General",
+    "attorneys": "Ashwani K. Bhakhri, Esq., Law Offices of Ashwani K. Bhakhri, Burlingame, CA, for Petitioner., Ronald E. LeFevre, Chief Counsel, San Francisco, CA, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Jan. 10, 2005.*",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "120 F. App'x 148"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM **\nNirmal Singh, a native and citizen of India, petitions for review of the Board of Immigration Appeals\u2019 (\u201cBIA\u201d) summary affirmance of an Immigration Judge\u2019s (\u201cIJ\u201d) denial of his application for asylum and withholding of deportation, and relief under the Convention Against Torture (\u201cCAT\u201d). We have jurisdiction under 8 U.S.C. \u00a7 1252. We review an adverse credibility finding for substantial evidence and will uphold the decision unless the evidence compels a contrary conclusion. See Singh v. Ashcroft, 367 F.3d 1139, 1143 (9th Cir.2004). We deny the petition for review.\nSubstantial evidence supports the IJ\u2019s decision. Singh\u2019s testimony was vague, implausible, internally inconsistent, and failed to address key events included in his application. Moreover, his application failed to mention witnessing the priest\u2019s murder, an incident that was central to his claim of fear of the Indian police. See Singh-Kaur v. INS, 183 F.3d 1147, 1152-53 (9th Cir.1999). Finally, Singh failed to produce evidence that he was a member of *149the All India Sikh Student Federation, and has not shown that the evidence presented compelled a contrary conclusion in order to overcome the special deference accorded to credibility determinations. See Malhi v. INS, 336 F.3d 989, 993 (9th Cir.2003); Sidhu v. INS, 220 F.3d 1085, 1091-92 (9th Cir.2000).\nBecause Singh failed to establish eligibility for asylum, he necessarily failed to meet the more stringent standard for withholding of removal. See Fisher v. INS, 79 F.3d 955, 961 (9th Cir.1996) (en banc).\nBecause Singh failed to demonstrate that it was more likely than not that he would be tortured if he returned to India, the IJ properly denied his CAT claim. See Kamalthas v. INS, 251 F.3d 1279, 1284 (9th Cir.2001).\nSingh\u2019s argument that the BIA was required to issue its own adverse credibility analysis is foreclosed by Falcon Carriche v. Ashcroft, 350 F.3d 845, 849-52 (9th Cir. 2003).\nPursuant to Desta v. Ashcroft, 365 F.3d 741 (9th Cir.2004), Singh\u2019s motion for stay of removal included a timely request for stay of voluntary departure. Because the stay of removal was granted, the voluntary departure period was also stayed, nunc pro tunc, to the filing of the motion for stay of removal and this stay will expire on issuance of this court\u2019s mandate.\nPETITION FOR REVIEW DENIED.\n\n This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8431014
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

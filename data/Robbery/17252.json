@@ -1,8 +1,8 @@
 {
     "id": 2189461,
     "judges": "Ford",
-    "date_filed": -273456000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-10-18",
+    "date_filed_is_approximate": true,
     "slug": "people-v-harris",
     "case_name_short": "Harris",
     "case_name": "People v. Harris",

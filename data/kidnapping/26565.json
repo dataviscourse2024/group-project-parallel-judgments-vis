@@ -1,8 +1,8 @@
 {
     "id": 4615141,
     "judges": "Hyman",
-    "date_filed": 1556582400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-07-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-phagan",
     "case_name_short": "Phagan",
     "case_name": "People v. Phagan",

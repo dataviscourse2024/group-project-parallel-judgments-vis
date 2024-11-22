@@ -1,0 +1,49 @@
+{
+    "id": 108383,
+    "judges": "Black, Per Curiam",
+    "date_filed": "1985-12-10",
+    "date_filed_is_approximate": true,
+    "slug": "hunter-v-tennessee",
+    "case_name_short": "Hunter",
+    "case_name": "Hunter v. Tennessee",
+    "case_name_full": "Charles Hunter v. Tennessee",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 7,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b763-4\">\n    HUNTER\n    <em>\n     v.\n    </em>\n    TENNESSEE\n   </parties><br><docketnumber id=\"b763-6\">\n    No. 5085.\n   </docketnumber><decisiondate id=\"AcqI\">\n    Decided June 28, 1971\n    <a class=\"footnote\" href=\"#fn*\" id=\"fn*_ref\">\n     *\n    </a>\n</decisiondate><div class=\"footnotes\"><div class=\"footnote\" id=\"fn*\" label=\"*\">\n<a class=\"footnote\" href=\"#fn*_ref\">\n     *\n    </a>\n<p id=\"b763-12\">\n     Together with No. 5098,\n     <em>\n      Harris\n     </em>\n     v.\n     <em>\n      Tennessee;\n     </em>\n     No. 5101,\n     <em>\n      Houston et al. v. Tennessee,\n     </em>\n     and No. 5103,\n     <em>\n      Hunter et al.\n     </em>\n     v.\n     <em>\n      Tennessee,\n     </em>\n     also on petition for writ of certiorari to the same court.\n    </p>\n</div></div>",
+    "citations": [
+        "29 L. Ed. 2d 820",
+        "91 S. Ct. 2285",
+        "403 U.S. 711",
+        "1971 U.S. LEXIS 22"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/US/403/403.US.711.5085.html",
+            "author_id": null,
+            "opinion_text": "403 U.S. 711\n    91 S. Ct. 2285\n    29 L. Ed. 2d 820\n    Charles HUNTER et al.v.TENNESSEE.\n    No. 5085.\n    Supreme Court of the United States\n    June 28, 1971*\n    \n      On petition for writ of certiorari to the Supreme Court of Tennessee, Western Division.\n      PER CURIAM.\n    \n    \n      1\n      The motions for leave to proceed in forma pauperis and the petitions for writs of certiorari are granted.\n    \n    \n      2\n      After a joint trial in the state courts of Tennessee, petitioners were convicted of rape and sentenced to death. While their appeals were pending in the Tennessee Supreme Court, this Court announced its decision in Witherspoon v. Illinois, 391 U.S. 510, 88 S. Ct. 1770, 20 L. Ed. 2d 776 (1968). Petitioners sought to supplement their bills of exceptions to raise issues under that decision, but they were precluded from doing so by the provisions of former Tennessee Code Annotated &#167; 27-111 (1955), which as it then stood prohibited the filing of bills of exceptions more than 90 days after judgment. The Tennessee Supreme Court therefore affirmed petitioners' convictions and sentences without considering the possible effect of Witherspoon. 222 Tenn. 672, 440 S.W.2d 1 (1969). While the petitions for certiorari were pending in this Court, the Tennessee Legislature amended &#167; 27-111 to authorize the state appellate courts to order the filing of bills of exceptions in criminal cases at any time, for good cause shown. Tenn. Code Ann. &#167; 27-111 (Supp. 1970). With matters in this posture, we believe that sound judicial administration requires us to vacate the judgments below and remand the cases to the Tennessee Supreme Court so as to afford petitioners an opportunity to apply to that court under the new Tennessee statute for leave to supplement their bills of exceptions. In so doing we, of course, intimate no view on the merits of petitioners' contentions or as to the applicability of the new Tennessee statute to these cases.\n    \n    \n      3\n      It is so ordered.\n    \n    \n      4\n      Mr. Justice BLACK dissents.\n    \n    \n      \n        *\n         Together with No. 5098, Ulous Harris v. Tennessee; No. 5101, Garfield Houston et al. v. Tennessee; and No. 5103, Charles Hunter et al. v. Tennessee.\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 108383
+        }
+    ],
+    "court_short_name": "Supreme Court",
+    "court_full_name": "Supreme Court of the United States",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Rape"
+}

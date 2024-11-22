@@ -1,8 +1,8 @@
 {
     "id": 1104629,
     "judges": "Adkins",
-    "date_filed": 470534400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-04-11",
+    "date_filed_is_approximate": true,
     "slug": "bush-v-state",
     "case_name_short": "Bush",
     "case_name": "Bush v. State",

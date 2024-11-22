@@ -1,8 +1,8 @@
 {
     "id": 9353343,
     "judges": null,
-    "date_filed": 1642464000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-01-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-crew",
     "case_name_short": "Crew",
     "case_name": "State v. Crew",

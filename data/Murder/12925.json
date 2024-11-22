@@ -1,8 +1,8 @@
 {
     "id": 1572017,
     "judges": "Wells, Shepherd, and Rothenberg",
-    "date_filed": 1233705600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-09-01",
+    "date_filed_is_approximate": true,
     "slug": "lopez-v-state",
     "case_name_short": "Lopez",
     "case_name": "Lopez v. State",

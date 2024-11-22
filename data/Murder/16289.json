@@ -1,8 +1,8 @@
 {
     "id": 2009260,
     "judges": "Adkins, Bishop, Moylan",
-    "date_filed": 465696000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-11-11",
+    "date_filed_is_approximate": true,
     "slug": "curry-v-state",
     "case_name_short": "Curry",
     "case_name": "Curry v. State",

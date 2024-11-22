@@ -1,0 +1,46 @@
+{
+    "id": 8447699,
+    "judges": "Graber, Reinhardt, Shadur",
+    "date_filed": "1998-12-29",
+    "date_filed_is_approximate": true,
+    "slug": "statler-v-garcia",
+    "case_name_short": "Statler",
+    "case_name": "Statler v. Garcia",
+    "case_name_full": "Charles Vasil STATLER v. Silvia GARCIA, Warden",
+    "attorneys": "Eric S. Multhaup, Esq., Mill Valley, CA, for Petitioner-Appellant., Martin S. Kaye, Esq., Peggy S. Ruffra, Esq., Office of the California Attorney General, San Francisco, CA, for Respondent-Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued and Submitted Aug. 12, 2003.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "78 F. App'x 22"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM**\nCharles Vasil Statler (\u201cStatler\u201d) appeals the denial of his petition for writ of habeas corpus claiming that errors in the instruction given to the jury require reversal of his conviction. On January 8,1999, Statler was charged with second degree murder for hitting Raymond Churchill (\u201cChurch*23ill\u201d) on the forehead with a skillet, an act that resulted in Churchill\u2019s death.\nAt trial, the judge instructed the jury that it could convict on either one of the two theories of second-degree murder presented by the prosecution: (1) implied malice murder requiring that the defendant (a) performed an intentional act, (b) the natural consequences of which are dangerous to human life, and (c) which was deliberately performed with knowledge of the danger to, and with conscious disregard for human life; or (2) felony-murder, in which the killing \u201coccurred during the commission or attempted commission of an assault with a deadly weapon or by means of force likely to produce great bodily injury.\u201d The jury returned a general verdict convicting Statler of second-degree murder (for which he received 15 years to life), without specifying the theory of conviction, implied malice or felony-murder.\nThe California Supreme Court has long held that assault with a deadly weapon cannot be a predicate offense for a felony murder charge because it merges with the murder. People v. Ireland, 70 Cal.2d 522, 538-40, 75 Cal.Rptr. 188, 450 P.2d 580 (1969). On direct appeal, the California Court of Appeal found that the trial judge\u2019s legally erroneous instruction violated Statler\u2019s due process rights, but that the error was nonetheless harmless.\nAfter exhausting his remedies in state court, Statler filed a habeas petition in federal court asserting that the introduction of a legally invalid instruction (along with a legally valid instruction) was a structural error requiring reversal per se under the Supreme Court\u2019s precedent. See, e.g., Yates v. United States, 354 U.S. 298, 312, 77 S.Ct. 1064, 1 L.Ed.2d 1356 (1957) (when a verdict is supportable on one legal ground and not on another and the court cannot tell which ground the jury relied upon, the verdict is set aside), overruled on other grounds by Burks v. United States, 437 U.S. 1, 2, 98 S.Ct. 2141, 57 L.Ed.2d 1 (1978). In the alternative, he argued that the error was not harmless.\nAfter examining the record, we find that the situation here fits precisely the Supreme Court\u2019s articulation of the standard applicable in cases on collateral review. In that respect, California v. Roy, 519 U.S. 2, 5, 117 S.Ct. 337, 136 L.Ed.2d 266 (1996) (per curiam) has reconfirmed the earlier decisions in Brecht v. Abrahamson, 507 U.S. 619, 637, 113 S.Ct. 1710, 123 L.Ed.2d 353 (1993) and O\u2019Neal v. McAninch, 513 U.S. 432, 435-37, 115 S.Ct. 992, 130 L.Ed.2d 947 (1995) stating that an error cannot be harmless if it had a substantial and injurious effect or influence in determining the jury\u2019s verdict. In O\u2019Neal, the Court added that where a judge, in a habeas proceeding, applying this standard of harmless error, \u201cis in grave doubt as to the harmlessness of an error,\u201d the habeas \u201cpetitioner must win.\u201d Id. at 437, 115 S.Ct. 992. In light of Statler\u2019s trial testimony described hereafter, which the jury could reasonably have credited, such \u201cgrave doubt\u201d surely exists.\nHere, the record supports Statler\u2019s contention that he did not have the necessary mens rea required for implied malice murder. Statler testified that he did not appreciate that the blow could or would kill the decedent (and that he did not intend to kill him). Statler also testified that he had been drinking at the time, and that he acted out of self-defense, only because Churchill came at him at \u201cfairly good speed\u201d with a large knife. It cannot be said with any certainty that absent the erroneous instruction the jury would not have found that Statler did not have: 1) knowledge of the danger to, or 2) a conscious disregard for human life when he wielded the frying pan; he likely had knowledge that hitting Churchill with the *24skillet would induce a bruise or maybe unconsciousness, but not that it would result in death.\nBecause we find that the error was not harmless, we do not decide whether the due process violation was a structural error. Accordingly, we REVERSE and REMAND with instructions that the district court grant the writ of habeas corpus unless, within a reasonable period of time, the state grants Statler a constitutionally adequate new trial.\nREVERSED AND REMANDED.\n\n This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8419250
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

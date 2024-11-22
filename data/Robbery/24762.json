@@ -1,8 +1,8 @@
 {
     "id": 4195760,
     "judges": "Beauchamp, Graves",
-    "date_filed": -872208000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-07-08",
+    "date_filed_is_approximate": true,
     "slug": "johnson-v-state",
     "case_name_short": null,
     "case_name": "Johnson v. State",

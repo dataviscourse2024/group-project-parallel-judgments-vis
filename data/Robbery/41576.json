@@ -1,8 +1,8 @@
 {
     "id": 7657882,
     "judges": "Tyson",
-    "date_filed": 667785600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-04-16",
+    "date_filed_is_approximate": true,
     "slug": "rlv-v-state",
     "case_name_short": "R.L.V.",
     "case_name": "R.L.V. v. State",

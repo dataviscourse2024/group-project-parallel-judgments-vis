@@ -1,8 +1,8 @@
 {
     "id": 1231732,
     "judges": "Jackson",
-    "date_filed": 1187654400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-05-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cohen",
     "case_name_short": "Cohen",
     "case_name": "State v. Cohen",

@@ -1,0 +1,47 @@
+{
+    "id": 6119042,
+    "judges": "Clark, Daniels, Kapnick, Manzanet, Moskowitz, Richter",
+    "date_filed": "1988-03-13",
+    "date_filed_is_approximate": true,
+    "slug": "disla-v-city-of-new-york",
+    "case_name_short": "Disla",
+    "case_name": "Disla v. City of New York",
+    "case_name_full": "Candida Disla v. City of New York",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "117 A.D.3d 617",
+        "986 N.Y.S.2d 463"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, Bronx County (Alexander W. Hunter, Jr., J.), entered April 15, 2013, upon a jury verdict in defendants\u2019 favor, unanimously reversed, on the law, without costs, and the matter remanded for a new trial.\nDuring its initial charge, the trial court correctly instructed the jury on the law concerning both excessive force and battery in the performance of a public duty. With respect to the federal excessive force claim, the trial court charged the jury: \u201cIn this case, it is not disputed that Sergeant Barnett shot Leonel Disla, ultimately killing him. If Sergeant Barnett used unreasonable force when he shot Leonel Disla, then Sergeant Barnett will be liable for this claim. . . . It is unreasonable for an officer to use deadly force against a civilian unless the officer has probable cause to believe that the civilian poses a significant threat of death or serious physical injury to the officer or to others.\u201d\nWith respect to battery in the performance of a public duty, the trial court charged: \u201cIt is undisputed that Sergeant Barnett intended to shoot Leonel Disla without Mr. Disla\u2019s consent, and that a shooting is an offensive bodily contact. An officer who uses deadly physical force against another is permitted to use such force only if it is necessary to defend himself or another from serious injury or death. . . . If by these standards Sergeant Barnett used excessive force to accomplish his purpose, Sergeant Barnett committed a battery and is liable for damages resulting from the shooting.\u201d\nOn May 31, 2012, the jury sent a note (note #8) asking the *618court to clarify the third question on the verdict form, concerning the claim of battery in the performance of a public duty. Specifically, the jury asked: \u201cHas [plaintiff] proven by a preponderance of the evidence that Sergeant Barnett and therefore also the New York City NYPD used unjustified battery when he shot Leonel Disla? Does this mean it was too much force used? Please explain the term battery.\u201d\nIn response, the court re-read its original instruction.\nThe next day, June 1, 2012, the jury sent two notes expressing continued confusion regarding the definition of battery in the performance of a public duty (notes #10 and #11): \u201cWe, the jury, would like the Judge to read us the definition of battery as it pertains to question [#]3. Does this mean excessive force?\n\u201cWe would like to have a written transcript of the Judge\u2019s instructions, specifically the instruction regarding question [#]3.\u201d\nIn response to note #10, the court stated: \u201cI\u2019m going to answer that question now in the simplest way I can. The answer to that question is no. \u2018Does this mean excessive force?\u2019 It does not.\u201d The court declined to re-read the charge, or to provide the jury with a transcript of the instruction.\nPlaintiff\u2019s counsel objected to the court\u2019s response to note #10, observing that a simple \u201cno\u201d in response to the jury\u2019s question did not \u201cfully capture[ ] the charge,\u201d and stating \u201cI think there may be a little bit of confusion about what a battery is.\u201d The court overruled the objection, and counsel noted his exception. Shortly thereafter, the jury sent a note indicating it had reached a verdict. The jury found for defendants on all claims.\nWe now reverse, and remand for a new trial. A new trial is required when an erroneous jury instruction \u201cprecluded the jury\u2019s fair interpretation of the evidence\u201d (Altamirano v Door Automation Corp., 76 AD3d 401, 402 [1st Dept 2010]). The trial court incorrectly told the jury that a battery committed in the performance of a public duty does not require excessive force when the law is clear\u2014as the trial court initially instructed the jury\u2014that it does (see Marrero v City of New York, 33 AD3d 556 [1st Dept 2006] [dismissing assault and battery claims against police officers where the record was devoid of evidence that the force used to effectuate the arrests was \u201cexcessive\u201d]).\nThe court compounded the error by refusing to re-read the charge. It is apparent from notes #8, #10, and #11 that the jury was confused regarding the definition of \u201cbattery\u201d in this context. Rather than clearing up the evident confusion, the *619court worsened it by contradicting its own charge. Faced with two diametrically opposed definitions, the jury was left to speculate. Under the circumstances, a new trial is required (see Altamirano, 76 AD3d at 402 [remanding for new trial where charge was \u201cmisleading and confusing\u201d]; Coon v Board of Educ. of City of N.Y., 160 AD2d 403, 403 [1st Dept 1990] [remanding for a new trial where charge was \u201can incorrect statement of the law\u201d]).\nWe also find that the court\u2019s incorrect definition of battery tainted the jury\u2019s understanding of, and ability to fairly deliberate on, the federal civil rights claim. Here, there is more than a \u201creasonable possibility\u201d that the trial court\u2019s erroneous instruction on the state battery claim influenced \u201cin a meaningful way\u201d the jury\u2019s ability to deliberate fairly on the federal excessive force claim (People v Doshi, 93 NY2d 499, 505 [1999] [internal quotation marks omitted]), given that both claims arose out of the same set of facts, and were legally interrelated.\nIn light of our disposition reversing and remanding for a new trial, it is unnecessary to reach plaintiff\u2019s further claims.\nConcur\u2014Moskowitz, J.E, Richter, Manzanet-Daniels, Clark and Kapnick, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5984000
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

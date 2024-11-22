@@ -1,8 +1,8 @@
 {
     "id": 2581059,
     "judges": "Dailey, Hume, Marquez",
-    "date_filed": 1077753600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-18",
+    "date_filed_is_approximate": true,
     "slug": "people-v-simpson",
     "case_name_short": "Simpson",
     "case_name": "People v. Simpson",

@@ -1,8 +1,8 @@
 {
     "id": 1884579,
     "judges": "Dupont, Flynn, West",
-    "date_filed": 1060041600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-09-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-smalls",
     "case_name_short": "Smalls",
     "case_name": "State v. Smalls",

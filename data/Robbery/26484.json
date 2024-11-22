@@ -1,8 +1,8 @@
 {
     "id": 4596598,
     "judges": null,
-    "date_filed": 1551744000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-01-02",
+    "date_filed_is_approximate": true,
     "slug": "com-v-brown-g",
     "case_name_short": "Com.",
     "case_name": "Com. v. Brown, G.",

@@ -1,8 +1,8 @@
 {
     "id": 2148010,
     "judges": "Solfisburg",
-    "date_filed": -282355200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-08-26",
+    "date_filed_is_approximate": true,
     "slug": "the-people-v-qualls",
     "case_name_short": "Qualls",
     "case_name": "The People v. Qualls",

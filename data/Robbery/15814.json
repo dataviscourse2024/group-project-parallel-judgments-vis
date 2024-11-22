@@ -1,8 +1,8 @@
 {
     "id": 1932965,
     "judges": "Gillespie, Smith and Walker",
-    "date_filed": 238809600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-03-18",
+    "date_filed_is_approximate": true,
     "slug": "holt-v-state",
     "case_name_short": "Holt",
     "case_name": "Holt v. State",

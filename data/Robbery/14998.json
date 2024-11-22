@@ -1,8 +1,8 @@
 {
     "id": 1344979,
     "judges": "Benham, McMurray, Pope",
-    "date_filed": 602726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-05-24",
+    "date_filed_is_approximate": true,
     "slug": "curtis-v-state",
     "case_name_short": "Curtis",
     "case_name": "Curtis v. State",

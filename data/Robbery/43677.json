@@ -1,8 +1,8 @@
 {
     "id": 8078468,
     "judges": "Carter, Eberly, Johnsen, Messmore, Paine, Rose, Simmons",
-    "date_filed": -961200000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-02-11",
+    "date_filed_is_approximate": true,
     "slug": "ulrich-v-ogrady",
     "case_name_short": "Ulrich",
     "case_name": "Ulrich v. O'Grady",

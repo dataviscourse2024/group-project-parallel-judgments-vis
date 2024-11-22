@@ -1,8 +1,8 @@
 {
     "id": 4764017,
     "judges": null,
-    "date_filed": 1591920000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-07-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-vann",
     "case_name_short": "Vann",
     "case_name": "State v. Vann",

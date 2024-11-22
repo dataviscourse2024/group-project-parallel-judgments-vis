@@ -1,8 +1,8 @@
 {
     "id": 1085181,
     "judges": "Judge Roger A. Page",
-    "date_filed": 1381708800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-11-28",
+    "date_filed_is_approximate": true,
     "slug": "state-of-tennessee-v-joseph-w-jones",
     "case_name_short": null,
     "case_name": "State of Tennessee v. Joseph W. Jones",

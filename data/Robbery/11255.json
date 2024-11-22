@@ -1,8 +1,8 @@
 {
     "id": 1279670,
     "judges": "Andersen, Brachtenbach, Callow, Dolliver, Dore, Durham, Goodloe, Pearson, Utter",
-    "date_filed": 512265600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-06-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jeffries",
     "case_name_short": "Jeffries",
     "case_name": "State v. Jeffries",

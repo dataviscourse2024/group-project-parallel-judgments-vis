@@ -1,0 +1,46 @@
+{
+    "id": 8557747,
+    "judges": "Wole",
+    "date_filed": "2009-04-28",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-pacheco",
+    "case_name_short": "Pacheco",
+    "case_name": "People v. Pacheco",
+    "case_name_full": "People of Porto Rico, and v. Jes\u00fas Pacheco, and",
+    "attorneys": "L. Tormes and M. Le\u00f3n Parra, for 'appellant. B. A. G\u00f3mez, for ap-pellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued November 19, 1929.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "40 P.R. 377"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wole",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMe. Justice Wole\ndelivered the opinion of the court.\n\u25a0 Jes\u00fas Pacheco was accused of murder in the second degree,- convicted of voluntary manslaughter, and sentenced to *378two years. The two assignments of error may be focused into one, namely, that the verdict was against the weight of the evidence. It is conceded in the case that Jes\u00fas Pacheco, the defendant, inflicted the blows that caused the death of Epifanio Madera. The evidence of the government tended to show that the associates of the appellant were the original aggressors, and that the appellant himself killed Madera without excuse or justification. On the other hand, the theory of the defense was that Jes\u00fas Pacheco was .advised that Epi-fanio Madera was assaulting Pacheco\u2019s brother, and Jes\u00fas Pacheco came to his said brother\u2019s defense; that Epifanio Madera had a reputation for being a hard fighter and a dangerous man. In other words, the appellant set up in the court below the plea of self-defense.\nIn a criminal case when a homicide is clearly shown the burden is thrown upon the defendant to show at least a prima facie case of self-defense. Once a prima facie case is established, if there is a reasonable doubt whether or not defendant acted in self-defense, he should* be acquitted. 33 Cal. Jurisprudence, 737, sec. 104.\nThe court g\u2019ave ample instructions on the matter of reasonable doubt. The case was left to the jury, and the appellant, despite inconsistencies in the testimony of the various witnesses for the government, does not convince us that we should reverse the verdict.\nThe judgment will be affirmed.\n",
+            "ocr": true,
+            "opinion_id": 8530652
+        }
+    ],
+    "court_short_name": "Supreme Court of Puerto Rico",
+    "court_full_name": "Supreme Court of Puerto Rico",
+    "court_type": "TS",
+    "court_jurisdiction": "Puerto Rico, PR",
+    "crime_category": "Murder"
+}

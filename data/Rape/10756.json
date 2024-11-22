@@ -1,8 +1,8 @@
 {
     "id": 1236957,
     "judges": "Pekelis",
-    "date_filed": 726105600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-02-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-braham",
     "case_name_short": "Braham",
     "case_name": "State v. Braham",

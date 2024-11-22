@@ -1,8 +1,8 @@
 {
     "id": 1354734,
     "judges": "Banke, Beasley, Carley",
-    "date_filed": 675648000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-06-18",
+    "date_filed_is_approximate": true,
     "slug": "turner-v-state",
     "case_name_short": "Turner",
     "case_name": "Turner v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1516609,
     "judges": "Handler, Justice",
-    "date_filed": 537580800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-08-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-fritz",
     "case_name_short": "Fritz",
     "case_name": "State v. Fritz",

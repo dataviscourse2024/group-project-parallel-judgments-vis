@@ -1,8 +1,8 @@
 {
     "id": 1849956,
     "judges": "Grimes",
-    "date_filed": 185587200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-09-27",
+    "date_filed_is_approximate": true,
     "slug": "lomax-v-state",
     "case_name_short": "Lomax",
     "case_name": "Lomax v. State",

@@ -1,8 +1,8 @@
 {
     "id": 4200284,
     "judges": "Davidson",
-    "date_filed": -1784851200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-04-06",
+    "date_filed_is_approximate": true,
     "slug": "wilson-v-state",
     "case_name_short": "Wilson",
     "case_name": "Wilson v. State",

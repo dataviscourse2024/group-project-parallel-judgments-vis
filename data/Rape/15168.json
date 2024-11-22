@@ -1,8 +1,8 @@
 {
     "id": 1464714,
     "judges": "Daniel E. Scott",
-    "date_filed": 1273449600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-11-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-griffith",
     "case_name_short": "Griffith",
     "case_name": "State v. Griffith",

@@ -1,8 +1,8 @@
 {
     "id": 7163073,
     "judges": "Buchanan, Miller, Sullivan",
-    "date_filed": 634262400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-03-18",
+    "date_filed_is_approximate": true,
     "slug": "bauer-v-mcclure",
     "case_name_short": "Bauer",
     "case_name": "Bauer v. McClure",

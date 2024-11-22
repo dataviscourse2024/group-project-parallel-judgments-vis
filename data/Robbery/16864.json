@@ -1,8 +1,8 @@
 {
     "id": 2124847,
     "judges": "Will",
-    "date_filed": 120787200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-02",
+    "date_filed_is_approximate": true,
     "slug": "seals-v-nicholl",
     "case_name_short": "Seals",
     "case_name": "Seals v. Nicholl",

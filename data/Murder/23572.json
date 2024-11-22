@@ -1,0 +1,47 @@
+{
+    "id": 3920267,
+    "judges": "Stacy",
+    "date_filed": "2002-02-25",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-allen",
+    "case_name_short": null,
+    "case_name": "State v. . Allen",
+    "case_name_full": "State v. Roland Earle Allen and Lowell Massie.",
+    "attorneys": "\n\nAttorney-General Seawell a/nd Assistant Attorney-General Ailcen for the State.\n",
+    "nature_of_suit": null,
+    "posture": "MOTION by State to docket and dismiss appeal.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b738-8\">\n    STATE v. ROLAND EARLE ALLEN and LOWELL MASSIE.\n   </parties><br><decisiondate id=\"b738-9\">\n    (Filed 1 November, 1935.)\n   </decisiondate><br><attorneys id=\"b739-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"673\"> \n     *673\n     </span>\n<em>\n     Attorney-General Seawell a/nd Assistant Attorney-General Ailcen for the State.\n    </em>\n</attorneys>",
+    "citations": [
+        "182 S.E. 140",
+        "208 N.C. 672"
+    ],
+    "opinions": [
+        {
+            "author_str": "Stacy",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5311.0,
+            "opinion_text": "At the September Term, 1934, Rowan Superior Court, the defendants herein, Roland Earle Allen and Lowell Massie, were tried upon indictment charging them with the murder of one D. Will Reeves, which resulted in a conviction of murder in the first degree and sentence of death as to both defendants. From the judgment thus entered, the defendants gave notice of appeal to the Supreme Court, and by consent were allowed sixty days within which to make out and serve statement of case on appeal. The clerk certifies that nothing has been done towards perfecting the appeal; that the time for serving statement of case has expired, and that no extension of time for filing same has been recorded in his office. S. v. Williams,ante, 352; S. v. Brown, 206 N.C. 747, 175 S.E. 116.\nThe prisoners, having failed to make out and serve statement of case on appeal within the time fixed, have lost their right to prosecute the appeal, and the motion of the Attorney-General to docket and dismiss must be allowed. S. v. Williams, supra; S. v. Johnson, 205 N.C. 610,172 S.E. 219. It is customary, however, in capital cases, where the life of the prisoner is involved, to examine the record to see that no error appears upon its face. S. v. Williams, supra; S. v.Goldston, 201 N.C. 89, 158 S.E. 926. This we have done in the instant case without discovering any error on the face of the record. S. v.Williams, supra; S. v. Hamlet, 206 N.C. 568, 174 S.E. 451.\nThere is still another reason why the motion of the Attorney-General must be allowed. The case was tried and judgment rendered before the commencement of the Spring Term, 1935, of this Court. Hence, the appeal was due to be brought to such term, the next succeeding term, and docketed here fourteen days before entering upon the call of the district to which the case belongs. Failing in this, application for certiorari at the Spring Term was required to preserve the right of appeal. S. v. Harris, 199 N.C. 377,154 S.E. 628; Pruitt v. Wood, ibid., 788, 156 S.E. 126. The case was neither docketed in time nor was application for certiorari made at the Spring Term. This was fatal to the appeal. S. v. Rector, 203 N.C. 9,164 S.E. 339; S. v. Farmer, 188 N.C. 243, 124 S.E. 562.\nAttention is again directed to what was said in S. v. Etheridge,207 N.C. 801, 178 S.E. 556, and S. v. Watson, ante, 70, relative to notifying the Attorney-General of appeals in criminal cases as required by C. S., 4654.\nAppeal dismissed. *Page 674 ",
+            "ocr": false,
+            "opinion_id": 3666717
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

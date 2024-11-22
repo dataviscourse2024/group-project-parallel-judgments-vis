@@ -1,0 +1,47 @@
+{
+    "id": 3411567,
+    "judges": "Broyles, Gardner, MacIntyre",
+    "date_filed": "2006-05-12",
+    "date_filed_is_approximate": true,
+    "slug": "webb-v-state",
+    "case_name_short": "Webb",
+    "case_name": "Webb v. State",
+    "case_name_full": "Webb v. the State",
+    "attorneys": "W. J. Wallace,  for plaintiff in error.\n\n Charles H. Garrett, solicitor-general,  contra.",
+    "nature_of_suit": null,
+    "posture": "Voluntary manslaughter; from Crawford superior court &#8212; Judge Mallory C. Atkinson. December 28, 1945.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b784-8\">\n    31176.\n   </docketnumber><parties id=\"AmN\">\n    Webb\n    <em>\n     v.\n    </em>\n    The State.\n   </parties>",
+    "citations": [
+        "38 S.E.2d 54",
+        "73 Ga. App. 748"
+    ],
+    "opinions": [
+        {
+            "author_str": "MacIntyre",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7165.0,
+            "opinion_text": "1. \"The Supreme Court `has frequently decided that the judge may construct his charge upon the various issues made by the evidence; and that, if a defense is set up in the statement alone, it is not error for the judge to omit submitting the law appropriate to such defense, in the absence of a timely written request.' Watson v. State, 136 Ga. 236, 239\n(71 S.E. 122); Carter v. State, 15 Ga. App. 343 *Page 749 \n(83 S.E. 153); Wilensky v. State, 15 Ga. App. 360\n(83 S.E. 276).\" Gilley v. State, 72 Ga. App. 197\n(33 S.E.2d, 560).\n2. Here there was no request to charge. The defendant introduced no evidence, but in his statement to the jury denied that his confession was freely and voluntarily made. The judge in his charge treated the question, whether the confession was voluntarily made \"without being induced by another, by the slightest hope of benefit or remotest fear of injury,\" as issuable, and left it to the jury to say whether the confession had been freely and voluntarily made, as provided in the Code, &#167; 38-411. He correctly charged the law applicable to confessions. Hawkins v. State, 6 Ga. App. 109\n(64 S.E. 289). If the defendant had wished an elaboration of the charge actually given on confessions, he should have submitted a timely written request. Hood v. State, 67 Ga. App. 291\n(2) (19 S.E.2d 227); McNabb v. State, 69 Ga. App. 885,  887 (27 S.E.2d 246).\n3. A conviction may be lawfully had upon a free and voluntary confession and upon proof of circumstances sufficient in themselves to authorize the inference to be drawn by the jury that the corpus delicti was established. Byars v. State, 73 Ga. App. 727 (38 S.E.2d 53).\n4. Under the foregoing rulings and the facts in the instant case, the jury were authorized to find from the evidence that the defendant was guilty of voluntary manslaughter as charged.\nJudgment affirmed. Broyles, C. J., and Gardner, J.,concur.\n                         DECIDED APRIL 25, 1946.",
+            "ocr": false,
+            "opinion_id": 3406598
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

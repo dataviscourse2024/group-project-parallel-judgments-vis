@@ -1,0 +1,46 @@
+{
+    "id": 6028564,
+    "judges": null,
+    "date_filed": "1978-09-26",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-harold",
+    "case_name_short": "Harold",
+    "case_name": "People v. Harold",
+    "case_name_full": "The People of the State of New York v. Michael Harold",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "125 A.D.2d 491"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the Supreme Court, Kings County (Lombardo, J.), rendered November 26, 1984, convicting him of murder in the second degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe trial court allowed certain hearsay statements into evidence, \"apparently as admissions by silence, because the defendant was present when the statements were made\u201d (People v Rhodes, 96 AD2d 565, 566). However, \"[d]eclarations or statements made in the presence of a party * * * are only competent [evidence] when the person affected hears and fully comprehends the effect of the words spoken and when he is at full liberty to make answer thereto, and then only under such circumstances as would justify the inference of assent or acquiescence as to the truth of the statement by his remaining silent\u201d (People v Kennedy, 164 NY 449, 457; see, People v Allen, 300 NY 222, 225). The record does not support a finding that the challenged hearsay statements fall within this rule in that the statements were either made while the defendant was in police custody (see, People v Rutigliano, 261 NY 103, 107), or they were of such a nature that there would be no reason for the defendant to necessarily reply to the statements. We note that contrary to the People\u2019s contentions on appeal, the prosecutor did not seek to have any of the statements admitted as excited utterances nor were they introduced solely because they were made and not for the truth of the matter within the statements. Thus, the trial court erred in admitting the hearsay statements in question.\nHowever, we find that the error was harmless in light of the overwhelming evidence of guilt, including the testimony of two eyewitnesses who identified the defendant as the person who stabbed the first victim and two other eyewitnesses who identified the defendant as the person who stabbed the second victim, all of whom either knew or had previously seen the *492defendant in the community (see, People v Almestica, 42 NY2d 222; People v Crimmins, 36 NY2d 230; People v Rhodes, supra).\nThe defendant\u2019s remaining contentions are either unpreserved for appellate review or without merit. Thompson, J. P., Rubin, Lawrence and Kunzeman, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5891401
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

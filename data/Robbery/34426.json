@@ -1,8 +1,8 @@
 {
     "id": 6240002,
     "judges": "Levy",
-    "date_filed": 1540252800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-06-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-randolph",
     "case_name_short": null,
     "case_name": "People v. Randolph",

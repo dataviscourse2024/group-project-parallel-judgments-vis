@@ -1,8 +1,8 @@
 {
     "id": 1972727,
     "judges": "Moylan, Gilbert and Lowe",
-    "date_filed": 130464000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-03-15",
+    "date_filed_is_approximate": true,
     "slug": "roberts-v-grant",
     "case_name_short": "Roberts",
     "case_name": "Roberts v. Grant",

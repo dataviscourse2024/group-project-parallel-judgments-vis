@@ -1,8 +1,8 @@
 {
     "id": 1314415,
     "judges": "Banke, Birdsong, Cooper",
-    "date_filed": 647654400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-05-20",
+    "date_filed_is_approximate": true,
     "slug": "hicks-v-state",
     "case_name_short": "Hicks",
     "case_name": "Hicks v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1218622,
     "judges": "Criswell, Hume, Ney",
-    "date_filed": 632620800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-07-19",
+    "date_filed_is_approximate": true,
     "slug": "banks-v-industrial-claim-appeals-office",
     "case_name_short": "Banks",
     "case_name": "Banks v. Industrial Claim Appeals Office",

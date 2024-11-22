@@ -1,8 +1,8 @@
 {
     "id": 2243670,
     "judges": "Epstein",
-    "date_filed": 773884800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-01-17",
+    "date_filed_is_approximate": true,
     "slug": "ruiz-v-superior-court",
     "case_name_short": "Ruiz",
     "case_name": "Ruiz v. Superior Court",

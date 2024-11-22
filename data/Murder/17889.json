@@ -1,8 +1,8 @@
 {
     "id": 2329483,
     "judges": "John R. Tunheim",
-    "date_filed": 1256860800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-07-23",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-burnes",
     "case_name_short": "Burnes",
     "case_name": "United States v. Burnes",

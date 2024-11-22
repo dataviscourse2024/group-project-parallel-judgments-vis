@@ -1,8 +1,8 @@
 {
     "id": 1420672,
     "judges": "Fletcher",
-    "date_filed": 723254400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-04-29",
+    "date_filed_is_approximate": true,
     "slug": "christenson-v-state",
     "case_name_short": "Christenson",
     "case_name": "Christenson v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1083904,
     "judges": "Judge Joe B. Jones",
-    "date_filed": 811555200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-01-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-turner",
     "case_name_short": "Turner",
     "case_name": "State v. Turner",

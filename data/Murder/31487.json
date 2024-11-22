@@ -1,0 +1,46 @@
+{
+    "id": 5636318,
+    "judges": null,
+    "date_filed": "2000-10-22",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-stein",
+    "case_name_short": "Stein",
+    "case_name": "People v. Stein",
+    "case_name_full": "The People of the State of New York v. Bernard Stein",
+    "attorneys": "Rudolph Stand and Julius Stern for appellant., Frank S. Hogan, District Attorney (Richard G. Denser, Charles W. Manning and Jack M. Cotton of counsel), for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued May 16, 1951;",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "302 N.Y. 915"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment of conviction affirmed; no opinion.\nConcur: Loughran, Ch. J., Lewis, Desmond, Dye, Fuld and Froessel, JJ. Conway, J., votes to reverse and grant a new trial upon the ground that the identity of the defendant as the person who committed the homicide was not shown with sufficient certainty to preclude a reasonable possibility of error. (People v. Seppi, 221 N. Y. 62, 68; People v. Davino, 284 N. Y. 486, 489.) Chief Judge Crane, in People v. Crum (272 N. Y. 348, 350), set forth clearly.and succinctly the measure of our obligation in a capital case. He said: \u201c A review of the facts means that we shall examine the evidence to determine whether in our judgment it has been sufficient to make out a case of murder beyond a reasonable doubt. We are obliged to weigh the evidence and form a conclusion as to the facts. It is not sufficient, as in most of the cases with us, to find evidence which presents a question of fact; it is necessary to go further before we can affirm a conviction and find that the evidence is of such weight and credibility as to convince us that the jury was justified in finding the defendant guilty beyond a reasonable doubt.\u201d\nThis defendant was convicted upon the altered and changed testimony of unreliable witnesses, upon conjecture and upon inferences flowing from inferences. [See 302 N. Y. 941; 303 N. Y. 627.]\n",
+            "ocr": true,
+            "opinion_id": 5481767
+        }
+    ],
+    "court_short_name": "New York Court of Appeals",
+    "court_full_name": "New York Court of Appeals",
+    "court_type": "S",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

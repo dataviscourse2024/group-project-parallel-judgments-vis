@@ -1,8 +1,8 @@
 {
     "id": 1524121,
     "judges": "Douglas, Morrison, Roberts",
-    "date_filed": 183168000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-09-21",
+    "date_filed_is_approximate": true,
     "slug": "perkins-v-state",
     "case_name_short": "Perkins",
     "case_name": "Perkins v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1146724,
     "judges": "Kliebert, Gaudin and Wicker",
-    "date_filed": 537408000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-01-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hardan",
     "case_name_short": "Hardan",
     "case_name": "State v. Hardan",

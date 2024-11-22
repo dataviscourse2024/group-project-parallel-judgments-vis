@@ -1,8 +1,8 @@
 {
     "id": 8667177,
     "judges": "Action, Blommers, Kastl, Lewis, Military, Retirement, Took",
-    "date_filed": 625363200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-04-02",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-church",
     "case_name_short": "Church",
     "case_name": "United States v. Church",

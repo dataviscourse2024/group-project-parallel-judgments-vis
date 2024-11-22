@@ -1,8 +1,8 @@
 {
     "id": 3138470,
     "judges": null,
-    "date_filed": 1012953600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-02-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bell",
     "case_name_short": null,
     "case_name": "People v. Bell",

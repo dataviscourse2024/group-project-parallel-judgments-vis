@@ -1,8 +1,8 @@
 {
     "id": 2333275,
     "judges": "Annabelle Clinton Imber",
-    "date_filed": 1127347200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-10-20",
+    "date_filed_is_approximate": true,
     "slug": "mackool-v-state",
     "case_name_short": "MacKool",
     "case_name": "MacKool v. State",

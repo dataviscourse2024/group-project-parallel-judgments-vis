@@ -1,0 +1,46 @@
+{
+    "id": 1121372,
+    "judges": "Boney, Booch-Ever, Connor, Erwin, Rabino-Witz",
+    "date_filed": "2009-02-14",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-howey",
+    "case_name_short": "Howey",
+    "case_name": "State v. Howey",
+    "case_name_full": "STATE of Alaska, Appellant, v. Ronald C. HOWEY, Appellee",
+    "attorneys": "John E. Havelock, Atty. Gen., Juneau, Seaborn J. Buckalew, Jr., Dist. Atty., Robert L. Eastaugh, W. H. Hawley, Asst. Dist. Attys., Anchorage, for appellant., Leroy J. Barker and Benjamin O. Walters, Anchorage, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b1312-3\">\n    STATE of Alaska, Appellant, v. Ronald C. HOWEY, Appellee.\n   </parties><br><docketnumber id=\"b1312-5\">\n    No. 1560.\n   </docketnumber><br><court id=\"b1312-6\">\n    Supreme Court of Alaska.\n   </court><br><decisiondate id=\"b1312-7\">\n    April 17, 1972.\n   </decisiondate><br><attorneys id=\"b1312-12\">\n    John E. Havelock, Atty. Gen., Juneau, Seaborn J. Buckalew, Jr., Dist. Atty., Robert L. Eastaugh, W. H. Hawley, Asst. Dist. Attys., Anchorage, for appellant.\n   </attorneys><br><attorneys id=\"b1312-13\">\n    Leroy J. Barker and Benjamin O. Walters, Anchorage, for appellee.\n   </attorneys><br><judges id=\"b1312-14\">\n    Before BONEY, C. J., and RABINO-WITZ, CONNOR, ERWIN, and BOOCH-EVER, JJ.\n   </judges>",
+    "citations": [
+        "495 P.2d 1270"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n495 P.2d 1270 (1972)\nSTATE of Alaska, Appellant,\nv.\nRonald C. HOWEY, Appellee.\nNo. 1560.\nSupreme Court of Alaska.\nApril 17, 1972.\nJohn E. Havelock, Atty. Gen., Juneau, Seaborn J. Buckalew, Jr., Dist. Atty., Robert L. Eastaugh, W.H. Hawley, Asst. Dist. Attys., Anchorage, for appellant.\nLeroy J. Barker and Benjamin O. Walters, Anchorage, for appellee.\nBefore BONEY, C.J., and RABINOWITZ, CONNOR, ERWIN, and BOOCHEVER, JJ.\n\nOPINION\nPER CURIAM.\nRonald Howey pled guilty to the crime of manslaughter and thereafter was sentenced to three years' imprisonment. The superior court's judgment further provided for suspension of the three-year sentence of imprisonment and that Howey be placed on probation for three years. The State of Alaska appeals from the superior court's judgment.\nIn this appeal the state asserts that the trial court's sentence was too lenient in view of the seriousness of the crime of manslaughter, the need to deter other members of society who might possess tendencies toward criminal conduct similar to that of the offender, and the need to maintain respect for societal norms prohibiting such conduct through reaffirmation of the validity of such norms. Upon consideration of the extraordinary circumstances surrounding the commission of the crime and the data contained in the presentence report, we cannot say that the trial court was clearly mistaken in imposing the sentence[1] or that Howey's sentence was not within the zone of reasonableness.[2]\nApproved.\nNOTES\n[1]  State v. Chaney, 477 P.2d 441, 444 (Alaska 1970).\n[2]  Waters v. State, 483 P.2d 199, 202 (Alaska 1971).\n\n",
+            "ocr": false,
+            "opinion_id": 1121372
+        }
+    ],
+    "court_short_name": "Alaska Supreme Court",
+    "court_full_name": "Alaska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Alaska, AK",
+    "crime_category": "Murder"
+}

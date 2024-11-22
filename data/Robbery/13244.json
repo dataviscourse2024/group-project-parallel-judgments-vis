@@ -1,8 +1,8 @@
 {
     "id": 2588185,
     "judges": "Schuman, Presiding Judge, and Brewer, Chief Judge, and Deits, Judge Pro Tempore",
-    "date_filed": 1238544000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-12-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-villemeyer",
     "case_name_short": "Villemeyer",
     "case_name": "State v. Villemeyer",

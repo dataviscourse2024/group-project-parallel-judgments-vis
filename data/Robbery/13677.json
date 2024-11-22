@@ -1,8 +1,8 @@
 {
     "id": 1777937,
     "judges": "Blanche",
-    "date_filed": 403747200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-06-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-duncan",
     "case_name_short": "Duncan",
     "case_name": "State v. Duncan",

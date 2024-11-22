@@ -1,0 +1,47 @@
+{
+    "id": 6001591,
+    "judges": null,
+    "date_filed": "1973-09-10",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-cain",
+    "case_name_short": "Cain",
+    "case_name": "People v. Cain",
+    "case_name_full": "The People of the State of New York v. Juma Cain",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "96 A.D.3d 1072",
+        "947 N.Y.S.2d 168"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant, by permission, from an order of the Supreme Court, Kings County (Firetog, J.), dated May 31, 2011, which, after a hearing, denied his motion pursuant to CPL 440.10 to vacate a judgment of conviction of the same court (Collini, J.), rendered June 22, 2003, convicting him of murder in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the order is affirmed.\nThe defendant was convicted of murder in the second degree in connection with the shooting of Jason Louther in Brooklyn on November 1, 2002. On appeal, the judgment of conviction was affirmed (see People v Cain, 16 AD3d 431 [2005]). In 2009 the defendant moved pursuant to CPL 440.10 to vacate the judgment of conviction. In his moving papers, the defendant submitted transcripts from federal proceedings in which Filemon Timana confessed to shooting Jason Louther (see CPL 440.30 [1]). In those proceedings, which occurred in June 2007 and January 2008, Timana testified that he shot and killed Louther because Louther previously had struck the defendant on the head with a wrench and taken a gun from him. Upon seeing Louther on the street on November 1, 2002, Timana went to the defendant and told him that he had seen Louther. The defendant gave Timana a gun and told him to \u201chandle it.\u201d Timana testified that at that point he was taking orders from the defendant. Timana confronted Louther and eventually shot him. Immediately thereafter, Timana returned to the defendant, told him that he had shot Louther, and handed the gun back to him.\nThe Supreme Court conducted a hearing on the defendant\u2019s motion. Timana, who already had been sentenced in federal court, testified at the hearing. In contrast to his federal testimony, Timana now claimed at the subject hearing that when he obtained the gun from the defendant, he had not intended to kill Louther, and his purpose was only to intimidate *1073and humiliate him and to recover the gun Louther had taken from the defendant. In this version, it was not until Louther and Timana began arguing that Timana decided to shoot and kill Louther. When confronted on cross-examination with the statements he had made in federal court, Timana did not remember admitting in his plea of guilty that he had made an agreement with the defendant to kill Louther, and further testified that he did not know what the word \u201cagreed\u201d meant. Timana acknowledged his federal testimony that he had killed Louther because of what Louther had done to the defendant, but maintained that the truth was that Timana did not form the intent to kill Louther until their confrontation.\nThe Supreme Court denied the defendant\u2019s motion, finding that the proffered evidence was not \u201cnewly discovered\u201d within the meaning of CPL 440.10 (1) (g). The defendant appeals and we affirm.\nCPL 440.10 (1) (g) provides that a court may vacate a defendant\u2019s judgment of conviction upon the ground that: \u201cNew evidence has been discovered since the entry of a judgment based upon a verdict of guilty after trial, which could not have been produced by the defendant at the trial even with due diligence on his part and which is of such character as to create a probability that had such evidence been received at the trial the verdict would have been more favorable to the defendant; provided that a motion based upon such ground must be made with due diligence after the discovery of such alleged new evidence.\u201d\nThe defendant has the burden of proving by a preponderance of the evidence every fact essential to support the motion (see CPL 440.30 [6]). The power to vacate a judgment of conviction on the ground of newly discovered evidence rests within the discretion of the hearing court. The court must make its final decision based upon the likely cumulative effect of the new evidence had it been presented at trial (see People v Bellamy, 84 AD3d 1260, 1261 [2011]; People v Tankleff, 49 AD3d 160, 178-181 [2007]).\nThe Supreme Court properly determined that the defendant failed to meet his burden of showing that the proffered evidence has been discovered since the entry of judgment on his conviction. The defendant makes no claim that Timana had any potential testimony not known to him at the time of the trial. Moreover, even if Timana\u2019s testimony at the hearing pursuant to CPL 440.30 is credited, the factual allegations therein were known to the defendant at the time of his trial. Therefore, the proffered testimony does not satisfy the requirement of CPL *1074440.10 (1) (g) that it be new evidence \u201cdiscovered since the entry of a judgment based upon a verdict of guilty after trial\u201d (see People v Huggins, 144 Misc 2d 49, 52 [1989]; cf. People v Feliciano, 240 AD2d 256 [1997]; People v Pellot, 173 AD2d 419 [1991]; People v Moore, 147 AD 2d 924 [1989]; People v Craft, 123 AD2d 481 [1986]; People v Rivera, 118 AD2d 877 [1986]).\nIn any event, considering the cumulative effect of all of Timana\u2019s testimony and statements, there is no probability that if such evidence had been received at the trial the verdict would have been more favorable to the defendant (see CPL 440.10 [1] [g]). \u201c[W]hether one is the actual perpetrator of the offense or an accomplice is, with respect to criminal liability for the offense, irrelevant\u201d (People v Rivera, 84 NY2d 766, 771 [1995] [internal quotation marks omitted]). Mastro, A.P.J., Angiolillo, Austin and Sgroi, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5863085
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

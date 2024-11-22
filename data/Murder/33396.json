@@ -1,0 +1,46 @@
+{
+    "id": 6027733,
+    "judges": null,
+    "date_filed": "1981-12-02",
+    "date_filed_is_approximate": true,
+    "slug": "stimpfle-jones-v-jones",
+    "case_name_short": "Stimpfle-Jones",
+    "case_name": "Stimpfle-Jones v. Jones",
+    "case_name_full": "Nedra Stimpfle-Jones v. Jimmy Jones",
+    "attorneys": "\u2014 Weiss, J.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "124 A.D.2d 869"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWhile defendant was serving a 15-year-to-life sentence upon a homicide conviction, he met plaintiff who was teaching in a college program for inmates at Great Meadow Correctional Facility. In September 1975, defendant\u2019s request for permission to marry plaintiff was denied by the Superintendent of Auburn Correctional Facility as prohibited by Civil Rights Law \u00a7 79-a. On February 24, 1978, however, plaintiff and defendant participated in a religious marriage ceremony performed by a Catholic priest within the facility, albeit without a license, blood test or consummation of the marriage. Thereafter, the parties filed joint income tax returns and plaintiff acted as a consultant to a not-for-profit corporation formed by defendant. They have never cohabited as husband and wife. On October 18, 1984, plaintiff commenced this action for divorce on the ground of defendant\u2019s incarceration in excess of three years subsequent to the marriage and/or a declaration of the invalidity of the marriage. Defendant answered and served a cross complaint for divorce on grounds of cruel and inhuman treatment, and abandonment and adultery and he also sought equitable distribution of the marital property and other pendente lite relief. Special Term granted plaintiff\u2019s motion for summary judgment declaring the marriage void ab initio pursuant to Civil Rights Law \u00a7 79-a (1), giving rise to this appeal by defendant.\nAs Special Term correctly determined, Civil Rights Law \u00a7 79-a prohibits the marriage of an inmate serving a sentence of life imprisonment, thus rendering the purported marriage herein a legal nullity (see, Matter of Fitzpatrick v Smith, 90 AD2d 974, 975, affd 59 NY2d 916, cert denied 464 US 963). We further find that the statute passes constitutional muster (supra; see, Johnson v Rockefeller, 365 F Supp 377, affd sub nom. Butler v Wilson, 415 US 953). Defendant\u2019s attempt to distinguish the Johnson decision as outdated, since it was decided prior to the implementation of the \"Family Reunion Program\u201d by the Department of Correctional Services (7 NYCRR part 220), does not compel a contrary conclusion (see, *870Ferrin v New York State Dept. of Correctional Servs., 124 AD2d 265). Participation in this program is a privilege, not a right, conditioned upon documentation of a valid marriage license (see, Matter of Mary of Oakknoll v Coughlin, 101 AD2d 931, 932; 7 NYCRR 220.3 [d] [1]). Finally, while the provisions of Domestic Relations Law \u00a7 236 (B) expressly apply to actions for a declaration of the nullity of a void marriage (Domestic Relations Law \u00a7 236 [B] [2]), we discern no impropriety in Special Term\u2019s determination not to award defendant any monetary relief. It would be incongruous to find defendant entitled to an equitable distribution of the parties\u2019 assets, when as a consequence of his life term of imprisonment, he is statutorily \"deemed civilly dead\u201d (Civil Rights Law \u00a7 79-a [1]). Accordingly, the order and judgment of Special Term should be affirmed.\nOrder and judgment affirmed, without costs. Mahoney, P. J., Kane, Casey, Weiss and Levine, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5890547
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

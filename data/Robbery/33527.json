@@ -1,8 +1,8 @@
 {
     "id": 6051121,
     "judges": null,
-    "date_filed": 612489600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-09-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lyons",
     "case_name_short": "Lyons",
     "case_name": "People v. Lyons",

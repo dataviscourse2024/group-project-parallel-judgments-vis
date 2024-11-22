@@ -1,8 +1,8 @@
 {
     "id": 2150925,
     "judges": "Garrard, Hoffman, Staton",
-    "date_filed": 325987200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-03-13",
+    "date_filed_is_approximate": true,
     "slug": "webb-v-state",
     "case_name_short": "Webb",
     "case_name": "Webb v. State",

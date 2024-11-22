@@ -1,0 +1,46 @@
+{
+    "id": 8515016,
+    "judges": null,
+    "date_filed": "2004-08-14",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-hilton",
+    "case_name_short": "Hilton",
+    "case_name": "State v. Hilton",
+    "case_name_full": "[STATE v. SUSANNAH HILTON.]",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 Del. Cas. 247"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKeturah Combs. Susannah Hilton beat and abused me and beat me, etc.\nRobert Maxwel. I heard K. Combs crying murder, went over, saw her and Susannah H. was going away. Said she had beat her and would again.\nFined $2.\n",
+            "ocr": true,
+            "opinion_id": 8487471
+        }
+    ],
+    "court_short_name": "Delaware County Court of Quarter Sessions",
+    "court_full_name": "Delaware County Court of Quarter Sessions",
+    "court_type": "ST",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Murder"
+}

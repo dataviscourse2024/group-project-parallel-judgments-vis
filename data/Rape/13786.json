@@ -1,8 +1,8 @@
 {
     "id": 1733434,
     "judges": "Jorgenson, Green, and Nesbitt",
-    "date_filed": 966988800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-12-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-ortiz",
     "case_name_short": "Ortiz",
     "case_name": "State v. Ortiz",

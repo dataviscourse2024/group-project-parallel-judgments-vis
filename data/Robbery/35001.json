@@ -1,8 +1,8 @@
 {
     "id": 6354752,
     "judges": "Lane",
-    "date_filed": 423446400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-08",
+    "date_filed_is_approximate": true,
     "slug": "people-v-todd",
     "case_name_short": "Todd",
     "case_name": "People v. Todd",

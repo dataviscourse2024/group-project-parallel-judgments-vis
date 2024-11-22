@@ -1,8 +1,8 @@
 {
     "id": 7874810,
     "judges": "Agree, Fogleman, Harris, Jones, Smith",
-    "date_filed": 213235200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-11-06",
+    "date_filed_is_approximate": true,
     "slug": "higginbotham-v-state",
     "case_name_short": "Higginbotham",
     "case_name": "Higginbotham v. State",

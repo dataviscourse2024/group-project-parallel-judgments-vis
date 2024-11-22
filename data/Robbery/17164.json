@@ -1,8 +1,8 @@
 {
     "id": 2221158,
     "judges": "Stengel",
-    "date_filed": 193536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-02-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-parker",
     "case_name_short": "Parker",
     "case_name": "People v. Parker",

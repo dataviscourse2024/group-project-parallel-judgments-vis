@@ -1,8 +1,8 @@
 {
     "id": 6335420,
     "judges": "Smith",
-    "date_filed": 438220800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-09-24",
+    "date_filed_is_approximate": true,
     "slug": "people-v-benjamin",
     "case_name_short": "Benjamin",
     "case_name": "People v. Benjamin",

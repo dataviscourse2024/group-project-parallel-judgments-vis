@@ -1,8 +1,8 @@
 {
     "id": 6933943,
     "judges": "Benton, McClanahan",
-    "date_filed": 1098748800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-03-30",
+    "date_filed_is_approximate": true,
     "slug": "washington-v-commonwealth",
     "case_name_short": "Commonwealth",
     "case_name": "Washington v. Commonwealth",

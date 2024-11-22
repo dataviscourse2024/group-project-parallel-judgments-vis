@@ -1,8 +1,8 @@
 {
     "id": 2092478,
     "judges": "Burman",
-    "date_filed": -51667200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-03-26",
+    "date_filed_is_approximate": true,
     "slug": "people-v-williams",
     "case_name_short": null,
     "case_name": "People v. Williams",

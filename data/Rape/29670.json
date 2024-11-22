@@ -1,0 +1,46 @@
+{
+    "id": 5272795,
+    "judges": "Ahrens, Crandall, Dowd",
+    "date_filed": "2004-08-20",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-daughty",
+    "case_name_short": "Daughty",
+    "case_name": "State v. Daughty",
+    "case_name_full": "STATE of Missouri v. James DAUGHTY",
+    "attorneys": "Emmett D. Queener, Asst. Public Defender, Columbia, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Breck K. Burgess, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing and/or Transfer to Supreme Court Denied March 29, 2001., Application to Transfer Denied May 29, 2001.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "42 S.W.3d 793"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nORDER\n\nJames Daughty (\u201cdefendant\u201d) was charged by information with murder in the first degree, section 565.020.1 RSMo 1994, armed criminal action, section 571.015, and attempt to commit forcible rape, section 564.011. Defendant appeals the judgment on his convictions, after a judge tried case where the court sentenced him to consecutive terms of life in prison without eligibility for probation or parole for murder in the first degree, and two terms of life imprisonment for armed criminal action and attempted forcible rape.\nWe have reviewed the briefs of the parties and the record on appeal and find no error of law. No jurisprudential purpose would be served by a written opinion. However, the parties have been furnished with a memorandum opinion for their information only, setting forth the facts and reasons for this order.\n*794The judgment of the trial court is affirmed in accordance with Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5100367
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Rape"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 5924193,
+    "judges": null,
+    "date_filed": "2014-08-27",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-perez",
+    "case_name_short": "Perez",
+    "case_name": "People v. Perez",
+    "case_name_full": "The People of the State of New York v. Carlos Perez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "65 A.D.3d 1167",
+        "885 N.Y.S.2d 127"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Mangano, Jr., J.), rendered February 26, 2007, convicting him of attempted rape in the second degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contention that the Supreme Court erred in failing to inquire into his mental competency to plead guilty is unpreserved for appellate review (see CPL 470.05; People v Matthews, 21 AD3d 499, 500 [2005]; People v Bristol, 273 AD2d 248, 249 [2000]; People v Durant, 198 AD2d 515 [1993]; People v Willingham, 194 AD2d 703 [1993]). In any event, this contention is without merit. The defendant provided unequivocal and appropriate responses throughout the proceedings, indicating that he understood his rights, which he knowingly, voluntarily, and intelligently waived. Moreover, he meaningfully participated in the proceedings by filing pro se motions. Thus, the court had no basis upon which to conduct an inquiry about the defendant\u2019s *1168mental competency (see People v Matos, 27 AD3d 485 [2006]; People v Wheeler, 249 AD2d 774 [1998]).\nContrary to the defendant\u2019s contention, he was not denied the effective assistance of counsel. Counsel filed pretrial motions on the defendant\u2019s behalf, obtained a suppression hearing, and negotiated a favorable plea agreement which limited the defendant\u2019s term of imprisonment. Thus, defense counsel\u2019s representation was meaningful (see People v Caban, 5 NY3d 143, 152 [2005]; People v Benevento, 91 NY2d 708, 712 [1998]).\nThe defendant\u2019s remaining contentions, including those raised in his supplemental pro se brief, are without merit. Rivera, J.P., Florio, Dickerson and Austin, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5782101
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

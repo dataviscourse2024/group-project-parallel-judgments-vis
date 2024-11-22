@@ -1,8 +1,8 @@
 {
     "id": 4620522,
     "judges": null,
-    "date_filed": 1557964800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-07-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-roller",
     "case_name_short": "Roller",
     "case_name": "State v. Roller",

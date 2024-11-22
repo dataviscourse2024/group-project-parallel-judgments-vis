@@ -1,0 +1,46 @@
+{
+    "id": 5266859,
+    "judges": "Breckenridge, Hanna, Lowenstein",
+    "date_filed": "2010-04-22",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-hamm",
+    "case_name_short": "Hamm",
+    "case_name": "State v. Hamm",
+    "case_name_full": "STATE of Missouri v. Paul HAMM",
+    "attorneys": "Susan L. Hogan, Appellate Defender, Kansas City, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Christi A. Ingalsbe, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "958 S.W.2d 607"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nPER CURIAM.\nThe defendant appeals from his conviction of first degree murder (\u00a7 565.202, RSMo 1994), and armed criminal action (\u00a7 571.015, RSMo 1994), and consecutive sentences of life imprisonment without probation or parole and 50 years, respectively. The defendant contends that the trial court abused its discretion in denying his motion for mistrial because the prosecuting attorney displayed the murder weapon, which had been admitted into evidence, to the jury. Affirmed. Rule 30.25(b), V.A.M.R.\n",
+            "ocr": true,
+            "opinion_id": 5094144
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

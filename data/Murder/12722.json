@@ -1,8 +1,8 @@
 {
     "id": 898001,
     "judges": "Carol, Crothers, Dale V, De Walle, Kapsner, Maring, Mary, Muehlen, Ronning, Sandstrom",
-    "date_filed": 1165968000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-07-17",
+    "date_filed_is_approximate": true,
     "slug": "weisenburger-v-rs",
     "case_name_short": null,
     "case_name": "Weisenburger v. R.S.",

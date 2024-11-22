@@ -1,8 +1,8 @@
 {
     "id": 1356976,
     "judges": "Batjer, Gunderson, Manoukian, Mowbray, Thompson",
-    "date_filed": 316828800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-07-31",
+    "date_filed_is_approximate": true,
     "slug": "mann-v-state",
     "case_name_short": "Mann",
     "case_name": "Mann v. State",

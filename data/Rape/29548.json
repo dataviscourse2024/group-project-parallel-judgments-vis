@@ -1,0 +1,46 @@
+{
+    "id": 5248851,
+    "judges": "Brien, Cooper, Drowota, Fones, Harbison",
+    "date_filed": "2009-05-29",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-peterson",
+    "case_name_short": "Peterson",
+    "case_name": "State v. Peterson",
+    "case_name_full": "STATE of Tennessee v. Clare E. PETERSON",
+    "attorneys": "Charles W. Burson, Atty. Gen. and Reporter, Janice Bossing, Asst. Atty. Gen., Nashville, Charles E. Hawk, Dist. Atty. Gen., Kingston, for appellant., J. Scott McCluen, Harriman, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "777 S.W.2d 351"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brien",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nO\u2019BRIEN, Justice.\nThe trial court granted probation to the defendant in this case. The Court of Criminal Appeals affirmed and the State has appealed. Application to appeal was granted by this Court because of an apparent diversity of opinion at the intermediate appellate level relative to the application of T.C.A. \u00a7 40-35-402(d) to appeals by the State.\nThe issues presented for review here are:\n(1) Should the appellate courts apply a de novo review standard when the State appeals a grant of probation by the trial court?\n(2) Did the Court of Criminal Appeals err in affirming the action of the trial court suspending defendant\u2019s entire sentence and placing him on probation, in lieu of any confinement?\nDefendant was indicted by the Roane County Grand Jury on one count of aggravated rape and two counts of aggravated sexual battery. After initially pleading not-guilty, he subsequently entered into a plea agreement to the charges. He was sentenced to nine (9) years on the rape conviction and three (3) years each for the two counts of sexual battery. All sentences were fixed to be served consecutively, for an effective sentence of fifteen (15) years as a Range I standard offender. He was placed on probation for nine (9) years.\nThe State appealed the trial court judgment and the Court of Criminal Appeals affirmed. Pursuant to T.C.A. \u00a7 40-35-403(b)(2) the State has appealed to this Court because the Court granted all of the sentence on probation. The State contends, as it did in the Court of Criminal Appeals, that T.C.A. \u00a7 40-35-402(d) applies in appeals of this nature. It is argued that the Court of Criminal Appeals should have conducted a de novo review rather than applying the \u201cabuse of discretion\u201d standard in reviewing the trial judge\u2019s grant of probation.\nT.C.A. \u00a7 40-35-402 is titled \u201cAppeal of Sentence by Defendant.\u201d Subsection (a) specifies the parameters of the appeal allowed. Subsection (b) sets out the grounds which may be the basis for an appeal. Subsection (c) prescribes the appellate court\u2019s authority if a sentence is appealed. *352By Chapter 5, \u00a7 31 of the Public Acts of 1985 (1st E.S.), the legislature added subsection (d) which states:\n(d) When reviewing sentencing issues raised pursuant to subsection (a), including the granting or denial of probation and the length of sentence, the appellate court shall conduct a de novo review on the record of such issues. Such review shall be conducted with a presumption that the determinations made by the court from which the appeal is taken are correct. If, in the opinion of the appellate court, the sentence is excessive or the manner of service of such sentence is inappropriate, the sentence shall be modified as provided in subsection (c).\nT.C.A. \u00a7 40-35-403 provides for appeal of a sentence by the State. Subsection (a) sets out the manner, method and some of the limitations on the right of the State to appeal. It specifically provides, \u201cthe right of the appeal of the State shall be independent of the defendant\u2019s right of appeal.\u201d Subsection (b) sets out further limitations and conditions for the State\u2019s appeal. Subsection (c) prescribes the authority of the appellate court in the event of appeal. The statute was not amended by the 1985 Acts, and does not included any comment relating to the mode of review.\nThe State cites in its brief State v. Curtis, 743 S.W.2d 195 (Tenn.Cr.App.1987). At page 198 of that decision the Court of Criminal Appeals specifically said, \u201cthe State would have us rule that it was the intent of the legislature in the enactment of Chapter 5, \u00a7 31 of the Public Acts of 1985, (1st E.S.). (T.C.A. \u00a7 40-35-402(d)) to apply the sentencing review procedure set out in that enactment to State appeals as well as appeals by the defendant. This we decline to do.\u201d In that case permission to appeal was denied by this Court. We now state explicitly, the sentencing review procedure set out in T.C.A. \u00a7 40-35-402(d) is limited to sentence appeals by the defehdant, and does not apply to appeals of sentences by the State. We are of the opinion that had the legislature intended to alter the rule for State appeals of probation they would have amended T.C.A. \u00a7 40-35-403 to accomplish that purpose.\nThe State says the Court of Criminal Appeals erred in affirming the trial court\u2019s action in suspending the defendant\u2019s sentence. They ask us to reverse that decision. To do so would require us to overrule the entire precedent of cases relating to suspended sentences and probation, dating back more than fifteen (15) years to Stiller v. State, 516 S.W.2d 617 (Tenn.1974). In the Court of Criminal Appeals\u2019 opinion Judge Duncan set forth the requirements of the law by which a trial judge must abide in ruling on probation matters, well documented by current authorities. He discussed the applicable rules regarding the discretion of a trial judge to grant probation and suspension of sentences, citing appropriate case law and made a thorough analysis of those cases. He then reviewed the evidence upon which the trial judge in this case based his decision in conjunction with those authorities and concluded the record demonstrated that in granting probation he gave due consideration to all of the factors mentioned in those cases. Utilizing what we have set forth heretofore in this opinion to be the correct standard of review he held that there was substantial evidence in the record to support the trial judge\u2019s grant of probation and therefore there was no abuse of discretion.\nWe affirm. Costs are adjudged against the appellant.\nDROWOTA, C.J., and FONES, COOPER and HARBISON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5075114
+        }
+    ],
+    "court_short_name": "Tennessee Supreme Court",
+    "court_full_name": "Tennessee Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Tennessee, TN",
+    "crime_category": "Rape"
+}

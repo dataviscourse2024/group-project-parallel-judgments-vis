@@ -1,8 +1,8 @@
 {
     "id": 6136554,
     "judges": null,
-    "date_filed": 833241600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-12-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-matthews",
     "case_name_short": "Matthews",
     "case_name": "People v. Matthews",

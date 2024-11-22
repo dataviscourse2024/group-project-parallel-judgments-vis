@@ -1,8 +1,8 @@
 {
     "id": 1388920,
     "judges": "Birdsong, Eldridge, Ruffin",
-    "date_filed": 875664000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-03-29",
+    "date_filed_is_approximate": true,
     "slug": "mency-v-state",
     "case_name_short": "Mency",
     "case_name": "Mency v. State",

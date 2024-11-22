@@ -1,8 +1,8 @@
 {
     "id": 1109803,
     "judges": "Calogero",
-    "date_filed": 289440000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-12-26",
+    "date_filed_is_approximate": true,
     "slug": "state-v-terriault",
     "case_name_short": "Terriault",
     "case_name": "State v. Terriault",

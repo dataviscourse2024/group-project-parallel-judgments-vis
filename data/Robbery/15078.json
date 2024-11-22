@@ -1,8 +1,8 @@
 {
     "id": 1402666,
     "judges": "Calabria, Steelman, Wynn",
-    "date_filed": 1279584000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-moses",
     "case_name_short": "Moses",
     "case_name": "State v. Moses",

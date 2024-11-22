@@ -1,8 +1,8 @@
 {
     "id": 5721923,
     "judges": "Fish",
-    "date_filed": -2118700800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-10-04",
+    "date_filed_is_approximate": true,
     "slug": "mahlay-v-state",
     "case_name_short": "Mahlay",
     "case_name": "Mahlay v. State",

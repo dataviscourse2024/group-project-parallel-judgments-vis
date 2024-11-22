@@ -1,8 +1,8 @@
 {
     "id": 8786023,
     "judges": "Gray",
-    "date_filed": -64022400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-06-24",
+    "date_filed_is_approximate": true,
     "slug": "monts-v-henderson",
     "case_name_short": "Monts",
     "case_name": "Monts v. Henderson",

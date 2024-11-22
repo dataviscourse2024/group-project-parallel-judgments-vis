@@ -1,0 +1,46 @@
+{
+    "id": 7277956,
+    "judges": "Bermudez",
+    "date_filed": "2010-03-12",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-bassenger",
+    "case_name_short": "Bassenger",
+    "case_name": "State v. Bassenger",
+    "case_name_full": "The State of Louisiana v. W. H. Bassenger",
+    "attorneys": "M. J. Ounningham, Attorney General, for the State, Appellee., J. J. Foley for Defendant and Appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>A motion for a continuance, based on an ajidaint which is insufficient, cannot be allowed.</p> <p>A motion to \u25a0 compel the State to elect between two counts, which does not set forth the grounds upon which it rests, cannot be granted. The overruling of it cannot be reviewed on appeal, when the bill taken to the refusal of the court to order the election, does not set forth either those grounds or those on which the action of the trial judge was predicated. |\u00b61</p>",
+    "summary": "APPEAL from the Criminal District Court for the Parish of Orleans. JBalcer, J.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "39 La. Ann. 918"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bermudez",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe opinion of the court was delivered by\nBermudez, C. J.\nThe defendant was prosecuted on two counts: 1st, stabbing with a dangerous weapon with intent to kill and murder j and 2d, inflicting with a dangerous weapon a wound less than mayhem.\nProm a conviction on the first count and a sentence of five years at hard labor, he appeals.\nThe record shows two grounds of complaint to the refusal of the trial judge: 1st, to continue the case; and 2d, to compel the State to elect.\nThe first bill of exception taken to the overruling of the motion to continue, owing to the absence of a witness, does not rest on solid foundation.\nAs reasons in support of his refusal the district judge says : that the accused knew of the fixing of his case for some time and though represented by counsel he has not had him summoned; that, not the least diligence has been used to procure the attendance of the witness; that *919neither the materiality of the evidence to be given, nor what the evidence. is, appears in the affidavit; that, although the affidavit be fatally defective, still, if any statement by counsel made it probable that this witness would be procured and that his testimony was material, he would have granted the continuance.\nFurther examination of the bill shows that the accused does not swear that, notwithstanding due diligence, he has failed to ascertain and does not know the place of residence of the witness. He might have known it well.\nUnder the circumstances, there being nothing to impugn the reasons assigned by the district judge which we find sustained by the record, we cannot say that he did not rule correctly.\nThe second bill is to the refusal of the trial judge to require the State to elect between the two counts.\nThe bill does not show on what grounds the motion to elect rests, or those on which it was refused.\nThe bill is informal and does not furnish data sufficient to authorize or justify an inquiry into the correctness of the ruling on the motion.\nThe rule for a new trial is based on four grounds:\nIt refers to the two refusals just considered, to the illegal admission of certain evidence to which no bill was taken and to the averment that the evidence did not warrant the verdict, a reason with which we are not concerned.\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7194461
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

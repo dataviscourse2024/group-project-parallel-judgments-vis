@@ -1,8 +1,8 @@
 {
     "id": 1298340,
     "judges": "Andrews, Eldridge, Miller",
-    "date_filed": 1011052800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-04-01",
+    "date_filed_is_approximate": true,
     "slug": "buckner-v-state",
     "case_name_short": "Buckner",
     "case_name": "Buckner v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 7277453,
+    "judges": "Bermudez",
+    "date_filed": "1991-10-26",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-roland",
+    "case_name_short": "Roland",
+    "case_name": "State v. Roland",
+    "case_name_full": "The State of Louisiana v. Sampson Roland",
+    "attorneys": "Jf. J. Ounninghmi, Attorney General, for the State, Appellee:, A. Gondrom for Defendant and Appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>A juror accepted on the faith of the truth of his sworn answers, but who on cross-examination contradicts himself, may be challenged peremptorily before the oath is administered to him.</p> <p>A copy of a coroner\u2019s inquest, by the clerk of the Criminal District Court who is the legal custodian of the same, is admissible in evidence.</p> <p>A motion in arrest of judgment cannot be entertained where it is not based on errors paten^ on the face of the proceedings.</p> <p>'Testimony in support of such motion cannot be received</p>",
+    "summary": "A PPEAL from the Twenty-second District Court, Parish of As- /~\\ cension. Duffel, J. .1 Wlioro a juror in a criminal trial has l)eeu accepted by tlio district attorney upon the faith of bis sworn replies and tendered to the accused, and upon this subsequent examination he contradicts himself and admits that he lias heard of the case, the State may exercise her right of peremptory challenge. This right exists until the oath is administered to the juror. Bishop, Yol. 1. \u00a7 945; Whaiton P. and X>. \u00a7 672; Prof\u00edat on Jury Trials, \u00a7 165. \u20222/ A tender of the juror to the accused is no waiver of the right of peremptory challenge. Wharton I*, and P., \u00a7 675. 3. A copy of the coroner\u2019s inquest, certified to by the deputy clerk of the Criminal District Court-, parish of Orleans, is admissible in evidence to prove the Corpus delicti in a trial for murder in one of the country parishes. The copy is as authentic as the original. 4 - Grand jurors cannot he heard to impeach their finding. X7oris their evidence admissible to prove allegations contained in a motion in arrest of judgment, which can only bo sustained for errors patent upon the face of the record. 15 Ann. 557; 28 Ann. 658 ; 30 Ann. 91; 28 Aim. 129; 8 ft. 513.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "38 La. Ann. 18"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bermudez",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe opinion of the Court was delivered by\nBermudez, C. J.\nThe accused appeals from a sentence of death \u00a1passed upon him on a verdict of guilty of murder.\nThe record contains hills of exceptions to the rulings of the district .judge, permitting the peremptory challenge of a juror by the State; admitting a certified copy instead of requiring the original of the coroner\u2019s inquest, and refusing the introduction of testimony in support of a motion in arrest of judgment.\nI.\nIt appears that, when examined by the State on his voir dire, the .juror said that he'knew nothing of the case and that when cross-\u25a0examined by the defense, he admitted having heard talk about it.\n*19The State then challenged the juror peremptorily. The court overruled the objections of the accused and discharged the juror. To tiiis ruling a bill was taken.\nIt suffices to say that if is well settled that the challenge, either by the prosecution or by the defense, must be made before the oath is commenced, down to which period the rights exists. Waterman C. D. p. 602 (140); Wharton C. P. and P., 672; Bishop on C. P. Vol. 1, \u00a7 945; Proffat Jury Trials, \u00a7 105.\nIt is no waiver of the right to challenge for cause for the defendant to pass the juror over to the court or the opposite side for examination. Wharton C. P. 675.\nIt is also settled, that even after the administration of the oath, it lies in the discretion of the court whether a peiemptory challenge shall be allowed or not. Proffat on Jury Trials, \u00a7 165.\nIn the present case the challenge was made after tender to accused, but before the qualifications of the juror had been admitted and before he had been sworn.\nThe challenge was in time and properly sustained.\nII.\nThe court was right in admitting in evidence a certified copy of the coroner\u2019s inquest which was at the time on record in the clerk's office of the Criminal District Court for the parish of Orleans, within whose jurisdiction the murdered man died and the inquest was held.\nThe law provides that, in case of murder or manslaughter, filie coroner shall return to the court the. inquisition, written evidence and all recognizances and examination by him taken. See R. S. 664.\nThe clerk of such court thus becomes the lawful custodian of such papers and documents. A copy of the same, certified by him, is equivalent to the original, in point of authenticity.\nIt is not pretended that the copy was not an exact and correct transcript of tiie original and that the accused suffered any injury.\nIt appears that the coroner who made the inquest iras heard as a witness on the trial of the case, but nothing shows that the sufficiency of the copy was attacked.\nIII.\nThe rule is that a motion in arrest can be entertained only for errors \u25a0apparent on the face of the record.\nThe offer of testimony in support of such a motion, which did not \u25a0disclose such errors, was properly rejected.\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7193858
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 8606871,
     "judges": "Booth",
-    "date_filed": -1945900800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-01-29",
+    "date_filed_is_approximate": true,
     "slug": "swift-co-v-united-states",
     "case_name_short": null,
     "case_name": "Swift & Co. v. United States",

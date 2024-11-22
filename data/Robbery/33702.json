@@ -1,8 +1,8 @@
 {
     "id": 6090457,
     "judges": null,
-    "date_filed": 723081600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-08-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-reichman",
     "case_name_short": "Reichman",
     "case_name": "People v. Reichman",

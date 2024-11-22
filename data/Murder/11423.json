@@ -1,8 +1,8 @@
 {
     "id": 800265,
     "judges": "Baker, Effron, Erdmann, Ryan",
-    "date_filed": 1297123200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-10-25",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-prather",
     "case_name_short": "Prather",
     "case_name": "United States v. Prather",

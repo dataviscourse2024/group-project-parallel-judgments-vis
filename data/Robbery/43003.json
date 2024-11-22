@@ -1,8 +1,8 @@
 {
     "id": 7950001,
     "judges": "Smith",
-    "date_filed": -1816646400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-10-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-berger",
     "case_name_short": "Berger",
     "case_name": "State v. Berger",

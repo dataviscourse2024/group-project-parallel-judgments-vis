@@ -1,8 +1,8 @@
 {
     "id": 7970986,
     "judges": "Beier",
-    "date_filed": 1356048000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-03-12",
+    "date_filed_is_approximate": true,
     "slug": "state-v-smith",
     "case_name_short": null,
     "case_name": "State v. Smith",

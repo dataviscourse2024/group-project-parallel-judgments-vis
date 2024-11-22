@@ -1,8 +1,8 @@
 {
     "id": 3269255,
     "judges": "Fbank, Smith",
-    "date_filed": -655862400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-02-15",
+    "date_filed_is_approximate": true,
     "slug": "dooley-v-sterling-stores-inc",
     "case_name_short": "Dooley",
     "case_name": "Dooley v. Sterling Stores, Inc.",

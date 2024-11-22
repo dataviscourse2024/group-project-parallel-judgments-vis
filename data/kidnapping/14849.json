@@ -1,8 +1,8 @@
 {
     "id": 1248181,
     "judges": "Jones",
-    "date_filed": 440726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-11-08",
+    "date_filed_is_approximate": true,
     "slug": "state-v-snider",
     "case_name_short": "Snider",
     "case_name": "State v. Snider",

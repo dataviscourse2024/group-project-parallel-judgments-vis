@@ -1,0 +1,46 @@
+{
+    "id": 5771351,
+    "judges": "Guerby",
+    "date_filed": "1979-06-05",
+    "date_filed_is_approximate": true,
+    "slug": "yancy-v-state",
+    "case_name_short": "Yancy",
+    "case_name": "Yancy v. State",
+    "case_name_full": "Yancy v. State",
+    "attorneys": "R. 8. Roy, for plaintiff in error., W. 0. Rorehmd, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "50 Ga. App. 442"
+    ],
+    "opinions": [
+        {
+            "author_str": "Guerby",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGuerby, J.\nThe evidence amply supports the verdict of voluntary manslaughter. The motion for a new trial presents no valid legal reason why a new trial should be had. The judgment overruling the motion is therefore Affirmed.\n\nBroyles, O. J., and MacIntyre, J., eonour.\n\n",
+            "ocr": true,
+            "opinion_id": 5624486
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

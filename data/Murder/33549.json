@@ -1,0 +1,46 @@
+{
+    "id": 6056585,
+    "judges": null,
+    "date_filed": "1985-08-13",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-robinson",
+    "case_name_short": "Robinson",
+    "case_name": "People v. Robinson",
+    "case_name_full": "The People of the State of New York v. Paul Napoleon Robinson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "156 A.D.2d 731"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Nassau County (Goodman, J.), rendered December 15, 1988, convicting him of manslaughter in the second degree, upon his plea of guilty, and sentencing him to an indeterminate term of 3 to 9 years\u2019 imprisonment and the payment of \"restitution\u201d in the amount of $6,050.\nOrdered that the judgment is modified, on the law, by vacating so much of the sentence as requires the defendant to make \"restitution\u201d of $6,050; as so modified, the judgment is *732affirmed, and the matter is remitted to the County Court, Nassau County, for a hearing and a new determination as to whether the defendant should be required to make reparation and, if so, the proper amount and the manner of performance.\nBy failing to move to withdraw his plea, the defendant failed to preserve for appellate review his challenge to the sufficiency of his factual allocution (see, People v Lopez, 71 NY2d 662). We decline to review the issue in the exercise of our interest of justice jurisdiction.\nThe defendant\u2019s further contention that the imposed indeterminate term of imprisonment violates the constitutional prohibitions against cruel and inhuman treatment (NY Const, art I, \u00a7 5; US Const 8th, 14th Amends) is also not preserved for appellate review (see, People v Perez, 150 AD2d 395; People v Albano, 124 AD2d 739, 740). \"In any event, ordinarily a sentence that is within statutory limits does not constitute cruel and unusual punishment absent exceptional circumstances\u201d (People v Albano, supra, at 740; People v Roberts, 144 AD2d 395). In this case, there are no exceptional circumstances warranting appellate modification of the term of imprisonment which was in compliance with the terms of the negotiated plea bargain, and less than the statutory maximum.\nHowever, we do agree with the defendant that the provision of the sentence which directed the payment of reparation (incorrectly denoted as restitution) in the sum of $6,050 must be vacated. In determining the proper amount of reparation, \"[t]he sentencing court acted properly in employing the Probation Department as a preliminary fact finder to determine the appropriate amount\u201d (People v Barnes, 135 AD2d 825, 826; see, People v Fuller, 57 NY2d 152, 156). However, the presentence Probation Department report did not provide a sufficient basis upon which to calculate a proper reparation figure without a hearing (see, People v Millar, 144 AD2d 1032; People v Barnes, supra; cf., People v Turco, 130 AD2d 785). Nor was \"due consideration * * * given to whether the defendant ha[d] the ability to pay\u201d (People v Barnes, supra, at 826). Accordingly, the matter is remitted for a hearing as to whether the defendant should be required to make reparation and, if so, the proper amount and the manner of performance. Mollen, P. J., Lawrence, Hooper and Harwood, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5920135
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

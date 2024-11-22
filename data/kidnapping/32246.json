@@ -1,8 +1,8 @@
 {
     "id": 5792485,
     "judges": "Ruffin",
-    "date_filed": 817430400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-01-19",
+    "date_filed_is_approximate": true,
     "slug": "roberson-v-state",
     "case_name_short": "Roberson",
     "case_name": "Roberson v. State",

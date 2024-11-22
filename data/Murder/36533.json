@@ -1,0 +1,46 @@
+{
+    "id": 6663240,
+    "judges": "Harrison",
+    "date_filed": "1976-11-10",
+    "date_filed_is_approximate": true,
+    "slug": "chappell-v-state",
+    "case_name_short": "Chappell",
+    "case_name": "Chappell v. State",
+    "case_name_full": "Chappell v. State",
+    "attorneys": "Tappan \u00a3 Hornor, for appellant.', Henderson, Attorney General, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Malicious Mischief : Malice towards owner of animal essential.</p> <p>The malice which is an essential ingredient in the offense of malicious mischief, or wounding of animals, must he against the owner of the animal, and not against the animal itself. And although such malice will be presumed where there are no circumstances to repel such presumption, yet, if there be such circumstances, as if the injury be done whilst the animal is trespassing in the field and destroying the crop of the accused, express malice must be proved; and this, though the fence around the field be not such as the statute requires.</p> <p>Malicious Mischief:</p> <p>Malice towards the owner of animal essential.</p>",
+    "summary": "APPEAL from Phillips Circuit Court. Hon. J. N. Cypert, Circuit Judge.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "35 Ark. 345"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Harrison, J. Henry Chappell was tried upon an indictment for maliciously wounding a bull, the property of W. B. Brooks, and was found guilty and fined twenty dollars. He moved for a new trial, upon the grounds that the court refused to give the jury proper instructions asked by him, and that the verdict- was not sustained by the evidence ; and his motion being overruled, he excepted and appealed. The evidence, which was all in behalf-of the state, was as follows:. Thomas Upshaw testified: That he lived near the defendant, and had,-in 1879, in his possession, or under his charge, a bull belonging to W. B. Brooks, which ranged in the neighborhood, and about the defendant\u2019s premises, in Phillips county; and that the bull was shot by some one, but by whom he did not know, in the summer of that year. He saw where the shot entered, but he was not at all injured. He did not know whether the bull was breachy or not, but had heard he had once-been in the defendant\u2019s cotton and corn field, the fence of which he said was not a lawful one. The defendant, so far as he knew, had no malice against Brooks, the owner of the bull, or himself. And William MeGrew testified that the defendant and George Fante, in 1879, raised a crop of cotton and corn together, and that in a conversation with the defendant, a short time after the bull was shot, he told the witness that he and Fante shot him in their field whilst destroying their crop. The defendant asked the court to give the jury the following instructions, which it refused to do: \u201c1. In a prosecution for a malicious injury to an animal, it is necessary for the state to prove that the act was done through malice against the owner, and not against the animal. \u201c2. If the jury find from the evidence that the bull was shot whilst in the defendant\u2019s field destroying his crop, malice must be proven, and not merely implied, or the defendant must be acquitted.\u201d The malice, which is an essential ingredient in the offense of malicious mischief or injury to animals, must be against the owner of the animal, and not against the animal itself. Thomas v. The State, 30 Ark., 433; 2 Bish. Cr. Law, sec. 996; 1 Bish. Cr. Law; 2 East., 1072. Malicious Mischief: Malice towards the owner of animal essential. Although malice against the owner will be presumed when there are no circumstances in the case to repel such presumption, if there be such circumstances, as if the killing, maiming, or wounding, was by the accused whilst the animal was trespassing in his .field and destroying his crop, express malice must be proven. Bish. Stat. Crimes, sec. 437. The instructions were therefore proper, and should have been given. Since the case of Thomas v. The State, supra, was decided, section 3181, Gantt\u2019s Digest, has been, by an act passed March 17, 1879, amended; and persons who kill, maim, or wound animals trespassing in their inclosures, are not now, as before, absolutely exempted from its penalties, unless the fence of the iuclosure is such as is required by the statute. To show thatthefence is of the required height, and otherwise sufficient, devolves, of course, upon the defendant. We would, however, remark, that the statement of the witness, Upshaw, that the defendant\u2019s fence was not a lawful one, was not competent evidence. He should have stated the facts as to its condition, and not the legal conclusion he may have supposed to be drawn from them. The amendment affected no other change in the law, and though the fence of the inclosure be not such as the statute requires, it is still necessary to prove malice agaiust the owner. There was, in this case, no evidence of malice aga\u2019nst the owner, or in fact of any damage to him. The judgment is reversed, and the cause remanded that there may be a new trial. ",
+            "ocr": true,
+            "opinion_id": 6540782
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

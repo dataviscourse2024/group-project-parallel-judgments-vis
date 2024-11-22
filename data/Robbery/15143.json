@@ -1,8 +1,8 @@
 {
     "id": 1444512,
     "judges": "William M. Taylor, Jr.",
-    "date_filed": 222307200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-03-20",
+    "date_filed_is_approximate": true,
     "slug": "cook-v-brockway",
     "case_name_short": "Cook",
     "case_name": "Cook v. Brockway",

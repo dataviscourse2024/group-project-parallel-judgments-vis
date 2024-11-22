@@ -1,8 +1,8 @@
 {
     "id": 2614620,
     "judges": "Hobbs",
-    "date_filed": 936921600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-11-05",
+    "date_filed_is_approximate": true,
     "slug": "people-v-williams",
     "case_name_short": null,
     "case_name": "People v. Williams",

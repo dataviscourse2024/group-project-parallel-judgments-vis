@@ -1,0 +1,46 @@
+{
+    "id": 5745977,
+    "judges": "Hill",
+    "date_filed": "2004-11-15",
+    "date_filed_is_approximate": true,
+    "slug": "horton-v-wilkes",
+    "case_name_short": "Horton",
+    "case_name": "Horton v. Wilkes",
+    "case_name_full": "HORTON v. WILKES",
+    "attorneys": "Andrew L. Lipps, Joseph M. Nursey, for appellant., Joseph H. Briley, District Attorney, Thomas J. Matthews, Assistant District Attorney, Michael J. Bowers, Attorney General, Susan V. Boleyn, Assistant Attorney General, Janice G. Hildenbrand, Staff Assistant Attorney General, for appellees.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied May 24, 1983.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "250 Ga. 902"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hill",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHill, Chief Justice.\nJimmy Lee Horton\u2019s convictions for murder and burglary were affirmed by this court in September 1982. Horton v. State, 249 Ga. 871 (295 SE2d 281) (1982). In November, 1982, Horton filed a petition for writ of certiorari with the United States Supreme Court. *903On December 30,1982, while that petition was still pending, he filed a petition for writ of habeas corpus in the Superior Court of Bibb County. By filing his petition for habeas corpus on December 30, 1982, he sought to avail himself of the waiver standards provided by existing law and to avoid the more stringent waiver standards applicable to habeas petitions filed on and after January 1, 1983. OCGA \u00a7 9-14-42 (Code Ann. \u00a7 50-127); Ga. Laws 1982, p. 786, \u00a7 5. In January 1983, the respondent moved to dismiss the habeas petition on the ground that it was premature in view of the pending petition for certiorari. The trial court granted the motion to dismiss on January 25, 1983.1 The trial court held that under Georgia law, a defendant cannot bring a petition for writ of habeas corpus until his conviction is final. Horton then filed this application to appeal the dismissal of his petition for writ of habeas corpus.\nGeorgia Laws 1967, p. 835, substantially revised our habeas corpus laws as they relate to persons restrained of their liberty as a result of sentences imposed by state courts of record. That act, now OCGA \u00a7 9-14-41 et seq. (Code Ann. \u00a7 50-127), provides the \u201cexclusive procedure\u201d for such persons seeking habeas corpus. Thus, we are not here concerned with OCGA \u00a7 9-14-1 (a) (Code Ann. \u00a7 50-101); and Reed v. Stynchcombe, 249 Ga. 344 (290 SE2d 469) (1982), and Lang v. Baker, 248 Ga. 831 (286 SE2d 433) (1982), relied upon by Horton, are inapplicable.\nHorton contends that he has the right to file his petition for habeas corpus under the 1967 act at any time after sentencing by the convicting court. He cites OCGA \u00a7 9-14-42 (a) (Code Ann. \u00a7 50-127) which provides in pertinent part that \u201cAny person imprisoned by virtue of a sentence imposed by a state court of record . . . may institute a proceeding ... [for habeas corpus].\u201d While this provision specifies who may seek relief thereunder, it does not expressly provide when such proceeding may be commenced.\nCounsel for respondent argues that, under the statute, habeas corpus lies only from a final judgment of conviction, and they support this argument by pointing out that a contrary determination would mean that two courts, here the U. S. Supreme Court and the superior court, would be considering the same case (although not all the same issues) at the same time, with the possibility that the two courts might reach inconsistent results or that the action of one might moot the action of the other; that the habeas petitioner here raises *904ineffective assistance of the counsel representing him on appeal, and that counsel cannot, while representing petitioner, testify as to the adequacy of his representation; and that while his habeas petition is pending, petitioner remains incarcerated_ in the local jail when he should be in the state prison system where the Attorney General\u2019s office would represent the warden in the habeas action.\nDecided April 27, 1983 \u2014\nRehearing denied May 24, 1983.\nAndrew L. Lipps, Joseph M. Nursey, for appellant.\nJoseph H. Briley, District Attorney, Thomas J. Matthews, Assistant District Attorney, Michael J. Bowers, Attorney General, Susan V. Boleyn, Assistant Attorney General, Janice G. Hildenbrand, Staff Assistant Attorney General, for appellees.\nOCGA \u00a7 9-14-44 (Code Ann. \u00a7 50-127) sets forth the proper contents of a habeas corpus petition, including \u201cthe date of rendition of the final judgment complained of.\u201d Death penalty cases are automatically reviewed by this court, OCGA \u00a7 17-10-35 (Code Ann. \u00a7 27-2537), and the judgment is not final until the judgment of this court is made the judgment of the trial court. Twilley v. Twilley, 195 Ga. 297, 298 (24 SE2d 46) (1943).\nConstruing the statute as a whole, we find that it was the intent of the General Assembly that a person imprisoned by virtue of a sentence of a state court of record cannot institute a petition for habeas corpus until the conviction is final.\nThis decision does not in any way determine the waiver standard to be applied to Horton\u2019s habeas petition when it is reinstituted.\n\nJudgment affirmed.\n\n\nAll the Justices concur.\n\n\n On January 24,1983, the U. S. Supreme Court had denied the petition for writ of certiorari, Horton v. Georgia, 51 USLW 3553 (Jan. 24,1983), but Horton\u2019s motion for rehearing was filed on February 16, 1983.\n\n",
+            "ocr": true,
+            "opinion_id": 5597848
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

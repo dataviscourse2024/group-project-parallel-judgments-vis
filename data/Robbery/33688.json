@@ -1,8 +1,8 @@
 {
     "id": 6087694,
     "judges": null,
-    "date_filed": 714614400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-04-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-goodson",
     "case_name_short": "Goodson",
     "case_name": "People v. Goodson",

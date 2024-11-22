@@ -1,0 +1,46 @@
+{
+    "id": 7589665,
+    "judges": "Cawthon, Mills, Shivers",
+    "date_filed": "2007-03-21",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-ishie",
+    "case_name_short": "Ishie",
+    "case_name": "State v. Ishie",
+    "case_name_full": "STATE of Florida v. Emily O'Steen ISHIE a/k/a Emily Frances Ishie",
+    "attorneys": "Jim Smith, Atty. Gen. and Lawrence A. Kaden, Asst. Atty. Gen., for appellant., Margaret Kathleen Wright, Asst. Public Defender, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "415 So. 2d 835"
+    ],
+    "opinions": [
+        {
+            "author_str": "Shivers",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSHIVERS, Judge.\nThe state appeals from a final order granting appellee\u2019s motion to dismiss.\nAppellee was charged by information with the following offenses, all of which arose out of a single transaction: (1) DWI-manslaughter, in violation of section 860.01, Florida Statutes (1981); (2) vehicular homicide, in violation of section 782.071, Florida Statutes (1981); and (3) driving without a valid driver\u2019s license, in violation of section 322.03, Florida Statutes (1981). Appellee filed a motion to dismiss the vehicular homicide charge, which was granted by the trial court on the grounds that vehicular homicide was a lesser included offense of DWI-manslaughter. This appeal followed.\nThe state argues that under the Block-burger test, Blockburger v. United States, 284 U.S. 299, 52 S.Ct. 180, 76 L.Ed. 306 (1932), vehicular homicide is not a lesser included offense of DWI-manslaughter and that, therefore, double jeopardy does not bar the state from charging appellee with both offenses. In response, appellee contends that double jeopardy does apply because In the Matter of Use by the Trial Courts of Standard Jury Instructions in Criminal Cases and the Standard Jury Instructions in Misdemeanor Cases, 6 FLW 305 (Fla.1981), the Florida Supreme Court adopted a schedule of lesser included offenses which lists vehicular homicide as a lesser included offense of DWI-manslaughter.\nThe Court has considered the arguments presented by both parties and finds that the double jeopardy clause does not bar the state from charging appellee with both offenses. In State v. Hegstrom, 401 So.2d 1343 (Fla.1981), the Florida Supreme Court held that in a single trial setting the double jeopardy clause does not bar the state from convicting a defendant of both the greater and lesser included offenses but that only one sentence, for the greater offense, is proper. See also State v. Thompson, 413 So.2d 757 (Fla.1982). Since the state is not prohibited by double jeopardy from seeking a conviction on both the greater and lesser included offenses, double jeopardy cannot bar the state from charging a defendant with both offenses. Regardless of whether vehicular homicide is a lesser included offense of DWI-manslaughter, double jeopardy does not bar the state from charging appellee with both offenses. The judgment is REVERSED.\nMILLS, J., and VICTOR M. CAWTHON, Associate Judge, concur.\n",
+            "ocr": true,
+            "opinion_id": 7518810
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

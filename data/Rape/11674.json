@@ -1,8 +1,8 @@
 {
     "id": 1336491,
     "judges": "Banke, Pope, Sognier",
-    "date_filed": 631238400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-02-06",
+    "date_filed_is_approximate": true,
     "slug": "fields-v-state",
     "case_name_short": "Fields",
     "case_name": "Fields v. State",

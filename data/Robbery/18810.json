@@ -1,8 +1,8 @@
 {
     "id": 2536912,
     "judges": "Canady, Labarga, Lewis, Pariente, Perry, Polston, Quince",
-    "date_filed": 1277337600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-06-14",
+    "date_filed_is_approximate": true,
     "slug": "trease-v-state",
     "case_name_short": "Trease",
     "case_name": "Trease v. State",

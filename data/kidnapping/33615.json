@@ -1,8 +1,8 @@
 {
     "id": 6073220,
     "judges": null,
-    "date_filed": 673488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-09-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ballard",
     "case_name_short": "Ballard",
     "case_name": "People v. Ballard",

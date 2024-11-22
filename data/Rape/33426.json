@@ -1,0 +1,46 @@
+{
+    "id": 6030994,
+    "judges": null,
+    "date_filed": "2004-05-22",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-thompson",
+    "case_name_short": "Thompson",
+    "case_name": "People v. Thompson",
+    "case_name_full": "The People of the State of New York v. Kenneth Thompson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "128 A.D.2d 566"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Alfano, J.), rendered November 7, 1983, convicting him of rape in the first degree, robbery in the first degree and criminal possession of stolen property in the third degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of those branches of the defendant\u2019s omnibus motion which were to suppress identification testimony and physical evidence.\nOrdered that the judgment is affirmed.\nWe agree with the hearing court that there was probable cause to arrest the defendant (see, People v Prochilo, 41 NY2d 759, 761). The police were entitled to rely upon the information given to them by the eyewitness victim of the crimes (see, People v Crespo, 70 AD2d 661).\nIn addition, the prosecution met its heavy burden of proving the voluntariness of the defendant\u2019s consent to the entry by *567the police into an apartment he shared with his grandmother (see, People v Gonzalez, 39 NY2d 122, 128). The consent was unqualified (see, People v Abrams, 95 AD2d 155, 158-159). Moreover, the officers\u2019 subsequent entry into the defendant\u2019s bedroom was also based upon consent. Once inside the bedroom, the officers were justified in seizing a coat which was in plain view and which matched the description of that taken from the victim (see, People v Michelsson, 105 AD2d 852, 853).\nWe have considered the defendant\u2019s remaining contentions and find them to be without merit. Thompson, J. P., Niehoff, Weinstein and Eiber, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5893910
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1353199,
     "judges": "Munson",
-    "date_filed": 79315200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-08-01",
+    "date_filed_is_approximate": true,
     "slug": "application-for-a-writ-of-habeas-corpus-of-fleetwood-v-rhay",
     "case_name_short": "Fleetwood",
     "case_name": "Application for a Writ of Habeas Corpus of Fleetwood v. Rhay",

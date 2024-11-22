@@ -1,0 +1,46 @@
+{
+    "id": 8058073,
+    "judges": "Burgess",
+    "date_filed": "1988-07-14",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-cisco",
+    "case_name_short": "Cisco",
+    "case_name": "State v. Cisco",
+    "case_name_full": "State v. CISCO",
+    "attorneys": "Edward C. Crow, Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>NO ARRAIGNMENT: Judgment Reversed. Where the record shows that the defendant was not arraigned before he was put upon his trial, as required by statute, the judgment will be reversed and the cause remanded.</p>",
+    "summary": "Appeal from Pemiscot Circuit Court. \u2014 Ho\u00bb. Henry G. Riley, Judge.",
+    "disposition": "Reversed and remanded.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "186 Mo. 49"
+    ],
+    "opinions": [
+        {
+            "author_str": "Burgess",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBURGESS, P. J.\n\u2014 The defendant was convicted of murder in the second degree for feloniously shooting and killing one William Montgomery and his punishment fixed at ten years in the State penitentiary. He appeals.\nThe case was submitted on the record. Defendant is not represented in this court. An examination of the record discloses the fact that there was no arraignment of defendant before he was put upon his trial as required hy section 2561, Revised Statutes 1899. [State v. Cable, 117 Mo. 380.]\nEor this reason the judgment is reversed and the cause remanded for further trial.\nAll concur.\n",
+            "ocr": true,
+            "opinion_id": 8015256
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

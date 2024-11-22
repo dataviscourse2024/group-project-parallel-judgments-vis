@@ -1,8 +1,8 @@
 {
     "id": 2202582,
     "judges": "Aiso",
-    "date_filed": -54432000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-carlin",
     "case_name_short": "Carlin",
     "case_name": "People v. Carlin",

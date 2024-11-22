@@ -1,8 +1,8 @@
 {
     "id": 1430266,
     "judges": "Brett, Bussey, Cornish",
-    "date_filed": 369878400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-09-11",
+    "date_filed_is_approximate": true,
     "slug": "mcalpine-v-state",
     "case_name_short": "McAlpine",
     "case_name": "McAlpine v. State",

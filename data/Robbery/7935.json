@@ -1,8 +1,8 @@
 {
     "id": 9372955,
     "judges": null,
-    "date_filed": 1675382400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-04-16",
+    "date_filed_is_approximate": true,
     "slug": "people-v-gorton",
     "case_name_short": "Gorton",
     "case_name": "People v. Gorton",

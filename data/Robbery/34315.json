@@ -1,8 +1,8 @@
 {
     "id": 6216437,
     "judges": "Lindley, Nemoyer, Peradotto, Scudder, Whalen",
-    "date_filed": 1461888000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-12-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-johnston",
     "case_name_short": "Johnston",
     "case_name": "People v. Johnston",

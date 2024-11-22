@@ -1,8 +1,8 @@
 {
     "id": 6091650,
     "judges": "Peters",
-    "date_filed": 1384992000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-04-10",
+    "date_filed_is_approximate": true,
     "slug": "rose-v-albany-county-district-attorneys-office",
     "case_name_short": "Rose",
     "case_name": "Rose v. Albany County District Attorney's Office",

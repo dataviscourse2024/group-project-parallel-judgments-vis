@@ -1,8 +1,8 @@
 {
     "id": 6435873,
     "judges": "Cercone, Watkins, Wickersham",
-    "date_filed": 520473600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-04-13",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-bogan",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Bogan",

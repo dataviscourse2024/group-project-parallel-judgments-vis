@@ -1,8 +1,8 @@
 {
     "id": 1177324,
     "judges": "Holmes, McFarland, Miller, Prager",
-    "date_filed": 431654400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-01-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-nott",
     "case_name_short": "Nott",
     "case_name": "State v. Nott",

@@ -1,8 +1,8 @@
 {
     "id": 4484099,
     "judges": "Judge James E. Boasberg",
-    "date_filed": 1522800000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-05-14",
+    "date_filed_is_approximate": true,
     "slug": "prince-v-acheson",
     "case_name_short": "Prince",
     "case_name": "Prince v. Acheson",

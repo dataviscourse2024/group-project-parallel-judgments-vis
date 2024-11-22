@@ -1,0 +1,46 @@
+{
+    "id": 5265683,
+    "judges": "Dowd, Gaertner, Reinhard",
+    "date_filed": "1985-04-20",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-hultz",
+    "case_name_short": "Hultz",
+    "case_name": "State v. Hultz",
+    "case_name_full": "STATE of Missouri v. Kevin HULTZ",
+    "attorneys": "A. Renae Adamson, Asst. Public Defender, Columbia, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Becky Owenson Kilpatrick, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "946 S.W.2d 272"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nORDER\n\nPER CURIAM.\nAppellant, Kevin Hultz, appeals the judgment of conviction for statutory rape in the first degree, RSMo \u00a7 566.032 (1994), statutory sodomy in the first degree, RSMo \u00a7 566.062 (1994), and child molestation in the first degree, RSMo \u00a7 566.067 (1994), entered by the Circuit Court of Lewis County. We affirm.\nWe have reviewed the briefs of the parties and the legal file and find the judgment is supported by substantial evidence and is not against the weight of the evidence, and no error of law appears. As we further find an extended opinion would serve no jurisprudential purpose, we affirm the trial court pursuant to Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5092915
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Rape"
+}

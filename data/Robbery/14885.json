@@ -1,8 +1,8 @@
 {
     "id": 1270072,
     "judges": "Boochever, Burke, Con-Nor, Matthews, Rabinowitz",
-    "date_filed": 330912000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-09-01",
+    "date_filed_is_approximate": true,
     "slug": "sumdum-v-state",
     "case_name_short": "Sumdum",
     "case_name": "Sumdum v. State",

@@ -1,8 +1,8 @@
 {
     "id": 8891627,
     "judges": "Doyle",
-    "date_filed": 383529600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-04-26",
+    "date_filed_is_approximate": true,
     "slug": "ford-v-israel",
     "case_name_short": "Ford",
     "case_name": "Ford v. Israel",

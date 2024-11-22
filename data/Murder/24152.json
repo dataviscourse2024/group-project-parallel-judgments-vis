@@ -1,0 +1,47 @@
+{
+    "id": 4074010,
+    "judges": "Barefoot, Doyle, Jones",
+    "date_filed": "2014-02-25",
+    "date_filed_is_approximate": true,
+    "slug": "minnix-v-state",
+    "case_name_short": "Minnix",
+    "case_name": "Minnix v. State",
+    "case_name_full": "Virdie Minnix v. State.",
+    "attorneys": "O. A. Brewer, of Hugo, for plaintiff in error.\n\nRandell S. Cobb, Atty. Gen., for defendant in error.",
+    "nature_of_suit": null,
+    "posture": "Appeal from District Court, Choctaw County; George R. Childers, Judge.\n\nVirdie Minnix was convicted of manslaughter in the first degree, and she appeals. Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b72-7\">\n    VIRDIE MINNIX v. STATE.\n   </parties><br><docketnumber id=\"b72-8\">\n    No. A-10523.\n   </docketnumber><decisiondate id=\"A1r\">\n    Feb. 6, 1946.\n   </decisiondate><br><citation id=\"b72-9\">\n    (165 P. 2d 988.)\n   </citation><br><attorneys id=\"b72-14\">\n    O. A. Brewer, of Hugo, for plaintiff in error.\n   </attorneys><br><attorneys id=\"b72-15\">\n    Randell S. Cobb, Atty. Gen., for defendant in error.\n   </attorneys>",
+    "citations": [
+        "165 P.2d 988",
+        "82 Okla. Crim. 54"
+    ],
+    "opinions": [
+        {
+            "author_str": "Jones",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 8178.0,
+            "opinion_text": "The defendant, Virdie Minnix, was charged in the district court of Choctaw county with the crime of murder; was tried, convicted of manslaughter in the first degree, and sentenced to serve four years in the State Penitentiary, and has appealed. *Page 55 \nThe defendant and the deceased were negroes. The defendant and her husband were tenants of the deceased and lived in a house across the road and about 175 yards from the house occupied by deceased and his family. The parties used the same well of water which was located in the yard near defendant's house. The defendant shot and killed the deceased while he was at the well drawing water. There were two eyewitnesses to the killing. According to their testimony, the deceased committed no act and said no words which would have justified the defendant in taking his life.\nOn behalf of the defendant, it was contended that the deceased had, on various occasions, come to her home in the absence of defendant's husband and had solicited her to have a date with him.\nAccording to the defendant's testimony, when the deceased came to the well after water, she thought he was coming to \"violate her\" and she felt like the two men who were sitting in her yard would not protect her. That when she took the gun and went to the well, it was for the purpose of ordering him to leave. That the \"dread and fear of his violating her\" and the things that he had said and done to her had made her so scared and nervous that in trying to defend herself the gun went off and that she did not really know that she was pointing the gun at deceased.\nThe sheriff testified in rebuttal that defendant told him shortly after her arrest that she and the deceased had been going together a long time but that she had not been intimate with him since her operation.\nNo brief has been filed on behalf of the defendant and, under her own testimony, the reason for this failure to file a brief is apparent. The very best that can be *Page 56 \nsaid for defendant's testimony is that it presented a weak case of self-defense and that she was fortunate not to receive more than the minimum punishment for manslaughter in the first degree. There are no substantial errors in the record and the judgment of the district court of Choctaw county is affirmed.\nBAREFOOT, J., concurs. DOYLE, J., not participating.",
+            "ocr": false,
+            "opinion_id": 3832036
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Murder"
+}

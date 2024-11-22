@@ -1,8 +1,8 @@
 {
     "id": 5806945,
     "judges": "Haning",
-    "date_filed": 482976000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-08-28",
+    "date_filed_is_approximate": true,
     "slug": "people-v-marks",
     "case_name_short": "Marks",
     "case_name": "People v. Marks",

@@ -1,8 +1,8 @@
 {
     "id": 4255631,
     "judges": "Hunstein",
-    "date_filed": 1473638400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-05-30",
+    "date_filed_is_approximate": true,
     "slug": "mcclendon-v-state",
     "case_name_short": "McClendon",
     "case_name": "McClendon v. State",

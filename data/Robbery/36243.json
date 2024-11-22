@@ -1,8 +1,8 @@
 {
     "id": 6601001,
     "judges": "Cameron, Gordon, Hays, Holohan, Struckmeyer",
-    "date_filed": 274924800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-04-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-johnson",
     "case_name_short": null,
     "case_name": "State v. Johnson",

@@ -1,8 +1,8 @@
 {
     "id": 5784124,
     "judges": "Banke",
-    "date_filed": 355708800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-04-19",
+    "date_filed_is_approximate": true,
     "slug": "duckett-v-state",
     "case_name_short": "Duckett",
     "case_name": "Duckett v. State",

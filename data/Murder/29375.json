@@ -1,0 +1,46 @@
+{
+    "id": 5213178,
+    "judges": "Vance",
+    "date_filed": "2017-07-09",
+    "date_filed_is_approximate": true,
+    "slug": "mason-v-commonwealth",
+    "case_name_short": "Commonwealth",
+    "case_name": "Mason v. Commonwealth",
+    "case_name_full": "Lincoln MASON v. COMMONWEALTH of Kentucky",
+    "attorneys": "E, Durward Weldon, David H. Ashley, .Georgetown, for appellant., John B. Breckinridge, Atty. Gen., James M. Ringo, Asst. Atty. Gen., Frankfort, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "463 S.W.2d 930"
+    ],
+    "opinions": [
+        {
+            "author_str": "Vance",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nVANCE, Commissioner.\nThe appellant was charged with murder and was found guilty of the offense of voluntary manslaughter. KRS 435.020. *931He was sentenced to confinement in the penitentiary for a period of twenty-one years. On this appeal he claims (1) the officers in charge of the jury were not administered the oath required by RCr 9.68, and (2) an instruction on murder was improperly given.\nAfter the jury was selected and sworn, and without any consent of the appellant for a separation, the trial was recessed at noon. The jury was kept together in charge of the sheriff and a deputy sheriff. The admonition required by RCr 9.70 was given to the jury but the officers in charge of the jury were not administered the oath required by RCr 9.68.\nRCr 9.70 provides:\n\u201cThe jurors, whether permitted to separate or kept in charge of officers, must be admonished by the court that it is their duty not to permit any one to speak to, or communicate with, them on any subject connected with the trial, and that all attempts to do so should be immediately reported by them to the court, and that they should not converse among themselves on any subject connected with the trial, nor form, nor express any opinion thereon, until the cause be finally submitted to them. This admonition must be given or referred to by the court at each adjournment.\u201d\nRCr 9.68 provides:\n\u201cWhen the jury is kept together in charge of officers, the officers must be sworn to keep the jurors together, and to suffer no person to speak to, or communicate with, them on any subject connected with the trial, and not to do so themselves.\u201d\nAt the conclusion of the first day of the trial, appellant\u2019s counsel moved to set aside the swearing of a jury and to dismiss the indictment because of the court\u2019s failure to administer the oath to the officers. Before ruling upon the motion, the court conducted a hearing in chambers in which both the sheriff and the deputy were sworn as witnesses, and each of them testified in substance that the jury was kept in their charge during the noon recess; that the entire panel had eaten together and that no person had spoken to or communicated with any juror during the recess and further that the jurors had not discussed the case among themselves nor had the officers discussed the case with any of the jurors. The motion for mistrial was thereupon overruled.\nAppellant relies upon Commonwealth v. Shields, 65 Ky. (2 Bush.) 81 (1867) wherein we held that failure to administer the oath to officers was an error authorizing a reversal of a judgment of conviction. This holding was cited with approval in Riggsby v. Commonwealth, 232 Ky. 226, 22 S.W.2d 624 (1929).\nWe hold that the failure of the trial judge to administer the oath required by RCr 9.68 to the officers in charge of the jury at the noon recess was clearly an error. It concerned a basic right of appellant to protection against unlawful attempts to influence the jury.\nConceding error, however, the question remains as to whether the error was prejudicial.\nRCr 9.24 provides:\n\u201cAny error, defect, irregularity or variance which does not affect substantial rights shall be disregarded.\u201d\nThe obvious purpose of Sections 9.-68 and 9.70 of the Rules of Criminal Procedure is to safeguard the integrity of the jury in criminal cases.\nNot only are the jurors required to give oath that they will not permit anyone to speak with them on any subject connected with the trial nor converse among themselves concerning the- trial but the officers in charge of the jury are required to be given an oath that they will not permit any *932person to speak or communicate with the jurors on a subject concerning the trial.\nWhen it was discovered that the officers had not been administered this oath prior to the noon recess the court conducted a hearing in which each of the officers gave sworn testimony that the purpose of the rule had been fulfilled and that no person had communicated with any juror. The officers, in substance, gave sworn testimony that they actually did the very thing that RCr 9.68 required them to swear they would do.\nIt is not suggested by the appellant that any improper communication between any person and any juror did occur. The substantial right of the appellant involved in this appeal is the preservation of the integrity of the jury uninfluenced by communications from persons outside the scope of the trial. Swearing the officers in charge of the jury to permit no communication with the jurors is designed as a method of guaranteeing this right. When it manifestly appears, as it does here, that the integrity of the jury has been preserved and that there has been no unauthorized communication by any person with any juror, we fail to see how any substantial right of the appellant has been violated or how any possible harmful consequences have been suffered by him as a result of the admitted error of the court. In such cases a reversal of the judgment is not authorized. Abernathy v. Commonwealth, Ky., 439 S.W.2d 949 (1969).\nThe appellant also contends that the trial court erroneously instructed the jury on the charge of murder when there was no evidence in the case which justified the giving of such an instruction.\nWe need not determine whether the evidence warranted the instruction on murder since the appellant was acquitted of that charge. The fact that an instruction on murder was given, even if given erroneously, was not prejudicial in the light of the fact that the conviction was for voluntary manslaughter and not murder. Jennings v. Commonwealth, Ky., 349 S.W.2d 828 (1961).\nThe judgment is affirmed.\nAll concur.\n",
+            "ocr": true,
+            "opinion_id": 5036922
+        }
+    ],
+    "court_short_name": "Court of Appeals of Kentucky",
+    "court_full_name": "Court of Appeals of Kentucky",
+    "court_type": "SA",
+    "court_jurisdiction": "Kentucky, KY",
+    "crime_category": "Murder"
+}

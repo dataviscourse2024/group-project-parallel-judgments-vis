@@ -1,8 +1,8 @@
 {
     "id": 4015836,
     "judges": "Bowman, Bryant, Peggy, Petree",
-    "date_filed": 697334400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-02-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-ellis",
     "case_name_short": "Ellis",
     "case_name": "State v. Ellis",

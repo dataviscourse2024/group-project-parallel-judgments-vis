@@ -1,8 +1,8 @@
 {
     "id": 3205823,
     "judges": null,
-    "date_filed": 1463961600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-12-31",
+    "date_filed_is_approximate": true,
     "slug": "in-the-matter-of-joanna-temple",
     "case_name_short": null,
     "case_name": "in the Matter of Joanna Temple",

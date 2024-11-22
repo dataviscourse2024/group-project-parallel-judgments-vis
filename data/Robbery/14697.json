@@ -1,8 +1,8 @@
 {
     "id": 1135639,
     "judges": "Anstead",
-    "date_filed": 872726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-12-04",
+    "date_filed_is_approximate": true,
     "slug": "blair-v-state",
     "case_name_short": "Blair",
     "case_name": "Blair v. State",

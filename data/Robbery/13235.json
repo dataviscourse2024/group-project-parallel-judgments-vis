@@ -1,8 +1,8 @@
 {
     "id": 1081200,
     "judges": null,
-    "date_filed": 930700800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-10-28",
+    "date_filed_is_approximate": true,
     "slug": "state-v-roy-sherrod",
     "case_name_short": null,
     "case_name": "State v. Roy Sherrod",

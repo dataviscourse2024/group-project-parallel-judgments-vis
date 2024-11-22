@@ -1,8 +1,8 @@
 {
     "id": 2722164,
     "judges": null,
-    "date_filed": 1409270400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-11-16",
+    "date_filed_is_approximate": true,
     "slug": "burton-v-state",
     "case_name_short": "Burton",
     "case_name": "Burton v. State",

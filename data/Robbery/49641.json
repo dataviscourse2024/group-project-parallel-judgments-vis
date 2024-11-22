@@ -1,8 +1,8 @@
 {
     "id": 9291580,
     "judges": "Fulton",
-    "date_filed": -1196553600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-02-01",
+    "date_filed_is_approximate": true,
     "slug": "hertel-v-rebhan",
     "case_name_short": "Hertel",
     "case_name": "Hertel v. Rebhan",

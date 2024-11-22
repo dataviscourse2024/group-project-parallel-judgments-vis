@@ -1,8 +1,8 @@
 {
     "id": 4929627,
     "judges": "Seinfeld",
-    "date_filed": 953856000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-09-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jenkins",
     "case_name_short": "Jenkins",
     "case_name": "State v. Jenkins",

@@ -1,0 +1,47 @@
+{
+    "id": 3248398,
+    "judges": "Harwood",
+    "date_filed": "2015-08-03",
+    "date_filed_is_approximate": true,
+    "slug": "taft-v-state",
+    "case_name_short": null,
+    "case_name": "Taft v. State",
+    "case_name_full": "James T. Taft v. State.",
+    "attorneys": "A. A. Carmichael, Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Circuit Court, Mobile County; D. H. Edington, Judge.\n\nMurder, second degree.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<citation id=\"Acfh\">\n    29 So.2d 906\n   </citation><parties id=\"A9VF\">\n    James T. TAFT v. STATE.\n   </parties><docketnumber id=\"APvL\">\n    1 Div. 546.\n   </docketnumber><court id=\"AV4Q\">\n    Court of Appeals of Alabama.\n   </court><decisiondate id=\"AFqt\">\n    March 11, 1947.\n   </decisiondate><attorneys id=\"A4LC\">\n    A. A. Carmichael, Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "29 So. 2d 906",
+        "33 Ala. App. 689"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harwood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 3625.0,
+            "opinion_text": "Appeal dismissed, motion of appellant.",
+            "ocr": false,
+            "opinion_id": 3250233
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

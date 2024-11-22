@@ -1,0 +1,46 @@
+{
+    "id": 8090973,
+    "judges": "Batchelder",
+    "date_filed": "1998-07-12",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-montella",
+    "case_name_short": "Montella",
+    "case_name": "State v. Montella",
+    "case_name_full": "The State of New Hampshire v. Philip Montella",
+    "attorneys": "John P. Arnold, attorney general (Ann M. Rice, assistant attorney general, on the brief), by brief for the State., Michael K. Skibbie, assistant appellate defender, of Concord, by brief for the defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "135 N.H. 698"
+    ],
+    "opinions": [
+        {
+            "author_str": "Batchelder",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBATCHELDER, J.\nThe defendant was indicted by the Hills-borough County grand jury on January 24, 1990, for the crime of attempted murder of Gregory Lortie. The indictment alleged that the defendant took a substantial step toward commission of the crime of murder by purposely firing several shots from a semi-auto-; matic handgun in the direction of the victim, striking him in the back and right leg. During the investigation of the crime, police officers recovered the defendant\u2019s Mac 10 pistol, including a clip partially filled with ammunition. After a hearing on a motion to suppress evidence, the Superior Court (Groff, J.) suppressed the pistol because it was obtained without a warrant, on the basis of a pretextual search of the defendant\u2019s camper without probable cause or exigent circumstances.\nThe trial on the indictment was before a jury (Murphy, J.) and resulted in a mistrial because a State witness made specific reference in direct testimony to the previously suppressed evidence. Prior to retrial, the defendant moved for dismissal on the basis that a retrial was barred by the constitutional prohibition against double jeopardy. The defendant argued that the prosecutor\u2019s conduct was designed to provoke the mistrial. The trial court denied the motion to dismiss and authorized the defendant\u2019s interlocutory appeal of this issue. The defendant seeks relief under the protections of part I, article 16 of the State Constitution and the fifth amendment to the United States Constitution. As is our practice, we decide the issue presented on the basis of the New Hampshire Constitution using federal cases only for guidance when analytically helpful. For the reasons that follow, we affirm the ruling of the trial court.\nThe central question in this one-issue case is whether the testimony of the prosecution witness, Officer Jaskolka, concerning the *700pistol clip which had been previously suppressed by court order, was elicited for the purpose of precipitating a mistrial by placing the defendant in a position of either moving for a mistrial or having inadmissible evidence entered against him. The law in this area, although sparse, is clear.\nSimply stated, the constitutional protections against double jeopardy are of no avail when a prosecution has resulted in a mistrial, unless the defendant, by conduct and design of the State, has been painted into a corner so as to require a successful motion for mistrial as the only reasonable means of extrication to avoid becoming a victim of unlawful trial tactics or inadmissible evidence. State v. Duhamel, 128 N.H. 199, 202-03, 512 A.2d 420, 422 (1986). In this case, as in Duhamel, we anchor the result to the New Hampshire Constitution, part I, article 16, as it provides no less protection than that provided by the fifth and fourteenth amendments to the United States Constitution. Both constitutions were relied upon for relief at trial and presented for discussion on appeal. See State v. Ball, 124 N.H. 226, 232, 471 A.2d 347, 351 (1983); State v. Hogg, 118 N.H. 262, 264, 385 A.2d 844, 845 (1978).\nIn denying the defendant\u2019s motion, the trial court made certain findings supporting its action and ruled:\n\u201cWhat prompted the mistrial in the July 1990 trial on the charge of attempted murder was what was testified to by the police officer purported to be the State\u2019s last witness which made reference to evidence which had been previously suppressed.\nIn describing a conversation the officers had with the defendant following his arrest which was not suppressed, Officer Jaskolka of the Manchester Police Department was asked by Assistant County Attorney Horan:\nQ. Did you ask him what kind of bullets he used that night?\nA. It was brought up during the interview and he indicated one of the types was a bullet known as a hydro-shock.\nQ. Said one of the types. Did he use one type or more than one type?\nA. If I recall correctly there were different types of rounds found in the clip itself.\u201d\nThe witness\u2019s reference to the clip prompted the defendant to move for, and the court to grant, the mistrial. The trial court further stated:\n*701\u201cIt is apparent that when Assistant County Attorney Horan articulated the question leading up to the answer of the witness, he was referring to what the defendant related to the officer during the course of the conversation and not what the police later determined on examination of illegally obtained evidence. The response of the witness was unexpected and not at all calculated by the State\u2019s counsel.\u201d\nThe court specifically found that there was no credible evidence to establish that the question was calculated to elicit a response that would provoke the defendant to move for a mistrial.\nOregon v. Kennedy, 456 U.S. 667 (1982), a case decided under the Federal Constitution and cited in Duhamel, contains the following offending colloquy precipitating a mistrial, which is instructive to our analysis:\n\u201cProsecutor: Have you ever done business with the Kennedys?\nWitness: No, I have not.\nProsecutor: Is that because he is a crook?\u201d\nId. at 669.\nAgainst this language, the United States Supreme Court held that in order for the defendant to avail himself of the double jeopardy protections he must show that either prosecutorial or judicial conduct was intended to provoke or goad the defendant into asking for a mistrial. The Supreme Court found that the prosecutor\u2019s question did not meet the test. Id. at 679.\nWe agree with the trial court that Assistant County Attorney Horan\u2019s question of Officer Jaskolka did not meet the standard set forth in Duhamel.\n\nAffirmed and remanded.\n\nAll concurred.\n",
+            "ocr": true,
+            "opinion_id": 8051098
+        }
+    ],
+    "court_short_name": "Supreme Court of New Hampshire",
+    "court_full_name": "Supreme Court of New Hampshire",
+    "court_type": "S",
+    "court_jurisdiction": "New Hampshire, NH",
+    "crime_category": "Murder"
+}

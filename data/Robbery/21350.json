@@ -1,8 +1,8 @@
 {
     "id": 3142384,
     "judges": null,
-    "date_filed": 1330992000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-08-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-fountain",
     "case_name_short": "Fountain",
     "case_name": "People v. Fountain",

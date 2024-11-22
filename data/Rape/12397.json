@@ -1,8 +1,8 @@
 {
     "id": 1455951,
     "judges": "Hume, Jones, Taubman",
-    "date_filed": 795916800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rosales",
     "case_name_short": "Rosales",
     "case_name": "People v. Rosales",

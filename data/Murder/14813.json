@@ -1,8 +1,8 @@
 {
     "id": 1230212,
     "judges": "Fletcher, Hunt",
-    "date_filed": 752716800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-04-24",
+    "date_filed_is_approximate": true,
     "slug": "crane-v-state",
     "case_name_short": "Crane",
     "case_name": "Crane v. State",

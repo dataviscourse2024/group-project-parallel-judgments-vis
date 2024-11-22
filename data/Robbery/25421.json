@@ -1,8 +1,8 @@
 {
     "id": 4333419,
     "judges": null,
-    "date_filed": 1482451200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-01-01",
+    "date_filed_is_approximate": true,
     "slug": "wendel-scott-people-v",
     "case_name_short": null,
     "case_name": "WENDEL, SCOTT, PEOPLE v",

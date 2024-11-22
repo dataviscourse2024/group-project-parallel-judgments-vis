@@ -1,8 +1,8 @@
 {
     "id": 7804708,
     "judges": "Cope, Gersten, Green",
-    "date_filed": 1005091200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-02-11",
+    "date_filed_is_approximate": true,
     "slug": "munos-v-state",
     "case_name_short": "Munos",
     "case_name": "Munos v. State",

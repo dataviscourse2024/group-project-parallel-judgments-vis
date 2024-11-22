@@ -1,8 +1,8 @@
 {
     "id": 1925951,
     "judges": "King",
-    "date_filed": 127440000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-04-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-leonard",
     "case_name_short": "Leonard",
     "case_name": "State v. Leonard",

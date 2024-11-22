@@ -1,8 +1,8 @@
 {
     "id": 5984963,
     "judges": null,
-    "date_filed": 346377600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-09-19",
+    "date_filed_is_approximate": true,
     "slug": "people-v-carter",
     "case_name_short": "Carter",
     "case_name": "People v. Carter",

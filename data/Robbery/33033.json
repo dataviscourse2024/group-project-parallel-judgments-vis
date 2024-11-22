@@ -1,8 +1,8 @@
 {
     "id": 5954903,
     "judges": null,
-    "date_filed": 1297900800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-07-15",
+    "date_filed_is_approximate": true,
     "slug": "people-v-diaz",
     "case_name_short": "Diaz",
     "case_name": "People v. Diaz",

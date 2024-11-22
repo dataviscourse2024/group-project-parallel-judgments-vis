@@ -1,8 +1,8 @@
 {
     "id": 3543334,
     "judges": "<bold>Ethridge, P.J.,</bold> delivered the opinion of the court.",
-    "date_filed": -1081036800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-05-28",
+    "date_filed_is_approximate": true,
     "slug": "davis-v-state",
     "case_name_short": "Davis",
     "case_name": "Davis v. State",

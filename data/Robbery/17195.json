@@ -1,8 +1,8 @@
 {
     "id": 2226967,
     "judges": "Dunn",
-    "date_filed": 357955200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-10-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lien",
     "case_name_short": "Lien",
     "case_name": "State v. Lien",

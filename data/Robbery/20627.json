@@ -1,8 +1,8 @@
 {
     "id": 2963582,
     "judges": null,
-    "date_filed": 810345600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-11-12",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-gondek",
     "case_name_short": "Gondek",
     "case_name": "United States v. Gondek",

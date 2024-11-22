@@ -1,8 +1,8 @@
 {
     "id": 1172797,
     "judges": "Cameron, Feldman, Gordon, Hays, Holohan",
-    "date_filed": 482544000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-09-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-williams",
     "case_name_short": null,
     "case_name": "State v. Williams",

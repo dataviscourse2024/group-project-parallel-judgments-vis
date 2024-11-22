@@ -1,8 +1,8 @@
 {
     "id": 3458950,
     "judges": "Stanley, Whole, Willis",
-    "date_filed": -1231891200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-07-23",
+    "date_filed_is_approximate": true,
     "slug": "stege-v-steges-trustee",
     "case_name_short": "Stege",
     "case_name": "Stege v. Stege's Trustee",

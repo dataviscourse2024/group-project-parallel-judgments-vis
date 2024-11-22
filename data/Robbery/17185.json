@@ -1,8 +1,8 @@
 {
     "id": 2225178,
     "judges": "Smith",
-    "date_filed": -64108800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-04-17",
+    "date_filed_is_approximate": true,
     "slug": "people-v-tribbett",
     "case_name_short": "Tribbett",
     "case_name": "People v. Tribbett",

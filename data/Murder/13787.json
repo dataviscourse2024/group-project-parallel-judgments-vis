@@ -1,8 +1,8 @@
 {
     "id": 1733590,
     "judges": "Patterson, Broom and Bowling",
-    "date_filed": 287798400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-04-12",
+    "date_filed_is_approximate": true,
     "slug": "jones-v-state",
     "case_name_short": "Jones",
     "case_name": "Jones v. State",

@@ -1,0 +1,47 @@
+{
+    "id": 6204428,
+    "judges": null,
+    "date_filed": "1992-05-02",
+    "date_filed_is_approximate": true,
+    "slug": "county-of-orange-v-rodriguez",
+    "case_name_short": "Rodriguez",
+    "case_name": "County of Orange v. Rodriguez",
+    "case_name_full": "In the Matter of County of Orange v. Robert Rodriguez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "283 A.D.2d 494",
+        "724 N.Y.S.2d 477"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014In a proceeding pursuant to CPLR 5104 and Judiciary Law \u00a7 753 to punish Robert Rodriguez for civil contempt, the appeal, as limited by the appellant\u2019s brief, is from so much of a judgment of the County Court, Orange County (DeRosa, J.), dated January 20, 2000, as, inter alia, adjudicated Robert Rodriguez to be in civil contempt for failing to comply with a prior order of the same court, dated January 25, 1999, requiring him to surrender certain weapons to the Orange County Sheriff, and directed his incarceration.\nOrdered that the judgment is reversed insofar as appealed from, on the law, with costs, and the matter is remitted to the County Court, Orange County, for further proceedings on the petition.\nThe appellant is the holder of a pistol permit pursuant to which he was licensed to own several weapons. He is a suspect in a highly-publicized murder investigation in New York City. On or about January 4, 1999, the appellant was arrested by the New York City Police Department and charged with several felonies unrelated to the murder investigation in which he is considered a suspect. He has been incarcerated since that time.\n*495Based on his arrest, the County Court, Orange County, issued an order dated January 25, 1999 (hereinafter the order of suspension), that, inter alia, suspended the appellant\u2019s pistol permit and directed him to surrender his licensed weapons to the Orange County Sheriffs Department. Upon the appellant\u2019s failure to comply with the order of suspension, the petitioner, County of Orange, commenced the instant proceeding pursuant to CPLR 5104 and Judiciary Law \u00a7 753 to punish the appellant for civil contempt. On December 9, 1999, the County Court, Orange County, conducted a hearing on the petition, following which it, in effect, granted the petition and adjudicated the appellant to be in contempt of court. We reverse and remit the matter to the County Court, Orange County, for further proceedings consistent herewith.\n\u201cIn order to prevail on a motion to punish a party for civil contempt, the movant must demonstrate that the party charged violated a clear and unequivocal court order, thereby prejudicing a right of another party to the litigation\u201d (Goldsmith v Goldsmith, 261 AD2d 576, 577; see, Judiciary Law \u00a7 753 [A] [3]; McCain v Dinkins, 84 NY2d 216; Burstin Investors v K.N. Investors, 266 AD2d 251, 253). However, it is well settled that a party may not be held in contempt based upon his or her good faith invocation of the Fifth Amendment privilege against self-incrimination in response to questions posed at a hearing (see, United States v Rylander, 460 US 752, 760; United States v Edgerton, 734 F2d 913; Federal Deposit Ins. Corp. v Salesman Unlimited Agency Corp., 101 AD2d 876). In the instant case, comments by the County Court demonstrate that it did, in fact, base its finding of contempt solely upon the appellant\u2019s good faith invocation of his Fifth Amendment privilege in response to questions posed at the contempt hearing regarding the location of the weapons that he had been ordered to surrender.\nAt the contempt hearing, the appellant\u2019s counsel argued that the County had not made out a prima facie case that the appellant was in contempt of the order of suspension because, inter alia, the appellant did not receive proper notice. The County Court repeatedly indicated its belief that the appellant\u2019s \u201cprior contempt or his excused noncompliance, depending on which side one favors,\u201d was not \u201cdispositive here.\u201d It then suggested that the parties \u201cforget about what happened\u201d in the past and assume that the \u201cproceeding starts today.\u201d Next, the County Court stated that it expected that the appellant would make the weapons which were the subject of the order of suspension available \u201cby telling us where they are,\u201d and *496that \u201cif [the appellant] can answer that question today, then this whole contempt proceeding is obviated.\u201d Finally, after continued discussion with the appellant\u2019s counsel, the court stated that \u201c[w]hat this will turn on is whether [the appellant\u2019s] invocation of the Fifth Amendment privilege with regard to this issue is effective to shield him from the contempt finding.\u201d\nThe appellant was then sworn in as a witness and the County Court asked him several questions regarding the location of the weapons he had been ordered to surrender. In response to each question, the appellant asserted his Fifth Amendment privilege against self-incrimination. The County Court held the appellant in contempt \u201cbased upon what has happened at this hearing.\u201d\nThe foregoing comments clearly establish that the County Court held the appellant in contempt of court based solely upon his good faith invocation of his Fifth Amendment privilege against self incrimination. Therefore, the judgment is reversed, and the matter is remitted to the County Court for further proceedings on the County\u2019s petition. Krausman, J. P., S. Miller, Friedmann and Luciano, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6070944
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

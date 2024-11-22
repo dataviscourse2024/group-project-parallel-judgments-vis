@@ -1,0 +1,46 @@
+{
+    "id": 6390721,
+    "judges": "Brien, Eagen, Jones, Manderino, Nix, Pomeroy, Roberts",
+    "date_filed": "2023-10-05",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-scrivens",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Scrivens",
+    "case_name_full": "Commonwealth v. Scrivens",
+    "attorneys": "John O. Veith, for appellant., Milton M. Stein, Assistant District Attorney, James D. Crawford, Deputy District Attorney, Richard, A. Sprague, First Assistant District Attorney, and Arlen Specter, District Attorney, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted April 17, 1972.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "448 Pa. 60"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion\nPer Curiam,\nAfter a plea of guilty to murder generally in 1970, appellant was found guilty of murder in the second degree and received a sentence of five years probation under the supervision of the State Parole Board. On April 5, 1971, this probation was revoked for cause and the court sentenced appellant to a prison term of 11% to 23 months. Subsequently, on April 8, 1971, the same judge \u201creconsidered\u201d the earlier sentence and substituted a new one of one to five years imprisonment. The record indicates that no new information had been received by the court at the time of reconsideration, and no justification appears for the increase in appellant\u2019s punishment. The Commonwealth concedes that the higher sentence of April 8 constituted double jeopardy and must be vacated. Commonwealth v. Allen, 443 Pa. 96, 277 A. 2d 803 (1971); Commonwealth v. Silverman, 442 Pa. 211, 275 A. 2d 308 (1971).\nThe judgment of sentence imposed on April 8, 1971, is vacated; the judgment of sentence imposed on April 5, 1971, is reinstated.\n",
+            "ocr": true,
+            "opinion_id": 6260588
+        }
+    ],
+    "court_short_name": "Supreme Court of Pennsylvania",
+    "court_full_name": "Supreme Court of Pennsylvania",
+    "court_type": "S",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1464923,
     "judges": "Cooper, Graves, Johnstone, Keller, Lambert, Stumbo, Wintersheimer",
-    "date_filed": 1051142400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-03-02",
+    "date_filed_is_approximate": true,
     "slug": "lovett-v-commonwealth",
     "case_name_short": "Lovett",
     "case_name": "Lovett v. Commonwealth",

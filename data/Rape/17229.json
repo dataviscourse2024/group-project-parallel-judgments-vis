@@ -1,8 +1,8 @@
 {
     "id": 2185859,
     "judges": "Betty C. Dickey",
-    "date_filed": 1148515200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-01-29",
+    "date_filed_is_approximate": true,
     "slug": "terry-v-state",
     "case_name_short": "Terry",
     "case_name": "Terry v. State",

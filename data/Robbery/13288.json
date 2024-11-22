@@ -1,8 +1,8 @@
 {
     "id": 1604133,
     "judges": "Schwartz, C.J., Barkdull and Jorgenson",
-    "date_filed": 784339200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-10-26",
+    "date_filed_is_approximate": true,
     "slug": "hill-v-state",
     "case_name_short": "Hill",
     "case_name": "Hill v. State",

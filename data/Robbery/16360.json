@@ -1,8 +1,8 @@
 {
     "id": 2038647,
     "judges": "Kluczynski, Ryan, Underwood, Ward",
-    "date_filed": 196905600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-09-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-chaney",
     "case_name_short": "Chaney",
     "case_name": "People v. Chaney",

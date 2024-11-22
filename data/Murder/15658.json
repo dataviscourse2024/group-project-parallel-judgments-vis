@@ -1,8 +1,8 @@
 {
     "id": 1821179,
     "judges": "Boslaugh, Carter, Chappell, Messmore, Wenke, Yeager",
-    "date_filed": -313200000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-12-07",
+    "date_filed_is_approximate": true,
     "slug": "olney-v-state",
     "case_name_short": null,
     "case_name": "Olney v. State",

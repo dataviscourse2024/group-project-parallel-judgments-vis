@@ -1,8 +1,8 @@
 {
     "id": 2171653,
     "judges": "Yanoff",
-    "date_filed": 261273600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-11-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-scovil",
     "case_name_short": "Scovil",
     "case_name": "State v. Scovil",

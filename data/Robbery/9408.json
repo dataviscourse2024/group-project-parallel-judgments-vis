@@ -1,8 +1,8 @@
 {
     "id": 1790861,
     "judges": "Clinton, Dally, Davis, Douglas, Odom, Roberts",
-    "date_filed": 330134400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-03-22",
+    "date_filed_is_approximate": true,
     "slug": "brasfield-v-state",
     "case_name_short": "Brasfield",
     "case_name": "Brasfield v. State",

@@ -1,8 +1,8 @@
 {
     "id": 3543679,
     "judges": "Anderson, Ethridge, McGtowen, Smith",
-    "date_filed": -1384646400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-12-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-chambliss",
     "case_name_short": "Chambliss",
     "case_name": "State v. Chambliss",

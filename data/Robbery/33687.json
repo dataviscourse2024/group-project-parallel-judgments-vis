@@ -1,8 +1,8 @@
 {
     "id": 6087678,
     "judges": null,
-    "date_filed": 714614400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-11-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-brown",
     "case_name_short": "Brown",
     "case_name": "People v. Brown",

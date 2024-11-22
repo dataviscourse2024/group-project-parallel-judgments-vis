@@ -1,8 +1,8 @@
 {
     "id": 2054512,
     "judges": "Abrams, Braucher, Hennessey, Quirico, Wilkins",
-    "date_filed": 333676800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-04-09",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-carballo",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Carballo",

@@ -1,8 +1,8 @@
 {
     "id": 7106503,
     "judges": "Trapp",
-    "date_filed": 91238400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-01-23",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bolen",
     "case_name_short": "Bolen",
     "case_name": "People v. Bolen",

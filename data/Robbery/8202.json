@@ -1,8 +1,8 @@
 {
     "id": 108429,
     "judges": "Brennan, Douglas, Marshall, Powell, Rehnquist, White",
-    "date_filed": 64022400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-11-25",
+    "date_filed_is_approximate": true,
     "slug": "lego-v-twomey",
     "case_name_short": "Lego",
     "case_name": "Lego v. Twomey",

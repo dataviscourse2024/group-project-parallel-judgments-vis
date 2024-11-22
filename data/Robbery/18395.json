@@ -1,8 +1,8 @@
 {
     "id": 2437360,
     "judges": "Campbell, Clinton, Miller, Teague",
-    "date_filed": 515203200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-08-21",
+    "date_filed_is_approximate": true,
     "slug": "carrasco-v-state",
     "case_name_short": "Carrasco",
     "case_name": "Carrasco v. State",

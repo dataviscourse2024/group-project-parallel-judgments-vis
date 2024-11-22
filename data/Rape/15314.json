@@ -1,8 +1,8 @@
 {
     "id": 1590560,
     "judges": "Cochran, Hervey, Holcomb, Johnson, Keasler, Keller, Meyers, Price, Womack",
-    "date_filed": 1222214400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-03-06",
+    "date_filed_is_approximate": true,
     "slug": "clarke-v-state",
     "case_name_short": "Clarke",
     "case_name": "Clarke v. State",

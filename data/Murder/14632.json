@@ -1,8 +1,8 @@
 {
     "id": 1096444,
     "judges": "Barkdull, Nesbitt and Goderich",
-    "date_filed": 824256000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-10-09",
+    "date_filed_is_approximate": true,
     "slug": "meeks-v-state",
     "case_name_short": "Meeks",
     "case_name": "Meeks v. State",

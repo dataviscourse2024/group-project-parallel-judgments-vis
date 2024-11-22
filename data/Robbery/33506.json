@@ -1,8 +1,8 @@
 {
     "id": 6045265,
     "judges": null,
-    "date_filed": 595468800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-06-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-glover",
     "case_name_short": "Glover",
     "case_name": "People v. Glover",

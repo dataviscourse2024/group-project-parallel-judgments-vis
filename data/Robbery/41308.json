@@ -1,8 +1,8 @@
 {
     "id": 7601448,
     "judges": "Byrnes, Lobrano, Williams",
-    "date_filed": 442713600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-10-26",
+    "date_filed_is_approximate": true,
     "slug": "state-v-day",
     "case_name_short": "Day",
     "case_name": "State v. Day",

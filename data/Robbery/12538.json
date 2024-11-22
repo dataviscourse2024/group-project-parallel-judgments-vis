@@ -1,8 +1,8 @@
 {
     "id": 705228,
     "judges": "Anderson, Baldock, Brorby",
-    "date_filed": 812592000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-01-01",
+    "date_filed_is_approximate": true,
     "slug": "chidi-onwuneme-v-immigration-and-naturalization-service",
     "case_name_short": null,
     "case_name": "Chidi Onwuneme v. Immigration and Naturalization, Service",

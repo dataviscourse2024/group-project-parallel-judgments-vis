@@ -1,8 +1,8 @@
 {
     "id": 7983560,
     "judges": "Grant, Hooker, Long, McGrath, Montgomery",
-    "date_filed": -2412115200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-12-04",
+    "date_filed_is_approximate": true,
     "slug": "filer-v-smith",
     "case_name_short": "Filer",
     "case_name": "Filer v. Smith",

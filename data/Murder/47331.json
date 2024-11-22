@@ -1,0 +1,46 @@
+{
+    "id": 8833601,
+    "judges": "Creighton",
+    "date_filed": "2020-12-20",
+    "date_filed_is_approximate": true,
+    "slug": "swango-v-cleveland-cincinnati-chicago-st-louis-railway-co",
+    "case_name_short": "Swango",
+    "case_name": "Swango v. Cleveland, Cincinnati, Chicago & St. Louis Railway Co.",
+    "case_name_full": "Clarence Swango v. Cleveland, Cincinnati, Chicago and St. Louis Railway Company",
+    "attorneys": "George B. Gillespie, for appellant; R. J. Carey, Shepherd & Trogdon and Gillespie & Fitzgerald, of counsel., F. E. Shopp, for appellee; F. C. Van Sellar, of counsel.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Abstract of the Decision.</p> <p>Rah.roads, \u00a7 874*\u2014when evidence insufficient to show a defective gate at farm crossing. In an action against a railroad company for damages occasioned by the killing of plaintiff\u2019s stock alleged to have escaped upon defendant\u2019s right of way by reason of a defective gate constructed by defendant at a farm crossing, evidence held insufficient to sustain a verdict for plaintiff, it appearing that the gate was open when the stock escaped, that the gate was of the usual pattern of sliding gates, made of good material and of sufficient height, and that the only objection to the gate was that it was lower at the \u201chinge\u201d end than the other so that it could easily slide back and might be opened on account of wind or by horses rubbing against it, there being no evidence to show that the gate was thus opened but there was evidence to show that it had not been thus opened for a period of five years.</p>",
+    "summary": "Appeal from the Circuit Court of Edgar county; the Hon. E. R. E. Kimbrough, Judge, presiding.",
+    "disposition": "Reversed with finding of fact.",
+    "history": null,
+    "other_dates": "Heard in this court at the April term, 1913.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "184 Ill. App. 207"
+    ],
+    "opinions": [
+        {
+            "author_str": "Creighton",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. Justice Creighton delivered the opinion of the court. ",
+            "ocr": true,
+            "opinion_id": 8818596
+        }
+    ],
+    "court_short_name": "Appellate Court of Illinois",
+    "court_full_name": "Appellate Court of Illinois",
+    "court_type": "SA",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Murder"
+}

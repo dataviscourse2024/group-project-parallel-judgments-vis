@@ -1,8 +1,8 @@
 {
     "id": 5929113,
     "judges": null,
-    "date_filed": 98668800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-01-26",
+    "date_filed_is_approximate": true,
     "slug": "people-v-jackson",
     "case_name_short": null,
     "case_name": "People v. Jackson",

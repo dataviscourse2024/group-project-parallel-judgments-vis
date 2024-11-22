@@ -1,0 +1,46 @@
+{
+    "id": 8835383,
+    "judges": "Bryan, King, Wafkfr, Walker",
+    "date_filed": "2006-09-15",
+    "date_filed_is_approximate": true,
+    "slug": "panama-r-v-castilla",
+    "case_name_short": "Castilla",
+    "case_name": "Panama R. v. Castilla",
+    "case_name_full": "PANAMA R. CO. v. CASTILLA",
+    "attorneys": "Frank Feuille and Walter F. Van Dame, both of Ancon, C. Z., for plaintiff in error., William. C. MacIntyre and W. C. Todd, both of Cristobal, C. Z., for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Parent and child &wkey;>l \u2014 Child bom out of wedlock held \u201cillegitimate child,\u201d when not acknowledged pursuant to statute.</p> <p>Under Civ. Code Panama,' arts. 6, 52, 54^57, relative to legitimate and illegitimate' children, a child bom out of wedlock of intercourse not punishable was simply illegitimate, where the mother had not complied with the statutory requirements as to acknowledgment by public instrument or testamentary act.</p> <p>. 2. Death <&wkey;31(7) \u2014 Mother of illegitimate child has no right of action under law of Canal Zone.</p> <p>There being no statute in the Canal Zone declaring an illegitimate child legitimate as to its mother, the mother has no right of action for a wrongful act' causing death.</p> <p>3. Bastards <&wkey;10 \u2014 Statute of Panama as to relation to mother held not in force in Canal Zone.</p> <p>A Panama statute providing that acknowledgment on the part of the mother is presumed with respect to certain illegitimate children, and that they shall be considered as natural in relation to her as if recognized, is repealed as to the Canal Zone, because not included in the Civil Code continued in force in the Canal Zone, and in conflict with provisions included in such Code.</p>",
+    "summary": "In Error to the District Court of the Canal Zone; John W. Hanan, Judge. Action by Camila Castilla against the Panama Railroad Company. Judgment for plaintiff, and defendant brings error.",
+    "disposition": "Reversed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "272 F. 656"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bryan",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBRYAN, Circuit Judge.\nThis action was brought by defendant in error, herein called plaintiff, against plaintiff in error, herein called *657defendant, for the alleged negligent killing of plaintiff\u2019s minor son, of the age of six years, which occurred in a wreck of one of defendant\u2019s trains in the Canal Zone. The complaint alleged that the child was plaintiff's natural son. This allegation was denied by the answer. Plaintiff was never married. When her son was about a year okl, he was placed in the custody of Janies Rock and his wife, Rachel Rock, and remained in their custody until both he and Rachel were killed in the wreck of the train on which they were passengers. The child had never been acknowledged by plaintiff by any public instrument or testamentary act. There was judgment for plaintiff.\nThe question whether a cause of action for death by wrongful act exists in the Canal Zone was raised by demurrer to the complaint, the overruling of which is assigned as error. That question has been considered and disposed of adversely to defendant in Panama Railroad Co. v. James Rock (C. C. A.) 272 Fed. 649, this day decided, and what is there stated need not be repeated here. That case is decisive of this upon all questions, except upon that of whether plaintiff sustained such relation to the deceased child as to authorize a recovery by her.\n[1] The Civil Code of Panama, in force in the Canal Zone, contains the following provisions:\n\u201cLegitimate children are called those conceived during the real or putative marriage of their parents, which produces legal effects, and those legitimated by the marriage of the same, subsequently to the conception. All others are illegitimate.\u201d Article 6, p. 544.\n\u201cIllegitimate children are natural or begotten in criminal and punishable intercourse, or simply illegitimate.\u201d Article 52, p. 27.\n\u201cChildren born out of wedlock, not of punishable intercourse, may be acknowledged by their parents or by one of them, and shall have the legal quality of natural children with respect to the father or the mother who may have acknowledged them.\u201d Article 54, p. 561.\n\u201cThe acknowledgment is a free and voluntary act of the father or mother who acknowledges.\u201d Article 55, p. 561.\n\u201cThe acknowledgment must he inade by a public instrument inter vivos, or by a testamentary act.\u201d Article 56, p. 561.\n\u201cThe acknowledgment of the natural child must be notified and accepted or repudiated in the same maimer as legitimation would he, according to Title II of the Civil Code.\u201d Article 57, p. 562.\nPlaintiff having failed to comply with these statutory requirements as to acknowledgment, it follows that her deceased child was \u201csimply illegitimate.\u201d\n[2] By statute in some of the states an illegitimate child is declared to be legitimate as to its mother, but there is no law to that effect in 'the Canal Zone, and consequently there is no right of action in the plaintiff.\n[3] To sustain recovery, reliance is had upon an act of the Republic of Panama of 1890, which provides that acknowledgment on the part of the mother is presumed with respect to children conceived by her when she was a single woman, and that such children \u201cshall be considered as natural in relation to the mother, as if they had been recognized by a public instrument.\u201d But this act of 1890 is not included in the Civil Code of the Raws of Panama continued in force in the *658Canal Zone, and, inasmuch as it is in conflict with the provisions above quoted, which were included, it must be considered as having been repealed.\nThe judgment is therefore reversed.\nWALKER, Circuit Judge, concurs in the result.\n",
+            "ocr": true,
+            "opinion_id": 8820420
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

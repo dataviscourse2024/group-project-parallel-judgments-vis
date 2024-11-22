@@ -1,0 +1,46 @@
+{
+    "id": 5186329,
+    "judges": "Hawkins",
+    "date_filed": "1982-12-04",
+    "date_filed_is_approximate": true,
+    "slug": "yates-v-state",
+    "case_name_short": "Yates",
+    "case_name": "Yates v. State",
+    "case_name_full": "YATES v. STATE",
+    "attorneys": "A. L. Lowery, of Nacogdoches, for appellant., Lloyd W. Davidson, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "122 S.W.2d 301"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hawkins",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHAWKINS, Judge.\nUpon trial under an indictment charging assault with intent to murder appellant was convicted of an aggravated assault, and punishment assessed at a fine of $250 and six months\u2019 imprisonment in the county jail.\nThe record contains neither statement of facts nor bills of exception. In such condition nothing is presented for review.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5008596
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1653713,
+    "judges": "Douglas",
+    "date_filed": "2011-12-19",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-scott",
+    "case_name_short": null,
+    "case_name": "Ex Parte Scott",
+    "case_name_full": "Ex Parte Bill E. SCOTT",
+    "attorneys": "David E. Pickett, Dallas, for petitioner., John Green, Dist. Atty., Odessa, Jim D. Vollers, State\u2019s Atty., and Buddy Stevens, Asst. State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b634-3\">\n    Ex parte Bill E. SCOTT.\n   </parties><br><docketnumber id=\"b634-4\">\n    No. 48081.\n   </docketnumber><br><court id=\"b634-5\">\n    Court of Criminal Appeals of Texas.\n   </court><decisiondate id=\"Aq0\">\n    Feb. 13, 1974.\n   </decisiondate><br><attorneys id=\"b634-10\">\n    David E. Pickett, Dallas, for petitioner.\n   </attorneys><br><attorneys id=\"b634-11\">\n    John Green, Dist. Atty., Odessa, Jim D. Vollers, State\u2019s Atty., and Buddy Stevens, Asst. State\u2019s Atty., Austin, for the State.\n   </attorneys>",
+    "citations": [
+        "505 S.W.2d 602"
+    ],
+    "opinions": [
+        {
+            "author_str": "Douglas",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5753.0,
+            "opinion_text": "\n505 S.W.2d 602 (1974)\nEx parte Bill E. SCOTT.\nNo. 48081.\nCourt of Criminal Appeals of Texas.\nFebruary 13, 1974.\nDavid E. Pickett, Dallas, for petitioner.\nJohn Green, Dist. Atty., Odessa, Jim D. Vollers, State's Atty., and Buddy Stevens, Asst. State's Atty., Austin, for the State.\n\nOPINION\nDOUGLAS, Judge.\nThis is a post conviction habeas corpus proceeding under Article 11.07, Vernon's Ann.C.C.P. On March 27, 1968, the applicant, upon his plea of guilty, was convicted for the offense of murder and his punishment was assessed at life. He was also convicted on the same day for passing as true a forged instrument.\nThe sole complaint is that the applicant was not properly admonished under Article 26.13, V.A.C.C.P., before accepting his plea of guilty in the murder case. Apparently he has served his time in the second case.\nThe record reflects that the trial judge properly gave the range of punishment in each case and ascertained that the applicant was sane and had not \"been influenced by any delusive hope of pardon to confess his guilt.\" However, the court did not ascertain if the pleas were uninfluenced by any consideration of fear or by any persuasion under the statute.\nThe part of Article 26.13, supra, in question is that a plea of guilty should not be received unless that one \"... is uninfluenced by any consideration of fear, or by any persuasion....\" This part of the statute has usually been followed in most cases before this Court, but some trial courts have not inquired in the terms of the statute concerning \"delusive hope of pardon.\" This omission has caused a divided court in quite a few cases. In Mitchell v. State, Tex.Cr.App., 493 S.W.2d 174, the majority held in effect that the failure to ask about \"delusive hope of pardon\" in the admonition was not fatal. See Williams v. State, Tex.Cr.App., 497 S.W.2d 306, and Espinosa v. State, Tex.Cr.App., 493 S.W.2d 172.\nUnlike Mitchell, the court did not determine if the pleas were voluntarily made uninfluenced by fear, persuasion or promises.\nThe trial judge conducted the habeas corpus hearing and concluded that the applicant was not properly admonished. With this conclusion we agree.\nBecause the trial court did not ascertain from the applicant if he entered his plea by reason of fear or persuasion, the conviction must be set aside.\n*603 The relief sought is granted and the applicant is ordered released to the sheriff of Ector County to answer to the indictment for murder in trial court cause number A-4538.\n",
+            "ocr": false,
+            "opinion_id": 1653713
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

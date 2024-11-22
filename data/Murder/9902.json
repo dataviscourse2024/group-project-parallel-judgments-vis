@@ -1,0 +1,47 @@
+{
+    "id": 1292990,
+    "judges": "Hall",
+    "date_filed": "1972-08-28",
+    "date_filed_is_approximate": true,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "Johnson v. the State",
+    "attorneys": "Roberts, Roberts & Rainwater, Guy Velpoe Roberts, Jr., for appellant., D. E. Turk, District Attorney, Arthur K. Bolton, Attorney General, John W. Dunsmore, Jr., Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued February 10, 1976, Rehearing denied March 23, 1976.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b545-7\">\n    30837.\n   </docketnumber><parties id=\"ARvx\">\n    JOHNSON v. THE STATE.\n   </parties>",
+    "citations": [
+        "224 S.E.2d 376",
+        "236 Ga. 519"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hall",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 1335.0,
+            "opinion_text": "\n236 Ga. 519 (1976)\n224 S.E.2d 376\nJOHNSON\nv.\nTHE STATE.\n30837.\nSupreme Court of Georgia.\nArgued February 10, 1976.\nDecided March 11, 1976.\nRehearing Denied March 23, 1976.\nRoberts, Roberts &amp; Rainwater, Guy Velpoe Roberts, Jr., for appellant.\nD. E. Turk, District Attorney, Arthur K. Bolton, Attorney General, John W. Dunsmore, Jr., Assistant District Attorney, for appellee.\nHALL, Justice.\nThis is an appeal from a murder conviction and life sentence. Johnson did not deny the shooting, but claimed it was done in self-defense because of his fear that the victim might use some karate moves on him, take his gun away, and kill him.\nThe sole enumeration of error was the admission into evidence, over objection, of an investigating officer's testimony that when he arrived at the scene of the shooting, \"I heard a remark from someone in the crowd, I don't know who it was, someone stated that `Head didn't have any business shooting that boy like that.'\" The officer then testified that he asked 30 or 40 onlookers as to whom they knew by the name of \"Head.\" The officer then remembered that the appellant went by the alias of Head and continued his investigation, which later centered around the appellant.\nAppellant made an incriminatory statement to an officer shortly after his apprehension, and admitted the *520 shooting at the trial. Three eye witnesses testified at trial to the shooting and stated that the victim was unarmed and made no moves or threatening gestures toward appellant. See Johnson v. State, 136 Ga. 804 (72 SE 233) (1911); Garnett v. State, 10 Ga. App. 109, 114 (72 SE 951) (1911). Assuming without deciding that the alleged statement of the unidentified person was not part of the res gestae (see Gaines v. State, 232 Ga. 727 (208 SE2d 798) (1975)), a study of the entire transcript shows the statement to be at most harmless error.\nJudgment affirmed. All the Justices concur.\n",
+            "ocr": false,
+            "opinion_id": 1292990
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

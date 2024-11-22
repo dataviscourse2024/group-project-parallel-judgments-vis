@@ -1,8 +1,8 @@
 {
     "id": 150361,
     "judges": "Souter, Stahl, Torruella",
-    "date_filed": 1278633600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-12-23",
+    "date_filed_is_approximate": true,
     "slug": "hakim-v-holder",
     "case_name_short": "Hakim",
     "case_name": "Hakim v. Holder",

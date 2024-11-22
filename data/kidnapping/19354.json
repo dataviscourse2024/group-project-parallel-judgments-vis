@@ -1,8 +1,8 @@
 {
     "id": 2234511,
     "judges": "Wolfson",
-    "date_filed": 1001635200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-10-23",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bowman",
     "case_name_short": "Bowman",
     "case_name": "People v. Bowman",

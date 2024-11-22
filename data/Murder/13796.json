@@ -1,8 +1,8 @@
 {
     "id": 1735948,
     "judges": "Hawthorne",
-    "date_filed": -351648000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-04-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-youngblood",
     "case_name_short": "Youngblood",
     "case_name": "State v. Youngblood",

@@ -1,0 +1,47 @@
+{
+    "id": 5937993,
+    "judges": null,
+    "date_filed": "2018-12-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-wilkins",
+    "case_name_short": "Wilkins",
+    "case_name": "People v. Wilkins",
+    "case_name_full": "The People of the State of New York v. Wendy W. Wilkins",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "71 A.D.3d 1464",
+        "896 N.Y.S.2d 276"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal from a judgment of the Monroe County Court (Richard A. Keenan, J.), rendered February 8, 2007. The judgment convicted defendant, upon her plea of guilty, of rape in the third degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed. Present \u2014 Smith, J.P., Fahey, Carni, Sconiers and Pine, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5796354
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

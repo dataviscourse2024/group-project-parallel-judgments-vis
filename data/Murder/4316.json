@@ -1,0 +1,46 @@
+{
+    "id": 8626161,
+    "judges": "Clifton, Gould, Leavy",
+    "date_filed": "1996-08-16",
+    "date_filed_is_approximate": true,
+    "slug": "abelyan-v-gonzales",
+    "case_name_short": "Abelyan",
+    "case_name": "Abelyan v. Gonzales",
+    "case_name_full": "Markos ABELYAN v. Alberto R. GONZALES, Attorney General",
+    "attorneys": "Aris Artounians, Law Office of Aris Artounians, Glendale, CA, for Petitioner., Ronald E. Lefevre, Chief Counsel, Office of the District Counsel, Department of Homeland Security, San Francisco, CA, Jill Ptacek, Esq., U.S. Department of Justice, Liberty Place Building, Washington, DC, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Nov. 6, 2006.*",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "207 F. App'x 809"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM **\nMarkos Abelyan, a native and citizen of Armenia, petitions for review of the Board of Immigration Appeals\u2019 order affirming without opinion an immigration judge\u2019s (\u201cIJ\u201d) decision denying his applications for asylum, withholding of removal and protection under the Convention Against Torture (\u201cCAT\u201d). We have jurisdiction under 8 U.S.C. \u00a7 1252. We review for substantial evidence, see Sangha v. INS, 103 F.3d 1482, 1487 (9th Cir.1997), and deny the petition for review.\nSubstantial evidence supports the IJ\u2019s determination that the mistreatment Abelyan suffered was not on account of a protected ground. Abelyan testified that men beat him when he refused to provide free auto repairs and that the police arrested him while he was distributing leaflets because they suspected he was an accomplice to a murder. Nothing in the record compels the conclusion that Abelyan was mistreated because of his political opinion. See Tecun-Florian v. INS, 207 F.3d 1107, 1109-10 (9th Cir.2000).\nBecause Abelyan failed to demonstrate that he was eligible for asylum, it follows that he did not satisfy the more stringent standard for withholding of removal. See Alvarez-Santos v. INS, 332 F.3d 1245, 1255 (9th Cir.2003).\nAbelyan\u2019s contention that the BIA failed to consider his CAT claim is foreclosed by Falcon Carriche v. Ashcroft, 350 F.3d 845, 851 (9th Cir.2003).\nPETITION FOR REVIEW DENIED.\n\n This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by 9th Cir. R. 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8605546
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

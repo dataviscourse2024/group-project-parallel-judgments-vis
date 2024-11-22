@@ -1,0 +1,46 @@
+{
+    "id": 7495723,
+    "judges": "Johnson, Rawls, Sturgis",
+    "date_filed": "2001-05-27",
+    "date_filed_is_approximate": true,
+    "slug": "williams-v-state",
+    "case_name_short": null,
+    "case_name": "Williams v. State",
+    "case_name_full": "James Leroy WILLIAMS v. STATE of Florida",
+    "attorneys": "James Leroy Williams, in pro. per., Earl Faircloth, Atty. Gen., and John S. Burton, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "186 So. 2d 279"
+    ],
+    "opinions": [
+        {
+            "author_str": "Rawls",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRAWLS, Chief Judge.\nAppellant was informed against for the crimes of breaking and entering with intent to commit rape and assault with intent to commit rape. Subsequently with counsel by his side, he pleaded guilty to the crime of breaking and entering with intent to commit rape, was adjudged guilty and sentenced to serve a term of 15 years. The State abandoned the count charging assault with intent to commit rape. Three years later, while serving the sentence imposed, Appellant petitioned the trial court for relief under Criminal Procedure Rule No. 1, Chapter 924, Appendix F.S.A. Pertinent allegations in his petition for relief were that he was beaten about the head, neck, side and stomach by two interrogating county detectives, who also kicked him several times on his leg and chest until he was in such intense pain that he was carried to the medical clinic at the county jail, examined by a doctor and was given several shots by a nurse to ease the pain. His petition further states that police officers told him the alleged victim of the crime was a cousin of the judge and unless he pleaded guilty to the charge and saved the court the trouble and expense of a long trial, he might get the electric chair; but if he would cooperate by pleading guilty, the judge would probably give him probation *280or a little jail time since he had no prior criminal record.\nIn a responsive pleading entitled \u201cMotion to Dismiss\u201d, the State Attorney did not deny the allegations of the petition but contended that the allegations in the petition were frivolous because the petition also shows that appellant, while represented by counsel, withdrew his plea of not guilty and entered a plea of guilty. On this appeal the State contends that since the record does not reflect that counsel was appointed for appellant, it must be assumed that appellant was represented by counsel of his own choice and that Williams v. State1 firmly establishes the rule that when a movant changes his plea of not guilty to guilty when represented by counsel of his own choosing he is entitled to no relief under Florida Criminal Procedure Rule No. 1. The State concedes that in Lee v. State 2 the Third District Court of Appeal held that allegations of a guilty plea having been entered by reason of coercion, when not otherwise traversed by the record proper, required a hearing on the merits of the motion, but it contends that case is not controlling, because there the movant was represented by a Public Defender rather than by privately employed counsel. In Lee it was held that the fact that petitioner had counsel at the time of entering his plea is not a valid answer to the allegations set out in the motion for relief. We conclude that the same rule is applicable here and that the movant is entitled to a hearing since this record does not reflect on its face anything which would traverse the allegations contained in appellant\u2019s petition.\nIn Jones v. State3 where the sole question was the factual issue of a coerced plea of guilty, it was held that since the State Attorney did not refute the allegations in the petition, the movant was entitled to a hearing under-Criminal Procedure Rule No. 1. The Second District in arriving at its decision squarely held: \u201cA prisoner who-is coerced into entering a plea of guilty is. deprived of a constitutional right.\u201d\nAppellant has stated facts sufficient to-raise the question of whether he was. coerced into pleading guilty, and neither the State Attorney\u2019s answer nor the record refutes these allegations. Therefore the order of the trial court, which denied the defendant\u2019s motion without a hearing, is\nReversed.\nSTURGIS and JOHNSON, JJ., concur.\n\n. Williams v. State, 167 So.2d 795 (Fla. App.3d, 1964).\n\n\n. Lee v. State, 175 So.2d 95 (Fla.App. 3d, 1965).\n\n\n. Jones v. State, 165 So.2d 191 (Fla.App. 2d, 1964).\n\n",
+            "ocr": true,
+            "opinion_id": 7418329
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Rape"
+}

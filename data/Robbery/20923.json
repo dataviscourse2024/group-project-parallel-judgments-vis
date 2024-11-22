@@ -1,8 +1,8 @@
 {
     "id": 3033234,
     "judges": null,
-    "date_filed": 1124236800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-05-24",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-chong",
     "case_name_short": "Chong",
     "case_name": "United States v. Chong",

@@ -1,0 +1,46 @@
+{
+    "id": 2275638,
+    "judges": "Ahrens, Baker, Clifford, Crane, Kathianne, Knaup, Nannette",
+    "date_filed": "1995-10-13",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-gibbs",
+    "case_name_short": "Gibbs",
+    "case_name": "State v. Gibbs",
+    "case_name_full": "STATE of Missouri, Respondent, v. Willie L. GIBBS, Appellant",
+    "attorneys": "Brocea Smith, MO Public Defender Office, St. Louis, MO, for Appellant., Shaun Mackelprang, John Reeves, Co-Counsel, Jefferson City, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Application for Transfer to Supreme Court Denied July 28, 2010., Application for Transfer Denied Sept. 21, 2010.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b269-8\">\n    STATE of Missouri, Respondent, v. Willie L. GIBBS, Appellant.\n   </parties><br><docketnumber id=\"b269-11\">\n    No. ED 93716.\n   </docketnumber><br><court id=\"b269-12\">\n    Missouri Court of Appeals, Eastern District, Division One.\n   </court><br><decisiondate id=\"b269-14\">\n    June 22, 2010.\n   </decisiondate><br><otherdate id=\"b269-15\">\n    Application for Transfer to Supreme Court Denied July 28, 2010.\n   </otherdate><br><otherdate id=\"b269-16\">\n    Application for Transfer Denied Sept. 21, 2010.\n   </otherdate><br><attorneys id=\"b269-18\">\n    Brocea Smith, MO Public Defender Office, St. Louis, MO, for Appellant.\n   </attorneys><br><attorneys id=\"b269-19\">\n    Shaun Mackelprang, John Reeves, Co-Counsel, Jefferson City, for Respondent.\n   </attorneys><br><judges id=\"b269-20\">\n    Before KATHIANNE KNAUP CRANE, P.J., CLIFFORD H. AHRENS, J., and NANNETTE A. BAKER, J.\n   </judges>",
+    "citations": [
+        "318 S.W.3d 249"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n318 S.W.3d 249 (2010)\nSTATE of Missouri, Respondent,\nv.\nWillie L. GIBBS, Appellant.\nNo. ED 93716.\nMissouri Court of Appeals, Eastern District, Division One.\nJune 22, 2010.\nApplication for Transfer to Supreme Court Denied July 28, 2010.\nApplication for Transfer Denied September 21, 2010.\nBrocca Smith, MO Public Defender Office, St. Louis, MO, for Appellant.\nShaun Mackelprang, John Reeves, Co-Counsel, Jefferson City, for Respondent.\nBefore KATHIANNE KNAUP CRANE, P.J., CLIFFORD H. AHRENS, J., and NANNETTE A. BAKER, J.\n\nORDER\nPER CURIAM.\nWillie Gibbs (\"Defendant\") appeals from the judgment and sentence imposed by the Circuit Court of the City of St. Louis after a jury found him guilty of one count of forcible rape in violation of Section 566.030,[1] one count of robbery in the first degree in violation of Section 569.020 and two counts of armed criminal action in violation of Section 571.015. The trial court sentenced Defendant as a prior and persistent offender and a persistent sexual offender to sixty years' imprisonment.\nNo jurisprudential purpose would be served by a written opinion reciting the detailed facts and restating the principles of law. The parties have been furnished with a memorandum opinion for their information only, which sets forth the facts and reasons for this order.\nWe affirm the judgment pursuant to Rule 30.25(b).\nNOTES\n[1]  All statutory references are to RSMo.2000, unless otherwise indicated.\n\n",
+            "ocr": false,
+            "opinion_id": 2275638
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Rape"
+}

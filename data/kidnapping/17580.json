@@ -1,8 +1,8 @@
 {
     "id": 2289027,
     "judges": "Dabney",
-    "date_filed": 729129600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-03-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-martinez",
     "case_name_short": "Martinez",
     "case_name": "People v. Martinez",

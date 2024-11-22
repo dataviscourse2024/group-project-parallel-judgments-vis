@@ -1,8 +1,8 @@
 {
     "id": 2545917,
     "judges": "Barker, Brown, Downie, Margaret",
-    "date_filed": 1249948800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-07-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-escobedo",
     "case_name_short": "Escobedo",
     "case_name": "State v. Escobedo",

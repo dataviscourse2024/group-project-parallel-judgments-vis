@@ -1,0 +1,47 @@
+{
+    "id": 6644133,
+    "judges": "Walker",
+    "date_filed": "1980-07-31",
+    "date_filed_is_approximate": true,
+    "slug": "sills-v-state",
+    "case_name_short": "Sills",
+    "case_name": "Sills v. State",
+    "case_name_full": "Sills v. State",
+    "attorneys": "Webb & McAlpine, for appellant., R. C. Brickell, Attorney General, and T. H. Seay, Assistant Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>\nMurder.\n</p> <p>1. Appeal and Error; Curing Error; Evidence. \u2014 \"Where subsequent to a ruling sustaining objection to a question, the court admits uncontradicted evidence of the fact sought to be elicited by the former question, any error committed is cured.</p> <p>2. Homicide; Evidence. \u2014 The color or race of a witness or another witness\u2019s relation to such witness are irrelevant to any issue presented in a prosecution for homicide, and there is no error in sustaining objections to questions calling for such testimony.</p> <p>3. Witnesses; Corroboration; Statements or Declarations Out of Court. \u2014 A witness\u2019s testimony cannot be corroborated by proof of declarations either verbal or written, made by the witness out of court.</p> <p>4. Same; Impeachment; Predicate. \u2014 Where no predicate has been laid for the purpose of impeaching a witness, statements made by the witness inconsistent with her testimony, are not admissible.</p> <p>5. Homicide; Instructions; Self Defense. \u2014 A charge asserting that if the jury believe beyond a reasonable doubt from the evidence that the difficulty was caused and commenced by reason of opprobrious epithets of the defendant, then he could not set up self defense, was a correct proposition and was properly given.</p> <p>6. Charge of Court; Covered X>y Those Given. \u2014 A trial court will not be put in error for refusing charges substantially covered by written charges already given.</p>",
+    "summary": "Appeal from Mobile City Court. Heard before Hon. O. J. Semmes. Lee Sills was convicted of murder in tbe second degree, and he appeals. The bill of exceptions shows that Weinacker was called by the defendant, and the defendant offered to show by him that John Jackson made a statement conforming to his testimony in court before he saw either Dudley or Crozier. The testimony offered by Baker was in the shape of a written showing, that he would swear that Mary Vigo told him she was drunk at the time of the difficulty between Ray and Sills, and didn\u2019t know anything about it. Charge 8 given for the state is as follows : If the jury believe beyond all doubt from the evidence that the difficulty was caused and commenced by reason of an approbrious epithet by the defendant, then he would not be entitled to set up self defense. Counsel discuss exceptions to evidence, but cites no authority in support of their contention except as to the proposition that Baker should have been allowed to state what a state\u2019s witness said to him out of court inconsistent with what she had just sworn to, and they cite Thomason v. Drisooe, 18 Ga. 253. The first three assignments of error was cured by the subsequent admissions of testimony fully curing any previous error. Furthermore, the question sought to be asked was irrelrelevant to any issue. \u2014 Crawford v. The State, 112 Ala. 1; Fonville v. The State, 91 Ala. 39; Monher v. The State, 87 Ala. 94. A witness\u2019s testimony may not be corroborated by showing statements or declarations made out of court. \u2014 Jones v. The State, 107 Ala. 93; s. c. 115 Ala. 67. Where no predicate is laid inconsistent statements may not be shown. \u2014 Waters v. The State, 117 Ala. 108. It is a familiar principle that one who provokes a difficulty cannot invoke the doctrine of self defense. \u2014 Story v. The State, 71 Ala. 329. The court will not be put in error for refusing charges covered by those already given. \u2014 Pearce v. The State, 115 Ala. 115.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 Ala. App. 73",
+        "57 So. 89"
+    ],
+    "opinions": [
+        {
+            "author_str": "Walker",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWALKER, P. J.\nIf there was any prejudicial error in the rulings of the court on the questions asked John H. Stogsdale, a witness for the state, on his cross-examination, as to whether he and another witness for the state were drunk on the night before the occurrence of the difficulty in reference to which they testified, that error was cured by the subsequent action of the court in admitting uncontradicted evidence of the fact sought to be elicited by those questions.\nThe questions asked the same witness on his cross-examination as to the color or race of Mary Vigo, another witness for the state, and as to his illicit sexual relations with her, called for matters which were irrelevant to any issue in the case, and there was no error in sustaining objections to those questions.\u2014Fonville v. The State, 91 Ala. 39; Crawford v. The State, 112 Ala. 1.\nUnder the rule prevailing in this state that proof of declarations, verbal or written, made by a witness out of court, is inadmissible in corroboration of his testimony (Jones v. The State, 107 Ala. 93; Nicholls v. Stew*76art, 20 Ala. 358), the court properly sustained the objection to the testimony sought to be elicited by the defendant from the witness Weinacker as to statements made by John Jackson, another witness for the defendant, in conformity with the testimony given by him.\nThe testimony of Walter Baker as to a statement made by the witness Mary Vigo which was inconsistent with her testimony was properly excluded because of the failure to lay the proper predicate for the introduction of evidence of such contradictory statement.\nThe court was not in error in giving charge 8 requested by the counsel for the state. It asserted the familiar proposition that a defendant who provoked or brought on the difficulty which resulted, in the homicide Avith which he is charged cannot set up self-defense,\u2014Storey v. The State, 71 Ala. 329; Hendricks v. The State, 122 Ala. 42.\nThe proposition embodied in the written charge refused to the defendant as to the presumption of innocence to be indulged in his favor was substantially covered by another written charge given at his instance, and the court is not chargeable with reversible error because of its refusal to repeat the proposition when stated in slightly varying terms.\nThe counsel for the appellant do not undertake to point out a fault in any other ruling of the court in giving or refusing instructions, and we discover no prejudicial error in any of those rulings.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 6520830
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

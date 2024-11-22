@@ -1,8 +1,8 @@
 {
     "id": 1604129,
     "judges": "Carlson, Dickinson, Easley, Graves, Lamar, Randolph, Smith, Waller",
-    "date_filed": 1228348800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-08-07",
+    "date_filed_is_approximate": true,
     "slug": "scott-v-state",
     "case_name_short": "Scott",
     "case_name": "Scott v. State",

@@ -1,8 +1,8 @@
 {
     "id": 2453905,
     "judges": "Gertner",
-    "date_filed": 1090800000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-03-06",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-mueffelman",
     "case_name_short": "Mueffelman",
     "case_name": "United States v. Mueffelman",

@@ -1,8 +1,8 @@
 {
     "id": 4909280,
     "judges": "Alexander, Chambers, Fairhurst, Johnson, Madsen, Owens, Stephens, Wiggins",
-    "date_filed": 1345680000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-05-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-saenz",
     "case_name_short": "Saenz",
     "case_name": "State v. Saenz",

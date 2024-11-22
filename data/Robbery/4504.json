@@ -1,8 +1,8 @@
 {
     "id": 8664670,
     "judges": "Cook, Everett, Fletcher",
-    "date_filed": 458784000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-10-31",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-wilson",
     "case_name_short": "Wilson",
     "case_name": "United States v. Wilson",

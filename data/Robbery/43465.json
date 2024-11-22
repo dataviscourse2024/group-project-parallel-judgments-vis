@@ -1,8 +1,8 @@
 {
     "id": 8040249,
     "judges": "Arrington, Ehee, Ethridge, Holmes, Lee, McG",
-    "date_filed": -401846400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-12-20",
+    "date_filed_is_approximate": true,
     "slug": "holder-v-state",
     "case_name_short": null,
     "case_name": "Holder v. State",

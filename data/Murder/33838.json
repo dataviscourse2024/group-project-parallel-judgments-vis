@@ -1,0 +1,47 @@
+{
+    "id": 6116759,
+    "judges": null,
+    "date_filed": "2010-12-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-sims",
+    "case_name_short": "Sims",
+    "case_name": "People v. Sims",
+    "case_name_full": "The People of the State of New York v. Robert Sims",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "209 A.D.2d 192",
+        "618 N.Y.S.2d 283"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment, Supreme Court, New York County (Richard Lowe, III, J.), rendered December 17, 1980, convicting defendant, after a jury trial, of murder in the second degree and robbery in the first and second degrees, and sentencing him, as a second felony offender, to concurrent terms of 15 years to life, 6 to 12 years and 4 to 8 years, respectively, unanimously modified, on the law, to adjudicate defendant a first felony offender and remand the matter for resentencing on the robbery counts, and otherwise affirmed.\nViewing the evidence in a light most favorable to the People, and giving due deference to the jury\u2019s findings of credibility (People v Bleakley, 69 NY2d 490, 495), defendant\u2019s shared intent with the stabber to commit the robbery that was the predicate for the felony murder conviction was proven beyond a reasonable doubt by legally sufficient evidence that defendant positioned himself so as to prevent the victim\u2019s escape and restrained the victim when the stabber grabbed for his money (see, Matter of Emerson D., 189 AD2d 712; People v Malave, 158 AD2d 435, lv denied 75 NY2d 967). Nor was it necessary for the People to prove that defendant knew that the stabber intended to stab the victim (see, People v Gladman, 41 NY2d 123, 125; People v Mitchell, 77 NY2d 624, 627).\nDefendant\u2019s claim that the court\u2019s acting-in-concert instructions failed to convey the community-of-purpose requirement was not preserved for review by timely and appropriate objection (People v Capriles, 198 AD2d 57, lv denied 83 NY2d 870), and we decline to review the issue in the interest of justice.\nWhile it was error to introduce evidence concerning a knife recovered from defendant when arrested that had no connection to the murder and did not tend to establish defendant\u2019s intention to commit a robbery, the error was harmless in view of defendant\u2019s videotaped statement admitted at trial in which he admitted possessing the knife and threatening to use it against the stabber, and in the absence of any suggestion at trial that the knife was the murder weapon.\nDefendant\u2019s challenge to the court\u2019s failure to strike the testimony of a witness who invoked his privilege against self-incrimination is unpreserved for review as a matter of law. It was not until the day after the testimony was given that defendant objected, by which time it was no longer possible to address defendant\u2019s concerns short of striking the witness\u2019s testimony in its entirety, as defendant was requesting. In any *193event, the limited extent to which the privilege was invoked did not prevent defendant from impeaching the witness in any material manner (People v Chin, 67 NY2d 22); information concerning pending charges had already been adduced (People v Cole, 196 AD2d 634; People v Green, 170 AD2d 1024); and the witness\u2019s direct testimony did not waive the privilege (People v Bagby, 65 NY2d 410).\nThe court\u2019s charge that defendant was an interested witness was appropriate in view of defense counsel\u2019s references during summation to defendant\u2019s videotaped statement as reliable \"testimony\u201d.\nDefendant was improperly adjudicated a second felony offender since the elements of his predicate California conviction, which do not contain any requirement of value or nature of the property, are equivalent only to the New York misdemeanor of criminal possession of stolen property in the fifth degree (Penal Law \u00a7 165.40; see, People v Rodgers, 128 AD2d 418; People v Simmons, 143 AD2d 153). Only the elements, rather than the factual allegations in an accusatory instrument, are compared for purposes of sentence enhancement (People v Muniz, 74 NY2d 464, 467-468; People v Gonzalez, 61 NY2d 586, 589). Accordingly, we modify this aspect of the judgment and remand for resentencing. Concur\u2014Sullivan, J. P., Rosenberger, Ross, Asch and Tom, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5981679
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

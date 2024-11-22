@@ -1,8 +1,8 @@
 {
     "id": 7769510,
     "judges": "Barry, Iklees, Ischott, Klees, Schott",
-    "date_filed": 866592000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-09-02",
+    "date_filed_is_approximate": true,
     "slug": "sagona-v-harris",
     "case_name_short": "Sagona",
     "case_name": "Sagona v. Harris",

@@ -1,8 +1,8 @@
 {
     "id": 2279432,
     "judges": "Ash, David, Kenneth, Richter, Romines, Roy",
-    "date_filed": 1300752000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-10-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mueller",
     "case_name_short": "Mueller",
     "case_name": "State v. Mueller",

@@ -1,0 +1,46 @@
+{
+    "id": 8688609,
+    "judges": null,
+    "date_filed": "1978-03-22",
+    "date_filed_is_approximate": true,
+    "slug": "fox-v-lamanna",
+    "case_name_short": "Fox",
+    "case_name": "Fox v. Lamanna",
+    "case_name_full": "Clarence T. FOX, Jr. v. John J. LAMANNA, in his individual capacity R. McLafferty, in his individual capacity Brian Finnerty Brian Gilmore, Defendants\u2014Appellees, and Federal Bureau of Prisons, in its official capacity Harley G. Lappin, in his individual capacity",
+    "attorneys": "Clarence T. Fox, Jr., Appellant Pro Se. Barbara Murder Bowens, Assistant United States Attorney, Columbia, South Carolina, for Appellees.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted: Aug. 21, 2008.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "289 F. App'x 664"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM:\nClarence T. Fox, Jr., appeals the district court\u2019s order accepting the recommendation of the magistrate judge and denying relief on his complaint filed pursuant to Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 91 S.Ct. 1999, 29 L.Ed.2d 619 (1971). We have reviewed the record and find no reversible error. Accordingly, although we grant leave to proceed in forma pauperis, we affirm for the reasons stated by the district court. Fox v. LaManna, No. 2:06-cv-01785-GRA, 2008 WL 348849 (D.S.C. Feb. 7, 2008). We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.\n\nAFFIRMED.\n\n",
+            "ocr": true,
+            "opinion_id": 8671672
+        }
+    ],
+    "court_short_name": "Fourth Circuit",
+    "court_full_name": "Court of Appeals for the Fourth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

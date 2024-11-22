@@ -1,0 +1,46 @@
+{
+    "id": 7128627,
+    "judges": null,
+    "date_filed": "2015-09-01",
+    "date_filed_is_approximate": true,
+    "slug": "smith-v-state",
+    "case_name_short": null,
+    "case_name": "Smith v. State",
+    "case_name_full": "Smith v. State",
+    "attorneys": "J. K. McDonald and A.. L. JRoache, for the appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Informations for felonies must aver the existence of the facts necessary, to give the Court of Common Pleas jurisdiction to try the case.</p>",
+    "summary": "APPEAL from the Kosciusko Common Pleas.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 Ind. 227"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nInformation against the appellant for a rape. Trial and conviction. The judgment against the accused must be reversed. The information alleges no facts giving the Court jurisdiction, either the consent of the accused, or otherwise. That the information must allege the facts giving jurisdiction, as they are traversable, has been decided in numerous cases.\nThe judgment is reversed, and the cause remanded.\nThe clerk will give the proper notice for a return of the prisoner to Kosciusko county.\n",
+            "ocr": true,
+            "opinion_id": 7035985
+        }
+    ],
+    "court_short_name": "Indiana Supreme Court",
+    "court_full_name": "Indiana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Rape"
+}

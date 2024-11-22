@@ -1,0 +1,47 @@
+{
+    "id": 6650657,
+    "judges": "Cates",
+    "date_filed": "1988-06-12",
+    "date_filed_is_approximate": true,
+    "slug": "russell-v-state",
+    "case_name_short": "Russell",
+    "case_name": "Russell v. State",
+    "case_name_full": "Bobby Joe RUSSELL v. STATE",
+    "attorneys": "James H. Faulkner, Montevallo, for appellant., MacDonald Gallion, Atty. Gen., and Joseph Victor Price, Jr., Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "46 Ala. App. 230",
+        "239 So. 2d 902"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cates",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCATES, Judge.\nMurder second degree: ten years.\nI\nCounsel for Russell (who was not his lawyer at the trial) argues as his first point in brief:\n\u201c * * * All that has been shown was testimony by the * '* * widow of the deceased that her husband was shot and that she observed blood on his clothing and that she went to the hospital with him and that he died some seven days after the alleged shooting. It would appear that the State at least would have introduced into evidence a death certificate or some testimony by the Coroner or a physician or even the hospital records to show the cause of death. If the alleged wound inflicted by the Defendant did result in the death, then this could have been easily shown and would not have inconvenienced the State too much.\u201d\nWe are not called on to decide this point because: (1) there was no motion to exclude the State\u2019s proof made before the defense presented its witnesses; (2) there was no request in writing for the affirmative charge for the defendant; and (3) there was no motion for a new trial. Hence, the trial judge was never put to ruling on the sufficiency of the evidence. Alexander v. State, 44 Ala.App. 143, 204 So.2d 486; Johnson v. State, 282 Ala. 584, 213 So.2d 644; Smith v. State, 45 Ala.App. 63, 223 So.2d 605.\nII\nComplaint is made of the trial judge\u2019s rulings on questions designed to elicit the deceased\u2019s repute for aggressiveness, bloodthirstiness and the like. These questions were premature because at that stage of the trial no evidence of self-defense had been adduced. Wright v. State, 252 Ala. 46, 39 So.2d 395. See also Teague v. State, 120 Ala. 309, 25 So. 209.\nThe judgment below is\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 6527649
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

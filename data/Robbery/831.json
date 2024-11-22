@@ -1,8 +1,8 @@
 {
     "id": 7919073,
     "judges": "McMurray",
-    "date_filed": 924566400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-04-23",
+    "date_filed_is_approximate": true,
     "slug": "davidson-v-state",
     "case_name_short": "Davidson",
     "case_name": "Davidson v. State",

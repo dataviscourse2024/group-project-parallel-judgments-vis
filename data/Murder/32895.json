@@ -1,0 +1,46 @@
+{
+    "id": 5923110,
+    "judges": null,
+    "date_filed": "2021-07-02",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-robbins",
+    "case_name_short": "Robbins",
+    "case_name": "People v. Robbins",
+    "case_name_full": "The People of the State of New York v. Robbie Lee Robbins",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "37 A.D.2d 947"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment of conviction, Supreme Court, Bronx County, rendered-March 10, 1970, unanimously reversed, on the law, the plea of guilty vacated, and the case remanded to Trial Term, Bronx County, for further proceedings. Defendant-appellant, in pleading guilty to attempted manslaughter, second degree, gave her version of the facts in such a manner as, at the very least, to indicate that she might have stabbed the victim in self-defense with his own knife. The court did not pursue the question further except to establish that she had not intended to kill the deceased. Further inquiry should have been made in these circumstances, either to negate or establish a defense of justification. (People v. Serrano, 15 N Y 2d 304.) Concur \u2014 Markewieh, J. P., Kupferman, Murphy, McNally and Tilzer, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5780966
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

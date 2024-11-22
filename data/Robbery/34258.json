@@ -1,8 +1,8 @@
 {
     "id": 6204656,
     "judges": null,
-    "date_filed": 991094400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-06-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-harris",
     "case_name_short": "Harris",
     "case_name": "People v. Harris",

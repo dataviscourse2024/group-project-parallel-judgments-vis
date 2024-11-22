@@ -1,8 +1,8 @@
 {
     "id": 2330072,
     "judges": "Bell, C.J., Musmanno, Jones, Cohen, Eagen, O'Brien and Roberts",
-    "date_filed": -145324800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-12-31",
+    "date_filed_is_approximate": true,
     "slug": "shaw-v-irvin",
     "case_name_short": "Shaw",
     "case_name": "Shaw v. Irvin",

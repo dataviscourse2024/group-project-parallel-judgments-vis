@@ -1,0 +1,46 @@
+{
+    "id": 5074424,
+    "judges": "Bell",
+    "date_filed": "2005-07-08",
+    "date_filed_is_approximate": true,
+    "slug": "villareal-v-state",
+    "case_name_short": "Villareal",
+    "case_name": "Villareal v. State",
+    "case_name_full": "Dionicio Villareal v. State",
+    "attorneys": "S. G. Newton and C. S. West, for appellant,, Attorney-General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Where, upon a trial for murder, there was conflicting evidence as to the circumstances immediately antecedent to the commission, which in connection with the other evidence was important with reference to the degree of offence of which the accused was guilty, it was the duty of the Judge to-.have instructed the jury distinctly as to the degrees of murder, and to have defined -what the law means by express malice and implied malice, in such manner that a jury of ordinary intelligence w ould be enabled to comprehend the distinction betvt een the tw o kinds of malice.</p> <p>The term. \u201c express malice \u201d is purely technical; and it is not to be supposed that a jury will be able to determine whether a murder is of the; first or second degree, by being told that murder committed w ithout ex.press malice is of the second degree.</p> <p>Testimony offered by the defendant to prove that the house of the deceased, -where the difficulty occurred, was a house of ill-fame, was admissible to-explain the intent and object of his presence there; and its exclusion from, the jury was error.</p>",
+    "summary": "Appeal from Bexar. Tried below before the Hon. Thomas. J. Devine. The appellant was indicted for the murder of one.Marcella Perez,, and was convicted of murder in the first degree- The difficulty between the defendant and the deceased occurred at the door of the house of the latter in the city of San Antonio. There was a conflict of testimony as to the circumstances immediately preceding-the homicide. Two members of deceased\u2019s household testified that there was no provocation given by the deceased; while a neighbor, Juan .Rodriguez, deposed that the deceased and his wife were quarrelling with the defendant; that they all came out of deceased\u2019s house together; that deceased and his wife were abusing the defendant, and seemed to be attempting to arrest him; that deceased struck the defendant with his hand, and the latter retreated from him, repeatedly declaring that he did not wish to fight him. The killing was committed with a bowie knife. The defendant offered testimony to prove that the house of deceased, where the difficulty occurred, was a house of ill-fame or prostitution,\u2014counsel for the defendant explaining \u201cthat the object of the testimony was to show the purpose of Villareal in going to the house of Perez, that his designs were peaceable, and only went as he would go to any other house of prostitution.\u201d On objection of the District Attorney, this evidence was excluded; which is assigned for error. The substance of the instructions given by the court below, so far as they are revised by this court under the errors assigned, appears in the opinion.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "26 Tex. 107"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBell, J.\nWe are of opinion that, under the circumstances of this case, the court below did not instruct the jury with sufficient accuracy and distinctness as to the legal principles by which they were to be governed in coming to a conclusion upon the case. It is made the duty of the District Judge, in all cases of felony which\" are tried before him, \u201c to deliver to the jury a written charge in which he shall distinctly set forth the law applicable to the case.\u201d (Code of Criminal Procedure, art. 594.) In the present case the evidence was conflicting. The testimony of Juan Rodriguez differs Very materially\" from that of the other witnesses, as to the circumstances which transpired at the door of the house of Perez, and along the street, immediately before the homicide was committed.\nThis testimony, in connection with all the other evidence in the case, made it the duty of the Judge to instruct the jury distinctly as to the degrees of murder, and to define what the law means by express malice and implied malice, in such manner that a jury of ordinary intelligence would be capable to comprehend the distinction between the two kinds of malice. The Judge told the jury that if the murder was committed with express malice, then they Would so find by their verdict; but if they believed that the prisoner was guilty of the murder of Marcello Perez, yet entertained a reasonable doubt whether such murder was committed with express malice or not, then they should give the prisoner the benefit of such doubt, and find him guilty of murder in the second degree.\nThe Judge evidently intended to charge the jury with the most perfect fairness towards the prisoner, because he proceeded further to define manslaughter, and to tell the jury that if they enter*110tained a reasonable doubt whether the killing was murder in the ..\u2018second degree or manslaughter, then they should give the prisoner the benefit of such doubt and find him guilty of manslaughter. The term \u201cexpress malice,\u201d is purely technical; and it is not to be supposed that a jury will be able to determine whether a murder is of the first or second degree -by being told that murder committed without express malice is of the second degree.\nWe are also of opinion that the court below erred in exchrding the testimony which was offered to show that the house of Perez was a house of ill-fame, or prostitution. The counsel for the prisoner recited that they offered this testimony for the purpose of \u25a0explaining the object, or purpose of Villareal in going to the house; and we are of opinion that the testimony ought to have been admitted.\nThe judgment of the court below is reversed, and the cause remanded for another trial.\nReversed \"and remanded.\n",
+            "ocr": true,
+            "opinion_id": 4889935
+        }
+    ],
+    "court_short_name": "Texas Supreme Court",
+    "court_full_name": "Texas Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

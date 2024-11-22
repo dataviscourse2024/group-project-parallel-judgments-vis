@@ -1,8 +1,8 @@
 {
     "id": 2760250,
     "judges": "Judge Rudolph Contreras",
-    "date_filed": 1418342400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-12-19",
+    "date_filed_is_approximate": true,
     "slug": "lewis-v-superior-court-of-the-district-of-columbia",
     "case_name_short": "Lewis",
     "case_name": "Lewis v. Superior Court of the District of Columbia",

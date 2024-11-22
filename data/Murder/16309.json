@@ -1,8 +1,8 @@
 {
     "id": 2012083,
     "judges": "Murphy, C.J., and Anderson, Morton, Orth, and Thompson",
-    "date_filed": -59270400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-10-20",
+    "date_filed_is_approximate": true,
     "slug": "osborne-v-state",
     "case_name_short": "Osborne",
     "case_name": "Osborne v. State",

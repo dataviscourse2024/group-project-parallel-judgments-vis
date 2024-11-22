@@ -1,8 +1,8 @@
 {
     "id": 4780616,
     "judges": null,
-    "date_filed": 1594944000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-09-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-martinez",
     "case_name_short": "Martinez",
     "case_name": "State v. Martinez",

@@ -1,8 +1,8 @@
 {
     "id": 1188695,
     "judges": "Fromme, McFarland, Prager",
-    "date_filed": 374112000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-11-09",
+    "date_filed_is_approximate": true,
     "slug": "state-v-warren",
     "case_name_short": "Warren",
     "case_name": "State v. Warren",

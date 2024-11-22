@@ -1,8 +1,8 @@
 {
     "id": 1133756,
     "judges": "Decuir",
-    "date_filed": 1162425600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-04-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-morain",
     "case_name_short": "Morain",
     "case_name": "State v. Morain",

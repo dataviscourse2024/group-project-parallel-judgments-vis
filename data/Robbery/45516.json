@@ -1,8 +1,8 @@
 {
     "id": 8461427,
     "judges": "Hall, Parker, Sotomayor",
-    "date_filed": 1115164800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-10-25",
+    "date_filed_is_approximate": true,
     "slug": "boddie-v-bradley",
     "case_name_short": "Boddie",
     "case_name": "Boddie v. Bradley",

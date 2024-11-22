@@ -1,8 +1,8 @@
 {
     "id": 2329072,
     "judges": "Panel: Davis",
-    "date_filed": 1117670400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-01",
+    "date_filed_is_approximate": true,
     "slug": "chow-v-state",
     "case_name_short": "Chow",
     "case_name": "Chow v. State",

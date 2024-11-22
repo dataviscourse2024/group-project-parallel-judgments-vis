@@ -1,0 +1,46 @@
+{
+    "id": 8497165,
+    "judges": "Clifton, Silverman, Smith",
+    "date_filed": "1999-03-06",
+    "date_filed_is_approximate": true,
+    "slug": "harris-v-brown",
+    "case_name_short": "Harris",
+    "case_name": "Harris v. Brown",
+    "case_name_full": "Earnest S. HARRIS v. Jerry BROWN",
+    "attorneys": "Earnest S. Harris, Law Office of J. Edward Jones, Heber City, UT, pro se., Angelo Sipin Edralin, Esquire, Deputy Attorney General, Office of the California Attorney General, Justain Riley, Sacramento, CA, for Respondent-Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued and Submitted July 13, 2009.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "338 F. App'x 660"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM *\nEarnest S. Harris appeals from the district court\u2019s denial of his 28 U.S.C. \u00a7 2254 habeas corpus petition challenging his conviction and sentence for rape, assault likely to produce great bodily injury upon a police officer, and battery on a peace officer. We have jurisdiction pursuant to 28 U.S.C. \u00a7 2253 and review the district court\u2019s denial of the petition de novo. See DeWeaver v. Runnels, 556 F.3d 995, 997 (9th Cir. 2009). We affirm.\nHarris argues that the state courts\u2019 denial of his petition should be reviewed de novo because they denied his claims on procedural grounds instead of on the merits. See Lewis v. Mayle, 391 F.3d 989, 996 (9th Cir.2004). Regardless of whether we use de novo review or the deferential standards of the Antiterrorism and Effective Death Penalty Act, we affirm the denial of his petition. As the transcript of Harris\u2019s guilty plea demonstrates, the plea was voluntary and intelligent. Harris was free to deny the allegation concerning the Alameda County prior. The allegation, in and of itself, did not render the plea involuntary or unknowing. A defendant may not withdraw his plea \u201cmerely because he discovers long after the plea has been accepted that his calculus misapprehended the quality of the State\u2019s case or the likely penalties attached to alternative courses of action.\u201d See Brady v. United States, 397 U.S. 742, 757, 90 S.Ct. 1463, 25 L.Ed.2d 747 (1970); see also McMann v. Richardson, 397 U.S. 759, 770, 90 S.Ct. 1441, 25 L.Ed.2d 763 (1970) (\u201cWaiving trial entails the inherent risk that the good-faith evaluations of a reasonably competent attorney will turn out to be mistaken either as to the facts or as to what a court\u2019s judgment might be on given facts.\u201d). Thus, Harris\u2019s due process rights were not violated when he pleaded guilty, and the state court's denial of his petition did not unreasonably *662apply clearly established Federal law. See 28 U.S.C. \u00a7 2254(d)(1).\nHarris did have a due process right not to be sentenced based on materially untrue information, both at his initial sentencing and the resentencing. See Townsend v. Burke, 334 U.S. 736, 740-41, 68 S.Ct. 1252, 92 L.Ed. 1690 (1948). However, Harris was given the opportunity to rebut the information on which the initial sentencing court relied, and instead he admitted it. See id. (\u201c[I]t is the careless or designed pronouncement of sentence on a foundation so extensively and materially false, which the prisoner had no opportunity to correct by the services which counsel would provide, that renders the proceedings lacking in due process.\u201d).\nIn any event, the outcome of Harris\u2019s sentencing would not have been different if the Alameda abstract correctly reflected his prior conviction at the time of his plea. See United States v. Tucker, 404 U.S. 443, 448, 92 S.Ct. 589, 30 L.Ed.2d 592 (1972). At the time of Harris\u2019s conviction, California law held that assault with intent to commit oral copulation necessarily included attempted oral copulation, and attempted oral copulation would have constituted a serious felony for purposes of the \u201cstrike\u201d or \u201cserious felony\u201d enhancements. See People v. Saunders, 232 Cal.App.3d 1592, 1598, 284 Cal.Rptr. 212 (Cal.Ct.App. 1991) (\u201c[O]ne cannot commit an assault with intent to commit oral copulation without also committing attempted oral copulation.\u201d); People v. Deporceri, 106 Cal. App.4th 60, 67, 130 Cal.Rptr.2d 280 (Cal. Ct.App.2003) (holding it \u201clong ... established\u201d that the serious felony \u201cattempt\u201d provision of California Penal Code \u00a7 1192.7 is not limited to convictions for attempt, but also includes criminal conduct constituting attempt). Because the outcome of Harris\u2019s sentencing would have been the same even if the abstract of judgment were correct, no due process violation occurred. See Townsend, 334 U.S. at 740-41, 68 S.Ct. 1252. The state court\u2019s denial of Harris\u2019s petition was not an unreasonable application of clearly established Federal law. See 28 U.S.C. \u00a7 2254(d)(1).\nAFFIRMED.\n\n This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8469386
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Rape"
+}

@@ -1,8 +1,8 @@
 {
     "id": 233021,
     "judges": "Bratton, Huxman, Phillips",
-    "date_filed": -503798400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-07-09",
+    "date_filed_is_approximate": true,
     "slug": "germany-v-hudspeth",
     "case_name_short": "Germany",
     "case_name": "Germany v. Hudspeth",

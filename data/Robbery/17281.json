@@ -1,8 +1,8 @@
 {
     "id": 2195521,
     "judges": "Counihan, Lummus, Qua, Spalding, Williams",
-    "date_filed": -482630400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-01-05",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-commonwealth",
     "case_name_short": "Commonwealth",
     "case_name": "Smith v. Commonwealth",

@@ -1,8 +1,8 @@
 {
     "id": 2124264,
     "judges": "Elkington",
-    "date_filed": 368409600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-03-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lescallett",
     "case_name_short": "Lescallett",
     "case_name": "People v. Lescallett",

@@ -1,8 +1,8 @@
 {
     "id": 1230699,
     "judges": "Boochever, Chief Justice, and Rabinowitz, Connor, Burke and Matthews, Justices",
-    "date_filed": 261964800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-01-02",
+    "date_filed_is_approximate": true,
     "slug": "middleton-v-state",
     "case_name_short": "Middleton",
     "case_name": "Middleton v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1620253,
     "judges": "Covington",
-    "date_filed": 910051200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-01-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-nunley",
     "case_name_short": "Nunley",
     "case_name": "State v. Nunley",

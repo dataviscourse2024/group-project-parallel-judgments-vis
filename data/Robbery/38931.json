@@ -1,8 +1,8 @@
 {
     "id": 7112134,
     "judges": "Stamos",
-    "date_filed": 322185600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-08-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-connors",
     "case_name_short": "Connors",
     "case_name": "People v. Connors",

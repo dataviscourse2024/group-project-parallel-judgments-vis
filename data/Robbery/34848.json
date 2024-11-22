@@ -1,8 +1,8 @@
 {
     "id": 6324354,
     "judges": "Signorelli",
-    "date_filed": 55728000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-03-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ducz",
     "case_name_short": "Ducz",
     "case_name": "People v. Ducz",

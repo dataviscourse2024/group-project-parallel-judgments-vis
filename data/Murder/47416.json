@@ -1,0 +1,46 @@
+{
+    "id": 8851713,
+    "judges": "Brewer",
+    "date_filed": "2015-09-12",
+    "date_filed_is_approximate": true,
+    "slug": "mealman-v-union-pac-ry-co",
+    "case_name_short": "Mealman",
+    "case_name": "Mealman v. Union Pac. Ry. Co.",
+    "case_name_full": "Mealman v. Union Pac. Ry. Co.",
+    "attorneys": "Browne & Putnam, for plaintiff., Teller <C: Oruhood, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Master and Servant\u2014Negligence o\u00ed? Vice-Pringhar\u2014Pleading.</p> <p>In an action against a railroad company for the alleged negligent killing of an engineer in defendant\u2019s employ, by decedent\u2019s engine colliding with another in the yard, a complaint which avers that engineers were authorized by a rule of the company to move their engines only on the signal of the \u201chelpers.\u201d and that decedent saw the \u201chelper\u201d of the, other engine, who gave no signal, but that the other engine was moved in obedience to a signal of tile \"master mechanic, having sole control of the yard, \u201d is demurrable, as not showing that such master mechanic occupied a position rendering defendant liable for his negligence.</p>",
+    "summary": "At Law. On demurrer to complaint.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "37 F. 189"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brewer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBrewer, J.\nIn the case of Meahnan against the Union Pacific Railway Company there is a demurrer to the complaint. The complaint charges that Meahnan, the deceased, was an engineer in the employment of the defendant in its yards, running a switch-engine; that, driving that engine towards the round-house, there was a collision between it and another engine driven by another employe of the defendant, the collision resulting in the death of Mealman. His widow is the plaintiff in this suit. The complaint avers that engineers were authorized to move their engines only at the direction ot the helpers, and upon their signals, and that such was the rule of the company; that Meahnan saw the helper of the other engine, and saw no signal, and that in fact he gave no signal, but the engineer of that engine started his engine onto the track upon which Meahnan was in obedience to the signal of some other party. Now, if it slopped there, it would be a case where there would be the negligence of one engineer causing injury to another engineer in the operation of two engines at the same point. Within the rule laid down in Randall v. Railroad Co., 109 U. S. 478, 3 Sup. Ct. Rep. 322, and within the case of Howard v. Railroad Co., in which I wrote an opinion, 26 Fed. Rep. 837, there would be no liability on the part of the defendant, it being one employe\u2019s negligence causing injury to another. Beyond that the complaint goes on to aver that the party who gave the signal in obedience to which the engineer of the other engine started his engine and brought on the collision was the master mechanic, having sole control of the yard; so the ease presented is, where one having sole control of a yard issues an order in disregard of the rules of the company, whether that act is negligence imputable to the company. There is a line of cases, and there is a doctrine which was recognized by my predecessor, Judge McCrary, to the effect that the mere matter of subordination determines the liability of the employer; that wherever one party stands subject to the orders of another party whom the company employs, the negligence of the latter is the negligence of the company; so that, if a section boss is guilty of *190negligence whereby a section hand working under him is injured, the company is responsible. In the case of Ross v. Railroad Co.,1 he laid down that doctrine in so many words. The case went to the supreme court, and, while the judgment was affirmed, that court declined to commit itself to that doctrine; and, while it sustained the judgment, did it upon the theory that the party guilty of negligence in that case was the conductor,\u2014one having the sole control and management of a moving train; and said that by virtue of the large control and great responsibility vested in him it was proper to hold him as a representative of the company, its alter ego, a sort of vice-principal, and his negligence the negligence of the company. The other proposition has never yet been decided by that court. I know that intentionally it declined to pass upon it in that case. I do not believe the proposition as laid down by my Brother McCrary is law. I think it is necessary, not merely that there should be subordinatipn, but that the party in control should have such a departmental control\u2014such an extended authority\u2014that the court may justly say that he represents the principal, that he is a vice-principal: the general superintendent, the superintendent of a division, superintendent of roads and bridges, any party who has a department under his control; and the supreme .court says that a conductor stands in the category.\nIt does not appear from the allegations of this complaint further than that this master mechanic had sole control of this yard. Whether it was a yard with one switch or two, a side track or two; whether it was a trifling matter or a large and extensive responsibility; whether this sole control was limited to the repairs of engines or things of that kind; or whether it went to the entire business of a yard of such size and with so extensive works and duties that the company is bound to put in charge some man of experience, information and character,\u2014one for whose acts in all respects it should be held responsible,\u2014is not sufficiently disclosed by a mere statement that the party was a master mechanic, having sole control of this yard. The size of the yard, the amount of responsibility or vastness of the business intrusted to him, the extent of his control, is not disclosed. I do not mean to say that he does occupy such a position that he cannot properly be considered as in control of a department, so that the company may be responsible. I simply hold that the complaint as it stands is defective in that respect, and the demurrer will be sustained.\n\n 8 Fed. Rep. 544.\n\n",
+            "ocr": true,
+            "opinion_id": 8837107
+        }
+    ],
+    "court_short_name": "U.S. Circuit Court for the District of Colorado",
+    "court_full_name": "U.S. Circuit Court for the District of Colorado",
+    "court_type": "F",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Murder"
+}

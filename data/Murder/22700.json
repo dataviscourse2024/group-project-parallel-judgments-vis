@@ -1,0 +1,46 @@
+{
+    "id": 3475729,
+    "judges": "Mills",
+    "date_filed": "1980-06-14",
+    "date_filed_is_approximate": true,
+    "slug": "morgan-v-missouri-pac-r-co",
+    "case_name_short": "Morgan",
+    "case_name": "Morgan v. Missouri Pac. R. Co.",
+    "case_name_full": "Morgan v. Missouri Pac. R. Co.",
+    "attorneys": "Tobin R. Hodge, of Rayville, and Hudson, Potts & Bernstein, of Monroe, for appellant., W.' D.' Cotton, of Rayville, for appellee.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Fifth Judicial District Court, Parish of Richland; C.J. Ellis, Jr., Judge.\n\nAction by Van B. Morgan against the Missouri Pacific Railroad Company. Judgment for plaintiff, and defendant appeals.\n\nAffirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b132-13\">\n    MORGAN v. MISSOURI PAC. R. CO.\n   </parties><br><docketnumber id=\"b132-14\">\n    No. 4548.\n   </docketnumber><br><court id=\"b132-15\">\n    Court of Appeal of Louisiana. Second Circuit.\n   </court><br><decisiondate id=\"b132-16\">\n    Dec. 1, 1933.\n   </decisiondate><br><attorneys id=\"b132-22\">\n    Tobin R. Hodge, of Rayville, and Hudson, Potts &amp; Bernstein, of Monroe, for appellant.\n   </attorneys><br><attorneys id=\"b132-23\">\n    W.' D.' Cotton, of Rayville, for appellee.\n   </attorneys>",
+    "citations": [
+        "151 So. 110"
+    ],
+    "opinions": [
+        {
+            "author_str": "Mills",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Plaintiff demands of the railroad company the sum of $165, the value of a horse and mule killed by a motor-driven train of defendant's, on its tracks, at a point about three miles north of Rayville in Richland parish, at about 7 o'clock in the evening of the 9th day of November, 1931.\nThe right of way being unfenced, this case comes within the provisions of Act No. 70 of *Page 111 \n1886, which, after the proof of the killing or injury of stock by railroad companies, places upon them the burden of proving that it was not the result of fault or carelessness on their part, or the negligent or indifferent running or management of their locomotive or train.\nDefendant does not dispute the killing of, or the valuation placed on, the stock. Its engineer in charge of the train testifies that he was making about 40 miles per hour along a straight and level stretch of track; that he was keeping a careful lookout; that the night was clear, but at the place where the animals were struck smoke was hanging so thick that, though his headlight was in good condition and burning brightly, he could not see over 50 feet ahead of him; that he did not see the horse and mule until they jumped on the track within 30 feet of his engine; that he immediately blew the whistle, put out his headlight, cut off the power, and applied the brakes; that the mule got across and ran ahead of the train beside the tracks; that the horse started to run between the rails, but was struck and immediately killed after making four or five jumps; that he did not know at the time that the mule had been struck. From the nature of the injuries to its head and from hair found on the side of the engine, there is no doubt that the mule was struck, and that its eventual death was the result of the injuries received.\nThe engineer testifies further that the headlight casts a beam which lights the whole width of the right of way from telegraph poles on one side to the poles on the other, but that at a point 50 feet ahead it only illuminates about 10 feet on each side of the track. He would not deny that the stock was on the right of way as the train approached; his answers to questions along that line being: \"They were not on the track. I didn't say they were not on the right of way, I said right on the track. * * * No, sir, I didn't say wasn't on the right of way. When I seen them they were coming on the track; evidently they were on the right of way and in the ditch.\"\nThe ditch referred to was about waist deep and ran alongside of, and about 10 feet from, the tracks, between them and the telegraph poles.\nMr. Morgan, the plaintiff, testifies that he lives about a quarter from the track; that he heard the noise of the collision and from the front of his house saw the train stop and two or three men walking about; that there was no smoke, and that there had been no fire in that section.\nCharley Hunter, for plaintiff, testifies that he was walking down the track ahead of the train; that when he passed the horse and mule they were on the right of way between the ditch and the track; that he stopped at a crossing about 200 yards ahead of the stock to let the train pass him; that he looked back toward the approaching train and clearly saw the stock within the beam of the engine's headlight; that there was no fog or smoke, the night being fair; that the whistle blew and the train struck the animals simultaneously; that he thinks the whistle was blown for the crossing and not as a stock warning.\nE.M. Blaylock, a passenger on the train, testifies that he got down on the ground and walked around to see what had happened; that there was no fog or smoke and that, though a little cloudy, he would call it a clear night. A typewritten statement signed by him and made to a representative of the defendant contains the statement that there was some burning and some fire north of the point where the stock was hit, but that he did not notice any smoke when he alighted from the train.\nDisregarding the affirmative proof of plaintiff, the railroad company's defense, it being established that the stock was on the right of way as the train approached, depends entirely upon the statement of the engineer that the air was so heavy with smoke that he could not, even with the aid of his headlight, see 50 feet ahead of him. If no such smoky condition existed, he was plainly negligent either in not keeping a proper lookout, or in not seeing what he should have seen. The overwhelming preponderance of the testimony as shown above is that no such atmospheric condition existed. Therefore the defense fails.\nThe judgment appealed from granted plaintiff the full amount prayed for. It is correct, and is therefore affirmed.",
+            "ocr": false,
+            "opinion_id": 3475078
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

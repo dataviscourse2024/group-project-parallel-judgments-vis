@@ -1,8 +1,8 @@
 {
     "id": 7752004,
     "judges": "Benton, Ervin, Miner",
-    "date_filed": 803865600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-03-01",
+    "date_filed_is_approximate": true,
     "slug": "pare-v-state",
     "case_name_short": "Pare",
     "case_name": "Pare v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1310629,
     "judges": "Arnold, Hedrick, Vaughn",
-    "date_filed": 305251200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-08-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-holsclaw",
     "case_name_short": "Holsclaw",
     "case_name": "State v. Holsclaw",

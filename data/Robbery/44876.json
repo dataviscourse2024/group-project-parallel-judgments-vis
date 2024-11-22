@@ -1,8 +1,8 @@
 {
     "id": 8326052,
     "judges": "Burnett, Finney, Moore, Toal, Waller",
-    "date_filed": 900892800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-11-03",
+    "date_filed_is_approximate": true,
     "slug": "phillips-v-state",
     "case_name_short": "Phillips",
     "case_name": "Phillips v. State",

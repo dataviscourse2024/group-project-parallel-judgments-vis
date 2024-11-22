@@ -1,0 +1,47 @@
+{
+    "id": 3452363,
+    "judges": "Drury",
+    "date_filed": "2022-05-31",
+    "date_filed_is_approximate": true,
+    "slug": "litteral-v-commonwealth",
+    "case_name_short": "Litteral",
+    "case_name": "Litteral v. Commonwealth",
+    "case_name_full": "Litteral v. Commonwealth.",
+    "attorneys": "STEPHENS & STEELY for appellant., J. W. CAMMACK, Attorney General, and J. M. GILBERT, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Whitley Circuit Court.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b418-6\">\n    Litteral v. Commonweath.\n   </parties><br><decisiondate id=\"b418-7\">\n    (Decided March 2, 1928.)\n   </decisiondate><br><attorneys id=\"b418-14\">\n    STEPHENS &amp; STEELY for appellant.\n   </attorneys><br><attorneys id=\"b418-15\">\n    J. W. CAMMACK, Attorney General, and J. M. GILBERT, Assistant Attorney General, for appellee.\n   </attorneys>",
+    "citations": [
+        "3 S.W.2d 775",
+        "223 Ky. 402"
+    ],
+    "opinions": [
+        {
+            "author_str": "Drury",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Affirming.\nOn February 16, 1926, Charlie Litteral shot and killed Sherman Owens. He was indicted for murder and *Page 403 \non his trial under that indictment, which was begun on February 22, 1927, he was convicted of manslaughter, and his punishment fixed at confinement in the penitentiary for seven years. He sought a new trial upon seven grounds, which we shall discuss after briefly stating the facts. The deceased was by vocation a railway switchman and by avocation a bootlegger. On the day of the killing, nearly all the policemen of the city of Corbin were attending court at Williamsburg, in Whitley county. Owens, taking advantage of this occasion, seems to have become somewhat intoxicated, and then proceeded to terrorize the town. First he beat up a negro bootblack, and then tried to have a difficulty with one John Weaver, who had remonstrated with him for the abuse of the negro boy. Owens had a Studebaker automobile and was driving over the town, exceeding the speed limit, violating the traffic laws, and disregarding the stop signs. The one policeman who was on duty was unable to do anything with Owens. The defendant, Litteral, was a night policeman; but after citizens had complained to the mayor about the conduct of Owens, the mayor telephoned to Litteral's home and asked Litteral to come down and assist in controlling Owens. Litteral first found Owens on Depot street. He signaled to him to stop and Owens did so. He undertook to arrest him, but Owens cursed him, refused to go with him, and drove off and left him. Owens continued to run amuck and perhaps passed the officers a time or two, but finally they met him on Center street, about 20 or 30 feet east of the railroad track. He was then driving about 4 or 5 miles an hour, threading his way through the traffic. The officers walked out in the middle of the street and tried to stop him, and, according to them, he shook his head and said he was not going to stop and dropped his hands toward his gun, which they testify was on the seat beside him. Thereupon Litteral stepped back to avoid being struck by the car Owens was driving, pulled his pistol, and, as Owens was passing, he shot three times. One ball struck Owens near the left shoulder blade, and went through his body to the right nipple. Another ball struck him near the backbone, and went through his body to near the breastbone. It is not known which of the three shots inflicted these wounds, but the evidence would indicate it was the first two shots. Owens died immediately. *Page 404 \nLitteral's first ground for a new trial is directed to alleged errors of the court in instructing the jury, but we have examined the instructions given and are unable to find merit in his contention. The court told the jury in an elaborate instruction that Litteral had a right to arrest Owens and that it was the duty of Owens to peaceably submit to such arrest, and that, if Owens thereafter by force or violence, alarmed, disturbed, hindered, obstructed, or intimidated Litteral in the discharge of his duty by drawing his pistol on him or attempting to do so, Litteral then had the right to arrest him and to use such force as was reasonably necessary for that purpose, even to the shooting and killing of Owens. This and the other instructions given fully presented the law applicable to the case.\nHis second and third grounds are addressed to alleged errors in the admission and rejection of evidence; but we have examined the record carefully and we find it remarkably free from such errors, and he himself has not pointed out any.\nHis fourth ground for reversal is that the court erred in overruling his motion for continuance. The record shows that he did make a motion for a continuance, and filed an affidavit in support of it, but neither the motion nor the affidavit are before us, and in their absence, the presumption in favor of the correctness of the court's action must prevail.\nHis fifth and sixth grounds are addressed to alleged misconduct of the jury, but he has not set out in his bill of exceptions just what this alleged misconduct was. Before a convicted defendant can avail himself of an error consisting of alleged misconduct of judge, jury, or commonwealth's attorney, he must set forth in his bill of exceptions the facts constituting the alleged misconduct of which he is complaining. We have often announced this rule, and in the case of Hopkins v. Commonwealth, 210 Ky. 378, 275 S.W. 881, we gave our reasons for its adoption.\nHis seventh ground is that the verdict is flagrantly and palpably against the law and the evidence, but we find no merit in it. Peace and order are desirable, but life is precious, and, when once it is taken, it cannot be restored. Unquestionably this man should have been arrested, but the jury found the force used under the circumstances was greater than the law permits. Whether or not Litteral was at the time he shot Owens in any *Page 405 \ndanger of death, or of great bodily harm at the hands of Owens, and whether or not Owens was then attempting by force or violence to alarm, disturb, hinder, obstruct, or intimidate Litteral in the discharge of his duty were questions for the jury, submitted to it under proper instructions, and we see no reason to disturb the finding.\nThe judgment is affirmed.",
+            "ocr": false,
+            "opinion_id": 3450487
+        }
+    ],
+    "court_short_name": "Court of Appeals of Kentucky (pre-1976)",
+    "court_full_name": "Court of Appeals of Kentucky (pre-1976)",
+    "court_type": "S",
+    "court_jurisdiction": "Kentucky, KY",
+    "crime_category": "Murder"
+}

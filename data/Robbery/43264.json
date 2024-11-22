@@ -1,8 +1,8 @@
 {
     "id": 8003386,
     "judges": "Burns, Fitzgerald, Holbrook",
-    "date_filed": 65318400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-04-26",
+    "date_filed_is_approximate": true,
     "slug": "people-v-evans",
     "case_name_short": "Evans",
     "case_name": "People v. Evans",

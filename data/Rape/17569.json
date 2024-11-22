@@ -1,8 +1,8 @@
 {
     "id": 2232395,
     "judges": "McGILLICUDDY",
-    "date_filed": 512611200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-10-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-davis",
     "case_name_short": "Davis",
     "case_name": "People v. Davis",

@@ -1,8 +1,8 @@
 {
     "id": 5793268,
     "judges": "Blackburn",
-    "date_filed": 884822400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-08-01",
+    "date_filed_is_approximate": true,
     "slug": "kulkov-v-botvinik",
     "case_name_short": "Kulkov",
     "case_name": "Kulkov v. Botvinik",

@@ -1,8 +1,8 @@
 {
     "id": 1442454,
     "judges": "Forrest",
-    "date_filed": 661046400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-04-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-bacotgarcia",
     "case_name_short": "Bacotgarcia",
     "case_name": "State v. Bacotgarcia",

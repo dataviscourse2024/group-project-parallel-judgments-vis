@@ -1,8 +1,8 @@
 {
     "id": 1761801,
     "judges": "Beilfuss",
-    "date_filed": 36720000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-11-20",
+    "date_filed_is_approximate": true,
     "slug": "elam-v-state",
     "case_name_short": "Elam",
     "case_name": "Elam v. State",

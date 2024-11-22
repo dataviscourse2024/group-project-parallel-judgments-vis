@@ -1,8 +1,8 @@
 {
     "id": 1836199,
     "judges": "Dixon",
-    "date_filed": 140054400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-08-26",
+    "date_filed_is_approximate": true,
     "slug": "state-v-white",
     "case_name_short": "White",
     "case_name": "State v. White",

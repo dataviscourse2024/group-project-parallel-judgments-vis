@@ -1,8 +1,8 @@
 {
     "id": 1472784,
     "judges": "Lavenski R. Smith",
-    "date_filed": 932601600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-09-09",
+    "date_filed_is_approximate": true,
     "slug": "ford-v-keith",
     "case_name_short": "Ford",
     "case_name": "Ford v. Keith",

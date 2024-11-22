@@ -1,8 +1,8 @@
 {
     "id": 1763114,
     "judges": "Alan M. Blankenship",
-    "date_filed": 1267142400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-05-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jenkins",
     "case_name_short": "Jenkins",
     "case_name": "State v. Jenkins",

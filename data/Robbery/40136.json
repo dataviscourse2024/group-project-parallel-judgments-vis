@@ -1,8 +1,8 @@
 {
     "id": 7362681,
     "judges": null,
-    "date_filed": -1469836800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-12-24",
+    "date_filed_is_approximate": true,
     "slug": "norris-v-alliance-insurance",
     "case_name_short": "Norris",
     "case_name": "Norris v. Alliance Insurance",

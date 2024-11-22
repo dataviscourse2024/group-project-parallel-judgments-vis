@@ -1,8 +1,8 @@
 {
     "id": 4252212,
     "judges": null,
-    "date_filed": 1472428800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-12-21",
+    "date_filed_is_approximate": true,
     "slug": "com-v-pringle-m",
     "case_name_short": "Com.",
     "case_name": "Com. v. Pringle, M.",

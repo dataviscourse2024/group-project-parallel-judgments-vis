@@ -1,8 +1,8 @@
 {
     "id": 1732148,
     "judges": "Tom G. Davis, McCormick and Teague",
-    "date_filed": 353721600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-09-09",
+    "date_filed_is_approximate": true,
     "slug": "cuellar-v-state",
     "case_name_short": "Cuellar",
     "case_name": "Cuellar v. State",

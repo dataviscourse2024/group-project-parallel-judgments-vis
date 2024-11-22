@@ -1,8 +1,8 @@
 {
     "id": 6933476,
     "judges": "Benton",
-    "date_filed": 1038268800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-06-18",
+    "date_filed_is_approximate": true,
     "slug": "jones-v-commonwealth",
     "case_name_short": "Jones",
     "case_name": "Jones v. Commonwealth",

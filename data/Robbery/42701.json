@@ -1,8 +1,8 @@
 {
     "id": 7892735,
     "judges": "Santaniello",
-    "date_filed": 542937600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-11-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-foster",
     "case_name_short": "Foster",
     "case_name": "State v. Foster",

@@ -1,0 +1,46 @@
+{
+    "id": 5180009,
+    "judges": "Martin",
+    "date_filed": "1984-01-19",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-moore",
+    "case_name_short": "Ex parte Moore",
+    "case_name": "Ex parte Moore",
+    "case_name_full": "Ex parte MOORE",
+    "attorneys": "Karl Mueller and Otis Rogers, both of Fort Worth, for appellant., A. A. Dawson, State\u2019s Atty., of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "20 S.W.2d 1060"
+    ],
+    "opinions": [
+        {
+            "author_str": "Martin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMARTIN, J.\nRelator was indicted for the offense of murder. In a habeas corpus hearing relator was remanded without bail to the custody of' the sheriff of Tarrant county, from which order he appeals to this court.\nA couple of negroes in a Chevrolet roadster had attempted to run over a bicycle officer in the city of Fort Worth. The number and description of their car was turned in to police headquarters. The police officers were instructed to pick this car up. A car fitting its description passed a few nights after this and officers gave chase to it, overtaking it a short distance away, where it was parked near the curb. Two negro men and a negro woman were its occupants. The driver denied that they had tried to run over the bicycle officer, but admitted the car\u2019s ownership. The car bore the same number as the car for which officers were looking. One of the officers told them to get out and, \u201cLet\u2019s see what they had on them.\u201d While the driver was \u25a0 being searched, appellant attempted to escape from deceased. Asked to not run away until they were searched, the relator shot deceased with a pistol and killed him. He fled, was arrested in Chicago about a year later, and returned.\nWe do not analyze or express an opinion as to the testimony for obvious reasons; but under well-known rules, not necessary here to restate, we are of the opinion that the trial court\u2019s judgment was correct, and the same is accordingly affirmed.\nPER CURIAM. The foregoing opinion of the Commission of Appeals has been examined by the judges of the Court of Criminal Appeals and approved by the court.\n",
+            "ocr": true,
+            "opinion_id": 5001709
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

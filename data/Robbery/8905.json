@@ -1,8 +1,8 @@
 {
     "id": 1217410,
     "judges": "Banke, Birdsong, Cooper",
-    "date_filed": 667008000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-10-13",
+    "date_filed_is_approximate": true,
     "slug": "talbot-v-state",
     "case_name_short": "Talbot",
     "case_name": "Talbot v. State",

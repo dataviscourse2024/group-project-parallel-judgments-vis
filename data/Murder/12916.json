@@ -1,8 +1,8 @@
 {
     "id": 1060572,
     "judges": "Justice William M. Barker",
-    "date_filed": 962841600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-10-28",
+    "date_filed_is_approximate": true,
     "slug": "state-v-howard",
     "case_name_short": "Howard",
     "case_name": "State v. Howard",

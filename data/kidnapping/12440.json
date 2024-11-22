@@ -1,8 +1,8 @@
 {
     "id": 1462822,
     "judges": "Thompson, Lowe and Liss",
-    "date_filed": 293155200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-06-08",
+    "date_filed_is_approximate": true,
     "slug": "harris-v-state",
     "case_name_short": "Harris",
     "case_name": "Harris v. State",

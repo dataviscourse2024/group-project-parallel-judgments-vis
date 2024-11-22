@@ -1,8 +1,8 @@
 {
     "id": 1233525,
     "judges": "Andrews, Mikell, Phipps",
-    "date_filed": 1029801600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-03-04",
+    "date_filed_is_approximate": true,
     "slug": "paul-v-state",
     "case_name_short": "Paul",
     "case_name": "Paul v. State",

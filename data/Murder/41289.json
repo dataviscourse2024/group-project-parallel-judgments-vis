@@ -1,0 +1,46 @@
+{
+    "id": 7597306,
+    "judges": "Hendry, Jorgenson, Pearson",
+    "date_filed": "1996-02-08",
+    "date_filed_is_approximate": true,
+    "slug": "garmon-v-state",
+    "case_name_short": "Garmon",
+    "case_name": "Garmon v. State",
+    "case_name_full": "Ronald GARMON v. The STATE of Florida",
+    "attorneys": "Bennett H. Brummer, Public Defender, and Clinton J. Pitts, Sp. Asst. Public Defender, for appellant., Jim Smith, Atty. Gen., and Michael J. Neimand, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "434 So. 2d 1036"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nRonald Garmon was charged by indictment with first degree murder and attempted armed robbery. A jury found him guilty as charged. He was adjudicated guilty and sentenced to life imprisonment without parole for twenty five years on the murder charge. He was sentenced to a consecutive fifteen year prison sentence, with a three year minimum mandatory provision, on the armed robbery count.\nOne of Garmon\u2019s points on appeal is whether the trial court erred in sentencing him for first degree murder and for attempted robbery. It is his contention that the evidence shows that his conviction had to be based on felony murder rather than premeditated murder, therefore the trial judge erred in imposing sentences for murder and attempted robbery. We cannot agree.\nThere are ample facts and circumstances in the record to support the conclusion that the defendant formed the intent to kill any person who interfered with his planned burglary. The evidence on this point is conclusive. Therefore the trial judge did not err in sentencing the defendant for first degree murder and for the attempted robbery. State v. Cantrell, 417 So.2d 260 (Fla.1982); Borges v. State, 415 So.2d 1265 (Fla.1982); Hill v. State, 133 So.2d 68, 72 (Fla.1961); Knight v. State, 374 So.2d 1065 (Fla. 3d DCA 1979), cert. denied, 386 So.2d 642 (Fla.1980); sec. 775.021(4), Fla.Stat. (1981).\nWe have considered appellant\u2019s other points and find them to be without merit. For the reasons stated, appellant\u2019s convictions and sentences are affirmed.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7526966
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 7610619,
     "judges": "Chehardy, Du, Fresne, Gaudin",
-    "date_filed": 482371200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-09-12",
+    "date_filed_is_approximate": true,
     "slug": "state-v-stewart",
     "case_name_short": "Stewart",
     "case_name": "State v. Stewart",

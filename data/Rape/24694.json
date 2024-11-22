@@ -1,0 +1,47 @@
+{
+    "id": 4181228,
+    "judges": "Prendergast",
+    "date_filed": "2006-11-27",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-ellis",
+    "case_name_short": "Ex Parte Ellis",
+    "case_name": "Ex Parte Ellis",
+    "case_name_full": "Ex Parte Harry Ellis.",
+    "attorneys": "No brief on file for relator.\n\n E.B. Hendricks,  Assistant Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": "From Fayette County.\n\nOriginal habeas corpus proceeding asking release from arrest under a conviction in the District Court as a delinquent child.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": "<p>1.\u2014Delinquent Child\u2014Habeas Corpus\u2014Pleading\u2014Practice on Appeal.</p> <p>Where relator was indicted in the District Court for assault with intent \u201cto rape and upon proper affidavit and proof showed that he was under seventeen years of age, whereupon the court dismissed the ease from the docket of the District Court and transferred the same to the juvenile docket of the court, and then tried him upon the original indictment without complaint and information first being filed, the same is reversible error. Hollowing Miller v. State recently decided and other cases, However, tile relator may be held for further proceedings by complaint and information.</p>",
+    "summary": "From Payette County. Original habeas corpus proceeding, asking release from arrest under a conviction in the District Court as a delinquent child.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b673-4\">\n    Ex Parte Harry Ellis.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b673-5\">\n    No. 4898.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AyXs\">\n    Decided January 30, 1918.\n   </decisiondate><br><headnotes data-order=\"3\" data-type=\"headnotes\" id=\"b673-6\">\n    1.\u2014Delinquent Child\u2014Habeas Corpus\u2014Pleading\u2014Practice on Appeal.\n   </headnotes><br><headnotes data-order=\"4\" data-type=\"headnotes\" id=\"b673-7\">\n    Where relator was indicted in the District Court for assault with intent \u201cto rape and upon proper affidavit and proof showed that he was under seventeen years of age, whereupon the court dismissed the ease from the docket of the District Court and transferred the same to the juvenile docket of the court, and then tried him upon the original indictment without complaint and information first being filed, the same is reversible error. Hollowing Miller v. State recently decided and other cases, However, tile relator may be held for further proceedings by complaint and information.\n   </headnotes><br><summary data-order=\"5\" data-type=\"summary\" id=\"b673-8\">\n    From Payette County.\n   </summary><br><summary data-order=\"6\" data-type=\"summary\" id=\"b673-9\">\n    Original habeas corpus proceeding, asking release from arrest under a conviction in the District Court as a delinquent child.\n   </summary><br><p data-order=\"7\" data-type=\"misc\" id=\"b673-10\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"8\" data-type=\"attorneys\" id=\"b673-11\">\n    No brief on file for relator.\n   </attorneys><br><attorneys data-order=\"9\" data-type=\"attorneys\" id=\"b673-12\">\n<em>\n     E. B. Hendricks,\n    </em>\n    Assistant Attorney General, for the State.\n   </attorneys>",
+    "citations": [
+        "200 S.W. 840",
+        "82 Tex. Crim. 641"
+    ],
+    "opinions": [
+        {
+            "author_str": "Prendergast",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The application for writ of habeas corpus herein and the agreed facts show that relator was duly indicted by a grand jury of said county for assault with intent to rape &#8212; a felony; that when the cause came on for trial he filed proper affidavit alleging that he was under seventeen years of age. The court heard the evidence thereon and found that he was under that age. He thereupon ordered the cause dismissed from the docket of the District Court and transferred it to the juvenile docket of that court. The court then on the indictment alone, without any complaint or information, tried him as a delinquent, found him guilty and adjudged that he be duly conveyed to the industrial school for boys at Gatesville and confined therein not less than two years nor more than five, and not after he reached the age of twenty-one years.\nThe statute for the prosecution and conviction of delinquents has already been construed by this court holding that when an indictment for felony is dismissed that the accused can not be tried thereunder as a delinquent, but that it is necessary that a complaint and information be filed against him and that he can not be legally tried and convicted without a complaint and information. These decisions are adhered to and followed. Ex parte Ramseur, 81 Tex.Crim. Rep.; Ex parte Medrano,81 Tex. Crim. 388. However, special attention is here called to Miller v. State, 82 Tex.Crim. Rep..\nIt, therefore, necessarily follows that the writ of habeas corpus is granted by this court, and it is ordered that he be no longer restrained by reason of said proceeding and discharged from custody. This order, however, will not preclude holding him by the proper authorities on *Page 642 \nany proper complaint and information that may be filed against him.\nWrit of habeas corpus granted. Relator discharged.\nRelator discharged.",
+            "ocr": false,
+            "opinion_id": 3949784
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Rape"
+}

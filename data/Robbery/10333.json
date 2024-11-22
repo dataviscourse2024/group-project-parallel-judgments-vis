@@ -1,8 +1,8 @@
 {
     "id": 105826,
     "judges": "Clark, Douglas, Frankfurter, Harlan, Stewart, Whittaker",
-    "date_filed": -342489600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-03-10",
+    "date_filed_is_approximate": true,
     "slug": "heflin-v-united-states",
     "case_name_short": "Heflin",
     "case_name": "Heflin v. United States",

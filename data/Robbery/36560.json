@@ -1,8 +1,8 @@
 {
     "id": 6670679,
     "judges": "Wood",
-    "date_filed": -1830384000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-08-27",
+    "date_filed_is_approximate": true,
     "slug": "walders-v-state",
     "case_name_short": "Walders",
     "case_name": "Walders v. State",

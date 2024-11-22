@@ -1,8 +1,8 @@
 {
     "id": 1352255,
     "judges": "Graber",
-    "date_filed": 662860800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-11-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-stockfleth",
     "case_name_short": "Stockfleth",
     "case_name": "State v. Stockfleth",

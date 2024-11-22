@@ -1,8 +1,8 @@
 {
     "id": 1264634,
     "judges": "Bell, Quillian, Whitman",
-    "date_filed": 12787200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-01-29",
+    "date_filed_is_approximate": true,
     "slug": "brown-v-state",
     "case_name_short": "Brown",
     "case_name": "Brown v. State",

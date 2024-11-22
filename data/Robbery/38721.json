@@ -1,8 +1,8 @@
 {
     "id": 7076745,
     "judges": "Deyoung",
-    "date_filed": -1425686400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-11-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mccarthy",
     "case_name_short": "McCarthy",
     "case_name": "People v. McCarthy",

@@ -1,8 +1,8 @@
 {
     "id": 7822208,
     "judges": "Bridges, Chandler, Griffis, Irving, King, Lee, McMillin, Myers, Southwick, Thomas",
-    "date_filed": 1073347200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-05-17",
+    "date_filed_is_approximate": true,
     "slug": "davis-v-state",
     "case_name_short": "Davis",
     "case_name": "Davis v. State",

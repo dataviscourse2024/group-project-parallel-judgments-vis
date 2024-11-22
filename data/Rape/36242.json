@@ -1,0 +1,47 @@
+{
+    "id": 6600689,
+    "judges": "Cameron, Gordon, Hays, Holohan, Struckmeyer",
+    "date_filed": "1984-06-17",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-stinson",
+    "case_name_short": "Stinson",
+    "case_name": "State v. Stinson",
+    "case_name_full": "STATE of Arizona v. Garnet STINSON",
+    "attorneys": "N. Warner Lee, Atty. Gen., by Teresa S. Thayer, Asst. Atty. Gen., Phoenix, for appellee., Jim D. Smith, Yuma, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "112 Ariz. 147",
+        "539 P.2d 904"
+    ],
+    "opinions": [
+        {
+            "author_str": "Struckmeyer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSTRUCKMEYER, Vice Chief Justice.\nAppellant was convicted in 1968 of child molestation, a violation of A.R.S. \u00a7 13-653. He was sentenced to imprisonment in the Arizona State Prison at Florence, Arizona for a term of not less than five years nor more than life. On appeal, this Court affirmed. See State v. Stinson, 105 Ariz. 174, 461 P.2d 472 (1969). Thereafter, on habeas corpus to the United States District Court, the district court ordered that appellant be resentenced without regard to or reliance upon certain prior Kentucky and California convictions. Stinson v. Gomes, Civ. 72-431, October 13, 1972. On return to the Superior Court of Yuma County, the trial judge imposed the same sentence, and appellant has now appealed on the basis that the superior court treated the resentencing order of the United States District Court in effect as a nullity.\nIt is urged that the mandate of the federal district court was ignored and that, in effect, the superior court delegated the responsibility of resentencing appellant to the Arizona Board of Pardons and Paroles.\nThe superior court judge at the time of resentencing, among other things, stated:\n\u201c * * * there are really three alternatives legally possible in this case. I can grant this defendant a probationary sentence right at this time and permit him to walk out of the court room under that probationary sentence. I can cut the maximum sentence, I have no power over the minimum and I certainly don\u2019t desire it. This man has served his minimum sentence, he has become eligible for parole, and I would not strike that down if I could. The next alternative is to fix a term of years as a maximum sentence which would mean that while the parole board would have the power to release this defendant from prison at any time before that maximum sentence ran out, it would also mean that if the board did not see fit to do so that the hour would strike at sometime in the future near or distant, depending on what I did, when Mr. Stinson would walk out absolutely a. free man without restrictions of any kind. The other alternative that remains is for me to pronounce the same sentence that I pronounced in this room five and one half years ago and leave it entirely in the hands of the Board of Pardons and Paroles the question of the release of this man. Gentlemen, those are very grave responsibilities. I can only tell you, and I want all within the sound of my voice to know it, that this has had very careful thought on my part. This is my considered judgment.\u201d\nWe do not think the record can be interpreted as a delegation of the court\u2019s sentencing responsibility. The record demonstrates that the court appreciated its sentencing alternatives. It felt that a maximum sentence would mean that appellant \u201cwould walk out absolutely a free man without restrictions of any kind\u201d at the end of that term. Reluctant to cause such a release, the court set life imprisonment as the maximum sentence but, at the same time, did not wish to interfere with the possibility of parole. It is in that context that the court made the statement objected *149to and, in that context, the sentence is not objectionable.\nAppellant next asserts that the spirit of North Carolina v. Pearce, 395 U. S. 711, 89 S.Ct. 2072, 23 L.Ed.2d 656 (1969) was violated. He argues that the trial court ignored the federal court order and thereby discouraged obtaining post-conviction relief, contrary to Pearce, supra. We disagree. Appellant\u2019s counsel specifically clarified the significance of the order with the sentencing judge and the record demonstrates an understanding and abidance with that ruling:\n\u201c[Attorney for Appellant]: Basically let me outline first so that we have the ground rules established here. First, I have read that order at length that came down from the District Court and the judgment of affirmant up in the Circuit Court of Appeals, but it is my understanding from the order that the Court has ordered to resentence this man without regard to the prior conviction that was in Kentucky, but that the Court could consider the medical records that are on file here from the State of California. Now, is that the Court\u2019s understanding ?\nTHE COURT: It is, and also the Court may still consider the conviction in either Virginia or West Virginia, which is of older vintage, but which still exists, and whose validity has never been challenged as far as I know.\u201d\nAppellant also contends that the identical sentence with additional mitigating evidence having been presented at the resentencing hearing is, in effect, a more severe punishment, prohibited by Pearce, supra. This argument is without merit. The comparative severity of the punishment depends on the difference in terms of imprisonment, State v. Gantt, 108 Ariz. 92, 94, 492 P.2d 1199, 1201 (1972), not on the evidence introduced. Appellant\u2019s argument is better classified as one of excessive sentence.\nWe have repeatedly held that -a sentence will not be upset if it is within the statutory limitations and there is no clear abuse of discretion by the judge. See e. g., State v. Carpenter, 105 Ariz. 504, 506, 467 P.2d 749, 751 (1970). The trial court considered, among other evidence, appellant\u2019s prior Virginia attempted rape conviction, his California medical records, and the seriousness of the present conviction.\nAppellant refers to a letter and report from the Arizona State Prison psychiatrist as the most persuasive mitigating evidence, yet it states that appellant still suffers feelings of \u201cfear of adult women\u201d and \u201csuperior[ity] to children,\u201d and warns of recidivism. The sentence imposed is within the statutory limitations and, faced with such evidence, it cannot be said that the court abused its discretion.\nJudgment affirmed.\nCAMERON, C. J., and HAYS, HOLOHAN and GORDON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6476139
+        }
+    ],
+    "court_short_name": "Arizona Supreme Court",
+    "court_full_name": "Arizona Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Arizona, AZ",
+    "crime_category": "Rape"
+}

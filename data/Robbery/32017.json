@@ -1,8 +1,8 @@
 {
     "id": 5745977,
     "judges": "Hill",
-    "date_filed": 420249600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-05-11",
+    "date_filed_is_approximate": true,
     "slug": "horton-v-wilkes",
     "case_name_short": "Horton",
     "case_name": "Horton v. Wilkes",

@@ -1,8 +1,8 @@
 {
     "id": 7910435,
     "judges": "Spear",
-    "date_filed": 965692800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-12-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-austin",
     "case_name_short": null,
     "case_name": "State v. Austin",

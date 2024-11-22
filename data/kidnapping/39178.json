@@ -1,8 +1,8 @@
 {
     "id": 7161936,
     "judges": "Robertson",
-    "date_filed": 245548800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-08-09",
+    "date_filed_is_approximate": true,
     "slug": "stewart-v-state",
     "case_name_short": "Stewart",
     "case_name": "Stewart v. State",

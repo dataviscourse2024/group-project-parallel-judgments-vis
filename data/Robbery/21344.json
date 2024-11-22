@@ -1,8 +1,8 @@
 {
     "id": 3140524,
     "judges": null,
-    "date_filed": 1072656000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-04-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rathbone",
     "case_name_short": "Rathbone",
     "case_name": "People v. Rathbone",

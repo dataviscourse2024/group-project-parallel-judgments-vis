@@ -1,8 +1,8 @@
 {
     "id": 4883175,
     "judges": null,
-    "date_filed": 1620950400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-10-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-harris",
     "case_name_short": "Harris",
     "case_name": "State v. Harris",

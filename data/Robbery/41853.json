@@ -1,8 +1,8 @@
 {
     "id": 7713774,
     "judges": "Chehardy",
-    "date_filed": 1558483200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-07-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-parks",
     "case_name_short": "Parks",
     "case_name": "State v. Parks",

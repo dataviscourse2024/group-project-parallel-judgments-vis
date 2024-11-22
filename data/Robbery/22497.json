@@ -1,8 +1,8 @@
 {
     "id": 3429470,
     "judges": "Willoughby",
-    "date_filed": -1414195200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-06-01",
+    "date_filed_is_approximate": true,
     "slug": "bowers-v-state",
     "case_name_short": "Bowers",
     "case_name": "Bowers v. State",

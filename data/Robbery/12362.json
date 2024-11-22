@@ -1,8 +1,8 @@
 {
     "id": 1449736,
     "judges": "Cain, Cottrell, Koch, Patricia, William",
-    "date_filed": 1052697600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-03-11",
+    "date_filed_is_approximate": true,
     "slug": "hessmer-v-miranda",
     "case_name_short": "Hessmer",
     "case_name": "Hessmer v. Miranda",

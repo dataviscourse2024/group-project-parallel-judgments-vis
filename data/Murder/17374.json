@@ -1,8 +1,8 @@
 {
     "id": 2238100,
     "judges": "Brown, Fine, Greenberg",
-    "date_filed": 686793600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-06-24",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-paton",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Paton",

@@ -1,8 +1,8 @@
 {
     "id": 2042506,
     "judges": "Garrard, Hoffman, III, Issue I, Issues II, Staton",
-    "date_filed": 349488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-09-05",
+    "date_filed_is_approximate": true,
     "slug": "groff-v-state",
     "case_name_short": "Groff",
     "case_name": "Groff v. State",

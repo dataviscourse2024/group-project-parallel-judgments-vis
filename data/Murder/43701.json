@@ -1,0 +1,47 @@
+{
+    "id": 8083973,
+    "judges": null,
+    "date_filed": "1992-05-05",
+    "date_filed_is_approximate": true,
+    "slug": "bell-v-sheriff",
+    "case_name_short": "Sheriff",
+    "case_name": "Bell v. Sheriff",
+    "case_name_full": "STERLING BELL v. SHERIFF, CLARK COUNTY, NEVADA",
+    "attorneys": "Raymond E. Sutton, of Las Vegas, for Appellant., Robert List, Attorney General, Carson City; Roy A. Woofter, District Attorney, and Lawrence R. Leavitt, Deputy District Attorney, Clark County, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "89 Nev. 214",
+        "510 P.2d 293"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\n\nPer Curiam:\n\nAppellant\u2019s sole contention in this appeal from the denial of pre-trial habeas relief is that the evidence adduced at the preliminary examination was insufficient to establish probable cause to order him to stand trial for murder. The contention is without merit. NRS 171.206. See Miner v. Lamb, 86 Nev. 54, 464 P.2d 451 (1970).\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 8043688
+        }
+    ],
+    "court_short_name": "Nevada Supreme Court",
+    "court_full_name": "Nevada Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nevada, NV",
+    "crime_category": "Murder"
+}

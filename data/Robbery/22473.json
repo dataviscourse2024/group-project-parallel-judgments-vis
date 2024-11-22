@@ -1,8 +1,8 @@
 {
     "id": 3424205,
     "judges": "O'Malley",
-    "date_filed": -762912000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-08-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-richardson",
     "case_name_short": null,
     "case_name": "State v. Richardson",

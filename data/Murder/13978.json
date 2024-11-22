@@ -1,8 +1,8 @@
 {
     "id": 1050802,
     "judges": "Judge Jerry L. Smith",
-    "date_filed": 1265846400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-12-18",
+    "date_filed_is_approximate": true,
     "slug": "state-of-tennessee-v-nathaniel-richardson",
     "case_name_short": null,
     "case_name": "State of Tennessee v. Nathaniel Richardson",

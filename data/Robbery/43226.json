@@ -1,8 +1,8 @@
 {
     "id": 7998117,
     "judges": "Bird, Clark, McDonald, Moore, Sharpe, Steere, Wiest",
-    "date_filed": -1488412800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-09-17",
+    "date_filed_is_approximate": true,
     "slug": "people-v-case",
     "case_name_short": "Case",
     "case_name": "People v. Case",

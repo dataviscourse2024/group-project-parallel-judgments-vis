@@ -1,8 +1,8 @@
 {
     "id": 1271372,
     "judges": "Kelly, Kirshbaum, Sternberg",
-    "date_filed": 353203200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-10-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-green",
     "case_name_short": "Green",
     "case_name": "People v. Green",

@@ -1,8 +1,8 @@
 {
     "id": 1275366,
     "judges": "Durham, HOWE's, Howe, Russon, Stewart, Zimmerman",
-    "date_filed": 893376000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-03-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-powell",
     "case_name_short": "Powell",
     "case_name": "State v. Powell",

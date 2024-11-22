@@ -1,8 +1,8 @@
 {
     "id": 1744294,
     "judges": "Pickett",
-    "date_filed": 969408000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-06-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-filer",
     "case_name_short": "Filer",
     "case_name": "State v. Filer",

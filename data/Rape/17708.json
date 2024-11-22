@@ -1,8 +1,8 @@
 {
     "id": 1274154,
     "judges": "Goodwin, Lusk, McAllister, O'Connell, Perry, Rossman, Sloan",
-    "date_filed": -177292800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-10-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-schwensen",
     "case_name_short": "Schwensen",
     "case_name": "State v. Schwensen",

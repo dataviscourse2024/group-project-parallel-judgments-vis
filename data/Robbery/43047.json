@@ -1,8 +1,8 @@
 {
     "id": 7959994,
     "judges": "Harvey, Sloan, That",
-    "date_filed": -1169510400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-12-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-alcorn",
     "case_name_short": "Alcorn",
     "case_name": "State v. Alcorn",

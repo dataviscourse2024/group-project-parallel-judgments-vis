@@ -1,8 +1,8 @@
 {
     "id": 2304278,
     "judges": "Campbell",
-    "date_filed": 1071878400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-02-24",
+    "date_filed_is_approximate": true,
     "slug": "american-family-mutual-insurance-v-zavala",
     "case_name_short": "Zavala",
     "case_name": "American Family Mutual Insurance v. Zavala",

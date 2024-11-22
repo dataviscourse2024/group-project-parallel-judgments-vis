@@ -1,0 +1,46 @@
+{
+    "id": 2689298,
+    "judges": "Klingensmith, Levine, Per Curiam, Warner",
+    "date_filed": "2006-10-29",
+    "date_filed_is_approximate": true,
+    "slug": "diego-puertas-oliva-v-state",
+    "case_name_short": null,
+    "case_name": "Diego Puertas Oliva v. State",
+    "case_name_full": "Diego Puertas OLIVA, Appellant, v. STATE of Florida, Appellee",
+    "attorneys": "Michelle Walsh of Michelle Walsh, P.A., Miami, for appellant., Pamela Jo Bondi, Attorney General, Tallahassee, and Georgina Jimenez-Orosa, Assistant Attorney General, West Palm Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b997-9\">\n    Diego Puertas OLIVA, Appellant, v. STATE of Florida, Appellee.\n   </parties><br><docketnumber id=\"b997-12\">\n    No. 4D13-3789.\n   </docketnumber><br><court id=\"b997-13\">\n    District Court of Appeal of Florida, Fourth District.\n   </court><br><decisiondate id=\"b997-14\">\n    July 23, 2014.\n   </decisiondate><br><attorneys id=\"b997-20\">\n    Michelle Walsh of Michelle Walsh, P.A., Miami, for appellant.\n   </attorneys><br><attorneys id=\"b997-21\">\n    Pamela Jo Bondi, Attorney General, Tallahassee, and Georgina Jimenez-Orosa, Assistant Attorney General, West Palm Beach, for appellee.\n   </attorneys>",
+    "citations": [
+        "142 So. 3d 973"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": 2.0,
+            "download_url": "http://www.4dca.org/opinions/July 2014/07-23-14/4D13-3789.op.pdf",
+            "author_id": null,
+            "opinion_text": "       DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA\n                             FOURTH DISTRICT\n                              July Term 2014\n\n                        DIEGO PUERTAS OLIVA,\n                              Appellant,\n\n                                    v.\n\n                          STATE OF FLORIDA,\n                               Appellee.\n\n                             No. 4D13-3789\n\n                             [July 23, 2014]\n\n   Appeal of order denying rule 3.850 motion from the Circuit Court for\nthe Seventeenth Judicial Circuit, Broward County; Michael Robinson,\nJudge; L.T. Case No. 08-8322 CF10A.\n\n   Michelle Walsh of Michelle Walsh, P.A., Miami, for appellant.\n\n   Pamela Jo Bondi, Attorney General, Tallahassee, and Georgina\nJimenez-Orosa, Assistant Attorney General, West Palm Beach, for\nappellee.\n\nPER CURIAM.\n\n  Diego Puertas Oliva appeals the summary denial of his rule 3.850\npostconviction motion. See Fla. R. Crim. P. 3.850. While we affirm the\ndenial of ground two without comment, the record does not conclusively\nrefute ground one, that counsel was ineffective in failing to advise him of\nhis potential sentencing exposure.\n\n  Oliva was initially charged with DUI Manslaughter/Unlawful Blood\nAlcohol Level, DUI Manslaughter/Impairment, Vehicular Homicide, DUI\nwith Property Damage, and Failure to Obey a Law Enforcement Officer.\nOliva alleges that he entered into a negotiated no contest plea to DUI\nManslaughter/Impairment and DUI with Property Damage whereby the\nstate agreed to nolle prosse several of the counts and also cap his prison\nsentence at the bottom of the guidelines, which was 124.65 months, if\nOliva pled open. Counsel advised him that he could also seek a downward\ndeparture. At no time, states Oliva, was he informed of the possibility of\nprobation in addition to the agreed-upon cap. The court ultimately\n\fsentenced him to 124.65 months imprisonment, for DUI Manslaughter,\nwith a 4-year mandatory minimum, to be followed by 4.5 years\u2019 probation.\n\n  At issue is Oliva\u2019s claim that he was not advised of the possibility that he\ncould receive probation in addition to the maximum agreed-upon prison\nsentence. He relies upon Eggers v. State, 624 So. 2d 336 (Fla. 1st DCA\n1993), for the proposition that a defendant is entitled to relief when not\ninformed of the probationary component to a sentence when entering a\nplea. The state, however, urges this court to affirm based upon this being\nan open plea. At all times during the plea hearing and subsequent\nproceedings, the agreement was referred to as an open plea. Oliva,\nhowever, argues that it was a hybrid plea based upon the agreed\nsentencing cap, his opportunity to file a downward departure motion, and\nthe state\u2019s having nolle prossed two charges. Although he was unsure how\nmuch time the court would choose to impose, his understanding was that\nit would not exceed 124.65 months pursuant to the agreement. In other\nwords, it was \u201copen\u201d in the sense that the court could consider something\nless than the cap. Probation was not discussed on the record until the\nday of sentencing.\n\n  Because the record before us does not refute Oliva\u2019s understanding that\nhis maximum sentencing exposure, including probation, could not exceed\n124.65 months based upon the agreed-upon sentencing cap, we reverse\nand remand for the trial court to conduct an evidentiary hearing on this\nclaim.\n\nWARNER, LEVINE and KLINGENSMITH, JJ., concur.\n\n                            *         *         *\n\n   Not final until disposition of timely filed motion for rehearing.\n\n\n\n\n                                      2\n\f",
+            "ocr": false,
+            "opinion_id": 2689298
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

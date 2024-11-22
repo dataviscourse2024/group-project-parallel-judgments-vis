@@ -1,8 +1,8 @@
 {
     "id": 1221565,
     "judges": "Beasley, Birdsong, Eldridge",
-    "date_filed": 845856000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-01-01",
+    "date_filed_is_approximate": true,
     "slug": "samuels-v-state",
     "case_name_short": "Samuels",
     "case_name": "Samuels v. State",

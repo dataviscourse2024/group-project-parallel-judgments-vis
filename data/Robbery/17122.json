@@ -1,8 +1,8 @@
 {
     "id": 2214140,
     "judges": "Conley",
-    "date_filed": -137980800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-11-28",
+    "date_filed_is_approximate": true,
     "slug": "people-v-palmer",
     "case_name_short": null,
     "case_name": "People v. Palmer",

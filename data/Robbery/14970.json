@@ -1,8 +1,8 @@
 {
     "id": 1325691,
     "judges": "Carley, Divisions, Johnson, Pope",
-    "date_filed": 715910400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-28",
+    "date_filed_is_approximate": true,
     "slug": "williams-v-state",
     "case_name_short": null,
     "case_name": "Williams v. State",

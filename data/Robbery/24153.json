@@ -1,8 +1,8 @@
 {
     "id": 4074183,
     "judges": "Barefoot, Brett, Jones",
-    "date_filed": -719193600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-09-07",
+    "date_filed_is_approximate": true,
     "slug": "schoolcraft-v-state",
     "case_name_short": "Schoolcraft",
     "case_name": "Schoolcraft v. State",

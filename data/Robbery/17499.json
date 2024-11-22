@@ -1,8 +1,8 @@
 {
     "id": 2262681,
     "judges": "Morton, Moylan and Gilbert",
-    "date_filed": 110505600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-11-04",
+    "date_filed_is_approximate": true,
     "slug": "gibbs-v-state",
     "case_name_short": "Gibbs",
     "case_name": "Gibbs v. State",

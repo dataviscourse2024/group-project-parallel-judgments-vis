@@ -1,8 +1,8 @@
 {
     "id": 6656146,
     "judges": "Dailey",
-    "date_filed": 1416441600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-02-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-pernell",
     "case_name_short": "Pernell",
     "case_name": "People v. Pernell",

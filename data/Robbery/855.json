@@ -1,8 +1,8 @@
 {
     "id": 7924266,
     "judges": "Amdahl",
-    "date_filed": 405907200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-03-24",
+    "date_filed_is_approximate": true,
     "slug": "slaughter-v-state",
     "case_name_short": "Slaughter",
     "case_name": "Slaughter v. State",

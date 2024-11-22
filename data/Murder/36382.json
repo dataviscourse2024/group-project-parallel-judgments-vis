@@ -1,0 +1,46 @@
+{
+    "id": 6631803,
+    "judges": "Saeeold",
+    "date_filed": "1999-07-15",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-dennis",
+    "case_name_short": "Ex parte Dennis",
+    "case_name": "Ex parte Dennis",
+    "case_name_full": "Ex parte DENNIS",
+    "attorneys": "Watts & Troy, and Bice, Jones & Wiley, pro motion., Arrington & Graham, contra.-",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>[APPLICATION FOE MANDAMUS.]</p> <p>1. Change of venue in criminal case; how often can he allowed. \u2014 The trial of a person charged with an indictable offense \u2019can be removed but once from one county to another.</p> <p>2. Agreement of counsel to change venue; effect of. \u2014 An agreement between the attorneys for the defendant and the counsel for the prosecution, that such a trial may be returned to the county frojn which it was removed, presents no legal reason for demancling such, return, and an application for mandamus to compel the court in which the indictment is pending to return the trial of the cause to the court from which it was removed, will he denied.</p>",
+    "summary": "This was an application for a mandamus to compel the circuit coiu\u2019t of Autauga to make appropriate orders to return the case of the State of Alabama v. W. E. Dennis, and the trial thereof, on an indictment against said Dennis for an assault with intent to murder, to the city court of Montgomery. The indictment was returned and filed originally in the city court of Montgomery, and after the case had been once or twice continued, the venue was changed, on Dennis\u2019 application, to the circuit court of Autauga. At the fall term, 1871, of the circuit court of Autauga, as appears from the bill of exceptions, as soon as the case was called for trial and before any other step in the cause was taken, the defendant in propia persona, in open court, proved the execution of an agreement, which, after naming the case, &c., was as follows: \u201c In the above case, it is agreed between the counsel for the State and the defendant that the venue and trial of said case is to be changed from Autauga circuit court to the city court for Montgomery county, and that the trial of the case is not to take place until the February term, 1872, of said city court, unless with the consent of both parties.\u201d \u201cOctober 7th, 1871. Stone & Clopton, \u201c Attorneys for prosecutor and State. \u201c Sam\u2019l F. Exoe, \u201c Attorney for said Dennis.\u201d And defendant further proved, in support of the motion hereinafter stated, that Messrs. Stone & Olopton, whose names are signed to said agreement, did, at the last term of the court, represent the State of Alabama in the prosecution of tbis case, and that their names appeared at the last term of this court, and now appear on the docket of this court, as attorneys for the State of Alabama; and that in fact, at the last term of this court, a trial of this case was had, and the said Stone & Olopton and James H. Clanton, who was then a member of the firm of Stone, Olopton & Olanton, appeared for and- represented the State of Alabama on the trial of said case. It was further in proof, that after the making of said agreement, but after the defendant had been informed by telegraph of the same, that Mr. Olopton, at the instance of the prosecutor, desired to rescind said agreement, but the defendant, through his counsel, refused to rescind. It was also proven to the court, that the solicitor of this county, Jesse H. Booth, was not consulted at the making of the said agreement, and that he was not informed thereof until the day before this motion was made; and that he did not assent to said agreement, but dissented from said agreement in open court, and opposed the same on this motion. It was also shown, that the prosecutor and all the wit-^\" nesses for the State reside in the county of Montgomery, Upon the foregoing facts, which, with the record of the case itself, was all the evidence introduced, Dennis, by his attorneys, moved to have said agreement entered of record, and to have the cause sent back to the city court of Montgomery, The court refused to grant either motion, and the defendant excepted. The solicitor of the county of Autauga was nev-er consulted about the change of venue, and he dissented from the agreement in open court at the time the motion was made. \u201cIn a Massachusetts case it was laid down, that the counsel who assists the prosecuting officer is not to exercise any control over the cause; and we may accept this as the general doctrine.\u201d \u2014 1 Bish. -Orim. Pro. \u00a7 999; see, also, Bish. Grim. Pro. \u00a7 989, et seq.; Commonwealth v. Williams, 2 Cush. 582; Wharton\u2019s Or. L, 174, 900, and note T. Even had the assistant counsel adhered to the agreement which he signed, for a change back to the city court, the change could not have been made without the concurrence of the law officer of the State. The reasons for investing a sworn officer of the State with exclusive control of criminal prosecutions, are obvious. To change the venue the second time is forbidden by the plain terms of the statute. \u2014 Eev. Code, \u00a7 4207. The only mode by which the venue of a criminal case can be changed, is prescribed by our statues. \u2014 -Eev. Code, \u00a7 4206. An order to change the venue the second time, and the withdrawal of the case from the docket of the circuit court for that purpose, would be equivalent to a dismissal of the prosecution, or the entering of a nolle prosequi. \u2014 Drinhard v. The State, 20 Ala. Eep. 9; Ex parte Rivers, 40 Ala. Eep. 712.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "48 Ala. 304"
+    ],
+    "opinions": [
+        {
+            "author_str": "Saeeold",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nB. E. SAEEOLD, J.\nSection 4206 of the Eevised Code prescribes the causes for which a case of this sort may be transferred to another county, and directs the manner in which it shall be done. Under it this case has been removed from the county where it originated. Section 4207 declares that the trial can be removed but once.\nWe have no authority to hold, that the agreement of counsel to that effect is a ground for the change of venue in a criminal case.\nThe mandamus is refused.\n",
+            "ocr": true,
+            "opinion_id": 6508314
+        }
+    ],
+    "court_short_name": "Supreme Court of Alabama",
+    "court_full_name": "Supreme Court of Alabama",
+    "court_type": "S",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

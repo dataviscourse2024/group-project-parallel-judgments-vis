@@ -1,8 +1,8 @@
 {
     "id": 2068725,
     "judges": "McLAREN",
-    "date_filed": 771033600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-04-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lukach",
     "case_name_short": "Lukach",
     "case_name": "People v. Lukach",

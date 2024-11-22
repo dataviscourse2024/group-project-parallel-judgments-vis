@@ -1,8 +1,8 @@
 {
     "id": 1719618,
     "judges": "Bowen",
-    "date_filed": 452822400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-10-17",
+    "date_filed_is_approximate": true,
     "slug": "gratton-v-state",
     "case_name_short": "Gratton",
     "case_name": "Gratton v. State",

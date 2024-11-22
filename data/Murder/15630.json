@@ -1,8 +1,8 @@
 {
     "id": 1803996,
     "judges": "Sullivan",
-    "date_filed": 1225843200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-04-07",
+    "date_filed_is_approximate": true,
     "slug": "obrien-v-town-of-glenmora",
     "case_name_short": "O'Brien",
     "case_name": "O'Brien v. Town of Glenmora",

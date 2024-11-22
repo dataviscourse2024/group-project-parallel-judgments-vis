@@ -1,8 +1,8 @@
 {
     "id": 2452058,
     "judges": "Baird, Benavides, Clinton, White",
-    "date_filed": 701481600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-06",
+    "date_filed_is_approximate": true,
     "slug": "price-v-state",
     "case_name_short": "Price",
     "case_name": "Price v. State",

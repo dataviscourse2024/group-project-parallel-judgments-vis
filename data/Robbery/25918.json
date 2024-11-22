@@ -1,8 +1,8 @@
 {
     "id": 4457132,
     "judges": null,
-    "date_filed": 1515024000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-03-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-henderson",
     "case_name_short": null,
     "case_name": "People v. Henderson",

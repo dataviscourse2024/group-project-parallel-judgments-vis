@@ -1,8 +1,8 @@
 {
     "id": 2789927,
     "judges": null,
-    "date_filed": 1427673600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-10-03",
+    "date_filed_is_approximate": true,
     "slug": "woods-v-donald",
     "case_name_short": "Woods",
     "case_name": "Woods v. Donald",

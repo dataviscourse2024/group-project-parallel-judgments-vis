@@ -1,0 +1,46 @@
+{
+    "id": 5760922,
+    "judges": "Hill",
+    "date_filed": "2009-11-05",
+    "date_filed_is_approximate": true,
+    "slug": "davis-v-carter",
+    "case_name_short": "Davis",
+    "case_name": "Davis v. Carter",
+    "case_name_full": "Davis, agent v. Carter",
+    "attorneys": "W. W. Dykes, G. Y. Harrell, for plaintiif in error., R. L. Gillen, W. D. Crawford, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Action for damages; from Stewart superior court \u2014 Judge Littlejohn. May 21, 1921.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "27 Ga. App. 494"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hill",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHill, J.\nSeven cows, the property of the plaintiff, were killed while on the railroad-track by the running of the engines and cars, and a verdict was given to the plaintiff for $600. The statutory presumption of negligence against the railroad company, which arose on proof of the killing of the cows, was not clearly and completely rebutted by the positive and undisputed evidence of the employees in charge of the running of the trains, and the evidence was in conflict on the subject of negligence. No error of law was committed by the trial judge; consequently the judgment overruling the motion for a new trial must be affirmed.\n\nJudgment affirmed.\n\n\nJenkins, P. J., and Stephens, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5613568
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

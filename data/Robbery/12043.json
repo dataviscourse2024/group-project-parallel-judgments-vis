@@ -1,8 +1,8 @@
 {
     "id": 1396437,
     "judges": "Donaldson, Hagan, Maynard, McFADDEN, Shepard",
-    "date_filed": 61689600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-06-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-moen",
     "case_name_short": "Moen",
     "case_name": "State v. Moen",

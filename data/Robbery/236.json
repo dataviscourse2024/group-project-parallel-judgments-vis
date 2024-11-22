@@ -1,8 +1,8 @@
 {
     "id": 7794602,
     "judges": "Griffin, Harris, Sharp",
-    "date_filed": 966556800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-02-03",
+    "date_filed_is_approximate": true,
     "slug": "jennings-v-state",
     "case_name_short": "Jennings",
     "case_name": "Jennings v. State",

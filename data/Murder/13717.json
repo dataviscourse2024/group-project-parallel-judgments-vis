@@ -1,8 +1,8 @@
 {
     "id": 1717566,
     "judges": "Crippen, Forsberg, Kalitowski",
-    "date_filed": 568944000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-10-09",
+    "date_filed_is_approximate": true,
     "slug": "state-v-stillday",
     "case_name_short": "Stillday",
     "case_name": "State v. Stillday",

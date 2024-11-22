@@ -1,8 +1,8 @@
 {
     "id": 1601266,
     "judges": "En Banc",
-    "date_filed": 345859200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-05-22",
+    "date_filed_is_approximate": true,
     "slug": "cooley-v-state",
     "case_name_short": "Cooley",
     "case_name": "Cooley v. State",

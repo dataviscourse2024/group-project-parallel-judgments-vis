@@ -1,8 +1,8 @@
 {
     "id": 2073817,
     "judges": "Thomas J. Moran",
-    "date_filed": 208396800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-01-25",
+    "date_filed_is_approximate": true,
     "slug": "people-v-richards",
     "case_name_short": "Richards",
     "case_name": "People v. Richards",

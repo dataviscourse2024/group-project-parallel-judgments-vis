@@ -1,8 +1,8 @@
 {
     "id": 9001575,
     "judges": "Fay, Hoffman, Tjoflat",
-    "date_filed": 687657600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-07-07",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-lequire",
     "case_name_short": "LeQuire",
     "case_name": "United States v. LeQuire",

@@ -1,0 +1,46 @@
+{
+    "id": 6571592,
+    "judges": "Wilkins",
+    "date_filed": "1984-05-11",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-jones",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Jones",
+    "case_name_full": "Commonwealth v. Helen Jones",
+    "attorneys": "H. D. Sharpe, for the defendant., G. E. McGunigle, Assistant District Attorney, for the Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "February 4, 1946.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "319 Mass. 228"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wilkins",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWilkins, J.\nThe defendant was convicted upon an indictment for manslaughter in causing the death of Effie ' Barber. The defendant\u2019s appeal is accompanied by an assignment of errors, a summary of the record, and a transcript of the evidence. G. L. (Ter. Ed.) c. 278, \u00a7\u00a7 33A-33G, as amended by St. 1939, c. 341. Three assignments of error are argued.\nI. The first assignment of error relates to the admission in evidence during the redirect examination of the medical examiner of three photographs showing a knife wound in the breast of the deceased. The medical examiner had given the photographs to counsel for the defendant at his request during cross-examination. There was no error. It is not a valid objection to admissibility that the medical examiner had already testified in detail as to the wound and other conditions shown by the photographs. There is nothing to indicate that their admission inflamed the jury or prejudiced the defendant in any way. Commonwealth v. Gray, 314 Mass. 96, 98, and cases cited.\n2. The third assignment of error concerns an incident which arose during the direct examination of Dorothy Craig, a sister-in-law of the defendant, who was called as a witness by the Commonwealth. The witness had testified at some length as to the occurrences of the evening of January 22, 1945, and of the early morning of January 23, when the deceased met her death as a result of a knife wound at 40 Sterling Street, Roxbury, where the deceased, the defendant, and the witness resided. The transcript of the testimony shows that there was from time to time much difficulty in hearing the witness, who was frequently asked both by the assistant district attorney and by the judge to speak louder so that she might be heard. The judge then interrupted the examination and said, \u201cJust a moment. Witness, will you turn around and sit in your chair and sit up straight and look at the jury and answer *230questions? If you don\u2019t, I will take a hand at it. Now go ahead. You are privileged to cross-examine at liberty. This is a hostile witness and I so declare.\u201d After some further questions and answers there was a conference at the bench at the conclusion of which the judge said, \u201cCounsel takes an exception to the court\u2019s ruling that this witness is hostile. His exception is noted. ... I think for the purpose of the record I may state that the court has felt it necessary to call upon this witness to turn around, face the jury, sit up in the chair, and answer the questions audibly, and I have declared her a hostile witness because of her reluctance and her manner of reply and brevity of reply.\u201d\nIn so far as the \u201cruling\u201d permitted the assistant district attorney to ask leading questions, the defendant has no valid exception. Commonwealth v. Coshnear, 289 Mass. 516, 527. The occurrence was largely a matter of observation, and does not lend itself readily to reproduction in the printed record. No abuse of discretion appears in the action or statement of the judge.\n3. The seventh assignment of error arises out of the exclusion of a question which counsel for the defendant asked Dorothy Craig on cross-examination: \u201cWhen you saw Efiie coming from the kitchen with two plates in her hand, did that cause you to believe that she was about to do Helen serious harm? \u201d The ruling was right. While the witness could relate any facts within her observation bearing upon the issue of self defence, it was for the jury to say whether the defendant was put in reasonable apprehension of immp.dia.te personal violence at the hands of the deceased. The individual opinion of a bystander upon this issue was immaterial. Gardner v. State, 90 Ga. 310, 315. Lowman v. State, 109 Ga. 501, 502. Smith v. Commonwealth, 113 Ky. 19, 24-25. Tucker v. State, 89 Md. 471, 476-478. Abbott v. People, 86 N. Y. 460, 471. State v. Rhoads, 29 Ohio St. 171, 172. State v. Summers, 36 S. C. 479, 485-486. Phipps v. State, 36 Tex. Cr. 216, 220. Wilheit v. State, 107 Tex. Cr. 614, 617. Wiggins v. State, 115 Tex. Cr. 434, 436. See State v. Maxwell, 42 Iowa, 208, 209; State v. Vines, 93 N. C. 493, 496. Cases are distinguishable where *231the evidence related to the actual belief of the defendant (see Commonwealth v. Woodward, 102 Mass. 155, 160-161), to the defendant\u2019s knowledge of the quarrelsome character of the deceased (Commonwealth v. Tircinski, 189 Mass. 257), or to the relative physique of the defendant and the deceased (Commonwealth v. Barnacle, 134 Mass. 215). See also Commonwealth v. Rubin, 318 Mass. 587, 590. There is nothing to the contrary in Commonwealth v. Sturtivant, 117 Mass. 122.\nJudgment affirmed. '\n",
+            "ocr": true,
+            "opinion_id": 6445345
+        }
+    ],
+    "court_short_name": "Massachusetts Supreme Judicial Court",
+    "court_full_name": "Massachusetts Supreme Judicial Court",
+    "court_type": "S",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Murder"
+}

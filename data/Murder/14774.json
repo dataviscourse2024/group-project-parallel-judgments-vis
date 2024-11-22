@@ -1,8 +1,8 @@
 {
     "id": 1200439,
     "judges": "Birdsong, Carley, Quillian",
-    "date_filed": 463190400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-08-14",
+    "date_filed_is_approximate": true,
     "slug": "thurman-v-state",
     "case_name_short": "Thurman",
     "case_name": "Thurman v. State",

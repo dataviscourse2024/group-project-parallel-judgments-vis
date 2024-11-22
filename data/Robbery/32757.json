@@ -1,8 +1,8 @@
 {
     "id": 5897197,
     "judges": null,
-    "date_filed": -145411200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-02-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-morgan",
     "case_name_short": "Morgan",
     "case_name": "People v. Morgan",

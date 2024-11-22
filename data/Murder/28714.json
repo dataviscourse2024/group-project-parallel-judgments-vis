@@ -1,0 +1,58 @@
+{
+    "id": 5085001,
+    "judges": "Beauchamp, Davidson",
+    "date_filed": "2002-12-05",
+    "date_filed_is_approximate": true,
+    "slug": "wixon-v-state",
+    "case_name_short": "Wixon",
+    "case_name": "Wixon v. State",
+    "case_name_full": "Ronald Reed Wixon v. State",
+    "attorneys": "Winfree and Winfree, Houston, for appellant., A. C. Winborn, Criminal District Attorney, and E. T. Branch, Assistant Criminal District Attorney, Houston, and George P. Blackburn, State\u2019s Attorney, Austin, for the state.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied November 1, 1950.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "155 Tex. Crim. 230",
+        "233 S.W.2d 145"
+    ],
+    "opinions": [
+        {
+            "author_str": "Davidson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDAVIDSON, Judge.\nFor the murder of John H. Cassidy, appellant was convicted and his punishment assessed at ten years in the penitentiary.\nNo bills of exception accompany the record.\nThe sufficiency of the evidence to support the conviction is challenged.\nWhile there appears to be no witness testifying to having seen the appellant strike the deceased in the stomach with a knife, as a result of which he died, a witness did testify to having seen appellant strike at the deceased or \u201cmake a swipe across Cassidy\u2019s (deceased\u2019s) stomach.\u201d\nAppellant, testifying in his own behalf, admitted cutting the deceased with a knife, which he said was in his own necessary defense from the actual attack by the deceased.\nState\u2019s witnesses refuted this defense.\nThe issues of murder without malice and self-defense were pertinently submitted by the trial court to the jury. It was the province of the jury to accept or reject these defenses.\nThe facts are sufficient to show that appellant killed deceased by cutting him with a knife, as alleged in the indictment.\nNo reversible error appearing, the judgment is affirmed.\nOpinion approved by the court.\n",
+            "ocr": true,
+            "opinion_id": 4901805
+        },
+        {
+            "author_str": "Beauchamp",
+            "per_curiam": false,
+            "type": "070rehearing",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nON MOTION FOR REHEARING.\nBEAUCHAMP, Judge.\nAppellant\u2019s earnest motion for rehearing concedes the correctness of the statement of the case in the original opinion and that the case was fairly and impartially tried. The sole basis for motion for rehearing is: \u201cThe sufficiency of the evidence to support the conviction is challenged.\u201d The insufficiency of the evidence is contended for on the basis that there was nothing to show murder \u201cwith malice.\u201d\nWhile it is true that no witness actually saw the lick struck by appellant which took the life of his victim, it is also true *232that two witnesses were in the room and heard what was said. The deceased fell into the arms of one of them as she .saw appellant run away. A witness who held the inquest examined the deceased and testified as to two serious wounds in the breast and one near the lower part of the bowels.\nThe killing took place in a small barroom. The woman who operated the place testified that appellant kept coming in and out of the place, though she had told him not to come back any more. She and the deceased were engaged in a conversation, which she says did not pertain to the defendant, but he resented their talking, jumped up from the table, and demanded that they quit arguing. The deceased told him to tend to his own business. The defendant then took a step toward deceased, pulled a knife out of his pocket and opened it. At her request he closed the knife and put it back in his pocket, but refused to leave the place, upon her continued demand, until after the stabbing. He got up and started toward the door. She thought he was going to go out. She says that deceased went toward the door to close it, as they were fixing to close up for the night, that when he reached the door he was stabbed by appellant. He fell into her arms with blood coming out of his chest. He never uttered a word. She said that deceased had no knife, gun, or any kind of weapon; that he had made no threats to the defendant and had made no threatening gestures toward defendant; that he had only told him to sit down and mind his own business.\nAppellant testified in his own behalf and the details which he gave contradicted the evidence of the woman witness and raised the issue of self-defense. He testified that the deceased struck him with a beer bottle and laid his face open. His mother testified that the officers came to arrest him as she was fixing breakfast, on the morning following the stabbing, and that she discovered his mouth had a bad bruise inside. She did not mention a gash on the outside and a picture of appellant taken at the time fails to reveal such wound.\nWe think the jury was justified, under the above stated facts, in finding appellant guilty of murder with malice. If thejr had believed appellant\u2019s testimony they probably would have acquitted him on his plea of self-defense. After a careful study of all of the evidence, with the circumstances detailed, we are unable to agree with appellant\u2019s contention in his motion for rehearing. Accordingly, same is overruled.\n",
+            "ocr": true,
+            "opinion_id": 4901806
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

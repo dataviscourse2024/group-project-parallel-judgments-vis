@@ -1,8 +1,8 @@
 {
     "id": 1928239,
     "judges": "Smith, P.J., and Sugg and Bowling",
-    "date_filed": 321667200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-05-21",
+    "date_filed_is_approximate": true,
     "slug": "harrigill-v-state",
     "case_name_short": "Harrigill",
     "case_name": "Harrigill v. State",

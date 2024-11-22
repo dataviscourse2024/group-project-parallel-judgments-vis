@@ -1,8 +1,8 @@
 {
     "id": 2461507,
     "judges": "Clinton",
-    "date_filed": 601689600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-02-07",
+    "date_filed_is_approximate": true,
     "slug": "lane-v-state",
     "case_name_short": "Lane",
     "case_name": "Lane v. State",

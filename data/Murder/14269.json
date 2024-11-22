@@ -1,8 +1,8 @@
 {
     "id": 2298858,
     "judges": "Flaherty, Goldberg, Indeglia, Robinson, Suttell",
-    "date_filed": 1337558400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-09-01",
+    "date_filed_is_approximate": true,
     "slug": "tassone-v-state",
     "case_name_short": "Tassone",
     "case_name": "Tassone v. State",

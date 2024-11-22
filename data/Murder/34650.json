@@ -1,0 +1,46 @@
+{
+    "id": 6286086,
+    "judges": "Freschi",
+    "date_filed": "2019-03-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-portugay",
+    "case_name_short": "Portugay",
+    "case_name": "People v. Portugay",
+    "case_name_full": "The People of the State of New York v. Isaac Portugay",
+    "attorneys": "Thomas C. T. Crain, District Attorney, for the plaintiff., Joseph Weber, for the defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "140 Misc. 688"
+    ],
+    "opinions": [
+        {
+            "author_str": "Freschi",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nFreschi, J.\nAn order to inspect the minutes of the grand jury is sought by the defendant and opposed by the district attorney here.\nThis is a homicide case, charging the defendant with murder in the first degree. An alleged dying declaration by the deceased is involved. In such declaration it is claimed the deceased stated, among other things, that the defendant shot him There is no doubt the deceased died as a result of a shot wound. It is well settled that under the exceptions to the hearsay rule such statements made by a person who is near to death and conscious thereof are admissible, after his death. (See Wigmore Ev. [2d ed.] \u00a7 1432, et seg.; Richardson Ev. [3d ed.] \u00a7 302 et seq,; Abb. Crim. Trial Brief [3d ed.] 679.) The admissibility and competency is a question for the court, and the weight and credibility is for the jury. The rule with respect to the caution with which such evidence should be received and its value and weight is clearly stated in People v. Falletto (202 N. Y. 494, 500). The defendant had a full hearing before a committing magistrate and he cross-examined the witnesses against him on this and other matters. I think there is prima facie proof here. For purposes of this motion, I must hold that one should not be allowed, to escape the consequences of his crime by putting the sole witness of the crime beyond the power of the court by killing him; therefore, absolute necessity makes the evidence good in order to prevent the crime going unpunished. (See State v. Bohan, 15 Kan. 407, 418.)\nUnder the circumstances in the case, I must conclude that this motion should be denied.\nOrdered accordingly.\n",
+            "ocr": true,
+            "opinion_id": 6154184
+        }
+    ],
+    "court_short_name": "New York Court of General Session of the Peace",
+    "court_full_name": "New York Court of General Session of the Peace",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

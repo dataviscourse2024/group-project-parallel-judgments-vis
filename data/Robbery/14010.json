@@ -1,8 +1,8 @@
 {
     "id": 1753983,
     "judges": "Cohen, Dowd, Draper III, George, Patricia, Robert",
-    "date_filed": 1182816000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-03-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-donaldson",
     "case_name_short": "Donaldson",
     "case_name": "State v. Donaldson",

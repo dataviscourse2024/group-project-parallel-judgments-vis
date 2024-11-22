@@ -1,8 +1,8 @@
 {
     "id": 8762336,
     "judges": "Clayton",
-    "date_filed": -164073600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-02-19",
+    "date_filed_is_approximate": true,
     "slug": "gandy-v-united-states",
     "case_name_short": "Gandy",
     "case_name": "Gandy v. United States",

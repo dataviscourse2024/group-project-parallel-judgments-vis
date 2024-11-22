@@ -1,8 +1,8 @@
 {
     "id": 8498568,
     "judges": "Cole, Keith, White",
-    "date_filed": 1250726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-01-23",
+    "date_filed_is_approximate": true,
     "slug": "sanic-v-holder",
     "case_name_short": "Sanic",
     "case_name": "Sanic v. Holder",

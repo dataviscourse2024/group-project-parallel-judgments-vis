@@ -1,8 +1,8 @@
 {
     "id": 1901959,
     "judges": "Dennis",
-    "date_filed": 342662400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-anderson",
     "case_name_short": "Anderson",
     "case_name": "State v. Anderson",

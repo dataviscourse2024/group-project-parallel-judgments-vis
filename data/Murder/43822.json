@@ -1,0 +1,46 @@
+{
+    "id": 8102859,
+    "judges": "Garrison",
+    "date_filed": "2009-05-15",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-raymond",
+    "case_name_short": "Raymond",
+    "case_name": "State v. Raymond",
+    "case_name_full": "THE STATE, IN ERROR v. MICHAEL RAYMOND, IN ERROR",
+    "attorneys": "For the state, Clarence L. Goldenberg.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. If upon the trial of an indictment the state fails to make a prima facie case of the charge against the defendant, it is legal error to deny a motion for the direction of a verdict made at the close of the ease.</p> <p>2. Quaire. Whether the failure of a person to disclose to the public officials a crime with the commission of which he himself is charged is a criminal offense under section 20 of the Crimes act (Pamph. L. 1898, p. 799) V</p>",
+    "summary": "On error to the Atlantic Sessions.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted December 5, 1908",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "78 N.J.L. 61"
+    ],
+    "opinions": [
+        {
+            "author_str": "Garrison",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*62The opinion of the court was delivered by\nGarrison, J.\nThe refusal of' the trial court to grant the motion for the direction of a verdict for the defendant made at the conclusion of the entire case was legal error for which the judgment brought up by this writ of error must be reversed.\nThe defendant was indicted under section 20 of the Crimes act (Pamph. L. 1898, p. 799) for that \u201chaving actual knowledge that one Joseph Labriola did in and upon one John Buglio in the peace of God and this state, and there being an assault did make, and he the said Joseph Labriola then and there did willfully,' feloniously and of his malice aforethought kill and murder, and other wrongs to the said John Buglio then and there did to the great damage of the said John Buglio, did conceal the same, and did not, as soon as may be, disclose and make known the same, to some one of the justices of the Supreme Court, or a judge of the Court of Quarter Sessions or a magistrate, contrary to the form of the statute in such case made and provided, and against the peace of this state and government and dignity of the same.\u201d The language of this indictment follows that of the statute.\nAt the trial it was proved on the part of the state that Raymond had voluntarily made a written statement of his knowledge touching Labriola\u2019s murder of Buglio to Frank G. Lore, a state detective employed on the case by the prosecutor. This negatived his concealment of the murder. The prosecutor then called as witnesses two justices of the peace who testified that Raymond had not disclosed said murder to them, after which Mr. Abbott, the prosecutor, announced his inability to prove that Raymond had not disclosed the crime in question to some one of the other officials named in the statute and in the indictment. This was an admission by the state that it had not proved the charge laid in the indictment. The trial court erred therefore in' its refusal to direct a verdict for the defendant when requested so to do.\nIt must not be 'assumed that but for this trial error the judgment would be valid. There is a doubt in our minds whether the statute in question applies at all to the failure of *63a man to disclose a crime of which lie himself is accused, and a still graver doubt as to whether a defendant who is actually under indictment for a given murder can, while such indictment is hanging over him, be lawfully placed upon trial for his failure to disclose his knowledge touching such murder. In the present case it appeared that Eaymond had been indicted jointly with two others for the murder of Buglio; the two others were tried and found guilty, one of murder the other of manslaughter. Eaymond had not yet been tried, but the indictment against him for murder had not been nolle grossed when he was placed on trial for his failure to disclose his knowledge touching the murder with which he was charged by the pending indictment.\nThe anomaly thus presented is perfectly apparent in view of the fundamental rules against self-incrimination and personal privilege. The questions thus presented need not now be discussed, but should be pointed out in order that the scope of our present decision may not be misunderstood.\nThe judgment of the Atlantic Sessions is reversed.\n",
+            "ocr": true,
+            "opinion_id": 8063429
+        }
+    ],
+    "court_short_name": "Supreme Court of New Jersey",
+    "court_full_name": "Supreme Court of New Jersey",
+    "court_type": "S",
+    "court_jurisdiction": "New Jersey, NJ",
+    "crime_category": "Murder"
+}

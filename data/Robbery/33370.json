@@ -1,8 +1,8 @@
 {
     "id": 6022351,
     "judges": null,
-    "date_filed": 512006400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-11-02",
+    "date_filed_is_approximate": true,
     "slug": "bivona-v-port-authority",
     "case_name_short": "Bivona",
     "case_name": "Bivona v. Port Authority",

@@ -1,8 +1,8 @@
 {
     "id": 2077914,
     "judges": "Kirk, Quirico, Spalding, Spiegel, Wilkins",
-    "date_filed": 4924800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-01-20",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-mangum",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Mangum",

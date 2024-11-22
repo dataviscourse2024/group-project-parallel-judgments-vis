@@ -1,8 +1,8 @@
 {
     "id": 2345288,
     "judges": "Baer, Castille, Eakin, Greenspan, McCAFFERY, Saylor, Todd",
-    "date_filed": 1258588800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-08-26",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-cox",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Cox",

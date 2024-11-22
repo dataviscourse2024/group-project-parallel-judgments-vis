@@ -1,8 +1,8 @@
 {
     "id": 1452231,
     "judges": "LaNGtry, Langtry, Port, Schwab",
-    "date_filed": 121305600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-06-30",
+    "date_filed_is_approximate": true,
     "slug": "brom-v-newell",
     "case_name_short": "Brom",
     "case_name": "Brom v. Newell",

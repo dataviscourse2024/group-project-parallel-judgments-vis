@@ -1,8 +1,8 @@
 {
     "id": 7905928,
     "judges": "Heiman",
-    "date_filed": 700790400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-01-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-fernandez",
     "case_name_short": "Fernandez",
     "case_name": "State v. Fernandez",

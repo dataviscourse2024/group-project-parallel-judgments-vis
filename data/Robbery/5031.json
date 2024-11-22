@@ -1,8 +1,8 @@
 {
     "id": 8769988,
     "judges": "Barrett",
-    "date_filed": 1222214400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-09-07",
+    "date_filed_is_approximate": true,
     "slug": "ferrarelli-v-federated-fin-corp-of-america",
     "case_name_short": "Ferrarelli",
     "case_name": "Ferrarelli v. Federated Fin. Corp. of America",

@@ -1,0 +1,46 @@
+{
+    "id": 5744446,
+    "judges": "Gunter",
+    "date_filed": "2007-07-05",
+    "date_filed_is_approximate": true,
+    "slug": "mitchell-v-state",
+    "case_name_short": null,
+    "case_name": "Mitchell v. State",
+    "case_name_full": "MITCHELL v. State",
+    "attorneys": "Augustine & Sullivan, Edward E. Augustine, John F. Lyndon, for appellant., Harry N. Gordon, District Attorney, B. Thomas Cook, Jr., Assistant District Attorney, Arthur K. Bolton, Attorney General, Kirby G. Atkinson, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted October 29, 1976 \u2014, Rehearing denied March 1, 1977.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "238 Ga. 420"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gunter",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGunter, Justice.\nAppellant was convicted for the murder of her husband; she received a sentence of life imprisonment; and she has appealed.\nSeveral eyewitnesses testified as to the shooting of the victim by the appellant. The appellant testified in her own behalf, and she contended that she had shot her husband out of fear because she thought that he would shoot her. The appellant has enumerated two errors in this court. Her first contention is that the trial court committed error in permitting a witness to testify as a surprise to the defense. Under the facts presented in this case, this contention is without merit. Sheats v. State, 237 Ga. 757 (229 SE2d 600) (1976).\nHer second contention is that the trial court committed error and abused its discretion in failing to charge the jury on the lesser included offense of voluntary manslaughter when the evidence presented at trial warranted such a charge. Under the rules laid down in State v. Stonaker, 236 Ga. 1 (222 SE2d 354) (1976), this contention is without merit.\nThe judgment below must be affirmed.\nSubmitted October 29, 1976 \u2014\nDecided February 14, 1977\nRehearing denied March 1, 1977.\nAugustine &amp; Sullivan, Edward E. Augustine, John F. Lyndon, for appellant.\nHarry N. Gordon, District Attorney, B. Thomas Cook, Jr., Assistant District Attorney, Arthur K. Bolton, Attorney General, Kirby G. Atkinson, Assistant Attorney General, for appellee.\n\nJudgment affirmed.\n\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5596207
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

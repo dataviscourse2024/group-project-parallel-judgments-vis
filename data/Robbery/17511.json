@@ -1,8 +1,8 @@
 {
     "id": 2265831,
     "judges": "Hill, Vartabedian, Wiseman",
-    "date_filed": 1213574400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-08-05",
+    "date_filed_is_approximate": true,
     "slug": "people-v-torres",
     "case_name_short": "Torres",
     "case_name": "People v. Torres",

@@ -1,0 +1,46 @@
+{
+    "id": 5088161,
+    "judges": "White",
+    "date_filed": "1987-11-19",
+    "date_filed_is_approximate": true,
+    "slug": "bailey-v-state",
+    "case_name_short": "Bailey",
+    "case_name": "Bailey v. State",
+    "case_name_full": "Sam Bailey v. State",
+    "attorneys": "No brief for the appellant., Thomas Ball, Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Ev\u00cddb\u00edtce. \u2014 It is not competent to corroborate an unimpeached -Witness by proof of statements made by him corresponding with his testimony. An impeached witness may be corroborated in that manner.</p>",
+    "headnotes": null,
+    "summary": "Appeal from the District Court of Limestone. Tried below before the H\u00f3n. D. M. Prendergast. The indictment charged the appellant with an assault with intent to murder one Matt Matthews, by shooting him with a gun. The jury found the appellant guilty, and assessed his punishment at three years in the penitentiary. The difficulty, it appears by the evidence for the State, resulted from the appellant having whipped a son of Matthews, who had called on the appellant for an explanation, and was shot by way of reply, and without provocation. The defence attempted to break the force of this proof in the manner indicated in the opinion.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "9 Tex. Ct. App. 98"
+    ],
+    "opinions": [
+        {
+            "author_str": "White",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWhite, P. J.\nUnder a proper predicate, Van Harris and his wife, Lyle Harris, had, in order to impeach the State\u2019s witness Dave Johnson, testified to contradictory statements made by Johnson to them with regard to the origin and details of the difficulty, shortly after its occurrence. Defendant then proposed to corroborate his own witnesses, Harris and wife, by showing that they had told one Buckner what Dave Johnson had related to them about the shooting, and that the statement so made by them at that time corresponded with their testimony in the case. On objection, the court ruled this evidence inadmissible. In this the court did not err. Harris and his wife were not impeached, but were the impeachers, and their testimony could not be sustained and corroborated in such manner. Had Buckner been introduced to sustain Johnson, the im-. peached witness, the rule would have been different, and, under the weight of authority, he would have been allowed to show that Johnson had made the same statements at other times as those to which he had testified, and about which he had been impeached.\nWhilst there has been quite a conflict of opinion in the past on this question, the modern doctrine and the decided *100weight of authority seem to have finally settled the right on rebuttal to sustain and corroborate an impeached witness in that manner. 1 Whart. on Ev., sect. 5711, and authorities cited in note 2. To extend the doctrine, however, to witnesses who are not impeached, would result in making a witness\u2019s credibility depend more upon the number of times he had repeated the same story than upon the truth of the story itself, and tend to render the proceedings on each trial interminable.\nThere is no other question in the case necessary to be discussed. The charge of the court was sufficiently full and explicit, without requiring in addition any of the special instructions requested for defendant. To our minds, from the evidence, there can be no doubt of the fact that defendant intended and attempted a cold-blooded and cowardly assassination, without any provocation, much less excuse or justification. The judgment is affirmed.\n\nAffirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 4905497
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

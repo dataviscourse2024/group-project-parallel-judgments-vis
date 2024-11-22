@@ -1,0 +1,47 @@
+{
+    "id": 6203770,
+    "judges": null,
+    "date_filed": "2006-04-25",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-gibson",
+    "case_name_short": "Gibson",
+    "case_name": "People v. Gibson",
+    "case_name_full": "The People of the State of New York v. Maurice Gibson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "282 A.D.2d 757",
+        "724 N.Y.S.2d 343"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Kings County (Gerges, J.), rendered July 30, 1997, convicting him of manslaughter in the first degree (two counts), upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant voluntarily, knowingly, and intelligently waived his right to appeal all aspects of this case. His waiver encompassed his right to appellate review of the denial of that branch of his omnibus motion which was to suppress physical evidence, as well as his contention that the sentence imposed was excessive (see, People v Isaac, 279 AD2d 479; People v Monk, 270 AD2d 433; People v Johnson, 269 AD2d 468). Accordingly, appellate review of those issues is precluded. Bracken, P. J., Florio, Schmidt and Adams, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6070263
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

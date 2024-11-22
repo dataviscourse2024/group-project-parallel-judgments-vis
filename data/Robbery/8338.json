@@ -1,8 +1,8 @@
 {
     "id": 1774360,
     "judges": "Cooper",
-    "date_filed": 882403200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-12-12",
+    "date_filed_is_approximate": true,
     "slug": "slaven-v-commonwealth",
     "case_name_short": "Slaven",
     "case_name": "Slaven v. Commonwealth",

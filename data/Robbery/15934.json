@@ -1,8 +1,8 @@
 {
     "id": 2024344,
     "judges": "DeBRULER, Givan, Hunter, Pivarnik, Prentice",
-    "date_filed": 434764800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-08-04",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-state",
     "case_name_short": null,
     "case_name": "Smith v. State",

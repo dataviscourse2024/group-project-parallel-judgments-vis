@@ -1,8 +1,8 @@
 {
     "id": 2338976,
     "judges": "Kulik, Siddoway, Sweeney",
-    "date_filed": 1326326400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-02-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-burton",
     "case_name_short": "Burton",
     "case_name": "State v. Burton",

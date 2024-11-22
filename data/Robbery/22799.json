@@ -1,8 +1,8 @@
 {
     "id": 3526142,
     "judges": "Bird, Clark, McDonald, Moore, Sharpe, Steere, Wiest, WlEST",
-    "date_filed": -1421971200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-03-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ruthenberg",
     "case_name_short": "Ruthenberg",
     "case_name": "People v. Ruthenberg",

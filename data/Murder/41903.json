@@ -1,0 +1,46 @@
+{
+    "id": 7722800,
+    "judges": "Turley",
+    "date_filed": "1990-05-05",
+    "date_filed_is_approximate": true,
+    "slug": "brooks-v-state",
+    "case_name_short": "Brooks",
+    "case_name": "Brooks v. State",
+    "case_name_full": "Brooks v. State",
+    "attorneys": "McLanahcm, for plaintiff in error., Attorney Generali for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Brooks was convicted of manslaughter on an indictment for murder; the verdict did not expressly negative the charge of murder: Held, that the conviction was good.</p>",
+    "summary": "At the September term, 1841, of the circuit court of Hardin county, the grand jury returned a true bill against Baity Brooks, for the murder of John'Lowry, by shooting said Lowry with a rifle gun.. The indictment was for murder in the usual common law form. The defendant pleaded not guilty, and the cause was submitted to a jury at the February term, 1842. Judge Totten presiding. The jury returned their verdict and the following entry was put on record: \u201cThis day came the Attorney General on the part of the State; and the defendant in proper person, and came also a jury of good and lawful men, to wit, &c. See: See. who were heretofore elected, tried and sworn,\"well and truly to try the issue of traverse joined between the State of Tennessee and Baity Brooks, this day upon their oaths, do say they find the defendant guilty of voluntary manslaughter in manner and form as charged in the indictment, and assess his term of service in the jail and penitentiary house of the State of Tennessee to two years.\u201d The defendant moved to arrest the judgment of the court. This motion was overruled and judgment rendered upon the verdict. The defendant appealed in error.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "22 Tenn. 25"
+    ],
+    "opinions": [
+        {
+            "author_str": "Turley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nTurley, J.\ndelivered the opinion of the court.\nPrisoner was indicted in the circuit court of Hardin for the crime of murder. The jury found him guilty of manslaughter, without negativing the murder, and it is insisted that this is erroneous. Blackstone is cited as authority for the proposition: he says \u201cthat one indicted formurder, may be acquitted of the murder, and found guilty of manslaughter.\u201d\n*26We do not think that this was intended to mean, that the jury must return a verdict of not guilty, as to the murder, before the return of guilty of manslaughter; but that a prisoner might be found guilty of manslaughter, although indicted for murder and not for manslaughter.\nThe prisoner will be in no danger of being again arraigned for the murder; having been once indicted therefor, and having been punished for the offence as manslaughter, he stands forever acquitted of the murder, as the law provides that no man shall be punished twice for the same offence.\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7658478
+        }
+    ],
+    "court_short_name": "Tennessee Supreme Court",
+    "court_full_name": "Tennessee Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Tennessee, TN",
+    "crime_category": "Murder"
+}

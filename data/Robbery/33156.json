@@ -1,8 +1,8 @@
 {
     "id": 5979036,
     "judges": "Herlihy",
-    "date_filed": 330220800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-03-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lanahan",
     "case_name_short": "Lanahan",
     "case_name": "People v. Lanahan",

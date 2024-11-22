@@ -1,0 +1,47 @@
+{
+    "id": 6125840,
+    "judges": null,
+    "date_filed": "1988-12-05",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-montgomery",
+    "case_name_short": null,
+    "case_name": "People v. Montgomery",
+    "case_name_full": "The People of the State of New York v. William Montgomery",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "216 A.D.2d 332",
+        "627 N.Y.S.2d 455"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeals by the defendant from (1) a judgment of the Supreme Court, Kings County (Lipp, J.), rendered April 20, 1993, convicting him of murder in the second degree and criminal possession of a weapon in the second degree under Indictment No. 13525/91, upon a jury verdict, and imposing sentence and (2) an amended judgment of the same court also rendered April 20,1993, revoking a sentence of probation previously imposed by the same court (Laga\u00f1a, J.), upon a finding that he had violated a condition thereof, upon his admission, and imposing a sentence of *333imprisonment upon his previous conviction of manslaughter in the second degree under Indictment No. 9327/86.\nOrdered that the judgment and the amended judgment are affirmed.\nThe defendant has not preserved for appellate review his contention that the prosecutor was improperly permitted to cross-examine him regarding statements that he had allegedly made to his wife prior to the murder of which he was convicted (see, People v Qualls, 55 NY2d 733). In any event, there is no merit to the defendant\u2019s contention. The challenged questions were based on information derived from the Grand Jury proceedings. Therefore, the prosecutor had a good-faith basis for asking them (People v Sealy, 167 AD2d 362).\nThe defendant\u2019s remaining contentions do not warrant reversal. Balletta, J. P., Miller, Santucci and Altman, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5990945
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

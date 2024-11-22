@@ -1,8 +1,8 @@
 {
     "id": 1384390,
     "judges": "Adams, Ellington, Smith",
-    "date_filed": 1132012800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-03-15",
+    "date_filed_is_approximate": true,
     "slug": "johnson-v-state",
     "case_name_short": null,
     "case_name": "Johnson v. State",

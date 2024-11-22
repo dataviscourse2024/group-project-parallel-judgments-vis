@@ -1,8 +1,8 @@
 {
     "id": 1687968,
     "judges": "En Banc",
-    "date_filed": 312595200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-09-21",
+    "date_filed_is_approximate": true,
     "slug": "culberson-v-state",
     "case_name_short": "Culberson",
     "case_name": "Culberson v. State",

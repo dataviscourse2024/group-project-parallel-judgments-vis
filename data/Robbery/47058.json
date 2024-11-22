@@ -1,8 +1,8 @@
 {
     "id": 8778102,
     "judges": "Dalton",
-    "date_filed": -65836800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-01-06",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-peyton",
     "case_name_short": "Peyton",
     "case_name": "Smith v. Peyton",

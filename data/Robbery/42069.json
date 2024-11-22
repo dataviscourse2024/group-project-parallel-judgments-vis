@@ -1,8 +1,8 @@
 {
     "id": 7755774,
     "judges": "Antoon, Griffin, Harris, Only",
-    "date_filed": 817776000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-06-18",
+    "date_filed_is_approximate": true,
     "slug": "strickland-v-thelman",
     "case_name_short": "Strickland",
     "case_name": "Strickland v. Thelman",

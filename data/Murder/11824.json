@@ -1,8 +1,8 @@
 {
     "id": 1419045,
     "judges": "Schwab, C.J., and Fort and Thornton",
-    "date_filed": 82252800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-02-28",
+    "date_filed_is_approximate": true,
     "slug": "state-v-sands",
     "case_name_short": "Sands",
     "case_name": "State v. Sands",

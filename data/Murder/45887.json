@@ -1,0 +1,47 @@
+{
+    "id": 8536522,
+    "judges": "Jones, Smith, Swing",
+    "date_filed": "2020-10-23",
+    "date_filed_is_approximate": true,
+    "slug": "emmons-v-state",
+    "case_name_short": "Emmons",
+    "case_name": "Emmons v. State",
+    "case_name_full": "Anna Emmons v. State of Ohio",
+    "attorneys": "A. Lee Beaty, for plaintiff in error., Arthur C. Frieke, for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>CRIMINAL LAW.</p> <p>Record of Conviction of Person Accused of Infamous Crime Failing to Show Arraignment and Plea Thereto is Defective.</p> <p>A record of conviction of one accused of an infamous crime, failing to show affirmatively an arraignment on the indictment or entering of a plea thereto, as required toy Gen. Code 13629, 13634, is defective in a matter of substantial right to the accused to which Gen. Code 13581, relating, to defects in an indictment that are not fatal, does not apply.</p>",
+    "summary": "Error to common pleas court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "23 Ohio C.C. Dec. 516",
+        "14 Ohio C.C. (n.s.) 351"
+    ],
+    "opinions": [
+        {
+            "author_str": "Smith",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSMITH, P. J.\nThe plaintiff in error was indicted, tried and convicted in the court of common pleas of this county of murder in the second degree.\nThe error principally relied upon by counsel for plaintiff in error is, that the record of the conviction does not show that the defendant was arraigned on the indictment, that is, there was no plea of'\u201cnot guilty\u201d to the crime charged.\nGen. Code 13629 provides that the accused shall be arraigned by the clerk of the court or his deputy reading the indictment to him, unless the accused or his attorney waive the *517reading thereof, and he shall then be asked by the court whether he is guilty or not guilty of the offense charged; and Gen. Code 13634 provides that if the accused plead not guilty such plea shall be entered on the indictment.\nIn the case of Hanson v. State, 43 Ohio St. 376 [1 N. E. Rep. 136], our Supreme Court holds that \u201cthe record of a conviction for crime must show that the defendant was arraigned on the indictment\u201d; and in the case of Crain v. United States, 162 U. S. 625 [16 Sup. Ct. Rep. 952; 40 L. Ed. 1097], the Supreme Court of the United States says that where the record does not show that the accused was ever arraigned, or that he pleaded to the indictment, the conviction must be set aside, as it is better that a prisoner should escape altogether than that a judgment of conviction, of an infamous crime should be \u25a0 sustained where the record does not clearly show that there was a valid trial; in this same case the Supreme Court says, that in its opinion it is the prevailing rule in this country in cases of felony that a plea to the indictment is necessary before the trial can be properly commenced, and unless this fact appears from the records the judgment can not be sustained. Until the accused pleads to the indictment and thereby indicates the issue submitted by him -for trial, there is nothing for the jury to try ; and the fact that the defendant did so plead should not be left to be inferred from a general recital in some order that the jury were sworn to try the issue joined. The court further says that the rule requiring the record of a trial for an infamous crime to show affirmatively that it was demanded of the accused to plead to the indictment, or that he did so plead, is not a matter of form only, but of substance in the administration of the criminal law, and that due process of law requires that the accused plead, or be ordered to plead, or, in a proper case, that a plea of not guilty be filed for him, before his trial can rightfully proceed.\nWe do not think that Gen. Code 13581, relating to'defects in an indictment that are not fatal, can apply in the ease at bar, as the right to plead to the indictment is a substantial one which can not be taken away from the accused.\n*518Finding no other errors in the record, the judgment of the court below will be reversed on the above grounds and a new trial granted.\nJudgment reversed.\nSwing and Jones, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 8509080
+        }
+    ],
+    "court_short_name": "Hamilton Circuit Court",
+    "court_full_name": "Hamilton Circuit Court",
+    "court_type": "ST",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Murder"
+}

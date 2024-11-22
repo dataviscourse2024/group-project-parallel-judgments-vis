@@ -1,8 +1,8 @@
 {
     "id": 8068097,
     "judges": "Green, Hatfield, Shanstrom",
-    "date_filed": 124070400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-09-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-sexton",
     "case_name_short": "Sexton",
     "case_name": "State v. Sexton",

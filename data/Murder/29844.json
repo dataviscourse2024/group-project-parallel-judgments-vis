@@ -1,0 +1,46 @@
+{
+    "id": 5317861,
+    "judges": "Brett, Bussey, Nix",
+    "date_filed": "2020-02-10",
+    "date_filed_is_approximate": true,
+    "slug": "in-re-russell",
+    "case_name_short": "In re Russell",
+    "case_name": "In re Russell",
+    "case_name_full": "Application of Jack C. RUSSELL, for Writ of Habeas Corpus",
+    "attorneys": "An application for writ of habeas corpus by Jack C. Russell an inmate in the State Penitentiary at McAlester, to secure his release. Writ denied., Jack C. Russell, pro se., Mac Q. Williamson, Atty. Gen., Lewis A. Wallace, Asst. Atty. Gen., for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "363 P.2d 299"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bussey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBUSSEY, Judge.\nThe petitioner, Jack C. Russell, an inmate in the state penitentiary at McAlester seeks his release in this cause and asserts as grounds that he is being restrained and imprisoned unlawfully. He was received at the State Penitentiary on the 3rd day of September, 1958, after being sentenced upon a plea of guilty to the charge of murder. A life sentence was imposed by the District Court of Okmulgee County, Oklahoma and the petitioner asserts in this cause that: (1) The evidence was insufficient to support the charge of murder as set out in the information; (2) That petitioner was not furnished with a copy of the information and a list of the State\u2019s witnesses to appear against him prior to the trial; (3) That he was arrested September 1, 1958 and was forced to trial September 2, 1958 and (4) That a plea of guilty was obtained by reason of threats and promises and undue pressure having been exerted upon him.\nThe State contends that as a matter of law the petitioner is not entitled to the relief sought herein because this Court passed upon the validity of the judgment and sentence now in question and held adversely to the contention of petitioner, in Application of Russell for Writ of Habeas Corpus, Okl.Cr., 354 P.2d 485. A review of that case discloses that this contention is correct. In that case all matters raised in the present application were fully and completely dealt with. This Court has repeatedly held that where an application such as the. one before us now has been denied in a prior application by the same applicant, we will not ordinarily entertain subsequent applications for such writ on the same grounds and facts, or any other grounds or facts existing when the first application was made, whether presented then or not, *300Hibbs v. Raines, Okl.Cr., 344 P.2d 672 and Morgan v. Raines, Okl.Cr., 363 P.2d 300. Therefore, the writ is denied.\nNIX, P. J., concurs.\nBRETT, J., not participating.\n",
+            "ocr": true,
+            "opinion_id": 5146667
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Murder"
+}

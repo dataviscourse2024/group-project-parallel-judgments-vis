@@ -1,0 +1,46 @@
+{
+    "id": 6575153,
+    "judges": null,
+    "date_filed": "2008-09-05",
+    "date_filed_is_approximate": true,
+    "slug": "wright-v-commonwealth",
+    "case_name_short": "Wright",
+    "case_name": "Wright v. Commonwealth",
+    "case_name_full": "Paul A. Wright v. Commonwealth",
+    "attorneys": "The case was submitted on briefs., Robert V. Greco & Reuben Goodman for the petitioner. Robert H. Quinn, Attorney General, David A. Mills & Mark I. Berson, Assistant Attorneys General, for the Commonwealth.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "362 Mass. 866"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThis petition for a writ of error was heard in the county court. The single justice affirmed the judgment and filed a memorandum. The case is before us on Wright\u2019s exception to the rulings and order of the single justice. After a jury waived trial before an experienced judge of the Superior Court on February 7, 1968, Wright was found guilty of assault with intent to rape and sentenced to a term of not more than fifteen years and not less than twelve years. No exceptions were saved at the original trial. Wright now claims that at the trial in the Superior Court he was denied the \u201ceffective assistance of counsel ... on the ground that his counsel failed to object and except to [certain identification] testimony by the alleged victim . . . and after his trial . . . that his counsel . . . failed to prosecute a direct appeal ... to the Supreme Judicial Court.\u201d Wright testified before the single justice and the transcript of the original trial was introduced in evidence. We discern no point in summarizing the testimony contained in the trial transcript. It is sufficent to state that we agree with the single justice who ruled that the \u201ctestimony warranted the finding of guilty by the judge who heard and saw the witnesses . . . [and that he perceived] nothing in the record . . . *867which indicates that defence counsel before, at, or after trial was not competent, diligent, and acting properly or that his trial tactics were not reasonable in the circumstances.\u201d The single justice concluded that \u201cWright was not denied effective assistance of counsel.\u201d There was no error.\nThe case was submitted on briefs.\nRobert V. Greco &amp; Reuben Goodman for the petitioner. Robert H. Quinn, Attorney General, David A. Mills &amp; Mark I. Berson, Assistant Attorneys General, for the Commonwealth.\n\nExceptions overruled.\n\n",
+            "ocr": true,
+            "opinion_id": 6448916
+        }
+    ],
+    "court_short_name": "Massachusetts Supreme Judicial Court",
+    "court_full_name": "Massachusetts Supreme Judicial Court",
+    "court_type": "S",
+    "court_jurisdiction": "Massachusetts, MA",
+    "crime_category": "Rape"
+}

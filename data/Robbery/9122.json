@@ -1,8 +1,8 @@
 {
     "id": 1248876,
     "judges": "Carter, Schauer, Traynor",
-    "date_filed": -620438400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-04-14",
+    "date_filed_is_approximate": true,
     "slug": "gardner-v-jonathan-club",
     "case_name_short": "Gardner",
     "case_name": "Gardner v. Jonathan Club",

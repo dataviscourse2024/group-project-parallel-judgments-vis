@@ -1,0 +1,47 @@
+{
+    "id": 5747948,
+    "judges": "Carley",
+    "date_filed": "2006-12-24",
+    "date_filed_is_approximate": true,
+    "slug": "shazer-v-state",
+    "case_name_short": "Shazer",
+    "case_name": "Shazer v. State",
+    "case_name_full": "SHAZER v. State",
+    "attorneys": "Ernie M. Sheffield, for appellant., J. Brown Moseley, District Attorney, Robert R. Auman, Assistant District Attorney, Thurbert E. Baker, Attorney General, Paula K. Smith, Senior Assistant Attorney General, Wylencia H. Monroe, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "272 Ga. 41",
+        "526 S.E.2d 856"
+    ],
+    "opinions": [
+        {
+            "author_str": "Carley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCarley, Justice.\nA jury found Nathaniel Shazer guilty of the malice murder of his wife and of possessing a firearm during the commission of a crime. The trial court entered its judgments of conviction on the jury\u2019s verdicts, and sentenced Shazer to life imprisonment on the murder charge and to a five-year consecutive term for the firearm possession offense, and he appeals.1\nShazer contends only that there was not sufficient evidence to authorize a finding of his guilt beyond a reasonable doubt. Construed most favorably for the State, the evidence shows that Shazer often threatened to kill the victim if she left him, and that he once did so while holding a gun to her head. In the days prior to her death, the victim expressed fear of Shazer and concern that she may die soon. Shazer admitted that he practiced with the pistol daily and knew that it had a bullet in the chamber, but claimed that it discharged accidentally when he was two to four feet away from the victim. However, expert testimony showed that the pistol was held against the victim\u2019s chest when it fired, causing her death, and that it would not fire accidentally, but required over 16 pounds of pressure to pull the trigger. \u201cThe jury was not required to believe [Shazer\u2019s] testimony that the weapon had accidentally discharged.\u201d Hayes v. State, 268 Ga. 809, 811 (1) (493 SE2d 169) (1997). From the State\u2019s evidence, a rational trier of fact could have found proof of Shazer\u2019s guilt of the crimes charged beyond a reasonable doubt. Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979); Dixson v. State, 269 Ga. 898 (1) (506 SE2d 128) (1998); Rotino v. State, 259 Ga. 295 (1) (380 SE2d 261) (1989); Tatum v. State, 259 Ga. 284, 285 (1) (380 SE2d 253) (1989); Stratton v. State, 257 Ga. 593, 594 (1) (362 SE2d 47) (1987); Crawford v. State, 256 Ga. 585 (1) (351 SE2d 199) (1987).\n\nJudgments affirmed.\n\n\nAll the Justices concur.\n\n*42Decided January 31, 2000.\nErnie M. Sheffield, for appellant.\nJ. Brown Moseley, District Attorney, Robert R. Auman, Assistant District Attorney, Thurbert E. Baker, Attorney General, Paula K. Smith, Senior Assistant Attorney General, Wylencia H. Monroe, Assistant Attorney General, for appellee.\n\n The murder occurred on or about December 17, 1997. The grand jury returned its indictment on March 17, 1998. The jury found Shazer guilty on October 1, 1998 and, on the same day, the trial court entered the judgments of conviction and sentences. Shazer filed a notice of appeal on October 9, 1998. The case was docketed in this court on September 20, 1999, and the appeal was submitted for decision on November 15, 1999.\n\n",
+            "ocr": true,
+            "opinion_id": 5600010
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

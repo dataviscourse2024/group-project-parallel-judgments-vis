@@ -1,8 +1,8 @@
 {
     "id": 1778915,
     "judges": "Green",
-    "date_filed": 109382400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-05-06",
+    "date_filed_is_approximate": true,
     "slug": "navajar-v-state",
     "case_name_short": "Navajar",
     "case_name": "Navajar v. State",

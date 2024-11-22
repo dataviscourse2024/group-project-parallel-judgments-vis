@@ -1,8 +1,8 @@
 {
     "id": 1239990,
     "judges": "Janine P. Geske",
-    "date_filed": 818380800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-05-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-post",
     "case_name_short": "Post",
     "case_name": "State v. Post",

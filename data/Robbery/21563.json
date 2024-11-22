@@ -1,8 +1,8 @@
 {
     "id": 3193099,
     "judges": "Clayton III, Dowd, James, Lawrence, Mooney",
-    "date_filed": 1460419200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-02-08",
+    "date_filed_is_approximate": true,
     "slug": "anthony-wallace-v-state-of-missouri",
     "case_name_short": null,
     "case_name": "Anthony Wallace v. State of Missouri",

@@ -1,8 +1,8 @@
 {
     "id": 1239412,
     "judges": "Kelly, Knutson, Olson, Sheran, Todd",
-    "date_filed": 130118400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-12-14",
+    "date_filed_is_approximate": true,
     "slug": "city-of-st-paul-v-myles",
     "case_name_short": "Myles",
     "case_name": "City of St. Paul v. Myles",

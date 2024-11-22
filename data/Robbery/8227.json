@@ -1,8 +1,8 @@
 {
     "id": 1454084,
     "judges": "Broussard, Mosk",
-    "date_filed": 571536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-08-16",
+    "date_filed_is_approximate": true,
     "slug": "people-v-guerrero",
     "case_name_short": "Guerrero",
     "case_name": "People v. Guerrero",

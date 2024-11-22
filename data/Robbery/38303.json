@@ -1,8 +1,8 @@
 {
     "id": 6988001,
     "judges": "Allen, Hamilton, Hicks",
-    "date_filed": -848102400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-12-14",
+    "date_filed_is_approximate": true,
     "slug": "murphy-v-united-states",
     "case_name_short": null,
     "case_name": "Murphy v. United States",

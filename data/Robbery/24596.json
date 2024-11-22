@@ -1,8 +1,8 @@
 {
     "id": 4160249,
     "judges": "Christian",
-    "date_filed": -1111104000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-01-16",
+    "date_filed_is_approximate": true,
     "slug": "thompson-v-state",
     "case_name_short": "Thompson",
     "case_name": "Thompson v. State",

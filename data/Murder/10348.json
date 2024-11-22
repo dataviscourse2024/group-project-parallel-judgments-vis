@@ -1,8 +1,8 @@
 {
     "id": 853555,
     "judges": "Boehm, Dickson, Rucker, Shepard, Sullivan",
-    "date_filed": 966470400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-04-04",
+    "date_filed_is_approximate": true,
     "slug": "specht-v-state",
     "case_name_short": "Specht",
     "case_name": "Specht v. State",

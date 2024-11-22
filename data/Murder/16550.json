@@ -1,8 +1,8 @@
 {
     "id": 2067437,
     "judges": "Woodward",
-    "date_filed": 337910400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-09-14",
+    "date_filed_is_approximate": true,
     "slug": "people-v-faine",
     "case_name_short": "Faine",
     "case_name": "People v. Faine",

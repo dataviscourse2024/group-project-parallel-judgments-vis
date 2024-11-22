@@ -1,8 +1,8 @@
 {
     "id": 1709385,
     "judges": "Per Curiam",
-    "date_filed": 529804800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-04-11",
+    "date_filed_is_approximate": true,
     "slug": "stano-v-state",
     "case_name_short": "Stano",
     "case_name": "Stano v. State",

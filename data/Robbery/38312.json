@@ -1,8 +1,8 @@
 {
     "id": 6990983,
     "judges": "Bratton, Murrah, Phillips",
-    "date_filed": -795312000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-11-20",
+    "date_filed_is_approximate": true,
     "slug": "schiffman-v-hunter",
     "case_name_short": "Schiffman",
     "case_name": "Schiffman v. Hunter",

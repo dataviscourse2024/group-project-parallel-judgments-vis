@@ -1,8 +1,8 @@
 {
     "id": 5891856,
     "judges": null,
-    "date_filed": 1207612800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-06-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-parker",
     "case_name_short": "Parker",
     "case_name": "People v. Parker",

@@ -1,8 +1,8 @@
 {
     "id": 1714324,
     "judges": "George, Harris, Hose, Smith",
-    "date_filed": -370396800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-11-07",
+    "date_filed_is_approximate": true,
     "slug": "hardy-v-hardy",
     "case_name_short": "Hardy",
     "case_name": "Hardy v. Hardy",

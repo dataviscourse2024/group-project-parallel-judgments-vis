@@ -1,0 +1,46 @@
+{
+    "id": 6887612,
+    "judges": "Cook, Douglas, Moyer, Pfeifer, Resnick, Stratton, Sweeney",
+    "date_filed": "1975-09-08",
+    "date_filed_is_approximate": true,
+    "slug": "taylor-v-mitchell",
+    "case_name_short": "Taylor",
+    "case_name": "Taylor v. Mitchell",
+    "case_name_full": "Taylor v. Mitchell, Warden",
+    "attorneys": "\n\nGerald, Taylor, pro se.\n, Betty D. Montgomery, Attorney General, and Michele M. Schoeppe, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted April 11, 2000",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "88 Ohio St. 3d 453"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nPer Curiam.\n\nWe affirm the judgment of the court of appeals. Any defect caused by the alleged failure to file criminal complaints or the claimed impropriety of the municipal court\u2019s assumption of jurisdiction over the rape charges is not cognizable in habeas corpus. Taylor was convicted and sentenced upon an indictment regularly issued, and the common pleas court had jurisdiction to try, convict, and sentence him on the charged offenses. See State ex rel. Dozier v. Mack (1999), 85 Ohio St.3d 368, 369, 708 N.E.2d 712, 713; see, also, Simpson v. Maxwell (1964), 1 Ohio St.2d 71, 30 O.O.2d 40, 203 N.E.2d 324; Orr v. Mack (1998), 83 Ohio St.3d 429, 430, 700 N.E.2d 590, 591 (\u201c[A]fter a conviction for crimes charged in an indictment, the judgment binds the defendant for the crime for which he was convicted.\u201d).1\n\nJudgment affirmed.\n\nMoyer, C.J., Douglas, Resnick, F.E. Sweeney, Pfeifer, Cook and Lundberg Stratton, JJ., concur.\n\n. Taylor waived the additional claims he raises on appeal by failing to raise them in the court of appeals. Brown v. Leonard (1999), 86 Ohio St.3d 593, 716 N.E.2d 183.\n\n",
+            "ocr": true,
+            "opinion_id": 6781249
+        }
+    ],
+    "court_short_name": "Ohio Supreme Court",
+    "court_full_name": "Ohio Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Rape"
+}

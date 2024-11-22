@@ -1,8 +1,8 @@
 {
     "id": 1530706,
     "judges": "Douglas",
-    "date_filed": 100310400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-03-18",
+    "date_filed_is_approximate": true,
     "slug": "ex-parte-mckenzie",
     "case_name_short": null,
     "case_name": "Ex Parte McKenzie",

@@ -1,8 +1,8 @@
 {
     "id": 2618375,
     "judges": "Brett, Jones, Powell",
-    "date_filed": -590976000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-10-02",
+    "date_filed_is_approximate": true,
     "slug": "hathcox-v-state",
     "case_name_short": "Hathcox",
     "case_name": "Hathcox v. State",

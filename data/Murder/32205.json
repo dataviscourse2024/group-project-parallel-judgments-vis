@@ -1,0 +1,46 @@
+{
+    "id": 5783778,
+    "judges": "Shulman",
+    "date_filed": "1994-03-23",
+    "date_filed_is_approximate": true,
+    "slug": "clark-v-state",
+    "case_name_short": null,
+    "case_name": "Clark v. State",
+    "case_name_full": "CLARK v. State",
+    "attorneys": "Robert C. Ray, for appellant., Lewis R. Slaton, District Attorney, Joseph J. Drolet, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted September 17, 1980",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "156 Ga. App. 326"
+    ],
+    "opinions": [
+        {
+            "author_str": "Shulman",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nShulman, Judge.\nThis appeal is from appellant\u2019s conviction of voluntary manslaughter. We affirm.\n1. The trial court did not err in admitting into evidence nine photographs of the victim\u2019s body. Stevens v. State, 242 Ga. 34 (5) (247 SE2d 838); Florence v. State, 243 Ga. 738 (4) (256 SE2d 467).\n2. Appellant contends that the trial court erred in failing to grant a mistrial, claiming that appellant\u2019s character was placed in issue by the testimony of a witness for the state. The testimony toward which appellant\u2019s complaint was directed was the statement that appellant and the victim knew each other and \u201chustled\u201d together. The word \u201chustled\u201d was not defined or explained.\nWe cannot agree with appellant that the use of so ambiguous a term necessarily implied bad character on the part of appellant. As was pointed out by the prosecuting attorney during the colloquy which followed appellant\u2019s motion, there are several meanings for the *327word \u201chustle\u201d and some of them are positive rather than derogatory. Therefore, we find no error in the trial court\u2019s denial of the motion for mistrial.\nSubmitted September 17, 1980\nDecided November 5, 1980.\nRobert C. Ray, for appellant.\nLewis R. Slaton, District Attorney, Joseph J. Drolet, Assistant District Attorney, for appellee.\n3. Appellant\u2019s third enumeration of error, that the trial court improperly permitted the state to cross examine appellant concerning his silence when arrested, is wholly without support in the record. The questioning was not even remotely connected with appellant\u2019s silence at the time of arrest: the prosecuting attorney merely contrasted appellant\u2019s detail recall of the events surrounding his arrest with his assertion that he could not remember where he was when the victim was killed.\n4. After both sides had rested, appellant moved for a mistrial, asserting that the failure of the state to conduct any pretrial identification procedures rendered the in-court identifications of the eyewitnesses impermissibly suggestive. The denial of that motion is enumerated as error.\n\u201cA line-up identification, or identification from a group of photographs, is not a prerequisite to every in-court identification. [Cits.] The test is whether the identification confrontation staged by the law enforcement authorities, judged by the \u2018totality of the circumstances surrounding it,\u2019 is \u2018so unnecessarily suggestive and conducive to irreparable mistaken identification\u2019 as to constitute a denial of due process of law.\u201d Moye v. State, 122 Ga. App. 14, 17 (176 SE2d 180).\nAppellant has cited us to no evidence in the record, and we have found none, which would indicate that the testimony of the eyewitnesses who identified appellant at trial was based on anything other than their observation of appellant during the killing of the victim. Considering the totality of the circumstances, we find no improper suggestiveness and no likelihood of irreparable misidentification.\n\nJudgment affirmed.\n\n\nQuillian, P. J., and Carley, J., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5637908
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

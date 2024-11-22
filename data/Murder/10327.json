@@ -1,8 +1,8 @@
 {
     "id": 2190926,
     "judges": "Clark, Ryan, Simon, Underwood, Ward",
-    "date_filed": 412214400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-03-26",
+    "date_filed_is_approximate": true,
     "slug": "people-v-szabo",
     "case_name_short": "Szabo",
     "case_name": "People v. Szabo",

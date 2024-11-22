@@ -1,8 +1,8 @@
 {
     "id": 1702535,
     "judges": "En Banc",
-    "date_filed": 364608000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-01-18",
+    "date_filed_is_approximate": true,
     "slug": "kerr-mcgee-corp-v-hutto",
     "case_name_short": "Hutto",
     "case_name": "Kerr-McGee Corp. v. Hutto",

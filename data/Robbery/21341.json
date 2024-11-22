@@ -1,8 +1,8 @@
 {
     "id": 3140167,
     "judges": null,
-    "date_filed": 1191542400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-01-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lisle",
     "case_name_short": "Lisle",
     "case_name": "People v. Lisle",

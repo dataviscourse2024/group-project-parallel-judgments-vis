@@ -1,0 +1,46 @@
+{
+    "id": 297192,
+    "judges": "Carter, Chambers, Per Curiam, Wright",
+    "date_filed": "2006-10-14",
+    "date_filed_is_approximate": true,
+    "slug": "james-scherer-and-v-carl-hocker-warden-nevada-state-prison",
+    "case_name_short": null,
+    "case_name": "James Scherer, and v. Carl Hocker, Warden, Nevada State Prison",
+    "case_name_full": "James SCHERER, Petitioner and Appellant, v. Carl HOCKER, Warden, Nevada State Prison, Appellee",
+    "attorneys": "James Scherer, in pro. per., Robert Lisst, Atty. Gen., Carson City, Nev., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Aug. 13, 1971.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b1238-25\">\n    James SCHERER, Petitioner and Appellant, v. Carl HOCKER, Warden, Nevada State Prison, Appellee.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b1238-27\">\n    No. 71-1565.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b1238-28\">\n    United States Court of Appeals, Ninth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b1238-29\">\n    June 23, 1971.\n   </decisiondate><br><otherdate data-order=\"4\" data-type=\"otherdate\" id=\"b1238-30\">\n    Rehearing Denied Aug. 13, 1971.\n   </otherdate><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b1238-32\">\n    James Scherer, in pro. per.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b1238-33\">\n    Robert Lisst, Atty. Gen., Carson City, Nev., for appellee.\n   </attorneys><br><p data-order=\"7\" data-type=\"judges\" id=\"b1238-34\">\n    Before CHAMBERS, CARTER and WRIGHT, Circuit Judges.\n   </p>",
+    "citations": [
+        "443 F.2d 1176"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/443/443.F2d.1176.71-1565.html",
+            "author_id": null,
+            "opinion_text": "443 F.2d 1176\n    James SCHERER, Petitioner and Appellant,v.Carl HOCKER, Warden, Nevada State Prison, Appellee.\n    No. 71-1565.\n    United States Court of Appeals, Ninth Circuit.\n    June 23, 1971, Rehearing Denied Aug. 13, 1971.\n    \n      James Scherer, in pro. per.\n      Robert Lisst, Atty. Gen., Carson City, Nev., for appellee.\n      Before CHAMBERS, CARTER and WRIGHT, Circuit Judges.\n      PER CURIAM:\n    \n    \n      1\n      The district court orders which are sought to be overturned here are affirmed.\n    \n    \n      2\n      The defendant is serving a state sentence after conviction of murder.  No state appeal was taken.\n    \n    \n      3\n      There was no exhaustion or even a sustained pursuit of state remedies.  The record belies his contention that access to the state courts was frustrated.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 297192
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

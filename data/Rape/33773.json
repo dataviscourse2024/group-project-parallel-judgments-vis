@@ -1,0 +1,47 @@
+{
+    "id": 6104123,
+    "judges": null,
+    "date_filed": "2000-01-18",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-prezioso",
+    "case_name_short": "Prezioso",
+    "case_name": "People v. Prezioso",
+    "case_name_full": "The People of the State of New York v. Joseph Prezioso",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "199 A.D.2d 343",
+        "604 N.Y.S.2d 256"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the *344defendant from a judgment of the Supreme Court, Queens County (Browne, J.), rendered April 30, 1990, convicting him of rape in the first degree (three counts), sodomy in the first degree (three counts), incest (three counts), endangering the welfare of a child (three counts), and sexual abuse in the first degree (18 counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nAlthough the offenses charged in the indictment arose out of separate sexual assaults, they were properly joined for trial pursuant to CPL 200.20 (2) (c) and the court did not improvidently exercise its discretion in denying the defendant\u2019s pretrial motion for severance under CPL 200.20 (3). The defendant failed to adequately set forth the manner in which he would be prejudiced by trying all the charges together (see, People v Lane, 56 NY2d 1; People v Rivera, 186 AD2d 594; People v Pierce, 141 AD2d 864).\nThe crimes joined in the indictments were \"the same or similar in law\u201d (CPL 200.20 [2] [c]) and, since proof of each crime was presented separately and in an uncomplicated, easily segregable fashion, it cannot be said that the defendant suffered any prejudice by the joinder. There was no substantial difference in the quantum of proof for the different crimes. Further, the evidence of the defendant\u2019s guilt on each of the counts was quite strong through the testimony of the children, the medical evidence of the multiple penetrations, the fact that the defendant transmitted venereal diseases to two of the victims, and the mother\u2019s testimony that the defendant was with the children during the periods in which the violations occurred (see, People v Jenkins, 50 NY2d 981; People v Brennin, 184 AD2d 715; People v Hall, 169 AD2d 778; People v Young, 167 AD2d 441; People v Martin, 141 AD2d 854; People v Nelson, 133 AD2d 470; People v Mack, 111 AD2d 186).\nWhere there has been a conviction upon legally sufficient evidence, the propriety of the trial court\u2019s decision to deny the defendant\u2019s motion to inspect the Grand Jury minutes and to dismiss the indictment is not reviewable (see, CPL 210.30 [6]; People v Miller, 121 AD2d 477). Accordingly, the defendant\u2019s claims as to the competency of the evidence before the Grand Jury or the instructions are not properly raised. Further, since the defendant\u2019s claims on appeal do not concern the integrity of the proceedings, they are not reviewable (see, CPL 210.35 [5]; People v Darby, 75 NY2d 449).\nThe sentence imposed was not excessive. The defendant\u2019s *345remaining contentions are either unpreserved for appellate review or without merit. Sullivan, J. P., O\u2019Brien, Ritter and Joy, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5968784
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

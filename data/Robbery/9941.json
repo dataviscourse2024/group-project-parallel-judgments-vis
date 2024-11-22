@@ -1,8 +1,8 @@
 {
     "id": 2275598,
     "judges": "Cappy, Castille, Eakin, Newman, Nigro, Saylor, Zappala",
-    "date_filed": 1041292800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-03-20",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-grant",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Grant",

@@ -1,0 +1,46 @@
+{
+    "id": 6390412,
+    "judges": "Bell, Boberts, Brien, Cohen, Eagen, Jones, Pomeroy, Took",
+    "date_filed": "2018-03-24",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-montgomery",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Montgomery",
+    "case_name_full": "Commonwealth v. Montgomery",
+    "attorneys": ". David 17. Savitt, with him John Patrick Walsh, and Walsh & Savitt, for appellant., Ivan Micha\u00e9lson Gmp, Assistant District Attorney, with him Milton M. Stein, Assistant District Attorney, James D. Craioford/Deimty District Attorney, Richard A. Sprague, First Assistant District Attorney, and Arlen Specter, District Attorney, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued November 30, 1970.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "442 Pa. 163"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brien",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion by\nMr. Justice O\u2019Brien,\nAppellant was tried by the court sitting without a jury on charges stemming from the. death of Leo McMahon. He was found guilty of voluntary manslaughter, and after denial of his post-trial motions and imposition of sentence, he has appealed, alleging only that the evidence was not sufficient to support the conviction beyond a reasonable doubt.\nThe evidence . showed that appellant and Sarah Kauffman, a registered nurse, spent the evening drinking with Leo McMahon, after which all three went back to McMahon\u2019s apartment to sleep. The next day .the festivities continued until McMahon got into an argument with appellant, urging him to return to Norfolk, Virginia, where he was stationed in the Navy. Appellant refused to leave, although he was due back. Instead, he and Miss Kauffman went into one of the bedrooms in McMahon\u2019s apartment and closed the door. McMahon began banging loudly on the door, after *165which, according to Miss Kauffman\u2019s testimony, appellant said \u201cI am going to settle this once and for all,\u201d and stalked out of the room. She then testified that she heard the sound of yelling and things being thrown around in the kitchen, and upon opening the door saw appellant take a knife out of a drawer in the kitchen. Two minutes later appellant called to Miss Kauffman \u201cSally, come quick. Get help or a ambulance or somebody.\u201d McMahon died soon afterward.\nAccording to appellant, McMahon had been hitting him and beating him so he took the knife out to scare him, but the deceased continued to come after him and lunged on the knife. However, Dr. Fillinger, an assistant medical examiner in Philadelphia County, testified that the angle of the knife wound made it highly unlikely that McMahon died in the way appellant described. Rather, according to Dr. Fillinger, the wound was made by the thrust of the knife.\nAppellant emphasizes the physician\u2019s testimony that the appellant\u2019s version was also a possible explanation for McMahon\u2019s death. However, credibility was for the finder of fact, and Miss Kauffman\u2019s testimony that appellant had picked up the knife even though there was no threat to his life, the testimony of the police that appellant had originally told them that McMahon stabbed himself, and appellant\u2019s own testimony of the bad blood which existed between McMahon and him, gave the court adequate reason not to believe appellant\u2019s explanation.\nJudgment affirmed.\nMr. Justice Cohen took no part in the decision of this case.\n",
+            "ocr": true,
+            "opinion_id": 6260236
+        }
+    ],
+    "court_short_name": "Supreme Court of Pennsylvania",
+    "court_full_name": "Supreme Court of Pennsylvania",
+    "court_type": "S",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Murder"
+}

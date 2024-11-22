@@ -1,8 +1,8 @@
 {
     "id": 1379933,
     "judges": "Carley, Deen, Sognier",
-    "date_filed": 577411200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-02-09",
+    "date_filed_is_approximate": true,
     "slug": "hester-v-state",
     "case_name_short": "Hester",
     "case_name": "Hester v. State",

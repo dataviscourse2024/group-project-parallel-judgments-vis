@@ -1,8 +1,8 @@
 {
     "id": 1837253,
     "judges": "Robert P. Bradley",
-    "date_filed": 685929600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-01",
+    "date_filed_is_approximate": true,
     "slug": "hill-v-falletta",
     "case_name_short": "Hill",
     "case_name": "Hill v. Falletta",

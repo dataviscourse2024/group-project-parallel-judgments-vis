@@ -1,8 +1,8 @@
 {
     "id": 5809680,
     "judges": "Sims",
-    "date_filed": 1241049600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-11-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-tc",
     "case_name_short": "T.C.",
     "case_name": "People v. T.C.",

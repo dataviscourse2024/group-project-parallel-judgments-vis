@@ -1,8 +1,8 @@
 {
     "id": 2508887,
     "judges": "Ireland",
-    "date_filed": 1087430400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-06-05",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hanson",
     "case_name_short": "Hanson",
     "case_name": "State v. Hanson",

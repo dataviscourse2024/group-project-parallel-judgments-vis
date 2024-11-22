@@ -1,8 +1,8 @@
 {
     "id": 1671111,
     "judges": "Cornelius",
-    "date_filed": 504489600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-03-05",
+    "date_filed_is_approximate": true,
     "slug": "sapien-v-state",
     "case_name_short": "Sapien",
     "case_name": "Sapien v. State",

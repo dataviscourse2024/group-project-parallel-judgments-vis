@@ -1,8 +1,8 @@
 {
     "id": 1969232,
     "judges": "Garibaldi",
-    "date_filed": 863654400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-06-09",
+    "date_filed_is_approximate": true,
     "slug": "state-v-crawley",
     "case_name_short": "Crawley",
     "case_name": "State v. Crawley",

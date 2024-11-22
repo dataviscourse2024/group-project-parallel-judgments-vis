@@ -1,8 +1,8 @@
 {
     "id": 3245137,
     "judges": "Bricken",
-    "date_filed": -1253923200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-05-19",
+    "date_filed_is_approximate": true,
     "slug": "lotz-v-state",
     "case_name_short": "Lotz",
     "case_name": "Lotz v. State",

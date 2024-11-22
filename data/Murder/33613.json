@@ -1,0 +1,46 @@
+{
+    "id": 6073119,
+    "judges": null,
+    "date_filed": "2011-11-10",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-alicea",
+    "case_name_short": "Alicea",
+    "case_name": "People v. Alicea",
+    "case_name_full": "The People of the State of New York v. Angel Alicea",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "173 A.D.2d 397"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Michael Ob\u00fas, J.), rendered September 27, 1989, convicting defendant after a jury trial of murder in the second degree and criminal possession of a weapon in the fourth degree, and sentencing him to concurrent terms of imprisonment of 17 years to life and one year, respectively unanimously affirmed.\nThe evidence at trial shows that Stanford Hewitt and his three companions happened upon defendant, co-defendant Rivera and two others in a street encounter. Rivera challenged and then attacked Hewitt. Defendant produced a knife, and after menacing James Williams and slashing Clarence Crawford, stabbed Hewitt to death.\nWe find no merit to defendant\u2019s claim on appeal that he was deprived of a fair opportunity to present his defense. The case was advanced to trial on consent, and the decision to carry the case ready and passed for several days was not an abuse of discretion (People v Spears, 64 NY2d 698, 699-700). Counsel did not tell the court that his missing witness, who was involved with drugs and outside the jurisdiction, would give material testimony. (Matter of Anthony M., 63 NY2d 270, 283-284; People v Foy, 32 NY2d 473.) Further, trial counsel did not move for an adjournment during the course of the trial or alert the court to the fact, revealed at sentencing, that the missing witness was one of the persons involved in the altercation.\nDefendant\u2019s claim that the prosecutor appealed to the jury\u2019s passion on summation is unpreserved. Were we to reach the issue in the interest of justice, we would find it lacking in merit.\n*398The issues raised in defendant\u2019s pro se supplemental brief do not warrant reversal. His conviction for murder in the second degree was established beyond a reasonable doubt, and his claim that trial counsel was ineffective is not founded on matter appearing in the record on appeal. (People v Jones, 55 NY2d 771; People v Brown, 45 NY2d 852.) Concur\u2014Ellerin, J. P., Wallach, Kupferman, Asch and Kassal, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5937061
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

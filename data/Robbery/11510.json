@@ -1,8 +1,8 @@
 {
     "id": 1376121,
     "judges": "Per Curiam",
-    "date_filed": 732412800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-11-16",
+    "date_filed_is_approximate": true,
     "slug": "mitchell-v-state",
     "case_name_short": null,
     "case_name": "Mitchell v. State",

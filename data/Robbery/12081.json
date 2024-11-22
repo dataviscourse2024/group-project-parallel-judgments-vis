@@ -1,8 +1,8 @@
 {
     "id": 1403343,
     "judges": "Fontron",
-    "date_filed": 8640000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-07-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-burgess",
     "case_name_short": "Burgess",
     "case_name": "State v. Burgess",

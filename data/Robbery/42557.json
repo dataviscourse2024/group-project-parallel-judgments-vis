@@ -1,8 +1,8 @@
 {
     "id": 7863807,
     "judges": "Smith",
-    "date_filed": -1722729600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-03-12",
+    "date_filed_is_approximate": true,
     "slug": "johnson-v-state",
     "case_name_short": null,
     "case_name": "Johnson v. State",

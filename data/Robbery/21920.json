@@ -1,8 +1,8 @@
 {
     "id": 3272092,
     "judges": "Hart, McCulloch, Smith",
-    "date_filed": -1364083200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-20",
+    "date_filed_is_approximate": true,
     "slug": "knight-v-state",
     "case_name_short": "Knight",
     "case_name": "Knight v. State",

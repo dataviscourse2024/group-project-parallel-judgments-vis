@@ -1,8 +1,8 @@
 {
     "id": 779468,
     "judges": "Diane, Easterbrook, Posner, Wood",
-    "date_filed": 1032998400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-05-01",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-susan-costello",
     "case_name_short": null,
     "case_name": "United States v. Susan Costello",

@@ -1,8 +1,8 @@
 {
     "id": 8785042,
     "judges": "Masterson",
-    "date_filed": -34128000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-10-12",
+    "date_filed_is_approximate": true,
     "slug": "united-states-ex-rel-kimbrough-v-rundle",
     "case_name_short": "Rundle",
     "case_name": "United States ex rel. Kimbrough v. Rundle",

@@ -1,0 +1,46 @@
+{
+    "id": 5174860,
+    "judges": "Davidson",
+    "date_filed": "1972-05-02",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-sayers",
+    "case_name_short": "Ex parte Sayers",
+    "case_name": "Ex parte Sayers",
+    "case_name_full": "Ex parte SAYERS",
+    "attorneys": "A. J. Fires, R. D. Browne, and J. M. Hawkins, for appellant., C. E. Lane, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Appeal from District Court, King County; Jo. A. P. Dickson, Judge. Application of F. P. Sayers for a writ of habeas corpus to admit to bail. Writ denied, and applicant appeals.",
+    "disposition": "Judgment reversed, and bail fixed at $5,000.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "142 S.W. 1198"
+    ],
+    "opinions": [
+        {
+            "author_str": "Davidson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDAVIDSON, P. J.\nRelator, on trial under a writ of habeas corpus, was refused bail. The charge was murder. We have carefully examined the facts., and are of opinion that the trial court was in error in refusing to grant relator bail. We are of opinion the judgment should be reversed, and relator granted bail in the sum of $5,000. The officer having relator in charge will release him, upon his executing bond in this amount in the terms and under the provisions of the law. The judgment is reversed, and bail fixed at $5,000.\n",
+            "ocr": true,
+            "opinion_id": 4996161
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

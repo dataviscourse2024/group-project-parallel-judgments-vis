@@ -1,8 +1,8 @@
 {
     "id": 1273374,
     "judges": "Fatzer, Fromme, Schroeder",
-    "date_filed": 124156800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-10-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-clingerman",
     "case_name_short": "Clingerman",
     "case_name": "State v. Clingerman",

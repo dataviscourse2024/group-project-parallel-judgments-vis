@@ -1,8 +1,8 @@
 {
     "id": 2497442,
     "judges": "Clarence, Johnson, Marc, McMANUS, Rothschild, Walter",
-    "date_filed": 1297728000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-01-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-junior",
     "case_name_short": "Junior",
     "case_name": "State v. Junior",

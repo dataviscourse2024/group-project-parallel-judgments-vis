@@ -1,8 +1,8 @@
 {
     "id": 7998238,
     "judges": "Bird, Clark, McDonald, Moore, Sharpe, Steere, Wiest",
-    "date_filed": -1483488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-06-18",
+    "date_filed_is_approximate": true,
     "slug": "hanson-v-loescher",
     "case_name_short": "Hanson",
     "case_name": "Hanson v. Loescher",

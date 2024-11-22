@@ -1,8 +1,8 @@
 {
     "id": 1517494,
     "judges": "Bourcier, Flanders, Goldberg, Lederberg, Weisberger",
-    "date_filed": 962928000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-12-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-rice",
     "case_name_short": "Rice",
     "case_name": "State v. Rice",

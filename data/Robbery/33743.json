@@ -1,8 +1,8 @@
 {
     "id": 6098198,
     "judges": null,
-    "date_filed": 1388102400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-05-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-jefferson",
     "case_name_short": "Jefferson",
     "case_name": "People v. Jefferson",

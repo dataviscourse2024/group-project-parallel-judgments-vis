@@ -1,8 +1,8 @@
 {
     "id": 6318389,
     "judges": "Wahl",
-    "date_filed": -138758400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-12-22",
+    "date_filed_is_approximate": true,
     "slug": "himmel-v-chase-manhattan-bank",
     "case_name_short": "Himmel",
     "case_name": "Himmel v. Chase Manhattan Bank",

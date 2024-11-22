@@ -1,8 +1,8 @@
 {
     "id": 3283708,
     "judges": "Thompson",
-    "date_filed": -1189728000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-08-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-chambers",
     "case_name_short": "Chambers",
     "case_name": "People v. Chambers",

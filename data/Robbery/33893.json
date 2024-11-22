@@ -1,8 +1,8 @@
 {
     "id": 6128687,
     "judges": null,
-    "date_filed": 812851200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-01-11",
+    "date_filed_is_approximate": true,
     "slug": "people-v-harrison",
     "case_name_short": "Harrison",
     "case_name": "People v. Harrison",

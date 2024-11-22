@@ -1,8 +1,8 @@
 {
     "id": 1947483,
     "judges": "Garibaldi",
-    "date_filed": 759542400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-11-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-smith",
     "case_name_short": null,
     "case_name": "State v. Smith",

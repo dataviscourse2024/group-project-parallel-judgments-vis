@@ -1,8 +1,8 @@
 {
     "id": 2006713,
     "judges": "Danhoe, Holbrook, Vander, Wal",
-    "date_filed": 33609600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-12-19",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mckeller",
     "case_name_short": "McKeller",
     "case_name": "People v. McKeller",

@@ -1,8 +1,8 @@
 {
     "id": 2500212,
     "judges": "Corrigan",
-    "date_filed": 1141084800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-03-01",
+    "date_filed_is_approximate": true,
     "slug": "border-collie-rescue-inc-v-ryan",
     "case_name_short": "Ryan",
     "case_name": "Border Collie Rescue, Inc. v. Ryan",

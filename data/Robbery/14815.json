@@ -1,8 +1,8 @@
 {
     "id": 1231253,
     "judges": "Ruffin",
-    "date_filed": 1183420800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-09-26",
+    "date_filed_is_approximate": true,
     "slug": "washington-v-state",
     "case_name_short": null,
     "case_name": "Washington v. State",

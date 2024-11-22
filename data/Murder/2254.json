@@ -1,0 +1,47 @@
+{
+    "id": 8205936,
+    "judges": "Callister, Crockett, Henriod, McDonough, Wade",
+    "date_filed": "1989-10-25",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-cannon",
+    "case_name_short": "Cannon",
+    "case_name": "State v. Cannon",
+    "case_name_full": "STATE of Utah, and v. Vernon Howard CANNON, and",
+    "attorneys": "James L. Barker, Salt Lake City, for defendant and appellant., Phil L. Hansen, Atty. Gen., Ronald N. Boyce, Chief Asst. Atty. Gen., Salt Lake City, for plaintiff and respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "17 Utah 2d 105",
+        "404 P.2d 971"
+    ],
+    "opinions": [
+        {
+            "author_str": "Henriod",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHENRIOD, Chief Justice:\nAppeal from an auto homicide conviction. Affirmed.\nIn October, 1963, defendant drove eight miles up a local canyon to a cafe, in which he was part owner, where he visited for three or four hours, and after eating, started down the canyon'after dark. On the way he consumed a half pint of whiskey within about IS -minutes. At an intersection at the bottom of the canyon-he turned south, traveled'on a main thoroughfare, and after weaving back and forth, attempted to pass a truck, crossed a yellow-line traffic control and crashed head-on with a car carrying three young athletes returning from a basketball game, killing two of them.\nHe was taken into custody and to the hospital where within two hours, a blood test was taken that indicated definitely that he was under the influence of intoxicating liquor. No inaccuracy in the test was shown.\nDefendant introduced evidence that a year before he had an attack of Meniere\u2019s disease, which has the effect of disabling *106dne's'legs\u2019and'power of locomotion, not the mind, \u2014 the implication being that he may have suffered an attack in the present case. The trial court struck such evidence as being remote. We think the court was right in such exclusion, since besides being remote, there was no evidence of such .attack here.'\nDefendant urges further that it was error to introduce evidence of the blood test, since it was taken at a remote time. We cannot say that if such test is taken IS minutes after an accident or 50 or ISO minutes thereafter, the evidence is inadmissible. This is a matter for expert medical testimony, and for the jury, and there is nothing here along that line substantiating defendant\u2019s claim of remoteness.\nMcDonough, crockett, wade and CALLISTER, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 8168062
+        }
+    ],
+    "court_short_name": "Utah Supreme Court",
+    "court_full_name": "Utah Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Utah, UT",
+    "crime_category": "Murder"
+}

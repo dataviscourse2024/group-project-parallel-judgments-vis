@@ -1,8 +1,8 @@
 {
     "id": 1601154,
     "judges": "Motley",
-    "date_filed": 250732800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-09-01",
+    "date_filed_is_approximate": true,
     "slug": "united-states-ex-rel-schmidt-v-lavallee",
     "case_name_short": "LaVallee",
     "case_name": "United States Ex Rel. Schmidt v. LaVallee",

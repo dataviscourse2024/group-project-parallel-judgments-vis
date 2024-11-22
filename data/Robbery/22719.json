@@ -1,8 +1,8 @@
 {
     "id": 3479546,
     "judges": "Fournet, O'Niell",
-    "date_filed": -902620800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-07-31",
+    "date_filed_is_approximate": true,
     "slug": "state-v-shuff",
     "case_name_short": "Shuff",
     "case_name": "State v. Shuff",

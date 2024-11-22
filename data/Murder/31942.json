@@ -1,0 +1,46 @@
+{
+    "id": 5728786,
+    "judges": "Evans",
+    "date_filed": "2007-07-07",
+    "date_filed_is_approximate": true,
+    "slug": "collier-v-state",
+    "case_name_short": "Collier",
+    "case_name": "Collier v. State",
+    "case_name_full": "Collier v. State",
+    "attorneys": "George W. Owens, for plaintiff in error., Thomas 8. Felder, attorney-general, .Walter O. Hartridge, solicitor-general, and Morris H. Bernstein, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for murder. Before Judge Charlton. Chatham superiors court. April 15, 1913.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "140 Ga. 138"
+    ],
+    "opinions": [
+        {
+            "author_str": "Evans",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nEvans, P. J.\nNo complaint is made of any ruling of the court on the trial of the case. The evidence warrants the verdict, which has the approval of the trial judge.\nJudgment affirmed.\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5579107
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

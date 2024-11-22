@@ -1,8 +1,8 @@
 {
     "id": 1224152,
     "judges": "Barnes, Miller, Smith",
-    "date_filed": 1196726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-05-08",
+    "date_filed_is_approximate": true,
     "slug": "jackson-v-state",
     "case_name_short": null,
     "case_name": "Jackson v. State",

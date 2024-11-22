@@ -1,0 +1,46 @@
+{
+    "id": 5606078,
+    "judges": null,
+    "date_filed": "1987-03-21",
+    "date_filed_is_approximate": true,
+    "slug": "in-re-ex-parte-of-timothy",
+    "case_name_short": null,
+    "case_name": "In re ex parte of Timothy",
+    "case_name_full": "Ex Parte S. R. TIMOTHY, on Habeas Corpus",
+    "attorneys": "Albert Mansfield, for Petitioner., Franklin Swart, District Attorney, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law \u2014 Habeas Corpus \u2014 Murder \u2014 Commitment without Seasonable Cause.\u2014Where a prisoner charged with murder seeks to be discharged on habeas corpus on the ground that he had been committed without reasonable or probable cause, and an examination of the evidence shows the contrary, the writ will be denied without a discussion of the evidence by the court.</p>",
+    "summary": "APPLICATION for a Writ of Habeas Corpus directed to the Sheriff of San Mateo County. The facts are stated in the opinion of the court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "162 Cal. 241"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nTHE COURT.\nPetitioner applies for a writ of habeas corpus and seeks his discharge thereunder upon the ground that he has been committed on a criminal charge without reasonable or probable cause. (Pen. Code, sec. 1487, subd. 7.) The crime charged is murder and the evidence discloses that petitioner fired the shot that killed one J. J. Moore. If our examination of the evidence convinced us that the petitioner had been held to answer without reasonable or probable cause, a full discussion of that evidence would become pertinent and proper, but where, as here, the result of that examination has been to convince us that the respondent is not held without reasonable cause, such a discussion can serve no useful purpose, and might work injury.\nThe application for the writ is denied.\n",
+            "ocr": true,
+            "opinion_id": 5450025
+        }
+    ],
+    "court_short_name": "California Supreme Court",
+    "court_full_name": "California Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Murder"
+}

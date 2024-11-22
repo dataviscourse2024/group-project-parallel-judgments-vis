@@ -1,8 +1,8 @@
 {
     "id": 4326594,
     "judges": null,
-    "date_filed": 1480464000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-02-05",
+    "date_filed_is_approximate": true,
     "slug": "osiel-alvarez-v-state",
     "case_name_short": null,
     "case_name": "Osiel Alvarez v. State",

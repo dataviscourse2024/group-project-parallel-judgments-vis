@@ -1,8 +1,8 @@
 {
     "id": 3142784,
     "judges": null,
-    "date_filed": 1371600000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-12-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-brown",
     "case_name_short": "Brown",
     "case_name": "People v. Brown",

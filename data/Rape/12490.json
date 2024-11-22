@@ -1,8 +1,8 @@
 {
     "id": 1471264,
     "judges": "Mishler",
-    "date_filed": 82252800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-06-14",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-boulier",
     "case_name_short": "Boulier",
     "case_name": "United States v. Boulier",

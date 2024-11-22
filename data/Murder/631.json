@@ -1,0 +1,47 @@
+{
+    "id": 7876956,
+    "judges": "Smith",
+    "date_filed": "2016-06-26",
+    "date_filed_is_approximate": true,
+    "slug": "welch-v-state",
+    "case_name_short": "Welch",
+    "case_name": "Welch v. State",
+    "case_name_full": "Lawrence E. WELCH, Jr. v. STATE of Arkansas",
+    "attorneys": "Morgan E. Welch, for appellant., Steve Clark, Atty. Gen., by: Marci L. Talbot, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "[Rehearing denied October 22, 1984.]",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "283 Ark. 281",
+        "675 S.W.2d 641"
+    ],
+    "opinions": [
+        {
+            "author_str": "Smith",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " George Rose Smith, Justice. On June 1, 1982, after a hearing in open court, the trial judge accepted Welch\u2019s negotiated plea of guilty to a charge of conspiring to commit capital murder and imposed the recommended sentence of 20 years. In July, 1983, Welch filed this petition for postconviction relief under A.R.Cr.P. Rule 37. The petition was denied after a hearing at which Welch was represented by retained counsel. Among eight grounds for relief alleged in the petition, three are now argued as points for reversal. First, it is said that the petition should have been granted for ineffectiveness of counsel at the original hearing on the plea of guilty. At that hearing Welch stated that he was guilty. That must still be his position, for he has not testified or even alleged otherwise. At the post-conviction hearing he produced no evidence to show that his conviction is not reliable. It is therefore unnecessary for us to examine the alleged ineffectiveness of counsel, for Welch could not have been prejudiced. Crockett v. State, 282 Ark. 582, 669 S.W. 2d 896 (1984). Second, it is argued that the trial judge accepted Welch\u2019s guilty plea without fully explaining to him all the elements of the offense and the possible minimum and maximum sentences, as required by Rule 24.4. There is no substance to this argument. The judge explained to Welch that he was charged with having conspired with others to promote the commission of the capital murder of Wade K. Smith and that the range of punishment was not less than 5 nor more than 50 years or life and/or a fine not to exceed $15,000. Thus the record contained a prima facie showing of substantial compliance with the Rule. Welch was in jail for a year awaiting trial and consulted with his attorneys some 25 times before the plea of guilty and the sentence was negotiated. He has not testified or even alleged that he was misled by any misconception of the charge or of the range of punishment. Despite a trial judge\u2019s failure to comply strictly with the Rule in accepting a plea of guilty, deficiencies may be supplied at the postconviction hearing. Deason v. State, 263 Ark. 56, 562 S.W.2d 79, cert. den. 439 U.S. 839 (1978). The key question is whether the plea of guilty was made intelligently and voluntarily. Thomas v. State, 277 Ark. 74, 639 S.W.2d 353 (1982). Here that question must, on the record, be answered in the affirmative. Third, complaint is made of the trial judge\u2019s denial of a motion to recuse himself at the Rule 37 hearing. No constitutional or statutory ground for disqualification is even suggested. Ark. Const., Art. 7, \u00a7 20 (1874); Ark. Stat. Ann. \u00a7 22-113 (Repl. 1962). Instead, the motion to recuse was based upon two circumstances supposedly indicating bias. (1) The trial judge had recently presided at the trial of the victim\u2019s wife, who had allegedly employed two or more persons to commit the murder. The judge mentioned some facts brought out at that trial in questioning Welch to determine whether he was in fact guilty. Under Rule 24.6 it was the trial judge\u2019s duty to make that determination. It is not shown that his having presided at the other trial was in any way a disqualification. Nor was the judge under any duty to take the witnss stand, as requested, and explain his mental processes in accepting the plea. (2) Complaint is made that after the original plea had been accepted at the hearing in open court, Welch was brought back to court the next day, sworn, and asked if his answers to the questions put to him the day before would still be the same. He said they would be. Since a plea of guilty need not be made under oath, the second proceeding was unnecessary and certainly does not indicate that the trial judge was so biased as to call for his recusal at the Rule 37 proceeding. Affirmed. ",
+            "ocr": true,
+            "opinion_id": 7822718
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 2081555,
     "judges": "Panel: Krauser",
-    "date_filed": 1125964800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-03-28",
+    "date_filed_is_approximate": true,
     "slug": "stevenson-v-state",
     "case_name_short": "Stevenson",
     "case_name": "Stevenson v. State",

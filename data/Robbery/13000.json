@@ -1,8 +1,8 @@
 {
     "id": 2153108,
     "judges": "Agliano",
-    "date_filed": 610848000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-03-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-crossman",
     "case_name_short": "Crossman",
     "case_name": "People v. Crossman",

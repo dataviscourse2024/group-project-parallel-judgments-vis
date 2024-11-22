@@ -1,8 +1,8 @@
 {
     "id": 5676123,
     "judges": "Fum",
-    "date_filed": -65923200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-02-28",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ballott",
     "case_name_short": "Ballott",
     "case_name": "People v. Ballott",

@@ -1,8 +1,8 @@
 {
     "id": 2121955,
     "judges": "Heard Before White",
-    "date_filed": 66009600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-03-05",
+    "date_filed_is_approximate": true,
     "slug": "state-v-melvin",
     "case_name_short": "Melvin",
     "case_name": "State v. Melvin",

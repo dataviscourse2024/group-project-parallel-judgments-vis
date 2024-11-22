@@ -1,8 +1,8 @@
 {
     "id": 8280994,
     "judges": "Connolly, Crippen, Stauber",
-    "date_filed": 1365379200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-05-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-yarbrough",
     "case_name_short": "Yarbrough",
     "case_name": "State v. Yarbrough",

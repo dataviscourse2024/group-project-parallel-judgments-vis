@@ -1,8 +1,8 @@
 {
     "id": 2684429,
     "judges": null,
-    "date_filed": 1390262400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-11-17",
+    "date_filed_is_approximate": true,
     "slug": "state-v-baptiste",
     "case_name_short": "Baptiste",
     "case_name": "State v. Baptiste",

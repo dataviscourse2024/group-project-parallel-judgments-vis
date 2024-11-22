@@ -1,0 +1,47 @@
+{
+    "id": 3387888,
+    "judges": "Adams, Buford, Chapman, Terrell",
+    "date_filed": "1996-11-04",
+    "date_filed_is_approximate": true,
+    "slug": "jones-v-state-of-florida",
+    "case_name_short": "Jones",
+    "case_name": "Jones v. State of Florida",
+    "case_name_full": "Catherine Jones v. State of Florida",
+    "attorneys": "No appearance for appellant.\n\n J. Tom Watson,  Attorney General, and  John C. Wynn,  Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": "An appeal from the Circuit Court for Sumter County, J.C.B. Koonce, Judge.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b612-7\">\n    CATHERINE JONES v. STATE OF FLORIDA\n   </parties><br><citation data-order=\"1\" data-type=\"citation\" id=\"b612-8\">\n    21 So. (2nd) 41\n   </citation><p data-order=\"2\" data-type=\"misc\" id=\"AJb\">\n    January Term, 1945\n   </p><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b612-9\">\n    February 27, 1945\n   </decisiondate><court data-order=\"4\" data-type=\"court\" id=\"AD6\">\n    Division A\n   </court><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b612-11\">\n    No appearance for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b612-12\">\n<em>\n     J. Tom Watson,\n    </em>\n    Attorney General, and\n    <em>\n     John C. Wynn,\n    </em>\n    Assistant Attorney General, for appellee.\n   </attorneys>",
+    "citations": [
+        "21 So. 2d 41",
+        "155 Fla. 588"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "This appeal is from a judgment of conviction of second degree murder.\nNo brief has been filed for appellant and the Attorney General has moved the Court to affirm the judgment on the record.\nWe find no error in the record and the motion is granted and the judgment is affirmed.\nCHAPMAN, C. J., TERRELL, BUFORD and ADAMS, JJ., concur. *Page 589 ",
+            "ocr": false,
+            "opinion_id": 3379638
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

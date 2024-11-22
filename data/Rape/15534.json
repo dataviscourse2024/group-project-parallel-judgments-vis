@@ -1,8 +1,8 @@
 {
     "id": 1740403,
     "judges": "Per Curiam",
-    "date_filed": 689904000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-01-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-joiner",
     "case_name_short": "Joiner",
     "case_name": "State v. Joiner",

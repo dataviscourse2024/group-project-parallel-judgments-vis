@@ -1,8 +1,8 @@
 {
     "id": 6466236,
     "judges": null,
-    "date_filed": 1649980800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-08-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-brunsen",
     "case_name_short": "Brunsen",
     "case_name": "State v. Brunsen",

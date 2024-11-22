@@ -1,8 +1,8 @@
 {
     "id": 1646386,
     "judges": "Adkins",
-    "date_filed": 501897600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-01-04",
+    "date_filed_is_approximate": true,
     "slug": "oconnell-v-state",
     "case_name_short": "O'CONNELL",
     "case_name": "O'CONNELL v. State",

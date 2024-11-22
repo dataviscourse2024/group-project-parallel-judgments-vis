@@ -1,8 +1,8 @@
 {
     "id": 509001,
     "judges": "Hutchinson, Rosenn, Scirica",
-    "date_filed": 609552000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-02-20",
+    "date_filed_is_approximate": true,
     "slug": "richard-c-pollard-v-autotote-ltd",
     "case_name_short": null,
     "case_name": "Richard C. Pollard v. Autotote, Ltd",

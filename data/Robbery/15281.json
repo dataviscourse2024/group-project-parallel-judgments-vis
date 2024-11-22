@@ -1,8 +1,8 @@
 {
     "id": 1839797,
     "judges": "Cope, Goderich and Shevin",
-    "date_filed": 896832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-11-06",
+    "date_filed_is_approximate": true,
     "slug": "hart-v-state",
     "case_name_short": "Hart",
     "case_name": "Hart v. State",

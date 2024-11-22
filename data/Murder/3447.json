@@ -1,0 +1,46 @@
+{
+    "id": 8460025,
+    "judges": "Fernandez, Gould, Graber",
+    "date_filed": "2022-05-22",
+    "date_filed_is_approximate": true,
+    "slug": "dehaven-v-schwarzenegger",
+    "case_name_short": "Dehaven",
+    "case_name": "Dehaven v. Schwarzenegger",
+    "case_name_full": "Leroy R. DEHAVEN v. Arnold SCHWARZENEGGER, Governor of California, Defendant\u2014Appellee",
+    "attorneys": "Leroy R. Dehaven, R.J. Donovan Correctional Facility, San Diego, CA, for Plaintiff-Appellant., Stephen P. Acquisto, Office of the California Attorney General, Department of Justice, Sacramento, CA, for DefendantAppellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Feb. 7, 2005.**",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "123 F. App'x 287"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM***\nLeRoy De Haven, a California state prisoner, appeals pro se the district court\u2019s summary judgment and judgment on the pleadings in his 42 U.S.C. \u00a7 1983 action against former California Governor, Gray Davis after he was denied parole for the third time in May 1997. De Haven brought several claims under 42 U.S.C. \u00a7 1983, challenging the Governor\u2019s alleged \u201cno parole policy\u201d for inmates convicted of murder. We review de novo, Barnett v. Centoni, 31 F.3d 813, 815, 816 (9th Cir. 1994), and we affirm.\nThe district court properly granted judgment on the pleadings as to De Haven\u2019s bill of attainder claim because De Haven\u2019s claim did not challenge a legislative act that \u201cdetermines guilt and inflicts punishment upon an identifiable individual without provision of the protections of a judicial trial.\u201d Seariver Maritime Financial Holdings Inc. v. Mineta, 309 F.3d 662, 668 (9th Cir.2002) (citation omitted).\nThe district court also properly granted judgment on the pleadings as to De Haven\u2019s obstruction of justice claim because obstruction of justice is a criminal charge that does not provide a private cause of action. See Forsyth v. Humana, Inc., 114 F.3d 1467, 1482 (9th Cir.1997).\nThe district court properly granted summary judgment as to De Haven\u2019s due process claim, because any claim based on past denials of parole is barred under Heck v. Humphrey, 512 U.S. 477, 114 S.Ct. 2364, 129 L.Ed.2d 383 (1994), see Butterfield v. Bail, 120 F.3d 1023, 1024 (9th Cir.1997), and any claim for future harm fails because De Haven lacks concrete injury for which he would have standing to sue. See Adarand Constructors, Inc. v. Pena, 515 U.S. 200, 210-11, 115 S.Ct. 2097, 132 L.Ed.2d 158 (1995).\nThe district court properly granted summary judgment as to De Haven\u2019s equal protection claim because he failed to show how he was treated differently from other similarly situated prisoners. See Mayner v. Callahan, 873 F.2d 1300, 1302 (9th Cir. 1989).\nDe Haven\u2019s contention that the district court failed to address his constitutional challenge to Cal. Pen.Code \u00a7 3041 is not correct. As De Haven acknowledges, the Magistrate Judge discussed this statute in his Findings and Recommendations, and the district court subsequently adopted the Findings and Recommendations in full.\nAFFIRMED.\n\n This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8431790
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

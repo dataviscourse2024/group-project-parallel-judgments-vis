@@ -1,8 +1,8 @@
 {
     "id": 7244237,
     "judges": "Hargis",
-    "date_filed": -2703456000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-05-15",
+    "date_filed_is_approximate": true,
     "slug": "hamilton-v-commonwealth",
     "case_name_short": "Hamilton",
     "case_name": "Hamilton v. Commonwealth",

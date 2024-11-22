@@ -1,0 +1,46 @@
+{
+    "id": 8683418,
+    "judges": "Wilkinson",
+    "date_filed": "2010-03-15",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-faison",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Faison",
+    "case_name_full": "Commonwealth of Virginia v. Wayne Faison",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "51 Va. Cir. 1"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wilkinson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBy Judge James B. Wilkinson\nOn February 8, 1999, the Commonwealth of Virginia, by counsel, filed a Motion in limine. On February 17, 1999, a hearing was held on the Commonwealth\u2019s motion. Upon hearing the evidence, representations, and argument of counsel, the Court took the Commonwealth\u2019s Motion in limine under advisement.\n\nIssue\n\nWhether the Commonwealth is entitled to inspect documents relating to the taking, transmission, and testing of defendant\u2019s blood, and whether the toxicology reports can be admitted in evidence at trial.\n\nDiscussion\n\nThe Commonwealth argues that a toxicology report on tests performed upon blood taken from the defendant on August 30, 1998, at MCV Hospital is admissible in a prosecution for vehicular manslaughter. The Commonwealth further argues that, in order to lay a proper foundation for admissibility of the toxicology report, it must inspect documents acquired by subpoena duces tecum to ascertain the identities of the individuals involved in the taking, transmission, and testing of defendant\u2019s blood.\nThe defendant argues that the Commonwealth is not entitled to inspect the aforementioned documents. The defendant asserts that the documents are part *2of his medical records while a patient at MCV Hospital and that pursuant to Virginia Code \u00a7 32.1-127.1:03(A) he has a right of privacy in the content of those medical records. The defendant further argues that the Commonwealth is not entitled to the documents because it has not established that the information it is seeking is contained within those records. The defendant asserts that the Commonwealth wishes to inspect the records in the hope it will uncover material information, which amounts to a fishing expedition.\nThe Commonwealth relies on Essex v. Commonwealth, 228 Va. 273, 322 S.E.2d 216 (1984), which the Court finds instructive. In that case, an automobile collision occurred between Mr. Essex and a pickup truck. Two passengers in the pickup truck and a passenger in the defendant\u2019s car died from injuries sustained in the accident. Mr. Essex was taken to the emergency room where a blood test ordered by the attending physician revealed a blood alcohol content of .144 percent. The trial court admitted evidence concerning the blood test on the drunk driving and homicide charges. The Supreme Court held that the hospital record containing the results of the test were admissible in a homicide case as probative evidence and admissible in a drunken driving case as \u201cother evidence\u201d of intoxication. Essex, 228 Va. at 285. The Court stated that:\n[pjroof by chemical analysis of the percentage of alcohol in the blood is relevant to a determination of the degree of intoxication. We see no reason why the results of such an analysis should not be admissible if based upon a foundation which tends to ensure the reliability of the test equipment and procedures, the integrity of the chain of custody of the blood specimen, and the technical competence of the person who performed the analysis.\nId. The Court further stated that the hospital blood alcohol test was admissible as \u201cother relevant evidence\u201d as proof of drunken driving under the statute. Id. at 286.\nIn this case, the Commonwealth is seeking prosecution for vehicular manslaughter, relying upon a violation of Virginia Code \u00a7 18.2-266. Virginia Code \u00a7 18.2-268.10 provides that \u201cin any trial for violation of \u00a7 18.2-266 ... the admission of the blood or breath tests results shall not limit the introduction of any other relevant evidence bearing upon any question at issue before the court ....\u201d Nothing in the statute excludes evidence of other admissible scientific test results as proof of intoxication.\nIn addition, the Commonwealth has represented to the Court that the information it seeks from the additional documents is material to its case. Such *3inspection is necessary to produce evidentiary materials needed to lay a proper foundation for admissibility of the toxicology report. The Commonwealth has demonstrated a connection between the defendant\u2019s medical records and the accident. Therefore, the Court finds that the Commonwealth is entitled to inspect the necessary documents held by this Court and that the toxicology report on the blood alcohol test is admissible as \u201cother relevant evidence\u201d of intoxication under Va. Code \u00a7 18.2-268.10 if supported by a proper foundation.\n\nConclusion\n\nThe Commonwealth is entitled to inspect documents held by this Court to ascertain the identities of all individuals involved in the taking, transmission, and testing of the defendant\u2019s blood at MCV Hospital on August 30,1998. The results of the toxicology report is admissible as \u201cother relevant evidence\u201d at trial if supported by a proper foundation.\n",
+            "ocr": true,
+            "opinion_id": 8666456
+        }
+    ],
+    "court_short_name": "Richmond County Circuit Court",
+    "court_full_name": "Richmond County Circuit Court",
+    "court_type": "ST",
+    "court_jurisdiction": "Virginia, VA",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 7597830,
     "judges": "Covington, Ponder, Savoie, Voie",
-    "date_filed": 425606400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-06-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-gerone",
     "case_name_short": "Gerone",
     "case_name": "State v. Gerone",

@@ -1,0 +1,47 @@
+{
+    "id": 7879466,
+    "judges": null,
+    "date_filed": "2018-12-04",
+    "date_filed_is_approximate": true,
+    "slug": "smith-v-state",
+    "case_name_short": null,
+    "case_name": "Smith v. State",
+    "case_name_full": "Kimberly L. SMITH v. STATE of Arkansas",
+    "attorneys": "P. J. Maddox-Cook, for appellant., No response.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "319 Ark. 51",
+        "888 S.W.2d 663"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Per Curiam.  Kimberly L. Smith was convicted of first degree murder and is currently serving a forty-year sentence in prison. Her attorney, P. J. Maddox-Cook, failed to give timely notice of appeal. The attorney has acknowledged that it was her responsibility to give a timely notice of appeal and the failure to do so was entirely her fault. Accordingly, we grant the motion for belated appeal and direct that a copy of this order be filed with the Committee on Professional Conduct. See Young v. State, 318 Ark. 235, 884 S.W.2d 591 (1994) &amp; In re Belated Appeals in Criminal Cases, 265 Ark. 964 (1979). ",
+            "ocr": true,
+            "opinion_id": 7825752
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1573108,
     "judges": "Steger",
-    "date_filed": 379296000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-03-14",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-avance",
     "case_name_short": "Avance",
     "case_name": "Smith v. Avance",

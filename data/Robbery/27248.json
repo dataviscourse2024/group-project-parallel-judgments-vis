@@ -1,8 +1,8 @@
 {
     "id": 4762243,
     "judges": null,
-    "date_filed": 1587081600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-10-31",
+    "date_filed_is_approximate": true,
     "slug": "state-v-schroeder",
     "case_name_short": "Schroeder",
     "case_name": "State v. Schroeder",

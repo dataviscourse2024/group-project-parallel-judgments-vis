@@ -1,8 +1,8 @@
 {
     "id": 1918755,
     "judges": "Cobb",
-    "date_filed": 864345600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-03-04",
+    "date_filed_is_approximate": true,
     "slug": "woodall-v-state",
     "case_name_short": "Woodall",
     "case_name": "Woodall v. State",

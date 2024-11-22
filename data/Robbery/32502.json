@@ -1,8 +1,8 @@
 {
     "id": 5845673,
     "judges": "Spain",
-    "date_filed": 1147305600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-09-19",
+    "date_filed_is_approximate": true,
     "slug": "villanueva-v-goord",
     "case_name_short": "Villanueva",
     "case_name": "Villanueva v. Goord",

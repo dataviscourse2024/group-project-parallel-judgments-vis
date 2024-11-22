@@ -1,0 +1,46 @@
+{
+    "id": 7838581,
+    "judges": "Barnes, Bridges, Chandler, Griffis, Irving, Ishee, King, Lee, Myers",
+    "date_filed": "2004-12-16",
+    "date_filed_is_approximate": true,
+    "slug": "laushaw-v-state",
+    "case_name_short": "Laushaw",
+    "case_name": "Laushaw v. State",
+    "case_name_full": "John C. LAUSHAW, Jr. v. STATE of Mississippi",
+    "attorneys": "John C. Laushaw, Jr., Appellant, pro se., Office of the Attorney General by Scott Stuart, attorney for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied April 11, 2006.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "926 So. 2d 240"
+    ],
+    "opinions": [
+        {
+            "author_str": "King",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKING, C.J.,\nfor the Court.\n\u00b6 1. On May 24, 1990, John C. Laushaw, Jr. pled guilty in the Amite County Circuit Court to armed robbery, kidnaping, and capital murder. Laushaw received a thirty year sentence for the armed robbery charge and a ten year sentence for the kidnaping charge, with both sentences running concurrently. On the capital murder charge, Laushaw received a life sentence to run consecutive to the armed robbery *241sentence. On August 8, 2000, the Amite County Circuit Court denied Laushaw\u2019s petition for post-conviction relief. Lau-shaw then appealed that decision, and this Court denied Laushaw relief on June 5, 2001. Laushaw v. State, 791 So.2d 854 (Miss.Ct.App.2001). After exhausting all state remedies, Laushaw sought federal habeas corpus relief. On April 30, 2003, the United States District Court for the Southern District of Mississippi, Jackson Division dismissed with prejudice Lau-shaw\u2019s petition for writ of habeas corpus. Laushaw then appealed the district court\u2019s decision to the United States Court of Appeals for the Fifth Circuit. On October 5, 2003, the Fifth Circuit Court of Appeals denied Laushaw\u2019s motion for a certificate of appealability, finding that Laushaw had failed to make a substantial showing of the denial of a constitutional right as to any of his claims. On August 25, 2004, Laushaw filed a motion for post-conviction relief for a second time in the Amite County Circuit Court. The court denied Laushaw\u2019s motion on August 31, 2004. Finding that Laushaw\u2019s second post-conviction relief motion is proeedurally barred as a successive writ and by the statute of limitations, we affirm the decision of the Amite County Circuit Court.\nSTANDARD OR REVIEW\n\u00b6 2. In reviewing a trial court\u2019s denial of a post-conviction relief petition, we will not disturb the trial court\u2019s findings of fact unless clearly erroneous. Brown v. State, 731 So.2d 595, 598(\u00b6 6) (Miss.1999). However, we review questions of law de novo. Id.\nDISCUSSION\n? 3. An order dismissing or denying a prisoner\u2019s request for post-conviction relief is a final judgment and is conclusive unless reversed. Miss.Code Ann. \u00a7 99-39-23(6) (Rev.2000). Such an order serves as a bar to any successive motions under this chapter. Id. This Court has previously affirmed the Amite County Circuit Court\u2019s denial of post-conviction relief. The original order denying Laushaw post-conviction relief is conclusive as it has never been reversed.\n\u00b6 4. Among the few exceptions to the successive writ bar is the intervening decision exception. Id. Under this exception, if the movant can show that there has been a decision by the Mississippi Supreme Court or the United States Supreme Court which would have caused a different result in the outcome of the mov-ant\u2019s conviction or sentence, the movant is entitled to file a successive motion for post-conviction relief. Laushaw claims that the district court\u2019s decision which denied him federal habeas corpus relief is such an intervening decision. This contention defies all logic and reason.\n\u00b6 5. First, Mississippi Code Annotated \u00a7 99-39-23(6) (Rev.2000) defines an intervening decision as one rendered by the Supreme Court of the State of Mississippi or the United States. Second, an intervening decision is one which \u201ccreate[s] new intervening rules, rights, or claims that did not exist at the time of the prisoner\u2019s conviction or during the three (3) year period circumscribed by the statute of limitations.\u201d Patterson v. State, 594 So.2d 606, 608 (Miss.1992). The case to which Laushaw cites is neither a supreme court decision, nor does it create a new rule, right, or claim whatsoever. Accordingly, his argument is without merit.\n\u00b6 6. Additionally, we note that Lau-shaw\u2019s post-conviction relief motion is time-barred. When an appellant who has pled guilty seeks post-conviction relief, Mississippi Code Annotated \u00a7 99-39-5(2) (Rev.2000) requires him to bring his post-*242conviction relief motion within three years after entry of the judgment of conviction. Laushaw\u2019s deadline for timely filing under the statute was May 24, 1993. Laushaw filed his second motion for post-conviction relief in the Amite County Circuit Court on August 25, 2004. The intervening decision exception, which also applies to the time bar, was not met in this case, nor do any other statutory exceptions apply. Therefore, we again affirm the decision of the Amite County Circuit Court in its denial of post-conviction relief.\n\u00b6 7. THE JUDGMENT OF THE AM-ITE COUNTY CIRCUIT COURT DENYING POST-CONVICTION RELIEF IS AFFIRMED. ALL COSTS OF THIS APPEAL ARE ASSESSED TO AMITE COUNTY.\nLEE AND MYERS, P.JJ., BRIDGES, IRVING, CHANDLER, GRIFFIS, BARNES AND ISHEE, JJ., CONCUR.\n",
+            "ocr": true,
+            "opinion_id": 7781437
+        }
+    ],
+    "court_short_name": "Court of Appeals of Mississippi",
+    "court_full_name": "Court of Appeals of Mississippi",
+    "court_type": "SA",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Murder"
+}

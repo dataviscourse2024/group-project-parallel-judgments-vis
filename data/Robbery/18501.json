@@ -1,8 +1,8 @@
 {
     "id": 2467351,
     "judges": "Raleigh Brown",
-    "date_filed": 209260800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-10-01",
+    "date_filed_is_approximate": true,
     "slug": "mccane-sondock-protection-systems-inc-v-emmittee",
     "case_name_short": "Emmittee",
     "case_name": "McCane-Sondock Protection Systems, Inc. v. Emmittee",

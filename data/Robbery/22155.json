@@ -1,8 +1,8 @@
 {
     "id": 3326342,
     "judges": "Haines, Hinman, Maltbie, Wheeler, Wolfe",
-    "date_filed": -1351555200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-11-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thomas",
     "case_name_short": "Thomas",
     "case_name": "State v. Thomas",

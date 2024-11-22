@@ -1,8 +1,8 @@
 {
     "id": 7753631,
     "judges": "Dauksch, Only, Sharp, Thompson",
-    "date_filed": 811728000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-12-21",
+    "date_filed_is_approximate": true,
     "slug": "rios-v-state",
     "case_name_short": "Rios",
     "case_name": "Rios v. State",

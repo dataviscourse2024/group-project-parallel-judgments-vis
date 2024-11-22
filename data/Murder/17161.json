@@ -1,8 +1,8 @@
 {
     "id": 2220925,
     "judges": "House",
-    "date_filed": -187574400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-07-18",
+    "date_filed_is_approximate": true,
     "slug": "the-people-v-pellegrino",
     "case_name_short": "Pellegrino",
     "case_name": "The PEOPLE v. Pellegrino",

@@ -1,8 +1,8 @@
 {
     "id": 6515766,
     "judges": "Bauer",
-    "date_filed": -492566400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-10-20",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-ex-rel-davidson-v-maroney",
     "case_name_short": "Maroney",
     "case_name": "Commonwealth ex rel. Davidson v. Maroney",

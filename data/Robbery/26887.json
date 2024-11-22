@@ -1,8 +1,8 @@
 {
     "id": 4685554,
     "judges": null,
-    "date_filed": 1575936000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-12-14",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rose",
     "case_name_short": "Rose",
     "case_name": "People v. Rose",

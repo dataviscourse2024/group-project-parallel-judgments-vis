@@ -1,8 +1,8 @@
 {
     "id": 2004735,
     "judges": "John H. Pratt",
-    "date_filed": 84153600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-11-09",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-anderson",
     "case_name_short": "Anderson",
     "case_name": "United States v. Anderson",

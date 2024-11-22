@@ -1,8 +1,8 @@
 {
     "id": 7650778,
     "judges": "Altenbernd, Lehan, Patterson",
-    "date_filed": 647222400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-02-22",
+    "date_filed_is_approximate": true,
     "slug": "henshaw-v-state",
     "case_name_short": "Henshaw",
     "case_name": "Henshaw v. State",

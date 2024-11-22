@@ -1,8 +1,8 @@
 {
     "id": 8280392,
     "judges": "Anderson, Barry, Meyer, Paul",
-    "date_filed": 1316563200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-09-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-borg",
     "case_name_short": "Borg",
     "case_name": "State v. Borg",

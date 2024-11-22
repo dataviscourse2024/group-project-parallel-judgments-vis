@@ -1,8 +1,8 @@
 {
     "id": 1283094,
     "judges": "Heavican",
-    "date_filed": 1243555200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-02-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-dragoo",
     "case_name_short": "Dragoo",
     "case_name": "State v. Dragoo",

@@ -1,8 +1,8 @@
 {
     "id": 2741236,
     "judges": "Clark, DeGrasse, Gonzalez, Richter, Saxe",
-    "date_filed": 1412812800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-03-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rosado",
     "case_name_short": "Rosado",
     "case_name": "People v. Rosado",

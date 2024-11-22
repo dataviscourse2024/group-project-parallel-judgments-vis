@@ -1,8 +1,8 @@
 {
     "id": 8821809,
     "judges": "Smith",
-    "date_filed": -1926201600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-05-14",
+    "date_filed_is_approximate": true,
     "slug": "kulpinsky-v-sampsell",
     "case_name_short": "Kulpinsky",
     "case_name": "Kulpinsky v. Sampsell",

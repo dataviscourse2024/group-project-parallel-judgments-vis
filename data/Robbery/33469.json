@@ -1,8 +1,8 @@
 {
     "id": 6038051,
     "judges": "Kane",
-    "date_filed": 567820800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-01-16",
+    "date_filed_is_approximate": true,
     "slug": "palmier-v-united-states-fidelity-guaranty-co",
     "case_name_short": "Palmier",
     "case_name": "Palmier v. United States Fidelity & Guaranty Co.",

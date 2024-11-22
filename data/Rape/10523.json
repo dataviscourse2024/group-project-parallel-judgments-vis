@@ -1,8 +1,8 @@
 {
     "id": 901283,
     "judges": "Gilbertson, Gors, Konenkamp, Meierhenry, Sabers, Zinter",
-    "date_filed": 1075852800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-09-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thielsen",
     "case_name_short": "Thielsen",
     "case_name": "State v. Thielsen",

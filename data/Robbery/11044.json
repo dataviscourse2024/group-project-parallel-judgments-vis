@@ -1,8 +1,8 @@
 {
     "id": 1256305,
     "judges": "Levinson, Moon, Nakayama, Ramil, Watanabe",
-    "date_filed": 952473600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-08-13",
+    "date_filed_is_approximate": true,
     "slug": "lemay-v-leander",
     "case_name_short": "LeMay",
     "case_name": "LeMay v. Leander",

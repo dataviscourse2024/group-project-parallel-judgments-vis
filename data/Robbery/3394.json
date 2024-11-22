@@ -1,8 +1,8 @@
 {
     "id": 8450251,
     "judges": "Martin",
-    "date_filed": 1076025600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-01-14",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-donald",
     "case_name_short": "Donald",
     "case_name": "United States v. Donald",

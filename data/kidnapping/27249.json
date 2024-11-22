@@ -1,8 +1,8 @@
 {
     "id": 4762344,
     "judges": null,
-    "date_filed": 1585872000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-12-08",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hessler",
     "case_name_short": "Hessler",
     "case_name": "State v. Hessler",

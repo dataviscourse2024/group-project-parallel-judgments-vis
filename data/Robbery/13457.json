@@ -1,8 +1,8 @@
 {
     "id": 1674500,
     "judges": "Boslaugh, Clinton, McCown, Newton, Smith, Spencer, White",
-    "date_filed": 127699200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-05-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-gaston",
     "case_name_short": "Gaston",
     "case_name": "State v. Gaston",

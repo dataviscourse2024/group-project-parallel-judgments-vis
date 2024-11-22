@@ -1,8 +1,8 @@
 {
     "id": 852427,
     "judges": "Boehm, Dickson, Rucker, Shepard, Sullivan",
-    "date_filed": 1220400000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-02-13",
+    "date_filed_is_approximate": true,
     "slug": "lee-v-state",
     "case_name_short": null,
     "case_name": "Lee v. State",

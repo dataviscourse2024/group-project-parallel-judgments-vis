@@ -1,8 +1,8 @@
 {
     "id": 1206106,
     "judges": "Durham, Hall, Howe, Stewart, Zimmerman",
-    "date_filed": 534038400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-03-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-velarde",
     "case_name_short": "Velarde",
     "case_name": "State v. Velarde",

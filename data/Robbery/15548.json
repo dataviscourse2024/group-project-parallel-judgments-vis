@@ -1,8 +1,8 @@
 {
     "id": 1749787,
     "judges": "George Rose Smith",
-    "date_filed": 389232000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-06-04",
+    "date_filed_is_approximate": true,
     "slug": "mcclellan-v-brown",
     "case_name_short": "McClellan",
     "case_name": "McClellan v. Brown",

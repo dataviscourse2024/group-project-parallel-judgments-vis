@@ -1,0 +1,46 @@
+{
+    "id": 5243101,
+    "judges": "Crist, Kelly, Satz",
+    "date_filed": "2014-07-25",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-caldwell",
+    "case_name_short": "Caldwell",
+    "case_name": "State v. Caldwell",
+    "case_name_full": "STATE of Missouri v. Elvin A. CALDWELL",
+    "attorneys": "Deborah Lambdin Stockhausen, St. Louis, for appellant., William L. Webster, Atty. Gen., Byrona Kincanon, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing and/or Transfer Denied March 11, 1987., Application to Transfer Denied April 14, 1987.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "726 S.W.2d 780"
+    ],
+    "opinions": [
+        {
+            "author_str": "Crist",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCRIST, Judge.\nAppeal from a jury conviction for forcible rape and false imprisonment. Defendant was assessed punishment at five years for forcible rape and one year for false imprisonment, said sentences to run concurrently. Defendant was also fined $1,000 for the false imprisonment charge. We affirm.\nSome time after midnight, defendant and victim left a party in defendant\u2019s car. Instead of taking victim home, defendant stopped in the driveway of his apartment, allegedly because his car had overheated. When defendant did not return to the car, victim went into his apartment and demanded she be taken home. Defendant locked the door and raped victim. Defendant testified he had sex with victim with her consent.\nDefendant complains about an impermissible reference by the prosecutor to other crimes. At trial, defendant took the stand to testify regarding the charge against him. On cross-examination, the prosecutor used defendant\u2019s prior convictions for impeachment purposes. Defendant\u2019s sole point on appeal centers on the following questions posed to defendant by the prosecutor:\nQ: Now, you were arrested of this offense, were you not?\nA: Six or seven months later.\nQ: Okay. You were arrested that day too, weren\u2019t you?\nA: Yes, they took me downtown and\u2014\nMR. MEYERS: Objection, Your Honor.\nMR. QUINLEY: I will withdraw it.\nQ: Do you own a gun?\nA: No.\nQ: Do you have a shoulder holster?\nA: Pardon me?\nQ: Do you have a shoulder holster?\nA: I used to have one a long time ago.\nAt that point in the proceeding, the trial court asked the lawyers to approach the bench. The court ordered the prosecutor to immediately cease that line of questioning. Thereafter, defendant\u2019s lawyer asked for a mistrial. The prosecutor stated the questions were made in good faith. He indicated that certain pictures might be admissible which would demonstrate that defendant had a shoulder holster. The trial court stated the questioning was possibly evidence of another crime and was therefore not admissible. The court denied defendant\u2019s motion for a mistrial but directed the jury to disregard any of the questions about a gun or a shoulder holster.\nDefendant relies upon State v. Pierce, 595 S.W.2d 748, 752 (Mo.App.1980), and State v. Dunn, 577 S.W.2d 649 (Mo.banc 1979). In Pierce the defendant was on trial for arson and was asked if he had committed arson at another house. In Dunn the defendant was charged with stealing a motor vehicle, and he was asked if he had stolen property from an automobile. In both Dunn and Pierce, there was a similarity between the charged crime and the implied crime. In both cases, the exact offense and location were specified in the questions. The defendants in those cases were granted new trials.\nIn this case defendant was charged and convicted of rape and false imprisonment. The implied crime, if there was any crime implied, had reference to the ownership of a gun and having a shoulder holster. These questions had a decreased probability of implying a crime since the presence of a gun had previously been brought up by defense counsel in his cross-examination of the victim. While the questions were improper, the dissimilarity between the charged crimes and the wrongdoing im*782plied, and the lack of specificity about the implied crime indicate the error was harmless. The trial court took immediate corrective action, and we will not meddle with the discretion of the trial court to determine the prejudicial effect of the questions and the amount of corrective action required. State v. Alexander, 706 S.W.2d 21, 23 (Mo. banc 1986); State v. Hawkins, 703 S.W.2d 67, 69 (Mo.App.1985).\nJudgment affirmed.\nKELLY, J., concurs.\nSATZ, P.J., concurs in result.\n",
+            "ocr": true,
+            "opinion_id": 5068895
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Rape"
+}

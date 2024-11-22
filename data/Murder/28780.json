@@ -1,0 +1,46 @@
+{
+    "id": 5100968,
+    "judges": "Cockrell, Hocker, Shackleford, Taylor, Whitfield",
+    "date_filed": "1976-01-01",
+    "date_filed_is_approximate": true,
+    "slug": "marlow-v-state",
+    "case_name_short": "Marlow",
+    "case_name": "Marlow v. State",
+    "case_name_full": "Jesse Marlow, in Error v. The State of Florida, in Error",
+    "attorneys": "A. K. Powers, for Plaintiff in Error;, T. F. West, Attorney General, and C. 0-. Andrews, Assistant, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Tbe evidence examined and found insufficient to support the verdict.</p>",
+    "headnotes": null,
+    "summary": "Writ of error to Circuit Court for Seminole County; Jas. W. Perkins, Judge.",
+    "disposition": "Judgment reversed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "68 Fla. 336"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cockrell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCockrell, J.\nJesse Marlow was convicted of manslaughter, and takes writ of error.\nProm the State\u2019s evidence it appears that about half past eight o\u2019clock one night four negroes went together to whip another negro whom they disliked. When they came upon him he started to run, whereupon three of them shot, and he was killed. It does not appear, however, that Jesse Marlow was present; in fact, irrespective of the evidence of himself and other witnesses testifying for him, making out a perfect alibi, the evidence of the State clearly indicates that he was not present. The only testimony approaching proof of guilt is that several hours before the shooting, Jesse was in the company of those who are supposed to have done the shooting, when one of them was discussing the plan of whipping the deceased, and upon the suggestion that ar other negro, who testified to the conversation, be invited to participate in the whipping, Jesse interposed an objection that he was timid and might give them. away. This is, however, short of proof that Jesse instigated and encouraged the others to commit the homicide, as an accessory before the fact. So far as we are advised the guilty parties armed themselves after Jesse had separated from them, and that he-knew nothing of the actual encounter until it was all over. The *338deceased, Tom Mumford, had been whipped before by the negroes of the little community for certain supposed peccadillos, and so far as the conversation above alluded to, the conspiracy, to which Jesse was a part, went no further in purpose. Had he been present a different law might apply, but we cannot hold that his remark to the witness, who did not join the conspirators, was an incitement to the commission of the homicide.\nThere is an enormous mass of wholly irrelevant testi-mony in this case, so extensive in fact that the jury must have been misled by its quantity, and, therefore, lost sigh! of the real issue before them.\nJudgment reversed.\nShackleford, C. J., and Taylor, Hocker and Whitfield, J. J., concur.\n",
+            "ocr": true,
+            "opinion_id": 4918618
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

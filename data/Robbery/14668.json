@@ -1,8 +1,8 @@
 {
     "id": 1117159,
     "judges": "Smith, C.J., Dickinson and Lamar",
-    "date_filed": 1187222400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-08-27",
+    "date_filed_is_approximate": true,
     "slug": "gill-v-state",
     "case_name_short": "Gill",
     "case_name": "Gill v. State",

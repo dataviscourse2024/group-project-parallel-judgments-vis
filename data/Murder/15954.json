@@ -1,8 +1,8 @@
 {
     "id": 1962383,
     "judges": "Couch, Jacob, Levin, Moore, Seventh",
-    "date_filed": 331948800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-08-08",
+    "date_filed_is_approximate": true,
     "slug": "murphy-v-state",
     "case_name_short": null,
     "case_name": "Murphy v. State",

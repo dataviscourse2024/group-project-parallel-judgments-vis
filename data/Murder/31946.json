@@ -1,0 +1,46 @@
+{
+    "id": 5730321,
+    "judges": "Lumpkin",
+    "date_filed": "2000-12-30",
+    "date_filed_is_approximate": true,
+    "slug": "stewart-v-state",
+    "case_name_short": "Stewart",
+    "case_name": "Stewart v. State",
+    "case_name_full": "Stewart v. State",
+    "attorneys": "Robert R. Forrester, for plaintiff in error., Clifford Walker, attorney-general, J. R. Williams, solicitor-general, and Mark Bolding, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for murder. Before Judge Littlejohn. Lee superior court. June 25, 1915.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "144 Ga. 495"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lumpkin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLumpkin, J.\n1. There was no abuse of discretion in refusing to grant a new trial on the ground of newly discovered evidence.\n2. The evidence involved the defense of voluntary manslaughter, and it was error not to charge on that subject.\n3. The other grounds of the motion for new trial present no cause for reversal, especially in the light of the notes appended thereto by the presiding judge. Judgment reversed.\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5580704
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

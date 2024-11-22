@@ -1,8 +1,8 @@
 {
     "id": 1395578,
     "judges": "Schwab, C.J., and Richardson and Buttler",
-    "date_filed": 343872000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-howard",
     "case_name_short": "Howard",
     "case_name": "State v. Howard",

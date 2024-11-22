@@ -1,8 +1,8 @@
 {
     "id": 7928542,
     "judges": "Miller",
-    "date_filed": 1363824000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-04-17",
+    "date_filed_is_approximate": true,
     "slug": "fuller-v-state",
     "case_name_short": "Fuller",
     "case_name": "Fuller v. State",

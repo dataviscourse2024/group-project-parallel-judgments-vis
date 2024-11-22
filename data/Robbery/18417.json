@@ -1,8 +1,8 @@
 {
     "id": 2442535,
     "judges": "Barrett, Pritchard, Stockard",
-    "date_filed": -122428800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-11-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-barker",
     "case_name_short": "Barker",
     "case_name": "State v. Barker",

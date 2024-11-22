@@ -1,8 +1,8 @@
 {
     "id": 7971101,
     "judges": "Beier",
-    "date_filed": 1372377600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-05-01",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hand",
     "case_name_short": "Hand",
     "case_name": "State v. Hand",

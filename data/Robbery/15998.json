@@ -1,8 +1,8 @@
 {
     "id": 1947695,
     "judges": "Ervin",
-    "date_filed": 314582400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-07-08",
+    "date_filed_is_approximate": true,
     "slug": "wilson-v-state",
     "case_name_short": "Wilson",
     "case_name": "Wilson v. State",

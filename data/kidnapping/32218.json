@@ -1,8 +1,8 @@
 {
     "id": 5788213,
     "judges": "McMurray",
-    "date_filed": 549676800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-01-20",
+    "date_filed_is_approximate": true,
     "slug": "phillips-v-state",
     "case_name_short": "Phillips",
     "case_name": "Phillips v. State",

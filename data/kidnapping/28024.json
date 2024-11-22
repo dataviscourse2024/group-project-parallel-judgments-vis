@@ -1,8 +1,8 @@
 {
     "id": 4931572,
     "judges": "Seinfeld",
-    "date_filed": 990144000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-07-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-guilliot",
     "case_name_short": "Guilliot",
     "case_name": "State v. Guilliot",

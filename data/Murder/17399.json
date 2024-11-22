@@ -1,8 +1,8 @@
 {
     "id": 2243464,
     "judges": "Slater",
-    "date_filed": 768182400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-05-18",
+    "date_filed_is_approximate": true,
     "slug": "people-v-margentina",
     "case_name_short": "Margentina",
     "case_name": "People v. Margentina",

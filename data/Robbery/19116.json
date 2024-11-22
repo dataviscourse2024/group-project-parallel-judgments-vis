@@ -1,8 +1,8 @@
 {
     "id": 1978947,
     "judges": "Decker",
-    "date_filed": 210384000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-12-22",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-potter",
     "case_name_short": "Potter",
     "case_name": "United States v. Potter",

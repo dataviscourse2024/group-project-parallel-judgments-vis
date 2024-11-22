@@ -1,8 +1,8 @@
 {
     "id": 1180513,
     "judges": "Carmody, Chavez, Moise",
-    "date_filed": -51062400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-04-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-reece",
     "case_name_short": "Reece",
     "case_name": "State v. Reece",

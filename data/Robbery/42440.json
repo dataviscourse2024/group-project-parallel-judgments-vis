@@ -1,8 +1,8 @@
 {
     "id": 7831109,
     "judges": "Monaco, Sharp, Thompson",
-    "date_filed": 1108080000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-12-11",
+    "date_filed_is_approximate": true,
     "slug": "cml-v-state",
     "case_name_short": "C.M.L.",
     "case_name": "C.M.L. v. State",

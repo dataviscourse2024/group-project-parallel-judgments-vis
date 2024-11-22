@@ -1,8 +1,8 @@
 {
     "id": 1293958,
     "judges": "Carley, Deen, Sognier",
-    "date_filed": 582854400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-06-06",
+    "date_filed_is_approximate": true,
     "slug": "holden-v-state",
     "case_name_short": "Holden",
     "case_name": "Holden v. State",

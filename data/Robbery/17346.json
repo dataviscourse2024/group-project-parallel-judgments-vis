@@ -1,8 +1,8 @@
 {
     "id": 2210225,
     "judges": "McCULLOUGH",
-    "date_filed": 544320000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-03-14",
+    "date_filed_is_approximate": true,
     "slug": "people-v-jarnagan",
     "case_name_short": "Jarnagan",
     "case_name": "People v. Jarnagan",

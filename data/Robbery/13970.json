@@ -1,8 +1,8 @@
 {
     "id": 1795400,
     "judges": "Stumbo, Wintersheimer",
-    "date_filed": 1062720000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-02-05",
+    "date_filed_is_approximate": true,
     "slug": "hodge-v-commonwealth",
     "case_name_short": "Hodge",
     "case_name": "Hodge v. Commonwealth",

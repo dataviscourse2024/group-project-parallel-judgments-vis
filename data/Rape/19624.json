@@ -1,0 +1,47 @@
+{
+    "id": 1206263,
+    "judges": "Bell, Clarke, Gregory, Smith",
+    "date_filed": "1982-02-14",
+    "date_filed_is_approximate": true,
+    "slug": "chastain-v-state",
+    "case_name_short": "Chastain",
+    "case_name": "Chastain v. State",
+    "case_name_full": "Chastain v. the State",
+    "attorneys": "David E. Ralston, for appellant., Roger G. Queen, District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Reconsideration denied April 29, 1987.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 27,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b94-13\">\n    43947.\n   </docketnumber><parties id=\"Axq\">\n    CHASTAIN v. THE STATE.\n   </parties><br><citation id=\"b94-14\">\n    (354 SE2d 421)\n   </citation>",
+    "citations": [
+        "354 S.E.2d 421",
+        "257 Ga. 54"
+    ],
+    "opinions": [
+        {
+            "author_str": "Clarke",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4072.0,
+            "opinion_text": "\n257 Ga. 54 (1987)\n354 S.E.2d 421\nCHASTAIN\nv.\nTHE STATE.\n43947.\nSupreme Court of Georgia.\nDecided April 8, 1987.\nReconsideration Denied April 29, 1987.\nDavid E. Ralston, for appellant.\nRoger G. Queen, District Attorney, for appellee.\nCLARKE, Presiding Justice.\nWe granted certiorari in this case to consider the issue of whether the trial court was within its discretion in restricting cross-examination of the victim in a child molestation case. The Court of Appeals found no error and we affirm. Chastain v. State, 180 Ga. App. 312 (349 SE2d 6) (1986).\nChastain was convicted of child molestation and aggravated sodomy; the victim, his daughter, was eleven years old at the time of the incident. Prior to trial the state made a motion that the defense not be allowed to cross-examine the victim regarding the fact that when *55 she was 5 and 7 years old she slept in a bed with an uncle. The defense contended past conduct was relevant here to show what the girl considered molestation to be; it was argued that she could believe molestation to be being alone with a man in a bed or in the woods, or the act of putting an arm around her.\nThe trial court ruled that what she believed molestation to be was irrelevant to the issue of whether certain acts were performed upon her. The evidence supporting the verdict is based upon overt individual acts of a sexual nature. On the issue of relevance we have held that in sexual crimes where consent is not a defense, evidence of prior sexual conduct is not material to the issues. Deen v. State, 216 Ga. 387 (116 SE2d 595) (1960). This conviction rests upon the testimony of the parties and does not involve expert testimony or the child abuse syndrome.\nThe defense is entitled to a thorough cross-examination; however, the scope of cross-examination is within the sound discretion of the trial court and will not cause reversal unless the discretion is abused. White v. State, 253 Ga. 106 (317 SE2d 196) (1984); Gravitt v. State, 220 Ga. 781 (141 SE2d 893) (1965). Under the facts of this case the appellant has failed to show an abuse of discretion and we therefore affirm.\nJudgment affirmed. All the Justices concur, except Smith and Gregory, JJ., who dissent and Bell, J., who concurs in the judgment only.\n",
+            "ocr": false,
+            "opinion_id": 1206263
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Rape"
+}

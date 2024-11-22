@@ -1,0 +1,46 @@
+{
+    "id": 2387539,
+    "judges": "Bell, Cohen, Eagen, Jones, Musmanno, O'Brien, Roberts",
+    "date_filed": "1996-10-26",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-magee",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Magee",
+    "case_name_full": "Commonwealth v. Magee, Appellant",
+    "attorneys": "Keith L. Magee, appellant, in propria persona., Michael M. Palmisano, Assistant District Attorney, and Richard F. Brabender, District Attorney, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted September 25, 1967.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b290-7\">\n    Commonwealth\n    <em>\n     v.\n    </em>\n    Magee, Appellant.\n   </parties><br><otherdate id=\"b290-11\">\n    Submitted September 25, 1967.\n   </otherdate><judges id=\"A86\">\n    Before Bell, C. J., Musmanno, Jones, Eagen, O\u2019Brien and Roberts, JJ.\n   </judges><br><attorneys id=\"b291-2\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"187\"> \n     *187\n     </span>\n<em>\n     Keith L. Magee,\n    </em>\n    appellant, in propria persona.\n   </attorneys><br><attorneys id=\"b291-3\">\n<em>\n     Michael M. Palmisano,\n    </em>\n    Assistant District Attorney, and\n    <em>\n     Richard F. Brabender,\n    </em>\n    District Attorney, for Commonwealth, appellee.\n   </attorneys><decisiondate id=\"AGO\">\n    January 3, 1968:\n   </decisiondate>",
+    "citations": [
+        "428 Pa. 186"
+    ],
+    "opinions": [
+        {
+            "author_str": "Eagen",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n428 Pa. 186 (1968)\nCommonwealth\nv.\nMagee, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted September 25, 1967.\nJanuary 3, 1968.\nBefore BELL, C.J., MUSMANNO, JONES, EAGEN, O'BRIEN and ROBERTS, JJ.\n*187 Keith L. Magee, appellant, in propria persona.\nMichael M. Palmisano, Assistant District Attorney, and Richard F. Brabender, District Attorney, for Commonwealth, appellee.\nOPINION BY MR. JUSTICE EAGEN, January 3, 1968:\nThe appellant, Keith Magee, was convicted by a jury in Erie County on February 16, 1954, of murder in the first degree, and the punishment was fixed at life imprisonment. A motion for a new trial was dismissed, and judgment of sentence imposed in accordance with the jury's verdict. No appeal was filed from the judgment.\nIn December 1966, Magee filed a petition for post-conviction relief which the lower court dismissed without hearing. An appeal from that order is now before us.\nWe are satisfied that certain allegations in the petition in the present proceedings are sufficient to require an evidentiary hearing and subsequent determination in the court below, on the question of whether or not Magee knowingly and intelligently waived his right to the assistance of counsel in perfecting and prosecuting an appeal from the judgment of sentence. See Douglas v. California, 372 U.S. 353, 83 S. Ct. 814 (1963), and Commonwealth ex rel. Neal v. Myers, 424 Pa. 576, 227 A.2d 845 (1967). The record will therefore be remanded for this purpose. Counsel must be appointed by the court to assist Magee in the preparation and prosecution of these proceedings. See Commonwealth v. Richardson, 426 Pa. 419, 233 A.2d 183 (1967).\nOrder vacated and record remanded.\nMr. Justice COHEN took no part in the consideration or decision of this case.\n",
+            "ocr": false,
+            "opinion_id": 2387539
+        }
+    ],
+    "court_short_name": "Supreme Court of Pennsylvania",
+    "court_full_name": "Supreme Court of Pennsylvania",
+    "court_type": "S",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Murder"
+}

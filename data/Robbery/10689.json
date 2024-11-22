@@ -1,8 +1,8 @@
 {
     "id": 1227816,
     "judges": "Bell, Pannell, Webb",
-    "date_filed": 163641600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-03-07",
+    "date_filed_is_approximate": true,
     "slug": "dingler-v-state",
     "case_name_short": "Dingler",
     "case_name": "Dingler v. State",

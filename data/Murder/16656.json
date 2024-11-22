@@ -1,8 +1,8 @@
 {
     "id": 2103798,
     "judges": "Justices Jones, B.A. Smith and Patterson",
-    "date_filed": 988156800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-05-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-laird",
     "case_name_short": "Laird",
     "case_name": "State v. Laird",

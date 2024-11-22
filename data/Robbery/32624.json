@@ -1,8 +1,8 @@
 {
     "id": 5869525,
     "judges": null,
-    "date_filed": -278467200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-08-18",
+    "date_filed_is_approximate": true,
     "slug": "people-v-coleman",
     "case_name_short": "Coleman",
     "case_name": "People v. Coleman",

@@ -1,8 +1,8 @@
 {
     "id": 8798961,
     "judges": "Oakes",
-    "date_filed": 26092800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-12-01",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-magnotti",
     "case_name_short": "Magnotti",
     "case_name": "United States v. Magnotti",

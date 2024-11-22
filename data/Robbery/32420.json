@@ -1,8 +1,8 @@
 {
     "id": 5827771,
     "judges": null,
-    "date_filed": 1111363200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-10-24",
+    "date_filed_is_approximate": true,
     "slug": "people-v-simpkins",
     "case_name_short": "Simpkins",
     "case_name": "People v. Simpkins",

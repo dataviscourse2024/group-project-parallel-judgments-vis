@@ -1,8 +1,8 @@
 {
     "id": 8085687,
     "judges": "Springer",
-    "date_filed": 856915200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-10-18",
+    "date_filed_is_approximate": true,
     "slug": "powell-v-state",
     "case_name_short": "Powell",
     "case_name": "Powell v. State",

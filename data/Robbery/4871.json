@@ -1,8 +1,8 @@
 {
     "id": 8737373,
     "judges": "Kaufman",
-    "date_filed": -472003200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-12-28",
+    "date_filed_is_approximate": true,
     "slug": "cooper-v-denno",
     "case_name_short": "Cooper",
     "case_name": "Cooper v. Denno",

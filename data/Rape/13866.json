@@ -1,8 +1,8 @@
 {
     "id": 2196479,
     "judges": "Boslaugh, Caporale, Fahrnbruch, Hastings, Lanphier, White, Wright",
-    "date_filed": 773625600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-05-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-joubert",
     "case_name_short": "Joubert",
     "case_name": "State v. Joubert",

@@ -1,8 +1,8 @@
 {
     "id": 1693047,
     "judges": "Laborde, Knoll and King",
-    "date_filed": 643593600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-11-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-melancon",
     "case_name_short": "Melancon",
     "case_name": "State v. Melancon",

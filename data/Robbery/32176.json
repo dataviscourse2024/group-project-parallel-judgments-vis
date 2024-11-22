@@ -1,8 +1,8 @@
 {
     "id": 5777684,
     "judges": "Nichols",
-    "date_filed": -161654400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-10-09",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-state",
     "case_name_short": null,
     "case_name": "Smith v. State",

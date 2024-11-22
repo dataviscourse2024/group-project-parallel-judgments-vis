@@ -1,8 +1,8 @@
 {
     "id": 7745638,
     "judges": "Diamantis, Sharp, Thompson",
-    "date_filed": 774835200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-15",
+    "date_filed_is_approximate": true,
     "slug": "english-v-state",
     "case_name_short": "English",
     "case_name": "English v. State",

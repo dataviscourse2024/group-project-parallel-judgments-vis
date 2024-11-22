@@ -1,8 +1,8 @@
 {
     "id": 1360222,
     "judges": "McAllister, C.J., Rossman, Perry, Goodwin and Denecke, Justices",
-    "date_filed": -225676800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-12-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-fleming",
     "case_name_short": "Fleming",
     "case_name": "State v. Fleming",

@@ -1,8 +1,8 @@
 {
     "id": 2083201,
     "judges": "Lowdermilk, Lybrook, Robertson",
-    "date_filed": 304646400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-12-12",
+    "date_filed_is_approximate": true,
     "slug": "evans-v-state",
     "case_name_short": "Evans",
     "case_name": "Evans v. State",

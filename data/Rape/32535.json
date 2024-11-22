@@ -1,0 +1,47 @@
+{
+    "id": 5853090,
+    "judges": null,
+    "date_filed": "1981-06-18",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-banks",
+    "case_name_short": "Banks",
+    "case_name": "People v. Banks",
+    "case_name_full": "The People of the State of New York v. Douglas Banks",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "33 A.D.3d 385",
+        "822 N.Y.S.2d 504"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Bonnie Wittner, J), rendered September 4, 2003, convicting defendant, after a jury trial, of attempted rape in the first degree and sexual abuse in the first degree, and sentencing to concurrent terms of 10 years and 7 years, respectively, unanimously affirmed.\nThe court properly exercised its discretion in denying defendant\u2019s request to call an expert who would testify about the general effects of crack cocaine use (see People v Lee, 96 NY2d 157, 162 [2001]; People v Cronin, 60 NY2d 430 [1983]), as defendant failed to lay an adequate foundation for the testimony (see People v Williams, 6 NY2d 18, 23 [1959], cert denied 361 US 920 [1959]; People v Billups, 132 AD2d 612, 613 [1987], lv denied 70 NY2d 873 [1987]). There was insufficient evidence to support a reasonable inference that the victim was under the influence of drugs at the time of the incident, and the proposed testimony would have been speculative and misleading (see People v Frazier, 233 AD2d 896, 897 [1996]; People v Walker, 223 AD2d 414 [1996], lv denied 88 NY2d 887 [1996]). Accordingly, there was no violation of defendant\u2019s right to present a defense (see Crane v Kentucky, 476 US 683, 689-690 [1986]).\nDuring deliberations, defendant asserted that a juror was grossly unqualified to serve, and, after refusing to consent to replacement of the juror by an alternate, moved for a mistrial. After a probing inquiry, the court properly determined that the juror was not grossly unqualified, and properly denied the mistrial motion (see CPL 270.35 [1]; People v Buford, 69 NY2d 290, 299 [1987]). Despite the juror\u2019s initial concern for his safety should there be a guilty verdict, he assured the court that he *386could render an impartial verdict. The court was in the best position to assess the juror\u2019s responses, and its determination that he could render an impartial verdict is supported by the record (see People v Harris, 99 NY2d 202, 212-213 [2002]; People v Santiago, 255 AD2d 63, 67-68 [1999], lv denied 94 NY2d 829 [1999]).\nWe perceive no basis for reducing the sentence. Concur\u2014 Tom, J.E, Saxe, Friedman, Sullivan and McGuire, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5709267
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

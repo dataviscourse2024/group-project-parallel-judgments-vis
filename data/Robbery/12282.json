@@ -1,8 +1,8 @@
 {
     "id": 1501895,
     "judges": "Nichol",
-    "date_filed": 90201600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-12-03",
+    "date_filed_is_approximate": true,
     "slug": "townes-v-swenson",
     "case_name_short": "Townes",
     "case_name": "Townes v. Swenson",

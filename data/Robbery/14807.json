@@ -1,8 +1,8 @@
 {
     "id": 1226558,
     "judges": "Cameron, Gordon, Hays, Holohan, Struckmeyer",
-    "date_filed": 376617600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-12-28",
+    "date_filed_is_approximate": true,
     "slug": "state-v-herrera",
     "case_name_short": "Herrera",
     "case_name": "State v. Herrera",

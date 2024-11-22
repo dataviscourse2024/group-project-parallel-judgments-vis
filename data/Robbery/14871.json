@@ -1,8 +1,8 @@
 {
     "id": 1261462,
     "judges": "Beasley, Carley, McMurray",
-    "date_filed": 624672000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-05-06",
+    "date_filed_is_approximate": true,
     "slug": "denegal-v-state",
     "case_name_short": "Denegal",
     "case_name": "Denegal v. State",

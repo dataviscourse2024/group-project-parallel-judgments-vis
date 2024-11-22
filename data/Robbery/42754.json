@@ -1,8 +1,8 @@
 {
     "id": 7903646,
     "judges": "Dupont",
-    "date_filed": 535680000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-02-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-walker",
     "case_name_short": "Walker",
     "case_name": "State v. Walker",

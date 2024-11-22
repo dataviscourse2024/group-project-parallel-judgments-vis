@@ -1,8 +1,8 @@
 {
     "id": 8027338,
     "judges": "Knutson, MacLaughlin, Otis, Todd",
-    "date_filed": 76896000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-11-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-evers",
     "case_name_short": "Evers",
     "case_name": "State v. Evers",

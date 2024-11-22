@@ -1,0 +1,46 @@
+{
+    "id": 8664461,
+    "judges": "Canellos, Hemingway, Military, Raichle",
+    "date_filed": "2023-04-07",
+    "date_filed_is_approximate": true,
+    "slug": "united-states-v-dorothy",
+    "case_name_short": "Dorothy",
+    "case_name": "United States v. Dorothy",
+    "case_name_full": "UNITED STATES v. Senior Airman Mark E. DOROTHY, FR 535-70-9329 United States Air Force",
+    "attorneys": "Appellate Counsel for the Accused: Colonel George R. Stevens and Captain Conrad C. Baldwin, Jr., Appellate Counsel for the United States: Colonel Kenneth R. Rengert and Captain Brenda J. Hollis.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Sentence Adjudged 8 Sept., 1982., Decision Upon Reconsideration Aug. 25, 1983.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "17 M.J. 508"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hemingway",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDECISION\nHEMINGWAY, Senior Judge:\nContrary to his pleas, the accused was found guilty, by a military judge sitting without members, of involuntary manslaughter and drunk driving, in violation of Articles 119 and 111, U.C.M.J., 10 U.S.C. \u00a7\u00a7 919, 911. His approved sentence extends to a bad conduct discharge (suspended), confinement at hard labor for seven months, total forfeitures and reduction to airman basic.\nAt trial, the accused urged the military judge to consider the drunk driving offense as multiplicious, for sentencing purposes, with the involuntary manslaughter offense. The military judge denied the request and the accused now asserts this was error.\nUnder Article 119, U.C.M.J., the accused was charged with \u201crecklessly driving while intoxicated\u201d thereby killing his victim. Under Article 111, U.C.M.J., the accused was charged with driving while drunk causing an accident and the death of his victim. As to each charge and its specification, proof of one offense amounted to proof of the other. We find, under the facts of this case, the drunk driving offense to be included within the allegations and proof of involuntary manslaughter. United States v. Virgilito, 22 U.S.C.M.A. 394, 47 C.M.R. 331 (1973); see e.g., United States v. Stegall, 6 M.J. 176 (C.M.A.1979); accord United States v. Mallery, 14 M.J. 212 (C.M.A.1982).\n*509When an accused has been convicted of two offenses arising out of one transaction, where one of the offenses is included in the other, the accused is entitled to dismissal of the lesser charge because of multiplicity. United States v. Doss, 15 M.J. 409 at 413 (C.M.A.1983). Accordingly, Charge II and the specification thereunder are ordered dismissed.\nThe Court of Military Appeals has made it clear that, due to the provisions of M.C.M., 1969 (Rev.), para. 26b, the military judicial system is less tolerant of multiplication of charges than its civilian counterpart. United States v. Doss, supra; United States v. Baker, 14 M.J. 361 (C.M.A.1983); see also, United States v. Ward, 15 M.J. 377 (C.M.A.1983); United States v. DeLeon, 15 M.J. 378 (C.M.A.1983); United States v. Carreiro, 15 M.J. 403 (C.M.A.1983); United States v. Milliken, 15 M.J. 284 (C.M.A.1983); United States v. Tyler, 15 M.J. 285 (C.M.A.1983); United States v. Revia, 15 M.J. 291 (C.M.A.1983); United States v. Scavincky, 15 M.J. 316 (C.M.A.1983); United States v. Simmons, 15 M.J. 316 (C.M.A.1983); United States v. Rogers, 15 M.J. 319 (C.M.A.1983); United States v. Jackson, 15 M.J. 331 (C.M.A.1983); United States v. Little, 15 M.J. 333 (C.M.A.1983); United States v. Miles, 15 M.J. 431 (C.M.A.1983); United States v. Lott, 14 M.J. 489 (C.M.A.1983). Consequently, accusers and drafters of charges should be niggardly in the multiplication of charges which arise out of a single transaction or course of conduct.\nWe have considered the remaining assignments of error and resolved them adversely to the accused.\nReassessing the sentence in light of our dismissal of Charge II and the specification thereunder, we approve only so much of the accused\u2019s sentence as provides for a bad conduct discharge, confinement at hard labor for six months, total forfeitures and reduction to airman basic.\nAccordingly, the remaining findings of guilty and sentence, as modified, are\nAFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 8645483
+        }
+    ],
+    "court_short_name": "U S Air Force Court of Military Review",
+    "court_full_name": "U S Air Force Court of Military Review",
+    "court_type": "MA",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

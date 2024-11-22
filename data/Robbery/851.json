@@ -1,8 +1,8 @@
 {
     "id": 7923283,
     "judges": "Johnson",
-    "date_filed": 1171238400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-08-06",
+    "date_filed_is_approximate": true,
     "slug": "rhone-v-state",
     "case_name_short": "Rhone",
     "case_name": "Rhone v. State",

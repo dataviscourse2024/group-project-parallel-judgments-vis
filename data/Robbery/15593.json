@@ -1,8 +1,8 @@
 {
     "id": 1782614,
     "judges": "Dufresne",
-    "date_filed": 1009324800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-25",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mims",
     "case_name_short": "Mims",
     "case_name": "State v. Mims",

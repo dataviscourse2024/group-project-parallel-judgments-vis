@@ -1,8 +1,8 @@
 {
     "id": 1237680,
     "judges": "Lansing, Nierengarten, Schumacher",
-    "date_filed": 617328000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-09-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-larsen",
     "case_name_short": "Larsen",
     "case_name": "State v. Larsen",

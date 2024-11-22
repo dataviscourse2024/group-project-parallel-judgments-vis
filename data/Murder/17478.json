@@ -1,8 +1,8 @@
 {
     "id": 2256523,
     "judges": "Dabney",
-    "date_filed": 696643200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-11-24",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ivans",
     "case_name_short": "Ivans",
     "case_name": "People v. Ivans",

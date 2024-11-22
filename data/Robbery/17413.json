@@ -1,8 +1,8 @@
 {
     "id": 2245258,
     "judges": "Arterburn, DeBruler, Givan, Hunter, Prentice",
-    "date_filed": 199929600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-10-23",
+    "date_filed_is_approximate": true,
     "slug": "lund-v-state",
     "case_name_short": "Lund",
     "case_name": "Lund v. State",

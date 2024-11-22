@@ -1,8 +1,8 @@
 {
     "id": 1225432,
     "judges": "Hill",
-    "date_filed": 267840000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-02-08",
+    "date_filed_is_approximate": true,
     "slug": "bowen-v-state",
     "case_name_short": "Bowen",
     "case_name": "Bowen v. State",

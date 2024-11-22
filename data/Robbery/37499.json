@@ -1,8 +1,8 @@
 {
     "id": 6841743,
     "judges": "Campbell, Morris, Parker",
-    "date_filed": -56332800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-04-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-swain",
     "case_name_short": "Swain",
     "case_name": "State v. Swain",

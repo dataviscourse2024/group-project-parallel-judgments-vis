@@ -1,8 +1,8 @@
 {
     "id": 3317239,
     "judges": "Burke",
-    "date_filed": -827020800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-09-20",
+    "date_filed_is_approximate": true,
     "slug": "laverty-v-people",
     "case_name_short": "Laverty",
     "case_name": "Laverty v. People",

@@ -1,8 +1,8 @@
 {
     "id": 1776337,
     "judges": "Pudlowski, Satz, Smith",
-    "date_filed": 391737600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-04-01",
+    "date_filed_is_approximate": true,
     "slug": "city-of-st-louis-v-klocker",
     "case_name_short": "Klocker",
     "case_name": "City of St. Louis v. Klocker",

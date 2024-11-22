@@ -1,8 +1,8 @@
 {
     "id": 1638704,
     "judges": "Daniel E. Scott",
-    "date_filed": 1263945600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cothern",
     "case_name_short": "Cothern",
     "case_name": "State v. Cothern",

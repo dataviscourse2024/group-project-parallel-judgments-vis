@@ -1,0 +1,46 @@
+{
+    "id": 8547461,
+    "judges": "Richards",
+    "date_filed": "1996-12-14",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-fisher",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Fisher",
+    "case_name_full": "Commonwealth v. Fisher",
+    "attorneys": "Lewis Kunkel, for Commonwealth., George McKee and W. Justin Carter, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "58 Pa. D. & C. 581"
+    ],
+    "opinions": [
+        {
+            "author_str": "Richards",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRichards, P. J.,\nDefendant, John W., Fisher, Jr., having been convicted of subornation of perjury, a motion was made in arrest of judgment and for a new trial. Matters which may be considered on a motion in arrest of judgment are clearly set forth *582in Commonwealth v. Bateman, 92 Pa. Superior Ct. 53, 56:\n\u201cJudgments can only be arrested, in criminal cases, for causes appearing upon the face of the record; this is a general rule, and is well settled; an exception exists when pardon is pleaded before sentence. The record to be considered consists of the indictment, the plea and issue and verdict. The evidence in the case forms no part of the record within the rule that a motion in arrest of judgment can be based only on matters of record; and hence defects which appear only by aid of evidence cannot be the subject of such a motion.\u201d\nThis is quoted with approval in Commonwealth v. Long, 131 Pa. Superior Ct. 28, 30. Since in the present case counsel has not brought to our attention a defect in the record which would be covered by the above rule, the motion in arrest of judgment is dismissed.\nThe motion for a new trial requires serious consideration. The evidence in the case shows that Betty Spidel, age 12, gave birth to a bastard child. Above defendant, being the stepfather of Betty Spidel, was indicted for rape, adultery and bastardy, he being the alleged father of the child. Upon the trial of these cases, Betty Spidel, being sworn, testified that defendant had never had intercourse with her, was not the father of the child, and that one A1 Locker was the father of the child. The court then directed verdicts of not guilty.\nThereafter, the district attorney conducted an investigation which resulted in the prosecution of defendant for subornation of perjury. Upon the trial of this case, Betty Spidel, again being sworn, testified that her former testimony was false, that her stepfather, defendant, was the father of the child, and that defendant had induced her to testify falsely in the former trial that A1 Locker was the father. No other testimony was offered by the Commonwealth.\n*583Defendant testified on his own behalf and denied ever having attempted to influence the testimony of Betty Spidel. Numerous witnesses, including members of the family, were called who testified that Betty had told them that A1 Locker was the father of the child. In fact Betty admitted some of these allegations, stating that her stepfather told her to say so or he would put her away. Two doctors were told by Betty that A1 Locker was the father of the child, and an information was actually made against A1 Locker, although apparently dropped at the suggestion of the district attorney. Betty also implicated one Joe Pugh. These are the most salient facts.\n\nDiscussion\n\nFrom the above, it appears that the conviction of defendant depends upon the uncorroborated testimony of Betty Spidel. We think it self-evident that one may not be convicted of suborning a witness until the perjury be established. It has never been judicially determined that the testimony of Betty Spidel at the first trial was false. Until it has been so determined, defendant may not be convicted of subornation. It is obvious, of course, that Betty Spidel committed perjury either at the first trial or at the second. But the Commonwealth has failed to show at which trial she committed perjury. All it was able to show was the conflicting statements of its own witness. This is not sufficient to prove what testimony was perjured, and consequently not sufficient to support a conviction of subornation.\nThe court and counsel are agreed that generally perjury must be proven by the testimony of two witnesses or by one witness and corroborating circumstances: See Commonwealth v. Bradley, 109 Pa. Superior Ct. 294, and cases therein cited. No case has been produced from Pennsylvania to show what proof *584is required to convict of subornation. However, it would seem that the reasons which require two witnesses, or one witness and corroborating circumstances, to prove perjury, are equally applicable to subornation. There is no such proof here. The only witness to the perjury is Betty Spidel. While her testimony may be sufficient to establish her own guilt, see Commonwealth v. Sumrak, 148 Pa. Superior Ct. 412, 415, it is, in our opinion, clearly inadequate when applied to defendant. In Hammer v. United States, 271 U. S. 620, 627, 628, 629, it was held that one could not be convicted of subornation, unless the perjury was proven as required by the above-mentioned rule. As we have stated, in the present ease there has been no legal or judicial determination as to when perjury was committed. Consequently, we have no proof of perjury relating to any particular time and accordingly no proof of subornation.\nOne who suborns is in effect an accessory before the fact to perjury. It has been stated, in Commonwealth v. Minnich, 250 Pa. 363, 365:\n\u201cTherefore, it is that on the separate trial of one charged as an accessory, the same burden rests on the Commonwealth to establish the guilt of the principal as would have rested upon it were the principal himself being tried, and the same measure of proof is required in one case as in the other.\u201d\nOn this ground, also, the Commonwealth has failed to prove its case.\nFor these reasons we are of the opinion that a new trial should be granted.\n\nOrder\n\nAnd now, to wit, January 6, 1947, the motion in arrest of judgment is refused and the motion for a new trial is granted.\n",
+            "ocr": true,
+            "opinion_id": 8520089
+        }
+    ],
+    "court_short_name": "Dauphin County Court of Quarter Sessions",
+    "court_full_name": "Dauphin County Court of Quarter Sessions",
+    "court_type": "ST",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Rape"
+}

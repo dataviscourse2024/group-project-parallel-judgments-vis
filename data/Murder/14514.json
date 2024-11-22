@@ -1,8 +1,8 @@
 {
     "id": 1873035,
     "judges": "Eubanks",
-    "date_filed": 172713600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-03-22",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-wickline",
     "case_name_short": "Wickline",
     "case_name": "Smith v. Wickline",

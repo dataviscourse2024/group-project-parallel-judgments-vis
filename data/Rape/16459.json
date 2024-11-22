@@ -1,8 +1,8 @@
 {
     "id": 2055344,
     "judges": "Miller",
-    "date_filed": 632534400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-08-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-handy",
     "case_name_short": "Handy",
     "case_name": "State v. Handy",

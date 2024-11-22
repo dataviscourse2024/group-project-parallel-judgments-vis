@@ -1,8 +1,8 @@
 {
     "id": 2387301,
     "judges": "Antell",
-    "date_filed": -64886400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-06-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-chandler",
     "case_name_short": null,
     "case_name": "State v. Chandler",

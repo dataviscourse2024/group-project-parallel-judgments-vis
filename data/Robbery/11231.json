@@ -1,8 +1,8 @@
 {
     "id": 1277540,
     "judges": "Becker",
-    "date_filed": 927504000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-04-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thomas",
     "case_name_short": "Thomas",
     "case_name": "State v. Thomas",

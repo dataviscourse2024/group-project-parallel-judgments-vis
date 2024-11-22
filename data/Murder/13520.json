@@ -1,8 +1,8 @@
 {
     "id": 1686541,
     "judges": "Per Curiam",
-    "date_filed": 503280000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-01-26",
+    "date_filed_is_approximate": true,
     "slug": "ex-parte-crowe",
     "case_name_short": null,
     "case_name": "Ex Parte Crowe",

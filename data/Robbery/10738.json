@@ -1,8 +1,8 @@
 {
     "id": 1234701,
     "judges": null,
-    "date_filed": -967334400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-09-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-king",
     "case_name_short": "King",
     "case_name": "People v. King",

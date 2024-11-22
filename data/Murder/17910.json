@@ -1,8 +1,8 @@
 {
     "id": 2333740,
     "judges": "Morriss, C.J., Carter and Moseley",
-    "date_filed": 1212451200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-04-15",
+    "date_filed_is_approximate": true,
     "slug": "miles-v-state",
     "case_name_short": "Miles",
     "case_name": "Miles v. State",

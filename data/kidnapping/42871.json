@@ -1,8 +1,8 @@
 {
     "id": 7927292,
     "judges": "Barnes",
-    "date_filed": 1321920000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-07-21",
+    "date_filed_is_approximate": true,
     "slug": "patterson-v-state",
     "case_name_short": "Patterson",
     "case_name": "Patterson v. State",

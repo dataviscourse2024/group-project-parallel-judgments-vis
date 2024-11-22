@@ -1,8 +1,8 @@
 {
     "id": 1176480,
     "judges": "Adair, Castles, Doyle, Harrison, James, John",
-    "date_filed": -118454400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-stoddard",
     "case_name_short": "Stoddard",
     "case_name": "State v. Stoddard",

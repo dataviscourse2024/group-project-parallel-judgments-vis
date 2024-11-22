@@ -1,0 +1,46 @@
+{
+    "id": 7763178,
+    "judges": "Fulmer, Lazzara, Patterson",
+    "date_filed": "1992-11-06",
+    "date_filed_is_approximate": true,
+    "slug": "bateman-v-state",
+    "case_name_short": "Bateman",
+    "case_name": "Bateman v. State",
+    "case_name_full": "Harry Martin BATEMAN, II v. STATE of Florida",
+    "attorneys": "Rodney S. Fields, Jr., Tampa, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Tonja R. Vickers, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "681 So. 2d 820"
+    ],
+    "opinions": [
+        {
+            "author_str": "Fulmer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nFULMER, Judge.\nThe defendant appeals his convictions for attempted felony murder and aggravated child abuse. We affirm the aggravated child abuse conviction without discussion. We reverse the conviction for attempted felony murder because it is no longer a criminal offense in Florida. See State v. Gray, 654 So.2d 552, 553-54 (Fla.1995).\nThe attempted murder count of the information alleged that the defendant attempted to kill the child victim either with premeditated design or during the perpetration or attempt to perpetrate aggravated child abuse. The trial court instructed the jury on both theories of attempted first degree murder and on five lesser included offenses: attempted second degree murder, attempted voluntary manslaughter, aggravated battery, battery and culpable negligence. The jury convicted the defendant of attempted felony murder. We reverse his conviction and sentence for attempted felony murder and remand for retrial on any lesser offense on which the jury was instructed at trial. See State v. Wilson, 680 So.2d 411 (Fla. 1996).\nReversed and remanded.\nPATTERSON, A.C.J., and LAZZARA, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7701038
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

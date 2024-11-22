@@ -1,8 +1,8 @@
 {
     "id": 6707213,
     "judges": "Conaway, Groesbeck, Potter",
-    "date_filed": -2329862400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-04-19",
+    "date_filed_is_approximate": true,
     "slug": "reavis-v-state",
     "case_name_short": "Reavis",
     "case_name": "Reavis v. State",

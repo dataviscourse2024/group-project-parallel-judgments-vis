@@ -1,8 +1,8 @@
 {
     "id": 1320093,
     "judges": "Bell, Divisions, Hill, Marshall, Smith, Weltner",
-    "date_filed": 466819200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-10-13",
+    "date_filed_is_approximate": true,
     "slug": "head-v-state",
     "case_name_short": "Head",
     "case_name": "Head v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 7666669,
+    "judges": "Barkdull, Cope, Goderich",
+    "date_filed": "1990-08-28",
+    "date_filed_is_approximate": true,
+    "slug": "pagan-v-state",
+    "case_name_short": "Pagan",
+    "case_name": "Pagan v. State",
+    "case_name_full": "Jorge Castro PAGAN v. The STATE of Florida",
+    "attorneys": "Bennett H. Brummer, Public Defender, and John H. Lipinski, Sp. Asst. Public Defender, for appellant., Robert A. Butterworth, Atty. Gen., and Ivy Ginsberg Shanock, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "599 So. 2d 744"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nJorge Castro Pagan, defendant below, appeals his conviction on two counts of sexual battery and two counts of lewd assault. We affirm.\nDefendant challenges the admission of the child victim\u2019s hearsay statements under subsection 90.803(23), Florida Statutes (1989). The trial court made a finding, required by the statute, that the child victim was unavailable to testify because \u201cthe *745child\u2019s participation in the trial or proceeding would result in a substantial likelihood of severe emotional or mental harm....\u201d Id. \u00a7 90.803(23)(a)(2)(b). We conclude, contrary to defendant\u2019s submission, that the trial court did not abuse its discretion in finding the psychologist to be a qualified expert witness.\nLikewise, we find no abuse of discretion in the trial court\u2019s declining to order an additional psychological examination of the child. The question of whether to order an additional psychological examination of the victim by a court-appointed expert is addressed to the sound discretion of the trial court. The record here does not reflect any circumstance that would call for the court to obtain a second expert opinion.\nDefendant urges that the child could at least have testified at trial via closed circuit television, and therefore was not unavailable within the meaning of the statute. Before finding that the child was unavailable as defined by subsection 90.-803(23)(a)(2)(b), the trial court heard testimony from the court appointed psychologist, a teacher, a guidance counselor, and the child's grandmother, as well as other testimony, and reviewed several deposition transcripts. On the basis of all of the evidence the court concluded that the child was unavailable within the meaning of the statute because of the \u201csubstantial likelihood of severe emotional or mental harm to the child.\u201d Order, March 23, 1990, at 1. There is substantial competent evidence in the record to support that finding. Defendant relies on Fricke v. State, 561 So.2d 597, 602 (Fla. 3d DCA 1990), but in that case the trial court failed to make the required statutory findings. Defendant also relies on Spoerri v. State, 561 So.2d 604, 606 (Fla. 3d DCA 1990), but there, too, the court failed to make the findings required by the applicable statute. Here the relevant findings were made.\nDefendant also contends that the trial court should have excluded the child\u2019s hearsay statements because they did not satisfy the criteria for reliability set forth in paragraph 90.803(23)(a)(l). To the contrary, the trial court made particularized findings of reliability with regard to the child victim\u2019s hearsay statements to the school counselor, the school teacher, and the grandmother. The specific findings satisfied the statutory elements. There is substantial competent evidence supporting those findings and the hearsay statements were properly admitted.\nDefendant contends that the victim\u2019s statements to the rape treatment center physician and an interviewer with the Children\u2019s Center of the State Attorney\u2019s office were not the subject of specific findings and should not have been admitted at trial. It appears, however, that there was a stipulation on the record as to the admissibility of those specific statements. In any event, there was no objection at trial to the introduction of those hearsay statements\u2014presumably because of the stipulation.* Finally, even if it is assumed ar-guendo that there was any error in the admission of any portion of the hearsay statements of the latter two witnesses, the statements are cumulative to other evidence in the case.\nFinally, defendant contends that the State did not sufficiently allege the approximate dates of the offenses in question. Here, the information alleged eight offenses in the time period July 31\u2014October 1, 1987, and the jury convicted on four of those offenses. On the facts of the present case, the information was sufficiently particularized. See State v. Jones, 539 So.2d 535, 536 (Fla. 3d DCA 1989).\nDefendant seeks reversal on authority of Knight v. State, 506 So.2d 1182 (Fla. 5th DCA 1987). That case, however, supports affirmance here. In Knight, two counts of an information were dismissed, where the *746time period at issue was four years in one count and three years in another count. The Knight court found that the third count, which was confined to a three month period, was sufficiently particularized. Where three months was affirmed in Knight, affirmance is appropriate for the two month time period at issue in the present case. The defendant also relies on Goble v. State, 535 So.2d 706 (Fla. 5th DCA 1988), but that case involved a two and one-half year period of time \u2014 not the two month period in the present case. See State v. Jones, 539 So.2d at 536-37.\nFor the reasons stated, the convictions and sentences are affirmed.\n\n The child\u2019s statements to the rape treatment center physician for purposes of diagnosis and treatment would in any event be admissible under subsection 90.803(4), Florida Statutes (1989). See State v. Ochoa, 576 So.2d 854 (Fla. 3d DCA 1991). However, subsection 90.803(23) was applicable insofar as the State desired to introduce the child\u2019s statement to the treating personnel that the defendant had had sexual contact with her.\n\n",
+            "ocr": true,
+            "opinion_id": 7601117
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Rape"
+}

@@ -1,8 +1,8 @@
 {
     "id": 8448247,
     "judges": "Gibbons, Gilman, Jordan",
-    "date_filed": 1059955200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-12-31",
+    "date_filed_is_approximate": true,
     "slug": "dumas-v-pitcher",
     "case_name_short": "Dumas",
     "case_name": "Dumas v. Pitcher",

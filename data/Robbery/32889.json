@@ -1,8 +1,8 @@
 {
     "id": 5922158,
     "judges": null,
-    "date_filed": 46915200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-01-07",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bennett",
     "case_name_short": "Bennett",
     "case_name": "People v. Bennett",

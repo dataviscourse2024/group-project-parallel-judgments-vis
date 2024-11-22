@@ -1,8 +1,8 @@
 {
     "id": 7776149,
     "judges": "Parker, Quince, Whatley",
-    "date_filed": 898819200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-04-27",
+    "date_filed_is_approximate": true,
     "slug": "harvey-v-state",
     "case_name_short": "Harvey",
     "case_name": "Harvey v. State",

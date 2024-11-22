@@ -1,8 +1,8 @@
 {
     "id": 1305492,
     "judges": "Eldridge, Ellington, Smith",
-    "date_filed": 1048032000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-03-02",
+    "date_filed_is_approximate": true,
     "slug": "brooks-powers-v-metropolitan-atlanta-rapid-transit-authority",
     "case_name_short": "Brooks-Powers",
     "case_name": "Brooks-Powers v. Metropolitan Atlanta Rapid Transit Authority",

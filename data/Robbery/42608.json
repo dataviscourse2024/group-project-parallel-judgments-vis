@@ -1,8 +1,8 @@
 {
     "id": 7875436,
     "judges": "Hays, Howard, Newbern",
-    "date_filed": 306547200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-09-10",
+    "date_filed_is_approximate": true,
     "slug": "cockerel-v-state",
     "case_name_short": "Cockerel",
     "case_name": "Cockerel v. State",

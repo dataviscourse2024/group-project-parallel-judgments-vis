@@ -1,8 +1,8 @@
 {
     "id": 7496366,
     "judges": "Allen, Kissinger, Shannon",
-    "date_filed": -110764800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-07-08",
+    "date_filed_is_approximate": true,
     "slug": "rayburn-v-state",
     "case_name_short": "Rayburn",
     "case_name": "Rayburn v. State",

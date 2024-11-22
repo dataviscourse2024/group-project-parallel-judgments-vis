@@ -1,0 +1,48 @@
+{
+    "id": 4379556,
+    "judges": "Feinman, Gische, Kapnick, Moskowitz, Tom",
+    "date_filed": "1982-03-01",
+    "date_filed_is_approximate": true,
+    "slug": "rosen-v-schwartz",
+    "case_name_short": "Rosen",
+    "case_name": "Rosen v. Schwartz",
+    "case_name_full": "Russell W. Rosen Et Al., Appellants, v. Jonathan Schwartz, Respondent",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"a9n-dedup-0\">\n    Russell W. Rosen et al., Appellants, v Jonathan Schwartz, Respondent.\n   </parties><citation id=\"abf-dedup-1\">\n    [49 NYS3d 301]\n   </citation>",
+    "citations": [
+        "2017 NY Slip Op 2517",
+        "148 A.D.3d 653",
+        "49 N.Y.S.3d 301"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2017/2017_02517.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nRosen v Schwartz (2017 NY Slip Op 02517)\r\n\r\n\r\n\r\n\r\n\r\nRosen v Schwartz\r\n\r\n\r\n2017 NY Slip Op 02517\r\n\r\n\r\nDecided on March 30, 2017\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on March 30, 2017\r\n\r\nTom, J.P., Moskowitz, Feinman, Gische, Kapnick, JJ.\r\n\r\n\r\n3578 157124/15\r\n\r\n[*1]Russell W. Rosen, et al., Plaintiffs-Appellants,\r\nvJonathan Schwartz, Defendant-Respondent.\r\n\r\n\r\nWarshaw Burstein, LLP, New York (Linda Genero Sklaren of counsel), for appellants.\r\nGoldfarb Abrandt Salzman &amp; Kutzin LLP, New York (Michael S. Kutzin of counsel), for respondent.\r\n\r\n\r\n\r\nOrder, Supreme Court, New York County (Geoffrey D. Wright, J.), entered February 29, 2016, which granted defendant's motion to dismiss the complaint, unanimously reversed, on the law, without costs, and the complaint reinstated.\r\nAlthough defendant was found not guilty by reason of mental disease or defect in connection with the stabbing death of his mother, the complaint stated a viable wrongful death claim against him pursuant to EPTL 5-4.1, since an insane person may be liable in tort for his actions (see Hirsch v Mastroianni, 80 AD2d 633, 634 [2d Dept 1981]; Albicocco v Nicoletto, 11 AD2d 690 [2d Dept 1960], affd 9 NY2d 920 [1961]). A wrongful death claim was also stated on behalf of defendant's brother, who committed suicide after his mother's murder. To the extent Supreme Court decided whether defendant may inherit from his mother's estate, no ruling on that question was sought by plaintiffs, and, in any event, the ruling was not only premature, but should be determined in the Surrogate's Court (see e.g. Matter of Demesyeux, 42 Misc. 3d 730 [Sur Ct, Nassau County 2013]).\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: MARCH 30, 2017\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4156809
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

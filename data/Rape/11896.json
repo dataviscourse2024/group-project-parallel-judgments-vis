@@ -1,8 +1,8 @@
 {
     "id": 1431424,
     "judges": "Batjer, Gunderson, Manoukian, Thompson",
-    "date_filed": 313891200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-02-02",
+    "date_filed_is_approximate": true,
     "slug": "crockett-v-state",
     "case_name_short": "Crockett",
     "case_name": "Crockett v. State",

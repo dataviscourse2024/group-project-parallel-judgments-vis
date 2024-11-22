@@ -1,8 +1,8 @@
 {
     "id": 1852872,
     "judges": "Bowen",
-    "date_filed": 264124800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-08-07",
+    "date_filed_is_approximate": true,
     "slug": "odoms-v-state",
     "case_name_short": "Odoms",
     "case_name": "Odoms v. State",

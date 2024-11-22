@@ -1,8 +1,8 @@
 {
     "id": 1451846,
     "judges": "Cameron, Hays, Holohan, Lockwood, Struckmeyer",
-    "date_filed": 119232000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-02-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-scarborough",
     "case_name_short": "Scarborough",
     "case_name": "State v. Scarborough",

@@ -1,8 +1,8 @@
 {
     "id": 2436766,
     "judges": "Karohl, Kelly, Smith",
-    "date_filed": 570153600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-07-06",
+    "date_filed_is_approximate": true,
     "slug": "turner-v-general-motors-corp",
     "case_name_short": "Turner",
     "case_name": "Turner v. General Motors Corp.",

@@ -1,0 +1,46 @@
+{
+    "id": 8234427,
+    "judges": "Wickhem",
+    "date_filed": "1994-04-23",
+    "date_filed_is_approximate": true,
+    "slug": "richter-v-state-board-of-control",
+    "case_name_short": "Richter",
+    "case_name": "Richter v. State Board of Control",
+    "case_name_full": "In re Guardianship of Radoll: Richter, Guardian v. State Board of Control",
+    "attorneys": "For the appellant there was a brief by Sutherland, Hughes & Sutherland of Fond du Lac, and oral argument by A. D. Sutherland., Blaine M. Linke of Madison, for the respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "\nSeptember 16\n",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "222 Wis. 539"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wickhem",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWickhem, J.\nThe incompetent, Lawrence Radoll, was charged with assault while armed with intent to murder. He was arrested on March 20, 1933, and brought before the municipal court of Fond du Lac county. The court ordered him committed to the central state hospital at Waupun for observation for a period not to exceed thirty days. At the' termination of this period, Radoll was bound over for trial to the circuit court for Fond du Lac county. On May 3, 1933, the court entered an order reciting the previous order of the municipal court committing the defendant for observation, and the fact that the defendant had been returned to' the circuit court for disposition. The order sets forth that the court has had evidence given by one of the medical staff of the hospital, and had read the findings of said institution, in which it is recommended that the defendant \u201cbe subjected to further hospitalization.\u201d The order then proceeds:\n\u201cNow therefore it is ordered and adjudged that the said defendant Lawrence Radoll be committed to the central state hospital for the insane at Waupun in the county of Dodge, state of Wisconsin, and all proceedings in this case indefinitely stayed until said defendant shall have recovered from such mental disorder;\n\u201cAnd it is further ordered and adjudged that if the defendant recover from such mental disorder that he be returned to this court forthwith for further proceedings in accordance with the law.\u201d\n*541The guardian was appointed for Radoll on April 14, 1934, and thereafter, the State Board of Control filed the claim with which we are here concerned.\nThe guardian contends that the order of the circuit court above referred to does not constitute an adjudication of insanity, but is in effect a mere commitment for further observation under sec. 357.12 (3), Stats., and that under the doctrine of Guardianship of Sprain, 219 Wis. 591, 263 N. W. 648, and Guardianship of Gardner, 220 Wis. 490, 264 N. W. 647, the guardian is not liable for the care and support of the ward during such a period. The law applicable to such claims as are here involved is fully set forth in the opinions filed in these cases, and we see no occasion to labor the points so thoroughly discussed there. If in point of fact the commitment by the circuit court was for purposes of observation, the guardian has no liability. If it was not, and particularly; if this was a commitment pursuant to sec. 357.13, Stats., the guardian is liable under sec. 49.10 for his support while confined in the state hospital pursuant to this commitment.\nSec. 357.13 (1) reads as follows:\n\u201cIf the court shall be informed, in any manner, that any person indicted or informed against for any offense probably is, at the time of his trial, or after his conviction and before commitment, insane, or feeble-minded and thereby incapacitated to act for himself, the court shall, in a summary manner, make inquisition thereof by a jury or otherwise as it deems most proper.\u201d\nSec. 357.13 (2) provides:\n\u201cIf it shall be determined by such inquisition that such accused person is insane or feeble-minded his trial, sentence, or commitment for such offense shall be postponed indefinitely, and the court shall thereupon order that he be confined in the central state hospital for the insane or in an institution to be designated by the board of control.\u201d\n*542No attack is made upon the validity or propriety of the commitment or the procedure which led up to it. The sole contention made, and the only contention which the guardian has any standing to make, or which has any legal materiality, is that it was a commitment for the purpose of observation under sec. 357.12 (3). This we hold to be unsound in fact. The only circumstance that raises any doubt that the circuit court committed the incompetent under sec. 357.13 (2) is the absence from the order of an express finding of insanity. While the order may be inartificially drafted, it is perfectly clear, (1) that it was an attempted response to the calls of sec. 357.13 following a period of observation; (2) that the court found in effect that Radoll was presently insane; and (3) that at all events the commitment was not for purposes of observation but for hospitalization and treatment. Under these circumstances, we cannot escape the conclusion that the guardian is liable for care and maintenance furnished under this commitment.\nBy the Court. \u2014 Order affirmed.\n",
+            "ocr": true,
+            "opinion_id": 8199061
+        }
+    ],
+    "court_short_name": "Wisconsin Supreme Court",
+    "court_full_name": "Wisconsin Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Wisconsin, WI",
+    "crime_category": "Murder"
+}

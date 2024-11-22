@@ -1,0 +1,46 @@
+{
+    "id": 5903250,
+    "judges": "Gibson",
+    "date_filed": "2014-04-02",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-graham",
+    "case_name_short": "Graham",
+    "case_name": "People v. Graham",
+    "case_name_full": "The People of the State of New York v. Burton C. Graham",
+    "attorneys": "Paul H. McCabe, District Attorney, for appellant., Philip C. Learned for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "27 A.D.2d 203"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gibson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGibson, P. J.\nThis is an appeal by the People from an order of the Supreme Court at Special Term which, after a Huntley hearing directed upon a coram nobis application, (1) found that a written statement made by defendant and received in evidence upon his trial had not been proven beyond a reasonable doubt to have been voluntarily given, and (2) ordered a new trial. A judgment of conviction of murder in the second degree had previously been rendered, on February 24, 1962, and was subsequently modified by this court (20 A D 2d 949).\nThe victim of the homicide was defendant\u2019s estranged wife and it was important to the investigation to ascertain whether defendant had been upon the premises occupied by her and her children when .she sustained the injuries that caused her death. There was proof that the small children had said that their father had come there in the night. Upon interrogation by police officers, defendant for some time denied this, whereupon one of the officers said, \u201c I don\u2019t want to bring the children into this but I will if I have to \u2019 \u2019, and defendant then or about that time admitted his presence at the wife\u2019s house at about 3:00 a.m. and gave a statement in question and answer form in which he said that after a violent quarrel with his wife, in the course of which he silenced her screams by putting his hand over her mouth, he placed her in a bathtub, ran water into the tub and departed, leaving his wife unconscious and his children unattended. In his statement, he denied that he intended to cause his wife\u2019s death or that he knew that she *204was dead when he left, if in fact she was. On the Huntley hearing he said that he feared even physical harm would come to the children at the hands of the police and said that he would \u2018 \u2018 do anything to avoid bringing the children in. \u2019 \u2019\nIn holding the defendant\u2019s statement involuntary, Special Term found: 1 \u2018 There is no evidence of abuse of the petitioner, there is no evidence of any beating, the evidence was that his needs were properly attended to; the simple question is whether, under all the facts and upon the requirement that the people prove voluntariness beyond a reasonable doubt, the statement by the interrogating officer that he would bring in the children if necessary was such that the subsequent statement was not freely and voluntarily given by the petitioner.\u201d Continuing, the Special Term Judge said that he had \u201c serious doubts that [the statement] was voluntarily given\u201d and thus resolved the issue.\nThe police officers\u2019 testimony impresses us as forthright and, indeed, exceptionally candid, and we perceive no indication of falsehood or concealment. In the light of the record as a whole, to say nothing of defendant\u2019s inconsistent statements and behavior, we are. compelled to reject the defendant\u2019s extravagant expressions of his concern and motivation. This is not the case of a relative threatened by police with arrest, disgrace or physical harm; and the theory that this defendant formed any belief that harm would come to these small children in any of those forms, or in some other fashion, at the hands of these civilized men or, in particular, the officer especially assigned to handle children, seems to us incredible. In sum, there is no credible evidence, or any reasonable inference, that the police utilized or took improper advantage of whatever concern defendant may have had for his children to extract from him. an involuntary statement; and none, indeed, that any such concern was the causative motivating factor which elicited it.\nThe order should be reversed, on the law and the facts; the coram nobis application dismissed, on the merits; and the matter remitted to the Special Term for further proceedings not inconsistent herewith.\nGibson, P. J., Heblihy, Reynolds, Atjlisi and Gabrielli, JJ., concur in opinion per Gibson, P. J.\nOrder reversed, on the law and the facts; coram nobis application dismissed, on the merits; and matter remitted to the Special Term for further proceedings not inconsistent with the opinion herein.\n",
+            "ocr": true,
+            "opinion_id": 5760538
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

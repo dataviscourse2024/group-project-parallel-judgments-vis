@@ -1,0 +1,46 @@
+{
+    "id": 5271258,
+    "judges": "Crandall, Crist, Hoff",
+    "date_filed": "2006-09-18",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-callanan",
+    "case_name_short": "Callanan",
+    "case_name": "State v. Callanan",
+    "case_name_full": "STATE of Missouri, Plaintiff/Respondent v. Lawrence CALLANAN, Defendant/Movant",
+    "attorneys": "N. Scott Rosenblum, Wittner, Rosen-blum, Kessler, Spewak & Maylack, P.C., Clayton, Sean D. O\u2019Brien, Kansas City, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Stacy L. Anderson Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Motion for Rehearing and/or Transfer to Supreme Court Denied May 30, 2000.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 S.W.3d 150"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nPER CURIAM. \u2019\nLawrence T. Callanan (Movant) appeals the judgment of the St. Louis Circuit Court denying his post-conviction motion pursuant to Rule 29.15 to vacate, set aside or correct his judgment and sentence after a trial by jury on the.charges of murder in the first degree, Section 565.021.1 RSMo 1994,1 and armed criminal action, Section 571.015. We affirm.\n*151We have reviewed the briefs of the parties, the legal file, and the record on appeal and find the claims of error to be without merit. The motion court\u2019s findings and conclusions are not clearly erroneous. Rule 29.15(k). An extended opinion reciting the detailed facts and restating the principles of law would have no prece-dential value. Judgment affirmed in accordance with Rule 84.16(b).\nThe parties have been furnished with a memorandum for their information only, setting forth the reasons for the order affirming the judgment pursuant to Rule 84.16(b).\n\n. All subsequent citations are to RSMo 1994 unless otherwise noted.\n\n",
+            "ocr": true,
+            "opinion_id": 5098760
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

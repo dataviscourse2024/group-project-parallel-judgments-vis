@@ -1,8 +1,8 @@
 {
     "id": 3977279,
     "judges": "Glasser, Melvin, Resnick, Sherck",
-    "date_filed": 864345600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-12-08",
+    "date_filed_is_approximate": true,
     "slug": "state-v-pearson",
     "case_name_short": "Pearson",
     "case_name": "State v. Pearson",

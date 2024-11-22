@@ -1,8 +1,8 @@
 {
     "id": 8596466,
     "judges": "Ferguson, Kilday, Quinn",
-    "date_filed": -140832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-04-09",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-lange",
     "case_name_short": "Lange",
     "case_name": "United States v. Lange",

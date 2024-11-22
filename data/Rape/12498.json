@@ -1,8 +1,8 @@
 {
     "id": 1472182,
     "judges": "Marable",
-    "date_filed": -312595200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-01-25",
+    "date_filed_is_approximate": true,
     "slug": "harris-v-state",
     "case_name_short": "Harris",
     "case_name": "Harris v. State",

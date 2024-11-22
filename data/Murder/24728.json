@@ -1,0 +1,47 @@
+{
+    "id": 4189302,
+    "judges": "Christian",
+    "date_filed": "2013-12-03",
+    "date_filed_is_approximate": true,
+    "slug": "fletcher-v-state",
+    "case_name_short": "Fletcher",
+    "case_name": "Fletcher v. State",
+    "case_name_full": "L. B. Fletcher v. the State",
+    "attorneys": "Beard  Abney  of Marshall, and  B. W. Baker  of Carthage, for appellant.\n\n A. A. Dawson  of Canton, State's Attorney, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of Harrison County. Tried below before the Hon. Reuben A. Hall, Judge.\n\nAppeal from a conviction for murder; penalty, five years in the penitentiary.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b300-4\">\n    L. B. Fletcher v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b300-5\">\n    No. 12844.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"Aiy\">\n    Delivered January 8, 1930.\n   </decisiondate><br><citation data-order=\"3\" data-type=\"citation\" id=\"b300-6\">\n    Reported in 23 S. W. (2d) 369.\n   </citation><br><p data-order=\"4\" data-type=\"summary\" id=\"b300-11\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b300-12\">\n<em>\n     Beard &amp; Abney\n    </em>\n    of Marshall, and\n    <em>\n     B. W. Baker of\n    </em>\n    Carthage, for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b300-13\">\n<em>\n     A. A. Dawson\n    </em>\n    of Canton, State\u2019s Attorney, for the State.\n   </attorneys>",
+    "citations": [
+        "23 S.W.2d 369",
+        "114 Tex. Crim. 276"
+    ],
+    "opinions": [
+        {
+            "author_str": "Christian",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The offense is murder; the punishment confinement in the penitentiary for five years.\nAppellant shot and killed Jim Mobley, Jr., the parties involved being negroes. Deceased and his wife, Lizzie Mobley, had been married about eleven months. Lizzie Mobley had a daughter about twenty years old. Appellant, a boy eighteen years of age, lived in the home of deceased. Deceased accused his wife of permitting her daughter and appellant to engage in improper relations. According to the state's testimony, deceased's wife and her daughter had prepared to leave deceased. As the parties were leaving the house, deceased came out with a piece of iron in his hand and started toward his wife. The daughter advised her mother that deceased was coming toward her. Deceased threw the iron down and turned back toward the girl. He knocked her down and jumped on her. The wife of deceased attempted to pull him off. As she was making this attempt, appellant came out of the house with a shotgun. He fired one shot which killed deceased instantly. Appellant denied that he had had any improper relations with deceased's step-daughter. He testified that as deceased left the house with a piece of iron in his hand he (deceased) said he was going to kill \"all of them\"; that when deceased was beating his step-daughter he (appellant) said to him: \"Jim, I would not do that if I were *Page 277 \nyou\"; that deceased drew his hand back and told him he would knock his d__n head off, and came toward him with the iron drawn back; that believing deceased was going to kill him, he fired the fatal shot. It was undisputed that appellant's reputation for being peaceable and law-abiding was good. There was a controversy as to whether the reputation of deceased in the respect mentioned was good or bad.\nThe issue as to whether appellant was acting in his self-defense was submitted to the jury. Although the charge of the court was excepted to on the ground that the issue as to the defense of deceased's wife and step-daughter had not been submitted, the court refused to amend the charge and refused to submit appellant's requested instruction on the subject. The qualification appended to appellant's bill of exception indicates that the refusal to submit the issue of defense of others was based on the fact that appellant testified that he acted in his own self-defense and that he did not say that he acted in the defense of deceased's wife and step-daughter. The issue as to the defense of the parties mentioned was raised by the evidence, and should have been submitted. We quote the language of Judge Hawkins in Shine v. State, 269 S.W. 808, as follows:\n\"Appellant testified that at the time he fired he was acting in his own self-defense, and this issue was submitted; but if from all the evidence the issue as to the defense of Son Douglass was raised, it should also have been submitted. See Steen v. State, 88 Tex.Crim. R., 225 S.W. 529; and authorities cited in that opinion; also, Ward v. State,96 Tex. Crim. 278, 257 S.W. 536; Thompson v. State, 96 Tex.Crim. R.,256 S.W. 279.\"\nFor the error discussed, the judgment is reversed and the cause remanded.\nReversed and remanded.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court. *Page 278 ",
+            "ocr": false,
+            "opinion_id": 3958913
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

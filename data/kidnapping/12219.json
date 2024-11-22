@@ -1,8 +1,8 @@
 {
     "id": 1495402,
     "judges": "Gilbert, Menchine and Melvin",
-    "date_filed": 202953600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-08-08",
+    "date_filed_is_approximate": true,
     "slug": "isaacs-v-state",
     "case_name_short": "Isaacs",
     "case_name": "Isaacs v. State",

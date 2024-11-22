@@ -1,8 +1,8 @@
 {
     "id": 8344666,
     "judges": "Lucas",
-    "date_filed": 884908800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-04-05",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-sanchez",
     "case_name_short": "Sanchez",
     "case_name": "United States v. Sanchez",

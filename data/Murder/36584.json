@@ -1,0 +1,46 @@
+{
+    "id": 6677360,
+    "judges": "Pennewill",
+    "date_filed": "1975-04-07",
+    "date_filed_is_approximate": true,
+    "slug": "law-order-society-v-pierce",
+    "case_name_short": "Pierce",
+    "case_name": "Law & Order Society v. Pierce",
+    "case_name_full": "Law and Order Society of Wilmington, Delaware, a corporation of the State of Delaware v. Frank C. Pierce",
+    "attorneys": "Caleb E. Burchenal for petitioner., James Saulsbury for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1. Intoxicating Liquors\u2014Revocation of License\u2014Grounds.</p> <p>Where a person, granted a license to sell intoxicating liquors, subsequently-pleaded guilty of assault, and was fined $100 and costs, and later was convicted of operating a motor vehicle while intoxicated, the license will be revoked, as the authority granting an occupational license may revoke it for good and sufficient cause, and the law providing that a person of full age and good moral character may be licensed to sell intoxicating liquor, empowers the court to revoke a license when satisfied that since its issuance the licensee has committed acts showing that he is not a man of good moral character.</p> <p>2. Intoxicating Liquors\u2014Grant of License\u2014Discretion.</p> <p>The law confers upon the court a large discretion in the granting of liquor licenses.</p>",
+    "headnotes": null,
+    "summary": "Petition and affidavit by Joseph S. Hamilton, President of the Law and Order Society of Wilmington, Delaware, for a rule against Frank C. Pierce to show cause why the license granted to him to sell intoxicating liquors in his house at Summit Bridge should not be revoked. License revoked. The petition sets forth substantially that a license was granted to the defendant at the January Term, 1917, authorizing him to sell intoxicating liquors in his house known as \u201cthe Buck\u201d in this county. After the issuance of the license the defendant was indicted for manslaughter and also for an assault with intent to commit murder. ( To the first indictment he entered a plea of \u201cguilty of assault \u201d; whereupon he was sentenced to pay a fine of one hundred dollars and the costs in both cases. Later the defendant was convicted before a Justice of the Peace of this county of operating a motor vehicle while in an intoxicated condition, and was sentenced to pay a fine and the costs. Because of said convictions a rule was issued commanding the defendant to show cause why his license to sell intoxicating liquor should not be revoked. For the petitioner the authorities cited in the opinion of the court were relied on in support of the application. For the respondent the power of the court to revoke the license was questioned, except for the violation of the liquor laws as provided by the statute. 23 Cyc. 156.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "May Term, 1917., January Term, 1917.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "29 Del. 589"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pennewill",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPennewill, C. J.,\nafter stating the facts, delivered the opinion of the court:\n[1] It is well settled law that an occupational license is a privilege and not a vested right. And it is equally well settled that the authority which grants such a license always retains the power to revoke it for good and sufficient cause. Black on Intox. Liqs. 233, \u00a7 189; 23 Cyc. 155; 1 Woolley &amp; Thornton, 715, \u00a7 428; Hevren v. Reed, 126 Cal. 219, 222, 58 Pac. 536; State v. Dwyer, 21 Minn. 512, 513; Sullivan v. Borden, 163 Mass. 470, 471, 473, 40 N. E. 859.\nIt is conceded by the authority cited by counsel for defendant, 23 Cyc. 156, that the license may be revoked for a violation of the criminal laws.\nThe law of this state provides that a person of full age and good moral character may be licensed to sell intoxicating liquor. If, therefore, the court that granted the license should be convinced by competent evidence that the licensee has committed *591acts since the issuance of his license which show that he is not a man of good moral character, the court not only have the power but it is their duty to revoke such license.\n[2] Moreover, the law confers upon the court a large discretion in the granting of liquor licenses, and in the exercise of such discretion the court does not hesitate to refuse a license to , an applicant who, in their judgment, is not a proper person to conduct the business. Neither should the court hesitate to revoke a license when satisfied that the licensee has, since the issuance of his license, become an improper person to sell intoxicating liquor.\nFor the reasons stated the court are clearly of the opinion that the license heretofore granted to the defendant should be revoked. It is, therefore, ordered and directed that said license be and the same is hereby revoked and made null and void.\n",
+            "ocr": true,
+            "opinion_id": 6556423
+        }
+    ],
+    "court_short_name": "New York Court of General Session of the Peace",
+    "court_full_name": "New York Court of General Session of the Peace",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

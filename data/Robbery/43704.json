@@ -1,8 +1,8 @@
 {
     "id": 8084054,
     "judges": null,
-    "date_filed": 131673600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-09-15",
+    "date_filed_is_approximate": true,
     "slug": "maupin-v-sheriff",
     "case_name_short": "Maupin",
     "case_name": "Maupin v. Sheriff",

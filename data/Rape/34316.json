@@ -1,0 +1,47 @@
+{
+    "id": 6216467,
+    "judges": null,
+    "date_filed": "1981-04-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-rogers",
+    "case_name_short": null,
+    "case_name": "People v. Rogers",
+    "case_name_full": "The People of the State of New York v. Kenneth Rogers",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "291 A.D.2d 834",
+        "736 N.Y.S.2d 922"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal from a judgment of Monroe County Court (Geraci, Jr., J.), entered October 22, 1999, convicting defendant after a jury trial of, inter alia, rape in the first degree.\nIt is hereby ordered that the judgment so appealed from be and the same hereby is unanimously affirmed.\nMemorandum: We reject the contention of defendant that he was denied a fair trial by an improper remark made by the prosecutor during summation. Defendant\u2019s objection to the remark was sustained and, although County Court denied defendant\u2019s request for a curative instruction with respect to the remark, the court advised defendant that it would instruct the jury on the proper burden of proof in its charge and thereafter did so. \"Although one isolated comment improperly suggested a shift in the burden of proof, the court clearly and unequivocally instructed the jury that the burden of proof on all issues remained with the prosecution, and thus that comment did not deprive defendant of a fair trial\u201d (People v Pepe, 259 AD2d 949, 950, lv denied 93 NY2d 1024). Present \u2014 Green, J.P., Hayes, Scudder, Gorski and Lawton, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6083095
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

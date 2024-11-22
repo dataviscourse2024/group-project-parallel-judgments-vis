@@ -1,8 +1,8 @@
 {
     "id": 1348190,
     "judges": "Cozort, Greene, Parker",
-    "date_filed": 673574400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-08-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-spivey",
     "case_name_short": "Spivey",
     "case_name": "State v. Spivey",

@@ -1,8 +1,8 @@
 {
     "id": 7874196,
     "judges": "Byrd",
-    "date_filed": 120700800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-12-19",
+    "date_filed_is_approximate": true,
     "slug": "murphy-v-state",
     "case_name_short": null,
     "case_name": "Murphy v. State",

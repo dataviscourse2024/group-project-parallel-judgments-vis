@@ -1,0 +1,46 @@
+{
+    "id": 5087569,
+    "judges": "Winkler",
+    "date_filed": "1988-01-09",
+    "date_filed_is_approximate": true,
+    "slug": "montgomery-v-state",
+    "case_name_short": null,
+    "case_name": "Montgomery v. State",
+    "case_name_full": "Charles Montgomery v. State",
+    "attorneys": "Makemson & Fisher, and W. J. Montgomery, for the appellant., George McCormick, Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1. Assault with Intent to Murder.\u2014Indictment alleged that the accused \u201cunlawfully, upon the body of J. A., did make an assault, with intent him, the said J. A., feloniously and of malice aforethought to murder,\u201d etc. Held, sufficient to charge an assault with intent to murder, and not necessary that the instrument, weapon, or means used should have been alleged.</p> <p>2. District Court\u2014Jurisdiction. \u2014 If, on trial of an indictment for a felony, the jury find the accused guilty of a misdemeanor included within the felony charged, the jurisdiction of the District Court to proceed to judgment is not ousted or impaired.</p> <p>3. Aggravated Assault is a misdemeanor which is included in the felony of assault with intent to murder.</p> <p>4. Leading Question. \u2014 The allowance of a leading question on the direct examination of a witness does not constitute material error when it does not appear that the rights of the appellant were prejudiced, nor that the question was not allowed under recognized exceptions to the general rule.</p>",
+    "headnotes": null,
+    "summary": "Appeal from the District Court of Williamson. Tried below before the Hon. E. B. Turner. Appellant was found guilty of aggravated assault, and a fine of $450 assessed against him.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "4 Tex. Ct. App. 140"
+    ],
+    "opinions": [
+        {
+            "author_str": "Winkler",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWinkler, J.\nIt is urged in behalf of the appellant that the District Court erred in refusing to quash the indictment, and in assuming jurisdiction of the case, because the offense charged in the indictment is not a felony.\nThe indictment charges that the accused, in the county of Williamson, August 13, A. D. 1876, then and there, \u201c unlawfully, upon the body of John Atkinson did make an assault, with intent him, the said John Atkinson, feloniously and of malice aforethought to murder,\u201d etc.\nIn Croft v. The State, 15 Texas, 575, the rule was laid down that \u201c in an indictment for an assault with intent to commit an offense, the same particularity is not required as in an indictment for the commission of the offense.\u201d This rule is deduced from that laid down by Mr. Wharton (Whart. Cr. Law, 467) : that \u201c in an indictment with intent to murder, it is not necessary to state the instrument or means made use of by the assailant to effectuate the murderous intent. The means of effecting the criminal intent, or the circumstances evincive of the design with which the act was done, are considered to be matters of. evidence to the jury, *142to demonstrate the intent, and not necessary to be incorporated in the indictment.\u201d This case was decided under common-law authorities, prior to the adoption of the Code; yet long subsequently the rule was. approved in Bittick v. The State, 40 Texas, 117, where it was held that \u201cthe exact point, that it was not necessary to allege the means or instrument used, was held in The State v. Croft, 15 Texas, 578.\u201d\nOn these authorities, which have been repeatedly followed by this court, the indictment must be held sufficient to charge an assault with intent to murder; and, therefore, the other proposition falls to the ground. The indictment being for a felony which includes lesser grades than felony, the jurisdiction of the District Court was not ousted by the fact that the conviction was for a misdemeanor, which was included within the felony charged.\nAs to the second error complained of\u2014that the court erred in permitting the witness to testify in reference to a battery, none being alleged\u2014we are of opinion that under the indictment all the circumstances of the transaction which went to show the intent with which the assault was made were admissible, under the authorities above cited; and as to the objection that the question was leading, it is not shown by the bill of exceptions, or by the connection in which the question stood to the investigation, that the rights of the accused were prejudiced, or that it did not come within some one of the recognized exceptions to the rule forbidding the asking of leading questions in the direct examination of a witness. 1 Greenl. on Ev., secs. 434, 435.\nThe charge of the court is not deemed liable to the criticism of appellant\u2019s counsel. The portion, of the charge set out in the brief of appellant\u2019s counsel in the words, \u201cAn assault becomes aggravated when a serious bodily injury is inflicted upon the person assaulted,\u201d is in the language of the statute (Penal Code, art. 488 [Pasc. Dig., art. 2150, *143cl. 7]), and was necessary and proper to have been given, to enable the jury to determine when an assault would become aggravated. The whole charge was an able enunciation of the law of the case as made by the proofs.\nAs to the motion for a new trial, in so far as it is based upon the alleged surprise at the absence of a witness, it is shown that no steps had been taken by either side to procure his attendance, nor is'the materiality of his testimony sufficiently shown to warrant the granting of a new trial; and, in so far as the motion is based on the ground of alleged newly-discovered testimony, the grounds set out do not meet the requirements of the law as to the materiality of the new evidence and the show of diligence to procure it. Gibbs v. The State, 1 Texas Ct. App. 12; Hauck v. The State, 1 Texas Ct. App. 357; West v. The State, 2 Texas Ct. App. 209, and authorities there cited.\nThis is a case of interest, and has been carefully considered, as shown by the record, with the light shed upon it by able arguments on both sides. The evidence was fairly submitted to the jury, and whilst both parties appear to have been seriously injured in the rencounter, we are not prepared to say that the testimony did not warrant the jury in finding that the accused was responsible for all the consequences of the difficulty ; and we find no sufficient reason to disturb the finding of the jury and the judgment of the court.\nThe judgment is affirmed.\n\nAffirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 4904902
+        }
+    ],
+    "court_short_name": "Court of Appeals of Texas",
+    "court_full_name": "Court of Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 2419746,
     "judges": "Echols",
-    "date_filed": 954460800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-09-03",
+    "date_filed_is_approximate": true,
     "slug": "stinson-v-united-states",
     "case_name_short": "Stinson",
     "case_name": "Stinson v. United States",

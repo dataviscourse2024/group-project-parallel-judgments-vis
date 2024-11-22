@@ -1,8 +1,8 @@
 {
     "id": 2021792,
     "judges": "Garrard, Hoffman, Staton",
-    "date_filed": 327801600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-10-26",
+    "date_filed_is_approximate": true,
     "slug": "scholl-v-state",
     "case_name_short": "Scholl",
     "case_name": "Scholl v. State",

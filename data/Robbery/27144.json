@@ -1,8 +1,8 @@
 {
     "id": 4738420,
     "judges": null,
-    "date_filed": 1584921600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-02-28",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cota",
     "case_name_short": "Cota",
     "case_name": "People v. Cota",

@@ -1,8 +1,8 @@
 {
     "id": 2376284,
     "judges": "Dudley, Hays",
-    "date_filed": 648086400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-05-20",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-paragould-light-water-commission",
     "case_name_short": null,
     "case_name": "Smith v. Paragould Light & Water Commission",

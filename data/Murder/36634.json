@@ -1,0 +1,46 @@
+{
+    "id": 6689548,
+    "judges": "Burke",
+    "date_filed": "2000-06-12",
+    "date_filed_is_approximate": true,
+    "slug": "flor-v-people",
+    "case_name_short": "Flor",
+    "case_name": "Flor v. People",
+    "case_name_full": "Flor v. The People",
+    "attorneys": "Mr. J. J. Hendrick, Mr. O. H. Dasher, Mr. J. M. Hendrick, Mr. Earl Cooley, for plaintiff in error., Mr. Russell Fleming, Attorney General, Mr. Harold Clark Thompson, Assistant, for the people.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied June 4, 1923.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "73 Colo. 403"
+    ],
+    "opinions": [
+        {
+            "author_str": "Burke",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMr. Justice Burke\ndelivered the opinion of the court.\nPlaintiff in error, whom we hereinafter refer to as defendant, was tried for the murder of James Moore. The jury returned him guilty in the second degree and he was thereupon sentenced to the penitentiary for a term of ten to twelve years. To review that judgment this writ *405is prosecuted and defendant asks that it be made a supersedeas.\nThe evidence disclosed by this record justified the jury in believing that deceased had been duly commissioned a special police officer of the city of Trinidad and sent by his chief to the house where defendant resided to ascertain if violations of the liquor law were occurring there and if so to arrest the offenders; that while in the lawful discharge of his duty, and attempting there to arrest one Leo Gambrin, said Moore was shot by defendant and shortly thereafter died from the effects of the wound; that prior to his death he made oral and written declarations of the essential facts and identified defendant as his slayer. From this evidence and the verdict we must assume that the jury did so believe.\nThe information herein charged defendant and one Mary Gambrin jointly. A severance was had on request of the district attorney. Defendant here contends that the trial court erred in the following particulars: 1. In granting the severance; 2. In overruling a challenge for cause to the juror Rapp; 3. In interrogating said juror; 4. In admitting the statements of deceased as dying declarations and overruling a motion to strike the same; 5. In 'permitting the people to recall the witness Brownell; 6. In giving instruction No. 2; 7. In overruling defendant\u2019s motion for a new trial.\n1. It was within the discretion of the court to grant the severance. No prejudice to defendant thereby is shown. No objection was made thereto.\n2. The juror Rapp was asked whether, if he were on trial, he would be willing to accept a juror in the same frame of mind, and who had heard and knew the same things, as himself. His answer was, \u201cI don\u2019t believe I would.\u201d While perfectly proper as a guide to the exercise of a peremptory challenge and as explanatory of other portions of the examination this question and answer were, alone, insufficient to disqualify the juror. The remainder of the examination shows him perfectly qualified *406and the challenge stated no ground therefor. The record discloses that the juror did not sit and fails to disclose that defendant exhausted his peremptory challenges. Error can not be predicated upon this ruling. Thompson v. People, 26 Colo. 496, 505, 59 Pac. 51; Van Honton v. People, 22 Colo. 53, 57, 43 Pac. 137; Blackman v. Edsall, 17 Colo. App. 429, 433, 68 Pac. 790.\n3. It is said the court asked leading questions of the juror Rapp after the challenge was overruled. If so this was clearly within the discretion of the court and no prejudice thereby appears. The court' may ask leading questions of a juror on voir dire or permit counsel to do so. If such a method of examination be resorted to for the purpose of disqualifying a juror otherwise qualified, or qualifying one otherwise disqualified, the court may prohibit it. These are all matters resting in the sound discretion of the trial judge. No abuse of that discretion here appears. In fact this record does not disclose who propounded the interrogatories to the juror after the challenge, nor does it disclose any objection thereto.\n4. Deceased made his principal oral statements, identified defendant, and signed his written declaration, naming-defendant, before being told that his death was imminent. He reaffirmed these, however, after being so informed by the attending physician and answering, \u201cYes I know. I am done for.\u201d It is urged that he did not know defendant by name and did not thereafter reidentify him. It is beyond question, however, that he had in mind the man who had been brought before him under that name when he made his reaffirmance. There is evidence here to support every essential of a dying declaration as repeatedly laid down in our decisions. Weaver v. People, 47 Colo. 617, 620, 108 Pac. 331; Zipperian v. People, 33 Colo. 134, 139, 79 Pac. 1018.\nThese elements were correctly stated to the jury in instructions to which no objection was made. If then there were conflicts or inconsistencies in the evidence relating thereto the jurors were the final judges of the facts and *407these they have resolved against defendant. Commonwealth v. Brewer, 164 Mass. 577, 582, 42 N. E. 92.\n5. The witness Leo Gambrin had made certain statements concerning an alleged visit of Brownell and Moore to the same house several days prior to the shooting. Brownell was recalled to contradict Gambrin on this point. Assuming that this was impeachment on an immaterial matter it had no relation in any way to defendant and could not, upon any theory, have been prejudicial.\n6. Instruction No. 2 reads: \u201cYou are further instructed that the information herein embraces the crime of murder in the first and second degree.\u201d\nThe people charged, and their evidence showed, a plain case of murder. The defendant maintained, and his evidence tended at least to show, that he had no part in the transaction. There is no evidence of the commission of any offense of a lower grade than that found in the verdict. The record discloses no objection made and no exception saved to this instruction.\n7. Everything of moment covered by this assignment has been disposed of under the others.\nThis charge is a grave one, the verdict serious, and the penalty heavy. Ordinarily we would determine only the application for a supersedeas and reserve final judgment pending' further argument. We have of necessity, however, been obliged to examine this entire record with care. It seems to us every point has been fully covered in the briefs. Hence we have deemed it advisable to consider the cause En Banc and finally dispose of it. Finding no possibility of reversible error the supersedeas is denied and the judgment affirmed.\nMr. Justice Sheafor not participating.\n",
+            "ocr": true,
+            "opinion_id": 6569244
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 6844980,
     "judges": "Brock, Martin, Parker",
-    "date_filed": 156556800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-02-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jones",
     "case_name_short": "Jones",
     "case_name": "State v. Jones",

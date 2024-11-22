@@ -1,0 +1,47 @@
+{
+    "id": 4060459,
+    "judges": "Bessey, Doyle, Matson",
+    "date_filed": "1979-08-14",
+    "date_filed_is_approximate": true,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "Dick Johnson v. State.",
+    "attorneys": "Hunt & Beaucamp, John R. Leach, and James S. Davenport, for plaintiff in error., S. P. Freeling, Atty. Gen., and W. C. Hall, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from District Court, Delaware County; A.C. Brewster, Judge.\n\nDick Johnson was convicted of rape and he appeals. Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b208-8\">\n    DICK JOHNSON v. STATE.\n   </parties><docketnumber id=\"Anl\">\n    No. A-3659.\n   </docketnumber><decisiondate id=\"Ajq\">\n    Opinion Filed Nov. 21, 1921.\n   </decisiondate><citation id=\"AQE\">\n    (201 Pac. 1008.)\n   </citation><br><attorneys id=\"b209-6\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"195\"> \n     *195\n     </span>\n    Hunt &amp; Beaucamp, John R. Leach, and James S. Davenport, for plaintiff in error.\n   </attorneys><br><attorneys id=\"b209-7\">\n    S. P. Freeling, Atty. Gen., and W. C. Hall, Asst. Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "201 P. 1008",
+        "20 Okla. Crim. 194"
+    ],
+    "opinions": [
+        {
+            "author_str": "Doyle",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "This appeal is from a judgment of conviction rendered upon the verdict of a jury, finding the defendant, Dick Johnson, guilty of rape in the first degree, and fixing his punishment at imprisonment in the penitentiary for 20 years. The information charges that Dick Johnson, Forest Johnson, Raymond Scaggs, and Dan Scaggs, did in Delaware county, on or about the 13th day of August, 1919, unlawfully, feloniously, and by force and violence overcoming her resistance, have sexual intercourse with Lillie Hayes, she, the said Lillie Hayes, not being the wife of either of said defendants. A severance was granted, and upon the defendant Dick Johnson's separate trial, the jury returned their verdict as above stated.\nThis case is a companion case to that of Forest Johnson v. State, affirmed at this term, 20 Okla. Crim. 196, 201 P. 1006. The testimony was, in substance, the same, and the assignments of error are the same. Counsel for the defendant, by agreement with counsel for the state, submitted the cause upon their briefs filed in the companion case of Forest Johnson v. State, where this court held adversely to the contentions made. *Page 196 \nUpon consideration of the whole case we are satisfied that the substantial rights of the defendant have not been prejudiced by reason of any error of law appearing in the record. As shown by the record the defendant has had a fair and impartial trial and we think the testimony, without any doubt, is ample to sustain the conviction. The judgment of the district court of Delaware county is therefore affirmed.\nMATSON and BESSEY, JJ., concur.",
+            "ocr": false,
+            "opinion_id": 3818039
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Rape"
+}

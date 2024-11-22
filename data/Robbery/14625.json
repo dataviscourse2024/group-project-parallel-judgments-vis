@@ -1,8 +1,8 @@
 {
     "id": 1094015,
     "judges": "Brown, Williams, and Gaskins",
-    "date_filed": 1079049600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-10-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-manning",
     "case_name_short": "Manning",
     "case_name": "State v. Manning",

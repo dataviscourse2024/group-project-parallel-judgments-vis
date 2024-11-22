@@ -1,8 +1,8 @@
 {
     "id": 3297133,
     "judges": "Hart",
-    "date_filed": -1851465600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-10-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-boyd",
     "case_name_short": "Boyd",
     "case_name": "People v. Boyd",

@@ -1,8 +1,8 @@
 {
     "id": 7333030,
     "judges": null,
-    "date_filed": 1541462400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-09-30",
+    "date_filed_is_approximate": true,
     "slug": "croce-v-ny-times-co",
     "case_name_short": "Croce",
     "case_name": "Croce v. N.Y. Times Co.",

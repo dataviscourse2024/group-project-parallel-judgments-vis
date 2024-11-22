@@ -1,8 +1,8 @@
 {
     "id": 846111,
     "judges": null,
-    "date_filed": 1148947200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-09-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-smith",
     "case_name_short": null,
     "case_name": "People v. Smith",

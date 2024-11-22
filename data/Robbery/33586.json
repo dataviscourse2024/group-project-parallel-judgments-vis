@@ -1,8 +1,8 @@
 {
     "id": 6065190,
     "judges": "Bracken, Eiber, Harwood, Lawrence, Rosenblatt",
-    "date_filed": 654134400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-10-14",
+    "date_filed_is_approximate": true,
     "slug": "people-v-white",
     "case_name_short": "White",
     "case_name": "People v. White",

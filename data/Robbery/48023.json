@@ -1,8 +1,8 @@
 {
     "id": 8968510,
     "judges": "Easterbrook, Posner, Wood",
-    "date_filed": 578707200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-03-10",
+    "date_filed_is_approximate": true,
     "slug": "gaines-v-thieret",
     "case_name_short": "Gaines",
     "case_name": "Gaines v. Thieret",

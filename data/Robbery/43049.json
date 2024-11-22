@@ -1,8 +1,8 @@
 {
     "id": 7960431,
     "judges": "Harvey, Hutchison",
-    "date_filed": -1140480000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-10-15",
+    "date_filed_is_approximate": true,
     "slug": "ward-v-grant",
     "case_name_short": "Ward",
     "case_name": "Ward v. Grant",

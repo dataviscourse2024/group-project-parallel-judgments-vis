@@ -1,0 +1,47 @@
+{
+    "id": 3410853,
+    "judges": "Broyles, Gardner, MacIntyre",
+    "date_filed": "1990-02-07",
+    "date_filed_is_approximate": true,
+    "slug": "nichols-v-g-l-hight-motor-company",
+    "case_name_short": "Nichols",
+    "case_name": "Nichols v. G. L. Hight Motor Company",
+    "case_name_full": "Nichols v. G. L. Hight Motor Company.",
+    "attorneys": "Maddox  Griffin,  for plaintiff.\n\n Matthews, Owens  Maddox,  for defendants.",
+    "nature_of_suit": null,
+    "posture": "Action for damages; from Floyd superior court &#8212; Judge Porter. January 27, 1942.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied July 24, 1942.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b736-8\">\n    29610.\n   </docketnumber><parties id=\"AU8\">\n    NICHOLS\n    <em>\n     v.\n    </em>\n    G. L. HIGHT MOTOR COMPANY.\n   </parties><br><decisiondate id=\"b736-10\">\n    Decided June 27, 1942.\n   </decisiondate><otherdate id=\"AE_\">\n    Rehearing denied July 24, 1942.\n   </otherdate><br><attorneys id=\"b737-5\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"705\"> \n     *705\n     </span>\n<em>\n     Maddox &amp; Griffin,\n    </em>\n    for plaintiff.\n   </attorneys><br><attorneys id=\"b737-6\">\n<em>\n     Matthews, Owens &amp; Maddox,\n    </em>\n    for defendants.\n   </attorneys>",
+    "citations": [
+        "21 S.E.2d 253",
+        "67 Ga. App. 704"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gardner",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7157.0,
+            "opinion_text": "In this action to recover damages of a master and its servant this court held, on review of a former trial, that the plaintiff's evidence had shown no right to recover of the master, and affirmed the grant of a nonsuit as to it. On the trial now under review the plaintiff's evidence differed in no material particular from that which had been presented on the previous trial. The grant of a nonsuit was not error.\n         DECIDED JUNE 27, 1942. REHEARING DENIED JULY 24, 1942. *Page 705 \nThis is the third appearance of this case. On each trial the lower court granted a nonsuit. Nichols v. G. L.Hight Motor Co., 63 Ga. App. 155 (10 S.E.2d 439); 65 Ga. App. 397\n(15 S.E.2d 805). In the decision last cited this court held: \"Under the evidence a finding was demanded as a matter of law that, at the time of the homicide alleged to have been caused by the negligence of the defendant motor company's servant, the alleged servant was engaged in a purely personal enterprise, entirely disconnected from any business of the employer. The court did not err in granting a nonsuit as to the motor company.\" It is admitted that the pleadings and the evidence as reported on the second appearance in this court were almost identical with the evidence in the instant case, with the exception of the testimony of Johnson, the agent of the defendant, who did not testify in this case and possibly some additional evidence of the witness Harden, who did not testify in the former case. The relative location of the streets, the Sterchi place of business where Harden (the prospect) was at the time of the collision, the time and place of the collision, the Partridge Restaurant where the wife of Herman Johnson worked and where Johnson frequently, if not usually, ate supper, the time Harden was at the defendant's place of business, the time Johnson arrived at defendant's place of business after Harden left, the knowledge Johnson had as to the time of the salesmen's meeting at Sterchi's, the fact that Harden was at Sterchi's at the time of the collision, the information of the manager of defendant that Harden had inquired as to the whereabouts of Johnson and that Johnson was to see Harden after supper, that Johnson left the defendant's place of business only a few minutes before the collision, going in the direction of the Partridge Restaurant where his wife worked, the route necessary for Johnson to travel to reach the Partridge Restaurant and Sterchi's, appear from the present record.\nWhen we consider these facts and circumstances and compare the testimony of Johnson given on the former trial and the additional testimony of Harden, this testimony, as we see it, did not *Page 706 \nmaterially change the facts on which the former nonsuit was granted. Therefore, applying the principle of \"the law of the case,\" which is binding on this court and on the trial court, the court did not err in again granting a nonsuit.\nJudgment affirmed. Broyles, C. J., and MacIntyre, J.,concur.",
+            "ocr": false,
+            "opinion_id": 3405779
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

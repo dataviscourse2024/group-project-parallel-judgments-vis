@@ -1,0 +1,46 @@
+{
+    "id": 5329634,
+    "judges": "Brett, Bussey, Parks",
+    "date_filed": "1981-06-01",
+    "date_filed_is_approximate": true,
+    "slug": "johnson-v-state",
+    "case_name_short": null,
+    "case_name": "Johnson v. State",
+    "case_name_full": "Harry Bernard JOHNSON, Jr. v. The STATE of Oklahoma",
+    "attorneys": "Warren Gotcher, McAlester, for appellant., Michael C. Turp\u00e9n, Atty. Gen. of Okl., Hugh A. Manning, Asst. Atty. Gen., Jean M. LeBlanc, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "693 P.2d 1"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bussey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nBUSSEY, Presiding Judge:\nThe appellant, Harry Bernard Johnson, Jr., was convicted in the District Court of Oklahoma County, Case No. CRF-82-3470, of First Degree Murder, was sentenced to life imprisonment, and he appeals.\nThe uncontroverted evidence presented at trial established that on the evening of July 12, 1982, the appellant shot and killed his step-daughter, Marion Kay Stidham, and then attempted to commit suicide in the parking lot outside his Oklahoma City apartment.\nTestimony of witnesses appearing both for the State and the defense showed that over a period of time prior to the homicide, the appellant\u2019s behavior became increasingly erratic and abnormal. He became overly concerned as to the whereabouts of family members, and greatly suspicious as to their use of the telephone and the car. He became especially overprotective towards the deceased, and made unwarranted accusations concerning her co-workers. Indeed, several hours before the homicide, he started a family argument over whether the deceased should be allowed to go to a dinner held by the company for which she was employed.\nThe testimony also established that several months prior to the shooting, the appellant began to speak of committing suicide on a daily basis. After he was caught attempting to end his life in early May, 1982, his wife called the Oklahoma City Police Department, seeking help to have her husband committed to a mental institution. She was informed, however, that as the appellant had committed no crime, the police could not interfere.\nThe appellant, testifying on his own behalf, stated that he decided he was going to commit suicide in May, 1982, because he felt he was a failure as a husband and a father. He said that he knew he was doing some \u201ccrazy things,\u201d but he could not explain his behavior. He said he remembered nothing concerning the shooting. He also stated that he loved Ms. Stidham as a daughter, and that he would never do anything to harm her.\nDr. Nolen L. Armstrong, a practicing psychiatrist, testified that he examined the appellant in November, 1982. He diag*2nosed the appellant as having a severe depression with suicidal tendencies, and a neurotic condition causing suspiciousness and paranoia. Dr. Armstrong, however, was unable to give an opinion as to whether the appellant knew right from wrong at the time of the shooting.\nAt the close of evidence, counsel for the appellant requested that the jury be given an instruction on the defense of insanity based on the evidence as recited above. The trial court refused to give such an instruction. As one of his assignments of error, the appellant asserts that said refusal constitutes fundamental error.\nWe agree.\nWe find that the State\u2019s reliance on the authority cited in its brief to be misplaced. Three of those cases raised the issue of the sufficiency of the State\u2019s evidence after proper instructions on insanity were given. See, Richardson v. State, 569 P.2d 1018 (Okl.Cr.1977), Wilson v. State, 568 P.2d 1279 (Okl.Cr.1977), and High v. State, 401 P.2d 189 (Okl.Cr.1965). The question presented by Stevenson v. State, 486 P.2d 646 (Okl.Cr.1971), was whether evidence showing that a defendant accused of murder may have acted in a heat of passion necessitated the giving of an insanity instruction. Additionally, the issue in Hair v. State, 532 P.2d 72 (Okl.Cr.1975), was whether a jury verdict finding the defendant guilty and recommending that he undergo psychiatric treatment constituted a finding of insanity.\nThe only authority relied upon by the State that raises the issue presented herein is Johnson v. State, 621 P.2d 1162 (Okl.Cr.1980), in which we held that absent any evidence as to the defendant\u2019s mental capacity, an instruction on insanity should not be given. In view of the evidence presented in the instant case, however, we find our decision in Perkins v. State, 492 P.2d 383 (Okl.Cr.1971) to be controlling. Perkins presented less evidence as to the defendant\u2019s capacity, yet we held that it was reversible error for the trial court to fail to give an instruction in conformance with the M\u2019Naughten Rule.\nAccordingly, the judgment and sentence appealed from is REVERSED, and this cause is REMANDED to the district court for further proceedings not inconsistent with this opinion.\nPARKS and BRETT, JJ., concurs.\n",
+            "ocr": true,
+            "opinion_id": 5160022
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Murder"
+}

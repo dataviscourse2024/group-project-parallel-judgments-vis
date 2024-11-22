@@ -1,8 +1,8 @@
 {
     "id": 1217374,
     "judges": "Whichard",
-    "date_filed": 670636800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-09-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-laws",
     "case_name_short": "Laws",
     "case_name": "State v. Laws",

@@ -1,8 +1,8 @@
 {
     "id": 6170433,
     "judges": null,
-    "date_filed": 925084800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-07-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mcbride",
     "case_name_short": "McBride",
     "case_name": "People v. McBride",

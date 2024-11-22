@@ -1,8 +1,8 @@
 {
     "id": 1960354,
     "judges": "Bobrick",
-    "date_filed": 796348800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-12-18",
+    "date_filed_is_approximate": true,
     "slug": "matter-of-extradition-of-kulekowskis",
     "case_name_short": "In re Extradition",
     "case_name": "Matter of Extradition of Kulekowskis",

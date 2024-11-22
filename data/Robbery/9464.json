@@ -1,8 +1,8 @@
 {
     "id": 2617873,
     "judges": "Ward",
-    "date_filed": -642988800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-02-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-chapman",
     "case_name_short": "Chapman",
     "case_name": "People v. Chapman",

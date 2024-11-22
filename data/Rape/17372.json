@@ -1,8 +1,8 @@
 {
     "id": 2237754,
     "judges": "Cutter, Kirk, Reardon, Spalding, Spiegel, Wilkins",
-    "date_filed": 2332800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-06-11",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-connolly",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Connolly",

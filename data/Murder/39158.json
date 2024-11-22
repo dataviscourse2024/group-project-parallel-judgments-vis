@@ -1,0 +1,46 @@
+{
+    "id": 7156074,
+    "judges": null,
+    "date_filed": "2021-08-16",
+    "date_filed_is_approximate": true,
+    "slug": "board-of-commissioners-v-knight",
+    "case_name_short": "Knight",
+    "case_name": "Board of Commissioners v. Knight",
+    "case_name_full": "Board of Commissioners of the County of Clay v. Knight",
+    "attorneys": "McNutt & Shattuck and G. S. Payne, for appellant., George A. Knight, A. W. Knight and Sullivan & Knight, for appellees.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "From Clay Circuit Court; Lewis F. Tilley, Special Judge. Action by George A. Knight and another against the Board of Commissioners of the County of Clay. From a judgment for plaintiffs, defendant appeals.",
+    "disposition": "\nReversed.\n",
+    "history": null,
+    "other_dates": "Rehearing denied May 14, 1909., Transfer denied June 11, 1909.]",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "44 Ind. App. 722"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nAppellees were appointed by the Clay Circuit Court to assist in defending Jesse Sluder on a charge of murder, then pending in said court, which prosecution resulted in the conviction of said Sluder and his imprisonment for life in the state iirison. a claim for the services so rendered was presented to the board of commissioners of said county by appellees, which claim was by that body disallowed. Whereupon appellees appealed to the circuit court, in which court they obtained a judgment. Prom that judgment this appeal is taken.\nUpon the authority of Turner v. Board, etc. (1902), 158 Ind. 166, the judgment is reversed.\n",
+            "ocr": true,
+            "opinion_id": 7065270
+        }
+    ],
+    "court_short_name": "Indiana Court of Appeals",
+    "court_full_name": "Indiana Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Murder"
+}

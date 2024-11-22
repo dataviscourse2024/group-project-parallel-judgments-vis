@@ -1,0 +1,46 @@
+{
+    "id": 8553394,
+    "judges": null,
+    "date_filed": "1990-02-08",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-cordero",
+    "case_name_short": "Cordero",
+    "case_name": "People v. Cordero",
+    "case_name_full": "People v. Cordero",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "25 P.R. 848"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nVoluntary Homicide. San Juan, Section 2.\n\nAffirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 8526180
+        }
+    ],
+    "court_short_name": "Supreme Court of Puerto Rico",
+    "court_full_name": "Supreme Court of Puerto Rico",
+    "court_type": "TS",
+    "court_jurisdiction": "Puerto Rico, PR",
+    "crime_category": "Murder"
+}

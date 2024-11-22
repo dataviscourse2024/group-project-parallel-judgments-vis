@@ -1,8 +1,8 @@
 {
     "id": 7214938,
     "judges": "Kennedy",
-    "date_filed": 1014163200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-30",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-collier",
     "case_name_short": "Collier",
     "case_name": "United States v. Collier",

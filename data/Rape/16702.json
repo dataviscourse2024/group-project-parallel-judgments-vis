@@ -1,8 +1,8 @@
 {
     "id": 2088395,
     "judges": "House",
-    "date_filed": -313804800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-09-28",
+    "date_filed_is_approximate": true,
     "slug": "the-people-v-richardson",
     "case_name_short": null,
     "case_name": "The PEOPLE v. Richardson",

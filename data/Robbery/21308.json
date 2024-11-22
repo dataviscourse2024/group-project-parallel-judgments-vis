@@ -1,8 +1,8 @@
 {
     "id": 3134301,
     "judges": null,
-    "date_filed": 877564800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-07-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-garcia",
     "case_name_short": "Garcia",
     "case_name": "People v. Garcia",

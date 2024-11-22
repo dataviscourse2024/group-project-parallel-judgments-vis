@@ -1,0 +1,47 @@
+{
+    "id": 6043577,
+    "judges": "Egan",
+    "date_filed": "2016-09-02",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-lowman",
+    "case_name_short": "Lowman",
+    "case_name": "People v. Lowman",
+    "case_name_full": "The People of the State of New York v. George L. Lowman",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "103 A.D.3d 976",
+        "959 N.Y.S.2d 568"
+    ],
+    "opinions": [
+        {
+            "author_str": "Egan",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nEgan Jr., J.\nAppeal from a judgment of the County Court of Chemung County (Buckley, J.), rendered December 5, 2008, convicting defendant following a nonjury trial of the crime of aggravated harassment in the second degree.\nIn October 2006, defendant was charged in a felony complaint with a single count of rape in the first degree stemming from conduct that allegedly involved a then 10-year-old child and occurred in November 2000. Thereafter, on April 4, 2007, defendant was indicted and charged with four counts of rape in the first degree; the first count of the indictment was based upon the conduct referenced in the underlying felony complaint, and the remaining three counts were premised upon conduct allegedly occurring in December 2000, January 2001 and February 2001, respectively. Shortly thereafter, the People announced their readiness for trial. Upon discovering a jurisdictional defect in the indictment, the People sought and obtained a superseding indictment\u2014again charging defendant with four counts of rape in the first degree. Defendant was arraigned on the superseding indictment\u2014and the People announced their readiness for trial\u2014on January 31, 2008.\nDefendant thereafter moved to dismiss the superseding indictment based upon statutory speedy trial grounds. County Court granted the motion as to count 1\u2014arising from the November 2000 incident\u2014but denied the motion as to the remaining three counts. The ensuing trial resulted in a hung jury, following which\u2014for reasons not apparent from the face of the record\u2014 the People agreed to proceed upon a single count of aggravated harassment in the second degree, a class A misdemeanor (see Penal Law \u00a7 240.30 [3]). Defendant was found guilty of that charge after a nonjury trial upon stipulated facts and received a conditional discharge. Defendant now appeals, contending that he was denied his statutory right to a speedy trial.\nWhere, as here, a defendant is charged with at least one felony, the People must be ready for trial within six months of the commencement of the underlying criminal action (see CPL 30.30 [1] [a]; People v Nelson, 68 AD3d 1252, 1253 [2009]). A criminal action, in turn, is commenced upon the filing of the first accusatory instrument (see CPL 1.20 [16] [a]; People v *977Fehr, 45 AD3d 920, 922 [2007], lv denied 10 NY3d 764 [2008]) and \u201cincludes the filing of all further accusatory instruments directly derived from the initial one\u201d (CPL 1.20 [16] [b] [emphasis added]; see People ex rel. Greenstein v Sheriff of Schenectady County, 220 AD2d 190, 192 [1996]). As the first accusatory instrument filed in this matter was the felony complaint, the issue then becomes whether the subsequent indictments\u2014specifically, the superseding indictment\u2014directly derived therefrom. If the conduct alleged in that indictment constitutes the same criminal transaction as set forth in the felony complaint, the speedy trial clock began to run upon the filing of the felony complaint in October 2006 (see People ex rel. Greenstein v Sheriff of Schenectady County, 220 AD2d at 192-193). If, on the other hand, the superseding indictment \u201callege[d] separate and distinct criminal transactions, the speedy trial time clock commence [d] to run upon the filing of the indictment with respect to the new charges [contained] therein\u201d (People v Dearstyne, 230 AD2d 953, 955 [1996], lv denied 89 NY2d 921 [1996]; see People v Nelson, 68 AD3d at 1254; People v Fehr, 45 AD3d at 922; People v Lashway, 187 AD2d 747, 748 [1992], lv denied 81 NY2d 842 [1993]), i.e., upon the filing of the original indictment in April 2007.\nThe crux of defendant\u2019s argument on appeal is that all four counts of the superseding indictment charging rape in the first degree (based upon incidents allegedly occurring in November 2000, December 2000, January 2001 and February 2001, respectively) should relate back to the filing of the felony complaint because the victim\u2019s supporting deposition, which was attached thereto, refers to multiple incidents of misconduct. As the People could\u2014or should\u2014have charged all four incidents in the felony complaint (either as individual counts of rape in the first degree or, more appropriately, as a single count of course of sexual conduct against a child in the first degree), defendant\u2019s argument continues, all four incidents effectively constitute a single criminal transaction that, in turn, relates back to the filing of the felony complaint for purposes of speedy trial computations. We disagree.\nDespite defendant\u2019s novel theory as to the manner in which he could or should have been charged, the People were free to seek an indictment against defendant as they saw fit based upon the crime(s) they believed had been committed. Here, although count 1 of the superseding indictment indeed was based on the exact same incident as set forth in the felony complaint, counts 2, 3 and 4 charge conduct plainly arising from separate and distinct criminal transactions. Thus, count 1 of the super*978seding indictment relates back to the October 2006 felony complaint, while counts 2, 3 and 4 relate back to the filing of the original indictment in April 2007 (see People v Nelson, 68 AD3d at 1254; People v Dearstyne, 230 AD2d at 955; People v Lashway, 187 AD2d at 748). As defendant does not contest the actual number of days chargeable to the People (78 days as to counts 2 and 3 and 53 days as to count 4), we discern no basis upon which to disturb County Court\u2019s resolution of the speedy trial issue.\nPeters, P.J., Stein and Garry, JJ., concur. Ordered that the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5906847
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

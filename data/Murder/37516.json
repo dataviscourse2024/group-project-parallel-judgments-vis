@@ -1,0 +1,46 @@
+{
+    "id": 6846153,
+    "judges": "Britt, Martin, Vaughn",
+    "date_filed": "1983-10-08",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-butcher",
+    "case_name_short": "Butcher",
+    "case_name": "State v. Butcher",
+    "case_name_full": "STATE OF NORTH CAROLINA v. LAWRENCE C. BUTCHER",
+    "attorneys": "\n\nAttorney General Edmisten, by Special Deputy Attorney General Robert P. Gruber, for the State.\n, \nCherry, Cherry and Flythe, by Charles Slade, Jr., for the defendant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "31 N.C. App. 572"
+    ],
+    "opinions": [
+        {
+            "author_str": "Martin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMARTIN, Judge.\nThe defendant contends that the trial court committed error in denying his motion for a continuance on the ground of the absence of a subpoenaed witness. The defendant asserts that in so doing the trial court abused its discretion and denied his constitutional rights to confrontation and to compulsory process.\nThe trial record reveals that the defendant\u2019s witness, Timothy Butcher, did not appear at trial to testify. However, what he would have testified to had he appeared was read to the jury on the basis of a stipulation made by the State. This stipulation appears in the record as follows:\n\u201cNo evidence was offered for the defendant except that the district attorney for the State stipulated that the defendant\u2019s counsel could state to the jury whatever the defendant\u2019s brother Timothy Butcher would have testified to if present in court and the State stipulated that the brother would so testify, but did not stipulate as to the truth of his testimony.\u201d\nThe record reveals that the defendant did not at any time object to this stipulation or to the procedure proposed. In response *574to the stipulation, counsel for the defendant then made the following statement to the jury:\n\u201cI have talked with the witness Timothy Butcher and he was here all of last week and when .1 talked with him, he told me that Lawrence Butcher did not have the gun on this occasion and did not fire a shot into the building and that in his opinion the shot came from up on a hill some distance from the building.\u201d\nAt the close of the evidence, the trial court charged the jury to consider the statement of Timothy Butcher\u2019s anticipated testimony as though given orally under oath. This portion of the charge reads as follows:\n\u201cThe defendant has on the other hand offered evidence to the effect that his brother was in the car with the Squire girls, who have testified, and that his brother if present would testify, and you would consider it as if he did testify under oath, to the effect that he was there with those girls and that his brother did not have a shotgun and his brother did not shoot at anyone or at the building, and that he heard a shot fired and it seemed to come up from the hill some good distance from there.\u201d\nIt is clear to this Court that the denial of a continuance did not amount to an abuse of discretion or a denial of the defendant\u2019s constitutional rights. This case is controlled by the holding in State v. Utley, 223 N.C. 39, 25 S.E. 2d 195 (1943) which is similar on its facts to the present case. In Utley, which involved a prosecution for murder, the accused moved for a continuance on the basis of the absence of several subpoenaed witnesses. The solicitor stated that he would admit what the absent witnesses would testify to if present. Before the close of the defendant\u2019s case, the trial court instructed the jury in accordance with the agreement of the solicitor \u201c . . . that the jury should consider that the witnesses had so testified, and that the jury should consider same as evidence for defendant just as if the witnesses had been present and testified in court.\u201d State v. Utley, supra at 44, 25 S.E. 2d at 199. The Supreme Court held that, as a matter of law, it could not say that the denial of the motion for a continuance took from the defendant his constitutional right of confrontation.\nIn a more recent case on this point, the trial court denied a continuance based on the absence of witnesses and allowed *575a statement as to what the witnesses would have said in lieu of their testimony. See State v. Rice, 23 N.C. App. 182, 208 S.E. 2d 416 (1974). This Court held that the trial judge, in using this procedure, neither abused his discretion nor denied the defendant his constitutional right of confrontation. In addition, this Court also stated the following:\n\u201cWhile the defendant complains that the use of the stipulation would not be the same as the personal testimony of the witnesses, he did not object to its use. Indeed, he and his attorney implicitly assented thereto.\u201d State v. Rice, supra at 186, 208 S.E. 2d at 418.\nIn the instant case, the record reflects that the trial court and the district attorney went out of their way to accommodate the wishes of the defendant by giving the defendant the benefit of what the absent witness would have testified to had he been present. Defendant\u2019s counsel was given the opportunity to make a statement of the anticipated testimony from the missing witness and that statement was made to the jury without objection or exception either to the procedure followed or to the subsequent charge to the jury explaining the procedure. It is therefore clear to this Court that the trial court acted well within the bounds of its discretion and did not violate the defendant\u2019s constitutional rights.\nDefendant had an impartial trial free from prejudicial error.\nNo error.\nJudges Britt and Vaughn concur.\n",
+            "ocr": true,
+            "opinion_id": 6733412
+        }
+    ],
+    "court_short_name": "Court of Appeals of North Carolina",
+    "court_full_name": "Court of Appeals of North Carolina",
+    "court_type": "SA",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

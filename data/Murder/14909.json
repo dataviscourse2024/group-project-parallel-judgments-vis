@@ -1,8 +1,8 @@
 {
     "id": 1285132,
     "judges": "Brailsford, Bussey, Lewis, Littlejohn, Moss",
-    "date_filed": 102124800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-05-11",
+    "date_filed_is_approximate": true,
     "slug": "state-v-marshall",
     "case_name_short": "Marshall",
     "case_name": "State v. Marshall",

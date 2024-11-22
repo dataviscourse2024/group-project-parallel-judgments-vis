@@ -1,8 +1,8 @@
 {
     "id": 1239976,
     "judges": "Hendley, Hernandez, Sutin",
-    "date_filed": 87782400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-05-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cebada",
     "case_name_short": "Cebada",
     "case_name": "State v. Cebada",

@@ -1,8 +1,8 @@
 {
     "id": 2689126,
     "judges": "Altenbernd, Casanueva, Northcutt",
-    "date_filed": 1406851200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-06-22",
+    "date_filed_is_approximate": true,
     "slug": "garcia-v-state",
     "case_name_short": "Garcia",
     "case_name": "Garcia v. State",

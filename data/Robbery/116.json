@@ -1,8 +1,8 @@
 {
     "id": 7770102,
     "judges": "Dell, Hardee, Muir, Stevenson",
-    "date_filed": 871430400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-07-31",
+    "date_filed_is_approximate": true,
     "slug": "moton-v-state",
     "case_name_short": "Moton",
     "case_name": "Moton v. State",

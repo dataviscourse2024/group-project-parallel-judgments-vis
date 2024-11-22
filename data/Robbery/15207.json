@@ -1,8 +1,8 @@
 {
     "id": 1499433,
     "judges": "Kelly, Simeone, Weier",
-    "date_filed": 129254400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-03-25",
+    "date_filed_is_approximate": true,
     "slug": "state-v-jordan",
     "case_name_short": "Jordan",
     "case_name": "State v. Jordan",

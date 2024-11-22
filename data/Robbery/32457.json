@@ -1,8 +1,8 @@
 {
     "id": 5835168,
     "judges": null,
-    "date_filed": 1133740800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-01-16",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ragunauth",
     "case_name_short": "Ragunauth",
     "case_name": "People v. Ragunauth",

@@ -1,8 +1,8 @@
 {
     "id": 6600455,
     "judges": "Hays, Lockwood, McFarland, Struckmeyer, Udall",
-    "date_filed": 28512000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-03-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-wilson",
     "case_name_short": "Wilson",
     "case_name": "State v. Wilson",

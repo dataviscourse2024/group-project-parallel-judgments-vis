@@ -1,0 +1,47 @@
+{
+    "id": 3399751,
+    "judges": "Brown, Buford, Ellis, Strum, Terrell, Whitfield",
+    "date_filed": "1981-09-07",
+    "date_filed_is_approximate": true,
+    "slug": "smith-v-state-of-florida",
+    "case_name_short": null,
+    "case_name": "Smith v. State of Florida",
+    "case_name_full": "Henry Smith, Plaintiff in Error, v. State of Florida, Defendant in Error",
+    "attorneys": "F. W. Marsh,  Attorney for Plaintiff in Error;\n\n Fred H. Davis,  Attorney General, and  H. E. Carter,  Assistant Attorney General, for Defendant in Error.",
+    "nature_of_suit": null,
+    "posture": "A Writ of Error to the Circuit Court for Escambia County; Thomas F. West, Judge.\n\nReversed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b851-6\">\n    Henry Smith,\n    <em>\n     Plaintiff in Error,\n    </em>\n    v. State of Florida,\n    <em>\n     Defendant in Error.\n    </em>\n</parties><br><court id=\"b851-7\">\n    Division B.\n   </court><br><decisiondate id=\"b851-8\">\n    Opinion Filed April 26, 1928.\n   </decisiondate><br><attorneys id=\"b851-12\">\n<em>\n     F.\n    </em>\n    W.\n    <em>\n     Marsh,\n    </em>\n    Attorney for Plaintiff in Error;'\n   </attorneys><br><attorneys id=\"b851-13\">\n<em>\n     Fred H. Davis,\n    </em>\n    Attorney General, and\n    <em>\n     II. E. Carter,\n    </em>\n    Assistant Attorney General, for Defendant in Error.\n   </attorneys>",
+    "citations": [
+        "116 So. 642",
+        "95 Fla. 821"
+    ],
+    "opinions": [
+        {
+            "author_str": "Terrell",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4059.0,
+            "opinion_text": "Plaintiff in error was indicted and tried for murder and convicted of manslaughter in the Circuit Court of Escambia County. By writ of error he comes here challenging his conviction. The main question brought up for our consideration is the sufficiency of the evidence to support the verdict. The evidence was circumstantial. *Page 822 \nWe do not think it meets the circumstantial evidence rule prescribed by this Court in Hall v. State, 90 Fla. 719,107 So. 246 and cases there cited, so the judgment below is reversed and a new trial awarded.\nReversed.\nWHITFIELD, P. J., AND BUFORD, J., concur.\nELLIS, C. J., AND STRUM AND BROWN, J. J., concur in the opinion and judgment.",
+            "ocr": false,
+            "opinion_id": 3393304
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

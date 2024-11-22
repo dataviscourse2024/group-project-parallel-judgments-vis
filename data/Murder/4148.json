@@ -1,0 +1,47 @@
+{
+    "id": 8596084,
+    "judges": "Day, Ferguson, Kid, Quinn",
+    "date_filed": "1997-02-23",
+    "date_filed_is_approximate": true,
+    "slug": "united-states-v-guinn",
+    "case_name_short": "Guinn",
+    "case_name": "United States v. Guinn",
+    "case_name_full": "UNITED STATES v. NATHAN L. GUINN, Specialist Five, U. S. Army",
+    "attorneys": "First Lieutenant Gary B. Keltner argued the cause for Appellant, Accused. With him on the brief were Colonel W. H. Blackmarr, Captain Jerome D. Meeker, First Lieutenant Robert L. Brosio, First Lieutenant Bruce C. Johnson, and First Lieutenant Burnett H. Radosh., First Lieutenant Peter J. McGinn argued the cause for Appellee, United States. With him on the brief was Major Francis M. Cooper.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "12 C.M.A. 632",
+        "12 USCMA 632"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ferguson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion of the Court\nFerguson, Judge:\nTried by general court-martial, the accused was found guilty of drunken driving, in violation of Uniform Code of Military Justice, Article 111, 10 USC \u00a7 911; reckless driving, in violation of the same Article; and involuntary manslaughter, in violation of Code, supra, Article 119, 10 USC \u00a7 919. He was sentenced to dishonorable discharge, forfeiture of all pay and allowances, reduction to the lowest enlisted grade, and confinement at hard labor for one year. Intermediate appellate author*633ities affirmed, and we granted review to consider the contention that:\n\u201cTHE STAFF JUDGE ADVOCATE\u2019S REVIEW CONTAINS IMPROPER ADVICE.\u201d\nThe portion of the review with which the accused quarrels deals with the question of the quantum of sentence to be approved. Initially, the staff judge advocate extensively summarized information relating to the accused\u2019s military record and civilian background. In discussing the sentence, he pointed out that accused had, in a post-trial interview, stated that he desired rehabilitation and restoration to duty. However, the officer concluded his comments on the sentence with the following statement:\n\u201cConsidering the seriousness of the offenses, which involve moral turpitude, the accused initially must be considered to be nonrestorable. The sentence is appropriate and is not excessive.\u201d\nAppellate defense counsel urge that the language of the staff judge advocate is such that the convening authority was either led to believe that accused\u2019s sentence could not, consistent with Army policy, be suspended, or that, because of his offenses, there was a \u201clegal presumption of nonrestorability.\u201d See United States v Plummer, 7 USCMA 630, 23 CMR 9. We disagree.\nIn the Plummer case, this Court forthrightly condemned a post-trial review which informed the convening authority that it was Army policy to deal severely with a barracks thief and recommended approval of a punitive discharge on that basis. Here, we have no such reliance on supposed military policy with regard to the sentence which should be approved. Rather, we have only a statement that this accused \u201cinitially must be considered . . . nonrestorable.\u201d True it is that this language is ambiguous and, considered in vacuo, might lead an untutored convening authority to conclude that he lacked the discretionary power to suspend the accused\u2019s sentence and restore him to duty. We cannot, however, read this single sentence apart from the setting in which it was used. United States v Draper, 11 USCMA 72, 28 CMR 296.\nIn the instant case, the questionable language was immediately followed by advice to the convening authority which expressly informed him of his responsibilities concerning the sentence:\n\u201cd. Power of the convening authority. You are advised that, in acting on the findings and sentence of a court-martial, you shall approve only such findings of guilty and the sentence, or such part or the amount of the sentence, as you find correct in law and fact and that you, in your discretion, determine should be approved. In this case you may mitigate (this is a reduction in quantity or quality, the general nature of the punishment remaining the same), suspend, or remit any portion of the sentence approved by you.\u201d [Emphasis partially supplied.]\nWhen these portions of the review are construed together, it becomes apparent that the staff judge advocate was doing no more than expressing an opinion to the convening authority that the accused should not then be restored to duty. He was entitled to express that view. United States v Rehorn, 9 USCMA 487, 26 CMR 267. And, considering the review as a whole, there is simply no fair risk that the convening authority was led to believe himself bound to accept that position. United States v Draper, supra.\nIn sum, then, we hold that the discussion of the sentence in the post-trial review, read in its entirety, was adequate in this case. The staff judge advocate\u2019s choice of language was unfortunate, and it is obvious that such ambiguities should be avoided in the future. There is no basis, however, for saying that the accused was harmed when the uncertainty contained in one sentence of the review was immediately removed by those which followed.\nThe decision of the board of review is affirmed.\nChief Judge Quinn and Judge Kid-day concur,\n",
+            "ocr": true,
+            "opinion_id": 8573245
+        }
+    ],
+    "court_short_name": "United States Court of Military Appeals",
+    "court_full_name": "United States Court of Military Appeals",
+    "court_type": "MA",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

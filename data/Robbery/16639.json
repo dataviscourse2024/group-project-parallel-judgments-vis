@@ -1,8 +1,8 @@
 {
     "id": 2100056,
     "judges": "DeBRULER, Dickson, Givan, Pivarnik, Shepard",
-    "date_filed": 598492800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-07-05",
+    "date_filed_is_approximate": true,
     "slug": "small-v-state",
     "case_name_short": "Small",
     "case_name": "Small v. State",

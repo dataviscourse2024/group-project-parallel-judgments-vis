@@ -1,8 +1,8 @@
 {
     "id": 8443646,
     "judges": "Easterbrook, Hamilton, Rovner",
-    "date_filed": 1513209600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-06-07",
+    "date_filed_is_approximate": true,
     "slug": "perry-v-united-states",
     "case_name_short": "Perry",
     "case_name": "Perry v. United States",

@@ -1,8 +1,8 @@
 {
     "id": 4182915,
     "judges": "Johnson",
-    "date_filed": -837648000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-09-10",
+    "date_filed_is_approximate": true,
     "slug": "moody-v-kimball",
     "case_name_short": "Kimball",
     "case_name": "Moody v. Kimball",

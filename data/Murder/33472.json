@@ -1,0 +1,47 @@
+{
+    "id": 6038683,
+    "judges": null,
+    "date_filed": "1998-06-13",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-lloyd-douglas",
+    "case_name_short": "Lloyd-Douglas",
+    "case_name": "People v. Lloyd-Douglas",
+    "case_name_full": "The People of the State of New York v. Collin F. Lloyd-Douglas",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "102 A.D.3d 986",
+        "958 N.Y.S.2d 744"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of Supreme Court, Queens County (Buchter, J.), rendered April 6, 2010, convicting him of attempted murder in the second degree, assault in the first degree, unlawful imprisonment in the second degree, and criminal possession of a weapon in the third degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress a videotaped statement made by him to law enforcement authorities.\nOrdered that the judgment is reversed, on the law, that branch of the defendant\u2019s omnibus motion which was to suppress a videotaped statement made by him to law enforcement authorities is granted, and a new trial is ordered.\nThe defendant moved to suppress a videotaped statement made by him to an assistant district attorney during the course of an interview conducted prior to the defendant\u2019s arraignment, *987pursuant to a program instituted by the Queens County District Attorney\u2019s office. In accordance with that program, a script formulated by the Queens County District Attorney\u2019s office was read to the defendant prior to administering Miranda warnings (see Miranda v Arizona, 384 US 436 [1966]), and obtaining a waiver of the defendant\u2019s rights. Because this procedure was not effective to secure the defendant\u2019s fundamental constitutional privilege against self-incrimination and right to counsel, the defendant\u2019s videotaped statement should have been suppressed (see People v Dunbar, \u2014 AD3d \u2014, 2013 NY Slip Op 00505 [2013] [decided herewith]).\nFurther, this error was not harmless beyond a reasonable doubt. Other than the improperly admitted inculpatory statements of the defendant, the People\u2019s evidence that the defendant committed the acts of which he was accused was limited to the testimony of the complainant, the defendant\u2019s ex-girlfriend. The defendant\u2019s confession provided highly probative and damaging evidence against him, and served to corroborate the complainant\u2019s testimony. Under these circumstances, the evidence of the defendant\u2019s guilt, without reference to the error, was not overwhelming, and there was a reasonable possibility that the error might have contributed to the defendant\u2019s conviction (see People v Schaeffer, 56 NY2d 448, 454 [1982]; People v Dunbar, \u2014 AD3d \u2014, 2013 NY Slip Op 00505 [2013] [decided herewith]; People v Harris, 93 AD3d 58, 71 [2012], affd 20 NY3d 912 [2012]). Accordingly, we reverse the conviction, grant that branch of the defendant\u2019s omnibus motion which was to suppress a videotaped statement made by him to law enforcement authorities, and order a new trial.\nIn light of our determination, we need not reach the defendant\u2019s remaining contentions. Skelos, J.P., Balkin, Leventhal and Cohen, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5901811
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

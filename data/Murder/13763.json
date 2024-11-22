@@ -1,8 +1,8 @@
 {
     "id": 1726808,
     "judges": "Fogleman",
-    "date_filed": 192672000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-14",
+    "date_filed_is_approximate": true,
     "slug": "tanner-v-state",
     "case_name_short": "Tanner",
     "case_name": "Tanner v. State",

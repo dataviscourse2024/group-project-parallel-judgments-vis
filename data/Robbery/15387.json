@@ -1,8 +1,8 @@
 {
     "id": 1649115,
     "judges": "Griffin, Orfinger, Torpy",
-    "date_filed": 1281052800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-01-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-quinn",
     "case_name_short": "Quinn",
     "case_name": "State v. Quinn",

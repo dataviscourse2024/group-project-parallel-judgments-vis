@@ -1,8 +1,8 @@
 {
     "id": 6212865,
     "judges": null,
-    "date_filed": 1004918400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-01-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bowman",
     "case_name_short": "Bowman",
     "case_name": "People v. Bowman",

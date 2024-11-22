@@ -1,8 +1,8 @@
 {
     "id": 1326601,
     "judges": "Birdsong, Shulman, Sognier",
-    "date_filed": 381628800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-02-27",
+    "date_filed_is_approximate": true,
     "slug": "grant-v-state",
     "case_name_short": "Grant",
     "case_name": "Grant v. State",

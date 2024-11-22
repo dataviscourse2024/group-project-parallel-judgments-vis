@@ -1,8 +1,8 @@
 {
     "id": 2611884,
     "judges": "Chapel, Johnson, Lane, Lumpkin, Strubhar",
-    "date_filed": 786672000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-01-07",
+    "date_filed_is_approximate": true,
     "slug": "mitchell-v-state",
     "case_name_short": null,
     "case_name": "Mitchell v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 8833475,
+    "judges": "Robb",
+    "date_filed": "2007-04-14",
+    "date_filed_is_approximate": true,
+    "slug": "harris-v-united-states",
+    "case_name_short": "Harris",
+    "case_name": "Harris v. United States",
+    "case_name_full": "HARRIS v. UNITED STATES",
+    "attorneys": "Robert I. Miller and J. A. O\u2019Shea, both of Washington, D. C\u201e for appellant., J. E. Laskey, U. S. Atty., and L. R. Mason, Asst. U. S. Atty., both of Washington, D. C.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Rape <\u00a7=>48 (2)\u2014Fact of subsequent complaint by prosecutrix, but not details, are competent evidence.</p> <p>In a prosecution for carnal knowledge of a female child, the fact that prosecutrix made complaint subsequent to the offense is admissible, though the particular facts stated in the complaint are not admissible, except when elicited in cross-examination, or to confirm her testimony after it has been impeached, or unless the complaint was part of the res gesta;.</p> <p>2. Criminal law <\u00a7=>1169(2)\u2014Admitting details of complaint by prosecutrix not prejudicial, after another complaint was detailed without objection.</p> <p>Where defendant permitted a witness for the prosecution to relate the details of a complaint made by prosecutrix without objection, the admission of similar details of a subsequent complaint by prosecutrix was not prejudicial.</p> <p><\u00ae=>For other cases see same topic & KEY-NUMBEit in all Key-Numberea Digests & Indexes</p>",
+    "summary": "Appeal from Supreme Court of the District of Columbia. Daniel E. J. Harris was convicted of having carnally known a female child, and he appeals.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": "Submitted October 5, 1920.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "269 F. 481"
+    ],
+    "opinions": [
+        {
+            "author_str": "Robb",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nROBB, Associate Justice.\nAppeal from a judgment of conviction in the Supreme Court of the District on an indictment charging the appellant with having carnally known a female child 9 years old.\nThe child testified to the details of a series of improper advances made by appellant, including the occurrence of November 24, 1918, upon which the indictment is based. After she had been taken to the House of Detention, on November 28th following, she \u201ctold about those occurrences\u201d to Mrs. Van Winkle, a policewoman. Thereupon, over the objection and exception of the appellant, the mother of the child was permitted to testify as to a disclosure to her of the same occurrences by the child on the evening of the day following the disclosure to the policewoman, and this is assigned as error.\n[1] The general rule undoubtedly is that the prosecutrix may testify as to whether she made complaint of the injury, and when and to whom, \u201cyet the particular facts which she stated are not admissible in evidence, except when elicited in cross-examination, or by way of confirming her testimony after it haS been impeached.\u201d 3 Greenl. on Ev. par. 213; Roney v. U. S., 43 App. D. C. 533; People v. Scattura, 238 Ill. 315, 87 N. E. 332; Parker v. State, 67 Md. 329, 10 Atl. 219, 1 Am. St. Rep. 387. And if the complaint is made under such circumstances, in point of time a.nd surrounding circumstances, as to: form part of the res gestm, the details may be received in evidence. Snowden v. U. S., 2 App. D. C. 89. In that case the complaint was made within *482a few hours of the criminal act, while the child was suffering from injuries inflicted, and while there were visible evidences of violence.\n,[2] In, the present case the child was permitted, without objection, to testify in detail as'tp. disclosures made to the policewoman. The testimony of the mother, as to the same disclosures subsequently made to her, cannot be said to have prejudiced the accused. The time to have objected was when the child testified as to those details. Having permitted the child to testify without, objection, and thus obtained the privilege of cross-examination, appellant is in no position to seek a reversal of the judgment merely because another witness subsequently testified to similar disclosures.\nThere were other facts and circumstances tending to prove the guilt of appellant, and, being convinced that he has had a fair trial and suffered no prejudice, we affirm the judgment.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 8818469
+        }
+    ],
+    "court_short_name": "D.C. Circuit",
+    "court_full_name": "Court of Appeals for the D.C. Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Rape"
+}

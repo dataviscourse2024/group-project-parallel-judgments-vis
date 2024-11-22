@@ -1,8 +1,8 @@
 {
     "id": 5977758,
     "judges": null,
-    "date_filed": 313977600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-05-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-ferguson",
     "case_name_short": "Ferguson",
     "case_name": "People v. Ferguson",

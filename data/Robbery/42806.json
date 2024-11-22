@@ -1,8 +1,8 @@
 {
     "id": 7915089,
     "judges": "Bear, Espinosa, Flynn",
-    "date_filed": 1368489600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-12-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-carattini",
     "case_name_short": "Carattini",
     "case_name": "State v. Carattini",

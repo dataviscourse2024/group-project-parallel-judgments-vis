@@ -1,0 +1,57 @@
+{
+    "id": 5235146,
+    "judges": "Campbell, Davis, McCormick, Odom",
+    "date_filed": "1993-04-26",
+    "date_filed_is_approximate": true,
+    "slug": "glenn-v-state",
+    "case_name_short": "Glenn",
+    "case_name": "Glenn v. State",
+    "case_name_full": "Thomas Edward GLENN v. The STATE of Texas",
+    "attorneys": "John B. Faulkner, Waco, for appellant., Felipe Reyna, Dist. Atty., and Lynnan L. Kendrick, Asst. Dist. Atty., Waco, Robert Huttash, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Discretionary Review Granted April 27, 1983.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "659 S.W.2d 438"
+    ],
+    "opinions": [
+        {
+            "author_str": "Odom",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION ON APPELLANT\u2019S PETITION FOR DISCRETIONARY REVIEW\nODOM, Judge.\nAppellant was convicted of burglary of a habitation under V.T.C.A., Penal Code Sec. 30.02(a)(3). Punishment was assessed at 99 years. The Court of Appeals affirmed the conviction in an unpublished opinion. Petition for review was granted to consider appellant\u2019s contention that the jury charge was fundamentally defective which the Court of Appeals rejected.\nThe indictment alleged that appellant:\n\u201cdid then and there intentionally and knowingly enter a habitation without the effective consent of N_ G_, the owner, and commit the felony offense of rape upon the said N_G_\u201d\nThe court\u2019s charge, in applying the law to the facts of the case, instructed the jury:\n\u201cTherefore, if you believe from the evidence beyond a reasonable doubt that the defendant, Thomas Edward Glenn, did, in McLennan County, Texas, on or about July 11, 1981, without the effective consent of N_G_, the owner, enter a habitation and commit the felony offense of rape, you will find the defendant guilty.\u201d\nAlthough the statute for burglary does not expressly provide for a culpable mental state, Sec. 30.02(a)(3), supra, it has been held that a culpable mental state is nevertheless required by the provisions of V.T. C.A., Penal Code Sec. 6.02(b) and (c). Day v. State, 532 S.W.2d 302 (Tex.Cr.App.1975); Davila v. State, 547 S.W.2d 606 (Tex.Cr. App.1977); Ex parte Winton, 549 S.W.2d 751 (Tex.Cr.App.1977). It is also established that omission of the essential element of the culpable mental state from the jury charge application of the law to the facts constitutes fundamental error requiring reversal. West v. State, 567 S.W.2d 515 (Tex. Cr.App.1978).\nThe judgments of the Court of Appeals and the trial court are reversed and the cause is remanded.\n",
+            "ocr": true,
+            "opinion_id": 5060303
+        },
+        {
+            "author_str": "McCormick",
+            "per_curiam": false,
+            "type": "040dissent",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcCORMICK, Judge,\ndissenting.\nThis case presents the classic example of harmless error and vividly demonstrates the absurd results which are attendant to this Court\u2019s theory of fundamental error when carried to its extreme.\nAlthough the majority fails to address the holding of the Tenth Court of Appeals (Glenn v. State, No. 10-81-205 CR, December 14, 1982), I find that unpublished opinion persuasive and set forth the applicable portion:\n\u201cAppellant was convicted of the offense of burglary of a habitation, enhanced, and was sentenced to 99 years in the Texas Department of Corrections.\n\u201cHe has appealed on five grounds, the first of which charges the trial court with *440failure to include in its charge to the jury the element of the culpable mental state.\n\u201cThe indictment charged the Appellant as follows:\n\u201c \u2018Intentionally and knowingly enter a habitation without the effective consent of Nancy Gatlin, the owner, and commit the felony offense of rape upon the said Nancy Gatlin.\u2019\n\u201cIn the application paragraph the court charged the jury:\n\u201c \u2018Therefore, if you believe from the evidence beyond a reasonable doubt that the Defendant, Thomas Edward Glenn, did, in McLennan County, Texas, on or about July 11,1981, without the effective consent of Nancy Gatlin, the owner, enter a habitation and commit the felony offense of rape, you will find the Defendant guilty.\u2019\n\u201cNo objection to the omission of the words \u2018intentionally and knowingly\u2019 was made by the attorney for the Appellant at the time of trial, the objection being raised for the first time on appeal. It is Appellant\u2019s contention that the error is fundamental.\n\u201cThe rule that a case will not be reversed for errors in the charge which were not objected to at the time of trial, unless it can be shown that the defendant was injured or that the error prevented the defendant from receiving a fair and impartial trial, has been the settled law of this State since 1886 when the Court of Appeals in Leache v. State, 22 Tex.App. 279, 3 S.W. 539 stated: \u2018It is a well settled rule that a charge of the court, when first questioned as to its correctness in the motion for new trial, will not be revised on appeal unless, when reviewed in the light of the circumstances, it was calculated to prejudice the rights of the accused.\u2019 This rule was carried forward by the Legislature into Article 36.19 Vernon\u2019s Ann. Code of Criminal Procedure \u2018... the judgment shall not be reversed unless the error appearing from the record was calculated to injure the rights of the defendant, or unless it appears from the record that the defendant had not had a fair and impartial trial.... \u2019 (emphasis ours)\n\u201cThe rule was emphasized in the recent case of Doyle v. State, 631 S.W.2d 732 (Tex. Cr.App.1980) in which the Court of Criminal Appeals stated: \u2018We further believe that the Legislature of this State has commanded this Court ... (Article 36.19 V.A.C.C.P.) ... to review in all appeals of this Court the charge to a jury. In each case appealed to this Court, the above statute implicitly requires that we are to make the determination whether or not there is error of omission or commission in a jury charge, and if we find there is we must then make the determination whether or not the error was calculated to injure the rights of the defendant, and also determine, if such error exists, whether or not it prevented the defendant from receiving a fair and impartial trial.\u2019\n\u201cIt, therefore, behooves this Court to examine the entire record in this case to determine whether the omission of the words \u2018intentionally and knowingly\u2019 from the application paragraph of the charge injured the Defendant or prevented him from having a fair and impartial trial.\n\u201cThe record in this case reflects that at approximately 3:55 a.m., or slightly earlier, on July 11, 1981 Nancy Gatlin was awakened by someone in bed with her. She began screaming and was told by the assailant to stop screaming or he would kill her. At this point she recognized Appellant, a black male, as the individual in bed with her. He ordered her to remove her panties and proceeded to rape her. At some point he gave her a closed pocket knife as a symbol that he did not intend to hurt her. She put the pocket knife under the pillow slip, and Appellant proceeded to rape her again. He then ordered her to remove her gown and bra and to get on her hands and knees so that he could attack her by the anus. She protested at this and he had her turn back over and raped her a third time. He then went outside the house and she heard someone putting the screen back on the window which had been opened after she went to bed. It had not been locked due to her inability to lock it.\n*441\u201cShe then called a neighbor across the street who sent her son to investigate Ms. Gatlin\u2019s complaint of someone under the window. No one was found and Ms. Gatlin went across the street to the home of her friend Sherri Otter where she went to bed with Sherri and slept from about 5:00 a.m. to 11:00 a.m.\n\u201cShe then got up and told Sherri of the rape and was taken by Sherri to Dr. Robertson for examination. She was found to have sperm in her vagina but was not otherwise injured. She was nervous and distraught and expressed fear for her life which caused her to offer no further resists anee to Appellant\u2019s approaches.\n\u201cSherri and her mother took her then to the McGregor Police Department where she reported the rape. The police then arrested Appellant and found on him the knife which Ms. Gatlin identified as the one he had put into her hand during the rape.\n\u201cAppellant offered no defense other than that of alibi which he sought to establish by several witnesses who testified that he was at a motel in Waco with another woman where he drank beer and had intercourse until after 4:00 a.m.\n\u201cAppellant offered no evidence to indicate that his entry into the building was by mistake rather than intentionally, nor did he offer any evidence that he thought he was entering a habitation by permission, nor that he thought that he was having intercourse with someone giving consent. Thus, intent or knowledge were not a contested issue in the case, and the submission of those issues to the jury would have been superfluous.\n\u201cThe determination of whether fundamental error exists must be based on the record as a whole, Slagle v. State, 570 S.W.2d 916 (Tex.Cr.App.1978).\n\u201cFrom a full reading of the record there does not appear to have been any harm befalling the Appellant by reason of the omission of the words \u2018intentionally and knowingly\u2019 from the charge, and it cannot be said that from the record as a whole he did not receive a fair and impartial trial by reason of the omission of such words.\n\u201cAppellant\u2019s ground one is overruled.\u201d\nTo the failure of the majority to affirm the Court of Appeals, I vigorously dissent.\nW.C. DAVIS and CAMPBELL, JJ., join in this dissent.\n",
+            "ocr": true,
+            "opinion_id": 5060304
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Rape"
+}

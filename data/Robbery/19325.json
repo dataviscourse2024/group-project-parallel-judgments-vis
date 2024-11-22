@@ -1,8 +1,8 @@
 {
     "id": 1094621,
     "judges": "Bowen",
-    "date_filed": 501811200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-01-27",
+    "date_filed_is_approximate": true,
     "slug": "bradley-v-state",
     "case_name_short": "Bradley",
     "case_name": "Bradley v. State",

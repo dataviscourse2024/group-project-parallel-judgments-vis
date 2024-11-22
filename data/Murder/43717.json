@@ -1,0 +1,47 @@
+{
+    "id": 8085906,
+    "judges": "Gibbons, Hardesty, Maupin",
+    "date_filed": "2019-09-29",
+    "date_filed_is_approximate": true,
+    "slug": "kirkpatrick-v-state",
+    "case_name_short": "Kirkpatrick",
+    "case_name": "Kirkpatrick v. State",
+    "case_name_full": "IAN SCOTT KIRKPATRICK v. THE STATE OF NEVADA",
+    "attorneys": "Edwin T Basl, Reno, for Appellant., George Chanos, Attorney General, Carson City; Richard A. Gammick, District Attorney, and Joseph R. Plater III, Deputy District Attorney, Washoe County, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "122 Nev. 846",
+        "137 P.3d 1193"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\n\nPer Curiam:\n\nIn this appeal, we consider whether the statutory sentencing enhancement for promoting the activities of a criminal gang may be applied to a conviction for conspiracy. We conclude that such a sentencing enhancement is proper.\nAppellant Ian Scott Kirkpatrick was originally convicted, pursuant to a guilty plea, of one count of conspiracy to commit murder and one count of assault with a deadly weapon. The district court sentenced Kirkpatrick to concurrent prison terms of 24 to 60 months for the assault and 48 to 120 months for the conspiracy to commit murder. As provided in NRS 193.168(1), the district court also imposed an additional and consecutive term of 48 to 120 months as a gang enhancement for the conspiracy count. The district court suspended the sentence and placed Kirkpatrick on probation for a period not to exceed 5 years. Approximately six months after sentencing, the district court revoked Kirkpatrick\u2019s probation, imposing the original sentence. The district court entered an amended judgment of conviction and corrected order revoking probation on October 14, 2005. This timely appeal followed.\n*848Kirkpatrick contends that it was error to apply the statutory gang enhancement to the crime of conspiracy. In Moore v. State, this court held that it was improper to apply the deadly weapon enhancement to a conspiracy conviction because the defendant could not \u201cuse\u201d a deadly weapon to commit the crime of conspiracy when no overt act was required.1 We conclude that the holding in Moore does not extend to the gang enhancement. NRS 193.168(1) provides a sentencing enhancement for \u201cany person who is convicted of a felony committed knowingly for the benefit of, at the direction of, or in affiliation with, a criminal gang, with the specific intent to promote, further or assist the activities of the criminal gang.\u201d Although a defendant cannot \u201cuse\u201d a deadly weapon in the act of merely reaching an unlawful agreement, a defendant can certainly reach an unlawful agreement for the benefit of a criminal gang. We therefore conclude that Kirkpatrick\u2019s argument is without merit.\nKirkpatrick also contends that the district court erred by denying his motion to modify his sentence. \u201c[A] motion to modify a sentence is limited in scope to sentences based on mistaken assumptions about a defendant\u2019s criminal record which work to the defendant\u2019s extreme detriment.\u201d2 Kirkpatrick argued at the revocation hearing that his sentence should be modified based on various factors: the relative culpability of his co-defendants; the assistance that Kirkpatrick rendered to law enforcement; and the fact that after being revoked, Kirkpatrick was placed in protective custody in prison. Kirkpatrick also argued that, upon revocation, the district court should have reduced the sentence because the sentence originally imposed was fashioned in order to \u201cget and maintain the defendant\u2019s attention at sentencing\u201d and provide him with motivation to comply with the conditions of probation. All of these factors, however, fall outside the scope of a motion to modify the sentence.\nTo the extent that Kirkpatrick argues that the district court should have reduced his sentence at the revocation proceeding as provided in NRS 176A. 630(5), we note that such action by the district court is discretionary, and we conclude that the district court did not abuse its discretion.3\n*849Having considered Kirkpatrick\u2019s contentions and concluded that they are without merit, we affirm the judgment of conviction and the order of the district court revoking probation.\n\n 117 Nev. 659, 27 P.3d 447 (2001); see also NRS 193.165(1) (providing sentencing enhancement for any person who uses a firearm or other deadly weapon in the commission of a crime).\n\n\n Edwards v. State, 112 Nev. 704, 708, 918 P.2d 321, 324 (1996).\n\n\n See NRS 176A. 630(5) (providing that, upon violation of a probation condition, district court may \u201c[m]odify the original sentence imposed by *849reducing the term of imprisonment and cause the modified sentence to be executed\u201d).\n\n",
+            "ocr": true,
+            "opinion_id": 8045789
+        }
+    ],
+    "court_short_name": "Nevada Supreme Court",
+    "court_full_name": "Nevada Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nevada, NV",
+    "crime_category": "Murder"
+}

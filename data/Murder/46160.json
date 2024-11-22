@@ -1,0 +1,47 @@
+{
+    "id": 8594445,
+    "judges": null,
+    "date_filed": "1995-02-10",
+    "date_filed_is_approximate": true,
+    "slug": "united-states-v-lookinghorse",
+    "case_name_short": "Lookinghorse",
+    "case_name": "United States v. Lookinghorse",
+    "case_name_full": "UNITED STATES v. LIGUORI P. LOOKINGHORSE, Private, U. S. Army",
+    "attorneys": "Lt. Col. George M. Thorpe, USA, and 1st Lt. Benjamin Feld, USA, for Appellant., 1st Lt. Robert A. Forman, USA, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 C.M.A. 660",
+        "1 USCMA 660"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion of the Court\nPER CURIAM:\nThe accused was tried and convicted by general court-martial for assault with intent to commit murder, in violation of Article 134 of the Uniform Code of Military Justice, 50 USC \u00a7 728. He was sentenced to a dishonorable, discharge, total forfeiture of pay, and confinement at hard labor for seven years. The convening authority approved the findings and sentence, and the board of review affirmed. The accused seeks review in this Court by petition.\nThe evidence discloses that the accused became involved in an argument with a Sergeant Evans. As a result of the argument, he procured a rifle and fired it at the tent in which Evans was located with the avowed intent of shooting Evans.\nThe law officer, in instructing the court, gave the elements of the offense as follows: \u201cThat the accused assaulted a certain person, as alleged; and, the facts and circumstances of the case showing the existence at the time of the assault of the intent of the accused to murder, as alleged.\u201d The law officer did not define murder. In addition he failed to instruct the court on the elements of any lesser included offenses. The record discloses considerable evidence of intoxication, which would have permitted a finding of a lesser form of assault not involving the element of specific intent. Under very similar circumstances, we have previously held such inadequate instructions to be prejudicial error. United States v. Avery (No. 809) 1 USCMA 533, 4 CMR 125, decided August 6, 1952; United States v. Drew (No. 422) 1 USCMA 471, 4 CMR 63, decided July 23, 1952; United States v. Banks (No. 382) 1 USCMA 479, 4 CMR 71, decided July 24, 1952.\nThe petition is granted, the decision of the board of review is reversed, and \u215c rejaearjpg is ordered.\n",
+            "ocr": true,
+            "opinion_id": 8570577
+        }
+    ],
+    "court_short_name": "United States Court of Military Appeals",
+    "court_full_name": "United States Court of Military Appeals",
+    "court_type": "MA",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

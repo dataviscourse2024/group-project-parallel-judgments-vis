@@ -1,8 +1,8 @@
 {
     "id": 1779635,
     "judges": "White",
-    "date_filed": 702691200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-09-08",
+    "date_filed_is_approximate": true,
     "slug": "ex-parte-choice",
     "case_name_short": null,
     "case_name": "Ex Parte Choice",

@@ -1,0 +1,46 @@
+{
+    "id": 5732238,
+    "judges": "George",
+    "date_filed": "1995-03-19",
+    "date_filed_is_approximate": true,
+    "slug": "nesmith-v-state",
+    "case_name_short": "Nesmith",
+    "case_name": "Nesmith v. State",
+    "case_name_full": "Nesmith v. State",
+    "attorneys": "J. C. Smith and J. P. Knight, for plaintiff in error., Clifford Walker, attorney-general, Clifford E. Hay, solicitor-general, J. D. Lovett, and M. C. Bennet, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for murder. Before Judge Thomas. Berrien superior court. December 14, 1918.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "149 Ga. 171"
+    ],
+    "opinions": [
+        {
+            "author_str": "George",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGeorge, J.\n1. All applications for continuances are addressed to the sound legal discretion of the court, and the presiding judges may in their discretion admit a counter-showing to a motion for a continuance, and, after a hearing, may decide whether the motion shall prevail. Penal Code, \u00a7 992.\n(a) On a m'otion for a continuance on the ground of the absence of a witness, it was permissible to show that the-absent witness would not \"in fact give such testimony as tfie movant attributed to him, but had previously deposed to the contrary. In view of the counter-showing made, there was no abuse of discretion in refusing to continue the case.\n2. Neither the evidence nor the defendant\u2019s statement authorized a charge upon the law of voluntary manslaughter. The court, therefore, did not err in declining to submit the charge requested upon that question.\n3. The evidence authorized the verdict.\n\nJudgment affirmed.\n\n\nAll the Justices concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5582712
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

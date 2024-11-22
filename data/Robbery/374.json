@@ -1,8 +1,8 @@
 {
     "id": 7823276,
     "judges": "Gross, Hazouri, Warner",
-    "date_filed": 1075852800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-05-26",
+    "date_filed_is_approximate": true,
     "slug": "rosado-v-state",
     "case_name_short": "Rosado",
     "case_name": "Rosado v. State",

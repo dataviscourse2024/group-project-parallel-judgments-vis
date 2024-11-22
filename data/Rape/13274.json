@@ -1,8 +1,8 @@
 {
     "id": 1646070,
     "judges": "Calogero",
-    "date_filed": 502329600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-01-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-harris",
     "case_name_short": "Harris",
     "case_name": "State v. Harris",

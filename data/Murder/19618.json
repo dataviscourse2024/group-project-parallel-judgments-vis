@@ -1,0 +1,47 @@
+{
+    "id": 1315457,
+    "judges": "Brock, Carlton",
+    "date_filed": "2021-01-25",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-cohen",
+    "case_name_short": "Cohen",
+    "case_name": "State v. Cohen",
+    "case_name_full": "State of North Carolina v. William Bernard Cohen",
+    "attorneys": "\n\nAttorney General Rufus L. Edmisten by Assistant Attorney General James Peeler Smith, for the State.\n, \nKeith M. Stroud for defendant-appellant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b248-9\">\n    STATE OF NORTH CAROLINA v. WILLIAM BERNARD COHEN\n   </parties><br><docketnumber id=\"b248-10\">\n    No. 2\n   </docketnumber><br><decisiondate id=\"b248-11\">\n    (Filed 7 October 1980)\n   </decisiondate><br><attorneys id=\"b250-7\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"222\"> \n     *222\n     </span>\n<em>\n     Attorney General Rufus L. Edmisten by Assistant Attorney General James Peeler Smith, for the State.\n    </em>\n</attorneys><br><attorneys id=\"b250-8\">\n<em>\n     Keith M. Stroud for defendant-appellant.\n    </em>\n</attorneys>",
+    "citations": [
+        "270 S.E.2d 416",
+        "301 N.C. 220"
+    ],
+    "opinions": [
+        {
+            "author_str": "Carlton",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5277.0,
+            "opinion_text": "\n270 S.E.2d 416 (1980)\n301 N.C. 220\nSTATE of North Carolina\nv.\nWilliam Bernard COHEN.\nNo. 2.\nSupreme Court of North Carolina.\nOctober 7, 1980.\n*417 Rufus L. Edmisten, Atty. Gen. by James Peeler Smith, Asst. Atty. Gen., for the State.\nKeith M. Stroud, Charlotte, for defendant-appellant.\nCARLTON, Justice.\nCounsel for defendant excepted to the judgment entered and perfected his appeal. Although the record on appeal contains two *418 assignments of error, defendant's counsel candidly concedes in his brief that there is no error in either assignment. He requests that we review the entire record on appeal to determine whether there exists any prejudicial error in the proceedings below.\nRule 28 of the Rules of Appellate Procedure limits our review to questions that are supported by the arguments made and authorities cited in the brief. State v. Adams, 298 N.C. 802, 260 S.E.2d 431 (1979). Here defendant made no arguments in his brief and cited no authority. Thus, nothing is presented to us for review. However, Rule 2 of the Rules of Appellate Procedure allows the appellate courts to suspend or vary the Rules in order to prevent manifest injustice or to expedite decision in the public interest. Because this case involves a sentence of life imprisonment we elected pursuant to our inherent authority and Rule 2 to examine the entire record. After careful review, we conclude that the murder charge was properly presented to the jury for decision since there was substantial evidence of every essential element of the crime and that defendant was the perpetrator of the crime. See State v. Davis, 289 N.C. 500, 223 S.E.2d 296, death sentence vacated, 429 U.S. 809, 97 S.Ct. 47, 50 L.Ed.2d 69 (1976); State v. Hairston, 280 N.C. 220, 185 S.E.2d 633, cert. denied, 409 U.S. 888, 93 S.Ct. 194, 34 L.Ed.2d 145 (1972); G.S. 14-17 (Cum.Supp.1979). We find no prejudicial error in the trial judge's evidentiary rulings. The court in its instructions to the jury adequately explained and applied the law to the evidence presented.\nWe, therefore, hold that there was no error warranting that the verdict or judgment be disturbed.\nNo error.\nBROCK, J., did not participate in the consideration or decision of this case.\n",
+            "ocr": false,
+            "opinion_id": 1315457
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

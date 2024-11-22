@@ -1,8 +1,8 @@
 {
     "id": 8801331,
     "judges": "Mansfield",
-    "date_filed": 30585600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-09-13",
+    "date_filed_is_approximate": true,
     "slug": "huggins-v-white",
     "case_name_short": "Huggins",
     "case_name": "Huggins v. White",

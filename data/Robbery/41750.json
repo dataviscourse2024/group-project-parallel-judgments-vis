@@ -1,8 +1,8 @@
 {
     "id": 7693575,
     "judges": "Anstead, Farmer, Warner",
-    "date_filed": 737769600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-03-02",
+    "date_filed_is_approximate": true,
     "slug": "rembowski-v-state",
     "case_name_short": "Rembowski",
     "case_name": "Rembowski v. State",

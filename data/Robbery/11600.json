@@ -1,8 +1,8 @@
 {
     "id": 1326673,
     "judges": "Banke, Carley, Deen",
-    "date_filed": 379641600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-07-23",
+    "date_filed_is_approximate": true,
     "slug": "dotson-v-state",
     "case_name_short": "Dotson",
     "case_name": "Dotson v. State",

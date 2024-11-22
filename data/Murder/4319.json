@@ -1,0 +1,46 @@
+{
+    "id": 8626400,
+    "judges": "Hon, Jacobs, Miner, Newman",
+    "date_filed": "1989-08-03",
+    "date_filed_is_approximate": true,
+    "slug": "amoako-v-department-of-homeland-security",
+    "case_name_short": "Amoako",
+    "case_name": "Amoako v. Department of Homeland Security",
+    "case_name_full": "Joseph Anyan AMOAKO v. DEPARTMENT OF HOMELAND SECURITY",
+    "attorneys": "Joseph Anyan Amoako, pro se, Batavia, New York, for Petitioner., Peter D. Keisler, Assistant Attorney General, Civil Division, David M. McConnell, Deputy Director, Lisa M. Arnold, Attorney, United States Department of Justice, Office of Immigration Litigation, Washington, D.C., for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "209 F. App'x 53"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSUMMARY ORDER\nPetitioner Joseph Anyan Amoako, a native and citizen of Ghana, seeks review of an August 8, 2005 order of the BIA affirming an April 1, 2005 decision of Immigration Judge (\u201cIJ\u201d) John Reid denying his applications for asylum, withholding of removal, and relief under the Convention Against Torture (\u201cCAT\u201d). In re Joseph Anyan Amoako, No. A97 916 475 (B.I.A. Aug. 8, 2005), aff'g No. A97 916 475 (Immig. Ct. Batavia, N.Y. Apr. 1, 2005). We assume the parties\u2019 familiarity with the underlying facts and procedural history of the case.\nWhere, as here, the BIA affirms the IJ\u2019s decision in all respects but one, we review the IJ\u2019s decision as modified by the BIA. Xue Hong Yang v. U.S. Dep\u2019t of Justice, 426 F.3d 520, 522 (2d Cir.2005). Legal questions, and application of fact to law, are reviewed de novo. See Secaida-Rosales v. INS, 331 F.3d 297, 307 (2d Cir.2003). This Court reviews the agency\u2019s factual findings, including adverse credibility determinations, under the substantial evidence standard, treating them as \u201cconclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.\u201d 8 U.S.C. \u00a7 1252(b)(4)(B); see, e.g., Zhou Yun Zhang v. INS, 386 F.3d 66, 73 &amp; n. 7 (2d Cir.2004). However, we will vacate and remand for new findings if the agency\u2019s reasoning or its fact-finding process was sufficiently flawed. Cao He Lin v. U.S. Dep\u2019t of Justice, 428 F.3d 391, 395, 406 (2d Cir.2005); Tian-Yong Chen v. INS, 359 F.3d 121, 129 (2d Cir.2004); see also Xiao Ji Chen v. U.S. Dep\u2019t of Justice, 434 F.3d 144, 158 (2d Cir.2006) (agreeing with this principle, but avoiding remand, in spite of deficiencies in an adverse credibility determination, because it could be confidently predicted that the IJ would adhere to the decision were the case remanded).\nWe lack jurisdiction to review the IJ\u2019s determination that Amoako failed to establish extraordinary circumstances for his failure to file for asylum within a year of his entry to the United States, because his explanation was not credible, as he has not raised any constitutional or legal challenges to that finding. See 8 U.S.C. \u00a7 1158(a)(2)(B), (a)(3); Xiao Ji Chen, 434 F.3d at 151-54. The asylum claim is therefore dismissed for lack of jurisdiction.\nWithholding of removal, however, is not subject to any filing deadlines, see Xiao Ji Chen, 434 F.3d at 155, and the IJ\u2019s adverse credibility determination supporting the denial of that claim is supported by substantial evidence in this case. The record supports the IJ\u2019s finding that Amoako\u2019s testimony \u2014 that he feared his brothers would kill him because he had refused the nomination as chief of his village and because the tribal practices were inconsistent with his Christian beliefs\u2014 was neither internally consistent nor plausible. Amoako was unable to explain why he and only he was nominated, why his brothers could not also be nominated for the highly sought-after position of chief, or *55why his mother would insist on his candidacy when she too had refused or been denied a position because of her own Christian beliefs. Moreover, he admitted, and the background materials confirmed, that Christianity was the majority religion in his region of Ghana and that tribal chiefs in his and other villages had been Christians in the past. Additionally, his testimony about his wife\u2019s alleged murder was neither consistent nor persuasive; he gave varying dates for her death, claimed first that she died instantly and later that she died after falling into a month-long coma, and admitted that his information about her death came through several layers of hearsay. The IJ reasonably concluded that his testimony and documents were altogether insufficiently reliable to establish that he was more likely than not to be persecuted or tortured if returned to Ghana.\nFor the foregoing reasons, the petition for review is DISMISSED in part and DENIED in part. Having completed our review, any stay of removal that the Court previously granted in this petition is VACATED, and any pending motion for a stay of removal in this petition is DISMISSED as moot. Any pending request for oral argument in this petition is DENIED in accordance with Federal Rule of Appellate Procedure 34(a)(2), and Second Circuit Local Rule 34(d)(1).\n",
+            "ocr": true,
+            "opinion_id": 8605789
+        }
+    ],
+    "court_short_name": "Second Circuit",
+    "court_full_name": "Court of Appeals for the Second Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Murder"
+}

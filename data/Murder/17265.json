@@ -1,8 +1,8 @@
 {
     "id": 2191804,
     "judges": "Bobbitt, Draper, Emmert, Gilkison",
-    "date_filed": -561945600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-09-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-huebner",
     "case_name_short": "Huebner",
     "case_name": "State v. Huebner",

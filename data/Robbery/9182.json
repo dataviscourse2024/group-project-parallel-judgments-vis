@@ -1,8 +1,8 @@
 {
     "id": 901355,
     "judges": "Gilbertson, Konenkamp, Meierhenry, Sabers, Zinter",
-    "date_filed": 1118188800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-03-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mattson",
     "case_name_short": "Mattson",
     "case_name": "State v. Mattson",

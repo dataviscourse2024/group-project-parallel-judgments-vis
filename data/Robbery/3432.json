@@ -1,8 +1,8 @@
 {
     "id": 8457314,
     "judges": "Bea, Rymer, Tallman",
-    "date_filed": 1097712000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-12-03",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-nez",
     "case_name_short": "Nez",
     "case_name": "United States v. Nez",

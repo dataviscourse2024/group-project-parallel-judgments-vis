@@ -1,8 +1,8 @@
 {
     "id": 2141247,
     "judges": "Newsom",
-    "date_filed": 269136000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-12-07",
+    "date_filed_is_approximate": true,
     "slug": "people-v-panky",
     "case_name_short": "Panky",
     "case_name": "People v. Panky",

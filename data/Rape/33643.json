@@ -1,0 +1,46 @@
+{
+    "id": 6080267,
+    "judges": null,
+    "date_filed": "1992-11-23",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-catalano",
+    "case_name_short": "Catalano",
+    "case_name": "People v. Catalano",
+    "case_name_full": "The People of the State of New York v. Mario C. Catalano",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "178 A.D.2d 962"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Judgment unanimously modified on the law and as modified affirmed, in accordance with the following Memorandum: Defendant\u2019s conviction of rape in the first degree is reversed, the sentence imposed thereon vacated, and that count of the indictment dismissed because \"the complainant testified to more than one act of [rape], but defendant was indicted on only one count\u201d (People v McNab, 167 AD2d 858).\nIn light of the overwhelming proof of guilt of the other offenses, any error in excluding certain testimony of the defense witness, DeMarco, was harmless (see, People v Crimmins, 36 NY2d 230, 242).\nThe other issues raised by defendant on appeal lack merit. (Appeal from Judgment of Ontario County Court, Henry, Jr., J. \u2014 Rape, 1st Degree.) Present \u2014 Doerr, J. P., Boomer, Pine, Balio and Davis, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5944370
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

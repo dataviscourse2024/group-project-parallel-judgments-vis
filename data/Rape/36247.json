@@ -1,0 +1,58 @@
+{
+    "id": 6601353,
+    "judges": "Hathaway, Howard, Richmond",
+    "date_filed": "1998-01-05",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-taylor",
+    "case_name_short": "Taylor",
+    "case_name": "State v. Taylor",
+    "case_name_full": "The STATE of Arizona v. William E. TAYLOR",
+    "attorneys": "Robert K. Corbin, Atty. Gen. by William J. Schafer, III, and Robert S. Golden, Asst. Attys. Gen., Phoenix, for appellee., Echeverr\u00eda, Glenn & Howard by Phillip W. Glenn and Dwight P. Callahan, Casa Grande, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Supplemental Opinion on Denial of Rehearing July 24, 1980., Rehearing Denied Sept. 5, 1980., Review Granted Sept. 25, 1980.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "127 Ariz. 536",
+        "622 P.2d 483"
+    ],
+    "opinions": [
+        {
+            "author_str": "Richmond",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nRICHMOND, Judge.\nThe only question on this appeal is whether the trial court\u2019s failure to instruct the jury on the limited use of evidence of a prior conviction was fundamental error requiring reversal. The rule is otherwise in Arizona. See, e. g., State v. McFarlin, 110 Ariz. 225, 517 P.2d 87 (1973). The judgment of conviction is affirmed.\nAppellant was charged by indictment with sexual assault. The indictment was later amended to allege a prior conviction. At trial the testimony of the alleged victim and appellant was in direct conflict, although they agreed that they met at a bar in Chandler and when the bar closed went together to a coffee shop for breakfast. The victim testified they then drove around Mesa and Apache Junction hunting unsuccessfully for appellant\u2019s brother. She said appellant then drove to a deserted road, choked her until she was nearly unconscious, engaged in sexual intercourse several times without her consent, and finally let her out on a street corner after they returned to Chandler. Appellant testified they went directly from breakfast to the corner where he dropped her off, and that he never sexually assaulted her. Testimony from other witnesses regarding the victim\u2019s physical and emotional condition on the night of the alleged offense did not resolve the conflict.\nDuring appellant\u2019s testimony, it was established on direct examination and again on cross-examination that he had been convicted of rape in Oregon 10 years earlier.1 No jury instruction on the limited purpose for which evidence of the prior conviction *537might be considered was offered or given. Unless omission of the instruction was fundamental error, the issue was waived. See State v. Dippre, 121 Ariz. 596, 592 P.2d 1252 (1979).\nDespite the line of Arizona cases holding that failure to give a limiting instruction is not fundamental error, the state in its brief has suggested that two recent decisions indicate there may be exceptions to that rule. In State v. Miller, 120 Ariz. 224, 585 P.2d 244 (1978), as in this case, the defendant voluntarily introduced the fact that he had a prior conviction and thereafter failed to request a limiting instruction. After stating that failure to instruct the jury on a matter vital to the rights of the defendant creates fundamental error, the court held that failure to give the limiting instruction in that case had not deprived the defendant of a right so essential to his defense that a conviction resulted, adding that the evidence of guilt was overwhelming. The same cannot be said of the evidence of guilt in this case.\nIn State v. Canedo, 125 Ariz. 197, 608 P.2d 774 (1980), a limiting instruction was requested and refused. In reversing a judgment of conviction, the court emphasized the importance of the instruction because otherwise \u201cthe fact finder will in no way ascertain the unique function of the testimony and will in all likelihood utilize the convictions as substantive evidence of guilt.\u201d 608 P.2d at 777. The court also quoted with approval its statement in State v. Finley, 85 Ariz. 327, 335, 338 P.2d 790, 796 (1959):\nWhenever evidence is admitted of other offenses there is an imperative duty on the trial court to clearly instruct the jury as to the restricted and limited purpose for which such evidence is to be considered. 127 Ariz. 200,608 P.2d at 777.\nWhen read together, the Miller and Cane-do opinions may be said to imply that in the absence of overwhelming evidence of guilt the failure to give a limiting instruction can create fundamental error in an appropriate case. The likelihood that the evidence will be misused is obviously greatest where the prior conviction is of a similar offense.\nWe do not believe, however, that the failure to give a limiting instructing strikes at the heart of the fact-finding process. If the supreme court intends to overrule State v. McFarlin, supra, and the cases cited therein it will say so. Until then those cases should be followed.\nAffirmed.\nHATHAWAY, C. J., and HOWARD, J., concur.\n\n. No attempt was made to exclude the evidence, and there was no request for a determination under 17A A.R.S. Rules of Evidence, rule 609, that its probative value outweighed its obviously prejudicial effect.\n\n",
+            "ocr": true,
+            "opinion_id": 6476851
+        },
+        {
+            "author_str": "Richmond",
+            "per_curiam": false,
+            "type": "070rehearing",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nON MOTION FOR REHEARING\nRICHMOND, Judge.\nOn motion for rehearing appellant directs our attention to two issues identified but not argued in his opening brief. Conflicting testimony by a physician and the alleged victim as to how long before photographs were taken the victim\u2019s injuries were sustained went to the weight rather than the admissibility of photographs of the injuries. And the record reflects ample basis for the imposed sentence of 14 rather than the presumptive term of IOV2 years of imprisonment.\nThe motion for rehearing is denied.\nHATHAWAY, C. J., and HOWARD, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 6476852
+        }
+    ],
+    "court_short_name": "Court of Appeals of Arizona",
+    "court_full_name": "Court of Appeals of Arizona",
+    "court_type": "SA",
+    "court_jurisdiction": "Arizona, AZ",
+    "crime_category": "Rape"
+}

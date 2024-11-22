@@ -1,8 +1,8 @@
 {
     "id": 1604951,
     "judges": "Dixon",
-    "date_filed": 393465600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-03-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-berndt",
     "case_name_short": "Berndt",
     "case_name": "State v. Berndt",

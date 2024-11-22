@@ -1,0 +1,46 @@
+{
+    "id": 7652578,
+    "judges": null,
+    "date_filed": "2010-04-22",
+    "date_filed_is_approximate": true,
+    "slug": "state-ex-rel-cox-v-downing",
+    "case_name_short": "Downing",
+    "case_name": "State ex rel. Cox v. Downing",
+    "case_name_full": "STATE ex rel James E. COX v. Hon. Bob DOWNING, Judge Nineteenth Judicial District Court",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "567 So. 2d 1115"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIn re Cox, James E.; \u2014 Plaintiff(s); applying for supervisory and/or remedial writs; Parish of East Baton Rouge, 19th Judicial District Court, Div. \u201cA\u201d, No. 6-81-924.\nDenied. Moot. Relator has been resen-tenced to 17 years at hard labor for manslaughter and the Court of Appeal, First Circuit, has vacated the additional penalty of two years at hard labor without benefit of parole imposed under La.R.S. 14:95.2.\n",
+            "ocr": true,
+            "opinion_id": 7586103
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

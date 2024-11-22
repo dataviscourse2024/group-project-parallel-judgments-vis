@@ -1,0 +1,46 @@
+{
+    "id": 5228780,
+    "judges": "Crist, Dowd, Gunn, Reinhard",
+    "date_filed": "1974-04-28",
+    "date_filed_is_approximate": true,
+    "slug": "graham-v-state",
+    "case_name_short": "Graham",
+    "case_name": "Graham v. State",
+    "case_name_full": "Ricardo GRAHAM v. STATE of Missouri",
+    "attorneys": "John Ashcroft, Atty. Gen., Paul Michael Spinden, Asst. Atty. Gen., Jefferson City, for appellant., David V. Uthoff, St. Louis, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "605 S.W.2d 535"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gunn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGUNN, Judge.\nAfter full hearing, the trial court overruled movant\u2019s Rule 27.26 motion for post conviction relief. Movant\u2019s appeal charges ineffective assistance of trial counsel in two regards: failure to raise the absence of a manslaughter instruction in the motion for new trial; failure to utilize available defense witnesses. We affirm the trial court\u2019s ruling.\nMovant was convicted of second degree murder. The conviction was affirmed in State v. Graham, 527 S.W.2d 722 (Mo.App.1975). The facts of the case are set forth in detail in that opinion.\nMovant\u2019s first point on appeal concerns the trial counsel\u2019s failure to preserve alleged trial error regarding the refusal of the trial court to give a manslaughter instruction. At trial, his counsel requested a manslaughter instruction which was refused. No issue was made in the motion for a new trial or on appeal regarding the manslaughter instruction, and movant now claims ineffective assistance of counsel for that reason.\nThe murder of the victim was a cold-blooded affair; movant\u2019s defense asserted that another had done the killing. There was no offer of provocation by mov-ant or other suggestion of evidence of manslaughter. Thus, at the time of trial-May, 1974 \u2014 a manslaughter instruction was not required. State v. Mudgett, 531 S.W.2d 275 (Mo. banc 1975); State v. Porter, 538 S.W.2d 888 (Mo.App.1976). Hence, preservation of the manslaughter issue for appeal would have been unavailing. And \u201c[a]bsent a valid issue, counsel cannot be charged with inadequate assistance for failing to preserve the issue.\u201d Brown v. State, 589 S.W.2d 368, 370 (Mo.App.1979). There was no valid issue to preserve in this case.\nMovant\u2019s second point concerns his trial attorney\u2019s failure to call certain witnesses to testify. As stated in Burroughs v. State, 590 S.W.2d 695, 697 (Mo.App.1979), \u201c[d]eciding which witnesses to call or whether to call any witnesses is a matter of trial tactics and in the purview of counsel\u2019s exercise of professional judgment.\u201d And the manner in which trial strategy is applied does not provide an adequate basis for attack on competency of counsel. Covington v. State, 600 S.W.2d 186, 189 (Mo.App.1980).\nIn this case, movant\u2019s trial counsel had interviewed or investigated each of the six witnesses whom movant claims should have been called but were not.\nAs background, a brief synopsis of the facts is necessary. Movant was riding in a car with four other individuals: brothers Michael and Gregory Hudson, Charles Cooper and David Martin. Movant and the two Hudsons got out of the car as they saw Thomas Henderson walking with a group of friends. After brief discussion, Gregory Hudson directed movant to shoot Henderson as he ran away. Movant did as he was directed, his shotgun blast killing Henderson. Several witnesses positively identified movant as the assailant. Martin and Michael Hudson invoked the fifth amendment when called by movant\u2019s attorney. Movant and Cooper testified that Michael Hudson fired the fatal shot. The jury believed otherwise and found that movant was the murderer. Gregory Hudson did not testify.\nAgain trying to assert that Michael Hudson-now deceased-was the guilty party, movant urges that Michael\u2019s aunt and mother should have been called to testify and explain why they had reason to believe that Michael was actually responsible for the killing. After investigation, movant\u2019s trial counsel rejected any plan to call them as witnesses as he had concluded that their testimony would have been inadmissible conjecture and hearsay. The same decision was reached regarding three other potential witnesses, including movant\u2019s wife, who would have testified that they overheard state\u2019s witnesses making inconsistent state*537ments while being interviewed by the prosecutor in his private chambers prior to trial. In the 27.26 hearing the prosecutor categorically denied that the state\u2019s witnesses had changed their position. His office was, in fact, inaccessible to the three witnesses whom movant urges that his counsel should have called. Movant\u2019s counsel, after investigation, specifically rejected the use of these three witnesses.\nSimilarly, Gregory Hudson, brother of Michael, was interviewed by movant\u2019s counsel and not called to testify. Two of mov-ant\u2019s four cohorts asserted their fifth amendment rights at trial. Assuming that Gregory would not have invoked the fifth amendment as a co-defendant and would have fully implicated his own brother as the killer his testimony would have been, at best, cumulative to the testimony of mov-ant and the other witness testifying on his behalf-Charles Cooper. Under the totality of the circumstances we find, as did the trial court, movant\u2019s counsel\u2019s decision regarding his refusal to call certain witnesses was part of planned and deliberate trial strategy. We cannot condemn him for ineffective assistance of counsel on that basis, and the trial court\u2019s order dismissing and overruling movant\u2019s motion was not clearly erroneous. Eldridge v. State, 592 S.W.2d 738 (Mo. banc 1979); Porter v. State, 596 S.W.2d 480 (Mo.App.1980); Burroughs v. State, 590 S.W.2d at 697; Mayes v. State, 589 S.W.2d 637 (Mo.App.1979).\nJudgment affirmed.\nDOWD, P. J., and REINHARD and CRIST, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5053493
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

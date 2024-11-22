@@ -1,8 +1,8 @@
 {
     "id": 6178245,
     "judges": null,
-    "date_filed": 946512000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-01-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-campbell",
     "case_name_short": "Campbell",
     "case_name": "People v. Campbell",

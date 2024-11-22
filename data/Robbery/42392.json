@@ -1,8 +1,8 @@
 {
     "id": 7820871,
     "judges": "Allen, Benton, Davis",
-    "date_filed": 1067472000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-03-10",
+    "date_filed_is_approximate": true,
     "slug": "davenport-v-state",
     "case_name_short": "Davenport",
     "case_name": "Davenport v. State",

@@ -1,8 +1,8 @@
 {
     "id": 8003244,
     "judges": "Burns, Fitzgerald, Holbrook",
-    "date_filed": 52012800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-06-05",
+    "date_filed_is_approximate": true,
     "slug": "people-v-tennon",
     "case_name_short": "Tennon",
     "case_name": "People v. Tennon",

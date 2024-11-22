@@ -1,8 +1,8 @@
 {
     "id": 7398333,
     "judges": "King",
-    "date_filed": 324086400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-05-27",
+    "date_filed_is_approximate": true,
     "slug": "state-ex-rel-c-b",
     "case_name_short": null,
     "case_name": "State ex rel. C. B.",

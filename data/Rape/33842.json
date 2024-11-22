@@ -1,0 +1,47 @@
+{
+    "id": 6117293,
+    "judges": null,
+    "date_filed": "2003-05-01",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-camacho",
+    "case_name_short": "Camacho",
+    "case_name": "People v. Camacho",
+    "case_name_full": "The People of the State of New York v. Victor Camacho",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "209 A.D.2d 534",
+        "618 N.Y.S.2d 842"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Kings County (Goldstein, J.), rendered February 22, 1993, convicting him of endangering the welfare of a child, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is reversed, on the law, the indictment is dismissed, and the matter is remitted to the Supreme Court, Kings County, for the purpose of entering an order in its discretion pursuant to CPL 160.50.\nThe People did not establish a legally sufficient case to justify the defendant\u2019s conviction for the crime of endangering the welfare of a child under Penal Law \u00a7 260.10. The defendant was the \"stepfather\u201d of a twelve-year-old girl and resided *535in the household with the girl\u2019s mother, the girl, and the girl\u2019s fifteen-year-old brother.\nTaken in its strongest possible light, the proof established, as testified to by the girl, that on a number of occasions over a 19-month period, the defendant kissed her on the neck, that she had told him to stop, and that \"sometimes\u201d he stopped. She did not tell anyone about it because he told her that if she told anyone he would go to jail and she would not see him again. On the last such occasion, which precipitated the defendant\u2019s arrest, the girl\u2019s brother saw the defendant kissing her on the back while she was in bed. Both the defendant and the girl were clothed. The brother called the police, and following a Grand Jury presentation the defendant was indicted for 34 counts of sexual crimes against the girl, including attempted rape, sodomy, and sexual abuse, and one additional count of endangering the welfare of a child.\nThe prosecutor in his opening statement forecasted what he expected to be the proof to support the charges alleged in the indictment. Because there was a complete failure of proof to support any of the 34 sex crime counts, the court dismissed all 34 of those counts, and submitted only the endangering count to the jury. While we impute no bad faith to the People in presenting the opening statement, the fact is that it was entirely unfulfilled and undoubtedly influenced the jury. The import and impact of this opening statement was so considerable that it would, under other circumstances, call for reversal and remand for a new trial (see, People v Cruz, 100 AD2d 882; People v Reid, 135 AD2d 753; see generally, Be Vito v Katsch, 157 AD2d 413, 419, n 6) were it not for the inadequacy of the proof to support the endangering charge. Even though the trial court accorded the prosecutor wide latitude in asking leading questions of the girl, the testimony does not satisfy the elements of that crime, even when considered in a light most favorable to the prosecution. Thompson, J. P., Balletta, Rosenblatt, Santucci and Florio, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5982226
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

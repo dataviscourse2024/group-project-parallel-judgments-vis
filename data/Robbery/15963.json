@@ -1,8 +1,8 @@
 {
     "id": 2039575,
     "judges": "Gordon",
-    "date_filed": 643593600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-03-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-whittaker",
     "case_name_short": "Whittaker",
     "case_name": "People v. Whittaker",

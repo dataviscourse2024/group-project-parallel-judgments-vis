@@ -1,8 +1,8 @@
 {
     "id": 7801761,
     "judges": "Bridges, Chandler, Irving, King, Lee, McMillin, Myers, Payne, Southwick, Thomas",
-    "date_filed": 992908800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-11-12",
+    "date_filed_is_approximate": true,
     "slug": "skinner-v-state",
     "case_name_short": "Skinner",
     "case_name": "Skinner v. State",

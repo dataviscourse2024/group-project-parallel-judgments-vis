@@ -1,8 +1,8 @@
 {
     "id": 2456227,
     "judges": "Onion",
-    "date_filed": 411696000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-09-28",
+    "date_filed_is_approximate": true,
     "slug": "bonham-v-state",
     "case_name_short": "Bonham",
     "case_name": "Bonham v. State",

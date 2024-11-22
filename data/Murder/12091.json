@@ -1,8 +1,8 @@
 {
     "id": 1404808,
     "judges": "Cooper, Graves, Johnstone, Keller, Lambert, Stumbo, Wintersheimer",
-    "date_filed": 1022198400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-10-29",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-tamme",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Tamme",

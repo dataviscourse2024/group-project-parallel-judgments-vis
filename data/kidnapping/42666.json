@@ -1,8 +1,8 @@
 {
     "id": 7885072,
     "judges": "Lee",
-    "date_filed": 223516800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-01-26",
+    "date_filed_is_approximate": true,
     "slug": "people-v-wilkerson",
     "case_name_short": "Wilkerson",
     "case_name": "People v. Wilkerson",

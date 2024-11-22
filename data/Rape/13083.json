@@ -1,8 +1,8 @@
 {
     "id": 1787354,
     "judges": "Tom G. Davis",
-    "date_filed": 338601600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-01-05",
+    "date_filed_is_approximate": true,
     "slug": "rubio-v-state",
     "case_name_short": "Rubio",
     "case_name": "Rubio v. State",

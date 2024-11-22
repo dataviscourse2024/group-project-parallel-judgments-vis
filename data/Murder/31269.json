@@ -1,0 +1,46 @@
+{
+    "id": 5596591,
+    "judges": "Crockett",
+    "date_filed": "1974-04-26",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-hersey",
+    "case_name_short": "Hersey",
+    "case_name": "People v. Hersey",
+    "case_name_full": "THE PEOPLE v. JOHN HERSEY",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>Oral Instructions. \u2014 In a criminal case, if the jury, after having retired to consider of their verdict, return into Court and request to be further instructed as to the law of the case, it is error per se for the Court, in the absence of the phonographic reporter, to instruct them orally without the consent of the respective counsel.</p>",
+    "headnotes": null,
+    "summary": "Appeal from the District Court of the Tenth Judicial District, County of Colusa. The defendant was convicted of the murder of one Jack Lett. Judgment having been rendered, the defendant appealed. The other facts are- stated in the opinion.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "53 Cal. 574"
+    ],
+    "opinions": [
+        {
+            "author_str": "Crockett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBy the Court, Crockett, J.:\nAfter the jury had retired to deliberate on their verdict, they returnee! into Court and propounded to the Judge certain questions as -to the law of the case, which were answered orally by the Judge, in the absence of the phonographic reporter, and without the consent of the defendant. At the close of the oral charge one of the jurors inquired of the Judge whether they were \u201c to go by the written instructions \u201d; to which the Judge orally replied: \u201cYes, sir; you are to go by the written instructions as to the law of this case, and by nothing else.\u201d After the jury had again retired, and the phonographic reporter had *575returned into Court, the Judge stated to the reporter his recollection of what had occurred, and it was then reduced to writing by the reporter. This action of the Court was excepted to by the defendant, and is relied upon as error.\nSec. 1093 of the Penal Code, as amended in 1874, and in force at the time of the trial, provides, in subd. 6, that \u201c if the charge be not given in writing it must be taken down by the phonographic reporter.\u201d There can be no doubt that this provision was intended to be mandatory and not merely directory.\nFrom an early period in the legislation of this State it was the uniform policy to require the charge to the jury in a criminal case to be in writing, and sec. 362 of the Criminal Practice Act, as amended in 1855, provided that \u201c such charge shall be reduced to writing before it is given, and in no case shall any charge or instruction be given to the jury otherwise than in writing, unless by the mutual consent of the parties.\u201d In construing this statute it has been repeatedly held to be error per se to charge the jury orally, except with the consent of the parties. (People v. Beden, 6 Cal. 246; People v. Payne, 8 Ibid. 341; People v. Demint, 8 Ibid. 423; People v. Ah Fong, 12 Ibid. 345; People v. Shaw, 26 Ibid. 76 ; People v. Sanford, 43 Ibid. 29; People v. Prospero, 44 Ibid. 186.)\nSec. 1093 of the Penal Code, as amended in 1874, is not substantially different from the statute under which these decisions were made. It explicitly provides that if the charge be not given in writing, it must be taken down by the phonographic reporter; the only change being that the charge need not be in writing, provided it is taken down at the time by the phonographic reporter. In either event the charge is thus reduced to writing, either by the Judge or by the reporter, when it is given, and there can thereafter be no uncertainty as to what the charge was. But if the Court could charge the jury orally in the absence of the phonographic reporter, and could thereafter require him to take down the charge, according to the recollection of the Judge as to its contents, it would introduce into the proceeding the very element of uncertainty which it was the purpose of the statute to prevent. Nor can the practice pursued in this case be supported under sec. 1138 of the Penal *576Code, as amended in 1874, which provides, in substance, that after the jury has retired for deliberation, if they desire to be informed on any point of law arising in the case, \u201c the information required must be given in the presence of, or after notice to, the District Attorney and the defendant or his counsel, or after they had been called.\u201d This was not intended to authorize an oral charge, which, at that stage of the proceeding, might often he productive of more pernicious results than if the original charge was oral. When the jury asks to be further instructed as to the law of the case, it is usually upon points which they deem to be, if not decisive, at least entitled to serious consideration; and if the parties are called and do not appear, the Court may proceed to instruct the jury in their absence, in which event, if the charge be oral, they would have no opportunity of ascertaining its contents, except from the recollection of the Judge. This would introduce into the proceeding the element of uncertainty, which it is the especial purpose of the statute to prevent, and that, too, at the most critical period of the trial.\nNor did the statement of the Judge to the jury, at the close of his oral charge, that they were to be governed by the written instructions and nothing else, cure the error which was committed. It was error per se to instruct them orally, and we cannot say that it did not prejudice the defendant.\nJudgment and order reversed, and cause remanded for a new trial.\nMr. Chief Justice Wallace expressed no opinion.\n",
+            "ocr": true,
+            "opinion_id": 5439438
+        }
+    ],
+    "court_short_name": "California Supreme Court",
+    "court_full_name": "California Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "California, CA",
+    "crime_category": "Murder"
+}

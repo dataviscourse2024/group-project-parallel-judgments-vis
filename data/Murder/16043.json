@@ -1,8 +1,8 @@
 {
     "id": 1979831,
     "judges": "Barnes, Riley, Sharpnack",
-    "date_filed": 1156982400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-10-24",
+    "date_filed_is_approximate": true,
     "slug": "payne-v-state",
     "case_name_short": "Payne",
     "case_name": "Payne v. State",

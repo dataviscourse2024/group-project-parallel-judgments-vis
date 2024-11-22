@@ -1,8 +1,8 @@
 {
     "id": 1112636,
     "judges": "Marcus",
-    "date_filed": 453340800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-10-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-celestine",
     "case_name_short": "Celestine",
     "case_name": "State v. Celestine",

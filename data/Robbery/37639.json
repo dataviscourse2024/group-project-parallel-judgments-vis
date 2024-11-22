@@ -1,8 +1,8 @@
 {
     "id": 6873673,
     "judges": "Brown, Douglas, Holmes, Moyer, Only, Resnick, Sweeney, Syllabus, Wright",
-    "date_filed": 724032000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-08-23",
+    "date_filed_is_approximate": true,
     "slug": "rambaldo-v-accurate-die-casting",
     "case_name_short": "Rambaldo",
     "case_name": "Rambaldo v. Accurate Die Casting",

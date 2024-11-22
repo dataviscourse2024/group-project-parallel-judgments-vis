@@ -1,8 +1,8 @@
 {
     "id": 1163813,
     "judges": "Fatzer, Fontron, Schroeder",
-    "date_filed": 140486400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-01-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-schriner",
     "case_name_short": "Schriner",
     "case_name": "State v. Schriner",

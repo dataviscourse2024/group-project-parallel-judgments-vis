@@ -1,8 +1,8 @@
 {
     "id": 184997,
     "judges": "Ginsburg, Rogers, Tatel",
-    "date_filed": 943574400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-03-02",
+    "date_filed_is_approximate": true,
     "slug": "in-re-r-moore",
     "case_name_short": "In Re: R. Moore",
     "case_name": "In Re: R. Moore",

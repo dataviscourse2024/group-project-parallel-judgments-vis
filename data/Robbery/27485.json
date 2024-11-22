@@ -1,8 +1,8 @@
 {
     "id": 4810068,
     "judges": "GUSSIS",
-    "date_filed": 656726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-03-09",
+    "date_filed_is_approximate": true,
     "slug": "baker-v-commissioner",
     "case_name_short": "Baker",
     "case_name": "Baker v. Commissioner",

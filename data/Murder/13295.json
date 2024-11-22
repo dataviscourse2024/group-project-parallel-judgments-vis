@@ -1,8 +1,8 @@
 {
     "id": 2588767,
     "judges": "Dailey, Metzger, Vogt",
-    "date_filed": 982195200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-08-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-gordon",
     "case_name_short": "Gordon",
     "case_name": "People v. Gordon",

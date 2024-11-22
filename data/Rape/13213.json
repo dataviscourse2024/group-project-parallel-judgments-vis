@@ -1,8 +1,8 @@
 {
     "id": 1635006,
     "judges": "Heard",
-    "date_filed": 469756800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-02-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-eggert",
     "case_name_short": "Eggert",
     "case_name": "State v. Eggert",

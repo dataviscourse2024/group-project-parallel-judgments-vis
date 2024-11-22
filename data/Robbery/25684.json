@@ -1,8 +1,8 @@
 {
     "id": 4400744,
     "judges": null,
-    "date_filed": 1491523200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-11-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-buttercase",
     "case_name_short": "Buttercase",
     "case_name": "State v. Buttercase",

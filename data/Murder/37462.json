@@ -1,0 +1,46 @@
+{
+    "id": 6835716,
+    "judges": "Allread",
+    "date_filed": "2007-01-23",
+    "date_filed_is_approximate": true,
+    "slug": "thomas-v-state",
+    "case_name_short": "Thomas",
+    "case_name": "Thomas v. State",
+    "case_name_full": "THOMAS v. STATE",
+    "attorneys": "Attorneys\u2014Carl H. Valentine, 0[ E. Halter-man, F. M. Glick and Daisy D. Perkins, for Thomas; John R. King, Pros. Atty., Ray Hughes & Ray PI elan, for State; all of Columbus.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "3 Ohio Law. Abs. 211"
+    ],
+    "opinions": [
+        {
+            "author_str": "Allread",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nALLREAD, J.\nCharles Thomas was indicted by the Franklin County grand jury for murder in the first degree. The indictment contained two counts, \u2014for murder with deliberation and premeditation, and for the murder of a policeman on duty. The victim was Troy Stewart. The trial resulted in a verdict of guilty without recommendation of mercy.\nError was prosecuted and Thomas contends that the dying declaration of Stewart should not have been admitted, for the reason that said declaration was made when he had hopes of recovery. This statement is rebutted by the state who claims that Stewart was merely optimistic about the future. State claims that Stewart was articuloe mortis because of the fact that he expressed a desire of making peace with his God. One, Captain Gump, of the police force described Stewart as being \u201cvery pale, haggard, blue lipped and short-breathed.\u201d\nThe evidence showed that Stewart, in company with another officer was sent to a certain location to quell a disturbance. It appeared that Thomas with another friend, together with lady friends, were being followed by a group of men in a machine. Thomas stopped where the homicide occurred and after slapping two of the men, shot another. It was alleged that he then went home for another revolver and more ammunition and returned. At this time Stewart arrived, and when the others of Thomas\u2019 party fled, Thomas remained, the alleged shooting of Stewart then taking place. On review the Court of Appeals held:\n1. The dying declaration of Stewart was admissible in evidence for he was in the throes of death shortly after the shooting occured, as shown by the evidence.\n2. The fact that Stewart made an optomistic answer to an expression of hope for recovery by one Gump, did not remove the cloud of impending death, for it has been held that, a dying declaration of a person is admissible, even though subsequently the person expressed himself as being \u201cvery well.\u201d\n3. The expression of the desire of the deceased for consolations of religion has always been regarded by the courts as one of the strongest proofs that he was in that condition of mind, which is requisite to their admission in evidence of his statements as dying declarations.\n4. The fact that several of the Thomas\u2019 party exclaimed: \u201chere comes the officers,\u201d on the arrival of Stewart on the scene of the homicide, is sufficient evidence to justify a finding that Thomas knew Stewart was an officer.\nFinding no prejudicial error the judgment of the trial court is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 6722847
+        }
+    ],
+    "court_short_name": "Ohio Court of Appeals",
+    "court_full_name": "Ohio Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Murder"
+}

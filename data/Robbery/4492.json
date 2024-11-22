@@ -1,8 +1,8 @@
 {
     "id": 8662637,
     "judges": "Fiori, Fulton, Military, Watkins",
-    "date_filed": 295488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-08-31",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-dawkins",
     "case_name_short": "Dawkins",
     "case_name": "United States v. Dawkins",

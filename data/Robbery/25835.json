@@ -1,8 +1,8 @@
 {
     "id": 4440029,
     "judges": "Minton",
-    "date_filed": 1509580800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-12-31",
+    "date_filed_is_approximate": true,
     "slug": "angela-ford-v-faisal-shah",
     "case_name_short": null,
     "case_name": "Angela Ford v. Faisal Shah",

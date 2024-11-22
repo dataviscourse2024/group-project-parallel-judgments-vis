@@ -1,8 +1,8 @@
 {
     "id": 9387896,
     "judges": "Forbes",
-    "date_filed": 1680134400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-08-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-kramer-kelly",
     "case_name_short": "Kramer-Kelly",
     "case_name": "State v. Kramer-Kelly",

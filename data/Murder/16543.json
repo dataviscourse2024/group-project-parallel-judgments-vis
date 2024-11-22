@@ -1,8 +1,8 @@
 {
     "id": 2082699,
     "judges": "Rizzi",
-    "date_filed": 298080000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-07-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-martin",
     "case_name_short": "Martin",
     "case_name": "People v. Martin",

@@ -1,8 +1,8 @@
 {
     "id": 1713569,
     "judges": "Tyson",
-    "date_filed": 260496000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-05-29",
+    "date_filed_is_approximate": true,
     "slug": "gilmore-v-state",
     "case_name_short": "Gilmore",
     "case_name": "Gilmore v. State",

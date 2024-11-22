@@ -1,8 +1,8 @@
 {
     "id": 4649664,
     "judges": null,
-    "date_filed": 1566259200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-10-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-vanderheiden",
     "case_name_short": "Vanderheiden",
     "case_name": "State v. Vanderheiden",

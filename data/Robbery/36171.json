@@ -1,8 +1,8 @@
 {
     "id": 6585393,
     "judges": "Kaplan",
-    "date_filed": 838080000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-06-19",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-smith",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Smith",

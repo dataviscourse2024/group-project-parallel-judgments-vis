@@ -1,8 +1,8 @@
 {
     "id": 5344460,
     "judges": "Coats, Hobbs, Hood",
-    "date_filed": 1396828800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-12-05",
+    "date_filed_is_approximate": true,
     "slug": "people-v-roldan",
     "case_name_short": "Roldan",
     "case_name": "People v. Roldan",

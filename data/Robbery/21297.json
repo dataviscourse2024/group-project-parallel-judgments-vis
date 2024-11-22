@@ -1,8 +1,8 @@
 {
     "id": 3131344,
     "judges": null,
-    "date_filed": 1444953600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-01-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bailey",
     "case_name_short": "Bailey",
     "case_name": "People v. Bailey",

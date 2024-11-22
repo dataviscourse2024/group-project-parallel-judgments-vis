@@ -1,8 +1,8 @@
 {
     "id": 2256113,
     "judges": "Sepulveda",
-    "date_filed": 1033516800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-05-18",
+    "date_filed_is_approximate": true,
     "slug": "people-v-alas",
     "case_name_short": "ALAS",
     "case_name": "People v. ALAS",

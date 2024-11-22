@@ -1,8 +1,8 @@
 {
     "id": 1153140,
     "judges": "Wilkins, Billings and Orme",
-    "date_filed": 861840000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-11-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-begishe",
     "case_name_short": "Begishe",
     "case_name": "State v. Begishe",

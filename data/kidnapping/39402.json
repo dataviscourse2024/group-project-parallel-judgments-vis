@@ -1,8 +1,8 @@
 {
     "id": 7213012,
     "judges": "Brazil, Greene, Rulon",
-    "date_filed": 1135296000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-05",
+    "date_filed_is_approximate": true,
     "slug": "goldsmith-v-state",
     "case_name_short": "Goldsmith",
     "case_name": "Goldsmith v. State",

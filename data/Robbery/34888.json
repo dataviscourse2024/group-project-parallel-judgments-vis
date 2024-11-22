@@ -1,8 +1,8 @@
 {
     "id": 6332830,
     "judges": "Hyman",
-    "date_filed": 351475200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-08-04",
+    "date_filed_is_approximate": true,
     "slug": "peterson-v-city-of-new-york",
     "case_name_short": "Peterson",
     "case_name": "Peterson v. City of New York",

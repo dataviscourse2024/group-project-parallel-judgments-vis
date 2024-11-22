@@ -1,8 +1,8 @@
 {
     "id": 2127625,
     "judges": "Bray",
-    "date_filed": 42422400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-07-31",
+    "date_filed_is_approximate": true,
     "slug": "people-v-britz",
     "case_name_short": "Britz",
     "case_name": "People v. Britz",

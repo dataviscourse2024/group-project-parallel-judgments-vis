@@ -1,8 +1,8 @@
 {
     "id": 4082367,
     "judges": "Belt, Coshow, McBride, Rand",
-    "date_filed": -1366416000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-01-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-de-ford",
     "case_name_short": null,
     "case_name": "State v. De Ford",

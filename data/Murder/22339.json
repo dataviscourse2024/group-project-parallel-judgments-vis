@@ -1,0 +1,47 @@
+{
+    "id": 3395860,
+    "judges": "Adams, Brown, Buford, Whitfield",
+    "date_filed": "1973-06-01",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-barnes",
+    "case_name_short": "Ex Parte Barnes",
+    "case_name": "Ex Parte Barnes",
+    "case_name_full": "Ex Parte Roy Paul Barnes, Petitioner",
+    "attorneys": "W.D. Bell,  for Petitioner;\n\n George Couper Gibbs,  Attorney General, and  William Fisher,  Jr.,  for Respondent.",
+    "nature_of_suit": null,
+    "posture": "A Case of Original Jurisdiction &#8212; Habeas Corpus.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b32-4\">\n<em>\n     Ex Parte\n    </em>\n    Roy Paul Barnes, Petitioner.\n   </parties><br><citation id=\"b32-5\">\n    200 So. 93\n   </citation><court id=\"Ao2H\">\n    Division A\n   </court><br><decisiondate id=\"b32-6\">\n    Opinion Filed January 31, 1941\n   </decisiondate><br><attorneys id=\"b32-11\">\n<em>\n     W. D. Bell,\n    </em>\n    for Petitioner;\n   </attorneys><br><attorneys id=\"b32-12\">\n<em>\n     George Couper Gibbs,\n    </em>\n    Attorney General, and\n    <em>\n     William Fisher, Jr.,\n    </em>\n    for Respondent.\n   </attorneys>",
+    "citations": [
+        "200 So. 93",
+        "146 Fla. 12"
+    ],
+    "opinions": [
+        {
+            "author_str": "Buford",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4027.0,
+            "opinion_text": "This is an original proceeding in habeas corpus.\nThe record shows that petitioner was indicted for the offense of murder in the first degree. The record shows the following: *Page 13 \n\"Friday, November 13, 1936.\n  \"State of Florida v.                          Murder in the First Degree \"Roy Paul Barnes\n\"Now on this date comes the State by its Attorney, the defendant, Roy Paul Barnes, in person, and by his attorney, in open court, thereupon the said defendant, Roy Paul Barnes, withdrew his plea of not guilty heretofore entered herein and entered a plea of guilty as charged in the indictment on file herein. Thereupon the State Attorney announced in open court, that he recommended a sentence of life imprisonment in this case. The court thereupon adjudged the defendant to be guilty of murder in the first degree, as charged in the indictment.\n\"Thereupon, upon recommendation of the State Attorney that the punishment of life imprisonment be inflicted upon the accused, the court proceeded to pronounce the following sentence: The prisoner, Roy Paul Barnes, was called to the stand and asked if he had anything to say why the sentence of the law and judgment of the court should not now be pronounced on him, he answering nothing in bar or preclusion thereof, the court proceeded to pronounce the following sentence to-wit: It is the sentence of the law and judgment of the court that you, Roy Paul Barnes, for your offense and in accordance with the judgment in this cause, shall be confined and imprisoned in the State prison of the State of Florida for the remainder of your natural life. Thereupon the prisoner was remanded to the custody of the sheriff.\"\nSection 5038 R. G. S., 7140 C. G. L., provides:\n\"When the jury find the defendant guilty under an indictment for murder, they shall ascertain by their verdict the degree of unlawful homicide of which he is guilty, but *Page 14 \nif the defendant on arraignment confesses his guilt, the court shall proceed to determine the degree upon an examination of the testimony and pass sentence accordingly.\"\nThe petition alleges that the provisions of this statute were not complied with. The return of the respondent denies that the provisions of the statute were not complied with.\nThe record of a trial where the defendant is charged with the offense of murder in the first degree must show that evidence was produced before the court touching the question of the guilt of the accused.\nThe requirements of the statute, supra, are mandatory and the record of the trial and judgment must show that the same have been complied with. See Casey v. State, 116 Fla. 3, 156 So. 282, wherein we said:\n\"We interpret Section 5038, Revised General Statutes of 1920,supra, to mean that when a defendant is arraigned and pleads guilty to a charge of murder, it becomes the duty of the trial court to take and examine the evidence affecting the charge against him, determine the degree of the homicide and pass sentence accordingly. The judge in other words under such circumstances is placed in the position of a jury and must determine from the evidence whether the defendant is guilty of murder in the first, second or third degree, or manslaughter and may in any case, consider the question of whether or not his judgment should be tempered with mercy.\"\nThe record of the judgment as submitted by certified copy thereof under the hand and seal of the clerk of the circuit court, supports the allegation of the petition to the effect that the circuit judge did not take and consider testimony in the case and on consideration thereof determine the degree of unlawful homicide of which the accused should be adjudged guilty. *Page 15 \nIt, therefore, follows that the judgment is void and the defendant should be discharged from custody under that pretended judgment but should be redelivered by the relator to the Sheriff of Lee County, Florida, to be by him held and safely kept until the further order of the circuit court, or other court of competent jurisdiction, on the charge of the indictment aforesaid.\nSo ordered.\nBROWN, C. J., WHITFIELD and ADAMS, J. J., concur.",
+            "ocr": false,
+            "opinion_id": 3388858
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

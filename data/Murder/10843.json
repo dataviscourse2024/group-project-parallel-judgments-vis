@@ -1,8 +1,8 @@
 {
     "id": 1248745,
     "judges": "Brice, Compton, Lujan, McGHEE, Sadler",
-    "date_filed": -620784000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-08-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-edwards",
     "case_name_short": "Edwards",
     "case_name": "State v. Edwards",

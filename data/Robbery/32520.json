@@ -1,8 +1,8 @@
 {
     "id": 5849920,
     "judges": "Kane",
-    "date_filed": 1153958400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-06-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-green",
     "case_name_short": "Green",
     "case_name": "People v. Green",

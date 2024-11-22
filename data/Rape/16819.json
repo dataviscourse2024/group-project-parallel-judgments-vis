@@ -1,8 +1,8 @@
 {
     "id": 2118299,
     "judges": "May",
-    "date_filed": 1063152000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-07",
+    "date_filed_is_approximate": true,
     "slug": "hawkins-v-state",
     "case_name_short": "Hawkins",
     "case_name": "Hawkins v. State",

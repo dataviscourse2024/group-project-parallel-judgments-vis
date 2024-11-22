@@ -1,8 +1,8 @@
 {
     "id": 7896582,
     "judges": "Norcott",
-    "date_filed": 835056000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-05-04",
+    "date_filed_is_approximate": true,
     "slug": "in-re-daniel-h",
     "case_name_short": null,
     "case_name": "In re Daniel H.",

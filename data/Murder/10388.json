@@ -1,8 +1,8 @@
 {
     "id": 1147871,
     "judges": "Peek",
-    "date_filed": -573609600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-10-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mcgoldrick",
     "case_name_short": "McGoldrick",
     "case_name": "People v. McGoldrick",

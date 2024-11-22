@@ -1,8 +1,8 @@
 {
     "id": 1111127,
     "judges": "Smith",
-    "date_filed": 603417600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-09-15",
+    "date_filed_is_approximate": true,
     "slug": "meggs-v-mcclure",
     "case_name_short": "Meggs",
     "case_name": "Meggs v. McClure",

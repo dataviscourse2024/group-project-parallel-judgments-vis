@@ -1,8 +1,8 @@
 {
     "id": 1405468,
     "judges": "Carley",
-    "date_filed": 1264377600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-10-05",
+    "date_filed_is_approximate": true,
     "slug": "jackson-v-bittick",
     "case_name_short": "Bittick",
     "case_name": "Jackson v. Bittick",

@@ -1,8 +1,8 @@
 {
     "id": 7509314,
     "judges": "Barkdull, Pearson, Swann",
-    "date_filed": -17712000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-05-05",
+    "date_filed_is_approximate": true,
     "slug": "morgan-v-state",
     "case_name_short": "Morgan",
     "case_name": "Morgan v. State",

@@ -1,8 +1,8 @@
 {
     "id": 5791211,
     "judges": "Pope",
-    "date_filed": 731808000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-12-04",
+    "date_filed_is_approximate": true,
     "slug": "robertson-v-u-haul-co",
     "case_name_short": "Robertson",
     "case_name": "Robertson v. U-Haul Co.",

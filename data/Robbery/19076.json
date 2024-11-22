@@ -1,8 +1,8 @@
 {
     "id": 1212802,
     "judges": "Neely",
-    "date_filed": 123811200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-09-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-west",
     "case_name_short": "West",
     "case_name": "State v. West",

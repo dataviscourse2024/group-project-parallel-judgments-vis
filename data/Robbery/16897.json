@@ -1,8 +1,8 @@
 {
     "id": 2163851,
     "judges": "Crosby",
-    "date_filed": 454118400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-01-29",
+    "date_filed_is_approximate": true,
     "slug": "finn-v-superior-court",
     "case_name_short": "Finn",
     "case_name": "Finn v. Superior Court",

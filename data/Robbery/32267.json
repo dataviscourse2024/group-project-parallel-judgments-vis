@@ -1,8 +1,8 @@
 {
     "id": 5796595,
     "judges": "Craig, Desmond, Scott",
-    "date_filed": -1119052800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-10-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-pierson",
     "case_name_short": "Pierson",
     "case_name": "People v. Pierson",

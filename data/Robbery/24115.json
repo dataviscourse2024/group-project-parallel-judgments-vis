@@ -1,8 +1,8 @@
 {
     "id": 4065883,
     "judges": "Branson, Clark, Hefner, Hunt, Mason, Tester",
-    "date_filed": -1329523200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-04-04",
+    "date_filed_is_approximate": true,
     "slug": "dean-v-anson",
     "case_name_short": "Dean",
     "case_name": "Dean v. Anson",

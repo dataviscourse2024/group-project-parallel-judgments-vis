@@ -1,8 +1,8 @@
 {
     "id": 1760223,
     "judges": "Hillman",
-    "date_filed": 439516800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-07-10",
+    "date_filed_is_approximate": true,
     "slug": "webster-v-foltz",
     "case_name_short": "Webster",
     "case_name": "Webster v. Foltz",

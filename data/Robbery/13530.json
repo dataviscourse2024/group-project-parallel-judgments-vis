@@ -1,8 +1,8 @@
 {
     "id": 1688750,
     "judges": "McDonald",
-    "date_filed": 494121600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-08-04",
+    "date_filed_is_approximate": true,
     "slug": "vause-v-state",
     "case_name_short": "Vause",
     "case_name": "Vause v. State",

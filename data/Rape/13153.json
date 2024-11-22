@@ -1,8 +1,8 @@
 {
     "id": 2727040,
     "judges": "Bryant, Calabria, Geer",
-    "date_filed": 1405382400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-03-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-king",
     "case_name_short": "King",
     "case_name": "State v. King",

@@ -1,0 +1,47 @@
+{
+    "id": 6094902,
+    "judges": null,
+    "date_filed": "1982-06-12",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-torres",
+    "case_name_short": "Torres",
+    "case_name": "People v. Torres",
+    "case_name_full": "The People of the State of New York v. George Torres",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "191 A.D.2d 601",
+        "595 N.Y.S.2d 214"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from (1) a judgment of the Supreme Court, Queens County (Sherman, J.), rendered May 8, 1991, convicting him of rape in the first degree, sodomy in the first degree, sexual abuse in the first degree (three counts), unlawful imprisonment in the second degree, and criminal use of a firearm in the first degree, upon a jury verdict, and imposing sentence, and (2) a resentence of the same court, rendered May 13, 1991, modifying the sentence imposed upon the conviction of unlawful imprisonment. The appeal brings up for review the denial, after a hearing, of those branches of the defendant\u2019s omnibus motion which were to suppress identification testimony and physical evidence.\nOrdered that the judgment and the resentence are affirmed.\nThe hearing court properly found that the lineup identification testimony was admissible at trial. The evidence adduced at the Wade-Dunaway hearing established that the police officer who sent the radio transmission, upon which the receiving officers relied to apprehend the defendant, had probable cause to arrest the defendant, as the content of the radio transmission included that the source of the information was the victim herself (see, Whiteley v Warden, 401 US 560; People v Lypka, 36 NY2d 210, 213-214; People v Ward, 95 AD2d 233, 238).\nMoreover, the hearing court properly found that, under the totality of the circumstances, the lineup was not unduly suggestive (see, People v Rodriguez, 124 AD2d 611), as there was no substantial likelihood of irreparable misidentification *602(see, People v Adams, 53 NY2d 241; People v McClarin, 157 AD2d 747).\nAt the conclusion of the jury charge, the court instructed the jurors to begin their deliberations. After the jury and attorneys had left the courtroom, however, the court realized that it had incorrectly charged the jury regarding the three counts of sexual abuse in the first degree. The court therefore instructed the court officer to tell the jury to stop its deliberations and go to lunch. After the jury returned from lunch, the court was unable to locate the attorneys, and it therefore instructed the court officer to tell the jury that it should only begin deliberating on the first three counts, which were the rape, sodomy, and criminal use of a firearm counts. Approximately 40 minutes later, the attorneys were located and the jury was called back into the courtroom to be re-instructed on the sexual abuse counts.\nContrary to the defendant\u2019s contentions, since the court officer did not \"attempt to convey any legal instructions to the jury or to instruct them as to their duties and obligations\u201d (People v Bonaparte, 78 NY2d 26, 31), it cannot be said that the defendant was absent during a material stage of the trial (see, People v Bonaparte, supra). Moreover, the court did not improperly delegate its authority by having the court officer issue such ministerial directions to the jury (see, People v Nacey, 78 NY2d 990; People v Bonaparte, supra; People v Brickhouse, 178 AD2d 541).\nWe have reviewed the defendant\u2019s remaining contentions and find that they are without merit. Thompson, J. P., Sullivan, O\u2019Brien and Copertino, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5959366
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

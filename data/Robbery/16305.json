@@ -1,8 +1,8 @@
 {
     "id": 2011899,
     "judges": "Du-Fresne, Dufresne, Marden, Tapley, Weatherbee, Webber, Williamson",
-    "date_filed": -58233600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-03-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-pelkey",
     "case_name_short": "Pelkey",
     "case_name": "State v. Pelkey",

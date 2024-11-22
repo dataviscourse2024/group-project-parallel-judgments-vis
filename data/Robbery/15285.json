@@ -1,8 +1,8 @@
 {
     "id": 1567609,
     "judges": "May",
-    "date_filed": 1237939200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-09-29",
+    "date_filed_is_approximate": true,
     "slug": "fearon-v-state",
     "case_name_short": "Fearon",
     "case_name": "Fearon v. State",

@@ -1,8 +1,8 @@
 {
     "id": 7332110,
     "judges": "Chen, Introduction",
-    "date_filed": 1537488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-06-15",
+    "date_filed_is_approximate": true,
     "slug": "beyer-v-symantec-corp",
     "case_name_short": "Beyer",
     "case_name": "Beyer v. Symantec Corp.",

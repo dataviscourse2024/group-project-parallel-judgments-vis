@@ -1,0 +1,47 @@
+{
+    "id": 6101983,
+    "judges": null,
+    "date_filed": "1996-06-14",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-sosby",
+    "case_name_short": "Sosby",
+    "case_name": "People v. Sosby",
+    "case_name_full": "The People of the State of New York v. Erik Sosby",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "197 A.D.2d 909",
+        "602 N.Y.S.2d 455"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment unanimously reversed on the law and new trial granted on count *910two of indictment. Memorandum: Defendant was found guilty of the crime of manslaughter in the first degree under count two of the indictment and acquitted of murder in the second degree under count one. The trial court improperly reduced the People\u2019s burden of proof when it charged the jury that \"it is possible to establish the guilt of a defendant charged with a crime to a reasonable degree of certainty. To that degree of proof, the People must be held\u201d (see, People v Freeman, 193 AD2d 1117; People v Payne, 192 AD2d 1117; People v Frank, 186 AD2d 977). The error in the charge deprived defendant of his Fifth Amendment right to a verdict of guilt beyond a reasonable doubt. We, therefore, reverse defendant\u2019s conviction (see, Sullivan v Louisiana, 508 US \u2014, 113 S Ct 2078; Cage v Louisiana, 498 US 39; see also, People v Melito, 195 AD2d 1014).\nWe have considered defendant\u2019s other contentions and find them to be without merit. (Appeal from Judgment of Niagara County Court, Hannigan, J.\u2014Manslaughter, 1st Degree.) Present\u2014Green, J. P., Balio, Fallon, Doerr and Boehm, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5966590
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

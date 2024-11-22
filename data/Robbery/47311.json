@@ -1,8 +1,8 @@
 {
     "id": 8830334,
     "judges": "Dalton",
-    "date_filed": 138931200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-11-11",
+    "date_filed_is_approximate": true,
     "slug": "mcneil-v-paderick",
     "case_name_short": "McNeil",
     "case_name": "McNeil v. Paderick",

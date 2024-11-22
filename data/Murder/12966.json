@@ -1,8 +1,8 @@
 {
     "id": 1577371,
     "judges": "Morriss, C.J., Ross and Carter",
-    "date_filed": 1098748800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-03-28",
+    "date_filed_is_approximate": true,
     "slug": "martin-v-state",
     "case_name_short": "Martin",
     "case_name": "Martin v. State",

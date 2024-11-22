@@ -1,8 +1,8 @@
 {
     "id": 1468271,
     "judges": "Melvin, Thompson, Wilner",
-    "date_filed": 250387200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-08-01",
+    "date_filed_is_approximate": true,
     "slug": "brown-v-state",
     "case_name_short": "Brown",
     "case_name": "Brown v. State",

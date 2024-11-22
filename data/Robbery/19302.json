@@ -1,8 +1,8 @@
 {
     "id": 1090851,
     "judges": "En Banc",
-    "date_filed": 1055980800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-09-09",
+    "date_filed_is_approximate": true,
     "slug": "russell-v-state",
     "case_name_short": "Russell",
     "case_name": "Russell v. State",

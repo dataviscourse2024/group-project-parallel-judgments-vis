@@ -1,8 +1,8 @@
 {
     "id": 5821000,
     "judges": null,
-    "date_filed": 1087171200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-08-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rimmen",
     "case_name_short": "Rimmen",
     "case_name": "People v. Rimmen",

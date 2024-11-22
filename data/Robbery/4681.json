@@ -1,8 +1,8 @@
 {
     "id": 8696067,
     "judges": "Donald, Lipez, Stranch",
-    "date_filed": 1450224000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-01-20",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-moody",
     "case_name_short": null,
     "case_name": "United States v. Moody",

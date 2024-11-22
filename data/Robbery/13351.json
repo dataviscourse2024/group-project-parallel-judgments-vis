@@ -1,8 +1,8 @@
 {
     "id": 1709101,
     "judges": "Downey",
-    "date_filed": 532742400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-06-09",
+    "date_filed_is_approximate": true,
     "slug": "santiago-v-state",
     "case_name_short": "Santiago",
     "case_name": "Santiago v. State",

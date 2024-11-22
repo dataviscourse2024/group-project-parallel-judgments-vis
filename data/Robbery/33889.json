@@ -1,8 +1,8 @@
 {
     "id": 6128018,
     "judges": null,
-    "date_filed": 811641600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-10-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-avery",
     "case_name_short": "Avery",
     "case_name": "People v. Avery",

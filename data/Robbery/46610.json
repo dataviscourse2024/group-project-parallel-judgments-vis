@@ -1,8 +1,8 @@
 {
     "id": 8686971,
     "judges": "Harris",
-    "date_filed": 1361491200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-12-11",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-bagby",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Bagby",

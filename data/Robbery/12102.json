@@ -1,8 +1,8 @@
 {
     "id": 1408457,
     "judges": "Alaimo",
-    "date_filed": 787881600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-09-11",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-deering",
     "case_name_short": "Deering",
     "case_name": "Smith v. Deering",

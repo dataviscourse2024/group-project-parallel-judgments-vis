@@ -1,8 +1,8 @@
 {
     "id": 7235863,
     "judges": "Clay",
-    "date_filed": -1460160000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-11-03",
+    "date_filed_is_approximate": true,
     "slug": "foutz-v-hacker",
     "case_name_short": "Foutz",
     "case_name": "Foutz v. Hacker",

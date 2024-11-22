@@ -1,0 +1,46 @@
+{
+    "id": 7797313,
+    "judges": "Peterson, Pleus, Sawaya",
+    "date_filed": "1972-09-22",
+    "date_filed_is_approximate": true,
+    "slug": "lopez-v-state",
+    "case_name_short": "Lopez",
+    "case_name": "Lopez v. State",
+    "case_name_full": "Victor LOPEZ v. STATE of Florida",
+    "attorneys": "Victor Lopez, Bowling Green, Pro se., Robert A. Butterworth, Attorney General, Tallahassee, and Alfred Washington, Jr., Assistant Attorney General, Daytona Beach, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "773 So. 2d 1267"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nVictor Lopez appeals the summary denial of his claim that he received ineffective assistance of counsel at trial which resulted in his conviction for first degree murder. The crux of Lopez\u2019s claim raised in his Rule 3.850 motion under the Florida Rules of Criminal Procedure was that trial counsel failed to present evidence of Lopez\u2019s disabling ankle injury that existed at the time of the crime and which often caused him to walk with a cane. Indeed, there was no mention of this disability during trial.\nLopez claims that he discussed his disability with his trial attorney, but the attorney failed to consider it in his defense. Lopez attached to his 3.850 motion a copy of a social security report confirming that he suffered from the disability; however, the report was not available at trial.\nIdentification of the perpetrator was an important feature of the trial and due to his obvious disability, Lopez claims that the witnesses to the crime should have noticed a limp or use of a cane by him if he was the alleged perpetrator. Lopez\u2019s attorney focused on discrediting the wit*1268nesses\u2019 identification of the defendant. If Lopez had a discernable limp, that fact should have strengthened the attempt to impeach one of the witnesses who testified that he saw Lopez run away from the scene after shooting the victim.\nIn Hatten v. State, 698 So.2d 899 (Fla. 5th DCA 1997), this court reversed the summary denial of a Rule 3.850 motion which alleged that the defendant had supplied the names of witnesses who would impeach the victim\u2019s identification testimony, as well as the name of an alibi witness. In reversing, the court revealed that the only evidence connecting the defendant to the robbery was the victim\u2019s identification and concluded that the potential exculpatory testimony may have changed the outcome. Likewise, an evidentiary hearing on Lopez\u2019s 3.850 motion is required in the instant case. The record establishes that the only evidence connecting the defendant to the crime was the identification of Lopez by two witnesses, one of which was questionable and the other one failed to mention a limp.\nDefense counsel\u2019s knowledge of Lopez\u2019s physical impairment in light of the questionable identification of Lopez as the alleged perpetrator of the crime by the witnesses at trial, together with the social security report verifying an impairment, is legally sufficient to raise an issue of ineffective assistance. Knowing that such an impairment existed but failing to present evidence to impeach the questionable identification cannot be justified as a strategic decision without an evidentiary hearing on Lopez\u2019s 3.850 motion. See, e.g., Hall v. State, 754 So.2d 70 (Fla. 4th DCA 2000); Soloman v. State, 741 So.2d 1211 (Fla. 5th DCA 1999).\nThe summary denial of the 3.850 motion is vacated as to this issue only and we remand for an evidentiary hearing. We reject all of the other issues raised by Lopez and affirm the trial court\u2019s summary denial of those.\nAFFIRMED IN PART; ORDER VACATED IN PART; REMANDED.\nPETERSON, SAWAYA and PLEUS, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7737514
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

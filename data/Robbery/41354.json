@@ -1,8 +1,8 @@
 {
     "id": 7611702,
     "judges": "Grimes, Ryder, Scheb",
-    "date_filed": 488764800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-01-20",
+    "date_filed_is_approximate": true,
     "slug": "macphee-v-state",
     "case_name_short": "MacPhee",
     "case_name": "MacPhee v. State",

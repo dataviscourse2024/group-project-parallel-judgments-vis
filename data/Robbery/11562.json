@@ -1,8 +1,8 @@
 {
     "id": 1321657,
     "judges": "Carley, Quillian, Shulman",
-    "date_filed": 400291200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-08-20",
+    "date_filed_is_approximate": true,
     "slug": "salter-v-state",
     "case_name_short": "Salter",
     "case_name": "Salter v. State",

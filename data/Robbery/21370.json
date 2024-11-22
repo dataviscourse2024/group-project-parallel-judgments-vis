@@ -1,8 +1,8 @@
 {
     "id": 3147919,
     "judges": null,
-    "date_filed": 1294358400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-02-04",
+    "date_filed_is_approximate": true,
     "slug": "people-v-white",
     "case_name_short": "White",
     "case_name": "People v. White",

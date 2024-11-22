@@ -1,8 +1,8 @@
 {
     "id": 2140719,
     "judges": "Gilbert",
-    "date_filed": 501811200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-03-21",
+    "date_filed_is_approximate": true,
     "slug": "people-v-jacob",
     "case_name_short": "Jacob",
     "case_name": "People v. Jacob",

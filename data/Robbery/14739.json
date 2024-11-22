@@ -1,8 +1,8 @@
 {
     "id": 1165333,
     "judges": "Cameron, Feldman, Gordon, Hays, Holohan",
-    "date_filed": 403747200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-11-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thomas",
     "case_name_short": "Thomas",
     "case_name": "State v. Thomas",

@@ -1,8 +1,8 @@
 {
     "id": 5789035,
     "judges": "Deen",
-    "date_filed": 602985600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-07-10",
+    "date_filed_is_approximate": true,
     "slug": "henderson-v-state",
     "case_name_short": null,
     "case_name": "Henderson v. State",

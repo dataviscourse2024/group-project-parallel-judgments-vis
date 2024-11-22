@@ -1,8 +1,8 @@
 {
     "id": 1676054,
     "judges": "Taylor",
-    "date_filed": 755481600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-05-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-tarver",
     "case_name_short": "Tarver",
     "case_name": "State v. Tarver",

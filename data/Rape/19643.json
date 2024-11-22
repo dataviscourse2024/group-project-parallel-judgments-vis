@@ -1,0 +1,47 @@
+{
+    "id": 1338813,
+    "judges": "Carley, Johnson, Pope",
+    "date_filed": "1985-05-06",
+    "date_filed_is_approximate": true,
+    "slug": "robinson-v-state",
+    "case_name_short": "Robinson",
+    "case_name": "Robinson v. State",
+    "case_name_full": "Robinson v. the State",
+    "attorneys": "T. Mark Thedieck, for appellant., H. Lamar Cole, District Attorney, James E. Hardy, Mark E. Mitchell, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b703-11\">\n    A92A0569.\n   </docketnumber><parties id=\"A00H\">\n    ROBINSON v. THE STATE.\n   </parties><br><citation id=\"b703-12\">\n    (419 SE2d 926)\n   </citation><decisiondate id=\"AtX\">\n    Decided June 23, 1992.\n   </decisiondate><attorneys id=\"AAvf\">\n<em>\n     T. Mark Thedieck,\n    </em>\n    for appellant.\n   </attorneys>",
+    "citations": [
+        "419 S.E.2d 926",
+        "204 Ga. App. 637"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pope",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7175.0,
+            "opinion_text": "\n204 Ga. App. 637 (1992)\n419 S.E.2d 926\nROBINSON\nv.\nTHE STATE.\nA92A0569.\nCourt of Appeals of Georgia.\nDecided June 23, 1992.\nT. Mark Thedieck, for appellant.\n*638 H. Lamar Cole, District Attorney, James E. Hardy, Mark E. Mitchell, Assistant District Attorneys, for appellee.\nPOPE, Judge.\nDefendant was convicted of three counts of child molestation. The victim was his stepdaughter. On appeal he argues the testimony of the victim and the victim's sister, who was an eyewitness to some of the occurrences between the defendant and victim, was so inconsistent and contradictory that the evidence was insufficient to sustain his conviction. \"[Defendant's] argument addresses itself to the credibility of the witnesses, which is a matter within the province of the jury.\" Levitt v. State, 201 Ga. App. 63 (1) (410 SE2d 170) (1991). \"While the jury can and must weigh and analyze the evidence, an appellate court is restricted to determining whether or not there is sufficient evidence to support the verdict of guilty.\" Causey v. State, 154 Ga. App. 76, 77 (267 SE2d 475) (1980). We have reviewed the record and conclude it contains ample evidence from which a rational trier of fact could find defendant guilty of the offenses charged beyond a reasonable doubt.\nJudgment affirmed. Carley, P. J., and Johnson, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1338813
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Rape"
+}

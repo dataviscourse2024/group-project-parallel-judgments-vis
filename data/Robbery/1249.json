@@ -1,8 +1,8 @@
 {
     "id": 8004553,
     "judges": "Cynar, Gillis, Kaufman",
-    "date_filed": 376704000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-01-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-green",
     "case_name_short": "Green",
     "case_name": "People v. Green",

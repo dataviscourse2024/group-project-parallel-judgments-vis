@@ -1,8 +1,8 @@
 {
     "id": 1260995,
     "judges": "McHUGH",
-    "date_filed": 455932800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-03-20",
+    "date_filed_is_approximate": true,
     "slug": "desper-v-state",
     "case_name_short": "Desper",
     "case_name": "Desper v. State",

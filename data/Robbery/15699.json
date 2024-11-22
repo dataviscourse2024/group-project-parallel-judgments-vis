@@ -1,8 +1,8 @@
 {
     "id": 1850839,
     "judges": "Orfinger",
-    "date_filed": 1180656000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-03-19",
+    "date_filed_is_approximate": true,
     "slug": "obara-v-state",
     "case_name_short": "Obara",
     "case_name": "Obara v. State",

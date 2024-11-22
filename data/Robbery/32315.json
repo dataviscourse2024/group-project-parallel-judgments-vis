@@ -1,8 +1,8 @@
 {
     "id": 5806235,
     "judges": "Bernard, Jefferson",
-    "date_filed": 275702400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-12-15",
+    "date_filed_is_approximate": true,
     "slug": "people-v-johnny-v",
     "case_name_short": null,
     "case_name": "People v. Johnny V.",

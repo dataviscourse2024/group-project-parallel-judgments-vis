@@ -1,8 +1,8 @@
 {
     "id": 1738905,
     "judges": "Platt",
-    "date_filed": 214099200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-09-03",
+    "date_filed_is_approximate": true,
     "slug": "perry-v-vincent",
     "case_name_short": "Perry",
     "case_name": "Perry v. Vincent",

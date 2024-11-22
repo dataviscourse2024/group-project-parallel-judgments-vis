@@ -1,8 +1,8 @@
 {
     "id": 2489357,
     "judges": "Chehardy, Crain, Hillary, Rothschild, Susan, Tempore, Walter",
-    "date_filed": 1314662400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-07-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-wade",
     "case_name_short": "Wade",
     "case_name": "State v. Wade",

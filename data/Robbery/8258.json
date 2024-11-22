@@ -1,8 +1,8 @@
 {
     "id": 2636533,
     "judges": "Brewer, Chief Judge, and Schuman, Judge, and Riggs, Senior Judge",
-    "date_filed": 1224028800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-03-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cantrell",
     "case_name_short": "Cantrell",
     "case_name": "State v. Cantrell",

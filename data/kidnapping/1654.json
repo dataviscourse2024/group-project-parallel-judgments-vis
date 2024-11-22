@@ -1,8 +1,8 @@
 {
     "id": 8085610,
     "judges": "Rose, Shearing, Springer, Steffen, Young",
-    "date_filed": 809222400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-02-24",
+    "date_filed_is_approximate": true,
     "slug": "greeson-v-barnes",
     "case_name_short": "Greeson",
     "case_name": "Greeson v. Barnes",

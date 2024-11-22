@@ -1,8 +1,8 @@
 {
     "id": 8596103,
     "judges": "Ferguson, Kilday, Quinn",
-    "date_filed": -244857600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-11-29",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-johnson",
     "case_name_short": null,
     "case_name": "United States v. Johnson",

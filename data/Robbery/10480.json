@@ -1,8 +1,8 @@
 {
     "id": 848782,
     "judges": "Cavanagh, Corrigan, Kelly, Markman, Taylor, Weaver, Young",
-    "date_filed": 1057708800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-washington",
     "case_name_short": null,
     "case_name": "People v. Washington",

@@ -1,8 +1,8 @@
 {
     "id": 7701715,
     "judges": "Perry",
-    "date_filed": 1550620800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-11-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-latique",
     "case_name_short": "Latique",
     "case_name": "State v. Latique",

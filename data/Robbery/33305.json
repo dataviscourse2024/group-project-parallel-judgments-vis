@@ -1,8 +1,8 @@
 {
     "id": 6007873,
     "judges": "Lazer",
-    "date_filed": 464832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-07-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-bratton",
     "case_name_short": "Bratton",
     "case_name": "People v. Bratton",

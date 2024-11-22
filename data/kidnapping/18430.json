@@ -1,8 +1,8 @@
 {
     "id": 2444462,
     "judges": "Alexander, Gorman, Jabar, Levy, Saufley, Silver",
-    "date_filed": 1280188800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-11-25",
+    "date_filed_is_approximate": true,
     "slug": "state-v-rackliffe",
     "case_name_short": "Rackliffe",
     "case_name": "State v. Rackliffe",

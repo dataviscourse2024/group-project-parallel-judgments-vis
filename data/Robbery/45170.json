@@ -1,8 +1,8 @@
 {
     "id": 8385513,
     "judges": "Bell, Herbert, Matthias, Peck, Taft, Weygandt, Zimmerman",
-    "date_filed": -335750400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-06-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-morello",
     "case_name_short": "Morello",
     "case_name": "State v. Morello",

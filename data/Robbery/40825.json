@@ -1,8 +1,8 @@
 {
     "id": 7505696,
     "judges": "Allen, Mann, Pierce",
-    "date_filed": -40608000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-04-02",
+    "date_filed_is_approximate": true,
     "slug": "richards-v-state",
     "case_name_short": "Richards",
     "case_name": "Richards v. State",

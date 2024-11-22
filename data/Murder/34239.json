@@ -1,0 +1,47 @@
+{
+    "id": 6200760,
+    "judges": null,
+    "date_filed": "1999-11-06",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-hilliard",
+    "case_name_short": "Hilliard",
+    "case_name": "People v. Hilliard",
+    "case_name_full": "The People of the State of New York v. Jimmy Hilliard",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "279 A.D.2d 590",
+        "719 N.Y.S.2d 600"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (D. Friedman, J.), rendered June 18, 1997, convicting him of murder in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contention that certain remarks made by the prosecutor during summation were improper is unpreserved for appellate review since he raised only general objections to the challenged remarks, did not request curative instructions when his objections were sustained, and did not move for a mistrial (see, People v Nuccie, 57 NY2d 818; People v Davis, 277 AD2d 248 [case No. 1]; People v Feliciano, 254 AD2d 496; People v Oreckinto, 253 AD2d 896; People v Scotti, 220 AD2d 543). In any event, most of the challenged remarks either constituted fair comment, or were made in response to the defense counsel\u2019s arguments on summation, and none was so prejudicial as to require reversal (see, People v Galloway, 54 NY2d 396; People v Davis, supra; People v Jones, 255 AD2d 600; People v Feliciano, supra). Krausman, J. P., Luciano, H. Miller and Feuerstein, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6067214
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 3524283,
+    "judges": "Bird, Clark, McDonald, Moore, Steere, Wiest",
+    "date_filed": "1995-06-14",
+    "date_filed_is_approximate": true,
+    "slug": "greene-v-miller",
+    "case_name_short": "Greene",
+    "case_name": "Greene v. Miller",
+    "case_name_full": "Greene v. Miller.",
+    "attorneys": "Willard J. Turner, Jr. , and  Willard J. Turner, Sr. , for appellant.\n\n William H. Simpson , for appellee.",
+    "nature_of_suit": null,
+    "posture": "Error to Muskegon; Vanderwerp (John), J. Submitted June 9, 1925. (Docket No. 64.) Decided July 16, 1925.\n\nCase by Anna E. Greene, administratrix of the estate of Harry R. Greene, deceased, against Joseph Miller for the alleged negligent killing of plaintiff's decedent. Judgment for defendant on a directed verdict. Plaintiff brings error. Affirmed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted June 9, 1925.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b45-4\">\n    GREENE\n    <em>\n     v.\n    </em>\n    MILLER.\n   </parties><otherdate id=\"AZt\">\n    Submitted June 9, 1925.\n   </otherdate><docketnumber id=\"AyG\">\n    (Docket No. 64.)\n   </docketnumber><decisiondate id=\"ABj\">\n    Decided July 16, 1925.\n   </decisiondate><br><attorneys id=\"b45-15\">\n<em>\n     Willard J. Turner, Jr.,\n    </em>\n    and\n    <em>\n     Willard J. Turner, Sr.,\n    </em>\n    for appellant.\n   </attorneys><br><attorneys id=\"b45-16\">\n<em>\n     William H. Simpson,\n    </em>\n    for appellee.\n   </attorneys>",
+    "citations": [
+        "204 N.W. 722",
+        "232 Mich. 19"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4794.0,
+            "opinion_text": "In May, 1922, defendant had a contract which required digging a trench in a street and under a sidewalk in the city of Muskegon Heights for the purpose of placing a sewer pipe therein. Plaintiff's decedent was in his employ, and in charge of this work. On May 11th, he had a helper named Swinehart. The next day Philip Selem took Swinehart's place. While Greene was engaged in digging under the sidewalk on the 12th, the earth caved in on him. He died before he was released. This action was brought by the administratrix of his estate to recover the damages incident to his death. At the conclusion of the proofs, a verdict was directed for the defendant, for the reason that no actionable negligence on his part was proven. The judgment entered thereon is here reviewed by writ of error.\nThe negligence relied on by plaintiff was the failure of the defendant to provide and install suitable curbing to protect deceased while engaged in this work. Defendant was not present while the work was progressing. Deceased had experience in such work and, if curbing was provided, no duty rested on the defendant to see that plaintiff's decedent used it as needed in the progress of the work.\nSwinehart testified that planks and jacks were furnished for the curbing or cribbing (as it was called by some of the witnesses), and that they were cut up and used on the 11th; that at night they were placed inside the yard, except the few needed to cover the open part of the trench. Selem testified that the cribbing was there when he went to work on the morning of the 12th; that he asked deceased if he was going to use it, and he said \"No.\" The defendant testified that the cribbing was sent up to the work the day it was begun, and that he unloaded it there. The teamster who hauled it testified to its delivery at the job. A witness who aided in removing the body of the deceased testified: *Page 21 \n\"There was no planking or cribbing near there, as I hunted for some to drive down to his body as we uncovered it, and I couldn't find any; I hunted for it right there at the time.\"\nAnother witness testified:\n\"I took about 20 men and went over to the scene of the accident, and we took our shovels along. * * * I examined the hole, and there was no cribbing or planking whatever used to withhold the sand from falling in on him. I did not see any planking at all near there.\"\nThe few pieces used for covering the trench when the men stopped work on the 11th were doubtless covered up by the first earth thrown out by these men. The others were piled up in the yard. The trial court held that this testimony, negative in its character, did not raise an issue of fact for the consideration of the jury as to whether the curbing had been provided, and we think he was clearly right in so holding. See Moreau v.Grandmaison, 220 Mich. 238, where the weight to be given to such testimony is considered and the authorities reviewed.\nError is assigned on the admission of certain evidence. That already referred to was certainly admissible and, irrespective of that to which objection was made, justified the action of the court in directing the verdict.\nThe judgment is affirmed.\nMcDONALD, C.J., and CLARK, BIRD, MOORE, STEERE, FELLOWS, and WIEST, JJ., concurred. *Page 22 ",
+            "ocr": false,
+            "opinion_id": 3493718
+        }
+    ],
+    "court_short_name": "Michigan Supreme Court",
+    "court_full_name": "Michigan Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 3411917,
     "judges": "Broyles, Gardner, MacIntyre",
-    "date_filed": -912470400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-12-06",
+    "date_filed_is_approximate": true,
     "slug": "hunt-v-state",
     "case_name_short": "Hunt",
     "case_name": "Hunt v. State",

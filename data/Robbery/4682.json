@@ -1,8 +1,8 @@
 {
     "id": 8696143,
     "judges": "Easterbrook, Kanne, Sykes",
-    "date_filed": 1456358400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-04-20",
+    "date_filed_is_approximate": true,
     "slug": "baer-v-lynch",
     "case_name_short": "Baer",
     "case_name": "Baer v. Lynch",

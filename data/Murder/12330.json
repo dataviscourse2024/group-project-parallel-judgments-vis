@@ -1,8 +1,8 @@
 {
     "id": 1444040,
     "judges": "Stephen G. Larson",
-    "date_filed": 1201478400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-04-22",
+    "date_filed_is_approximate": true,
     "slug": "mccarns-v-dexter",
     "case_name_short": "McCarns",
     "case_name": "McCarns v. Dexter",

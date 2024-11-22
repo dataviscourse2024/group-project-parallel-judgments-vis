@@ -1,8 +1,8 @@
 {
     "id": 8092546,
     "judges": "Abramson, Burling, Dalianis, Groff, Nadeau, Rsa",
-    "date_filed": 1029456000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-08-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-currier",
     "case_name_short": "Currier",
     "case_name": "State v. Currier",

@@ -1,8 +1,8 @@
 {
     "id": 2375596,
     "judges": "Crist, Gunn, Smith",
-    "date_filed": 369360000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-02-12",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mcgowan",
     "case_name_short": "McGowan",
     "case_name": "State v. McGowan",

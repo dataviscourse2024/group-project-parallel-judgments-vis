@@ -1,8 +1,8 @@
 {
     "id": 2349611,
     "judges": "Barbera, Salmon, Sharer",
-    "date_filed": 1094601600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-04",
+    "date_filed_is_approximate": true,
     "slug": "gatewood-v-state",
     "case_name_short": "Gatewood",
     "case_name": "Gatewood v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1339995,
     "judges": "Hunter, Martin, McCullough",
-    "date_filed": 1210032000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-01-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-farrar",
     "case_name_short": "Farrar",
     "case_name": "State v. Farrar",

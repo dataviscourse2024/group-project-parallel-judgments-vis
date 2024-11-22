@@ -1,8 +1,8 @@
 {
     "id": 5789848,
     "judges": "McMurray",
-    "date_filed": 647827200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-04-04",
+    "date_filed_is_approximate": true,
     "slug": "woods-v-state",
     "case_name_short": "Woods",
     "case_name": "Woods v. State",

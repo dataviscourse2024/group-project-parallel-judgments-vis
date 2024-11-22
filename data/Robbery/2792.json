@@ -1,8 +1,8 @@
 {
     "id": 8322198,
     "judges": "Barrows",
-    "date_filed": -1640304000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-11-03",
+    "date_filed_is_approximate": true,
     "slug": "handley-v-ogorman",
     "case_name_short": "Handley",
     "case_name": "Handley v. O'Gorman",

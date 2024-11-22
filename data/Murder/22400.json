@@ -1,0 +1,47 @@
+{
+    "id": 3409226,
+    "judges": "Broyles, Gardner, MacIntyre",
+    "date_filed": "2011-01-05",
+    "date_filed_is_approximate": true,
+    "slug": "lanier-v-state",
+    "case_name_short": "Lanier",
+    "case_name": "Lanier v. State",
+    "case_name_full": "Lanier v. the State",
+    "attorneys": "J. D. Kirkland,  for plaintiff in error.\n\n L. C. Anderson, solicitor,  contra.",
+    "nature_of_suit": null,
+    "posture": "Killing cattle; from Metter city court &#8212; Judge Lanier presiding. June 29, 1943.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b94-13\">\n    30234.\n   </docketnumber><parties id=\"Acz\">\n    LANIER\n    <em>\n     v.\n    </em>\n    THE STATE.\n   </parties><br><decisiondate id=\"b94-15\">\n    Decided October 15, 1943.\n   </decisiondate><br><attorneys id=\"b94-17\">\n<em>\n     J. D. Kirkland,\n    </em>\n    for plaintiff in error.\n   </attorneys><br><attorneys id=\"b94-18\">\n<em>\n     L. O. Anderson, solicitor,\n    </em>\n    contra.\n   </attorneys>",
+    "citations": [
+        "27 S.E.2d 346",
+        "70 Ga. App. 62"
+    ],
+    "opinions": [
+        {
+            "author_str": "Broyles",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The denial of a new trial was not error.\n                        DECIDED OCTOBER 15, 1943.\nThe defendant was convicted of poisoning cattle by administering arsenic. His motion for new trial contained the general grounds, and three special grounds: (1) Complaining of the failure of the court to instruct the jury, without a request, upon the law of circumstantial evidence. The ground is without merit, since the evidence adduced was not wholly circumstantial, and there was no appropriate written request for such a charge. (2) Excepting to the court's omission to charge the jury upon the good *Page 63 \ncharacter of the accused, who had introduced testimony showing his good character. There was no request for this charge; and therefore the failure to give it was not error. Scarboro v.State, 24 Ga. App. 27 (6), 29 (99 S.E. 637). (3) Merely an elaboration of the general grounds. The verdict was amply authorized by the evidence. While there was some conflict in the evidence as to whether the cattle died from arsenic poisoning (as charged in the indictment), the evidence authorized the jury to find that arsenic poison was administered to them by the defendant, and that it caused their deaths. The denial of a new trial was not error.\nJudgment affirmed. MacIntyre and Gardner, JJ., concur.",
+            "ocr": false,
+            "opinion_id": 3403922
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

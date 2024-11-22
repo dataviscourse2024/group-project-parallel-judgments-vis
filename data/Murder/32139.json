@@ -1,0 +1,46 @@
+{
+    "id": 5770599,
+    "judges": "Broyles",
+    "date_filed": "1975-10-27",
+    "date_filed_is_approximate": true,
+    "slug": "wallace-v-state",
+    "case_name_short": "Wallace",
+    "case_name": "Wallace v. State",
+    "case_name_full": "Wallace v. State",
+    "attorneys": "W; W. Armistead, HmviUon McWhorter, for plaintiff in error., A. S. Shelton, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "48 Ga. App. 303"
+    ],
+    "opinions": [
+        {
+            "author_str": "Broyles",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBroyles, C. J.\n1. The defendant was convicted of an assault with intent to murder. One of the grounds in his motion for a new trial complains of the failure of the court to instruct the jury upon the law of voluntary manslaughter. The question of manslaughter was raised solely by the defendant\u2019s statement to the jury, and, while the statement would have authorized a charge upon the subject of manslaughter (Reeves v. State, 22 Ga. App. 628, 97 S. E. 115), the failure so to charge was not error, in the absence of an appropriate and timely request. If the theory of manslaughter is raised by the defendant\u2019s statement alone, a charge on the law of manslaughter would be proper; and if timely requested, a refusal so to charge would be error. Cain v. State, 7 Ga. App. 24 (65 S. E. 1069); McLendon v. State, 172 Ga. 267 (2) (157 S. E. 475).\n*304Decided January 23, 1934.\nW; W. Armistead, HmviUon McWhorter, for plaintiff in error.\nA. S. Shelton, solicitor-general, contra.\n2. Under tlie principle of tlie foregoing ruling and tlie facts of the case, the failure of the court to charge upon the law of shooting at another was not error.\n3. \u201cThe law is well settled that when a judge undertakes to charge the law on any subject, he must charge all of it upon that subject that is material and applicable to the case. In this case the court having undertaken to charge the jury upon the general subject of the impeachment of witnesses, the sustaining of impeached witnesses, and the credit to be given to witnesses whose impeachment was attempted, it was likewise his duty to instruct the jury as to what weight, if any, should be given to the testimony of any witness whom they might find to have been successfully impeached.\u201d Harper v. State, 17 Ga. App. 561 (2) (87 S. E. 808). Under this ruling and the facts of the instant case, the court erred in failing to instruct the jury, even in the absence of an appropriate and timely request, as to what weight, if any, should be given to the testimony of any witness whom they might find to have been successfully impeached.\n4. The general grounds of the motion for a new trial are not passed upon.\n5. The refusal to grant a new trial was error.\n\nJudgment reversed.\n\n\nMacIntyre and Guerry, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5623643
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

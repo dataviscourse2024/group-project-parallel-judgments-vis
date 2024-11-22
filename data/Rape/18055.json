@@ -1,8 +1,8 @@
 {
     "id": 2389508,
     "judges": "Beatty",
-    "date_filed": 1300665600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-09-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hatcher",
     "case_name_short": "Hatcher",
     "case_name": "State v. Hatcher",

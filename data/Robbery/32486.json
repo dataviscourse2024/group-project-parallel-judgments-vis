@@ -1,8 +1,8 @@
 {
     "id": 5842366,
     "judges": null,
-    "date_filed": 1144713600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-09-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-covington",
     "case_name_short": "Covington",
     "case_name": "People v. Covington",

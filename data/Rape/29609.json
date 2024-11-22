@@ -1,0 +1,46 @@
+{
+    "id": 5261545,
+    "judges": "Curiaim, Ellis, Lowenstein, Ulrich",
+    "date_filed": "1993-06-29",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-jackson",
+    "case_name_short": null,
+    "case_name": "State v. Jackson",
+    "case_name_full": "STATE of Missouri v. Stephen JACKSON, Appellant Stephen JACKSON v. STATE of Missouri",
+    "attorneys": "Laura G. Martin, Asst. Appellate Defender, Kansas City, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Jefferson City, Philip M. Koppe, Asst. Atty. Gen., Kansas City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "903 S.W.2d 296"
+    ],
+    "opinions": [
+        {
+            "author_str": "Curiaim",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nORDER\n\nPER CURIAIM:\nDefendant appeals jury convictions of one count of forcible rape, \u00a7 566.030, two counts of armed criminal action, \u00a7 571.015, and one count of assault in the first degree, \u00a7 565.050, and sentences of 30 years imprisonment for the forcible rape to be served concurrently with sentences of 20 years each for the armed criminal action counts, and a consecutive life sentence for assault in the first degree. He also appeals the denial of his Rule 29.15 postconviction motion after hearing.\nThe judgment of conviction is affirmed. Rule 30.25(b). The judgment denying post-conviction relief is affirmed. Rule 84.16(b).\n",
+            "ocr": true,
+            "opinion_id": 5088608
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Rape"
+}

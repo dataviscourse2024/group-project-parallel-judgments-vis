@@ -1,0 +1,46 @@
+{
+    "id": 5986836,
+    "judges": null,
+    "date_filed": "1984-12-05",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-chan",
+    "case_name_short": "Chan",
+    "case_name": "People v. Chan",
+    "case_name_full": "The People of the State of New York v. Simon Chan",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "81 A.D.2d 765"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Order, Supreme Court, New York County, entered on March 11, 1981, granting defendant\u2019s motion to dismiss the indictment on grounds that his rights to a speedy trial pursuant to CPL 30.30 had been violated, unanimously reversed, on the law, the motion to dismiss the indictment is denied, and the indictment is reinstated. The People appeal from a Trial Term order granting defendant\u2019s motion to dismiss the indictment on the ground of an alleged violation of his rights under CPL 30.30. The defendant was indicted for attempted murder in the second degree. While on bail, under circumstances not fully developed in this record, defendant was incarcerated in a New Hampshire prison to serve a term of V\u00e1 years to 5 years. On May 5, 1980, defense counsel informed the court and the then assigned District Attorney of the facts and nature of this detention. On August 4, 1980, a bench warrant was issued for defendant\u2019s arrest. Thereafter, on October 17, 1980, Trial Term signed a detainer which had been prepared by a newly assigned District Attorney in accordance with the provisions of the Interstate Agreement on Detainers (CPL art 580), and which was lodged with the New Hampshire authorities on October 28, 1980. The defendant was returned to New York on December 3, 1980 at which time the People announced their immediate readiness for trial. In granting the defendant\u2019s motion to dismiss the indictment, Trial Term concluded that the District Attorney had not exercised due diligence in securing the defendant\u2019s return to confront the charges against him. Calculating the period that elapsed between May 5, 1980 and the defendant\u2019s return on December 3, 1980 as 211 days, the court found excludable only a 30-day period following the lodging of the detainer, on the basis that CPL 580.20 (art IV), provides such a period for the sending State to honor the request for custody. The court declined to view as excludable the additional five days actually required for the transfer. Subtracting this 30-day period from the 211 calculated, Trial Term determined that a nonexcludable period of 181 days had elapsed, requiring that the motion to dismiss the indictment be granted. We agree that the record supports the conclusion that the District Attorney had not acted with due diligence for some period of time. However we fail to see any basis for not regarding as excludable the entire period that elapsed from the filing of the detainer to the return of the defendant. Accordingly, at least five more days are excludable. Moreover the record shows that in September, following the resignation of the District Attorney originally assigned, the newly assigned District Attorney acted appropriately and diligently with regard to the problem. We need not decide whether all of the period following his assignment should be deemed excludable. It seems quite reasonable that some days attributable to the gathering of information, the preparation of forms, and the securing of approval from, superiors in the District Attorney\u2019s office, should be so considered. Accordingly, we find that no violation of CPL 30.30 occurred under all the circumstances. Concur \u2014 Sandler, J.P., Sullivan, Ross, Bloom and Fein, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5847267
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 5082761,
+    "judges": "Morrow",
+    "date_filed": "1990-10-01",
+    "date_filed_is_approximate": true,
+    "slug": "jeanes-v-state",
+    "case_name_short": "Jeanes",
+    "case_name": "Jeanes v. State",
+    "case_name_full": "Walter Jeanes v. State",
+    "attorneys": "Wallace Hughston, of McKinney, for appellant., Lloyd W. Davidson, State\u2019s Attorney, of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "119 Tex. Crim. 493",
+        "43 S.W.2d 97"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrow",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMORROW, Presiding Judge.\nNegligent homicide in the second degree is the offense; penalty, assessed at confinement in the county jail for two years.\n*494No statement of facts accompanies the record; nor have we been favored with a brief.\nIn the motion for new trial there is an effort to set out the evidence, but in that form and unverified by the trial judge, it cannot be given consideration.\nThere is an absence of bills of exception.\nThere is a suggestion of a prior conviction, but the record is void of a plea of former conviction. See articles 508 and 509, C. C. P., 1925. In order to authorize the consideration of the complaint that the appellant had been previously convicted of the same offense, pleading in the trial court is essential. See Lee v. State, 66 Texas Crim. Rep., 567, 148 S. W., 567; articles 508 and 509, supra; also Branch\u2019s Ann. Tex. P. C., sec. 630. In article 508, supra, the plea of former conviction is classified as a special plea; and under article 609, it is said: \u201cEvery special plea shall be verified by the affidavit of the defendant.\u201d\nArticle 510, C. C. P., provides that all issues of fact presented by a special plea shall be tried by a jury. Many cases uphold the general principle that the issue of former conviction must be presented by written and verified plea. See annotations in Vernon\u2019s Ann. Tex. C. C. P., 1925, vol. 1, pp. 398-401.\nThe judgment is affirmed.\n\nAffirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 4898683
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

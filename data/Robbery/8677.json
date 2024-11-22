@@ -1,8 +1,8 @@
 {
     "id": 1870313,
     "judges": "Walker, C.J., Burgess and Stover",
-    "date_filed": 945820800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-05-24",
+    "date_filed_is_approximate": true,
     "slug": "long-v-state",
     "case_name_short": "Long",
     "case_name": "Long v. State",

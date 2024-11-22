@@ -1,0 +1,46 @@
+{
+    "id": 5914177,
+    "judges": null,
+    "date_filed": "2007-01-11",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-santiago",
+    "case_name_short": "Santiago",
+    "case_name": "People v. Santiago",
+    "case_name_full": "The People of the State of New York v. Luis Santiago",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "33 A.D.2d 522"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOrder of the Supreme Court, Kings County, dated February 17, 1969, affirmed. The instant coram- nobis application, to vacate a judgment of conviction rendered in 1957 on defendant\u2019s plea of guilty of manslaughter in the first degree during trial, was based in substance on his claim that the trial court had erred in failing to inquire into his sanity before accepting his plea and imposing sentence. We find that the question of defendant\u2019s mental condition had not been presented at the time of plea and sentence and coram nobis may therefore be availed of to put that issue before the court. (People v. Boundy, 10 N Y 2d 518, 521-522; People v. Brown, 13 N Y 2d 201, 204-205; People v. Bangert, 22 N Y 2d 799). On the merits, however, we are of the opinion that the motion was properly denied. Prior to defendant\u2019s trial, he was committed for examination pursuant to section 658 of the Code of Criminal Procedure and found sane and capable of understanding the charge arid proceedings against him and of making his defense. At the times of the guilty plea and the sentence there was no claim that defendant was insane and there is- no history of confinement to mental institutions either prior to the *523commission of the crime or since he commenced to serve the sentence imposed upon him. Under such circumstances, there was no duty upon the sentencing court to conduct an inquiry into defendant\u2019s sanity prior to accepting his plea; and there was no necessity for a hearing on the coram nobis application (cf. People v. Smyth, 3 N Y 2d 184). We have not considered other questions, raised in defendant\u2019s brief, which were not presented to or passed upon by the Criminal Term. Beldock, Acting P. J., Christ, Brennan, Rabin and Hopkins, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5771803
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1252523,
     "judges": "Mac Q. Williamson",
-    "date_filed": -613958400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-09-12",
+    "date_filed_is_approximate": true,
     "slug": "ex-parte-grimes",
     "case_name_short": null,
     "case_name": "Ex Parte Grimes",

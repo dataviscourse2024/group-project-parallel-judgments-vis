@@ -1,8 +1,8 @@
 {
     "id": 2361236,
     "judges": "Garaufis",
-    "date_filed": 1115078400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-02-06",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-urso",
     "case_name_short": "Urso",
     "case_name": "United States v. Urso",

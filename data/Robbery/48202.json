@@ -1,8 +1,8 @@
 {
     "id": 9005502,
     "judges": "Roth, Scirica, Stapleton",
-    "date_filed": 698889600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-04-03",
+    "date_filed_is_approximate": true,
     "slug": "wise-v-fulcomer",
     "case_name_short": "Wise",
     "case_name": "Wise v. Fulcomer",

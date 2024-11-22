@@ -1,8 +1,8 @@
 {
     "id": 8700149,
     "judges": "Silverman, Smith, Tallman",
-    "date_filed": 1506643200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-02-26",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-dominguez-valencia",
     "case_name_short": "Dominguez-Valencia",
     "case_name": "United States v. Dominguez-Valencia",

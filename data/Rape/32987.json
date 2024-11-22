@@ -1,0 +1,47 @@
+{
+    "id": 5944808,
+    "judges": "Garry",
+    "date_filed": "2011-06-19",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-simmonds",
+    "case_name_short": "Simmonds",
+    "case_name": "People v. Simmonds",
+    "case_name_full": "The People of the State of New York v. George L. Simmonds",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "74 A.D.3d 1505",
+        "902 N.Y.S.2d 256"
+    ],
+    "opinions": [
+        {
+            "author_str": "Garry",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGarry, J.\nAppeal from an order of the County Court of Broome County (Smith, J.), entered February 3, 2009, which classified defendant as a risk level two sex offender pursuant to the Sex Offender Registration Act.\nIn April 1998, defendant was 40 years old and living in Pennsylvania when he was introduced\u2014through the Internet\u2014to a female living in Missouri whom he believed was 18 years old. The two began to converse regularly. Approximately two months after their initial conversation, the victim informed defendant that she was 15 years old; in fact, she was then only 12 years old. Under the impression that the victim was 15 years old, defendant arranged to meet her, and thereafter subjected her to multiple sexual acts.\nIn December 1998, defendant pleaded guilty in Missouri to *1506statutory rape in the first degree and statutory sodomy in the first degree. Six weeks later, he pleaded guilty to the federal crime of traveling in interstate commerce for the purpose of engaging in a sex act with a person under the age of 18. Upon his release from prison in 2008, defendant relocated to Broome County, whereupon the Board of Examiners of Sex Offenders prepared a risk assessment instrument in which defendant was assigned 80 points, placing him in the presumptive risk level two category pursuant to the Sex Offender Registration Act (see Correction Law art 6-C). Following a hearing at which County Court assigned defendant an additional 20 points under risk factor 4 for engaging in a continuing course of sexual contact, defendant was classified as a risk level two sex offender. Defendant appeals.\nCounty Court was not bound by the Board\u2019s recommendation relative to risk factor 4 (see People v Legall, 63 AD3d 1305, 1306 [2009], lv denied 13 NY3d 706 [2009]; People v Arotin, 19 AD3d 845, 847 [2005]; People v Borato, 291 AD2d 580, 580-581 [2002]). In analyzing this factor, \u201can offender has engaged in a continuing course of sexual contact when he engages in . . . two or more acts of sexual contact, at least one of which is an act of sexual intercourse, oral sexual conduct, anal sexual conduct, or aggravated sexual conduct, which acts are separated in time by at least 24 hours\u201d (Sex Offender Registration Act: Risk Assessment Guidelines and Commentary, at 10 [2006]). Defendant\u2019s statement to federal investigators indicated that he performed oral sex on the victim before leaving a parking lot of an amusement park where they met at approximately 12:10 p.m. on July 25, 1998. Later that day they engaged in further sexual conduct, including sexual intercourse in a hotel in Indiana. The following day, defendant and the victim left the hotel after 11:00 a.m. With frequent stops, the two then drove approximately 224 miles to a park in Ohio, where they again engaged in sexual intercourse. Defendant\u2019s admission regarding these events, supported by the victim\u2019s statement, is sufficient to establish a continuing course of sexual contact by clear and convincing evidence (see People v Taylor, 48 AD3d 775, 776 [2008], lv denied 10 NY3d 711 [2008]; compare People v Redcross, 54 AD3d 1116, 1116-1117 [2008]).\nAs to the 20 points assessed under risk factor 7, proof was required to establish that the crime \u201cwas directed at a stranger or a person with whom a relationship had been established or promoted for the primary purpose of victimization\u201d (Sex Offender Registration Act: Risk Assessment Guidelines and Commentary, at 12 [2006]). Here, defendant and the victim first met *1507in an on-line chat room intended for adults, and the victim initially represented to defendant that she was 18 years old. Their frequent phone and e-mail conversations over the next two months proceeded under that guise, and the victim stated that they never discussed sexual matters. The People failed to refute defendant\u2019s assertion that the victim had sent him a picture\u2014ostensibly of herself\u2014depicting a mature, adult woman, nor that he decided to travel to Missouri only after the victim falsely described her circumstances so as to make it appear that she needed to escape her household. Notably, there is no indication that defendant had victimized a child in the past and there was no child pornography found on defendant\u2019s home computer (see generally People v Stein, 63 AD3d 99, 101 [2009]); rather, defendant appears to have a history of attempting to form relationships with adult women over the Internet. In light of these facts, the People\u2019s bare assertion that defendant was \u201cgrooming\u201d the victim because he ultimately believed her to be 15 years old does not constitute clear and convincing evidence to support the assessment of points under this factor (cf. People v Mollenkopf, 54 AD3d 1136, 1137 [2008]).\nEven with this 20-point reduction in his assessment score, however, the resulting total of 80 points still results in a risk level two classification. County Court adequately set forth its findings and determination, and we reject defendant\u2019s contention that a downward departure is warranted. Accordingly, we find no basis to disturb the order (see People v Callan, 62 AD3d 1218, 1219 [2009]; People v Jackson, 47 AD3d 1135, 1136 [2008], lv denied 10 NY3d 709 [2008]).\nCardona, P.J., Mercure, Peters and Kavanagh, JJ., concur. Ordered that the order is affirmed, without costs.\n",
+            "ocr": true,
+            "opinion_id": 5803387
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

@@ -1,8 +1,8 @@
 {
     "id": 8271851,
     "judges": "Doyle",
-    "date_filed": 1466035200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-09-30",
+    "date_filed_is_approximate": true,
     "slug": "mitchell-v-state",
     "case_name_short": null,
     "case_name": "Mitchell v. State",

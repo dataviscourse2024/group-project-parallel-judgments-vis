@@ -1,0 +1,46 @@
+{
+    "id": 5448062,
+    "judges": "Ahuja, Ardini, Witt",
+    "date_filed": "1975-08-05",
+    "date_filed_is_approximate": true,
+    "slug": "kellner-v-state",
+    "case_name_short": "Kellner",
+    "case_name": "Kellner v. State",
+    "case_name_full": "Keith KELLNER v. STATE of Missouri",
+    "attorneys": "William J. Swift, for Appellant., Christine K. Lesicko, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "515 S.W.3d 268"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nPER CURIAM:\nKeith Kellner (\u201cKellner\u201d) appeals the judgment of the Circuit Court of Cole County denying his motion for post-conviction relief under Missouri Supreme Court Rule 29.15 after an evidentiary hearing. Kellner\u2019s motion follows his convictions for one count of murder in the first degree and one count of armed criminal action. Kellner argues that the motion court erred in denying his claim that his trial counsel was ineffective. Finding no error, we affirm. Because a published opinion would have no precedential value, a memorandum of law has been provided to the parties. Missouri Supreme Court Rule 84.16(b).\n",
+            "ocr": true,
+            "opinion_id": 5286782
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

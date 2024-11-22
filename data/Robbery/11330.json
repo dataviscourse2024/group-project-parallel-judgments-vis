@@ -1,8 +1,8 @@
 {
     "id": 1290541,
     "judges": "Berman",
-    "date_filed": 271555200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-12-08",
+    "date_filed_is_approximate": true,
     "slug": "people-v-blackorby",
     "case_name_short": "Blackorby",
     "case_name": "People v. Blackorby",

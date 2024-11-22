@@ -1,8 +1,8 @@
 {
     "id": 2617706,
     "judges": "Miller, Six",
-    "date_filed": 625449600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-04-05",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hartfield",
     "case_name_short": "Hartfield",
     "case_name": "State v. Hartfield",

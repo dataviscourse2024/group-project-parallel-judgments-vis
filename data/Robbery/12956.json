@@ -1,8 +1,8 @@
 {
     "id": 1576689,
     "judges": "Erickstad, Paul-Son, Pederson, Sand, Vande, Walle",
-    "date_filed": 403920000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-02-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-werre",
     "case_name_short": "Werre",
     "case_name": "State v. Werre",

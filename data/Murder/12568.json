@@ -1,8 +1,8 @@
 {
     "id": 1515461,
     "judges": "Bois, Lampron",
-    "date_filed": 220752000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-06-12",
+    "date_filed_is_approximate": true,
     "slug": "gibbs-v-helgemoe",
     "case_name_short": "Gibbs",
     "case_name": "Gibbs v. Helgemoe",

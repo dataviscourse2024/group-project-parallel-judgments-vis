@@ -1,8 +1,8 @@
 {
     "id": 6118284,
     "judges": null,
-    "date_filed": 786240000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-06-25",
+    "date_filed_is_approximate": true,
     "slug": "people-v-menese",
     "case_name_short": "Menese",
     "case_name": "People v. Menese",

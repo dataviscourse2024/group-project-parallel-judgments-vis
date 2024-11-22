@@ -1,8 +1,8 @@
 {
     "id": 7867526,
     "judges": "Hart",
-    "date_filed": -1491091200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-10-30",
+    "date_filed_is_approximate": true,
     "slug": "barron-v-state",
     "case_name_short": "Barron",
     "case_name": "Barron v. State",

@@ -1,8 +1,8 @@
 {
     "id": 4772017,
     "judges": null,
-    "date_filed": 1594339200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-11-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-ely",
     "case_name_short": "Ely",
     "case_name": "State v. Ely",

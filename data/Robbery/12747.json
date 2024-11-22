@@ -1,8 +1,8 @@
 {
     "id": 1538722,
     "judges": "Eagen, Jones, Manderino, Nix, O'Brien, Pomeroy, Roberts",
-    "date_filed": 151113600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-01-10",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-johnson",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Johnson",

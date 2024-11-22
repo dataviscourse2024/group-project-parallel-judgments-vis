@@ -1,8 +1,8 @@
 {
     "id": 2819685,
     "judges": "Botsford, Cordy, Gants, Hines, Spina",
-    "date_filed": 1437609600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-09-04",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-melo",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Melo",

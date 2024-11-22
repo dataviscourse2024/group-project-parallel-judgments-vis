@@ -1,0 +1,46 @@
+{
+    "id": 7827149,
+    "judges": "Baschab, Cobb, McMillan, Shaw, Wise",
+    "date_filed": "2013-02-22",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-walker",
+    "case_name_short": "Walker",
+    "case_name": "State v. Walker",
+    "case_name_full": "Ex parte Freddie Buford WALKER. (In re State of Alabama v. Freddie Buford Walker)",
+    "attorneys": "Tommy Ray Scarborough, Dothan, for petitioner., William H. Pryor, Jr., atty. gen., and H. Clay Barnett III, asst. atty. gen., for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "881 So. 2d 1064"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nFreddie Buford Walker petitions for a writ of habeas corpus directing Judge Denny L. Holloway to lower his bail, which was set at $750,000. Walker was arrested in December 2001 and charged with sodomy, rape, and kidnapping. Walker\u2019s bail was set at $750,000 \u2014 $250,000 for each offense. In July 2002, Walker filed a habeas *1065corpus petition in the Circuit Court of Houston County requesting that his bail be lowered. That petition was denied; this original habeas corpus petition followed.\nBecause the bail in this case was substantially higher than the amount recommended in the bail schedule in Rule 7.2, Ala.R.Crim.P., we directed the respondents to answer the allegations in the petition. The State has responded by requesting that we remand this case to the circuit court for that court to state its reasons for setting bail at $750,000. Walker is charged with three Class A felonies. The bail schedule contained in Rule 7.2, Ala. R.Crim.P., recommends that bail for a Class A felony be set between $3,000 and $30,000.\nThe State\u2019s request that we remand this case is consistent with prior caselaw. In Ex parte Thomas, 815 So.2d 592 (Ala. Crim.App.2001), we remanded the case for the lower court to state its reasons for setting bail at $1,000,000 for three counts of felony murder. See also Ex parte Pruitt, 673 So.2d 836 (Ala.Crim.App.1996).\nFor the reasons stated above, this case is remanded to the Circuit Court of Houston County for that court to state its reasons for setting Walker\u2019s bail at $750,000. Due return should be filed in this Court no later than 14 days from the date of this opinion.\nREMANDED WITH DIRECTIONS. \nMcMILLAN, P.J., and COBB, BASCHAB, SHAW, and WISE, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7769354
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Rape"
+}

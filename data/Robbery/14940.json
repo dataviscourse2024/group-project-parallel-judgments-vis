@@ -1,8 +1,8 @@
 {
     "id": 1308869,
     "judges": "Harry C. Martin",
-    "date_filed": 342144000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-03-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-murphy",
     "case_name_short": null,
     "case_name": "State v. Murphy",

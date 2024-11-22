@@ -1,8 +1,8 @@
 {
     "id": 4766520,
     "judges": null,
-    "date_filed": 1594166400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-03-25",
+    "date_filed_is_approximate": true,
     "slug": "people-v-murry",
     "case_name_short": "Murry",
     "case_name": "People v. Murry",

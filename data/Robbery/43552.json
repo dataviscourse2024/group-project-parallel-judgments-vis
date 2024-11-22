@@ -1,8 +1,8 @@
 {
     "id": 8058027,
     "judges": "Burgess, Gantt, Pox",
-    "date_filed": -2052864000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-03-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-nave",
     "case_name_short": "Nave",
     "case_name": "State v. Nave",

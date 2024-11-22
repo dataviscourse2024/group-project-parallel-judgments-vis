@@ -1,8 +1,8 @@
 {
     "id": 8288287,
     "judges": null,
-    "date_filed": 1554249600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-08-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-moore",
     "case_name_short": "Moore",
     "case_name": "State v. Moore",

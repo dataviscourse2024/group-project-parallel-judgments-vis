@@ -1,0 +1,47 @@
+{
+    "id": 4161014,
+    "judges": "Christian",
+    "date_filed": "1984-09-05",
+    "date_filed_is_approximate": true,
+    "slug": "jones-v-state",
+    "case_name_short": "Jones",
+    "case_name": "Jones v. State",
+    "case_name_full": "Hugh R. Jones v. the State",
+    "attorneys": "Conrad E. Smith  of Houston, for appellant.\n\n A. A. Dawson  of Canton, State's Attorney, for the state.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the Criminal District Court of Harris County. Tried below before the Hon. Whit Boyd, Judge.\n\nAppeal from a conviction of murder, penalty five years in the penitentiary.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b49-2\">\n    Hugh R. Jones v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b49-3\">\n    No. 12128.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AMi\">\n    Delivered February 13, 1929.\n   </decisiondate><br><p data-order=\"3\" data-type=\"summary\" id=\"b49-16\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b49-17\">\n<em>\n     Conrad E. Smith\n    </em>\n    of Houston, for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b49-18\">\n<em>\n     A. A. Dawson\n    </em>\n    of Canton, State\u2019s Attorney, for the state.\n   </attorneys>",
+    "citations": [
+        "13 S.W.2d 845",
+        "112 Tex. Crim. 31"
+    ],
+    "opinions": [
+        {
+            "author_str": "Christian",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "The offense is murder; the punishment confinement in the penitentiary for five years.\nDeceased, Leroy Gray, stated in his dying declaration that appellant entered his room and shot him. The wife of deceased, who *Page 32 \nhad formerly been appellant's wife, was present when deceased was shot. Testifying for appellant she stated that appellant entered the room occupied by her and her husband; that she secured a pistol from under her pillow and pointed it at appellant for the purpose of keeping him out of the room; that in her excitement she fired the pistol; that the bullet struck deceased. After lingering for several weeks, deceased died.\nBeing unable to find the bullet in the body of deceased, the doctors advised the wife of deceased that unless she told them the truth concerning the shooting deceased would die. Thereupon, in the presence of deceased, she told the doctors that she had shot deceased and described to them the relative positions of appellant, deceased and herself at the time the shot was fired. Pursuant to her statement, the bullet was located. Deceased was conscious and understood his wife's statement. As shown by bill of exception Number 1, appellant offered to prove by one of the doctors that, while the statement referred to was being made, it seemed to him that deceased nodded his head as if affirming such statement. This testimony was offered for the purpose of contradicting the dying declaration. In excluding the statement of the doctor, the court advised appellant's counsel that only what deceased himself said would be admissible in evidence. It was proper, for the purpose of contradicting the dying declaration, to show that deceased affirmed the statement made by his wife. The fact that he signified his affirmance by nodding his head instead of making verbal affirmance would not within itself militate against the admissibility of the testimony. If deceased had survived and testified to the facts shown by his dying declaration, the proffered testimony would have been admissible as tending to contradict his testimony. His adoption of the statement of his wife made it his statement. The wife's statement was directly contradictory of the dying declaration. A dying declaration may be contradicted by the declarant's statement or otherwise to the same effect as the testimony of a witness. While a dying declaration is hearsay, it is received in evidence by reason of necessity. A rule which would deprive the accused of the right to impeach \"the credit of the deceased by proof of his having made contradictory statements as to the homicide and its cause\" would be unjust, and it is the announcement of the decisions that where dying declarations are admissible in evidence, other statements of deceased are admissible if they tend to impeach or contradict or depreciate *Page 33 \nthe value of the dying declaration. Fleming v. State,274 S.W. 616; McCorquodale v. State, 98 S.W. 879.\nIt is shown by bill of exception Number 2 that appellant was required to testify on cross examination, over his objection, that he had been arrested for vagrancy and had paid a fine therefor. This testimony ought not to have been received, and in the state of the record its receipt constitutes reversible error. Neither the accused nor any other witness can be legally impeached by proof that he has been arrested for, charged with, or convicted of a misdemeanor, unless such misdemeanor involves moral turpitude. Ellis v. State, 117 S.W. 978; Neyland v. State, 187 S.W. 196. In McIntosh v. State, 239 S.W. 622, it was held that if it be shown that the vagrancy conviction or arrest was for that form of vagrancy consisting of being a common prostitute or an inmate of a house of prostitution, moral turpitude is involved. The rule in the McIntosh Case is not applicable to vagrancy convictions dependent upon proof of other things than prostitution. Steele v. State, 251 S.W. 222.\nFor the errors discussed, the judgment is reversed and the cause remanded.\nReversed and remanded.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court.",
+            "ocr": false,
+            "opinion_id": 3926955
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

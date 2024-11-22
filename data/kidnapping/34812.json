@@ -1,8 +1,8 @@
 {
     "id": 6317100,
     "judges": "Sobel",
-    "date_filed": -165974400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-03-07",
+    "date_filed_is_approximate": true,
     "slug": "people-v-roach",
     "case_name_short": "Roach",
     "case_name": "People v. Roach",

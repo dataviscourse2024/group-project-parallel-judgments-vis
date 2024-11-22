@@ -1,8 +1,8 @@
 {
     "id": 1809896,
     "judges": "Savoy, Hood and Miller",
-    "date_filed": 95904000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-03-27",
+    "date_filed_is_approximate": true,
     "slug": "brasseaux-v-girouard",
     "case_name_short": "Brasseaux",
     "case_name": "Brasseaux v. Girouard",

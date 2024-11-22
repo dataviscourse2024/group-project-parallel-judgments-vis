@@ -1,0 +1,46 @@
+{
+    "id": 5740401,
+    "judges": "Atkinson, Bell, From, Grice, Headnote, Ruling, Russell, Who",
+    "date_filed": "1983-02-06",
+    "date_filed_is_approximate": true,
+    "slug": "mcbride-v-state",
+    "case_name_short": "McBride",
+    "case_name": "McBride v. State",
+    "case_name_full": "McBRIDE v. State",
+    "attorneys": "Joe Schreiber and John W. Bennett Jr., for plaintiff in error., M. J. Yeomans, attorney-general, H. O. Morgan, solicitor-general, Bilis G. Arnall, B. J. Glower, and Bruce B. Green, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "186 Ga. 826"
+    ],
+    "opinions": [
+        {
+            "author_str": "Grice",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGrice, Justice.\n1. To resist by force' an illegal arrest is one thing. To submit to an illegal arrest, and then to kill the officer who made the arrest, is another. The unlawful arrest would have justified the defendant in breaking away, resisting and repelling force with force. Coleman v. State, 121 Ga. 594, 599 (49 S. E. 716). The verdict can and must stand on the bare proposition that .even though the arrest, or attempted arrest, of the defendant by Thomas, without a warrant, was illegal, nevertheless, after the defendant, without question, had submitted to the arrest, and (according to the testimony of an eye-witness who testified for the State) before the deceased had even as much as laid his hands upon the defendant, or by word or act made any threat against the defendant, the defendant arose from the cot where he was seated and began shooting the deceasd. According to that witness, Thomas had made no assault upon the defendant. At most, to arrest the defendant without a warrant constituted only a trespass, and such action on the part of the deceased did not justify the felonious assault made upon him by the defendant. The jury had a right to find that the assault made upon the deceased by the defendant in resisting the arrest was so utterly unreasonable, and so unreasonably disproportionate to the provocation on the part of the officer, that malice may be implied from the circumstances. That the defendant had the right to resist an illegal arrest by all means which were reasonably necessary for the purpose is conceded. If the officer had used any force or show of force in attempting the arrest, the defendant would have had the right to meet force with force. But the testimony of Bay, the eye-witness testifying for the State, is that the deceased, although *830he had a pistol upon his person, did not draw the pistol or have his hands on it until defendant fired the first shot. Thus, after submitting to the illegal arrest by officer Thomas, if defendant had any doubt as to the authority of the officer to make the arrest, it was his duty to.request the officer to show the warrant or to explain his actions in the absence of the warrant. This he did not afford the officer an opportunity to do, but immediately drew his pistol and began to shoot. Under such circumstances the crime could be nothing less than murder. In Norton v. State, 137 Ga. 842 (3) (74 S. E. 759), it was said: \u201cThe mere fact of unlawful arrest will not alone authorize the killing of the officer making it.\u201d In Howell v. State, 162 Ga. 14, 16 (134 S. E. 59), it was ruled: \u201c(a) \u2018The mere fact of an unlawful arrest will not alone authorize the killing of an officer making it. But if, in the progress of the transaction, the officer is about to commit a felony upon the other party, or so acts and makes such show of violence as to excite in the person sought to be arrested the fears of a reasonable man that a felony is about to be committed on him, and such person acts under the influence of those fears and not in a spirit of revenge, he may protect himself, although it may be necessary to slay the officer for that purpose.\u2019 (6) If the motive of one shooting and killing another is solely to prevent an illegal arrest, he would be guilty of manslaughter; but if such an one shoots and kills another at a time when there is no actual or apparent necessity to do so, either to save his own life or to prevent a felonious assault from being committed upon him, he would be guilty of murder.\u201d\nHeadnotes 2 to 6, inclusive, state all that need further be said concerning the grounds of the motion. If the evidence for the State was believed by the jury, they were authorized to find the defendant guilty of murder.\n\nJudgment affirmed.\n\n\nAll the Justices concur, except\n\nRussell, C. J., who dissents from the judgment, and Atkinson, P. J\\, who dissents from the ruling in headnote 3. Bell, J., concurs in the judgment.\n",
+            "ocr": true,
+            "opinion_id": 5591956
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

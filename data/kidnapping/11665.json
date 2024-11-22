@@ -1,8 +1,8 @@
 {
     "id": 613210,
     "judges": "Alarcon, O'Scannlain, Silverman",
-    "date_filed": 1315267200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-05-05",
+    "date_filed_is_approximate": true,
     "slug": "peba-v-holder",
     "case_name_short": "Peba",
     "case_name": "Peba v. Holder",

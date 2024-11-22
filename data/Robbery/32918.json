@@ -1,8 +1,8 @@
 {
     "id": 5926825,
     "judges": null,
-    "date_filed": 1258416000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-10-26",
+    "date_filed_is_approximate": true,
     "slug": "in-re-daniel-h",
     "case_name_short": null,
     "case_name": "In re Daniel H.",

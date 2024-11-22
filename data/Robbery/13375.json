@@ -1,8 +1,8 @@
 {
     "id": 1655594,
     "judges": "Altenbernd",
-    "date_filed": 998438400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-03-06",
+    "date_filed_is_approximate": true,
     "slug": "brown-v-state",
     "case_name_short": "Brown",
     "case_name": "Brown v. State",

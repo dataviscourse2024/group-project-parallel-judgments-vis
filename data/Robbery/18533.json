@@ -1,8 +1,8 @@
 {
     "id": 2475424,
     "judges": "Rufe",
-    "date_filed": 1159488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-03-29",
+    "date_filed_is_approximate": true,
     "slug": "jeanes-hospital-v-leavitt",
     "case_name_short": "Leavitt",
     "case_name": "Jeanes Hospital v. Leavitt",

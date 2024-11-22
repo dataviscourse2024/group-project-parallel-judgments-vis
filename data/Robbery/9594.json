@@ -1,8 +1,8 @@
 {
     "id": 2678984,
     "judges": "Robert J. Gladwin",
-    "date_filed": 1403049600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-03-23",
+    "date_filed_is_approximate": true,
     "slug": "mangum-v-state",
     "case_name_short": "Mangum",
     "case_name": "Mangum v. State",

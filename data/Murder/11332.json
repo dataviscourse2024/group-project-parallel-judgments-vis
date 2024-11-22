@@ -1,8 +1,8 @@
 {
     "id": 1290819,
     "judges": "Atkinson, Head",
-    "date_filed": -585705600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-06-10",
+    "date_filed_is_approximate": true,
     "slug": "reece-v-state",
     "case_name_short": "Reece",
     "case_name": "Reece v. State",

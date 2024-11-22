@@ -1,8 +1,8 @@
 {
     "id": 1807342,
     "judges": "Baskin, Cope and Gersten",
-    "date_filed": 739497600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-04-20",
+    "date_filed_is_approximate": true,
     "slug": "rodriguez-v-state",
     "case_name_short": "Rodriguez",
     "case_name": "Rodriguez v. State",

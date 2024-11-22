@@ -1,8 +1,8 @@
 {
     "id": 7997565,
     "judges": "Bird, Clark, Moore, Sharpe, Steere, Stone, Wiest",
-    "date_filed": -1529107200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-07-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cahill",
     "case_name_short": "Cahill",
     "case_name": "People v. Cahill",

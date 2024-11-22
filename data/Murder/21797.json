@@ -1,0 +1,47 @@
+{
+    "id": 3245197,
+    "judges": "Bricken",
+    "date_filed": "2008-02-18",
+    "date_filed_is_approximate": true,
+    "slug": "higdon-v-state",
+    "case_name_short": "Higdon",
+    "case_name": "Higdon v. State",
+    "case_name_full": "Higdon v. State.",
+    "attorneys": "Frank Andress, of Birmingham, for appellant.\n\nBrief of counsel did not reach the Reporter.\n\nCharlie C. McCall, Atty. Gen., and W. M. Rayburn, Asst. Atty. Gen., for the State.\n\nFacts not tending to prove or disprove a charge are not admissible. Butler v. State,  16 Ala. App. 234 ,  77 So. 72 ; Ward v. State,  19 Ala. App. 398 ,  98 So. 208 ; Folmar v. State, 19 Ala. App. 435 ,  97 So. 768 . The clothing introduced had some tendency to shed light upon some material inquiry in the case, and was admissible. Boyette v. State,  215 Ala. 472 , 110 So. 812 . Charge 4 was properly refused. McClain v. State,  182 Ala. 67 , 62 So. 241 ; Adkins v. State,  16 Ala. App. 181 ,  76 So. 465 . Charge 9 is not the law.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Circuit Court, Jefferson County; John P. McCoy, Judge.\n\nJoe Higdon was convicted of assault and battery, and he appeals. Affirmed.\n\nCharge 4, refused to defendant, is as follows:\n\n\"I charge you, gentlemen of the jury, that if any individual juror has a reasonable doubt of the guilt of the defendant, then, in that event, you cannot convict him.\"",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<citation id=\"b44-19\">\n    (111 So. 757)\n   </citation><br><parties id=\"b44-20\">\n    HIGDON v. STATE.\n   </parties><citation id=\"ABv\">\n    (6 Div. 73.)\n   </citation><br><court id=\"b44-21\">\n    (Court of Appeals of Alabama.\n   </court><decisiondate id=\"AJM\">\n    March 22, 1927.)\n   </decisiondate><br><attorneys id=\"b45-8\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"29\"> \n     *29\n     </span>\n    Frank Andress, of Birmingham, for appellant.\n   </attorneys><br><attorneys id=\"b45-9\">\n    Brief of counsel did not reach the Reporter.\n   </attorneys><br><attorneys id=\"b45-10\">\n    Charlie C. McCall, Atty. Gen., and W. M. Rayburn, Asst. Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "111 So. 757",
+        "22 Ala. App. 28"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bricken",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6110.0,
+            "opinion_text": "The indictment charged the appellant, defendant below, with an assault with intent to murder. The trial resulted in his conviction by the jury of the offense of an assault and battery with a weapon, and the jury assessed a fine of $500. Failing to pay same, he was duly sentenced to hard labor for the county.\nThe evidence in this case discloses, without dispute, that the assault complained of was, in fact, committed upon the alleged injured party, who was cut with a knife in several places by this defendant. The assault being admitted, the question as to whether the defendant was justified in so doing was, under the conflicting evidence in this case, for the jury to determine.\nRefused charge 4 was not predicated upon the evidence; it was therefore refused without error.\nCharge 9, refused to defendant, is confused and elliptical. It provides, among other things, this:\n\"If the jury are convinced beyond all reasonable doubt that the defendant is guilty as charged in the indictment, then you should find him not guilty.\"\nThis charge as it appears is evidently a misprision. It was properly refused.\nOver the objection and exception of defendant, the wearing apparel of the injured party at the time of the difficulty was introduced in evidence by the state. Under the facts in this case, this was not error, for the clothing worn by the injured party at the time of the difficulty here tended to shed some light upon the material inquiry involved upon this trial, and this evidence therefore came within the general rule, which provides that, in order for such articles to be admissible, they must have some tendency to prove or disprove some disputed or material issue, to illustrate or elucidate some other relevant fact or evidence, to corroborate or disprove some other evidence offered or to be offered. In other words, they must have some tendency to shed light upon some material inquiry. As in this case, the fact of the wounds inflicted and the extent and location thereof. Rollings v. State, 160 Ala. 82,49 So. 329.\nOther exceptions reserved to the rulings of the court upon the admission of evidence have reference to matters patently immaterial and inadmissible on the trial of this case. In none of these rulings do we find any error &#8212; certainly no error calculated to injuriously affect the substantial rights of the accused. The record proper is free from error; therefore the judgment of conviction, from which this appeal was taken, will stand affirmed.\nAffirmed.",
+            "ocr": false,
+            "opinion_id": 3246805
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

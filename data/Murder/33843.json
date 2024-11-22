@@ -1,0 +1,47 @@
+{
+    "id": 6117317,
+    "judges": null,
+    "date_filed": "1998-09-18",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-lopez",
+    "case_name_short": "Lopez",
+    "case_name": "People v. Lopez",
+    "case_name_full": "The People of the State of New York v. Jose Hector Lopez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "209 A.D.2d 545",
+        "619 N.Y.S.2d 623"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the County Court, Suffolk County (Weissman, J.), rendered October 8, 1992, convicting him of murder in the second degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nContrary to the defendant\u2019s contentions, the court did not improvidently exercise its discretion in denying his application to withdraw his guilty plea without first conducting an evidentiary hearing (see, People v Billings, 208 AD2d 941; People v Ladelokun, 192 AD2d 723; People v Pettway, 140 *546AD2d 721, 722). The record establishes that the defendant knowingly, intelligently and voluntarily chose to plead guilty, after consulting with counsel. Moreover, although he was afforded a reasonable opportunity to set forth the grounds upon which his application was premised, the defendant merely proclaimed that he was innocent, despite his explicit admissions of guilt at the plea proceeding. Since the defendant\u2019s motion to withdraw his plea was based upon unsubstantiated assertions of innocence, the court acted well within its discretion in refusing to conduct further inquiry before denying the application (see, People v Billings, supra; People v Smith, 157 AD2d 871). Sullivan, J. P., Rosenblatt, Altman, Hart and Friedmann, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5982250
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

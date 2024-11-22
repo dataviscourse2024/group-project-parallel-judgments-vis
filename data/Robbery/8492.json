@@ -1,8 +1,8 @@
 {
     "id": 2622172,
     "judges": "Buser, P.J., Green and Marquardt",
-    "date_filed": 1179446400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-09-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-birth",
     "case_name_short": "Birth",
     "case_name": "State v. Birth",

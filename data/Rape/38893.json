@@ -1,0 +1,46 @@
+{
+    "id": 7106422,
+    "judges": "Craven",
+    "date_filed": "1996-06-08",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-hundley",
+    "case_name_short": "Hundley",
+    "case_name": "People v. Hundley",
+    "case_name_full": "The People of the State of Illinois v. David James Hundley",
+    "attorneys": "John F. McNichols, of Defender Project, of Springfield, (J. Daniel Stewart, of counsel,) for appellant., Richard A. Hollis, State\u2019s Attorney, of Springfield, (Walter H. Kasten, Assistant State\u2019s Attorney, of counsel,) for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "8 Ill. App. 3d 71"
+    ],
+    "opinions": [
+        {
+            "author_str": "Craven",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. PRESIDING JUSTICE CRAVEN delivered the opinion of the court: The defendant was found guilty of the offense of rape in a jury trial. A sentence of not less than 8 nor more than 16 years was imposed. Upon this appeal defendant contends that the evidence was insufficient to prove beyond a reasonable doubt that the intercourse was against the will of the complainant; that the trial court erroneously admitted evidence of certain alleged spontaneous declarations; and, finally, that the sentence is excessive. The defendant admits the act of intercourse. His testimony is to the effect that the complainant consented and cooperated. Her testimony is to the effect that the defendant committed rape. She testified that on the night of the occurrence the defendant forced his way into her car; that he struck her and threatened further harm with a knife which he had told her he had on his person, and caused her to submit by such threats. This record contains much conflicting evidence relating to the night, the event, and the occurrence. There is evidence that corroborates the testimony that rape occurred. Likewise, there is some evidence to the contrary. The essential issue was credibility. The jury verdict of guilty necessarily means that the occurrence testimony of the victim and the other prosecution witnesses was believed.  We are not unmindful of our duty to review the evidence carefully and to reverse the conviction if the evidence is such that it leaves a reasonable doubt as to the defendant\u2019s guilt. From such review of this record, we are not persuaded that such reasonable doubt exists. No useful purpose would be served by recitation of the evidence. Therefore, pursuant to Rule 23, the contention of the defendant that the evidence is insufficient to convict is rejected.  The evidentiary issue urged is that the trial court was in error when it allowed the prosecution to introduce evidence of a statement of the victim to a girlfriend shortly after the occurrence. The victim told her friend that she had been raped. This statement was in response to questions by the girlfriend. While hearsay, such is admissible as an exception to that rule as a spontaneous declaration or as it is often referred to in rape cases as a corroborative complaint. The statement of the rule and its application is discussed in considerable detail in People v. Parisie, 5 Ill.App.3d 1009, 287 N.E.2d 310. While Parisie is not a case involving rape, the extended discussion there found is applicable to the evidentiary situation here, and under the rules there stated and the cases and authorities there cited, the evidence here was properly admitted.  The sentence of 8 to 16 years offends the principle of indeterminate sentencing and the ABA Recommended Standards that the minimum sentence should be no greater than one-third of the maximum sentence imposed. (See People v. Scott, 117 Ill.App.2d 344, 253 N.E.2d 553.) The defendant was 18 years old at the time of sentencing and had no prior convictions although there had been a delinquency proceeding when he was 15 years old. The minimum sentence of 8 years is reduced to 5 years pursuant to the authority conferred upon this court by Supreme Court Rule 615. The maximum sentence is unchanged. The judgment of the conviction is affirmed. Sentence is modified as indicated. The circuit court shall cause an amended mittimus to issue. Conviction affirmed upon modification of sentence. SMITH and SIMKINS, JJ., concur. ",
+            "ocr": true,
+            "opinion_id": 7012396
+        }
+    ],
+    "court_short_name": "Appellate Court of Illinois",
+    "court_full_name": "Appellate Court of Illinois",
+    "court_type": "SA",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Rape"
+}

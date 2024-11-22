@@ -1,8 +1,8 @@
 {
     "id": 8058081,
     "judges": "Fox",
-    "date_filed": -2048630400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-04-12",
+    "date_filed_is_approximate": true,
     "slug": "state-v-copeman",
     "case_name_short": "Copeman",
     "case_name": "State v. Copeman",

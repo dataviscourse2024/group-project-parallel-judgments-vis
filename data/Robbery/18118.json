@@ -1,8 +1,8 @@
 {
     "id": 2404013,
     "judges": "Tucker",
-    "date_filed": 1082592000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-11-22",
+    "date_filed_is_approximate": true,
     "slug": "checkpoint-systems-inc-v-all-tag-security-sa",
     "case_name_short": null,
     "case_name": "Checkpoint Systems, Inc. v. All-Tag Security S.A.",

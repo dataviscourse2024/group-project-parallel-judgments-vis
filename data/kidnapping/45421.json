@@ -1,8 +1,8 @@
 {
     "id": 8442764,
     "judges": "Bauer, Flaum, Wood",
-    "date_filed": 1466726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-05-15",
+    "date_filed_is_approximate": true,
     "slug": "martinez-v-cahue",
     "case_name_short": "Martinez",
     "case_name": "Martinez v. Cahue",

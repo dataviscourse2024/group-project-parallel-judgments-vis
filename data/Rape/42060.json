@@ -1,0 +1,46 @@
+{
+    "id": 7753174,
+    "judges": "Byrnes, Ciaccio, Landrieu",
+    "date_filed": "1972-09-23",
+    "date_filed_is_approximate": true,
+    "slug": "state-ex-rel-franklin",
+    "case_name_short": null,
+    "case_name": "State ex rel. Franklin",
+    "case_name_full": "STATE of Louisiana IN the INTEREST OF James Cleveland FRANKLIN",
+    "attorneys": "Steven W. Hays, Student Practitioner, Evangeline Abriel, Clinical Professor Loyola Law School Clinic, New Orleans, for James Cleveland Franklin., Harry F. Connick, Dist. Atty., Allison L. Monahan, Asst. Dist. Atty., New Orleans, for State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "659 So. 2d 537"
+    ],
+    "opinions": [
+        {
+            "author_str": "Byrnes",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n_[\u00bfBYRNES, Judge.\nOn remand from the Louisiana Supreme Court, this court grants James Cleveland Franklin\u2019s writ application to review his claim that the trial court erred in failing to dismiss the state\u2019s petition and release the defendant.\nThe defendant asserts the following facts: On September 18, 1994 the defendant was arrested. On September 19, 1994, a detention hearing was held on the charge of delinquency aggravated rape before the juvenile magistrate, who established probable cause and set a $100,000 bond. On September 21, 1994, the case was referred to criminal district court. On November 17, 1994, the assistant district attorney refused to accept the case and referred it back to juvenile court jurisdiction.\nOn November 17,1994, a petition was filed in juvenile court, charging that the defendant was a delinquent child under La.Ch.C. Art. 804(3) in that he violated La.R.S. 14:42 relative to aggravated rape, and La.R.S. 14:27/43.1 relative to attempted sexual battery. The initial appearance to answer the petition scheduled on January 19, 1995 was continued to February 2, 1995, due to the judge\u2019s illness.\nOn December 20, 1994, the defendant\u2019s counsel filed a motion for release of juvenile and dismissal. After a hearing on February 2, 1995, the trial court took the matter under advisement until February 10, 1995, and the matter was continued until February 15, 1995. After a hearing on February 15, 1995, the juvenile court found good cause for failure to set the hearing timely and denied the defendant\u2019s motion for release of the juvenile and dismissal.\nAfter this court declined to exercise its supervisory jurisdiction, the Louisiana Supreme Court granted writs and remanded the case to this court for briefing, argument, and opinion. On March 3, 1995, the juvenile court lowered the defendant\u2019s bond to $1,000, which the defendant posted. On May 12, 1995 the juvenile court granted the defendant\u2019s motion for a stay of proceedings pending this court\u2019s decision.\nThe defendant claims that Ch.C. Arts. 854 and 877 create a mandated maximum time period between the filing of a delinquency petition by the state and an adjudication. ^However, under both articles the juvenile court has the authority to extend the time limit based on good cause.\n*538The defendant also contends that because the state did not file a motion for continuance during the time period set forth under La. Ch.C. Arts. 854 and 877, the time limit cannot be extended under State in Interest of R.D.C., Jr., 93-1865 (La. 2/28/94), 632 So.2d 745. In that case the Louisiana Supreme Court held that it was incumbent on the state to make a showing of good cause and obtain an extension before the period has run. However, the reason for a continuance was based on the unavailability of a state witness.\nIn the present case the trial court had good cause to extend the time period where the original record was misplaced in the courthouse after the case was transferred to and from criminal court (although the original record remained in juvenile court). The state is not required to file a motion to extend the time period where the juvenile court extended the time period on its own motion, and the lack of availability of the record was not caused by the state. Although the state is responsible for arranging for the appearance of its witnesses and was required to file for an extension timely in State in Interest of R.D.C., Jr., supra, the state was not responsible for the unavailability of the record in the present case, and was not mandated to file for the continuance. Just as the juvenile court continued the case due to good cause, i.e., the judge\u2019s illness, the juvenile court continued the case based on good cause of the unavailability of the record. In either case the state was not compelled to file a motion to continue where it was not responsible for the reason for the continuance.\nAccordingly, the ruling of the juvenile court denying the defendant\u2019s motion for dismissal of the state\u2019s petition is affirmed.\n\nAFFIRMED.\n\n",
+            "ocr": true,
+            "opinion_id": 7690393
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Rape"
+}

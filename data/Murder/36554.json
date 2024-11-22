@@ -1,0 +1,46 @@
+{
+    "id": 6668775,
+    "judges": "Hart",
+    "date_filed": "1981-07-02",
+    "date_filed_is_approximate": true,
+    "slug": "st-louis-san-francisco-railroad-v-minor",
+    "case_name_short": "Minor",
+    "case_name": "St. Louis & San Francisco Railroad v. Minor",
+    "case_name_full": "St. Louis & San Francisco Railroad Company v. Minor",
+    "attorneys": "C. H. Trimble, for appellant., Allen Hughes, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Railroads \u2014 stock killing \u2014 when statutory presumption not rebutted.\u2014 The statutory presumption of negligence of a railroad company in the killing of stock by a train is not overcome by the testimony of a fireman to the effect that the animals could not have been seen from the train in time to avoid killing them if there was evidence tending to contradict him.</p>",
+    "summary": "Appeal from Crittenden Circuit Court; Frank Smith, Judge; 1. The facts in no way tend to discredit the testimony of the fireman, and,a careful examination of all the testimony shows nothing inconsistent with his. It is uncontradicted that the engineer shut off the steam, applied the air brakes, sounded the whistle, and that the fireman rang the bell. Appellant is-not liable. 41 Ark. 161. 2. As to the injured animal, it was error to instruct the jury that the measure of damages was the difference between its market value just before the injury and immediately thereafter. 1. The fireman\u2019s testimony is inconsistent with the other testimony and physical evidence. 75 Ark. 63; 76 Ark. 38; 54 Ark. 215. Moreover, testimony by appellant\u2019s witness that they did all that could be done to avert the injury is not sufficient to overcome the statutory presumption of negligence, without going further and showing affirmatively what they' did, and that nothing else could safely have been done. 45 Ark. 295. 2. No error in the instruction as to measure of damages. 50 Ark. 169.",
+    "disposition": "affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "85 Ark. 121"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hart",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Hart, J. This action was brought by Joe Minor against the St. Louis &amp; San Francisco Railroad Company to recover the value of three mules killed and one injured on the track of the defendant by one of its trains. Plaintiff recovered judgment, and defendant appealed. The mules were proved to be the property of plaintiff, and to have been struck by defendant\u2019s train. The presumption of negligence is attempted to be overcome by the testimony of the fireman. He testified that the mules were struck at the first trestle west of the levee. That the train consisted of thirty cars, and was going at, the rate of twenty-five miles per hour. That they were struck all in a bunch right at the end of the trestle. That they were thirty or fifty feet distant when he first saw them.. That the reason he did not see them sooner was because they were not there. The plaintiff testified that, of the four mules struck by the train, a gray mule was first struck and was found lying in a ditch about fifty yards east of the trestle between it and the levee, and that there was blood and gray hair on the track 'where it rolled down the dump, and that the tracks for 150 yards between the levee and the trestle, and the appearance of the mule tracks on the railroad track showed that they had been running before being struck by the train. The undisputed testimony shows that the other mules were struck at the trestle; that two of the three were thrown off the trestle, one on the right and one on the left of it, and that the remaining mule was carried across the trestle. The jury was the judge of the credibility and of the weight of the testimony, and evidently did not believe that the mules were struck in a bunch at the end of the trestle. The testimony shows that.three of the mules were brown or black, and that the remaining one was gray. The jury obviously did not believe that one of the mules would be thrown forty yards behind when he was struck. In other words, if the mules were struck at the trestle, gray hairs would not be found on the track behind where the first mule was struck, and the gray mule would not have been found in the ditch forty yards east of the trestle. Judgment affirmed. ",
+            "ocr": true,
+            "opinion_id": 6546701
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Murder"
+}

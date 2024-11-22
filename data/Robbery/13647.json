@@ -1,8 +1,8 @@
 {
     "id": 1772283,
     "judges": "Tom G. Davis",
-    "date_filed": 424483200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-08-02",
+    "date_filed_is_approximate": true,
     "slug": "spriggs-v-state",
     "case_name_short": "Spriggs",
     "case_name": "Spriggs v. State",

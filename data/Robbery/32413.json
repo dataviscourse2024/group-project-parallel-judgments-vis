@@ -1,8 +1,8 @@
 {
     "id": 5826278,
     "judges": null,
-    "date_filed": 1107388800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-02-13",
+    "date_filed_is_approximate": true,
     "slug": "in-re-steven-p",
     "case_name_short": null,
     "case_name": "In re Steven P.",

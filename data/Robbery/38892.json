@@ -1,8 +1,8 @@
 {
     "id": 7106181,
     "judges": "Smith",
-    "date_filed": 80265600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-06-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-graves",
     "case_name_short": "Graves",
     "case_name": "People v. Graves",

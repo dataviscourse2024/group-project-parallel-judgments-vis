@@ -1,8 +1,8 @@
 {
     "id": 6356809,
     "judges": "Mandelbaum",
-    "date_filed": 1354233600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-11-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-husband",
     "case_name_short": "Husband",
     "case_name": "People v. Husband",

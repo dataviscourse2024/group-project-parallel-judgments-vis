@@ -1,0 +1,47 @@
+{
+    "id": 5872962,
+    "judges": null,
+    "date_filed": "1975-05-29",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-redmond",
+    "case_name_short": "Redmond",
+    "case_name": "People v. Redmond",
+    "case_name_full": "The People of the State of New York v. David Redmond",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "41 A.D.3d 514",
+        "837 N.Y.S.2d 710"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the County Court, Orange County (DeRosa, J.), rendered November 25, 2003, convicting him of course of sexual conduct against a child in the first degree, course of sexual conduct against a child in the second degree, rape in the first degree, sodomy in the first degree, sexual abuse in the second degree (four counts), and endangering the welfare of a child, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is modified, on the law, by vacat*515ing the sentence imposed; as so modified, the judgment is affirmed, and the matter is remitted to the County Court, Orange County, for a new second felony offender hearing and resentencing.\nThe trial court properly admitted into evidence a tape recording of a telephone call between the defendant and the victim (see People v McGee, 49 NY2d 48, 60 [1979]; People v Yukl, 25 NY2d 585, 589 [1969]). The court providently exercised its discretion in allowing the jury to use a transcript as an aid in hstening to the tape recording at trial (see People v Wilson, 207 AD2d 463, 464 [1994]).\nContrary to the defendant\u2019s contention, the police properly seized his cell phone at the time of his arrest, since they had a reasonable belief that the phone, located in plain view, was related to the crime for which the defendant had just been arrested (see People v Yancy, 86 NY2d 239, 245-246 [1995]).\nViewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, resolution of issues of credibility is primarily a matter to be determined by the jury, which saw and heard the witnesses, and its determination should be accorded great deference on appeal (see People v Romero, 7 NY3d 633, 644-645 [2006]; People v Mateo, 2 NY3d 383, 410 [2004], cert denied 542 US 946 [2004]). Upon the exercise of our factual review power (see CPL 470.15 [5]), we are satisfied that the verdict of guilt was not against the weight of the evidence (see People v Romero, supra).\nThe defendant\u2019s trial attorney provided meaningful representation (see People v Benevento, 91 NY2d 708 [1998]; People v Baldi, 54 NY2d 137 [1981]).\nWe agree with the defendant\u2019s contention that the sentencing court erred at the second felony offender hearing, when, over the defendant\u2019s objection, it admitted into evidence a certificate of conviction from South Carolina which was not accompanied by the certification required by CPLR 4540 (c). This defect requires vacatur of the court\u2019s adjudication of the defendant as a second felony offender and remittitur of the matter to the County Court, Orange County, for a new second felony offender hearing (see People v Acebedo, 156 AD2d 369 [1989]; People v Hines, 90 AD2d 621 [1982]), at which the People will have the opportunity to overcome the technical defects of their proof (see People v Acebedo, supra; People v Hines, supra), and for resentencing.\nThe defendant\u2019s contentions regarding the alleged impair*516ment of the integrity of the grand jury, the existence of two different transcripts of pretrial proceedings, his motion for the reassignment of counsel, and the failure to call witnesses in his defense and to investigate a medical examination of the victim rely on matter dehors the record.\nThe defendant\u2019s contention that counts 2 through 10 of the indictment are duplicitous, that testimony as to the distinctive nature of his laugh violated his right against self-incrimination, that the indictment did not set forth facts supporting every element of the offense charged, that the court erred in allowing testimony by lay witnesses, that the court properly limited the defendant\u2019s right to speak at sentencing, that the People\u2019s opening statement improperly shifted the burden of proof, that improper comments were made by the prosecutor during summation, that facts alleged in the indictment were different from evidence adduced at trial, that the original accusatory instrument was defective, that the prosecutor made improper and misleading remarks during trial, that the defendant\u2019s cell phone was improperly admitted into evidence at trial, and that the People failed to timely disclose Rosario (see People v Rosario, 9 NY2d 286 [1961], cert denied 368 US 866 [1961]) and Brady (see Brady v Maryland, 373 US 83 [1963]) material, are unpreserved for appellate review, and in any event, are without merit.\nThe defendant\u2019s remaining contentions are without merit. Crane, J.P., Ritter, Lifson and Balkin, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5729415
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

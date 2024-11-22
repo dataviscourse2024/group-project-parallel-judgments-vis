@@ -1,8 +1,8 @@
 {
     "id": 4786632,
     "judges": null,
-    "date_filed": 1600387200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-11-30",
+    "date_filed_is_approximate": true,
     "slug": "com-v-chambers-m",
     "case_name_short": "Com.",
     "case_name": "Com. v. Chambers, M.",

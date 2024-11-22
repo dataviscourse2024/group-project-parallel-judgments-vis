@@ -1,8 +1,8 @@
 {
     "id": 8071721,
     "judges": "Chairperson, Hon, Jones, Simonton, Stadler",
-    "date_filed": 1234396800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-12-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hammond",
     "case_name_short": "Hammond",
     "case_name": "State v. Hammond",

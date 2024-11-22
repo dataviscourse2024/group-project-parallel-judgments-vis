@@ -1,8 +1,8 @@
 {
     "id": 2089900,
     "judges": "Frossard",
-    "date_filed": 1017360000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-02-19",
+    "date_filed_is_approximate": true,
     "slug": "people-v-henderson",
     "case_name_short": null,
     "case_name": "People v. Henderson",

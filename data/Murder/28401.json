@@ -1,0 +1,46 @@
+{
+    "id": 5016026,
+    "judges": "Hazouri, Shahood, Taylor",
+    "date_filed": "1985-06-23",
+    "date_filed_is_approximate": true,
+    "slug": "parker-v-state",
+    "case_name_short": "Parker",
+    "case_name": "Parker v. State",
+    "case_name_full": "Ernest Lee PARKER v. STATE of Florida",
+    "attorneys": "Ryan J. Sydejko of Loren Rhoton, P.A., Tampa, for petitioner., Bill McCollum, Attorney General, Tallahassee and Melynda L. Melear, Assistant Attorney General, West Palm Beach, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "2 So. 3d 373"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nErnest Lee Parker (Defendant), the defendant in resentencing proceedings below, seeks relief barring Palm Beach County Circuit Court Judge Richard I. Wennet (Judge Wennet) from continuing to preside over his resentencing. We grant the petition.\nFollowing a jury trial, Defendant was convicted of attempted second degree murder with a firearm (count I), and four other less serious counts. His original sentence included a twenty-five year mandatory minimum term, followed by probation, for the first count, and shorter terms for the other counts, imposed concurrently. The state appealed, Defendant cross-appealed, and this court affirmed the convictions but, granting the state\u2019s appeal in part, remanded for the trial court to impose a three-year mandatory minimum for use of a firearm with respect to each of counts II-IV. State v. Parker, 812 So.2d 495 (Fla. 4th DCA 2002). After the resen-tencing, Defendant appealed again and this court affirmed. Parker v. State, 843 So.2d 281 (Fla. 4th DCA 2003) (Table).\nThereafter, this court reversed in part the summary denial of Defendant\u2019s rule 3.850 motion. The reversal pertained only to the summary denial of the fifteenth ground, in which Defendant challenged his twenty-five year mandatory minimum sentence in count I for discharging a firearm, pursuant to section 775.087(2)(a)3, Florida Statutes (2000), where the judge, not the jury, made the finding. This court directed the circuit court on remand either to attach portions of the record refuting the claim or for the court to resentence Defendant on count I, and otherwise affirmed. *374Parker v. State, 921 So.2d 812 (Fla. 4th DCA 2006).\nOn remand, the trial court imposed a sentence of twenty-eight years, explaining that it was essentially the same amount of time as a twenty-five year mandatory minimum sentence. Defendant appealed, and this court reversed, explaining as follows:\nIn this case, the same trial judge that previously sentenced appellant increased the length of the sentence by three years, with no independent legal basis or identifiable conduct by appellant as a basis for the increase. We hold that the trial court erred in resentencing appellant, despite its attempt to achieve a sentence equivalent to appellant\u2019s previous sentence by taking possible gain time reductions into consideration. We stress that our holding is not that there was actual vindictiveness on the part of the trial judge, but rather that the presumption of vindictiveness was not overcome. See Wemett [v. State], 567 So.2d [882] at 886 [ (Fla.1990) ].\nParker v. State, 977 So.2d 671, 673 (Fla. 4th DCA 2008) (emphasis added), rev. denied, 985 So.2d 1092 (Fla.2008). This court directed that the trial court resen-tence Defendant \u201cto a period of not more than twenty-five years, reduced by any applicable credits.\u201d Id.\nOn remand, Defendant moved to recuse Judge Wennet, who had sentenced him on all three prior occasions. He alleged that the fact that Judge Wennet was unable to overcome a presumption of vindictiveness created in Defendant an objectively reasonable fear that he would not receive judicial impartiality in the upcoming resen-tencing proceeding.\nJudge Wennet denied the motion, taking the position that the grounds for the motion consisted only in adverse rulings, and Defendant then filed the instant petition for writ of prohibition.\nWe grant relief, based on a statement by the Florida Supreme Court that \u201cresen-tencing before a different judge is the appropriate remedy when a presumption of vindictiveness is unrebutted.\u201d Wilson v. State, 845 So.2d 142, 159 (Fla.2003) (emphasis added). Though Wilson arose in a different fact situation,1 that nevertheless is the case here.\n\nPetition Granted.\n\nSHAHOOD, TAYLOR and HAZOURI, JJ., concur.\n\n. In Wilson, the supreme court determined that a presumption of vindictiveness does not arise in all cases in which a higher sentence is imposed after the judge participates in unsuccessful plea negotiations; the totality of the circumstances must be reviewed to determine whether the defendant's right to due process was violated, and the court furnished a list of factors to be considered in making that determination.\n\n",
+            "ocr": true,
+            "opinion_id": 4829043
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

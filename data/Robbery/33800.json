@@ -1,8 +1,8 @@
 {
     "id": 6109432,
     "judges": null,
-    "date_filed": 766022400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-03-19",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cosme",
     "case_name_short": "Cosme",
     "case_name": "People v. Cosme",

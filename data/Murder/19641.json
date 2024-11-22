@@ -1,0 +1,47 @@
+{
+    "id": 1500308,
+    "judges": "Morrison",
+    "date_filed": "2003-04-24",
+    "date_filed_is_approximate": true,
+    "slug": "dowling-v-state",
+    "case_name_short": "Dowling",
+    "case_name": "Dowling v. State",
+    "case_name_full": "William Alfred Dowling v. State",
+    "attorneys": "Carl E. F. Dally, Houston, (on appeal only), for appellant., Dan Walton, District Attorney, Eugene Brady and Benjamin Woodall, Assistants District Attorney, Houston, and Leon Douglas, State\u2019s Attorney, Austin, for the state.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "State's Motion for Rehearing Overruled (Without Written Opinion) May 22, 1957.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b666-8\">\n    William Alfred Dowling v. State\n   </parties><br><docketnumber id=\"b666-9\">\n    No. 28,925.\n   </docketnumber><decisiondate id=\"Atg\">\n    April 3, 1957.\n   </decisiondate><br><otherdate id=\"b666-10\">\n    State's Motion for Rehearing Overruled (Without Written Opinion) May 22, 1957.\n   </otherdate><br><attorneys id=\"b667-3\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"651\"> \n     *651\n     </span>\n<em>\n     Carl E. F. Dally,\n    </em>\n    Houston, (on appeal only), for appellant.\n   </attorneys><br><attorneys id=\"b667-4\">\n<em>\n     Dan Walton,\n    </em>\n    District Attorney,\n    <em>\n     Eugene Brady\n    </em>\n    and\n    <em>\n     Benjamin Woodall,\n    </em>\n    Assistants District Attorney, Houston, and\n    <em>\n     Leon Douglas,\n    </em>\n    State\u2019s Attorney, Austin, for the state.\n   </attorneys>",
+    "citations": [
+        "301 S.W.2d 920",
+        "164 Tex. Crim. 650"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrison",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5765.0,
+            "opinion_text": "\n301 S.W.2d 920 (1957)\nWilliam Alfred DOWLING, Appellant,\nv.\nThe STATE of Texas, Appellee.\nNo. 28925.\nCourt of Criminal Appeals of Texas.\nApril 3, 1957.\n*921 Carl E. F. Dally, Houston, for appellant.\nDan Walton, Dist. Atty, Thomas D. White and Benjamin Woodall, Asst. Dist. Attys., Houston, and Leon B. Douglas, State's Atty., Austin, for the State.\nMORRISON, Presiding Judge.\nThe offense is murder; the punishment, death.\nIn view of our disposition of this case, a recitation of the facts will not be deemed necessary other than to observe that the sole defense was that of insanity.\nThe appellant offered into evidence his Navy service record authenticated as being accurate by the Chief of Naval Personnel and the Acting Judge Advocate General for the Secretary of the Navy, which contained, among other things, a showing that as early as 1948 the appellant was treated at the United States Naval Hospital in San Diego, California, following a suicidal attempt, and \"the diagnosis of Paranoid State was established on 9. July 1948.\" The service record further reflects that the appellant was discharged from the Navy shortly thereafter as \"unfit for service\" upon recommendation of the Medical Board.\nWe have concluded that the authentication set forth above was sufficient to make the record admissible under Section 2 of Article 3731a, V.A.C.S.\nClearly, the evidence recited was admissible on the issue of insanity.\nUpon another trial, the arresting officer should not be permitted to testify as to his conversation with the appellant fifteen minutes after the appellant's arrest, which was not shown to be res gestae, and the Senior Psychiatrist from the Veterans' Administration Hospital, where the appellant had been a mental patient, should be permitted to testify fully from the appellant's record in such institution when the same has been properly identified.\nFor the errors pointed out, the judgment is reversed and the cause remanded.\n",
+            "ocr": false,
+            "opinion_id": 1500308
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

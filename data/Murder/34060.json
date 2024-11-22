@@ -1,0 +1,47 @@
+{
+    "id": 6163589,
+    "judges": null,
+    "date_filed": "1985-09-14",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-catlett",
+    "case_name_short": "Catlett",
+    "case_name": "People v. Catlett",
+    "case_name_full": "The People of the State of New York v. Shawn Catlett",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "254 A.D.2d 198",
+        "681 N.Y.S.2d 230"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Carol Berkman, J.), rendered December 2, 1994, convicting defendant, after a jury trial, of two counts of murder in the second degree, two counts of criminal possession of a weapon in the second degree, and one count of criminal possession of a weapon in the third degree, and sentencing him to two consecutive terms of 25 years to Ufe concurrent with concurrent terms of 5 to 15 years, 5 to 15 years, and 2V3 to 7 years, respectively, unanimously affirmed.\nThe court properly found defendant competent to stand trial following a CPL 730.30 hearing. The court appropriately weighed the conflicting psychiatric testimony, the lack of objective proof of defendant\u2019s incapacity other than defendant\u2019s own statements to the psychiatrists, and defendant\u2019s demeanor and behavior in making its determination that the People had proven by a preponderance of the evidence that defendant had the capacity to stand trial (see, People v Carl, 58 AD2d 948, revd on other grounds 46 NY2d 806). The fact that defendant began a pattern of strange behavior only after the competency hearing was requested provided particular support for the court\u2019s conclusion that defendant was feigning mental illness. Concur \u2014 Sullivan, J. P., Rosenberger, Nardelli, Williams and Andrias, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6029324
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

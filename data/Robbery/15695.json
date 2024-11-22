@@ -1,8 +1,8 @@
 {
     "id": 1847988,
     "judges": "Hobson",
-    "date_filed": 309744000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-11-02",
+    "date_filed_is_approximate": true,
     "slug": "davis-v-state",
     "case_name_short": "Davis",
     "case_name": "Davis v. State",

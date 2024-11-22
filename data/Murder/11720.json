@@ -1,8 +1,8 @@
 {
     "id": 1343556,
     "judges": "Benham",
-    "date_filed": 857347200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-04-30",
+    "date_filed_is_approximate": true,
     "slug": "roberts-v-state",
     "case_name_short": "Roberts",
     "case_name": "Roberts v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1949277,
     "judges": "Thompson",
-    "date_filed": 514512000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-02-26",
+    "date_filed_is_approximate": true,
     "slug": "majewski-v-state",
     "case_name_short": "Majewski",
     "case_name": "Majewski v. State",

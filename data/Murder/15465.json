@@ -1,8 +1,8 @@
 {
     "id": 1702355,
     "judges": "Cobb",
-    "date_filed": 365817600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-06-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-sheppard",
     "case_name_short": "Sheppard",
     "case_name": "State v. Sheppard",

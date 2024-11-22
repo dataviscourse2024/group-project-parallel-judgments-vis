@@ -1,8 +1,8 @@
 {
     "id": 1260451,
     "judges": "Donald A. Carpenter",
-    "date_filed": 65059200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-11-11",
+    "date_filed_is_approximate": true,
     "slug": "mays-v-people",
     "case_name_short": "Mays",
     "case_name": "Mays v. People",

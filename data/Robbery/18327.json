@@ -1,8 +1,8 @@
 {
     "id": 2424720,
     "judges": "Tom Glaze",
-    "date_filed": 923529600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-05-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-osborn",
     "case_name_short": "Osborn",
     "case_name": "State v. Osborn",

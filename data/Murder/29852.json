@@ -1,0 +1,46 @@
+{
+    "id": 5319214,
+    "judges": "Brett, Bussey, Nix",
+    "date_filed": "1991-01-03",
+    "date_filed_is_approximate": true,
+    "slug": "golston-v-state",
+    "case_name_short": "Golston",
+    "case_name": "Golston v. State",
+    "case_name_full": "Jessie Lee GOLSTON, in Error v. The STATE of Oklahoma, in Error",
+    "attorneys": "Donald M. Stevenson, Idabel, for Jessie Lee Golston., G. T. Blankenship, Atty. Gen., Gene Hoyt, Asst. Atty. Gen., for the State of Oklahoma.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "442 P.2d 530"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bussey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBUSSEY, Judge.\nOn his plea of guilty, Jessie Lee Golston was sentenced to 20 years imprisonment in the State Penitentiary at McAlester, Oklahoma, for the crime of Manslaughter in the First Degree, after having originally been charged with the crime of Murder. Thereafter, a Post Conviction Appeal was granted *531by this Court, and a Motion to Strike the testimony of the evidentiary hearing from the record was duly filed by the State of Oklahoma, and a response filed thereto.\nIn oral argument before this Court, Gol-ston\u2019s court-appointed attorney moved that the Post Conviction Appeal be treated as an application for habeas corpus in order that the Court might consider the evidence adduced at the evidentiary hearing, and no objection being interposed to such request, the same was granted.\nAn almost identical situation was presented to this Court in Glynn v. State, Okl.Cr.App., 442 P.2d 526, wherein this Court reversed the conviction for the reason that the defendant therein did not knowingly and intelligently enter a plea of guilty to the offense of Murder, with full knowledge of the nature and consequences of such plea.\nIn the instant case we have carefully examined the record and find that Jessie Lee Golston did not knowingly and intelligently enter a plea of guilty to the offense of Manslaughter in the First Degree, with full knowledge of the nature and consequences of such plea. In the instant case, as in Glynn v. State, supra, Golston was a Negro male with a very limited education, and three former convictions, but had never been represented by counsel until the evidentiary hearing, and in the instant case as in Glynn v. State, supra, he was never advised by the court of the punishment which could be imposed for the offense to which he entered the plea, nor did the court conduct a penetrating and comprehensive examination of all the circumstances under which the plea was tendered, as required by our holding in the case of Application of Kinnison, Okl.Cr.App., 335 P.2d 645, and cited with approval in In re Coleman, Okl.Cr.App., 344 P.2d 1114.\nUnder the facts here presented, we are of the opinion that the judgment and sentence rendered against the defendant in McCur-tain County District Court Case No. 4000, be, and the same is hereby, vacated and set aside. It is the further order of this Court that the Warden of the State Penitentiary shall deliver the said Jessie Lee Golston to the authorities of McCurtain County, and that he be returned to the District Court of McCurtain County for further proceedings not inconsistent with this opinion and our opinion in Glynn v. State, supra.\nWrit granted with instructions.\nNIX, P. J., and BRETT, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5148084
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Murder"
+}

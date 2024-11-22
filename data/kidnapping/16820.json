@@ -1,8 +1,8 @@
 {
     "id": 2118391,
     "judges": "Steigmann",
-    "date_filed": 1061164800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-03-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-baker",
     "case_name_short": "Baker",
     "case_name": "People v. Baker",

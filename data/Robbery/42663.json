@@ -1,8 +1,8 @@
 {
     "id": 7884734,
     "judges": "Hodges",
-    "date_filed": 155174400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-12-20",
+    "date_filed_is_approximate": true,
     "slug": "people-v-maestas",
     "case_name_short": "Maestas",
     "case_name": "People v. Maestas",

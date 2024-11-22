@@ -1,8 +1,8 @@
 {
     "id": 10316,
     "judges": "Benavides, Duhe, Higginbotham",
-    "date_filed": 843696000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-02-01",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-limon-casas",
     "case_name_short": "Limon-Casas",
     "case_name": "United States v. Limon-Casas",

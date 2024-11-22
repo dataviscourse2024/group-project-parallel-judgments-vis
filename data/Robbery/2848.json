@@ -1,8 +1,8 @@
 {
     "id": 8334788,
     "judges": "Tomlinson",
-    "date_filed": -620956800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-04-28",
+    "date_filed_is_approximate": true,
     "slug": "alexander-v-state",
     "case_name_short": "Alexander",
     "case_name": "Alexander v. State",

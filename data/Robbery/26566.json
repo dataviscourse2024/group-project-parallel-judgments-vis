@@ -1,8 +1,8 @@
 {
     "id": 4615342,
     "judges": "Wright",
-    "date_filed": 1556668800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-06",
+    "date_filed_is_approximate": true,
     "slug": "simms-v-state",
     "case_name_short": "Simms",
     "case_name": "Simms v. State",

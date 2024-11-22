@@ -1,0 +1,47 @@
+{
+    "id": 5746675,
+    "judges": null,
+    "date_filed": "1986-06-25",
+    "date_filed_is_approximate": true,
+    "slug": "hill-v-state",
+    "case_name_short": "Hill",
+    "case_name": "Hill v. State",
+    "case_name_full": "HILL v. State",
+    "attorneys": "William F. Rucker, for appellant., Robert F. Mumford, District Attorney, Michael J. Bowers, Attorney General, Andrew S. Ree, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "259 Ga. 341",
+        "381 S.E.2d 41"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer curiam.\nThe appellant, Patricia Ann Hill, was indicted for the malice murder of her three-year-old daughter, LaToya Bradley. A jury found Hill competent to stand trial, after which another jury found her guilty of murder but mentally ill. She appeals, and we affirm.1\n1. The appellant argues that the evidence presented during the trial of the murder charge demanded a finding that she was not guilty by reason of insanity, in that she suffered from a delusional compulsion at the time she killed her child. However, we find that this argument has no merit.\n*342[The] appropriate standard of appellate review of the sufficiency of the evidence with regard to a jury\u2019s finding of sanity in a criminal case is whether after reviewing the evidence in the light most favorable to the state, a rational trier of fact could have found that the defendant failed to prove by a preponderance of the evidence that he was insane at the time of the crime.\nBrown v. State, 250 Ga. 66, 71-72 (2c) (295 SE2d 727) (1982). The evidence in the present case showed that the appellant killed her child by beating and stabbing her. Although there was strong evidence in support of the appellant\u2019s defense that a delusional compulsion overmastered her will to resist killing her daughter, that evidence was not overwhelming, and a rational trier of fact could have found that Hill did not prove by a preponderance of the evidence that she was legally insane at the time she killed her daughter. Wilson v. State, 257 Ga. 444, 449 (11) (359 SE2d 891) (1987); Eason v. State, 256 Ga. 701 (1) (353 SE2d 188) (1987).\nMoreover, having reviewed the evidence in the light most favorable to the jury\u2019s verdict, we find that a rational trier of fact could have found beyond a reasonable doubt that the appellant was guilty but mentally ill. Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979).\n2. The appellant contends that there was insufficient evidence to support the finding that she was competent to stand trial, but we disagree. The evidence concerning her competency was in conflict, and therefore the jury was entitled to find her competent. Partridge v. State, 256 Ga. 602 (1) (351 SE2d 635) (1987).\n3. The appellant\u2019s final enumeration is that the trial court erred by refusing to suppress a custodial statement that she made after her arrest. She alleges that the statement was inadmissible because her mental condition at the time she gave the statement (allegedly delusional and \u201cactively psychotic\u201d) prevented her from freely, voluntarily, and knowingly waiving her rights.\nWe find no error. The trial court held a Jackson v. Denno hearing; reviewed the statement, which had been videotaped; and then entered an order in which it found that the appellant had understood her Miranda rights and that she had freely and voluntarily waived them.\nAfter reviewing the record, including the videotape, we cannot find that the court\u2019s findings in this regard were clearly erroneous. Nelms v. State, 255 Ga. 473 (1) (340 SE2d 1) (1986).\n\nJudgment affirmed.\n\n\nAll the Justices concur, except Bell, J., who dissents as to Divisions 1 and 3 and the judgment, and Hunt, J., not participating.\n\n*343Decided July 13, 1989.\nWilliam F. Rucker, for appellant.\nRobert F. Mumford, District Attorney, Michael J. Bowers, Attorney General, Andrew S. Ree, for appellee.\n\n The victim was killed on July 7,1987. On August 6,1987, the indictment was filed, and on March 11, 1988, the guilty verdict was filed. Hill filed a notice of appeal on April 8, 1988. On June 12, 1988, the court reporter completed the transcript, and on November 1, 1988, the court clerk certified the record. The clerk of this court docketed the appeal on November 17, 1988, and on December 30, 1988, the appeal was submitted for decision on briefs.\n\n",
+            "ocr": true,
+            "opinion_id": 5598611
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

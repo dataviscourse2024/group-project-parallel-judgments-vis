@@ -1,8 +1,8 @@
 {
     "id": 1273098,
     "judges": "Elmore",
-    "date_filed": 1217894400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-05-23",
+    "date_filed_is_approximate": true,
     "slug": "in-re-sdr",
     "case_name_short": "In Re SDR",
     "case_name": "In Re SDR",

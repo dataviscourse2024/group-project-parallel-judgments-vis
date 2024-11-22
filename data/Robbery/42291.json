@@ -1,8 +1,8 @@
 {
     "id": 7798934,
     "judges": "Gunther, Stevenson, Warner",
-    "date_filed": 982713600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-09-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-nardi",
     "case_name_short": "Nardi",
     "case_name": "State v. Nardi",

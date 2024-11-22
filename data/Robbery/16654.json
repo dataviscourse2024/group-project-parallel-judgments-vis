@@ -1,8 +1,8 @@
 {
     "id": 2103336,
     "judges": "Fine, Greaney, Kaplan",
-    "date_filed": 492134400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2023-12-08",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-carrington",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Carrington",

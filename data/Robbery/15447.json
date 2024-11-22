@@ -1,8 +1,8 @@
 {
     "id": 1690914,
     "judges": "Per Curiam",
-    "date_filed": 950832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-12-19",
+    "date_filed_is_approximate": true,
     "slug": "wilson-v-state",
     "case_name_short": "Wilson",
     "case_name": "Wilson v. State",

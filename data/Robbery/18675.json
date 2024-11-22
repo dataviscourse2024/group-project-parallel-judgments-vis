@@ -1,8 +1,8 @@
 {
     "id": 2504935,
     "judges": "Blackwell, Mikell, Miller",
-    "date_filed": 1334793600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-06-03",
+    "date_filed_is_approximate": true,
     "slug": "jones-v-state",
     "case_name_short": "Jones",
     "case_name": "Jones v. State",

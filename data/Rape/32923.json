@@ -1,0 +1,46 @@
+{
+    "id": 5929113,
+    "judges": null,
+    "date_filed": "2010-10-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-jackson",
+    "case_name_short": null,
+    "case_name": "People v. Jackson",
+    "case_name_full": "The People of the State of New York v. Napoleon T. Jackson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "41 A.D.2d 686"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment unanimously affirmed. Memorandum: The only issue raised on this appeal requiring comment concerns the scope of the District Attorney\u2019s cross-examination- of the defendant. It is settled that a defendant who takes the witness stand may be cross-examined with respect to any immoral, vicious,- or criminal acts which have a bearing on his credibility as a witness. (People v. Sorge, 301 N. Y. 198.) The prosecutor must question in good faith, that is, have a reasonable basis to believe in the truth of the matters about which .he asks, he may .not ask concerning criminal charges on which the defendant has been acquitted, and he may not ask whether defendant was indicted. (People v. Alamo, 23 N Y 2d 630.) Appellant argues that the questioning must be limited to prior acts which involve untruthfulness, deception, or \u201c believe-ability \u201d. *687This is not the present state of the. law. Thus, in People v. Sorge (supra) an \u2022alleged abortionist was questioned, concerning prior- abortions; in' People v. Alamo (supra) a defendant arrested for assault and resisting arrest was questioned about his participation in' two\" taxicab robberies and in People v. Webster (139 N. Y. 73, 84) an:alleged-murderer was questioned about an illicit love affair.. The r\u00e9cord does not reveal the basis for the prosecutor\u2019s questions .concerning the other sex attacks. While the trial court has broad discretion to control cross-examination concerning prior criminal acts asked-for the purpose of impeaching credibility, once an objection is made to such a question the court must determine that the prosecutor-has a reasonable \u2022 basis for his belief that the questions are proper'and \"is acting in good faith. (People v. Korn, 40 A D 2d 561; and see People v. Kass, 25 N Y 2d 123.) That was not done in this case. Defendant was asked, seriatim, if he perpetrated six other sexual attacks. While one of the questions 'was clearly proper since it- was the subject of a pending indictment against defendant upon which a positive identification had been made by the victim, apparently the only basis for the remaining questions was the circumstances that all occurred in the same general, area of Rochester and during the same one-month period-as the crime on trial. -At'least, this is the only justification for the questions, appearing on the record; It is not sufficient to demonstrate a gpod faith belief as to the truth of these things on the part of the prosecutor. Nevertheless, the judgment should be affirmed. Defendant\u2019s counsel introduced.the subject of the other attacks to the-jury by referring to them in his opening. He repeatedly referred to them in cross-examining the People\u2019s witnesses in an effort to show that defendant\u2019s statement confessing the rape was given in exchange for a promise that he would not be prosecuted for the other six incidents. The District Attorney\u2019s questions were strictly limited to stating the facts and not pursued after defendant denied his participation. The guilt of defendant was established by strong evidence and the error was harmless beyond a reasonable doubt. (Chapman v. California, 386 U. S. 18; People v. Kingston, 8 N Y 2d 384.) (Appeal from judgment of Monroe County Court convicting defendant of rape, first degree, and robbery, third degree.) Present \u2014 Goldman, P. J., Del Yeechio, Witmer, Simons and Henry, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5787162
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

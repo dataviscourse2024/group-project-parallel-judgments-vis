@@ -1,0 +1,47 @@
+{
+    "id": 5816007,
+    "judges": null,
+    "date_filed": "1977-03-11",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-rivera",
+    "case_name_short": "Rivera",
+    "case_name": "People v. Rivera",
+    "case_name_full": "The People of the State of New York v. Eveth Rivera",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "4 A.D.3d 131",
+        "771 N.Y.S.2d 510"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, Bronx County (Martin Marcus, J.), rendered March 9, 2001, convicting defendant, after a jury trial, of murder in the second degree and criminal possession of a weapon in the second degree, and sentencing her to concurrent terms of 25 years to life and 15 years, respectively, unanimously affirmed.\nDefendant\u2019s motion to suppress her statements was properly denied. The record supports the court\u2019s finding that defendant was not in custody at the time she made the statement that she challenges on the ground of lack of Miranda warnings. At the time of the statement at issue, a reasonable person similarly situated to defendant, and innocent of any crime, would not have believed that her freedom was significantly restricted (see People v Yukl, 25 NY2d 585 [1969], cert denied 400 US 851 [1970]). Throughout their interaction with defendant leading up to this statement, the police never treated defendant as a suspect in her husband\u2019s death, or gave her any reason to believe she was in custody. Defendant was generally left unsupervised in an interview room and was free to move around the police station. Under the circumstances, the fact that a detective confronted defendant with a piece of incriminating evidence was not enough to transform the interview into a custodial interrogation (see Matter of Kwok T., 43 NY2d 213, 219-220 [1977]).\nIn any event, the statements defendant subsequently made after Miranda warnings, and her videotaped statement in par*132ticular, were sufficiently attenuated so as to be admissible regardless of the admissibility of her pre-Miranda statement (see People v Chapple, 38 NY2d 112, 115 [1975]), and any error in receiving that statement would be harmless (see People v Sanders, 56 NY2d 51, 66 [1982]).\nWe perceive no basis for reducing the sentence. Concur\u2014 Buckley, P.J., Tom, Ellerin and Marlow, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5671543
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 3012974,
     "judges": "Ambro, Garth, Scirica",
-    "date_filed": 1057881600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-05-27",
+    "date_filed_is_approximate": true,
     "slug": "duvall-v-dist-dir-ins-phila",
     "case_name_short": "Duvall",
     "case_name": "Duvall v. Dist Dir INS Phila",

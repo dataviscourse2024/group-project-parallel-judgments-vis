@@ -1,8 +1,8 @@
 {
     "id": 2256262,
     "judges": "Simons",
-    "date_filed": 1099008000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-02-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-nicholson",
     "case_name_short": "Nicholson",
     "case_name": "People v. Nicholson",

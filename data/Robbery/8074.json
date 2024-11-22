@@ -1,8 +1,8 @@
 {
     "id": 9431624,
     "judges": null,
-    "date_filed": 1696896000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-01-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-eaton",
     "case_name_short": "Eaton",
     "case_name": "State v. Eaton",

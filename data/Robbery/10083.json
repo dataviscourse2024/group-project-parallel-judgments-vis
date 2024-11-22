@@ -1,8 +1,8 @@
 {
     "id": 284053,
     "judges": "Simpson, Suttle, Thornberry",
-    "date_filed": -24969600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-02-06",
+    "date_filed_is_approximate": true,
     "slug": "john-fields-v-united-states",
     "case_name_short": null,
     "case_name": "John Fields v. United States",

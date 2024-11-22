@@ -1,8 +1,8 @@
 {
     "id": 705200,
     "judges": "Duhe, Garwood, Parker",
-    "date_filed": 819590400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-09-24",
+    "date_filed_is_approximate": true,
     "slug": "robert-lee-gaston-v-john-p-whitley-warden-louisiana-state-penitentiary",
     "case_name_short": null,
     "case_name": "Robert Lee Gaston v. John P. Whitley, Warden, Louisiana State Penitentiary",

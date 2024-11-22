@@ -1,8 +1,8 @@
 {
     "id": 7573679,
     "judges": "Being, Calogero, Dennis, Grant, Theft, Under, Watson",
-    "date_filed": 320025600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-03-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-morman",
     "case_name_short": "Morman",
     "case_name": "State v. Morman",

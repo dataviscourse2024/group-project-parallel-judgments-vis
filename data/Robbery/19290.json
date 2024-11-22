@@ -1,8 +1,8 @@
 {
     "id": 2463017,
     "judges": "Cornyn, Enoch, Gammage, Gonzalez, Hecht, Hightower, Owen, Phillips, Spector",
-    "date_filed": 800150400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-10-20",
+    "date_filed_is_approximate": true,
     "slug": "city-of-beaumont-v-bouillion",
     "case_name_short": "Bouillion",
     "case_name": "City of Beaumont v. Bouillion",

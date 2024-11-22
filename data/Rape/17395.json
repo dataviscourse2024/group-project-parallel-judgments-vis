@@ -1,8 +1,8 @@
 {
     "id": 2241956,
     "judges": "Cook",
-    "date_filed": 876268800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-04-07",
+    "date_filed_is_approximate": true,
     "slug": "people-v-suter",
     "case_name_short": "Suter",
     "case_name": "People v. Suter",

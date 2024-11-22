@@ -1,8 +1,8 @@
 {
     "id": 2542267,
     "judges": "Charles W. Seymore",
-    "date_filed": 1319500800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-10-12",
+    "date_filed_is_approximate": true,
     "slug": "jackson-v-state",
     "case_name_short": null,
     "case_name": "Jackson v. State",

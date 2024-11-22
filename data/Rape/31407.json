@@ -1,0 +1,46 @@
+{
+    "id": 5620838,
+    "judges": "Cowett",
+    "date_filed": "2017-03-15",
+    "date_filed_is_approximate": true,
+    "slug": "hays-v-people",
+    "case_name_short": "Hays",
+    "case_name": "Hays v. People",
+    "case_name_full": "Hays v. The People",
+    "attorneys": "M. T. Reynolds, for plaintiff in error., P. Potter, (district attorney,) for the people.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>An assault, is an attempt with force or violence to do a corporal injury to another; and may consist of any act tending to such injury, accompanied with circumstances denoting an intent, coupled with a present ability, to use violence against the person.</p> <p>It is not essential, to constitute an assault, that there should be a direct attempt at violence.</p> <p>\" Where the prisoner decoyed a female under ten years of age into a building for the purpose of ravishing her, and was there detected while standing within a few feet of her in a state of indecent exposure; held, that though there was no evidence of his having actually touched her, he was properly convicted of an assault with \u25a0 intent to commit a rape.</p> <p>The consent of a female of that age, or even her aiding the prisoner\u2019s attempt, is no defence.</p>",
+    "summary": "Error from the Schenectady general sessions, where Hays was convicted of an assault with intent to commit a rape on Maria Webb, a female under ten years of age. He enticed her into the loft of a building, for the purpose of ravishing her; and was detected, while standing within five feet of her in a state of indecent exposure. There was no evidence that he touched her at any time. The presiding judge charged the jury as stated hereafter in the opinion of the court. ,The prisoner\u2019s counsel excepted, and, after judgment, sued out a writ of error.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Hill & Den. 351"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cowett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBy the Court, Cowett, J.\nThere is no doubt of the prisoner\u2019s intent; and the only question is, whether he had proceeded in it so far as to warrant the court in submitting to the jury whether he was guilty of an assault. The charge was, that if they believed the prisoner enticed Maria to the loft for the purpose of ravishing her, she being under ten years of age, the offence of an assault with intent to commit a rape was established.\nThe assent of such an infant being void as to the principal crime, it is equally so in respect to the incipient advances of the offender. That the infant consented to, or even aided in the prisoner\u2019s attempt, cannot, therefore, as in the case of an adult, be alleged in his favor, any more than if he had consummated his purpose. The case submitted to the jury, was that of a man having another in his power, and within reach, threatening and exerting the means to accomplish meditated violence upon her person. This is clearly an assault within all the authorities. An assault is defined by these, to be an attempt with force or violence to do a corporal injury to another; and may consist of any act tending to such corporal injury, accompanied with such circumstances as denote at the time an intention, coupled with the present ability, of using actual violence against the person. *353There need not be even a direct attempt at violence; but any indirect preparation towards it, under the circumstances mentioned, such as drawing a sword or bayonet, or even laying one\u2019s hand upon his sword, would be sufficient. (1 Selw. N. P. 27, Am. ed. of 1839. Bull. N. P. 15. 3 Chit. Cr. Law, 821, note (H.) Am. ed. of 1836.)\nThe court below were clearly right, and the judgment should be affirmed. \u25a0\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5465816
+        }
+    ],
+    "court_short_name": "New York Supreme Court",
+    "court_full_name": "New York Supreme Court",
+    "court_type": "ST",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

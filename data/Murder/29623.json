@@ -1,0 +1,46 @@
+{
+    "id": 5263646,
+    "judges": "Grimm, Karohl, Reinhard",
+    "date_filed": "2014-10-12",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-robinson",
+    "case_name_short": "Robinson",
+    "case_name": "State v. Robinson",
+    "case_name_full": "STATE of Missouri, Plaintiff/Respondent v. David ROBINSON",
+    "attorneys": "Dave Hemingway, Asst. Public Defender, St. Louis, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., David R. Truman, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "925 S.W.2d 499"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nA jury found defendant guilty of second degree murder, \u00a7 565.021, attempted first degree robbery, \u00a7\u00a7 564.011 and 569.020, and two counts of armed criminal action, \u00a7 571.015, RSMo 1994. The trial court sentenced him to consecutive terms of thirty, thirty, fifteen, and fifteen years imprisonment. On appeal, he raises one point alleging plain error in the State\u2019s closing argument.\nNo jurisprudential purpose would be served by a written opinion. However, the parties have been furnished with a memorandum opinion for their information only, setting forth the facts and reasons for this order.\n*500The judgment is affirmed pursuant to Rule 30.25(b).\n",
+            "ocr": true,
+            "opinion_id": 5090801
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

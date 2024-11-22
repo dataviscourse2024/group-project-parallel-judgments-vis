@@ -1,0 +1,46 @@
+{
+    "id": 7579606,
+    "judges": "Boardman, Danahy, Grimes",
+    "date_filed": "2005-12-01",
+    "date_filed_is_approximate": true,
+    "slug": "gerry-v-state",
+    "case_name_short": "Gerry",
+    "case_name": "Gerry v. State",
+    "case_name_full": "Stephen W. GERRY v. STATE of Florida",
+    "attorneys": "Jerry Hill, Public Defender, Bartow, and Allyn Giambalvo, Asst. Public Defender, St. Petersburg, for appellant., Jim Smith, Atty. Gen., Tallahassee, and James S. Purdy, Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "394 So. 2d 581"
+    ],
+    "opinions": [
+        {
+            "author_str": "Danahy",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDANAHY, Judge.\nA jury found appellant not guilty of murder by reason of insanity. After finding appellant to be manifestly dangerous to the public, the trial court ordered his commitment to the Department of Health and Rehabilitative Services for treatment. Thereafter, pursuant to the provisions of section 394.901, Florida Statutes (1979), now superseded by chapter 80-75, Laws of Florida, the administrator of Florida State Hospital filed a report requesting an order authorizing further hospitalization, but following a hearing, a hearing officer of the Division of Administrative Hearings denied the request and recommended that the appellant be released. On June 30, 1980, appellant filed a motion with the court requesting that he be released from the state hospital and from further supervision by the Department. A hearing on the motion was set for July 30, 1980. Immediately prior to the hearing, appellant\u2019s counsel orally moved for the appointment of experts to examine appellant. The court denied the motion to appoint experts and the motion for release. Appellant contends here that the trial court erred when it denied his motion to appoint experts. Under the particular facts of this case, we agree.\nOn July 18, 1980, our supreme court adopted Florida Rule of Criminal Procedure 3.218,1 which requires the trial court to con*583duct a hearing when the administrator of the state mental health facility files a report with respect to whether a defendant continues to meet the criteria for involuntary hospitalization. The rule further provides in pertinent part as follows:\nPrior to any hearing held pursuant to this Rule, the court ... shall upon motion of counsel for State or defendant, appoint no fewer than two nor more than three experts to examine the defendant relative to the criteria for continued involuntary hospitalization....\nRule 3.218 was made effective retroactive to July 1, 1980.\nSeveral days before the hearing, the office of the public defender received a copy of the new rule and appellant\u2019s hearing counsel had just read the rule on the morning of the hearing. Under these unusual circumstances, we believe the oral motion to appoint experts made immediately prior to the hearing was timely and should have been granted. We hasten to add, however, that had the rule been in existence for a reasonable period of time prior to the hearing, an oral motion made on the day of the hearing would not have been made \u201cprior\u201d to the hearing within the meaning of the rule.\nAccordingly, the order continuing the defendant\u2019s confinement in the state hospital is quashed and the case is remanded with instructions to appoint experts and conduct a hearing in accordance with rule 3.218.\nBOARDMAN, Acting C. J., and GRIMES, J., concur.\n\n. Rule 3.218. Hospitalization of a Defendant Found Not Guilty By Reason of Insanity\nThe Department of Health and Rehabilitative Services shall admit to an appropriate facility a defendant found not guilty by reason of insanity pursuant to Rule 3.217 and found to meet the criteria for involuntary hospitalization or placement for hospitalization and treatment and may retain and treat the defendant. No later than six months from the date of admission, the administrator of the facility shall file with the court a report, with copies to all parties, which shall address the issues of further involuntary hospitalization of the defendant. If at any time during the six month period or during any period of extended hospitalization which may be ordered pursuant to this Rule, the administrator of the facility shall determine that the defendant no longer meets the criteria for involuntary hospitalization, the administrator shall notify the court by such a report with copies to all parties.\n(a) The court shall hold a hearing within 30 days of the receipt of any such report from the administrator of the facility on the issues raised thereby, and the defendant shall have a right to be present at such hearing. If, following such hearing, the court determines that the defendant continues to meet the criteria for continued hospitalization or treatment, the court shall order further hospitalization or treatment for a period not to exceed one year. The same procedure shall be repeated prior to the expiration of each additional one year period the defendant is retained by the facility.\n(b) Prior to any hearing held pursuant to this Rule, the court may on its own motion and shall upon motion of counsel for State or defendant, appoint no fewer than two nor more than three experts to examine the defendant relative to the criteria for continued involuntary hospitalization or placement by the defendant, and shall specify the date by which such experts shall report to the court on these issues, with copies to all parties.\n\n",
+            "ocr": true,
+            "opinion_id": 7508033
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Murder"
+}

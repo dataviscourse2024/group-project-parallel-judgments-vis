@@ -1,0 +1,46 @@
+{
+    "id": 7933448,
+    "judges": "Blandford",
+    "date_filed": "1973-02-13",
+    "date_filed_is_approximate": true,
+    "slug": "east-tennessee-virginia-georgia-railroad-v-watters",
+    "case_name_short": "Watters",
+    "case_name": "East Tennessee, Virginia & Georgia Railroad v. Watters",
+    "case_name_full": "East Tennessee, Virginia and Georgia Railroad v. Watters",
+    "attorneys": "Underwood & Rowell, for plaintiff in error.., Forsyth & Hoskinson ; Reece & Denny, by brief, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Appeal, from Floyd, Railroads. -Damages. Negligence. Nonsuit. New Trial. (Before Judge Branham.)</p>",
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Ga. L. Rep. 458"
+    ],
+    "opinions": [
+        {
+            "author_str": "Blandford",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBlandford, J.\nIn a suit against a railroad company for killing a horse, where it appeared that the animal went upon the track of the company, ran up the road and upon a trestle and fell through and was killed, and that there was no negligence on the part of the company or 'its officers, agents or servants, a nonsuit would have been proper; and after a verdict-against the company, a new trial should have been granted.\nJudgment reversed.\n",
+            "ocr": true,
+            "opinion_id": 7883801
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

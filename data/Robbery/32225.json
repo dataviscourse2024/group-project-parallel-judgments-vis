@@ -1,8 +1,8 @@
 {
     "id": 5789597,
     "judges": "Birdsong",
-    "date_filed": 634521600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-09-28",
+    "date_filed_is_approximate": true,
     "slug": "price-v-state",
     "case_name_short": "Price",
     "case_name": "Price v. State",

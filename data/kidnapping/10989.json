@@ -1,8 +1,8 @@
 {
     "id": 1306059,
     "judges": "Sears, Thompson",
-    "date_filed": 1020038400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-04-26",
+    "date_filed_is_approximate": true,
     "slug": "carroll-v-state",
     "case_name_short": "Carroll",
     "case_name": "Carroll v. State",

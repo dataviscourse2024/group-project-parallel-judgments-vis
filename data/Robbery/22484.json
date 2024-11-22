@@ -1,8 +1,8 @@
 {
     "id": 3427235,
     "judges": "Tremain",
-    "date_filed": -1078272000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-05-18",
+    "date_filed_is_approximate": true,
     "slug": "quinn-v-state",
     "case_name_short": "Quinn",
     "case_name": "Quinn v. State",

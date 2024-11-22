@@ -1,0 +1,46 @@
+{
+    "id": 7142896,
+    "judges": "Coffey",
+    "date_filed": "1972-07-12",
+    "date_filed_is_approximate": true,
+    "slug": "vaughan-v-state",
+    "case_name_short": "Vaughan",
+    "case_name": "Vaughan v. State",
+    "case_name_full": "Vaughan v. State",
+    "attorneys": "C. Johnston and W. H. Johnston, for appellant., A. G. Smith, Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law. \u2014 Assault and Battery with Intent to Kill. \u2014 Information.\u2014 An information charging that one A., at, etc., on, etc., \u201cdid then and there unlawfully, feloniously, wilfully, and purposely, and with premeditated malice, in a rude, insolent, and angry manner, touch one B., with intent then and there, and thereby, her, the said B., feloniously, wilfully, and purposely, and with premeditated malice, to kill and murder,\u201d etc., contains a good charge of assault and battery, with intent to commit the crime of murder.</p>",
+    "summary": "From the Montgomery Circuit Court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "128 Ind. 14"
+    ],
+    "opinions": [
+        {
+            "author_str": "Coffey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCoffey, J.\nThis was a prosecution by the State, in the Montgomery Circuit Court, by affidvait and information^ against the appellant upon a charge of assault and batfceiy with the intent to commit a felony. The jury returned a verdict finding the appellant guilty, as charged, whereupon a motion in arrest of judgment was interposed. The motion was overruled by the court, anda judgment was rendered on the verdict of the jury. The assignment of error calls in question *15the correctness of the ruling of the circuit court in overruling the motion of the appellant to arrest the judgment.\nFiled April 8, 1891.\nThe motion was based upon the claim of the appellant that the information in the cause does not charge a public offence. The information, omitting the formal parts, is as follows: \u201c Albert B. Anderson, the prosecuting attorney for the county of Montgomery, gives the court to understand and be informed that at and in the county of Montgomery and State of Indiana, on the 10th day of December, 1889, one John J. Vaughan did then and there unlawfully, feloniously, wilfully, and purposely, and with premeditated malice, in a rude, insolent, and angry manner, touch one Mary M. Vaughan, with intent then and there, and thereby, her, the said Mary M. Vaughan, feloniously, wilfully, purposely, and with premeditated malice, to kill and murder,\u201d etc.\nThe contention of the appellant is, that the information is fatally defective, in that it fails to charge that he possessed the present ability to commit the injury he is charged with intending to commit.\nWe do not think sucli a charge was necessary. The appellant is in error in assuming that he is charged with a mere assault with intent to commit a felony.\nIf such were the charge against him, then it would be necessary to allege the present ability to commit the injury, as such language is necessary to describe an assault. But the appellant is charged with an assault and battery, with the intent to commit a felony. The assault and battery is well charged, and no allegation to the effect that he possessed the present ability to commit the injury is necessary to a charge, of that kind.\nThis information, in our opinion, contains a good charge of assault and battery, with intent to commit the crime of murder. Knight v. State, 84 Ind. 73; Hays v. State, 77 Ind. 450; Keeling v. State, 107 Ind. 563.\nJudgment affirmed.\n",
+            "ocr": true,
+            "opinion_id": 7050928
+        }
+    ],
+    "court_short_name": "Indiana Supreme Court",
+    "court_full_name": "Indiana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Indiana, IN",
+    "crime_category": "Murder"
+}

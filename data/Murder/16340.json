@@ -1,8 +1,8 @@
 {
     "id": 2331089,
     "judges": "Becker, Dwyer, Leach",
-    "date_filed": 1320624000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-10-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-hawkins",
     "case_name_short": "Hawkins",
     "case_name": "State v. Hawkins",

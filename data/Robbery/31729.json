@@ -1,8 +1,8 @@
 {
     "id": 5687320,
     "judges": "Cooke, Jasen, Jones, Kaye, Ler, Meyer, Simons, Wacht",
-    "date_filed": 455846400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-11-05",
+    "date_filed_is_approximate": true,
     "slug": "rolfe-v-village-of-falconer",
     "case_name_short": "Rolfe",
     "case_name": "Rolfe v. Village of Falconer",

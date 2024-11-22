@@ -1,8 +1,8 @@
 {
     "id": 4933198,
     "judges": "Sweeney",
-    "date_filed": 1017273600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-03-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mora",
     "case_name_short": "Mora",
     "case_name": "State v. Mora",

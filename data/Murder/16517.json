@@ -1,8 +1,8 @@
 {
     "id": 2060650,
     "judges": "Bailey, Friedlander, Kirsch",
-    "date_filed": 1218412800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-05-12",
+    "date_filed_is_approximate": true,
     "slug": "davis-v-state",
     "case_name_short": "Davis",
     "case_name": "Davis v. State",

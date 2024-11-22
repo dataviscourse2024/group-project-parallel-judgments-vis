@@ -1,8 +1,8 @@
 {
     "id": 2280062,
     "judges": "Spaeth, Hester and Cavanaugh",
-    "date_filed": 365990400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-01-08",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-walton",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Walton",

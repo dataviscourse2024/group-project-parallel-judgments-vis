@@ -1,8 +1,8 @@
 {
     "id": 7761230,
     "judges": "Cope, Jorgenson, Nesbitt",
-    "date_filed": 839376000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-06-27",
+    "date_filed_is_approximate": true,
     "slug": "ferguson-v-state",
     "case_name_short": "Ferguson",
     "case_name": "Ferguson v. State",

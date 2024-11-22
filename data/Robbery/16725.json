@@ -1,8 +1,8 @@
 {
     "id": 2126404,
     "judges": "Evans",
-    "date_filed": 647222400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-12-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-alvas",
     "case_name_short": "Alvas",
     "case_name": "People v. Alvas",

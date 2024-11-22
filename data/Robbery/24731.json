@@ -1,8 +1,8 @@
 {
     "id": 4190056,
     "judges": "Taylor",
-    "date_filed": -984096000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-09-22",
+    "date_filed_is_approximate": true,
     "slug": "s-h-kress-co-v-rust",
     "case_name_short": "Rust",
     "case_name": "S. H. Kress & Co. v. Rust",

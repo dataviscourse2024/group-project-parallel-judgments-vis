@@ -1,8 +1,8 @@
 {
     "id": 2231139,
     "judges": "Braucher, Hennessey, Kaplan, Tauro, Wilkins",
-    "date_filed": 126835200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-10-02",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-lannon",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Lannon",

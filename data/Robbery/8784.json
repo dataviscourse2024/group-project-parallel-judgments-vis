@@ -1,8 +1,8 @@
 {
     "id": 1370430,
     "judges": "Meyers",
-    "date_filed": 1274832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-09-11",
+    "date_filed_is_approximate": true,
     "slug": "perez-v-state",
     "case_name_short": "Perez",
     "case_name": "Perez v. State",

@@ -1,8 +1,8 @@
 {
     "id": 5767571,
     "judges": "Broyles",
-    "date_filed": -1264204800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-07-21",
+    "date_filed_is_approximate": true,
     "slug": "turner-v-state",
     "case_name_short": "Turner",
     "case_name": "Turner v. State",

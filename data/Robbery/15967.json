@@ -1,8 +1,8 @@
 {
     "id": 1965076,
     "judges": "Lancaster",
-    "date_filed": 949536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-larson",
     "case_name_short": "Larson",
     "case_name": "State v. Larson",

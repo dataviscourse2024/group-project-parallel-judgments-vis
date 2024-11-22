@@ -1,0 +1,47 @@
+{
+    "id": 6018240,
+    "judges": null,
+    "date_filed": "1992-02-26",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-mcnamara",
+    "case_name_short": "McNamara",
+    "case_name": "People v. McNamara",
+    "case_name_full": "The People of the State of New York v. David F. McNamara",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "99 A.D.3d 1248",
+        "951 N.Y.2d 816"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*1249Memorandum: On this appeal by the People from an order granting defendant\u2019s motion to dismiss the indictment, we reject at the outset their contention that County Court lacked authority to grant defendant\u2019s motion because the court granted the motion upon a ground that was not timely asserted. According to the People, the only timely asserted ground for dismissal was that the People failed to inform defense counsel of charges other than the initial drug charges against defendant, but the court granted the motion on a different ground, i.e., that defendant\u2019s notice of appearance served as his request to testify before the grand jury with respect to the subsequent homicide charges against defendant and he was denied the right to testify. We note, however, that defendant\u2019s motion referenced the notice of appearance as the document that reserved defendant\u2019s right to testify before the grand jury, and in their opposing affidavit the People in fact addressed the ground on which the motion was granted, i.e., they contended that the notice of appearance was solely in connection with the initial drug charges and did not serve as defendant\u2019s request to testify regarding the homicide charges. Thus, it cannot be said that the court deprived the People of \u201cthe opportunity to address any alleged defects prior to dismissal of [the] indictment\u201d (People v Santmyer, 255 AD2d 871, 872 [1998], lv denied 93 NY2d 902 [1999]; see CPL 210.45 [2], [6]).\nNevertheless, we agree with the People on the merits that defendant was not denied his statutory right to testify before the grand jury and thus that the court erred in granting his motion to dismiss the indictment on that ground (see generally CPL 190.50 [5] [a]; People v Smith, 18 AD3d 888 [2005], lv denied 5 NY3d 794 [2005]). Defendant was not subject to an undisposed felony complaint in a local criminal court, and thus the District Attorney was not required to provide defendant with notice that the matter was going to be presented to a grand jury and to \u201caccord the defendant a reasonable time to exercise his right to appear as witness therein\u201d (CPL 190.50 [5] [a]; see People v Woodard, 197 AD2d 905 [1993]; People v Simmons, 178 AD2d *1250972, 972 [1991], lv denied 79 NY2d 1007 [1992]). Furthermore, defendant\u2019s notice of appearance applied only to the \u201cthen-entirely-separate [drug charges]\u201d and not to the subsequent homicide charges at issue, and the People therefore were not obligated to consider the notification, which included the request to testify, as pertaining to the subsequent homicide charges (People v Steed, 253 AD2d 714, 715 [1998], lv denied 92 NY2d 1054 [1999]). Thus, the notice of appearance did not trigger defendant\u2019s right to notification of the presentment of the homicide case. Present \u2014 Scudder, P.J., Smith, Centra, Lindley and Martoche, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5880713
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

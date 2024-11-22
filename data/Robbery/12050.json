@@ -1,8 +1,8 @@
 {
     "id": 1397292,
     "judges": "Miller",
-    "date_filed": 455500800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-12-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-huff",
     "case_name_short": "Huff",
     "case_name": "State v. Huff",

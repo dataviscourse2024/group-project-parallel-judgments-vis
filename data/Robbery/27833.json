@@ -1,8 +1,8 @@
 {
     "id": 4882471,
     "judges": null,
-    "date_filed": 1620777600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-01-14",
+    "date_filed_is_approximate": true,
     "slug": "nguyen-v-garland",
     "case_name_short": "Nguyen",
     "case_name": "Nguyen v. Garland",

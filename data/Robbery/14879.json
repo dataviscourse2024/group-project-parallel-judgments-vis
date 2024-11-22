@@ -1,8 +1,8 @@
 {
     "id": 1264816,
     "judges": "Moore",
-    "date_filed": 40435200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-12-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-neas",
     "case_name_short": "Neas",
     "case_name": "State v. Neas",

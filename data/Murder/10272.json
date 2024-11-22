@@ -1,8 +1,8 @@
 {
     "id": 1188111,
     "judges": "Price, Smith, Thiele, Wertz",
-    "date_filed": -617328000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-07-07",
+    "date_filed_is_approximate": true,
     "slug": "abbott-v-howard",
     "case_name_short": "Abbott",
     "case_name": "Abbott v. Howard",

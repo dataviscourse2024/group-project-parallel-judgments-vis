@@ -1,8 +1,8 @@
 {
     "id": 8715713,
     "judges": "Fong",
-    "date_filed": 726364800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-01-09",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-cook",
     "case_name_short": "Cook",
     "case_name": "United States v. Cook",

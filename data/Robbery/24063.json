@@ -1,8 +1,8 @@
 {
     "id": 4055027,
     "judges": "Bessey, Doyle, Matson",
-    "date_filed": -1421107200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-06-23",
+    "date_filed_is_approximate": true,
     "slug": "hopkins-v-state",
     "case_name_short": "Hopkins",
     "case_name": "Hopkins v. State",

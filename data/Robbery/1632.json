@@ -1,8 +1,8 @@
 {
     "id": 8080695,
     "judges": "Boslaugh, McCown, Newton, Smith, Spencer, Stuart, Tuart, White",
-    "date_filed": -30153600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-04-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-caldwell",
     "case_name_short": "Caldwell",
     "case_name": "State v. Caldwell",

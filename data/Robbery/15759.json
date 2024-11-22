@@ -1,8 +1,8 @@
 {
     "id": 1896609,
     "judges": "Joanos",
-    "date_filed": 563068800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-05-09",
+    "date_filed_is_approximate": true,
     "slug": "bellinger-v-state",
     "case_name_short": "Bellinger",
     "case_name": "Bellinger v. State",

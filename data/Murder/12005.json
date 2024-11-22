@@ -1,8 +1,8 @@
 {
     "id": 1388577,
     "judges": "Chavez, Donnelly, Minzner",
-    "date_filed": 674179200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-03-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-gardner",
     "case_name_short": "Gardner",
     "case_name": "State v. Gardner",

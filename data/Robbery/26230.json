@@ -1,8 +1,8 @@
 {
     "id": 4532298,
     "judges": null,
-    "date_filed": 1536019200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-02-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lewis",
     "case_name_short": "Lewis",
     "case_name": "State v. Lewis",

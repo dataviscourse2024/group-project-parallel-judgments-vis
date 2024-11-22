@@ -1,8 +1,8 @@
 {
     "id": 6160423,
     "judges": null,
-    "date_filed": 896745600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-10-08",
+    "date_filed_is_approximate": true,
     "slug": "people-v-johnson",
     "case_name_short": null,
     "case_name": "People v. Johnson",

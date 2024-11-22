@@ -1,8 +1,8 @@
 {
     "id": 1156297,
     "judges": "Miller",
-    "date_filed": 534556800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-04-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-humphrey",
     "case_name_short": "Humphrey",
     "case_name": "State v. Humphrey",

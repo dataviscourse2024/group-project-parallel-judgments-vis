@@ -1,8 +1,8 @@
 {
     "id": 2379315,
     "judges": "Galbreath, Mitchell, Oliver",
-    "date_filed": 37324800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-02-14",
+    "date_filed_is_approximate": true,
     "slug": "beaty-v-neil",
     "case_name_short": "Beaty",
     "case_name": "Beaty v. Neil",

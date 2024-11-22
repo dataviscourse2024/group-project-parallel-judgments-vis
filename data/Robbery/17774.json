@@ -1,8 +1,8 @@
 {
     "id": 2348023,
     "judges": "Eagen, Manderino, Nix, O'Brien, Packel, Pomeroy, Roberts",
-    "date_filed": 251683200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-05-05",
+    "date_filed_is_approximate": true,
     "slug": "wilson-v-blake",
     "case_name_short": "Wilson",
     "case_name": "Wilson v. Blake",

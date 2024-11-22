@@ -1,8 +1,8 @@
 {
     "id": 6202520,
     "judges": null,
-    "date_filed": 984960000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-05-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cleon",
     "case_name_short": "Cleon",
     "case_name": "People v. Cleon",

@@ -1,8 +1,8 @@
 {
     "id": 2583989,
     "judges": "Graham, Marquez, Rothenberg",
-    "date_filed": 1065657600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-09-17",
+    "date_filed_is_approximate": true,
     "slug": "people-v-hoskay",
     "case_name_short": "Hoskay",
     "case_name": "People v. Hoskay",

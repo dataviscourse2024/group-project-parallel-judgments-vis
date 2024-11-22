@@ -1,8 +1,8 @@
 {
     "id": 6086089,
     "judges": null,
-    "date_filed": 707961600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-03-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-chambers",
     "case_name_short": "Chambers",
     "case_name": "People v. Chambers",

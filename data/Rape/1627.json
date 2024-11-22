@@ -1,8 +1,8 @@
 {
     "id": 8080137,
     "judges": "Carter, Chappell, Mess, More, Paine, Simmons, Wenke, Yeager",
-    "date_filed": -659145600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-01-27",
+    "date_filed_is_approximate": true,
     "slug": "swanson-v-state",
     "case_name_short": "Swanson",
     "case_name": "Swanson v. State",

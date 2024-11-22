@@ -1,8 +1,8 @@
 {
     "id": 599048,
     "judges": "Davis, Jones, Politz",
-    "date_filed": 729216000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-11-24",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-markum-lynn-fitzhugh",
     "case_name_short": null,
     "case_name": "United States v. Markum Lynn Fitzhugh",

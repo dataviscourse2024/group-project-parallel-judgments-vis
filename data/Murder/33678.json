@@ -1,0 +1,46 @@
+{
+    "id": 6086126,
+    "judges": null,
+    "date_filed": "2002-08-15",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-robert",
+    "case_name_short": "Robert",
+    "case_name": "People v. Robert",
+    "case_name_full": "The People of the State of New York v. Evans Robert, Also Known as Robert Charlie Evans",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "184 A.D.2d 597"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Lombardo, J.), rendered July 11, 1988, convicting him of murder in the second degree (two counts), criminal possession of a weapon in the second degree, and criminal possession of a weapon in the third degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant\u2019s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nThe defendant argues that both the lineup and in-court identification should have been suppressed. He contends that *598the lineup identification by a witness was tainted by a suggestive photographic array. Specifically, he claims that the darker, \"almost black\u201d background in his photograph, made it stand out from the others.\nA photographic display is suggestive where some characteristic of one picture draws the viewer\u2019s attention to it, indicating that the police have made a particular selection (see, People v Cherry, 150 AD2d 475; People v Dubois, 140 AD2d 619, 622; People v Shea, 54 AD2d 722; People v Emmons, 123 AD2d 475, 476). An examination of the six-picture array employed in this case demonstrates that it was not suggestive. Although it may have been better practice to have taken the defendant\u2019s picture against a lighter background, it cannot be said that this difference tainted the photographic array. The defendant\u2019s appearance and pose did not differ greatly from those of the men in the other photographs. Each man, including the defendant, was close in age, had a similar hairstyle (a short afro), skin tone, and facial characteristics (see, People v Floyd, 173 AD2d 211; People v Emmons, supra, at 476; Matter of Christopher E., 163 AD2d 385).\nMoreover, even if the photographic identification had been suggestive, it would not have tainted the subsequent lineup identification. Significantly, the lineup was held approximately 19 months thereafter and was thus sufficiently attenuated in time to nullify any possible taint (see, People v Sutherland, 157 AD2d 681; People v Hernandez, 143 AD2d 842; People v Dubois, supra, at 622; People v Smith, 140 AD2d 647).\nThe defendant also argues that evidence of the lineup identification should have been suppressed because differences with respect to the height of the six lineup participants rendered the procedure unduly suggestive. While it is well established that the participants in a lineup should have the same general physical characteristics (see, People v Burns, 138 AD2d 614, 615), there is no requirement that a defendant in a lineup be surrounded by individuals nearly identical in appearance (see, People v Henderson, 170 AD2d 532; People v Jackson, 151 AD2d 694). The testimony in the record establishes that the defendant was five feet nine inches tall, and the other participants were five feet eight inches, five feet nine inches, six feet one inch, six feet one inch, and six feet three inches tall, respectively. We find that any discrepancy in height was minimized by the fact that the witness viewed the lineup participants while they were seated (see, People v Curtin, 115 AD2d 753; People v Jackson, supra).\nThe defendant\u2019s claim that the People\u2019s failure to preserve *599the photographs of the lineup gives rise to an inference that the lineup was suggestive is without merit. \u201cThe fact that * * * the photograph[s] of the lineup were apparently lost sometime after trial does not give rise to an inference that the * * * lineup was suggestive, since the hearing court had the opportunity to view the photographs and determined that they were not unduly suggestive\u201d (People v Gonzalez, 168 AD2d 283; see, People v Eleby, 137 AD2d 707, 708).\nThe defendant\u2019s remaining contentions are either unpreserved for appellate review or without merit. Harwood, J. P., Rosenblatt, Ritter and Pizzuto, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5950424
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

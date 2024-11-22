@@ -1,8 +1,8 @@
 {
     "id": 8027495,
     "judges": null,
-    "date_filed": 131328000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-12-14",
+    "date_filed_is_approximate": true,
     "slug": "state-v-thomale",
     "case_name_short": "Thomale",
     "case_name": "State v. Thomale",

@@ -1,0 +1,46 @@
+{
+    "id": 8316203,
+    "judges": "Morrow",
+    "date_filed": "2017-03-16",
+    "date_filed_is_approximate": true,
+    "slug": "washington-v-state",
+    "case_name_short": null,
+    "case_name": "Washington v. State",
+    "case_name_full": "WASHINGTON v. STATE",
+    "attorneys": "Levi Herring, of Fairfield, for appellant., Sam D. Stinson, State\u2019s Atty., and Robt. M. Lyles, Asst. State\u2019s Atty., both of Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "298 S.W. 898"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrow",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMORROW, P. J.\nThe offense is rape; punishment fixed at confinement in the penitentiary for a period of 5 years.\nThe prosecutrix, Jessie Davis, a girl 14 yeai's of age, and stepdaughter of the appellant, gave direct and positive testimony to the commission of the offense. The appellant denied it. There was testimony to circumstances from other witnesses introduced tending to support the theory of both the state and the appellant. We do not conceive the evidence of the prosecutrix and the state\u2019s witnesses to present an alleged state of facts so incredible as to warrant the appellate court in overturning the verdict of the jury which has the sanction of the trial court.\nOur examination of the court\u2019s charge and the special \"charges given at the request of the appellant leads us to the conclusion that the issues arising from the evidence were fairly presented to the jury.\nThere are no exceptions to either the charge of the court or its ruling upon the admission or rejection of evidence, or any other matter of procedure during the trial. Reliance for a reversal appears to be upon the motion for a new trial alone. In that document there are criticisms of the court\u2019s ruling upon the admission and rejection of evidence, but none of these complaints are verified by bills of exceptions. ,\nA review of the action of the court in receiving or rejecting testimony cannot be had, unless the matter is preserved and presented on appeal by bills of exceptions, as required by statute. 2 Vernon\u2019s Tex. C. C. P. art. 667, p. 342.\nThe judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 8283427
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Rape"
+}

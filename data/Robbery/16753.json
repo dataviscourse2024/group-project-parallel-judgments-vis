@@ -1,8 +1,8 @@
 {
     "id": 2132043,
     "judges": "DeBRULER, Dickson, Givan, Pivarnik, Shepard",
-    "date_filed": 602208000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-07-19",
+    "date_filed_is_approximate": true,
     "slug": "mears-v-state",
     "case_name_short": "Mears",
     "case_name": "Mears v. State",

@@ -1,8 +1,8 @@
 {
     "id": 1309437,
     "judges": "Copeland",
-    "date_filed": 357868800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-03-17",
+    "date_filed_is_approximate": true,
     "slug": "state-v-cox",
     "case_name_short": "Cox",
     "case_name": "State v. Cox",

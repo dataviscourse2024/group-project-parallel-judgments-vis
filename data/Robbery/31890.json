@@ -1,8 +1,8 @@
 {
     "id": 5714251,
     "judges": "Bleckley",
-    "date_filed": -2476310400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1997-10-07",
+    "date_filed_is_approximate": true,
     "slug": "mangham-v-state",
     "case_name_short": "Mangham",
     "case_name": "Mangham v. State",

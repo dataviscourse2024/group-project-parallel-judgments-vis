@@ -1,8 +1,8 @@
 {
     "id": 2009534,
     "judges": "DeBruler, Givan",
-    "date_filed": 105235200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-12",
+    "date_filed_is_approximate": true,
     "slug": "taylor-v-state",
     "case_name_short": "Taylor",
     "case_name": "Taylor v. State",

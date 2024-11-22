@@ -1,8 +1,8 @@
 {
     "id": 2063248,
     "judges": "Green",
-    "date_filed": 754617600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-01-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cole",
     "case_name_short": "Cole",
     "case_name": "People v. Cole",

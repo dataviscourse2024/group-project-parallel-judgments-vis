@@ -1,8 +1,8 @@
 {
     "id": 1284055,
     "judges": "Arnold, Clark, Martin",
-    "date_filed": 174700800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-05-30",
+    "date_filed_is_approximate": true,
     "slug": "state-v-gantt",
     "case_name_short": "Gantt",
     "case_name": "State v. Gantt",

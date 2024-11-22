@@ -1,8 +1,8 @@
 {
     "id": 3455388,
     "judges": "Thomas",
-    "date_filed": -886550400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-10-30",
+    "date_filed_is_approximate": true,
     "slug": "noble-v-commonwealth",
     "case_name_short": "Noble",
     "case_name": "Noble v. Commonwealth",

@@ -1,8 +1,8 @@
 {
     "id": 2621999,
     "judges": "Kulik",
-    "date_filed": 1221696000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-12-22",
+    "date_filed_is_approximate": true,
     "slug": "state-v-nason",
     "case_name_short": "Nason",
     "case_name": "State v. Nason",

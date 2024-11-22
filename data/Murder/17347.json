@@ -1,8 +1,8 @@
 {
     "id": 2210409,
     "judges": "Frossard, O'Brien",
-    "date_filed": 925084800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-02-14",
+    "date_filed_is_approximate": true,
     "slug": "people-v-jackson",
     "case_name_short": null,
     "case_name": "People v. Jackson",

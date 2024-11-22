@@ -1,8 +1,8 @@
 {
     "id": 1849369,
     "judges": "Patterson, Smith and Broom",
-    "date_filed": 169689600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-10-21",
+    "date_filed_is_approximate": true,
     "slug": "edmond-v-state",
     "case_name_short": "Edmond",
     "case_name": "Edmond v. State",

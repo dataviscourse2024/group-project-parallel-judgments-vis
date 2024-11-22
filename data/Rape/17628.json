@@ -1,8 +1,8 @@
 {
     "id": 2299653,
     "judges": "Gilbert",
-    "date_filed": 1018396800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-11-02",
+    "date_filed_is_approximate": true,
     "slug": "people-v-cervantes",
     "case_name_short": "Cervantes",
     "case_name": "People v. Cervantes",

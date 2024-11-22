@@ -1,8 +1,8 @@
 {
     "id": 8488474,
     "judges": "Fletcher, Gould, Tallman",
-    "date_filed": 1238025600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-07-27",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-vineyard",
     "case_name_short": "Vineyard",
     "case_name": "United States v. Vineyard",

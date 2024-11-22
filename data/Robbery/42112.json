@@ -1,8 +1,8 @@
 {
     "id": 7762299,
     "judges": "John, Patterson, Scheb, Whatley",
-    "date_filed": 843004800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2019-03-06",
+    "date_filed_is_approximate": true,
     "slug": "cherry-v-state",
     "case_name_short": "Cherry",
     "case_name": "Cherry v. State",

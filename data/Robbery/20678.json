@@ -1,8 +1,8 @@
 {
     "id": 2972528,
     "judges": "Batchelder, Mills, Norris",
-    "date_filed": 1118102400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-02-17",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-zabawa",
     "case_name_short": "Zabawa",
     "case_name": "United States v. Zabawa",

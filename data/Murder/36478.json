@@ -1,0 +1,47 @@
+{
+    "id": 6649639,
+    "judges": "Harwood",
+    "date_filed": "1994-11-06",
+    "date_filed_is_approximate": true,
+    "slug": "kelso-v-state",
+    "case_name_short": "Kelso",
+    "case_name": "Kelso v. State",
+    "case_name_full": "Ruby Lee KELSO v. STATE",
+    "attorneys": "Noble J. Russell and Robt. Straub, Decatur, for appellant., MacDonald Gallion, Atty. Gen., and Jos. D. Phelps, Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "40 Ala. App. 627",
+        "119 So. 2d 916"
+    ],
+    "opinions": [
+        {
+            "author_str": "Harwood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHARWOOD, Presiding Judge.\nThis appellant, under an indictment charging murder in the second degree, has been adjudged guilty of manslaughter in the first degree, and sentenced to imprisonment in the pententiary for a term of three years..\n*628The prosecution grew out of the death of the eighteen month old son of Mr. and Mrs. Howard Milsap, who was found near death in the road in front of the Milsap home.\nThe evidence presented by the State tended to show that the child was injured by an automobile driven by the appellant.\nThe appellant denied having struck the child with his automobile.\nWe have read the evidence with care. Counsel for appellant contends it is insufficient to support the verdict and judgment unless resort be had to surmise and speculation. We do not agree with this contention, but are of the conclusion that the evidence was so sufficient, and that the lower court did not err in refusing appellant\u2019s requests for charges affirmative in nature, nor in denying appellant\u2019s motion for a new trial on the grounds relating to the sufficiency to the evidence.\nThe evidence will not be set out since in our opinion the judgment must be reversed because of the erroneous admission of certain evidence.\nThe record shows that during the direct examination of two of the State\u2019s witnesses, Mr. E. M. F. Parish, a State highway patrolman, and Mr. Franklin Smith, Sheriff of Lawrence County at the time of the child\u2019s injury, each were permitted to testify, over the defendant\u2019s well grounded objections, that the appellant was under the influence of intoxicating beverages at the time they interviewed him in the Sheriff\u2019s office some six hours after the child was injured.\nOrdinarily an accused\u2019s condition of sobriety some time after the commission of an offense is no part of the res gestae of said offense.\nIt is therefore well settled by our decisions that it is not permissible to show that a defendant was drinking, or under the influence of intoxicating liquors, a substantial time after the commission of an offense, unless it first be shown that the defendant had no access to such liquor between the time of the offense and the time he was observed. Moates v. State, Ala.App., 115 So.2d 277;1 Blevins v. State, 38 Ala.App. 584, 90 So.2d 98; Gamble v. State, 36 Ala.App. 581, 60 So.2d 696; Rainey v. State, 31 Ala.App. 66, 12 So.2d 106; Phillips v. State, 25 Ala.App. 286, 145 So. 169; Turner v. State, 26 Ala.App. 397, 160 So. 774.\nWhen the defense objected to the questions seeking testimony as to appellant\u2019s condition of sobriety, the solicitor informed the court he expected to introduce statements or admissions against interest made by the appellant at the time of his interview, and the questions therefore sought evidence going to the credibility of such admissions. The court, upon such representation by the solicitor, overruled the defense objections, as before stated.\nWhen a confession, or admission against interest is admitted, an accused is in effect indirectly testifying. The accused\u2019s capacity and competency as a witness is presumed. If incapacity existed such was a matter to be shown by the adverse party, either by voir dire examination prior to the introduction of accused\u2019s alleged statement, or by cross-examination and a motion to exclude if incapacity be developed. See Redwine v. State, 36 Ala.App. 560, 61 So.2d 715.\nThe argument advanced by the solicitor for the admission of the evidence sought, i. e., as going to the credibility of the statements of the accused, is indeed productive of an anomalous result in that it would permit the proponent of evidence to also introduce evidence going to discredit the very evidence he has introduced.\nFor the above error this judgment is due to be reversed.\nReversed and remanded.\n\n. Ante, p. 234.\n\n",
+            "ocr": true,
+            "opinion_id": 6526526
+        }
+    ],
+    "court_short_name": "Alabama Court of Appeals",
+    "court_full_name": "Alabama Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Murder"
+}

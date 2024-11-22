@@ -1,8 +1,8 @@
 {
     "id": 1144033,
     "judges": "Per Curiam",
-    "date_filed": 92707200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-03-28",
+    "date_filed_is_approximate": true,
     "slug": "reedy-v-state",
     "case_name_short": "Reedy",
     "case_name": "Reedy v. State",

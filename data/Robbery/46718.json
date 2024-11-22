@@ -1,8 +1,8 @@
 {
     "id": 8707938,
     "judges": "Mentz",
-    "date_filed": 663984000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-12-31",
+    "date_filed_is_approximate": true,
     "slug": "wilson-v-lensing",
     "case_name_short": "Wilson",
     "case_name": "Wilson v. Lensing",

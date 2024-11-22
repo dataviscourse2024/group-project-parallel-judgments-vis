@@ -1,8 +1,8 @@
 {
     "id": 1353485,
     "judges": "Sears",
-    "date_filed": 1118016000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-10-01",
+    "date_filed_is_approximate": true,
     "slug": "murphy-v-state",
     "case_name_short": null,
     "case_name": "Murphy v. State",

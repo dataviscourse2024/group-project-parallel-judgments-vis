@@ -1,8 +1,8 @@
 {
     "id": 2212503,
     "judges": "Taylor",
-    "date_filed": -193104000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-08-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-moranda",
     "case_name_short": "Moranda",
     "case_name": "People v. Moranda",

@@ -1,8 +1,8 @@
 {
     "id": 3001425,
     "judges": "Bauer",
-    "date_filed": 1205366400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-09",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-de-horta-garcia-jos",
     "case_name_short": null,
     "case_name": "United States v. De Horta Garcia, Jos",

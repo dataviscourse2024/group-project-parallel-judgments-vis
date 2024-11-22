@@ -1,8 +1,8 @@
 {
     "id": 7625094,
     "judges": "Edwards, Leblanc, Watkins",
-    "date_filed": 541814400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-05-07",
+    "date_filed_is_approximate": true,
     "slug": "state-v-johnson",
     "case_name_short": null,
     "case_name": "State v. Johnson",

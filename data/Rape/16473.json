@@ -1,8 +1,8 @@
 {
     "id": 2075922,
     "judges": "Leighton, McNAMARA",
-    "date_filed": 62726400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-11-05",
+    "date_filed_is_approximate": true,
     "slug": "people-v-garcia",
     "case_name_short": "Garcia",
     "case_name": "People v. Garcia",

@@ -1,8 +1,8 @@
 {
     "id": 1514962,
     "judges": "Morton, Murphy, Ortpi, Thompson",
-    "date_filed": -38793600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-07-04",
+    "date_filed_is_approximate": true,
     "slug": "tyler-v-state",
     "case_name_short": "Tyler",
     "case_name": "Tyler v. State",

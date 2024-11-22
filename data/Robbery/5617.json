@@ -1,8 +1,8 @@
 {
     "id": 8891864,
     "judges": "Gordon",
-    "date_filed": 388972800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-10-20",
+    "date_filed_is_approximate": true,
     "slug": "weber-v-israel",
     "case_name_short": "Weber",
     "case_name": "Weber v. Israel",

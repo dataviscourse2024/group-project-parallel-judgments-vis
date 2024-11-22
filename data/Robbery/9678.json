@@ -1,8 +1,8 @@
 {
     "id": 2582694,
     "judges": "Lansing",
-    "date_filed": 1137542400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-05-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-wilson",
     "case_name_short": "Wilson",
     "case_name": "State v. Wilson",

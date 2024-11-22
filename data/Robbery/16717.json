@@ -1,8 +1,8 @@
 {
     "id": 2125665,
     "judges": "LaPORTA",
-    "date_filed": 672019200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-02-12",
+    "date_filed_is_approximate": true,
     "slug": "people-v-hawkins",
     "case_name_short": "Hawkins",
     "case_name": "People v. Hawkins",

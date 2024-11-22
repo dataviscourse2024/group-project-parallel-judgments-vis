@@ -1,8 +1,8 @@
 {
     "id": 1902533,
     "judges": "Garibaldi",
-    "date_filed": 896832000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-04-20",
+    "date_filed_is_approximate": true,
     "slug": "cesare-v-cesare",
     "case_name_short": "Cesare",
     "case_name": "Cesare v. Cesare",

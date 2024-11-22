@@ -1,0 +1,46 @@
+{
+    "id": 7562133,
+    "judges": "Tate",
+    "date_filed": "2002-09-14",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-hoffpauir",
+    "case_name_short": "Hoffpauir",
+    "case_name": "State v. Hoffpauir",
+    "case_name_full": "STATE of Louisiana v. Robert Jack HOFFPAUIR, a/k/a Bobby Jack Hoffpauir",
+    "attorneys": "Emile A. Carmouche, Jr., Crowley, for appellant., William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., J. Nathan Stansbury, Dist. Atty., Robert T. Cline, Asst. Dist. Atty., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "355 So. 2d 929"
+    ],
+    "opinions": [
+        {
+            "author_str": "Tate",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nTATE, Justice.\nThe defendant was Convicted of manslaughter, La.R.S. 14:31, and sentenced to fifteen years imprisonment. He argues seven assignments of error upon his appeal. We find no merit in them and affirm.\n\nFacts\n\nBefore summarizing the assignments, we state the background facts:\nThe defendant is charged with killing Glenn Russell. Russell\u2019s tenant was the wife of the defendant\u2019s nephew. Hearing that Russell had made an advance to the lady (put his arms around her), the defendant went to Russell\u2019s residence at about 4:00 P.M. on January 11, 1977.\n*931Before entering the residence, the defendant told a witness in a grocery store across the street that he was \u201cfixing to kill a man.\u201d The witness saw him shove Russell\u2019s door open and enter Russell\u2019s house.\nAbout thirty minutes later, the defendant returned to the store. He asked the proprietor to call an ambulance and, then, the police. In the presence of three other witnesses, he stated, variously that \u201cI hit the man once and he fell . . . he\u2019s dying\u201d and that \u201cHe thought he killed a man\u201d..\nThe police arrived soon afterwards. They found Russell in his bedroom with his head and face bloody and a small table with its top broken off and blood and hair on it, and the bedroom in disarray.\nAt about 10:00 A.M. on the morning after the beating (i. e., on January 12), the police found the defendant sleeping at his mother\u2019s house. They brought him to the police station where, after Miranda warnings, he gave them a statement. The substance of the statement is that the defendant was drinking with Russell in the latter\u2019s home, that he left to get a six-pack of beer, and that when he returned he found Russell beaten up. The accused denied any argument with Russell.\nRussell died eight days later in the hospital. The cause of death is shown to be one of two blows received, a blow over the forehead and one down the temple. It caused a skull fracture and brain damage.\n\nAssignments of Error\n\nWe find no merit to the assignments of error:\nAssignment 1: The defendant complains that his statement was involuntary because he was too intoxicated at the time to waive his rights to the assistance of an attorney. The evidence of the police officers, who arrested him at ten in the morning on the day following the beating, is to the effect that, while he smelled of his drinking the day previously, he exhibited no signs of intoxication and was apparently in full possession of his faculties. We find no error in the trial court\u2019s determination that the state had borne its burden of proving beyond a reasonable doubt that the accused\u2019s statement was made freely and voluntarily. See, e. g. State v. Bias, 352 So.2d 1011 (La.1977).\nAssignment 2: The defendant complains of the denial of his motion to suppress as evidence a shirt and trousers belonging to him. They were apparently secured from his nephew\u2019s house with the consent of the nephew. Aside from any other reason for lack of merit to this assignment, the evidence sought to be suppressed was not alluded to nor introduced in evidence.\nAssignment 3: The defendant complains that the state was permitted to ask-leading questions of its own witness (the defendant\u2019s niece), in violation of La.R.S. 15:277. The questions objected to were not leading questions. Aside from this, immediately subsequent to the objection, the state was permitted to establish that the niece was an unwilling witness and thus subject to interrogation by such questions. La.R.S. 15:277.\nAssignment 4: The objections to admission of the defendant\u2019s statement are without merit, for the reasons stated in our discussion of Assignment 1. No objection was made at the time of their introduction to the photographs of the victim and of the table allegedly used to beat him. Aside from no shown merit to the belated complaint by assignment of error, complaints as to their admissibility were waived by permitting their introduction into evidence without objection. La.C.Cr.P. art. 841.\nAssignment 5: The defendant attempted to introduce into evidence an alleged response made to the defendant\u2019s nephew by the victim when the latter was in the hospital. The response was, allegedly, to the effect that the defendant was not his assailant. The trial court indicated a willingness to receive this hearsay declaration if the defendant could advance any basis for excepting it from inadmissibility as hearsay. The defendant\u2019s counsel was unable to do so at the time, and the state\u2019s *932objection was sustained. (Nor does the record indicate that the response might have been admissible as a dying declaration made by a person in the immediate prospect of death and without hope of recovery. See Pugh, Louisiana Evidence Law 462 (1974) and State v. Vincent, 338 So.2d 1376 (La. 1976).)\nAssignment 6: Since there was some evidence of the defendant\u2019s guilt, no issue reviewable on appeal is presented by the motion for a new trial based on the contention that the verdict was contrary to the evidence presented.\nAssignment 7: The defendant complains that the state did not afford him the pre-trial notice required by La.C.Cr.P. art. 768 before introducing his inculpatory statements to the witnesses in the grocery store immediately before and after the beating. Aside from the probable admissibility of these statements without the requisite prior notice (as res gestae), the defendant did not object to the introduction during the trial. His failure to object at the time waives his right to complain after the verdict of their admissibility. La.C. Cr.P. art. 841.\n\nDecree\n\nFinding no merit to the assignments of error, we affirm the conviction and sentence.\n",
+            "ocr": true,
+            "opinion_id": 7489129
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Murder"
+}

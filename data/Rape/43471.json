@@ -1,0 +1,47 @@
+{
+    "id": 8041169,
+    "judges": "Ethridge, Jones, McElroy, McGehee, Rodgers",
+    "date_filed": "2001-12-28",
+    "date_filed_is_approximate": true,
+    "slug": "winters-v-state",
+    "case_name_short": "Winters",
+    "case_name": "Winters v. State",
+    "case_name_full": "Winters v. State",
+    "attorneys": "Charles C. Finch, Batesville, for appellant., G. Garland Lyell, Jr., Asst. Atty. Gen., Jackson, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "244 Miss. 704",
+        "146 So. 2d 350"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ethridge",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nEthridge, J.\nAaron Winters, appellant, was convicted in the Circuit Court of Quitman County of attempted rape upon an eleven year old girl, and was sentenced to ten years in the state penitentiary. The evidence, in conflict to some extent, is sufficient to support the conviction, but it must be reversed because of a material and probably prejudicial error of law in the granting of an instruction for the State.\nThe State obtained two instructions pertaining to the elements of the offense. One of them was adequate. The second stated: \u201cThe Court instructs the Jury for the State that Attempted Rape is a constituent offense of Rape and if you believe in this case beyond a reasonable doubt that the Defendant, Aaron Winters, did not wilfully, unlawfully and feloniously ravish and carnally know the said Diane Winters, a female child under the age of 12 years, then it is your sworn duty to find the Defendant, Aaron Winters, guilty of Attempted Rape and the form of your verdict may be: \u2018We, the Jury, find the Defendant, Aaron Winters Guilty of Attempted Rape\u2019.\u201d\n In short, this instruction told the jury that, if defendant was not guilty of rape (and the evidence shows he was not), then it is the jury\u2019s duty to find Winters guilty of attempted rape. This is a peremptory instruction for the State, which is not permissible in a criminal case. If it is assumed that the State\u2019s attorneys inadvertently omitted some qualifications or clauses from it, perhaps in having it typed, nevertheless it went to the jury in this form, and was erroneous and misleading.\n Supreme Court Rule 11 provides: \u201cNo judgment shall be reversed on ground of misdirection to the *707jury . . . , unless it shall affirmatively appear, from the whole record, that such judgment has resulted in a miscarriage of justice.\u201d The State argues that Rule 11 is applicable here, but we do not think so. The error was not slight, and it probably misled the jury as to their duty. The error is substantial, and there was a conflict in the evidence on the issue of guilt. See Brown v. Addington, 233 Miss. 435, 102 So. 2d 365 (1958). Jones v. State, 104 Miss. 871, 61 So. 979 (1913), discusses the history and rationale of Rule 11. It does not apply where there was a substantial error and probable prejudice resulting from it.\nReversed and remanded.\nMcGehee, G. J., and McElroy, Rodgers, and Jones, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7997678
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Rape"
+}

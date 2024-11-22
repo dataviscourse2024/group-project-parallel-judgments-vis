@@ -1,8 +1,8 @@
 {
     "id": 2082734,
     "judges": "Wagner, Chief Judge, Reid, Associate Judge, and Belson, Senior Judge",
-    "date_filed": 998438400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-06-07",
+    "date_filed_is_approximate": true,
     "slug": "in-re-awk",
     "case_name_short": "In Re AWK",
     "case_name": "In Re AWK",

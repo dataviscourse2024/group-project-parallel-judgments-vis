@@ -1,8 +1,8 @@
 {
     "id": 9367500,
     "judges": null,
-    "date_filed": 1671753600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-07-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-ward",
     "case_name_short": "Ward",
     "case_name": "State v. Ward",

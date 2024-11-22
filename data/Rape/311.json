@@ -1,0 +1,46 @@
+{
+    "id": 7812021,
+    "judges": "Cobb, Griffin, Palmer",
+    "date_filed": "2012-09-23",
+    "date_filed_is_approximate": true,
+    "slug": "sf-v-department-of-children-families",
+    "case_name_short": "S.F.",
+    "case_name": "S.F. v. Department of Children & Families",
+    "case_name_full": "S.F., Mother of A.F., A Child v. DEPARTMENT OF CHILDREN AND FAMILIES",
+    "attorneys": "Ryan Thomas Truskoski of Ryan Thomas Truskoski, P.A., Orlando, for Appellant., James R. Sawyer, Jr., Kissimmee and Charles D. Peters, Orlando, for Appellee Department of Children & Families., Timothy A. Straus of Moyer, Straus & Patel, P.A., Altamonte Springs, for Appel-lee, M.P., Father.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "825 So. 2d 521"
+    ],
+    "opinions": [
+        {
+            "author_str": "Palmer",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPALMER, J.\nS.F. (mother) appeals the final order entered by the trial court placing her daughter in the custody of the child\u2019s father pursuant,to section 39.521(3)(b), Florida Statutes (2000). Although we find sufficient evidence in the record to support the court\u2019s ruling adjudicating the child dependent in accordance with the mother\u2019s consent plea and placing her in her father\u2019s custody, we vacate the adjudication order ,and remand to the trial court to include written findings as to the voluntary nature of the mother\u2019s plea.\nThe mother contends that the trial court\u2019s adjudication and disposition orders must be reversed because her plea colloquy was legally insufficient based on the trial court\u2019s failure to inquire into the nature of the dependency allegations. We disagree. Our review of the record revealed that the trial court conducted a proper plea colloquy and entered an oral finding as to the voluntariness of the mother\u2019s plea.\nFurthermore, the court set forth in its written order specific facts supporting the dependency adjudication, including the mother\u2019s domestic violence and failure to protect the child from molestation which placed the child at risk. However, the court failed to set forth in the adjudication order written findings regarding the voluntary nature of the mother\u2019s consent. In fact, no mention was made in the order regarding the voluntariness of the plea. Although the court\u2019s oral ruling as to the mother\u2019s voluntariness is supported by the record, the adjudication order must be vacated and the matter remanded so that the trial court can enter an adjudication order which includes written findings as to the voluntariness of the mother\u2019s plea as required by rule 8.325 of the Florida Rules of Juvenile Procedure.1 See J.C.G. v. Dep\u2019t of Children &amp; Families, 780 So.2d *523965 (Fla. 5th DCA 2001)(holding that where no findings of fact are provided to support the adjudication of dependency, the matter must be remanded with instructions to the trial court to provide such findings).\nWe conclude the mother\u2019s other arguments lack merit.\nVACATED and REMANDED with instructions.\nCOBB and GRIFFIN, JJ., concur.\n\n. The rule provides, in relevant part:\nRule 8.325. Answers and Pleadings\n(c) Admission of or Consent to Dependency. The parent or legal custodian may admit or consent to a finding of dependency. The court shall determine that any admission or consent to a finding of dependency is made voluntarily and with a full understanding of the nature of the allegations and the possible consequences of such admission. or consent, and that the parent has been advised of the right to be represented by counsel. The court shall incorporate these findings into its order in addition to findings of fact specifying the act or acts causing dependency, by whom committed, and facts upon which the findings are based. If the answer admits the allegations of the.petition it shall constitute consent to a predisposition study.\n\n",
+            "ocr": true,
+            "opinion_id": 7753169
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Rape"
+}

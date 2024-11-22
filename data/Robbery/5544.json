@@ -1,8 +1,8 @@
 {
     "id": 8877724,
     "judges": "Burns",
-    "date_filed": 296352000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-11-23",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-e-k",
     "case_name_short": null,
     "case_name": "United States v. E. K.",

@@ -1,8 +1,8 @@
 {
     "id": 8497775,
     "judges": "Barry, Dubois, Smith",
-    "date_filed": 1248652800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-01-05",
+    "date_filed_is_approximate": true,
     "slug": "gulley-v-elizabeth-city-police-department",
     "case_name_short": "Gulley",
     "case_name": "Gulley v. Elizabeth City Police Department",

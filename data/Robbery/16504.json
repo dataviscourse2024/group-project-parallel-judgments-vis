@@ -1,8 +1,8 @@
 {
     "id": 2081859,
     "judges": "Goldberg",
-    "date_filed": 259200000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-16",
+    "date_filed_is_approximate": true,
     "slug": "people-v-lucas",
     "case_name_short": "Lucas",
     "case_name": "People v. Lucas",

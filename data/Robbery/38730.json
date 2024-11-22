@@ -1,8 +1,8 @@
 {
     "id": 7078527,
     "judges": "Schaefer",
-    "date_filed": -182736000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-05-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-goffman",
     "case_name_short": "Goffman",
     "case_name": "People v. Goffman",

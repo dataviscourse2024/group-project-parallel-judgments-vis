@@ -1,8 +1,8 @@
 {
     "id": 7787550,
     "judges": "Fletcher, Goderich, Sorondo",
-    "date_filed": 944611200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-05-30",
+    "date_filed_is_approximate": true,
     "slug": "fernandez-v-state",
     "case_name_short": "Fernandez",
     "case_name": "Fernandez v. State",

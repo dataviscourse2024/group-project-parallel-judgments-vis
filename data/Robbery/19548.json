@@ -1,8 +1,8 @@
 {
     "id": 2275638,
     "judges": "Ahrens, Baker, Clifford, Crane, Kathianne, Knaup, Nannette",
-    "date_filed": 1277164800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-02-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-gibbs",
     "case_name_short": "Gibbs",
     "case_name": "State v. Gibbs",

@@ -1,8 +1,8 @@
 {
     "id": 1966229,
     "judges": "Foreman",
-    "date_filed": 162000000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-03-01",
+    "date_filed_is_approximate": true,
     "slug": "in-re-the-extradition-of-david",
     "case_name_short": "In Re David",
     "case_name": "In Re the Extradition of David",

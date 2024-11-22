@@ -1,8 +1,8 @@
 {
     "id": 2371258,
     "judges": "Dice",
-    "date_filed": -343612800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-11-02",
+    "date_filed_is_approximate": true,
     "slug": "curtis-v-state",
     "case_name_short": "Curtis",
     "case_name": "Curtis v. State",

@@ -1,0 +1,46 @@
+{
+    "id": 8003458,
+    "judges": "Brennan, Gillis, Valkenburg",
+    "date_filed": "1996-11-09",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-bohhon",
+    "case_name_short": "Bohhon",
+    "case_name": "People v. Bohhon",
+    "case_name_full": "PEOPLE v. BOHHON",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cahalan, Prosecuting Attorney, Dominick R. Carnovale, Chief, Appellate Department, and Leonard Meyers, Assistant Prosecuting Attorney, for the people., Arthur J. Tarnow, State Appellate Defender, and Larry R. Farmer, Assistant Defender, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Division 1 January 11, 1972, at Detroit.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "39 Mich. App. 358"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gillis",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJ. H. Gillis, J.\nDefendant was charged with assault with intent to murder, MOLA 750.83; MSA 28.278, and after a jury trial was convicted of assault with intent to do great bodily harm less than murder, MOLA 750.84; MSA 28.279.\nCorine Butts, the complaining witness, who lived with the defendant, testified that the defendant shot her after he had been drinking, that the defendant had previously \u201ccut\u201d her, and that she did not shoot herself. The defense contended that the complainant shot herself.\nFour issues are raised on appeal.\nFirst, the defendant alleges that prejudicial remarks were made by the prosecuting attorney in his closing argument to the jury. The concluding argument of the prosecutor was as follows:\n\u201cMembers of the jury, I think this case is similar to a great big mountain range. It\u2019s there, solid and substantial, and when the clouds come, the fog comes, the mountain range is hidden from view. But when the wind blows the clouds drift away, and the mountain range is still there. I think when we disband, after examining the facts and the testimony, the fog created by the defense, you will still see the facts there. The facts of the assault, the facts of the injury, they can\u2019t be explained away by some preposterous stretching of the imagination.\u201d\nWe fail to see where this argument was improper in light of the total record.\nSecond, the defendant contends that the court committed reversible error in ruling that the people exercised due diligence in attempting to produce a res gestae witness indorsed on the information. The defense did not waive, and in fact specifically demanded, the production of the missing witness. The prosecution made a showing that the witness refused to open the door of her home when police officers attempted to serve her with a subpoena. We hold *360that these facts do not constitute a showing of due diligence, and on the authority of People v Tees, 386 Mich 483 (1971), citing Barber v Page, 390 US 719; 88 S Ct 1318; 20 L Ed 2d 255 (1968), and Berger v California, 393 US 314; 89 S Ct 540; 21 L Ed 2d 508 (1969), we reverse.\nThe defendant further contends that prejudicial error occurred when the complaining witness testified that four years prior to trial the defendant \u201ccut\u201d her on her neck and that she was hospitalized for three or four days. No objection was made to this testimony and the issue cannot be raised for the first time on appeal.\nThe final contention of reversible error is that defendant was denied due process of law and his constitutional right to counsel due to the ineffective assistance of his trial attorney. We find no basis of support in the record for this proposition.\nReversed for a new trial for the reasons herein-above set forth.\nAll concurred.\n",
+            "ocr": true,
+            "opinion_id": 7957608
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Murder"
+}

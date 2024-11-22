@@ -1,8 +1,8 @@
 {
     "id": 5834128,
     "judges": null,
-    "date_filed": 1131321600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-04-24",
+    "date_filed_is_approximate": true,
     "slug": "people-v-gibson",
     "case_name_short": "Gibson",
     "case_name": "People v. Gibson",

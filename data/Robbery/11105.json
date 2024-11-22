@@ -1,8 +1,8 @@
 {
     "id": 1264524,
     "judges": "Per Curiam",
-    "date_filed": 935712000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-03-16",
+    "date_filed_is_approximate": true,
     "slug": "lee-v-state",
     "case_name_short": null,
     "case_name": "Lee v. State",

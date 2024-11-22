@@ -1,8 +1,8 @@
 {
     "id": 1781928,
     "judges": "Sparling, Whitham and Devany",
-    "date_filed": 487382400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-03-10",
+    "date_filed_is_approximate": true,
     "slug": "coyle-v-state",
     "case_name_short": "Coyle",
     "case_name": "Coyle v. State",

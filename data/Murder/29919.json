@@ -1,0 +1,46 @@
+{
+    "id": 5330475,
+    "judges": "Coats, Singleton, Stewart",
+    "date_filed": "2001-06-05",
+    "date_filed_is_approximate": true,
+    "slug": "kuzmin-v-state",
+    "case_name_short": "Kuzmin",
+    "case_name": "Kuzmin v. State",
+    "case_name_full": "Peter KUZMIN v. STATE of Alaska",
+    "attorneys": "Paul Malta, Asst. Public Defender, and Dana Fabe, Public Defender, Anchorage, for appellant., Valerie Van Brocklin, Asst. Dist. Atty., and Victor C. Krumm, Dist. Atty., Anchorage, and Harold M. Brown, Atty. Gen., Juneau, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "725 P.2d 721"
+    ],
+    "opinions": [
+        {
+            "author_str": "Stewart",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nSTEWART, District Judge.\nPeter Kuzmin was charged with commercial fishing during a closed period, in violation of 6 AAC 24.310(a). Prior to trial, the state gave notice of its intent to try Kuz-min under two theories of liability: negligence and strict liability. Over Kuzmin\u2019s objection, the court instructed the jury that it could convict Kuzmin of a misdemeanor if Kuzmin had in fact commercially fished on the date alleged in closed waters and had acted negligently in doing so. In the absence of a finding that Kuzmin had acted with negligence, the jury could convict Kuzmin of the lesser-included violation based on strict liability if the other ele-*722merits were proven.1 Kuzmin was ultimately convicted of the misdemeanor offense. He appeals, alleging error.\nKuzmin argues that the court erred in allowing the jury to consider both theories of liability. He argues that, because Beran v. State, 705 P.2d 1280, 1292 (Alaska App.1985), requires the state to elect whether to prosecute an administrative regulation as a violation or as a misdemeanor offense, the state may not prosecute a regulation as a misdemeanor offense and also obtain a lesser-included instruction for the violation. The language cited by Kuzmin may not be relied upon for this argument since, elsewhere in the Beran opinion, we expressly reserved the issue of whether a strict-liability violation of a fish and game regulation could be a lesser-included offense of a misdemeanor regulation offense. 705 P.2d at 1291 n. 13. That issue is squarely presented here.\nAs most recently noted in Blackhurst v. State, 721 P.2d 645, 648 (Alaska App.1986), an instruction on a lesser offense, if properly requested by either party, must be given if a finding of guilt on the greater offense would be inconsistent with acquittal on the lesser, and there is a disputed factual element that distinguishes the greater from the lesser. Rice v. State, 589 P.2d 419, 420 (Alaska 1979); Marker v. State, 692 P.2d 977, 980 (Alaska App.1984). The only disputed factual element in this case was whether Kuzmin had negligently fished commercially during a closed period.2 Therefore, conviction for a lesser-included non-criminal violation would appear to be permissible in the trial of the regulation prosecuted as a misdemeanor offense.\nKuzmin also contends that the jury should not have been instructed that it could find him guilty of a violation of a lesser-included offense because Alaska Statute 11.81.900(b)(56), defining the term \u201cviolation,\u201d states that \u201ca person charged with a violation is not entitled (A) to have a trial by jury; or (B) to have a public defender or other counsel appointed at public expense to represent the person.\u201d Although a defendant may not be entitled to a jury trial or a public defender for the trial of a violation if Alaska Statute 11.81.-900(b)(56) applies to fishing violations, there are no statutory or constitutional prohibitions against the submission of the lesser violation to the jury when a jury trial on the greater is required.3 See Alaska R.Crim.P. 23(a). As such, this case is distinguishable from Padie v. State, 557 P.2d 1138, 1142 (Alaska 1976). In Padie, the supreme court ruled that, in a prosecution for murder, a defendant was not entitled to a lesser-included instruction allowing a verdict of manslaughter because the statute of *723limitations had expired with respect to the lesser but not the greater offense, so the jury was not authorized to convict on the lesser.\nTherefore, we hold that it was not error to instruct the jury that it could consider the lesser-included strict liability violation.\nThe conviction is AFFIRMED.\n\n. The jury instructions were based on this court\u2019s decision in Beran v. State, 705 P.2d 1280 (Alaska App.1985). In Beran, this court held that the Board of Fisheries is authorized by the legislature to make the breach of a fish and game regulation a \"violation\" and a strict-liability offense, punishable by a non-criminal fine, but, unless the requisite mens rea is proved, the Board is not authorized to make the breach a \"crime\u201d and a misdemeanor offense, punishable by imprisonment.\n\n\n. The jury was instructed that the four elements of the offense are:\n(1) The defendant on or about the date charged\n(2) was commercial fishing\n(3) during a closed period.\n(4) The defendant was negligent in doing so.\nIf you find that the state has proven all four elements beyond a reasonable doubt, you should find the defendant guilty of the offense charged. If you find that the state has proven elements (1), (2), (3) ... but not element (4), you should find the defendant not guilty of the offense but guilty of the lesser included violation....\nThe jury was also instructed that Kuzmin was negligent if:\n[he] knew or should have known he was doing so and his failure to perceive that fact results from his deviation from the standard of care that a reasonably prudent fisherman would have exercised under the circumstances.\n\n\n. Kuzmin did not argue here or to the trial court that the offense and non-criminal violation should be treated substantially different in other areas, such as the burden of proof. See, e.g., State v. Clayton, 584 P.2d 1111 (Alaska 1978).\n\n",
+            "ocr": true,
+            "opinion_id": 5160968
+        }
+    ],
+    "court_short_name": "Court of Appeals of Alaska",
+    "court_full_name": "Court of Appeals of Alaska",
+    "court_type": "SA",
+    "court_jurisdiction": "Alaska, AK",
+    "crime_category": "Murder"
+}

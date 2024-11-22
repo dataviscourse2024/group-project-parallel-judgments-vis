@@ -1,8 +1,8 @@
 {
     "id": 8243860,
     "judges": null,
-    "date_filed": 1664150400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-05-22",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-baker",
     "case_name_short": "Baker",
     "case_name": "United States v. Baker",

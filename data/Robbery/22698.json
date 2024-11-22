@@ -1,8 +1,8 @@
 {
     "id": 3475436,
     "judges": "Land",
-    "date_filed": -1186876800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-07-04",
+    "date_filed_is_approximate": true,
     "slug": "state-v-verret",
     "case_name_short": "Verret",
     "case_name": "State v. Verret",

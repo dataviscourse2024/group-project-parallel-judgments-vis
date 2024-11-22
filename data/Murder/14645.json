@@ -1,8 +1,8 @@
 {
     "id": 1103266,
     "judges": "Shaw",
-    "date_filed": 1037923200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-02-24",
+    "date_filed_is_approximate": true,
     "slug": "perry-v-state",
     "case_name_short": "Perry",
     "case_name": "Perry v. State",

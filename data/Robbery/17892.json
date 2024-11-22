@@ -1,8 +1,8 @@
 {
     "id": 2329953,
     "judges": "Flaherty, Hutchinson, Larsen, McDermott, Nix, Papadakos",
-    "date_filed": 527990400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-09-09",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-mcginnis",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. McGinnis",

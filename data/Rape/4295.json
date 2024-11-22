@@ -1,0 +1,46 @@
+{
+    "id": 8622518,
+    "judges": "Parker, Raggi, Winter",
+    "date_filed": "1994-05-12",
+    "date_filed_is_approximate": true,
+    "slug": "jalloh-v-gonzales",
+    "case_name_short": "Jalloh",
+    "case_name": "Jalloh v. Gonzales",
+    "case_name_full": "Abubakarr JALLOH v. Alberto GONZALES, Attorney General",
+    "attorneys": "Matthew J. Harris, Law Office of Eric A. Wuestman, New York, NY, for Petitioner., John C. Richter, United States Attorney for the Western District of OHahoma, Kay Sewell, Assistant United States Attorney, Oklahoma City, OK, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "187 F. App'x 125"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSUMMARY ORDER\nAbubakarr Jalloh, through counsel, petitions for review of the BIA decision adopting and affirming the decision of Immigration Judge (\u201cIJ\u201d) Douglas Schoppert, denying his application for asylum, withholding of removal, and relief under the Convention Against Torture (\u201cCAT\u201d). We assume the parties\u2019 familiarity with the underlying facts and procedural history of the case.\nWhen the BIA adopts the decision of the IJ and supplements the IJ\u2019s decision, this Court reviews the decision of the IJ as supplemented by the BIA. See Yu Yin Yang v. Gonzales, 431 F.3d 84, 85 (2d Cir.2005); Yan Chen v. Gonzales, 417 F.3d 268, 271 (2d Cir.2005). This Court reviews the agency\u2019s factual findings, including adverse credibility determinations, under the substantial evidence standard, treating them as \u201cconclusive unless any reasonable adjudicator would be compelled to conclude to the contrary.\u201d 8 U.S.C. \u00a7 1252(b)(4)(B); see, e.g., Zhou Yun Zhang v. INS, 386 F.3d 66, 73 &amp; n. 7 (2d Cir.2004). Nevertheless, \u201cthe fact that the [agency] has relied primarily on credibility grounds in dismissing an asylum application cannot insulate the decision from review.\u201d Ramsameachire v. Ashcroft, 357 F.3d 169, 178 (2d Cir.2004). An adverse credibility determination must be based on \u201cspecific, cogent reasons\u201d that \u201cbear a legitimate nexus\u201d to the finding. Secaida-Rosales v. INS, 331 F.3d 297, 307 (2d Cir.2003).\nIn this case, the inconsistencies between Jalloh\u2019s asylum applications, documentary evidence and testimony supported the IJ\u2019s and BIA\u2019s adverse *127credibility determination. The relevant inconsistencies included the following: (1) Jalloh did not mention, in his first application, his participation in the Sierra Leone People\u2019s Party, which he claimed was a reason for his persecution; (2) Jalloh provided varying accounts of which group, the military or the rebels, had attacked him in September 2001; (3) only in his second application did Jalloh mention that his wife had been raped on two occasions, a fact he disclaimed in his testimony; and (4) in his first application, Jalloh had not included his 1-94 number or departure date, despite his contention that he was in possession of his 1-94 form throughout his stay in the United States.\nJalloh argues, in his petition, that the inconsistency concerning his wife\u2019s rape was due to a typographical error by counsel. In this regard, the IJ properly determined that Jalloh had been questioned about this inconsistency and responded that he was uneducated; however, given that Jalloh had sworn to the accuracy of the second application, and counsel had assisted with its preparation, this response was insufficient. The IJ\u2019s decision is supported by substantial evidence. See Ming Shi Xue v. Board of Immigration Appeals, 439 F.3d 111, 114-15 (2d Cir.2006) (discussing IJ\u2019s obligation to bring a \u201cperceived discrepancy to the alien\u2019s attention, thereby giving the alien an opportunity to address and perhaps reconcile the seeming inconsistency, to the IJ\u2019s satisfaction\u201d).\nBecause the only evidence of a threat to Jalloh\u2019s life or freedom depended upon Jalloh\u2019s credibility, the adverse credibility determination in this case necessarily precludes success on the claim for withholding of removal. See Wu Biao Chen v. INS, 344 F.3d 272, 275 (2d Cir.2003). Additionally, Jalloh failed to demonstrate that it was more likely than not that he would be tortured if he returned to Sierra Leone, and, thus, he was properly denied CAT relief. See 8 C.F.R. \u00a7 1208.16(c)(2); see also Wang v. Ashcroft, 320 F.3d 130, 133 (2d Cir.2003).\nHaving completed our review, any stay of removal that the Court previously granted in this proceeding is VACATED, and any pending motion for a stay of removal in this proceeding is DENIED as moot. Any pending request for oral argument in this proceeding is DENIED in accordance with Federal Rule of Appellate Procedure 34(a)(2) and Second Circuit Local Rule 34(d)(1).\n",
+            "ocr": true,
+            "opinion_id": 8601794
+        }
+    ],
+    "court_short_name": "Second Circuit",
+    "court_full_name": "Court of Appeals for the Second Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Rape"
+}

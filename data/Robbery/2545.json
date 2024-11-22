@@ -1,8 +1,8 @@
 {
     "id": 8271824,
     "judges": "Dillard",
-    "date_filed": 1463529600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-04-30",
+    "date_filed_is_approximate": true,
     "slug": "hayes-v-state",
     "case_name_short": "Hayes",
     "case_name": "Hayes v. State",

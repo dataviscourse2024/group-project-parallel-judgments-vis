@@ -1,0 +1,46 @@
+{
+    "id": 8536168,
+    "judges": "Haynes, Parker, Wildman",
+    "date_filed": "1988-05-21",
+    "date_filed_is_approximate": true,
+    "slug": "lisberger-v-state",
+    "case_name_short": "Lisberger",
+    "case_name": "Lisberger v. State",
+    "case_name_full": "Max Lisberger v. State of Ohio",
+    "attorneys": "Frank Mulholland and C. E. Hartman, for plaintiff in error., L. W. Wachenheimer, prosecuting attorney, and Ralph Emery, assistant prosecuting attorney, for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>CRIMINAL LAW AND PRACTICE.</p> <p>Haynes, Parker and Wildman, JJ.</p> <p>Right to File a Motion for a New Trial.</p> <p>A trial court has not jurisdiction to hear a motion for a new trial in a criminal prosecution at a term of court subsequent to that at which the verdict was rendered.</p> <p>' [For other cases in point, see 3 Cyc. Dig., \u201cCriminal Law and Practice,\u201d \u00a7 974 \u2014 Ed.]</p> <p>[Syllabus approved by the court.]</p>",
+    "headnotes": null,
+    "summary": "ERROR to Lucas common pleas court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 Ohio C.C. Dec. 394"
+    ],
+    "opinions": [
+        {
+            "author_str": "Parker",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPARKER, J.\nLisberger was convicted of the crime of murder in the second degree and sentenced to life imprisonment. At the term at which he was convicted he filed a motion for a new trial, setting up, among other grounds for a new trial, newly discovered evidence, and in support of that ground affidavits were filed. That motion came on for hearing and was heard at that term of court, and was overruled. And at a subsequent term, \u2014 I think at the next term of court, although I am not certain of that, \u2014 another motion for a new trial was filed, and the chief ground of that motion was newly discovered evidence; and in support of that motion a number of affidavits were filed. Upon the overruling of the first motion and the entering of judgment a bill of exceptions was' taken; and upon the overruling of the second motion another bill of exceptions was taken, which is called in the record a supplemental bill of exceptions. After the overruling of the first motion a petition in error was filed in this court. After that the second motion for a new trial was filed, and upon its being overruled,- as I have said, a supplemental bill of exceptions was taken, and then a- supplemental petition in error was filed in this court.\nIt is said to us that the trial judge overruled this second motion for a new trial upon the ground that he had lost jurisdiction over the matter; that the second motion for a new trial was not filed within the time provided by law. Revised Statute 7350 (Lan. 11114) sets forth the causes or grounds upon which a motion for a new trial may be *395granted, and among them-the fifth paragraph is, \u201cNewly discovered evidence, material for the defendant, which he conld not, with reasonable diligence, have discovered, and produced at the trial.\u201d\nRevised Statute 7351 (Lan. 11115) provides that:\n\u201cThe application for a new trial shall be by motion, upon written grounds, which shall be filed at the term the verdict is rendered, and, except for the cause of newly discovered evidence material for the party applying, which he co.uld not, with reasonable diligence, have discovered and produced at the trial, within three days after the verdict was rendered, unless unavoidably prevented.\u201d\nThe first motion for a new trial was filed in due time. The second motion was not filed within three days, nor was it filed within the term. It was filed at a subsequent term.\nWe have looked into the record very carefully, and we are impressed by these affidavits, indeed we are convinced thereby, that this man did not have a fair trial; that he was unfairly treated by the witnesses for the state; that on account of some prejudice against him and some feeling for the deceased, these witnesses combined together to convict this man and send him to the penitentiary; and it seems to us that the verdict of murder in the second degree could hardly have been justified, if the statements set forth in these affidavits are true; and they stand here in the record uncontradieted. The man should not have been convicted of a higher crime or offense than manslaughter, and perhaps he acted in self defense, so that he should not have been convicted at all. It seems to us that he is the victim of a wicked conspiracy, and if it was within the poAver of the court to grant him relief we should be swift to do it.\nBut we find no authority for acting upon a motion for a new trial filed after the term in a criminal case; we know-of none. We think that is the policy of the law that the matter shall be concluded by the action in the case taken at the term; and it may be readily perceived that if it were otherwise, there would be no certainty about results in criminal cases, and the state would often be taken at great disadvantage. If a motion might be filed after the term, there is no reason why it might not be filed at any time, no matter how remote from the time of the trial; even after the state\u2019s witnesses had disappeared or been scattered, or perhaps died; so that the state might be unable to show the true state of the case on a new trial. We have no doubt but the statute is founded upon the theory that that should not be permitted; but that if it should turn out that a person is wrongly convicted he should not be without *396a remedy; and we believe the remedy is with the board or tribunal or officials that may either pardon, or in some way, modify the result.\nWe think that this is a case that should be presented to the pardon board or to the board of managers, who may not only pardon, but reduce or commute the sentence. There the state may be able, by counter affidavits, to put a different face -upon the matter. The state here, relying upon the statute, seems to have thought it idle and useless to file counter affidavits. I speak of the matter as it appears here in the record, with these affidavits standing uncontradicted. It may be that when the matter shall be presented to the proper tribunal, these affidavits will be contradicted, and that a different face could be put upon the matter.\nWe see no error in the action of the court of common pleas in overruling the motion for a new trial. Sufficient showing was not made upon the first motion, which was filed in due time, to require the court to' grant a new trial, and we think the court properly held upon the second motion. We find no errors in the record requiring a reversal. 'Therefore the judgment will be affirmed.\nHaynes and Wildman, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 8508707
+        }
+    ],
+    "court_short_name": "Lucas Circuit Court",
+    "court_full_name": "Lucas Circuit Court",
+    "court_type": "ST",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Murder"
+}

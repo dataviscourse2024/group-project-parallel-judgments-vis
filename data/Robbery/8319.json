@@ -1,8 +1,8 @@
 {
     "id": 2636457,
     "judges": "J.M. Johnson",
-    "date_filed": 1225929600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-02-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-griffith",
     "case_name_short": "Griffith",
     "case_name": "State v. Griffith",

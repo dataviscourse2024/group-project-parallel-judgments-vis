@@ -1,8 +1,8 @@
 {
     "id": 2067494,
     "judges": "Cavanaugh, Montemuro and Hester",
-    "date_filed": 439171200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-09-10",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-smith",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Smith",

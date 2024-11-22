@@ -1,8 +1,8 @@
 {
     "id": 5764565,
     "judges": "Bloodworth",
-    "date_filed": -1393027200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-09-10",
+    "date_filed_is_approximate": true,
     "slug": "mitchell-v-state",
     "case_name_short": null,
     "case_name": "Mitchell v. State",

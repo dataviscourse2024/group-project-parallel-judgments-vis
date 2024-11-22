@@ -1,8 +1,8 @@
 {
     "id": 1679231,
     "judges": "Clinton, Maloney",
-    "date_filed": 691804800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-04-17",
+    "date_filed_is_approximate": true,
     "slug": "lane-v-state",
     "case_name_short": "Lane",
     "case_name": "Lane v. State",

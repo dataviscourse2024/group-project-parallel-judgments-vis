@@ -1,8 +1,8 @@
 {
     "id": 1687544,
     "judges": "Fogleman",
-    "date_filed": 29980800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-10-05",
+    "date_filed_is_approximate": true,
     "slug": "jackson-v-state",
     "case_name_short": null,
     "case_name": "Jackson v. State",

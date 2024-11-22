@@ -1,0 +1,46 @@
+{
+    "id": 7065093,
+    "judges": "Phillips",
+    "date_filed": "2022-10-15",
+    "date_filed_is_approximate": true,
+    "slug": "helm-v-people",
+    "case_name_short": "Helm",
+    "case_name": "Helm v. People",
+    "case_name_full": "Fred Helm v. The People of the State of Illinois",
+    "attorneys": "Creighton, Kramer & Kramer, and A. M. Funkhouser, for plaintiff in error., E. C. Akin, Attorney General, and B. M. Eider, State\u2019s Attorney, (Thomas H. Creighton, and John R. Holt, of counsel,) for the People.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal law\u2014giving oral instructions as to law of case is error. It is error in a criminal case for the court to give an oral instruction as to the law of the case. (Ellis v. People, 159 Ill. 337, followed.)</p>",
+    "summary": "Writ of Error to the Circuit Court of Wayne county; the Hon. P. A. Pearce, Judge, presiding.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "186 Ill. 153"
+    ],
+    "opinions": [
+        {
+            "author_str": "Phillips",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Mr. Justice Phillips delivered the opinion of the court: At the March term, 1898, of the Wayne circuit court plaintiff in error and one William Helm were jointly indicted for murder. At the Ofctober term, 1899, a trial was had resulting in a verdict of manslaughter against the plaintiff in error, the jury fixing his punishment at confinement in the penitentiary for four years, and finding William Helm not guilty. Various errors are assigned, but we do not deem it necessary to notice but one. After giving numerous written instructions, the court of its own motion gave to the jury the following oral instruction: \u201cUnder this indictment the defendants may be found guilty of either murder or manslaughter or you may find them not guilty. If you find both of the defendants guilty of murder the form of your verdict will be: \u2018We, the jury, find the defendants, Fred Helm and William Helm, guilty of murder as charged in the indictment, and fix their punishment at imprisonment in the penitentiary\u2019 (for a period of not less than fourteen years or more than their natural lives, or you may fix the death penalty;) \u2018and we further find the ages of the said defendants to be\u2019 (here finding the age of each one, respectively.) If you find one of the defendants guilty of murder and the other not guilty the form of your v\u00e9rdict will be: \u2018We, the jury, find the defendant (here name him) guilty of murder,\u2019 (and fixing the punishment and age as before explained,) \u2018and we, the jury, find the defendant (here naming him) not guilty. \u2019 If you find both of the defendants guilty of manslaughter the form of your verdict will be: \u2018We, the jury, find the defendants, Fred Helm and William Helm, guilty of manslaughter, and fix their punishment at imprisonment in the penitentiary\u2019 (for a period of any number of years, or it may extend to their natural life.) If you find one of the defendants guilty of murder and the other guilty of manslaughter the form of your verdict will be: \u2018We, the jury, find the defendant (here name him) guilty of murder as charged in the indictment, \u2019 (and finding the age and fixing the penalty as before explained,) \u2018and w\u00e9 find the defendant (here naming him) guilty of manslaughter,\u2019 (and finding the age and fixing the punishment as heretofore explained.) If you find one of the defendants guilty of manslaughter and the other not guilty then the form of your verdict will be: \u2018We, the jury, find the defendant (here name him) guilty of manslaughter, \u2019 (and find the age and fixing the punishment as before explained,) \u2018and we find the defendant (here naming him) not guilty. \u2019 If you find both of the defendants not guilty the form of your verdict will be: \u2018We, the jury, find the defendants not guilty.\u2019\u201d The rule announced in Ellis v. People, 159 Ill. 337, is controlling upon this question. At page 340 the court say: \u201c \u2018Sec. 51.\u2014The court, in charging the jury, shall only instruct as to the law of the case. Sec. 52.\u2014Here-after no judge shall instruct the petit jury in any case, civil or criminal, unless such instructions are reduced to writing. \u2019 The 53d section provides that the judge \u2018shall in no case, after instructions are given, qualify, modify or in any manner explain the same to the jury otherwise than in writing. \u2019 It is very clear that the court, by orally instructing the jury as to the law of the case, violated this statute. It is unnecessary to discuss here what directions the court may orally give to the jury respecting the form of the verdict, or upon other matters which may arise during the progress of the trial, which shall not amount to a charge to the jury as to the law of the case. This subject is reviewed, to some extent, in Illinois Central Railroad Co.v. Wheeler, 149 Ill. 525. (See, also, 2 Thompson on Trials, sec. 2375.) The written instructions given gave no information to the jury as to the nature or extent of the punishment to be inflicted in case the accused were found guilty.\u201d For the errors indicated the judgment of the circuit court is reversed and the cause remanded for a new trial. Reversed and remanded. ",
+            "ocr": true,
+            "opinion_id": 6969245
+        }
+    ],
+    "court_short_name": "Illinois Supreme Court",
+    "court_full_name": "Illinois Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Illinois, IL",
+    "crime_category": "Murder"
+}

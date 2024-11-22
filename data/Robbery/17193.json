@@ -1,8 +1,8 @@
 {
     "id": 2226755,
     "judges": "Boslaugh, Brodkey, Clinton, Hastings, Krivosha, McCown, White",
-    "date_filed": 359337600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-06-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-ebberson",
     "case_name_short": "Ebberson",
     "case_name": "State v. Ebberson",

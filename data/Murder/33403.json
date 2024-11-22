@@ -1,0 +1,46 @@
+{
+    "id": 6028655,
+    "judges": null,
+    "date_filed": "2005-01-26",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-aguanno",
+    "case_name_short": "Aguanno",
+    "case_name": "People v. Aguanno",
+    "case_name_full": "The People of the State of New York v. William Aguanno",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "125 A.D.2d 579"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the defendant from a judgment of the Supreme Court, Kings County (Hellenbrand, J.), rendered December 9, 1982, convicting him of murder in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review, inter alia, the denial, after a hearing (Demakos, J.), of that branch of the defendant\u2019s omnibus motion which was to suppress statements.\nOrdered that the judgment is affirmed.\nOn August 23, 1981, the defendant was arrested for his role in the homicide of one Salvatore Cappola. Detectives Eppolito and Furtado arrested the defendant pursuant to an arrest warrant at the 104th Precinct in Queens. At the precinct, the defendant made certain preliminary statements which were suppressed by the hearing court.\nThe defendant was then placed, handcuffed, in the rear of a radio motor patrol car to be transported to the 62nd Precinct in Brooklyn. About five minutes after leaving the precinct, the defendant stated, \"I\u2019m sorry this happened, this thing happened. I didn\u2019t mean to kill him. We just both were stabbing him * * * we just got scared and we kept stabbing him * * * I knew Sal, I didn\u2019t mean it, I was high you know, high\u201d. At this point, Detective Eppolito cautioned the defendant that the existence of the warrant meant that he could not question the defendant, who had no obligation to say anything to him. The defendant said, \"It really doesn\u2019t matter now\u201d.\nThe detective then told the defendant that he had spoken to his father, who indicated that the defendant had gone to St. John\u2019s Hospital, on the night of the incident, to have his wounded hand tended to and that the father would try to have the defendant contact the detective. The detective mentioned that he had checked with the hospital but that the defendant had not been registered there. The defendant then stated, \"I used a fake name, I didn\u2019t use my real name * * * That\u2019s it, I\u2019m about to go to jail, I\u2019ll go for everything\u201d. At no time was the defendant advised of his Miranda rights.\n*580While we agree with the hearing court\u2019s determination that the first set of statements made by the defendant in the police car was spontaneously uttered and thus admissible despite the fact that the defendant\u2019s right to counsel had indelibly attached (see, People v Samuels, 49 NY2d 218; People v Settles, 46 NY2d 154), we find that the second set of statements, made essentially in response to the detective\u2019s remarks, cannot be so characterized. The specific statements relative to the defendant\u2019s injury, which was sustained during the stabbing of the deceased, were \"triggered by police conduct which should reasonably have been anticipated to evoke a declaration from the defendant\u201d (People v Lynes, 49 NY2d 286, 295; see, People v Lanahan, 55 NY2d 711; People v Maerling, 46 NY2d 289), and were not \"made without apparent external cause, i.e., self-generating\u201d (People v Stoesser, 53 NY2d 648, 650).\nHowever, we conclude that the erroneous admission of the second set of statements into evidence was harmless in light of the overwhelming evidence of guilt, since there is no reasonable possibility that the jury would have acquitted the defendant had it not been informed of those statements (see, People v Krom, 61 NY2d 187; People v Crimmins, 36 NY2d 230).\nThe trial court properly concluded that a circumstantial evidence charge was not warranted (see, People v Benzinger, 36 NY2d 29, 32), since the defendant\u2019s statement that he \"just kept stabbing\u201d the deceased constituted a direct acknowledgment of guilt (see, People v Licitra, 47 NY2d 554; People v Rumble, 45 NY2d 879).\nThe remainder of the defendant\u2019s contentions have been considered and found to be without merit. Thompson, J. P., Rubin, Lawrence and Kunzeman, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5891494
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

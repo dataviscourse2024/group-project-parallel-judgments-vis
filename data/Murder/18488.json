@@ -1,8 +1,8 @@
 {
     "id": 2457865,
     "judges": "Curran",
-    "date_filed": 1038268800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-02-10",
+    "date_filed_is_approximate": true,
     "slug": "easley-v-kirmsee",
     "case_name_short": "Easley",
     "case_name": "Easley v. Kirmsee",

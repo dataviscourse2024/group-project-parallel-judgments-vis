@@ -1,8 +1,8 @@
 {
     "id": 1524589,
     "judges": "Warren, Hughes and Duggan",
-    "date_filed": 684633600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2014-12-12",
+    "date_filed_is_approximate": true,
     "slug": "sanders-v-state",
     "case_name_short": "Sanders",
     "case_name": "Sanders v. State",

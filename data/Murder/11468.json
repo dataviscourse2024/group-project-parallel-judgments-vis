@@ -1,8 +1,8 @@
 {
     "id": 1367301,
     "judges": "Petrie",
-    "date_filed": 188179200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-09-27",
+    "date_filed_is_approximate": true,
     "slug": "state-v-kerr",
     "case_name_short": "Kerr",
     "case_name": "State v. Kerr",

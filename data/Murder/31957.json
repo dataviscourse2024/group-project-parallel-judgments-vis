@@ -1,0 +1,46 @@
+{
+    "id": 5732541,
+    "judges": "Hill",
+    "date_filed": "1982-07-06",
+    "date_filed_is_approximate": true,
+    "slug": "jenkins-v-state",
+    "case_name_short": "Jenkins",
+    "case_name": "Jenkins v. State",
+    "case_name_full": "Jenkins v. State",
+    "attorneys": "Thomas B. Brown and Charles J. Graham, for plaintiff in error., Clifford Walker, attorney-general, John A. Boykin, solicitor-general, M. C. Bennet, and B. A. Stephens, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Indictment for murder. Before Judge Humphries. Fulton superior court. September 20, 1919. Will Jenkins was indicted and tried for murder; and a verdict of guilty, with a recommendation to mercy, was returned. A motion for new trial was overruled, and the defendant excepted.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "150 Ga. 111"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hill",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHill, J.\n1. A ground of the motion for new trial which complains that \u201c the court failed to charge the law and [of] manslaughter \u201d is not a good assignment of error, and can not be considered by the Supreme Court. Each assignment must be complete within itself. If manslaughter should have been charged, it is necessary that the ground of the motion for new trial complaining of the refusal to so charge should state what grade of manslaughter, whether voluntary or involuntary. Knight v. State, 148 Ga. 40 (3), 41 (95 S. E. 679).\n2. Other assignments of error, where sufficient to raise a question for determination by the court, are without merit.\n3. The verdict is supported by evidence.\n\nJudgment affirmed.\n\n\nAll the Justices concur, except Gilbert, J., absent for providential cause.\n\n",
+            "ocr": true,
+            "opinion_id": 5583033
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

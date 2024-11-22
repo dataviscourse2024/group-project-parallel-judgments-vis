@@ -1,8 +1,8 @@
 {
     "id": 3179731,
     "judges": null,
-    "date_filed": 1456185600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-09-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-harris",
     "case_name_short": "Harris",
     "case_name": "People v. Harris",

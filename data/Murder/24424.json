@@ -1,0 +1,47 @@
+{
+    "id": 4126746,
+    "judges": "Campbell, Miser, Polley, Roberts, Rudolph, Warren",
+    "date_filed": "2017-03-03",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-kenstler",
+    "case_name_short": "Kenstler",
+    "case_name": "State v. Kenstler",
+    "case_name_full": "STATE, Respondent, v. KENSTLER, Et Al, Appellants",
+    "attorneys": "Thos. G. Wall,  of Sturgis, for Appellants.\n\n M.Q. Sharpe,  Attorney General, and  Frank W. Mitchell,  Assistant Attorney General, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from Circuit Court, Butte County; HON. JOHN F. HUGHES, Judge.\n\nArthur Kenstler and Fritz Kenstler were convicted of larceny, and they appeal. Reversed.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b449-9\">\n    STATE, Respondent, v. KENSTLER, et al, Appellants.\n   </parties><br><citation id=\"b449-10\">\n    (240 N. W. 489.)\n   </citation><br><docketnumber id=\"b449-11\">\n    (File No. 7087.\n   </docketnumber><decisiondate id=\"At4\">\n    Opinion filed January 30, 1932.)\n   </decisiondate><br><attorneys id=\"b449-16\">\n<em>\n     Thos. G. Wail,\n    </em>\n    of Sturgis, for Appellants.\n   </attorneys><br><attorneys id=\"b449-17\">\n<em>\n     M. Q. Sharpe,\n    </em>\n    Attorney General, and\n    <em>\n     Prank W. Mitchell,\n    </em>\n    Assistant Attorney General, for the State.\n   </attorneys>",
+    "citations": [
+        "240 N.W. 489",
+        "59 S.D. 441"
+    ],
+    "opinions": [
+        {
+            "author_str": "Miser",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Defendants were charged with the larceny of 43 head of sheep, belonging to one Arnold, from the Karinen ranch in Butte county. From the judgment of conviction they appeal, assigning, among other errors claimed, the insufficiency of the evidence. Two witnesses for the state testified that in the early afternoon of May 31, 1927, at a point about six miles southeast of the Karinen ranch, they saw a bunch of between 25 and 50 sheep being driven from the west and then to the north in the direction of the Kenstler ranch, which lies about 30 miles northeast of the Karinen ranch. A fairly tall man in a broad-brimmed, white hat was driving them. In Butte county, with its thousands of sheep and scores of tall men who wear such hats, this is no identification, as the evidence shows. The learned trial judge well stated in his instructions that \"the state has offered no witness who claims to have seen these defendants take or steal these sheep.\"\nThe evidence as to the guilt of the accused was entirely cirsumstantial. The most important circumstance pointing to the guilt of the accused was the following: On June 22, 1927, 43 sheep, answering to the general description of the stolen sheep, with left ears bloody from being recently cropped, were found with the Paul Kenstler band of between 1,500 and 1,600 sheep. Paul Kenstler is the father of the two defendants. They, with their father, mother and sister, lived at the Paul Kenstler ranch. Defendants owned 20 sheep in the flock. The mother and sister each owned a small number of sheep in the flock. On June 13th, at 7 o'clock in the morning, the two defendants left home. On the 14th they were present at a shooting on the range, at which shooting one Johnson lost his life and one Josh Guffey was mortally wounded. They got to their home about 2 a.m. on June 15th. At about 10 a.m. on that day they were arrested on charges growing out of the homicide. From the 15th of June until the 1st day of September they were in jail awaiting trial. Whatever the date when the sheep left the Karinen ranch, whether before or after the arrest, is uncertain, for at the preliminary hearing Karinen testified that it was about the 17th or 18th of June that he discovered there were only 402 sheep in the band of 451 which Arnold had left with him on May 12th, while at the trial he said he counted them on June 13th or 14th &#8212; the defendants were in jail a week before there is any evidence of the sheep being with the *Page 443 \nKenstler bunch. It is the positive testimony of the two defendants and their sister that the Arnold sheep were not with the Kenstler sheep when the defendants were put in jail on the 15th. One Slitten, who worked for Paul Kenstler after the 14th of June, and who helped handle the entire bunch on June 18th, docking the lambs, testified that there was then no stray sheep or sheep with ears freshly cropped in the Kenstler bunch. The testimony of the witness Smith entirely corroborates the witness Slitten. The testimony of Rose Kenstler, who, with her mother, looked after the Kenstler band of sheep after the defendants were taken to jail and who had been with the Kenstler sheep every day, is that the Arnold sheep with bloody ears first appeared with the Kenstler sheep on the evening of June 21st. The jury might disbelieve all these witnesses for the defense. But a disbelief of the evidence for the defense does not permit the jury to act upon a belief to the contrary when there is insufficient evidence to support such belief.\nWe are of the opinion that the court also erred in disallowing the challenge to the juror Brasfield. And that this error also was sufficiently prejudicial to require a reversal. We deem it unnecessary to discuss other errors assigned.\nThe judgment and order denying motion for new trial are reversed.\nCAMPBELL, P.J., and POLLEY, WARREN, and RUDOLPH, JJ., concur.\nROBERTS, J., disqualified and not sitting.",
+            "ocr": false,
+            "opinion_id": 3888958
+        }
+    ],
+    "court_short_name": "South Dakota Supreme Court",
+    "court_full_name": "South Dakota Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "South Dakota, SD",
+    "crime_category": "Murder"
+}

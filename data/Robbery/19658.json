@@ -1,8 +1,8 @@
 {
     "id": 1711052,
     "judges": "Per Curiam",
-    "date_filed": 1105488000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-03-30",
+    "date_filed_is_approximate": true,
     "slug": "charles-v-state",
     "case_name_short": "Charles",
     "case_name": "Charles v. State",

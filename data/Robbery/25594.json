@@ -1,8 +1,8 @@
 {
     "id": 4375442,
     "judges": "Fernandez, Logue, Scales",
-    "date_filed": 1489536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-07-29",
+    "date_filed_is_approximate": true,
     "slug": "carter-v-state",
     "case_name_short": "Carter",
     "case_name": "Carter v. State",

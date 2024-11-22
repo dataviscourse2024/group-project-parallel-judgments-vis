@@ -1,0 +1,46 @@
+{
+    "id": 5758578,
+    "judges": "Bloodworth",
+    "date_filed": "2015-05-30",
+    "date_filed_is_approximate": true,
+    "slug": "dunwoody-v-state",
+    "case_name_short": "Dunwoody",
+    "case_name": "Dunwoody v. State",
+    "case_name_full": "Dunwoody v. State",
+    "attorneys": "C. D. Rivers, J. M. Bellah, Maddox & Doyal, for plaintiff in error. Claude H. Porter, solicitor-general, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "(Certiorari granted by the Supreme Court.) Conviction of manslaughter; from Chattooga superior court\u2014\u25a0 Judge Wright. January 19, 1918,",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "23 Ga. App. 93"
+    ],
+    "opinions": [
+        {
+            "author_str": "Bloodworth",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBloodworth, J.\n1. \u201cThe accused was not convicted of murder, but was convicted of manslaughter. Eor this reason the instruction on the subject of malice could' not have been prejudicial to the accused in any of the respects or for any of the reasons pointed out in the assignments of error.\u201d Simpson v. State, 12 Ga. App. 292 (77 S. E. 105); Gray v. State, 12 Ga. App. 634 (77 S. E. 916) ; Land v. State, 11 Ga. App. 761 (2) (76 S. E. 78).\n2. The statement of the. accused, in connection with all the evidence in the ease, authorized the charge on voluntary manslaughter. A part of the statement of the accused was: \u201cI was out there in the road looking to be shot or killed any moment, or hurt in some way, and that was 'the only way I could stop him and save myself.\u201d \u201cIf one kills another under the fears of a reasonable man that the deceased was manifestly intending to commit a personal injury upon him, amounting to a felony, the killing is justifiable homicide; if the prisoner* is .under similar fears of some injury less than a fejony, the offense is manslaughter, and not murder.\u201d Keener v. State, 18 Ga. 194 (10) (63 Am. D. 269); Battle v. State, 103 Ga. 53 (4), 58, 59 (29 S. E. 491) ; Mixon v. State, 7 Ga. App. 805 (4) (68 S. E. 315) ; Simpson v. State, supra.\n3. The excerpt from the charge complained of in the 5th ground of the amendment to the motion for a new trial is slightly inaccurate, but, when it is considered in connection with the entire charge and the facts of the case, the error is not so material as to require the grant of a new trial, as the verdict was for voluntary manslaughter only.\n4. There was evidence to supptfrt the verdict, and the judgment overruling the motion for new trial must be \u2022\n\nAffirmed.\n\n\nBroyles, P. J., concurs. Stephens, J., not presiding.\n\n",
+            "ocr": true,
+            "opinion_id": 5611099
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

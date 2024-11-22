@@ -1,8 +1,8 @@
 {
     "id": 2520364,
     "judges": null,
-    "date_filed": 1110844800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1986-01-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-monroe",
     "case_name_short": "Monroe",
     "case_name": "State v. Monroe",

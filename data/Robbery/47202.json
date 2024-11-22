@@ -1,8 +1,8 @@
 {
     "id": 8807259,
     "judges": "Hannum",
-    "date_filed": 51494400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-06-26",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-savage",
     "case_name_short": "Savage",
     "case_name": "United States v. Savage",

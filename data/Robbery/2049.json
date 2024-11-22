@@ -1,8 +1,8 @@
 {
     "id": 8167174,
     "judges": "Devore, Duncan, Garrett",
-    "date_filed": 1489536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-01-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-garcia",
     "case_name_short": "Garcia",
     "case_name": "State v. Garcia",

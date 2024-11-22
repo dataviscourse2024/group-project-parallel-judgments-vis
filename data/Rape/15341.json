@@ -1,8 +1,8 @@
 {
     "id": 1615481,
     "judges": "Evander, Griffin, Lawson",
-    "date_filed": 1251417600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2007-01-22",
+    "date_filed_is_approximate": true,
     "slug": "frank-v-state",
     "case_name_short": "Frank",
     "case_name": "Frank v. State",

@@ -1,0 +1,47 @@
+{
+    "id": 6206473,
+    "judges": null,
+    "date_filed": "2008-04-01",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-moyston",
+    "case_name_short": "Moyston",
+    "case_name": "People v. Moyston",
+    "case_name_full": "The People of the State of New York v. Ewan Moyston",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "285 A.D.2d 657",
+        "728 N.Y.S.2d 393"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Appeal by the defendant from a judgment of the Supreme Court, Queens County (Katz, J.), rendered December 8, 1999, convicting him of attempted murder in the second degree, robbery in the first degree, criminal possession of a weapon in the second degree, and robbery in the second degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant\u2019s contentions that certain comments made by the prosecutor during summation constituted reversible error are, for the most part, unpreserved for appellate review (see, People v Bynum, 70 NY2d 858, 859; People v Medina, 53 NY2d 951) and, in any event, without merit (see, People v Galloway, 54 NY2d 396, 399; People v Harris, 209 AD2d 432).\nContrary to the contentions raised by the defendant in his supplemental pro se brief, he received the effective assistance of counsel (see, People v Sinclair, 266 AD2d 482).\nThe defendant\u2019s remaining contention does not require reversal. O\u2019Brien, J. P., Krausman, Smith and Adams, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 6073022
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

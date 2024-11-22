@@ -1,8 +1,8 @@
 {
     "id": 8069243,
     "judges": "Davis, Harkin, Honzel, Review",
-    "date_filed": 554083200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-03-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-carey",
     "case_name_short": "Carey",
     "case_name": "State v. Carey",

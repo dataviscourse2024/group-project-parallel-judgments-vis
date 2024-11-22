@@ -1,8 +1,8 @@
 {
     "id": 1647803,
     "judges": "Morton",
-    "date_filed": 733536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-11-10",
+    "date_filed_is_approximate": true,
     "slug": "oguinn-v-dutton",
     "case_name_short": "O'GUINN",
     "case_name": "O'GUINN v. Dutton",

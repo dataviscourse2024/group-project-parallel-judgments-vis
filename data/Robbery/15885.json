@@ -1,8 +1,8 @@
 {
     "id": 901549,
     "judges": "Gilbertson, Konenkamp, Meierhenry, Sabers, Zinter",
-    "date_filed": 1196812800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-05-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-beckley",
     "case_name_short": "Beckley",
     "case_name": "State v. Beckley",

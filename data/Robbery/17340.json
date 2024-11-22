@@ -1,8 +1,8 @@
 {
     "id": 2209280,
     "judges": "DeBRULER, Dickson, Givan, Pivar-Nik, Shepard",
-    "date_filed": 529804800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-05-05",
+    "date_filed_is_approximate": true,
     "slug": "mediate-v-state",
     "case_name_short": "Mediate",
     "case_name": "Mediate v. State",

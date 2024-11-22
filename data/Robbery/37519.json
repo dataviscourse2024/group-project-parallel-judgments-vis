@@ -1,8 +1,8 @@
 {
     "id": 6846449,
     "judges": "Britt, Brock, Morris",
-    "date_filed": 239414400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2011-02-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-spruill",
     "case_name_short": "Spruill",
     "case_name": "State v. Spruill",

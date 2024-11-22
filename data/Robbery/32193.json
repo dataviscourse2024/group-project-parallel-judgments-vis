@@ -1,8 +1,8 @@
 {
     "id": 5781533,
     "judges": "Banke",
-    "date_filed": 231638400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-07-17",
+    "date_filed_is_approximate": true,
     "slug": "wood-v-state",
     "case_name_short": "Wood",
     "case_name": "Wood v. State",

@@ -1,8 +1,8 @@
 {
     "id": 7399819,
     "judges": "Wolin",
-    "date_filed": 448675200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-01-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-lyons",
     "case_name_short": "Lyons",
     "case_name": "State v. Lyons",

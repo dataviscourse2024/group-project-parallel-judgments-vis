@@ -1,8 +1,8 @@
 {
     "id": 4767704,
     "judges": null,
-    "date_filed": 1594598400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-07-23",
+    "date_filed_is_approximate": true,
     "slug": "people-v-gomez",
     "case_name_short": "Gomez",
     "case_name": "People v. Gomez",

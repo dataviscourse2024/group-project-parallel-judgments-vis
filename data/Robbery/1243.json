@@ -1,8 +1,8 @@
 {
     "id": 8002657,
     "judges": "Brennan, Gillis, Levin",
-    "date_filed": -5616000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-06-19",
+    "date_filed_is_approximate": true,
     "slug": "people-v-crawford",
     "case_name_short": "Crawford",
     "case_name": "People v. Crawford",

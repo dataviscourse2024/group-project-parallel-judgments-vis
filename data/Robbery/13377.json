@@ -1,8 +1,8 @@
 {
     "id": 1655820,
     "judges": "Fosheim, Henderson, Morgan, Wollman, Wuest",
-    "date_filed": 491616000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1973-09-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-devine",
     "case_name_short": "Devine",
     "case_name": "State v. Devine",

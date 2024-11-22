@@ -1,8 +1,8 @@
 {
     "id": 1346313,
     "judges": "Blatz, Keith",
-    "date_filed": 848534400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-01-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-tatum",
     "case_name_short": "Tatum",
     "case_name": "State v. Tatum",

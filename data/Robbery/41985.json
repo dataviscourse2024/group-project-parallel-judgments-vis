@@ -1,8 +1,8 @@
 {
     "id": 7738944,
     "judges": "Kahn, Lawrence, Smith",
-    "date_filed": 750384000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-05-22",
+    "date_filed_is_approximate": true,
     "slug": "davis-v-state",
     "case_name_short": "Davis",
     "case_name": "Davis v. State",

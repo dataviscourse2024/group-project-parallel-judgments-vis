@@ -1,8 +1,8 @@
 {
     "id": 2081993,
     "judges": "Jacobs, President Judge, and Hoffman, Cercone, Price, Van Der Voort, Spaeth and Hester",
-    "date_filed": 292723200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-06-11",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-morgan",
     "case_name_short": "Com.",
     "case_name": "Commonwealth v. Morgan",

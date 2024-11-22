@@ -1,0 +1,46 @@
+{
+    "id": 5147090,
+    "judges": "Colville, Donohue, Wecht",
+    "date_filed": "1993-12-03",
+    "date_filed_is_approximate": true,
+    "slug": "commonwealth-v-trimble",
+    "case_name_short": "Commonwealth",
+    "case_name": "Commonwealth v. Trimble",
+    "case_name_full": "COMMONWEALTH of Pennsylvania v. Scott Allen TRIMBLE",
+    "attorneys": "Scott A. Trimble, appellant, pro se., Cory J. Snook, District Attorney, Miff-lintown, for Commonwealth, appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted June 24, 2013.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "75 A.3d 518"
+    ],
+    "opinions": [
+        {
+            "author_str": "Colville",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION BY\nCOLVILLE, J.:\nThis is a pro se appeal from the order which denied Appellant\u2019s Motion to Expunge Criminal Record. Appellant seeks reversal of the order, arguing, inter alia, that the Commonwealth failed to carry its burden in the proceedings. We agree.\nAppellant sought expunction of his criminal arrest records for charges of rape, simple assault and terroristic threats, all of which had been dismissed by a magisterial district judge in a criminal proceeding which ultimately resulted in Appellant\u2019s guilty plea to one count of kidnapping. The Commonwealth notified the court that it was not filing a response to Appellant\u2019s motion. The trial court denied the motion. This appeal followed.\nOur Supreme Court has explained the relevant law in this area as follows:\nThere is a long-standing right in this Commonwealth to petition for expungement of a criminal arrest record, a right that is an adjunct of due process. Carlacci v. Mazaleski, 568 Pa. 471, 798 A.2d 186, 188 (Pa.2002). The decision to grant or deny a petition to expunge rests with the sound discretion of the trial court, and we review that court\u2019s decision for abuse of discretion. Commonwealth v. Waughtel, 2010 PA Super 125, 999 A.2d 623, 624-25 (Pa.Super.2010); Commonwealth v. A.M.R., 2005 PA Super 398, 887 A.2d 1266, 1268 (Pa.Super.2005).\nJudicial analysis and evaluation of a petition to expunge depend upon the manner of disposition of the charges against the petitioner. When an individual has been convicted of the offenses charged, then expungement of criminal history records may be granted only under very limited circumstances that are set forth by statute. 18 Pa.C.S. \u00a7 9122; Hunt v. Pennsylvania State Police, 603 Pa. 156, 983 A.2d 627, 633 (Pa.2009). When a petitioner has been tried and acquitted of the offenses charged, we have held that the petitioner is \u201cautomatically entitled to the expungement of his arrest record.\u201d Commonwealth v. D.M., 548 Pa. 131, 695 A.2d 770, 772-73 (Pa.1997). When a prosecution has been terminated without conviction or acquittal, for reasons such as nolle prosse of the charges or the defendant\u2019s successful completion of an accelerated rehabilitative disposition program (\u201cARD\u201d), then this Court has required the trial court to \u201cbalance *520the individual\u2019s right to be free from the harm attendant to maintenance of the arrest record against the Commonwealth\u2019s interest in preserving such records.\u201d Commonwealth v. Wexler, 494 Pa. 325, 431 A.2d 877, 879 (Pa.1981); D.M., supra at 772 (\u201cWe reiterate the authority of Wexler and the balancing test approved therein as the means of deciding petitions to expunge the records of all arrests which are terminated without convictions except in cases of acquittals.\u201d).\nTo aid courts in applying the balancing test for expungement, we also adopted in Wexler the following non-exhaustive list of factors that the court should consider:\nThese factors include [1] the strength of the Commonwealth\u2019s case against the petitioner, [2] the reasons the Commonwealth gives for wishing to retain the records, [3] the petitioner\u2019s age, criminal record, and employment history, [4] the length of time that has elapsed between the arrest and the petition to expunge, and [5] the specific adverse consequences the petitioner may endure should expunction be denied.\nWexler, supra at 879 (citation omitted). We have emphasized that in applying the balancing test and considering the above factors, the court must analyze the particular, specific facts of the case before it. Id. at 880-81. The mere assertion by the Commonwealth of a general interest in maintaining accurate records of those accused of a crime does not outweigh an individual\u2019s specific, substantial interest in clearing his or her record. Id. at 881-82.\nIn addition, Wexler explicitly placed the burden of proof on the Commonwealth. The case against the Wexler appellants had been nolle prossed after the Commonwealth had admitted that it would be unable to sustain its burden of proof at trial. Wexler, supra at 880. Nonetheless, the trial court denied the appellants\u2019 petition to expunge their arrest records, and the Superior Court affirmed. This Court reversed and ordered expungement, concluding that the Commonwealth had not proffered \u201ccompelling evidence\u201d to justify the retention of the appellants\u2019 arrest records. Id. at 881. Importantly, in general terms, we held that when the Commonwealth admits that it is unable to bear its burden of proof beyond a reasonable doubt at trial, then \u201cthe Commonwealth must bear the burden of justifying why the arrest record should not be expunged.\u201d Id. at 880.\nCommonwealth v. Moto, 611 Pa. 95, 23 A.3d 989, 993-94 (2011) (emphasis added).\nIn this case, the Commonwealth undeniably failed to meet its burden where it elected not to oppose, in any way, Appellant\u2019s petition. Thus, the trial court abused its discretion in finding that, \u201cwhen balancing [Appellant\u2019s] right to be free from the harm attendant to maintenance of the arrest record against the Commonwealth\u2019s interest in preserving such records, in this particular case, greater weight must be afforded to the Commonwealth\u2019s interest in preserving such records,\u201d Trial Court Opinion, 11/28/12, where the Commonwealth simply did not advance an interest in preserving Appellant\u2019s records.\nAccordingly, we reverse the order denying Appellant\u2019s petition. Appellant\u2019s criminal arrest records for the relevant charges of rape, simple assault and terroristic threats shall be expunged.\nOrder reversed. Jurisdiction relinquished.\n",
+            "ocr": true,
+            "opinion_id": 4967839
+        }
+    ],
+    "court_short_name": "Superior Court of Pennsylvania",
+    "court_full_name": "Superior Court of Pennsylvania",
+    "court_type": "SA",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Rape"
+}

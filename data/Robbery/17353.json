@@ -1,8 +1,8 @@
 {
     "id": 2212176,
     "judges": "Taylor",
-    "date_filed": -21686400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-11-25",
+    "date_filed_is_approximate": true,
     "slug": "people-v-buggs",
     "case_name_short": "Buggs",
     "case_name": "People v. Buggs",

@@ -1,8 +1,8 @@
 {
     "id": 4477539,
     "judges": "Barnes",
-    "date_filed": 1520294400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-06",
+    "date_filed_is_approximate": true,
     "slug": "turner-v-the-state",
     "case_name_short": null,
     "case_name": "TURNER v. the STATE.",

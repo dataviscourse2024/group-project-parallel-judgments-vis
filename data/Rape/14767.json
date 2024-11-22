@@ -1,8 +1,8 @@
 {
     "id": 1193305,
     "judges": "Brett, Nix, Powell",
-    "date_filed": -363571200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-06-05",
+    "date_filed_is_approximate": true,
     "slug": "eubanks-v-state",
     "case_name_short": "Eubanks",
     "case_name": "Eubanks v. State",

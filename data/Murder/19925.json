@@ -1,0 +1,47 @@
+{
+    "id": 2799347,
+    "judges": null,
+    "date_filed": "2020-12-22",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-cain",
+    "case_name_short": "Cain",
+    "case_name": "People v. Cain",
+    "case_name_full": "The People of the State of New York, Respondent, v. William Cain, Appellant",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"AEy\">\n    The People of the State of New York, Respondent, v William Cain, Appellant.\n   </parties><citation id=\"ACn\">\n    [6 NYS3d 484]\n   </citation>",
+    "citations": [
+        "128 A.D.3d 451",
+        "6 N.Y.S.3d 484"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2015/2015_03939.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Cain (2015 NY Slip Op 03939)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Cain\r\n\r\n\r\n2015 NY Slip Op 03939\r\n\r\n\r\nDecided on May 7, 2015\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on May 7, 2015\r\n\r\nFriedman, J.P., Acosta, Richter, Gische, JJ.\r\n\r\n\r\n15042 1456/11\r\n\r\n[*1] The People of the State of New York, Respondent, \u2014\r\nvWilliam Cain, Defendant-Appellant.\r\n\r\n\r\nRobert S. Dean, Center for Appellate Litigation, New York (Lauren Springer of counsel), for appellant.\r\nRobert T. Johnson, District Attorney, Bronx (David P. Johnson of counsel), for respondent.\r\n\r\n\r\n\r\nJudgment, Supreme Court, Bronx County (Michael A. Gross, J.), rendered February 27, 2014, convicting defendant, upon his plea of guilty, of manslaughter in the first degree, and sentencing him to a term of 22 \u00bd years, unanimously affirmed.\r\nAlthough we do not find that defendant made a valid waiver of the right to appeal, we perceive no basis for reducing the sentence.\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: MAY 7, 2015\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 2799347
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

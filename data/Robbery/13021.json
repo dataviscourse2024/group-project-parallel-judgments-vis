@@ -1,8 +1,8 @@
 {
     "id": 1392134,
     "judges": "Cochran",
-    "date_filed": 284947200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-07-30",
+    "date_filed_is_approximate": true,
     "slug": "ansell-v-commonwealth",
     "case_name_short": "Ansell",
     "case_name": "Ansell v. Commonwealth",

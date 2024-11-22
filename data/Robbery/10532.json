@@ -1,8 +1,8 @@
 {
     "id": 1205313,
     "judges": "Carrico",
-    "date_filed": 10022400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-05-23",
+    "date_filed_is_approximate": true,
     "slug": "martin-v-commonwealth",
     "case_name_short": "Martin",
     "case_name": "Martin v. Commonwealth",

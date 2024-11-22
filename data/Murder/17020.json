@@ -1,8 +1,8 @@
 {
     "id": 2139687,
     "judges": "Poche",
-    "date_filed": 475286400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1980-03-10",
+    "date_filed_is_approximate": true,
     "slug": "people-v-pickett",
     "case_name_short": "Pickett",
     "case_name": "People v. Pickett",

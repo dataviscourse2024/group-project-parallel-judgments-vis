@@ -1,8 +1,8 @@
 {
     "id": 5922396,
     "judges": null,
-    "date_filed": 47606400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-12-31",
+    "date_filed_is_approximate": true,
     "slug": "people-v-rios",
     "case_name_short": "Rios",
     "case_name": "People v. Rios",

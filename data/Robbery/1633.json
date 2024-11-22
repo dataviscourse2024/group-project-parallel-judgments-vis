@@ -1,8 +1,8 @@
 {
     "id": 8081098,
     "judges": "Boslaugh, Clinton, Cown, Kuns, Kxnsrs, Newton, Spencer, White",
-    "date_filed": 182044800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-01-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-dedrick",
     "case_name_short": "Dedrick",
     "case_name": "State v. Dedrick",

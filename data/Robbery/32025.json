@@ -1,8 +1,8 @@
 {
     "id": 5747092,
     "judges": "Clarke",
-    "date_filed": 717984000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-01-11",
+    "date_filed_is_approximate": true,
     "slug": "couch-v-state",
     "case_name_short": "Couch",
     "case_name": "Couch v. State",

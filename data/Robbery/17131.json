@@ -1,8 +1,8 @@
 {
     "id": 2215777,
     "judges": "Bilandic, Freeman, Miller",
-    "date_filed": 829785600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2020-03-03",
+    "date_filed_is_approximate": true,
     "slug": "people-v-klingenberg",
     "case_name_short": "Klingenberg",
     "case_name": "People v. Klingenberg",

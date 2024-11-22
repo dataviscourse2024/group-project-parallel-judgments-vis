@@ -1,8 +1,8 @@
 {
     "id": 3134393,
     "judges": null,
-    "date_filed": 854582400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-03-01",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mcneal",
     "case_name_short": "McNeal",
     "case_name": "People v. McNeal",

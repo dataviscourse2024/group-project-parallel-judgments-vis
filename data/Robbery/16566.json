@@ -1,8 +1,8 @@
 {
     "id": 2070031,
     "judges": "Lindberg",
-    "date_filed": 293673600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-11-30",
+    "date_filed_is_approximate": true,
     "slug": "people-v-johnson",
     "case_name_short": null,
     "case_name": "People v. Johnson",

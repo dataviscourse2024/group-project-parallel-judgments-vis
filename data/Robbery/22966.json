@@ -1,8 +1,8 @@
 {
     "id": 3558528,
     "judges": "Ellison",
-    "date_filed": -796176000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-11-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-clark",
     "case_name_short": null,
     "case_name": "State v. Clark",

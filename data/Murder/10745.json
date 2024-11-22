@@ -1,8 +1,8 @@
 {
     "id": 1235402,
     "judges": "Inbody, Irwin, Miller-Lerman",
-    "date_filed": 902793600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2008-01-16",
+    "date_filed_is_approximate": true,
     "slug": "state-v-silva",
     "case_name_short": "Silva",
     "case_name": "State v. Silva",

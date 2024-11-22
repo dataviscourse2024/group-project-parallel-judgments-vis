@@ -1,8 +1,8 @@
 {
     "id": 6356476,
     "judges": "Wilson",
-    "date_filed": 1118966400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-12-15",
+    "date_filed_is_approximate": true,
     "slug": "people-v-zayas",
     "case_name_short": "Zayas",
     "case_name": "People v. Zayas",

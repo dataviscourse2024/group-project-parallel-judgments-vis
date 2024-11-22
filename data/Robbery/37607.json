@@ -1,8 +1,8 @@
 {
     "id": 6865029,
     "judges": "Brown, Corrigan, Herbert, Leach, Neill, Schneider, Stern",
-    "date_filed": 80352000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2005-10-28",
+    "date_filed_is_approximate": true,
     "slug": "state-v-tingler",
     "case_name_short": "Tingler",
     "case_name": "State v. Tingler",

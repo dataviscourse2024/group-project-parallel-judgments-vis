@@ -1,0 +1,47 @@
+{
+    "id": 5852531,
+    "judges": null,
+    "date_filed": "2022-10-18",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-roseboro",
+    "case_name_short": "Roseboro",
+    "case_name": "People v. Roseboro",
+    "case_name_full": "The People of the State of New York v. Willie Roseboro, Also Known as Anndy",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "32 A.D.3d 1288",
+        "822 N.Y.S.2d 221"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal from a judgment of the Supreme Court, Erie County (Penny M. Wolfgang, J.), rendered October 12, 2004. The judgment convicted defendant, after a nonjury trial, of assault in the first degree, rape in the first degree, sodomy in the first degree (two counts) and criminal possession of a weapon in the third degree.\n*1289It is hereby ordered that the judgment so appealed from be and the same hereby is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him after a nonjury trial of one count each of assault in the first degree (Penal Law \u00a7 120.10 [1]), rape in the first degree (\u00a7 130.35 [1]) and criminal possession of a weapon in the third degree (\u00a7 265.02 [1]) and two counts of sodomy in the first degree (former \u00a7 130.50 [1]). Defendant failed to preserve for our review his contention that he was deprived of a fair trial by the admission in evidence of the testimony of a police officer confirming the victim\u2019s identification of defendant at the hospital (,see CPL 470.05 [2]). In any event, defendant\u2019s contention lacks merit. The officer testified that defendant was brought to the hospital for a showup identification procedure and that, when the victim saw defendant, she identified him without being asked any questions. That identification by the victim was admissible under the excited utterance exception to the hearsay rule, i.e., it was \u201cmade under the stress of excitement caused by an external event, and not the product of studied reflection and possible fabrication\u201d (People v Johnson, 1 NY3d 302, 306 [2003]). Contrary to defendant\u2019s further contentions, the evidence is legally sufficient to support the conviction of sodomy (see generally People v Bleakley, 69 NY2d 490, 495), and the sentence is not unduly harsh or severe. Present \u2014 Scudder, J.P., Kehoe, Gorski, Smith and Pine, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5708700
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

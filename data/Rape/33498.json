@@ -1,0 +1,46 @@
+{
+    "id": 6043597,
+    "judges": null,
+    "date_filed": "2021-03-02",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-yourdon",
+    "case_name_short": "Yourdon",
+    "case_name": "People v. Yourdon",
+    "case_name_full": "The People of the State of New York v. Louis J. Yourdon",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "142 A.D.2d 998"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment unanimously affirmed. Memorandum: On this appeal from a judgment convicting defendant of rape and sodomy, defendant contends that he was deprived of effective assistance of counsel solely because his counsel did not request that a test be made of the seminal fluid found in the victim\u2019s vaginal tract to determine the blood type of the perpetrator. Just as a showing of counsel\u2019s failure to make a particular pretrial motion generally does not, by itself, establish ineffective assistance of counsel, neither does a showing of failure to request a particular scientific test. It is incumbent on defendant to demonstrate the absence of strategy or other legitimate explanations for such failure (see, People v Montana, 71 NY2d 705). Here, defendant has not demonstrated the absence of strategy or other legitimate explanations for his counsel\u2019s failure to request that a test of the seminal fluid be made. We cannot say from this record that defense counsel was ineffective in stressing to the jury the failure of the prosecutor to cause the test to be made rather than assuming the risk that the results of the test would tend to incriminate defendant by showing that he had the same blood type as the perpetrator.\nWe reject defendant\u2019s further contention that the prosecutor concealed exculpatory evidence by failing to cause the test to be made. Because this test was not made, there was no exculpatory evidence to conceal. (Appeal from judgment of Supreme Court, Erie County, Flynn, J.\u2014sodomy, first degree.) Present\u2014Doerr, J. P., Boomer, Pine and Lawton, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5906867
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Rape"
+}

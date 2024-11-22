@@ -1,8 +1,8 @@
 {
     "id": 7755801,
     "judges": "Booth, Miner, Webster",
-    "date_filed": 820108800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-11-30",
+    "date_filed_is_approximate": true,
     "slug": "cbh-v-state",
     "case_name_short": "C.B.H.",
     "case_name": "C.B.H. v. State",

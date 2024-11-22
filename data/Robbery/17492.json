@@ -1,8 +1,8 @@
 {
     "id": 2260858,
     "judges": "Stein",
-    "date_filed": 1046304000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1975-11-17",
+    "date_filed_is_approximate": true,
     "slug": "people-v-williams",
     "case_name_short": null,
     "case_name": "People v. Williams",

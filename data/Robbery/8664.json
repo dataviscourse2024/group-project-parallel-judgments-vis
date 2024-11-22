@@ -1,8 +1,8 @@
 {
     "id": 1739920,
     "judges": "Grimes",
-    "date_filed": 534556800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1990-02-28",
+    "date_filed_is_approximate": true,
     "slug": "vh-v-state",
     "case_name_short": "VH",
     "case_name": "VH v. State",

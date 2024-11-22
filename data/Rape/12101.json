@@ -1,8 +1,8 @@
 {
     "id": 156632,
     "judges": null,
-    "date_filed": 900633600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-07-15",
+    "date_filed_is_approximate": true,
     "slug": "johnson-v-kindt",
     "case_name_short": "Kindt",
     "case_name": "Johnson v. Kindt",

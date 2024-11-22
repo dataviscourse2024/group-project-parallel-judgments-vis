@@ -1,8 +1,8 @@
 {
     "id": 4170501,
     "judges": "Baker, Lattimore",
-    "date_filed": -1348185600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-04-08",
+    "date_filed_is_approximate": true,
     "slug": "dawson-v-state",
     "case_name_short": "Dawson",
     "case_name": "Dawson v. State",

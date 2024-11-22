@@ -1,0 +1,46 @@
+{
+    "id": 5267586,
+    "judges": "Gaertner, Grimm, Pudlowski",
+    "date_filed": "1980-04-14",
+    "date_filed_is_approximate": true,
+    "slug": "bell-v-state",
+    "case_name_short": null,
+    "case_name": "Bell v. State",
+    "case_name_full": "Andrew BELL v. STATE of Missouri",
+    "attorneys": "David Hemingway, Asst. Sp. Public Defender, St. Louis, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Cristi A. Ingalsbe, Asst. Atty. Gen., Jefferson City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "967 S.W.2d 304"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pudlowski",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPUDLOWSKI, Judge.\nAndrew Bell, (Bell), appeals from the judgment entered denying his Rule 24.035 motion without an evidentiary hearing. We reverse and remand for an evidentiary hearing.\nOn December 13, 1994, Bell pleaded guilty to second degree murder, three counts of first degree assault, and three counts of armed criminal action in connection with an automobile collision that resulted in the death of one person and serious physical injury to three other people. On April 21, 1995, the trial court sentenced Bell to four concurrent terms of twenty years of imprisonment for second degree murder and three counts of first degree assault. The court also sentenced Bell to three concurrent terms of three years of imprisonment for the three counts of armed criminal action.\nOn June 17, 1995, Bell filed a Rule 24.035 motion for post-conviction relief. After appointment of counsel, an amended motion was filed. On January 21, 1997, the motion court denied it without a hearing. Bell appeals.\nBell raises two points on appeal, contending he is entitled to an evidentiary hearing on his motion because it is not refuted by the record. Both points address the same basic issue. In his first point, Bell contends that his counsel was ineffective in failing to advise him of the minimum and maximum penalties for his charges. In his second point, Bell alleges the trial court failed to conform with Rule 24.02(b)(1) and personally inform him of the mandatory minimum and maximum sen*305tences established by law. Bell contended in his motion that this failure by the trial court rendered his guilty pleas involuntary.\nOur review of a judgment pursuant to Rule 24.035 is limited to determining if the motion court\u2019s findings and conclusions are clearly erroneous. Rule 24.035(k). The findings and conclusions are clearly erroneous if, after reviewing the entire record, we are left with the definite and firm impression that a mistake has been made. Day v. State, 770 S.W.2d 692, 695 (Mo. banc 1989), cert. denied sub nom. Walker v. Missouri, 493 U.S. 866, 110 S.Ct. 186, 107 L.Ed.2d 141 (1989).\nTo be entitled to a hearing, Bell must: (1) cite facts, not conclusions, which would entitle him to rehef; (2) show the factual allegations are not refuted by the record; and (3) prove he was thereby prejudiced. Tolen v. State, 934 S.W.2d 639, 641 (Mo.App. E.D.1996). If the files and records conclusively show that Bell is entitled to no rehef, then a hearing shah not be held. Rule 24.035(h).\nRule 24.02(b) requires that, before accepting a plea of guilty, the trial court must personally inform a defendant of the \u201cnature of the charge to which the plea is offered, the mandatory minimum penalty provided by law, if any, and the maximum possible penalty provided by law.\u201d This rule places a burden on the trial court to determine that a defendant understands the range of punishment for the offenses charged. Wiles v. State, 812 S.W.2d 549, 551 (Mo.App. S.D.1991). In the case at hand, the trial court failed to recite the apphcable range of punishment and did not ask any person present to recite it.\nIn denying his motion, the motion court found that Bell\u2019s claim was refuted by the record wherein he stated that his attorney did discuss the range of punishment with him. However, this statement fails to demonstrate exactly what his attorney told him or Bell\u2019s understanding of the range. The failure of the trial court to comply with Rule 24.02(b) and personally inform Bell of the range of punishment compounds the problem. The record does not refute Bell\u2019s claim that he did not know the statutory minimum penalty when he pleaded guilty. Indeed, the record completely fails to indicate Bell\u2019s understanding of the minimum penalty. Moreover, Bell\u2019s assertion that his counsel told him he would receive no more than ten years does not demonstrate that counsel told him this was the minimum penalty provided by law for second degree murder and first degree assault. Therefore, the record does not conclusively show that Bell is entitled to no relief. See, Dean v. State, 901 S.W.2d 323, 327-328 (Mo.App. W.D.1995); Payne v. State, 864 S.W.2d 17,19 (Mo.App. E.D.1993); and Wiles, 812 S.W.2d at 551-552.\nWe reverse and remand for an evidentiary hearing to determine if Bell knew the correct range of punishment for the charges in question at the time he pleaded guilty and if not, whether he was prejudiced by the omission.\nGRIMM, P. J., and GARY M. GAERTNER, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 5094912
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Murder"
+}

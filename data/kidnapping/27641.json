@@ -1,8 +1,8 @@
 {
     "id": 4842963,
     "judges": null,
-    "date_filed": 1608768000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-10-16",
+    "date_filed_is_approximate": true,
     "slug": "com-v-shields-c",
     "case_name_short": "Com.",
     "case_name": "Com. v. Shields, C.",

@@ -1,8 +1,8 @@
 {
     "id": 1841971,
     "judges": "Page",
-    "date_filed": 1085616000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-08-01",
+    "date_filed_is_approximate": true,
     "slug": "hooper-v-state",
     "case_name_short": "Hooper",
     "case_name": "Hooper v. State",

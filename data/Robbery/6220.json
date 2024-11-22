@@ -1,8 +1,8 @@
 {
     "id": 9009090,
     "judges": "Alarcon, Beezer, Browning, Farris, Fernandez, Leavy, Nelson, Norris, Schroeder, Wallace, Wiggins",
-    "date_filed": 712281600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2010-09-04",
+    "date_filed_is_approximate": true,
     "slug": "carriger-v-lewis",
     "case_name_short": "Carriger",
     "case_name": "Carriger v. Lewis",

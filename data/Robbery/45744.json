@@ -1,8 +1,8 @@
 {
     "id": 8508133,
     "judges": "Gorsuch, Holmes, Murphy",
-    "date_filed": 1280793600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-09-25",
+    "date_filed_is_approximate": true,
     "slug": "rawle-v-wyoming-department-of-corrections-state-penitentiary-warden",
     "case_name_short": "Rawle",
     "case_name": "Rawle v. Wyoming Department of Corrections State Penitentiary Warden",

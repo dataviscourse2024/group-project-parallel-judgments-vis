@@ -1,8 +1,8 @@
 {
     "id": 1508272,
     "judges": "Betty C. Dickey",
-    "date_filed": 1136419200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-10-05",
+    "date_filed_is_approximate": true,
     "slug": "fondren-v-state",
     "case_name_short": "Fondren",
     "case_name": "Fondren v. State",

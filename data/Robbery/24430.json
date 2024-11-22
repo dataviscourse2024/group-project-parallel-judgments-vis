@@ -1,8 +1,8 @@
 {
     "id": 4127711,
     "judges": "Humphreys, Overton",
-    "date_filed": -5069865600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-06-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-france",
     "case_name_short": "France",
     "case_name": "State v. France",

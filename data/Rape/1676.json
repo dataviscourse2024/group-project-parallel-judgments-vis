@@ -1,8 +1,8 @@
 {
     "id": 8091312,
     "judges": "Batchelder, Horton, Others, Thayer",
-    "date_filed": 770947200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-08-18",
+    "date_filed_is_approximate": true,
     "slug": "state-v-whittaker",
     "case_name_short": "Whittaker",
     "case_name": "State v. Whittaker",

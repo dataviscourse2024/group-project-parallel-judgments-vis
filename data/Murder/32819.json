@@ -1,0 +1,46 @@
+{
+    "id": 5910019,
+    "judges": null,
+    "date_filed": "2005-03-31",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-di-costanzo",
+    "case_name_short": null,
+    "case_name": "People v. Di Costanzo",
+    "case_name_full": "The People of the State of New York v. James M. Di Costanzo",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "30 A.D.2d 769"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal held, decision reserved and case remitted to Onondaga County Court for further proceedings in accordance with the following Memorandum: At the opening of the trial defendant formally submitted a written application to waive his right to a trial by jury as required by section 2 of article I of the New York Constitution. The record does not show the facts considered by the trial court in refusing to approve the application nor the reasons for such refusal. The Trial Judge\u2019s discretion to deny a defendant\u2019s request of this nature is limited to those cases in which some \u201c compelling ground arising out of the attainment of the ends of justice \u2019 \u201d exists. (People ex rel. Rohrlich v. Follette, 20 N Y 2d 297, 301.) The ultimate question is whether or not the trial court improvidently exercised its discretion in denying the application. (People v. Diaz, 10 A D 2d 80, 89, affd. 8 N Y 2d 1061.) This may not be decided upon a record devoid of any facts on the subject. The written instrument was legally sufficient to alert the trial court to the necessity of obtaining further facts, by hearing or otherwise, upon which its discretion could have been exercised. The defendant should have an opportunity by hearing or otherwise in his discretion to elaborate upon his reasons for seeking to waive a jury trial and, if the application is denied, the court should state the grounds therefor. (Appeal from judgment of Onondaga County Court, convicting defendant of murder, first degree and murder, second degree.) Present \u2014 Bastow, P. J., Goldman, Del Vecchio, Witmer and Henry, JJ.\n",
+            "ocr": true,
+            "opinion_id": 5767500
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

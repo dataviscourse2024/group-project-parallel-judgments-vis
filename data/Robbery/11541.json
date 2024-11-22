@@ -1,8 +1,8 @@
 {
     "id": 1083676,
     "judges": null,
-    "date_filed": 864950400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-03-09",
+    "date_filed_is_approximate": true,
     "slug": "state-v-robert-sowell",
     "case_name_short": null,
     "case_name": "State v. Robert Sowell",

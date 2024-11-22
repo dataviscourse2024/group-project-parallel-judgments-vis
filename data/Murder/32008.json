@@ -1,0 +1,46 @@
+{
+    "id": 5744403,
+    "judges": "Jordan",
+    "date_filed": "2009-01-31",
+    "date_filed_is_approximate": true,
+    "slug": "bailey-v-state",
+    "case_name_short": "Bailey",
+    "case_name": "Bailey v. State",
+    "case_name_full": "BAILEY v. State",
+    "attorneys": "James W. Studdard, for appellant., William H. Ison, District Attorney, J. W. Bradley, Assistant District Attorney, Arthur K. Bolton, Attorney General, Susan V. Boleyn, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted December 3, 1976 \u2014",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "238 Ga. 195"
+    ],
+    "opinions": [
+        {
+            "author_str": "Jordan",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJordan, Justice.\nAppellant was charged with felony murder in the death of Charles Bohannon, Jr., a two-year-old child. The indictment alleged that appellant, while in the commission of a felony, i.e., cruelty to children, caused the death of the infant by beating him with his hands. A jury found him guilty as charged and also found that the murder was \"outrageously and wantonly vile\u201d but did not recommend the death penalty. Appellant was sentenced to life imprisonment. His motion for a new trial was denied and he appeals.\nOnly two errors are enumerated. First, it is alleged that the verdict is decidedly and strongly against the weight of the evidence.\n*196The cause of death was determined to be due to \"blunt force head trauma.\u201d The medical examiner testified that death could have resulted from either (or both) of two head injuries, one located on the top of the head, the other on the side. The mother of the child testified that appellant struck the child in the head with his fist three days before the death of the child. The medical examiner estimated that the blows to the head, which caused the death of the child, occurred approximately 72 hours before death. There was also uncontradicted evidence before the jury that the child fell and struck his head on an automobile bumper around the time frame within which the fatal blows were struck. The only testimony which linked the appellant with the head injuries suffered by the child was that of the mother. The mother admitted that prior to the trial she had made several statements to police and neighbors to the effect that the bruises which the child had were due to falls.\nAs an appellate court we do not sit as the triers of fact. Our duty is not to pass on the weight of the evidence, but only on its sufficiency. See Proctor v. State, 235 Ga. 720 (221 SE2d 556) (1975); Strong v. State, 232 Ga. 294, 298 (206 SE2d 461) (1974). There is evidence in the record which if believed by the jury would support their verdict.\nAppellant, in his second enumeration of error, complains his defense was prejudiced by a remark made by the prosecuting attorney during the voir dire. The remark was to the effect that appellant had been given an opportunity to defend himself once at the preliminary hearing. The remark was made in response to appellant\u2019s counsel\u2019s assertion that the trial was the defendant\u2019s first opportunity to defend himself. We recognize that the statements by both counsel are accurate but incomplete. Either statement might well mislead the average juror, to some extent. However, upon objection by appellant\u2019s counsel, the trial court instructed the jury as to the functions of the preliminary hearing and the grand jury and by these instructions eliminated any possible prejudicial effect which the statement might have had.\n\nJudgment affirmed.\n\n\nAll the Justices concur.\n\nSubmitted December 3, 1976 \u2014\nDecided January 6, 1977.\nJames W. Studdard, for appellant.\nWilliam H. Ison, District Attorney, J. W. Bradley, Assistant District Attorney, Arthur K. Bolton, Attorney General, Susan V. Boleyn, for appellee.\n",
+            "ocr": true,
+            "opinion_id": 5596158
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1296423,
     "judges": "Eggleston",
-    "date_filed": -97632000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-04-17",
+    "date_filed_is_approximate": true,
     "slug": "smith-v-wright",
     "case_name_short": "Wright",
     "case_name": "Smith v. Wright",

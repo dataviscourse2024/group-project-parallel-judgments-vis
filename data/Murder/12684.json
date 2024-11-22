@@ -1,8 +1,8 @@
 {
     "id": 1530711,
     "judges": "Leisure",
-    "date_filed": 888969600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-02-17",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-muyet",
     "case_name_short": "Muyet",
     "case_name": "United States v. Muyet",

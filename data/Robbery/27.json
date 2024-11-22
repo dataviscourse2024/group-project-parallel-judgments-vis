@@ -1,8 +1,8 @@
 {
     "id": 7752906,
     "judges": "Lazzara, Patterson, Schoonover",
-    "date_filed": 808099200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-07-15",
+    "date_filed_is_approximate": true,
     "slug": "hutchins-v-state",
     "case_name_short": "Hutchins",
     "case_name": "Hutchins v. State",

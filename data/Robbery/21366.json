@@ -1,8 +1,8 @@
 {
     "id": 3146727,
     "judges": null,
-    "date_filed": 1176940800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-04-08",
+    "date_filed_is_approximate": true,
     "slug": "people-v-smith",
     "case_name_short": null,
     "case_name": "People v. Smith",

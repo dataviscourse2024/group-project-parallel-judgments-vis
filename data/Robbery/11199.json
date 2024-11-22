@@ -1,8 +1,8 @@
 {
     "id": 1274349,
     "judges": "Anderson, Blatz, Paul",
-    "date_filed": 1011225600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-05-03",
+    "date_filed_is_approximate": true,
     "slug": "state-v-pearson",
     "case_name_short": "Pearson",
     "case_name": "State v. Pearson",

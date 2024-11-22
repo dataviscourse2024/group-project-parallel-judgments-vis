@@ -1,8 +1,8 @@
 {
     "id": 1862421,
     "judges": "Nesbitt, Levy and Goderich",
-    "date_filed": 713491200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-01-11",
+    "date_filed_is_approximate": true,
     "slug": "nixon-v-state",
     "case_name_short": "Nixon",
     "case_name": "Nixon v. State",

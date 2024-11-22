@@ -1,0 +1,47 @@
+{
+    "id": 5955885,
+    "judges": null,
+    "date_filed": "1993-11-12",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-iverson",
+    "case_name_short": "Iverson",
+    "case_name": "People v. Iverson",
+    "case_name_full": "The People of the State of New York v. Ernest Iverson",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "56 A.D.2d 491",
+        "866 N.Y.S.2d 366"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Lott, J.), rendered January 3, 2006, convicting him of murder in the second degree, assault in the first degree (three counts), and criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nViewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it *492was legally sufficient to establish the defendant\u2019s guilt beyond a reasonable doubt. Moreover, upon our independent review pursuant to CPL 470.15 (5), we are satisfied that the verdict of guilt was not against the weight of the evidence (see People v Romero, 7 NY3d 633 [2006]).\nThe trial court correctly denied the defendant\u2019s request for a missing witness charge with respect to a particular uncalled witness because the request, which was made after both sides had rested, was untimely (see People v Simon, 6 AD3d 733 [2004]; People v McCloud, 305 AD2d 428 [2003]). In any event, such a charge would have been inappropriate because the uncalled witness was unavailable and his testimony would have been cumulative (see People v Gonzalez, 68 NY2d 424, 428 [1986]).\nThe defendant\u2019s claim that the court erred in denying his request for a circumstantial evidence charge is without merit. A court is required to honor a defendant\u2019s request for this charge only where the evidence of his participation in criminal activity is \u201cwholly circumstantial\u201d (People v Guidice, 83 NY2d 630, 636 [1994]; see People v Barnes, 50 NY2d 375, 380 [1980]). Here, the defendant\u2019s own statements constituted direct evidence of his involvement in the criminal activity at issue (see People v Licitra, 47 NY2d 554, 558-559 [1979]).\nThe sentence imposed was not excessive (see People v Suitte, 90 AD2d 80, 86 [1982]).\nThe defendant\u2019s contention raised in point III of his brief is unpreserved for appellate review, and his remaining contention is without merit. Mastro, J.P, Lifson, Garni and Eng, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5814715
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

@@ -1,8 +1,8 @@
 {
     "id": 1135911,
     "judges": "Orme, Bench and Billings",
-    "date_filed": 832204800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2004-09-13",
+    "date_filed_is_approximate": true,
     "slug": "state-v-russell",
     "case_name_short": "Russell",
     "case_name": "State v. Russell",

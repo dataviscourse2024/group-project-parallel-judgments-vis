@@ -1,8 +1,8 @@
 {
     "id": 4069975,
     "judges": "Barefoot, Doyle, Jones",
-    "date_filed": -757296000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-01-26",
+    "date_filed_is_approximate": true,
     "slug": "in-re-thomas",
     "case_name_short": "In Re Thomas",
     "case_name": "In Re Thomas",

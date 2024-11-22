@@ -1,8 +1,8 @@
 {
     "id": 1874147,
     "judges": "Gardner, Holman, Walker",
-    "date_filed": 1110412800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2021-06-24",
+    "date_filed_is_approximate": true,
     "slug": "guy-v-state",
     "case_name_short": "Guy",
     "case_name": "Guy v. State",

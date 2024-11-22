@@ -1,8 +1,8 @@
 {
     "id": 7611807,
     "judges": "Ferguson, Hendry, Pearson",
-    "date_filed": 489110400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-04-29",
+    "date_filed_is_approximate": true,
     "slug": "toranco-v-state",
     "case_name_short": "Toranco",
     "case_name": "Toranco v. State",

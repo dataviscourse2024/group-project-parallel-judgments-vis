@@ -1,8 +1,8 @@
 {
     "id": 1788920,
     "judges": "Newbern",
-    "date_filed": 718243200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1976-12-27",
+    "date_filed_is_approximate": true,
     "slug": "bonds-v-state",
     "case_name_short": "Bonds",
     "case_name": "Bonds v. State",

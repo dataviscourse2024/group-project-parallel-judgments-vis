@@ -1,8 +1,8 @@
 {
     "id": 4059529,
     "judges": "Bessey, Doyle, Matson",
-    "date_filed": -1529366400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-12-27",
+    "date_filed_is_approximate": true,
     "slug": "williamson-v-state",
     "case_name_short": "Williamson",
     "case_name": "Williamson v. State",

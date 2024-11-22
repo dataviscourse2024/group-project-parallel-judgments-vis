@@ -1,8 +1,8 @@
 {
     "id": 2127436,
     "judges": "Rakowski",
-    "date_filed": 681091200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-04-17",
+    "date_filed_is_approximate": true,
     "slug": "people-v-mikell",
     "case_name_short": "Mikell",
     "case_name": "People v. Mikell",

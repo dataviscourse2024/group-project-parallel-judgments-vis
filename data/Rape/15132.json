@@ -1,8 +1,8 @@
 {
     "id": 1436572,
     "judges": "Flaherty, Goldberg, Robinson, Suttell, Williams",
-    "date_filed": 1196640000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-07-02",
+    "date_filed_is_approximate": true,
     "slug": "state-v-seamans",
     "case_name_short": "Seamans",
     "case_name": "State v. Seamans",

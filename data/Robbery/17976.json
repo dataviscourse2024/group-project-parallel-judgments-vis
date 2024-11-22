@@ -1,8 +1,8 @@
 {
     "id": 2374474,
     "judges": "Sue L. Robinson",
-    "date_filed": 1218499200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2000-12-03",
+    "date_filed_is_approximate": true,
     "slug": "yost-v-williams",
     "case_name_short": "Yost",
     "case_name": "Yost v. Williams",

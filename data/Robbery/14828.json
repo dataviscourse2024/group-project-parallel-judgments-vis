@@ -1,8 +1,8 @@
 {
     "id": 1238155,
     "judges": "Benham",
-    "date_filed": 937180800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-03",
+    "date_filed_is_approximate": true,
     "slug": "ward-v-state",
     "case_name_short": "Ward",
     "case_name": "Ward v. State",

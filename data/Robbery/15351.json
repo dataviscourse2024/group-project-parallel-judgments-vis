@@ -1,8 +1,8 @@
 {
     "id": 1620880,
     "judges": "Fulmer",
-    "date_filed": 1131062400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-08-06",
+    "date_filed_is_approximate": true,
     "slug": "warner-v-state",
     "case_name_short": "Warner",
     "case_name": "Warner v. State",

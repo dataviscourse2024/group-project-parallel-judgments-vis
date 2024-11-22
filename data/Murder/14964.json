@@ -1,8 +1,8 @@
 {
     "id": 1323532,
     "judges": "Hedrick, Parker, Vaughn",
-    "date_filed": 162000000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2017-08-08",
+    "date_filed_is_approximate": true,
     "slug": "state-v-graham",
     "case_name_short": "Graham",
     "case_name": "State v. Graham",

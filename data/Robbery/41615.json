@@ -1,8 +1,8 @@
 {
     "id": 7666374,
     "judges": "Patterson",
-    "date_filed": 704678400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2009-01-19",
+    "date_filed_is_approximate": true,
     "slug": "taylor-v-state",
     "case_name_short": "Taylor",
     "case_name": "Taylor v. State",

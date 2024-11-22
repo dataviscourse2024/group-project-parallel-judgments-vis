@@ -1,8 +1,8 @@
 {
     "id": 1518062,
     "judges": "Eagen, Jones, Mander-INO, Manderino, Nix, O'Brien, Pomeroy, Roberts",
-    "date_filed": 110419200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1989-02-24",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-layton",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Layton",

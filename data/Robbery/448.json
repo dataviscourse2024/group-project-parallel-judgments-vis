@@ -1,8 +1,8 @@
 {
     "id": 7838581,
     "judges": "Barnes, Bridges, Chandler, Griffis, Irving, Ishee, King, Lee, Myers",
-    "date_filed": 1133222400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-03-14",
+    "date_filed_is_approximate": true,
     "slug": "laushaw-v-state",
     "case_name_short": "Laushaw",
     "case_name": "Laushaw v. State",

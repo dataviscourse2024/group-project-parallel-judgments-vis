@@ -1,8 +1,8 @@
 {
     "id": 8898989,
     "judges": "Bua",
-    "date_filed": 481334400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-03-05",
+    "date_filed_is_approximate": true,
     "slug": "illinois-ex-rel-schoepf-v-board-of-education",
     "case_name_short": null,
     "case_name": "Illinois ex rel. Schoepf v. Board of Education",

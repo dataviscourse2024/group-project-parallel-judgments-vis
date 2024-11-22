@@ -1,8 +1,8 @@
 {
     "id": 7848525,
     "judges": "Kelly, Silberman, Whatley",
-    "date_filed": 1193184000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2002-03-07",
+    "date_filed_is_approximate": true,
     "slug": "gaffney-v-state",
     "case_name_short": "Gaffney",
     "case_name": "Gaffney v. State",

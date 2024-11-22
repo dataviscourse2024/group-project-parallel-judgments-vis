@@ -1,8 +1,8 @@
 {
     "id": 7218715,
     "judges": "Peters",
-    "date_filed": -3108758400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2013-12-19",
+    "date_filed_is_approximate": true,
     "slug": "walker-v-commonwealth",
     "case_name_short": "Walker",
     "case_name": "Walker v. Commonwealth",

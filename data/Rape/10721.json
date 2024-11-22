@@ -1,8 +1,8 @@
 {
     "id": 1232500,
     "judges": "Bernstein, McFarland, Udall",
-    "date_filed": -109555200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-06-19",
+    "date_filed_is_approximate": true,
     "slug": "state-v-owen",
     "case_name_short": "Owen",
     "case_name": "State v. Owen",

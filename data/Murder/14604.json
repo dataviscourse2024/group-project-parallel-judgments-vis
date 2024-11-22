@@ -1,8 +1,8 @@
 {
     "id": 1904613,
     "judges": "Sebring",
-    "date_filed": -293932800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-01-09",
+    "date_filed_is_approximate": true,
     "slug": "jacobi-v-claude-nolan-inc",
     "case_name_short": "Jacobi",
     "case_name": "Jacobi v. Claude Nolan, Inc.",

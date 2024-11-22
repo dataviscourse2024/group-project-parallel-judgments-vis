@@ -1,8 +1,8 @@
 {
     "id": 1134185,
     "judges": "Per Curiam",
-    "date_filed": 581817600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-07-01",
+    "date_filed_is_approximate": true,
     "slug": "merckle-v-state",
     "case_name_short": "Merckle",
     "case_name": "Merckle v. State",

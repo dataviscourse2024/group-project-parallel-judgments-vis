@@ -1,8 +1,8 @@
 {
     "id": 2613149,
     "judges": "Lansing, Walters, Winmill",
-    "date_filed": 748224000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1977-09-06",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mitchell",
     "case_name_short": null,
     "case_name": "State v. Mitchell",

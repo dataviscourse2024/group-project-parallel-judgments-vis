@@ -1,8 +1,8 @@
 {
     "id": 1964296,
     "judges": "Affirmance, Eagen, Former, Jones, Manderino, Nix, O'Brien, Pomeroy, Reversal, Roberts, Support",
-    "date_filed": 234144000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1991-04-21",
+    "date_filed_is_approximate": true,
     "slug": "commonwealth-v-jones",
     "case_name_short": "Commonwealth",
     "case_name": "Commonwealth v. Jones",

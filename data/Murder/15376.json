@@ -1,8 +1,8 @@
 {
     "id": 1639243,
     "judges": "Daniel E. Scott",
-    "date_filed": 1208822400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1982-09-10",
+    "date_filed_is_approximate": true,
     "slug": "state-v-campbell",
     "case_name_short": "Campbell",
     "case_name": "State v. Campbell",

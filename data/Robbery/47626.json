@@ -1,8 +1,8 @@
 {
     "id": 8891225,
     "judges": "Johnson",
-    "date_filed": -817948800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-04-19",
+    "date_filed_is_approximate": true,
     "slug": "flanagan-v-united-states",
     "case_name_short": "Flanagan",
     "case_name": "Flanagan v. United States",

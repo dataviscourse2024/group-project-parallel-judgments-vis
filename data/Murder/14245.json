@@ -1,8 +1,8 @@
 {
     "id": 1855685,
     "judges": "Klees",
-    "date_filed": 945820800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1999-02-25",
+    "date_filed_is_approximate": true,
     "slug": "state-v-green",
     "case_name_short": "Green",
     "case_name": "State v. Green",

@@ -1,8 +1,8 @@
 {
     "id": 800553,
     "judges": "Crawford, Effron",
-    "date_filed": 1137715200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1987-05-22",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-aleman",
     "case_name_short": "Aleman",
     "case_name": "United States v. Aleman",

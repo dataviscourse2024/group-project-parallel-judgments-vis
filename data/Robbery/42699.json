@@ -1,8 +1,8 @@
 {
     "id": 7892603,
     "judges": "Callahan",
-    "date_filed": 525398400000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-12-24",
+    "date_filed_is_approximate": true,
     "slug": "state-v-arnold",
     "case_name_short": "Arnold",
     "case_name": "State v. Arnold",

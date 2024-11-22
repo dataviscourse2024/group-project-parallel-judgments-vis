@@ -1,8 +1,8 @@
 {
     "id": 5447672,
     "judges": "Hughes, McClure, Rodriguez",
-    "date_filed": 1459296000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-12-06",
+    "date_filed_is_approximate": true,
     "slug": "gunville-v-gonzales",
     "case_name_short": "Gunville",
     "case_name": "Gunville v. Gonzales",

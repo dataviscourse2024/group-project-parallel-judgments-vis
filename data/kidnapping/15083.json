@@ -1,8 +1,8 @@
 {
     "id": 1403440,
     "judges": "Short",
-    "date_filed": 1269388800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1993-08-21",
+    "date_filed_is_approximate": true,
     "slug": "state-v-smith",
     "case_name_short": null,
     "case_name": "State v. Smith",

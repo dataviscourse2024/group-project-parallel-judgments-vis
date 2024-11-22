@@ -1,8 +1,8 @@
 {
     "id": 2609042,
     "judges": "Bliss, Brett, Bussey",
-    "date_filed": 158371200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1988-08-17",
+    "date_filed_is_approximate": true,
     "slug": "matthews-v-state",
     "case_name_short": "Matthews",
     "case_name": "Matthews v. State",

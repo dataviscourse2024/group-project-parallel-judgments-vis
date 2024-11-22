@@ -1,8 +1,8 @@
 {
     "id": 6229484,
     "judges": "Mercure",
-    "date_filed": 1053561600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1979-02-17",
+    "date_filed_is_approximate": true,
     "slug": "martin-v-goord",
     "case_name_short": "Martin",
     "case_name": "Martin v. Goord",

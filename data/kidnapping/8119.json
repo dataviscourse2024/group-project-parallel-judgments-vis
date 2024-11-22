@@ -1,8 +1,8 @@
 {
     "id": 167382,
     "judges": "Hartz, Holloway, Murphy",
-    "date_filed": 1145577600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2003-10-21",
+    "date_filed_is_approximate": true,
     "slug": "united-states-v-teague",
     "case_name_short": "Teague",
     "case_name": "United States v. Teague",

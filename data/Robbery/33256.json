@@ -1,8 +1,8 @@
 {
     "id": 5996905,
     "judges": null,
-    "date_filed": 406771200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-07-22",
+    "date_filed_is_approximate": true,
     "slug": "people-v-aviles",
     "case_name_short": "Aviles",
     "case_name": "People v. Aviles",

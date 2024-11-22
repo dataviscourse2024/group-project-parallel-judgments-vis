@@ -1,0 +1,58 @@
+{
+    "id": 4146645,
+    "judges": "Hawkins, Morrow",
+    "date_filed": "1972-04-11",
+    "date_filed_is_approximate": true,
+    "slug": "raglin-v-state",
+    "case_name_short": "Raglin",
+    "case_name": "Raglin v. State",
+    "case_name_full": "Arliva Raglin v. the State",
+    "attorneys": "Jas. D. Buster  of Sherman, for appellant.\n\n Sam D. Stinson,  State's Attorney, and  Robert M. Lyles, \nAssistant State's Attorney, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of Collin County. Tried below before the Hon. F. E. Wilcox, Judge.\n\nAppeal from a conviction of manslaughter, penalty five years in the penitentiary.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied June 2, 1926.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b376-12\">\n    Arliva Raglin v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b376-13\">\n    No. 10081.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AEs\">\n    Delivered April 7, 1926.\n   </decisiondate><br><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b376-14\">\n    Rehearing denied June 2, 1926.\n   </otherdate><br><p data-order=\"4\" data-type=\"summary\" id=\"b377-10\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"357\"> \n     *357\n     </span>\n    The opinion states the case.\n   </p><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b377-11\">\n<em>\n     Jas. D. Buster\n    </em>\n    of Sherman, for appellant.\n   </attorneys><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b377-12\">\n<em>\n     Sam D. Stinson,\n    </em>\n    State\u2019s Attorney, and\n    <em>\n     Robert M. Lyles,\n    </em>\n    Assistant State\u2019s Attorney, for the State.\n   </attorneys>",
+    "citations": [
+        "284 S.W. 548",
+        "104 Tex. Crim. 356"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hawkins",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 5758.0,
+            "opinion_text": "Conviction is for manslaughter, with punishment assessed at five years in the penitentiary.\nThe parties are negroes. Deceased was appellant's husband. He was killed with a single-barrelled shotgun, being shot one time. The shooting occurred about dark at a point some fifty yards from a small house in which appellant and deceased lived. No one witnessed the killing. Appellant admitted it and the officers found the gun in a ditch where she told them she had thrown it. Upon the trial she claimed she was running away from the house with the gun and deceased was pursuing with an axe, and that she shot believing her life to be in danger. No axe was found where she claimed deceased dropped it. To one of the first witnesses who arrived on the scene she admitted the shooting but in answer to an inquiry as to why she shot her husband, said \"That is our business,\" and to another who made the same inquiry she replied, \"We were just spatting a little and I shot him.\" Other witnesses testified to words and conduct of appellant indicating anger and resentment towards deceased. She disavowed such feeling and attributed to him conduct and language indicating ill will towards her.\nThe jury was justified in not accepting appellant's theory of self-defense. *Page 358 \nWe observe nothing improper in the matter complained of in the first bill of exception. It appears to be legitimate cross-examination of appellant upon her version of the details of the killing. Bills two and three complain of the admission in evidence of certain statements made by appellant after the killing to the witnesses Williams and Owenby. There is no certificate in the bills of the truth of the matters urged as grounds of objection. In such condition the bills show no error. (See Sec. 209, Branch's Ann. Tex. P. C.)\nBills four, five and six complain of different witnesses testifying that appellant said she might go to Sherman, or she might be, or was liable to be, dead and in hell before morning. None of the bills give any information as to when these statements were made to the various witnesses with reference to the time of the killing, nor do they give enough of the surrounding facts and circumstances to enable us to say the learned trial judge was in error in admitting the evidence. A bill should be made so full and certain in its statements as that in and of itself it will disclose all that may be necessary to manifest the supposed error. (See Sec. 207, Branch's Ann. Tex. P. C.) The bills do not comply with this requirement, and we must presume the learned trial judge was correct in the ruling made.\nFinding no error in the record the judgment is affirmed.\nAffirmed.\n                    ON MOTION FOR REHEARING.",
+            "ocr": false,
+            "opinion_id": 3910617
+        },
+        {
+            "author_str": "Morrow",
+            "per_curiam": false,
+            "type": "050addendum",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Our re-examination of the record in the light of the appellant's motion for rehearing leaves us of the opinion that the proper disposition was made of the case upon the original hearing.\nThe motion is overruled.\nOverruled.",
+            "ocr": false,
+            "opinion_id": 3910618
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

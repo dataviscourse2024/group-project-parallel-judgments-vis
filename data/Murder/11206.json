@@ -1,8 +1,8 @@
 {
     "id": 1274675,
     "judges": "Fine, Schudson and Curley",
-    "date_filed": 1002585600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-05-23",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mcattee",
     "case_name_short": "McAttee",
     "case_name": "State v. McAttee",

@@ -1,8 +1,8 @@
 {
     "id": 2195281,
     "judges": "Salsman",
-    "date_filed": -246153600000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1985-01-09",
+    "date_filed_is_approximate": true,
     "slug": "people-v-phillips",
     "case_name_short": "Phillips",
     "case_name": "People v. Phillips",

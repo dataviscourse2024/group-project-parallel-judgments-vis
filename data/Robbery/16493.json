@@ -1,8 +1,8 @@
 {
     "id": 2080940,
     "judges": "Boslaugh, Caporale, Grant, Hastings, Krivosha, Shanahan",
-    "date_filed": 448848000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1996-06-15",
+    "date_filed_is_approximate": true,
     "slug": "state-v-mcnitt",
     "case_name_short": "McNitt",
     "case_name": "State v. McNitt",

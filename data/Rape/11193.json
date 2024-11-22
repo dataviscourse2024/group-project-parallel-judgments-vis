@@ -1,8 +1,8 @@
 {
     "id": 1273344,
     "judges": "Abrahamson",
-    "date_filed": 223603200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-04-20",
+    "date_filed_is_approximate": true,
     "slug": "state-v-olson",
     "case_name_short": "Olson",
     "case_name": "State v. Olson",

@@ -1,8 +1,8 @@
 {
     "id": 6181258,
     "judges": null,
-    "date_filed": 954288000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2015-03-06",
+    "date_filed_is_approximate": true,
     "slug": "people-v-marasa",
     "case_name_short": "Marasa",
     "case_name": "People v. Marasa",

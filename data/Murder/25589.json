@@ -1,0 +1,48 @@
+{
+    "id": 4373391,
+    "judges": "Acosta, Gische, Manzanet-Daniels, Richter",
+    "date_filed": "1995-03-24",
+    "date_filed_is_approximate": true,
+    "slug": "people-v-johnson",
+    "case_name_short": null,
+    "case_name": "People v. Johnson",
+    "case_name_full": "The People of the State of New York, Respondent, v. Timothy Johnson, Appellant",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"A8s\">\n    The People of the State of New York, Respondent, v Timothy Johnson, Appellant.\n   </parties><citation id=\"a3p-dedup-0\">\n    [49 NYS3d 400]\n   </citation>",
+    "citations": [
+        "2017 NY Slip Op 1659",
+        "148 A.D.3d 444",
+        "49 N.Y.S.3d 400"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2017/2017_01659.htm",
+            "author_id": null,
+            "opinion_text": "\r\n\r\nPeople v Johnson (2017 NY Slip Op 01659)\r\n\r\n\r\n\r\n\r\n\r\nPeople v Johnson\r\n\r\n\r\n2017 NY Slip Op 01659\r\n\r\n\r\nDecided on March 7, 2017\r\n\r\n\r\nAppellate Division, First Department\r\n\r\n\r\n\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\n\r\n\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\n\r\n\r\n\r\nDecided on March 7, 2017\r\n\r\nAcosta, J.P., Richter, Manzanet-Daniels, Gische, JJ.\r\n\r\n\r\n900/10\r\n\r\n[*1]3337 The People of the State of New York, Respondent,\r\nvTimothy Johnson, Defendant-Appellant.\r\n\r\n\r\nMassena Law P.C., New York (Alain V. Massena of counsel), for appellant.\r\nDarcel D. Clark, District Attorney, Bronx (Shannon Henderson of counsel), for respondent.\r\n\r\n\r\n\r\nJudgment, Supreme Court, Bronx County (Troy K. Webber, J.), rendered August 2, 2014, convicting defendant, after a jury trial, of manslaughter in the first degree and two counts of criminal possession of a weapon in the second degree, and sentencing him, as a second violent felony offender, to an aggregate term of 20 years, unanimously affirmed.\r\nThe verdict was supported by legally sufficient evidence and was not against the weight of the evidence (see People v Danielson, 9 NY3d 342, 348\u2014349 [2007]). Although the principal witness's testimony was undisputedly self-contradictory, the jury had a rational basis upon which to credit the version of the events provided on direct examination while discrediting the version provided on cross- and redirect examination (see People v Fratello, 92 NY2d 565, 573-575 [1998], cert denied 526 US 1068 [1999]). The fact that the jury acquitted defendant of murder does not warrant a different conclusion (see People v Rayam, 94 NY2d 557 [2000]).\r\nThe court providently permitted the People to impeach the witness with his grand jury testimony, because his trial testimony on cross- and redirect examination was not merely unhelpful or limited to inability to recall, but was affirmatively damaging to the People's case (see CPL 60.35[1]; People v Winchell, 98 AD2d 838, 841 [1983], affd 64 NY2d 826 [1985]). Furthermore, when viewed in context, the prosecutor's summation comments did not treat the grand jury testimony as evidence in chief. Defendant's challenge to the content of the court's instructions regarding the grand jury testimony is unpreserved, and we decline to review it in the interest of justice. As an alternative holding, although the standard CJI charge is preferable, the instructions here provide no basis for reversal (see CPL 60.35(2)).\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: MARCH 7, 2017\r\nCLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 4150644
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Murder"
+}

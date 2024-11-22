@@ -1,8 +1,8 @@
 {
     "id": 7698099,
     "judges": "Welch",
-    "date_filed": 1461888000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1992-10-05",
+    "date_filed_is_approximate": true,
     "slug": "morris-v-state",
     "case_name_short": "Morris",
     "case_name": "Morris v. State",

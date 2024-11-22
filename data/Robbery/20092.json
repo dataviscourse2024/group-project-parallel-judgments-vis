@@ -1,8 +1,8 @@
 {
     "id": 2843201,
     "judges": null,
-    "date_filed": 1288224000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2016-04-20",
+    "date_filed_is_approximate": true,
     "slug": "john-douglas-v-state",
     "case_name_short": null,
     "case_name": "John Douglas v. State",

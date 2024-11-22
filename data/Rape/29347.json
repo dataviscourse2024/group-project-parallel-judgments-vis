@@ -1,0 +1,46 @@
+{
+    "id": 5208810,
+    "judges": "Woodley",
+    "date_filed": "1994-12-27",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-york",
+    "case_name_short": "Ex parte York",
+    "case_name": "Ex parte York",
+    "case_name_full": "Ex parte Phillip YORK",
+    "attorneys": "No attorney on appeal, for appellant., Barton Boling, Dist. Atty., James H. Kreimeyer, Asst. Dist. Atty., El Paso, and Leon B. Douglas, State\u2019s Atty., Austin, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "417 S.W.2d 411"
+    ],
+    "opinions": [
+        {
+            "author_str": "Woodley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nWOODLEY, Presiding Judge.\nThe appeal is from an order entered in a habeas corpus proceeding remanding appellant to custody for extradition to the State of Arizona where he is charged by complaint with the offense of rape.\nThe Extradition Warrant of the Governor of Texas dated March 6, 1967, regular on its face, was introduced in evidence at the habeas corpus proceeding. It recites that the demand of the Governor of Arizona was accompanied by copy of the complaint, warrant and supporting papers certified as authentic by said Governor. The introduction of the Extradition Warrant, regular on its face, was sufficient to make a prima facie case authorizing appellant\u2019s extradition. Ex parte Kronhaus, Tex.Cr.App., 410 S.W.2d 442, and cases cited.\n*412The demand, complaint, warrant and supporting papers, which appear to be regular, were also introduced in evidence by the State.\nEvidence was offered by appellant to the effect that he had been previously arrested on a warrant of arrest sent to the El Paso County Sheriff\u2019s office issued upon a prior complaint alleging the same offense, which complaint had been dismissed.\nThe prior warrant of arrest was not an application for a requisition. The evidence in regard thereto did not refute the certification of the County Attorney in his application for requisition that no further or other application had been made for a requisition of the fugitive growing out of the transaction. The prima facie case for extradition established by the Executive Warrant of the Governor of Texas was not overcome.\nThe judgment remanding appellant to custody for extradition is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5032315
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Rape"
+}

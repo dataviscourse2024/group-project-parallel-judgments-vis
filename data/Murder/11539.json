@@ -1,8 +1,8 @@
 {
     "id": 1317580,
     "judges": "Almand, Atkinson",
-    "date_filed": -624931200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1981-10-30",
+    "date_filed_is_approximate": true,
     "slug": "carrigan-v-state",
     "case_name_short": "Carrigan",
     "case_name": "Carrigan v. State",

@@ -1,0 +1,47 @@
+{
+    "id": 8034015,
+    "judges": "Whitfield",
+    "date_filed": "2007-04-04",
+    "date_filed_is_approximate": true,
+    "slug": "stewart-v-graham",
+    "case_name_short": "Stewart",
+    "case_name": "Stewart v. Graham",
+    "case_name_full": "Stephen T. Stewart v. William L. Graham",
+    "attorneys": "J. F. Dean, for appellant., W. J. East, for appellee., Argued orally by J. F. Dean, for appellant, and by W. J. Fast, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>1. Replevin. Property loaned. Subsequent sale. Burden of proof.</p> <p>In an action of replevin for chattels loaned by plaintiff to defendant, the burden of proof is on defendant where his defense is that the plaintiff subsequently invested defendant with title to the-property.</p> <p>2. Same. Instruction. Close case.</p> <p>An erroneous instruction on the burden of proof is reversible error where the case is a close one on the facts.</p>",
+    "headnotes": null,
+    "summary": "From the circuit court of Tate county. Hon. William A. Roane, Judge. Stewart, appellant, was plaintiff in the court below; Graham,, appellee, was defendant there. The action was replevin for a mule, originally loaned by plaintiff to defendant. The defense-was predicated of a claim that the plaintiff subsequently to the loan had invested defendant with title to the mule in consideration of certain services rendered plaintiff by defendant in and. about the defense of a charge of murder preferred against plaintiff for killing a negro woman. From a judgment in defendant\u2019s-favor plaintiff appealed to the supreme court. The facts are further stated in the opinion of the court. It is admitted that when the mules went into the possession of Graham the title and right of immediate possession was in-Stewart. \u201cThe legal presumption of the continuance of a state of things, once established by proof, as at first, until the contrary is shown, or until a different presumption is raised from the nature of the subject in question\u201d is a well known elementary-rule of evidence. Newman v. Bank, 67 Miss. 770, 7 South. 403; 22 Am. & Eng. Ency. of Law (2d ed.) 1238. \u201cTitle and ownership of property, both real and personal, once shown to-have existed are presumed to continue.\u201d 22 Am. & Eng. Ency. of Law (2d ed.) 1242. \u201cThe possession of property both real and personal, being a state of affairs of a continuing nature, is presumed to continue where its existence is once shown and the same rule applies as regards the character of the possession. Ib. 1243. The plaintiff made out a prima facie case and was entitled to n verdict unless this prima facie case was overcome. \u201cThe burden of proof is most frequently shifted by the application of presumptions.\u201d 2 Ency. of Ev. 810. \u201cWhenever a presumption arises that a act exists, he who makes an allegation to the contrary must prove it.\u201d Ib. note 11 citing Higdon v. Hig\u25a0don, 6 J. I. Marsh. (Ky.) '48; 9 Ency. of Ev. 889. A defendant in replevin may interpose a negative defense, and in that event the burden of proof is of course always on plaintiff, bnt whenever a defense rests upon a substantive fact, the burden of proving that substantive fact is upon the defendant. Porker v. Still, 63 Miss. 361; Gain v. Moyse, 71 Miss. 653, 15 South. 115. Where in replevin the issue raises the question of title, the plaintiff must prove that- at the time of the taking he had the general or special property in the goods taken, and the right of immediat\u00e9 and exclusive possession. 2 Greenleaf on Evidence (15th ed.) Sec. 561. If the defendant;, besides the plea of non cepit, also pleads property, either in himself or a stranger and traverses the right of the plaintiff, which he may do with an avowry of the taking, the material inquiry will be as to the property of the plaintiff,, which the plaintiff must be prepared to prove; the onus probandi of this issue being on him, etc. Ib. 'Sec. 563; 6 Rose (U. S. Repts.) 114; Dermont v. Wallach, 1 Black. 96, 98; Pulliam v. Burlington, 81 Mo. 115. Any defense may be proven in replevin under general issue. 27 Am. St. Rep. 320. Plaintiff must have right to immediate possession. Frizell v. White, 27 Miss. 198. The defendant, in an action of replevin may, under the general issue, introduce in evidence the award of arbitration settling the title of possession to the proprty in dispute. Neiuell v. Newell, 34 Miss. 38G;. Oclon v. 'Harris, 34 Miss. 410. It is axiomatic that a party who sues in replevin must have the right to immediate possession. 52 Miss. 280. The cases cited by appellant were not replevin cases, and the same rule does not prevail.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "93 Miss. 251",
+        "46 So. 245"
+    ],
+    "opinions": [
+        {
+            "author_str": "Whitfield",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWhitfield, C. J.,\ndelivered the opinion of the court.\nThe defense made by the defendant in replevin, the appellee here, was practically that the mules, first loaned by Stewart to him, were afterwards sold by Stewart to him, in consideration of services rendered to Stewart by Graham in assisting him in his defense on a charge of murder. This defense was practically payment \u2014 -an affirmative defense \u2014 and the burden of proof was, of course, upon the defendant, and yet the court charged the jnry in instruction No. 1 for the defendant that the burden of proof was on the plaintiff, unqualifiedly, and without reference to the character of the defense. The charge is in the following words:\n\u201cThe court charges the jury that the burden of proof is on the plaintiff, and if the jury believe that the testimony opposed to him is of only equal credit, and leaves the evidence equipoised, the plaintiff must fail.\u201d\nAnd the court erroneously refused charge No. 2 asked by the plaintiff to the effect that the burden of proof was on the defendant to show a change from a loan of the mules to a sale of the mules. The case is a close one on the facts, and hence this error is fatal.\n\nReversed and remanded.\n\n",
+            "ocr": true,
+            "opinion_id": 7990126
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Murder"
+}

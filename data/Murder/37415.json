@@ -1,0 +1,46 @@
+{
+    "id": 6826957,
+    "judges": "Webb",
+    "date_filed": "2012-02-10",
+    "date_filed_is_approximate": true,
+    "slug": "state-v-chance",
+    "case_name_short": "Chance",
+    "case_name": "State v. Chance",
+    "case_name_full": "STATE OF NORTH CAROLINA v. ROBERT EARL CHANCE",
+    "attorneys": "\nMichael F. Easley, Attorney General, by Teresa L. Harris, Associate Attorney General, for the State.\n, \n\nRegina A. Moore for defendant-appellant.\n, \nRobert Earl Chance, defendant, pro se.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "347 N.C. 566"
+    ],
+    "opinions": [
+        {
+            "author_str": "Webb",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWEBB, Justice.\nThe defendant appeals from a sentence of life in prison imposed after he was convicted of first-degree murder in a case in which the State did not seek the death penalty. The evidence favorable to the State showed that the defendant shot his wife to death with a 12-gauge shotgun in the presence of two witnesses.\nThe defendant\u2019s attorney has filed a brief in which she says she \u201chas diligently researched the issues and cannot, in good faith, argue any grouping of exceptions or assignments of error.\u201d She has also sent the record and transcript of the trial to the defendant and advised him that she has assigned as error that there was insufficient evidence to convict the defendant of first-degree murder. She has advised the defendant further that he may file a brief with this Court making whatever arguments he desires to make. The defendant has filed what he denominates a motion for appropriate relief, which we shall treat as a brief.\nWe hold that defendant\u2019s counsel has complied with Anders v. California, 386 U.S. 738, 18 L. Ed. 2d 493 (1967). She stated in her brief that she could not in good faith argue any assignments of error. \u201cThis is tantamount to a conclusion that the appeal is wholly frivolous.\u201d State v. Kinch, 314 N.C. 99, 102, 331 S.E.2d 665, 666 (1985). She also advised the defendant that he may file a brief raising any points he desires to raise. This is what is required by Anders, 386 U.S. at 744, 18 L. Ed. 2d at 498.\nWe agree with the conclusion of the defendant\u2019s attorney that it is frivolous to argue that there was not sufficient evidence to support a conviction of first-degree murder. There was evidence that the defendant entered the home of his mother-in-law carrying a 12-gauge shotgun and shot his wife to death in front of two witnesses without any threat from his wife to him. This evidence supports a conviction of first-degree murder. State v. Hamby, 276 N.C. 674, 174 S.E.2d 385 (1970), death sentence vacated, 408 U.S. 937, 33 L. Ed. 2d 754 (1972).\nThe defendant argues in his pro se brief that he had ineffective assistance of counsel. He bases this on what he says was his counsel\u2019s failure to properly perfect his appeal and \u201cimproper preparation.\u201d As to the perfection of the appeal, the defendant\u2019s counsel gave notice of *568appeal and petitioned for a writ of certiorari, which was allowed. No more than this is required in perfecting an appeal. As to what the defendant calls \u201cimproper preparation,\u201d he does not say what was not proper about his attorney\u2019s preparation.\nIn accordance with our duty under Anders, we have examined the record and the transcript of the trial. From this examination, we find the appeal to be wholly frivolous.\nNO ERROR.\n",
+            "ocr": true,
+            "opinion_id": 6714034
+        }
+    ],
+    "court_short_name": "Supreme Court of North Carolina",
+    "court_full_name": "Supreme Court of North Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Murder"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 4072191,
+    "judges": "Armstrong, Brett, Doyle",
+    "date_filed": "1976-05-17",
+    "date_filed_is_approximate": true,
+    "slug": "ex-parte-rowe",
+    "case_name_short": "Ex Parte Rowe",
+    "case_name": "Ex Parte Rowe",
+    "case_name_full": "Ex Parte Arthur Rowe.",
+    "attorneys": "McNeill  McNeill,  for petitioner.\n\n R. McMillan,  Asst. Atty. Gen., for the State.",
+    "nature_of_suit": null,
+    "posture": "Ex parte  application by Arthur Rowe for  habeas corpus  to compel admission to bail. Writ denied.",
+    "syllabus": "<p>BAIL \u2014 Admission to Bail \u2014 Right to. Where a defendant in a criminal action says he' was met by a certain named person a week before the offense was committed, and told by this person to meet him at a stated time and place, and then and there join hini| in the commission of a terime, and that this person threatened to kill him if he did not comply with this demand, and that he did comply with .the demand to save his life, and through fear and intimidation; held, that such contention is absurd, that during the time which elapsed between the date of the alleged conversation and the commission of the crime the defendant had the full and free exercise of his will, and that what he did under this state of facts was his own voluntary act.</p>",
+    "headnotes": null,
+    "summary": "Ex parte application by Arthur Rowe for habeas corpus to compel admission to bail.",
+    "disposition": "Writ denied.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b27-4\">\n<em>\n     Ex parte\n    </em>\n    ARTHUR ROWE.\n   </parties><docketnumber id=\"AWT\">\n    No. A-2847.\n   </docketnumber><decisiondate id=\"A-\">\n    Opinion Filed December 12, 1916.\n   </decisiondate><citation id=\"A8X\">\n    (161 Pac. 331.)\n   </citation><br><syllabus id=\"b27-7\">\n    BAIL \u2014 Admission to Bail \u2014 Right to. Where a defendant in a criminal action says he' was met by a certain named person a week before the offense was committed, and told by this person to meet him at a stated time and place, and then and there join hini| in the commission of a terime, and that this person threatened to kill him if he did not comply with this demand, and that he did comply with .the demand to save his life, and through fear and intimidation; held, that such contention is absurd, that during the time which elapsed between the date of the alleged conversation and the commission of the crime the defendant had the full and free exercise of his will, and that what he did under this state of facts was his own voluntary act.\n   </syllabus><br><summary id=\"b27-8\">\n<em>\n     Ex parte\n    </em>\n    application by Arthur Rowe for\n    <em>\n     habeas corpus\n    </em>\n    to compel admission to bail.\n   </summary><disposition id=\"AIJ\">\n    Writ denied.\n   </disposition><br><attorneys id=\"b27-9\">\n<em>\n     McNeill .&amp; McNeill,\n    </em>\n    for petitioner.\n   </attorneys><br><attorneys id=\"b27-10\">\n<em>\n     R. McMillan,\n    </em>\n    Asst. Atty. Gen., for the State.\n   </attorneys>",
+    "citations": [
+        "161 P. 331",
+        "13 Okla. Crim. 9"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "A complaint was filed in the county court of Pawnee county charging Arthur Rowe, the petitioner herein, with murder, and at a preliminary hearing before the county judge, as examining magistrate, said petitioner was held on said charge without bail, to await the action of the district court. And by habeas corpus\nproceedings the petitioner seeks to have this court admit him to bail.\nIt is insisted that the corpus delicti was not properly established, and that the evidence is insufficient to hold the petitioner to answer for any crime. But we cannot agree with either of these contentions. *Page 10 \nTo establish the corpus delicti in this case, it was only necessary to prove that the body of the deceased was found with marks of violence upon it, or other circumstances that indicated that he came to his death by violent or unnatural means. And at the preliminary hearing it was shown that deceased was dead and buried, and that he came to his death by a gunshot wound inflicted in the back of the head. This evidence unquestionably established the corpus delicti; and the petitioner's own voluntary confession certainly justified the county judge, as examining magistrate, in holding him without bail. It is true that the petitioner claims that one Joe Hobson coerced and compelled him to assist in the commission of this murder. But his own statement refutes any such contention, for he claims that Hobson came to him about a week before the murder was committed and told him that if he did not assist him in the commission of this crime he would kill him; and at the same time told petitioner when and where to meet him, and that at a stated time he would be at a certain point near the deceased's house, and would fire a shot about 8 o'clock to indicate to the petitioner his exact whereabouts, and that petitioner could then come to him. If this be true, it does not even bear the semblance of coercion, for there was a whole week that the petitioner and Hobson were separated, and the petitioner had the full and free exercise of his will during all that time; and according to this statement he went voluntarily to the spot designated by Hobson as the meeting place, waited for the shot to be fired, and then, by the assistance of this signal, voluntarily joined Hobson in the commission of this crime.\nBut we feel that in justice to Joe Hobson we should say that it has come to the attention of this court that *Page 11 \nhe was arrested and brought to Oklahoma, charged with the commission of this murder; that at an examining trial he proved by his neighbors in Kansas that he was a man of good character and unsullied reputation; and further proved that he was miles from the scene of the crime at the time the crime was committed, and had been there at all times for weeks both prior and subsequent to the date of the murder; and, further, that the petitioner in this case refused to take the stand against him at this examining trial, and he was discharged by the examining magistrate.\nWe have no hesitancy in saying the district judge to whom application for bail was made, before coming to this court, was fully justified in denying petitioner bail.\nThe writ is therefore denied.\nDOYLE, P.J., and ARMSTRONG, J., concur.",
+            "ocr": false,
+            "opinion_id": 3830143
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Oklahoma",
+    "court_full_name": "Court of Criminal Appeals of Oklahoma",
+    "court_type": "SA",
+    "court_jurisdiction": "Oklahoma, OK",
+    "crime_category": "Murder"
+}

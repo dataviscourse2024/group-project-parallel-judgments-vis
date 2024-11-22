@@ -1,8 +1,8 @@
 {
     "id": 6135858,
     "judges": "III",
-    "date_filed": 829180800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-03-06",
+    "date_filed_is_approximate": true,
     "slug": "smythe-v-mcclellan",
     "case_name_short": "Smythe",
     "case_name": "Smythe v. McClellan",

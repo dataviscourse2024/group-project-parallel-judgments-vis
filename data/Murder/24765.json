@@ -1,0 +1,47 @@
+{
+    "id": 4196204,
+    "judges": "Baker",
+    "date_filed": "2014-11-27",
+    "date_filed_is_approximate": true,
+    "slug": "randolph-v-state",
+    "case_name_short": null,
+    "case_name": "Randolph v. State",
+    "case_name_full": "Moody Randolph v. the State",
+    "attorneys": "No brief filed for appellant.\n\n Tom Garrard,  State's Attorney, and  Grover C. Morris, \nAssistant State's Attorney, for the State.",
+    "nature_of_suit": null,
+    "posture": "Appeal from the District Court of Kleberg County. Tried below before the Hon. A. W. Cunningham, Judge.\n\nAppeal from a conviction of an aggravated assault; penalty, one year in the county jail, and a fine of $1000.00.\n\nThe opinion states the case.",
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "The opinion states the case.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b382-6\">\n    Moody Randolph v. The State.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b382-7\">\n    No. 8643.\n   </docketnumber><decisiondate data-order=\"2\" data-type=\"decisiondate\" id=\"AGU\">\n    Delivered October 7, 1925.\n   </decisiondate><br><p data-order=\"3\" data-type=\"summary\" id=\"b382-14\">\n    The opinion states the case.\n   </p><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b383-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"365\"> \n     *365\n     </span>\n    No brief filed for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b383-5\">\n<em>\n     Tom Garrard,\n    </em>\n    State\u2019s Attorney, and\n    <em>\n     Grover C. Morris,\n    </em>\n    Assistant State\u2019s Attorney, for the State.\n   </attorneys>",
+    "citations": [
+        "275 S.W. 1043",
+        "101 Tex. Crim. 364"
+    ],
+    "opinions": [
+        {
+            "author_str": "Baker",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "Appellant was charged by indictment with unlawfully and with malice aforethought making an assault upon Frank Kirk, with the intent to murder the said Frank Kirk, by cutting him with a knife, in the district court of Kleberg County, and was convicted of an aggravated assault and his punishment assessed at confinement in the county jail for one year and a fine of $1,000.00; from which conviction appellant has appealed to this court for review, and, among other things, complains at the action of the trial court in permitting the State's witness Moseley to testify that the knife in question was a deadly weapon, and also the insufficiency of the testimony.\nThe record discloses, as shown in bill of exception No. 1, that the State's witness Moseley was permitted over defendant's objection to testify that he was sheriff of said county, had been a peace officer twenty-one years, handled a few deadly weapons, such as knives, guns, etc., and that he thought, based upon such experience, he was able to tell a deadly weapon in the form of a knife, and was handed the knife with which the assault was committed, and the witness was asked the question as to whether or not the knife exhibited to him, in the hands of a strong, young negro, would be considered a deadly weapon, and was permitted to answer that the knife would be dangerous and would be a deadly weapon. Appellant objected to this testimony on the grounds that it was a conclusion and it was a question for the jury to determine whether the knife was a deadly weapon and that said conclusion would not be binding upon the defendant, it being a question for the jury to determine whether or not the manner of its use would make it a deadly weapon. We are of the opinion, from a careful examination of this record, that the court was in error in permitting this testimony. The record fails to show anywhere the size of the knife or the weight of the same, and further shows that the prosecuting witness was cut by the defendant near the heart with the knife in question, from the effects of which he was not laid up in bed but only detained from his work a few days and was up and around the house and on the streets and that he handled his engine after receiving the wound, and the only evidence as to what kind of knife was used outside of a pocket knife, was that it was jack knife.\nWe find that there is some conflict in the decisions of this State over the question raised by appellant as to whether a sheriff could give his opinion at all as to the deadly character of the knife, or whether he could give such an opinion after same had been properly described in evidence to the jury. We think, however, that the weight of the authorities are to the effect that if the sheriff shows to be familiar *Page 366 \nwith the use and handling of knives and shows to have had the proper experience he could after describing same fully then testify as to whether same was a deadly instrument. Branch's P. C. p. 73. It is stated \"a witness who shows that he has had experience in the use and handling of firearms or who testified he inserted his finger into the muzzle of the defendant's gun and when withdrawn it was wet and black may then testify that in his opinion the gun had been recently discharged.\" Citing Meyers v. State, 14 Texas App. 35, Foy v. State, 52 Tex. Crim. 188, and other authorities. This author in his P. C. Sec. 1587 p. 934 states: \"A knife is not per se a deadly weapon. The size and shape of the weapon, the manner of use and the nature and extent of the injuries inflicted should be proved in order that there may be some basis to determine whether or not in the manner of its use it was a deadly weapon.\" In Tolston v. State, 93 Tex.Crim. Rep., it was held competent for a physician to give his opinion as to whether a beer bottle thrown and striking a man on top of the head, after describing the wound inflicted, would likely produce death. In this case many authorities are cited upholding the proposition therein announced and discussing some of the main features under consideration in the instant case. We are of the opinion that the weight of authority in this state bears out the conclusion that it is necessary to prove the facts by expert witnesses, in cases of this kind to show the size and character of the instrument used, the manner of its use and the character of the wound inflicted, if any, before giving an opinion as to the deadly character of the instrument where such instrument is not per se a deadly weapon. The record in this case fails to show the size of the knife in question and this court has no way of determining whether the knife was a deadly weapon or not, and without the knife being properly described, and especially in view of the slight character of the wound, we hold the evidence is insufficient to sustain the conviction. Hunt v. State,94 Tex. Crim. 155.\nFor the reasons above stated, we are of the opinion that the judgment of the trial court should be reversed. Reversed and remanded.\nReversed and Remanded.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court. *Page 367 ",
+            "ocr": false,
+            "opinion_id": 3966712
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Texas",
+    "court_full_name": "Court of Criminal Appeals of Texas",
+    "court_type": "SA",
+    "court_jurisdiction": "Texas, TX",
+    "crime_category": "Murder"
+}

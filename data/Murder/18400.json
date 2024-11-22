@@ -1,8 +1,8 @@
 {
     "id": 2437844,
     "judges": "Reeves, Peeples and Carr",
-    "date_filed": 648259200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1978-06-14",
+    "date_filed_is_approximate": true,
     "slug": "saunders-v-state",
     "case_name_short": "Saunders",
     "case_name": "Saunders v. State",

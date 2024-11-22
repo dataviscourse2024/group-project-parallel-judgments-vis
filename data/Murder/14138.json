@@ -1,8 +1,8 @@
 {
     "id": 1783692,
     "judges": "McFaddin",
-    "date_filed": -363052800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1984-09-22",
+    "date_filed_is_approximate": true,
     "slug": "moore-v-state",
     "case_name_short": "Moore",
     "case_name": "Moore v. State",

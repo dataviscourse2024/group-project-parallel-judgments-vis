@@ -1,8 +1,8 @@
 {
     "id": 2812586,
     "judges": null,
-    "date_filed": 1435536000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2022-06-06",
+    "date_filed_is_approximate": true,
     "slug": "jordan-v-fisher",
     "case_name_short": "Jordan",
     "case_name": "Jordan v. Fisher",

@@ -1,8 +1,8 @@
 {
     "id": 8796220,
     "judges": "Dalton",
-    "date_filed": 12787200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1972-03-28",
+    "date_filed_is_approximate": true,
     "slug": "coffey-v-cox",
     "case_name_short": "Coffey",
     "case_name": "Coffey v. Cox",

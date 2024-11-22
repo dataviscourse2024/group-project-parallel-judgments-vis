@@ -1,8 +1,8 @@
 {
     "id": 1112667,
     "judges": "Harris",
-    "date_filed": 448588800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1998-07-02",
+    "date_filed_is_approximate": true,
     "slug": "nelson-v-state",
     "case_name_short": null,
     "case_name": "Nelson v. State",

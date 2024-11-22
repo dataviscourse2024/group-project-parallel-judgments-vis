@@ -1,8 +1,8 @@
 {
     "id": 7765888,
     "judges": "Benton, Booth, Wolf",
-    "date_filed": 851040000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2012-09-15",
+    "date_filed_is_approximate": true,
     "slug": "simmons-v-state",
     "case_name_short": "Simmons",
     "case_name": "Simmons v. State",

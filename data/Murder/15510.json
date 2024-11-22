@@ -1,8 +1,8 @@
 {
     "id": 1730811,
     "judges": "Marcus",
-    "date_filed": 801100800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2006-07-29",
+    "date_filed_is_approximate": true,
     "slug": "state-v-scales",
     "case_name_short": "Scales",
     "case_name": "State v. Scales",

@@ -1,8 +1,8 @@
 {
     "id": 7661389,
     "judges": "Taylor",
-    "date_filed": 685324800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-05-15",
+    "date_filed_is_approximate": true,
     "slug": "gdh-v-state",
     "case_name_short": "G.D.H.",
     "case_name": "G.D.H. v. State",

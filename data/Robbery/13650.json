@@ -1,8 +1,8 @@
 {
     "id": 1772516,
     "judges": "Warner",
-    "date_filed": 1047427200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2018-02-02",
+    "date_filed_is_approximate": true,
     "slug": "kimbrough-v-state",
     "case_name_short": "Kimbrough",
     "case_name": "Kimbrough v. State",

@@ -1,8 +1,8 @@
 {
     "id": 3295313,
     "judges": null,
-    "date_filed": -1137024000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1974-04-24",
+    "date_filed_is_approximate": true,
     "slug": "people-v-wheeler",
     "case_name_short": "Wheeler",
     "case_name": "People v. Wheeler",

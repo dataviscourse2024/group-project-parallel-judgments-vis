@@ -1,0 +1,46 @@
+{
+    "id": 7945546,
+    "judges": "Robisrao\u00fc\u00ed",
+    "date_filed": "2023-11-18",
+    "date_filed_is_approximate": true,
+    "slug": "williams-v-state",
+    "case_name_short": null,
+    "case_name": "Williams v. State",
+    "case_name_full": "Jason Williams v. The State of Maryland",
+    "attorneys": "Wm. A. Hammond, and Henry E. Wootton, for the plaintiff in error., Charles J. M. Gwinn, Attorney-General, for the defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Polling the Jury in a Murder Case \u2014 Void verdict.</p> <p>Where' the jury is polled in a murder case, it is the duty of each juror to say for himself whether he finds the prisoner guilty of murder in the first, or second degree.</p> <p>Where the response of each juror in such case is simply \u201cguilty,\u201d without a designation of the degree of guilt, such verdict is a nullity. And the fact that the clerk, immediately after polling the jury, called upon them to hearken to the verdict as the Court had recorded it \u2014 \u201c your foreman saith that J. W. the prisoner at the bar is guilty of murder in the first degree, and so say you all\u201d \u2014 does not affect the question.</p>",
+    "summary": "Appeal as upon Writ of Error, from the Circuit Court for Howard County. . The case is stated in the opinion of the Court.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "60 Md. 402"
+    ],
+    "opinions": [
+        {
+            "author_str": "Robisrao\u00fc\u00ed",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRoBisrao\u00fc\u00ed, J.,\ndelivered the opinion of the Court.\nThe plaintiff in error was tried in the Circuit Court for Howard County, on an indictment for murder; and the jury, when they came to the bar to deliver their verdict, declared by their foreman, that he was guilty of murder in the first degree. Before the verdict was recorded, the plaintiff in error demanded a poll of the jury; and each juror, when called upon to answer for himself and in his own language, responded \u201c guilty,\u201d without specifying the degree of murder. Now, murder in the first degree is punishable by death, and murder in the second degree, by confinement in the penitentiary. The Code, therefore, provides that on an indictment for murder, the jury shall, if they find the person \u201c guilty,\u201d ascertain in their verdict whether it he murder in the first or second degree. Ageneral verdict of \u201c guilty \u201d on an indictment for murder, is a had verdict, and on such a verdict no judgment can be pronounced. Ford vs. The State, 12 Md., 514.\nThe prisoner was entitled, as a matter of right, to a poll of the jury, and he could not be convicted, except upon the concurrence of each juror. Upon the poll, it was the duty of each juror to say for hiinselfj whether he found the prisoner guilty of murder in the first or second degree. We all know that jurors sometimes, upon the poll, dissent from the verdict declared for them by their foreman, and it is for the purpose of compelling each juror to declare his own verdict, in his own language, that a poll of the panel is allowed. Upon the poll in this case, there was not a single juror who, in finding the prisoner guilty, ascertained the degree of murder as required by the Code. On the contrary, the verdict was \u201c guilty,\u201d and such a verdict is, as we have said, on an indictment for murder, a nullity.\nThe fact that the clerk, immediately after polling the jury, called upon them to hearken to the verdict, as the *404Court had recorded it \u2014 \u201c Your foreman saith that Jason Williams, the prisoner at the bar, is guilty of murder in the first degree, and so say you all,\u201d does not affect the question. It was to this verdict as delivered by the foreman, and to which the assent of each juror was to be inferred from his silence, that the plaintiff had objected, and to test which he had demanded the panel should be polled. And when polled not a single juror declared the prisoner guilty of murder in the first degree.\n(Decided 20th June, 1883.)\nWe do not see how this case differs in principle from Ford\u2019s Case, 12 Md., 514. Upon the poll in that case, the foreman answered, \u201c Guilty of murder in the first degree,\u201d and each of the remaining jurors responded \u201cguilty,\u201d without specifying the degree of murder. And the Court held this to be a bad .verdict, and bad, too, because each juror did not, in answer to the poll, specify the degree of murder.\nIn this case, as in that, the verdict rendered on the poll is a defective verdict, and we must reverse the judgment and award a new trial.\n\nJudgment reversed, and nexo trial awarded.\n\n",
+            "ocr": true,
+            "opinion_id": 7896356
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Murder"
+}

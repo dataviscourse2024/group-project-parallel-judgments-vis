@@ -1,8 +1,8 @@
 {
     "id": 1081028,
     "judges": "Judge David R. Farmer",
-    "date_filed": 862876800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "2001-12-06",
+    "date_filed_is_approximate": true,
     "slug": "hurd-v-woolfork",
     "case_name_short": "Hurd",
     "case_name": "Hurd v. Woolfork",

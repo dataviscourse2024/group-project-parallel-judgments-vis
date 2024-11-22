@@ -1,8 +1,8 @@
 {
     "id": 7111877,
     "judges": "McNamara",
-    "date_filed": 306547200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-08-08",
+    "date_filed_is_approximate": true,
     "slug": "people-v-briggs",
     "case_name_short": "Briggs",
     "case_name": "People v. Briggs",

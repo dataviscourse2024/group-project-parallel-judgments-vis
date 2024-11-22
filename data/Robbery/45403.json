@@ -1,8 +1,8 @@
 {
     "id": 8437969,
     "judges": "Hamilton, Shedd, Williams",
-    "date_filed": 1071792000000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1983-04-14",
+    "date_filed_is_approximate": true,
     "slug": "us-ex-rel-harrison-v-westinghouse-savannah-river-co",
     "case_name_short": null,
     "case_name": "US ex rel. Harrison v. Westinghouse Savannah River Co.",

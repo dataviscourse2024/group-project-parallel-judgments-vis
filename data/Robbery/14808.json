@@ -1,8 +1,8 @@
 {
     "id": 1227803,
     "judges": "Bell, Marshall, Webb",
-    "date_filed": 164419200000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1995-05-18",
+    "date_filed_is_approximate": true,
     "slug": "williamson-v-state",
     "case_name_short": "Williamson",
     "case_name": "Williamson v. State",

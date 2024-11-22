@@ -1,8 +1,8 @@
 {
     "id": 4587405,
     "judges": "Arterburn, Bishop, Pirtle",
-    "date_filed": 1549324800000,
-    "date_filed_is_approximate": false,
+    "date_filed": "1994-12-31",
+    "date_filed_is_approximate": true,
     "slug": "state-v-howell",
     "case_name_short": "Howell",
     "case_name": "State v. Howell",
