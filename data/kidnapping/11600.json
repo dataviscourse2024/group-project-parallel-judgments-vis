@@ -1,0 +1,47 @@
+{
+    "id": 1326673,
+    "judges": "Banke, Carley, Deen",
+    "date_filed": 379641600000,
+    "date_filed_is_approximate": false,
+    "slug": "dotson-v-state",
+    "case_name_short": "Dotson",
+    "case_name": "Dotson v. State",
+    "case_name_full": "Dotson v. the State",
+    "attorneys": "Stephen H. Andrews, for appellant., H. Lamar Cole, District Attorney, James Hardy, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b932-13\">\n    63069.\n   </docketnumber><parties id=\"AdK\">\n    DOTSON v. THE STATE.\n   </parties>",
+    "citations": [
+        "288 S.E.2d 608",
+        "160 Ga. App. 898"
+    ],
+    "opinions": [
+        {
+            "author_str": "Banke",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7135.0,
+            "opinion_text": "\n160 Ga. App. 898 (1982)\n288 S.E.2d 608\nDOTSON\nv.\nTHE STATE.\n63069.\nCourt of Appeals of Georgia.\nDecided January 12, 1982.\nStephen H. Andrews, for appellant.\nH. Lamar Cole, District Attorney, James Hardy, Assistant District Attorney, for appellee.\nBANKE, Judge.\nThe defendant was convicted of robbery, aggravated assault, armed escape, and kidnapping. The robbery indictment alleged that he took a .38-caliber pistol from the victim \"by use of force.\" The *899 defendant contends that the evidence is insufficient to support this charge. Held:\n1. The evidence showed that while on a prisoner trash-pickup detail with an armed guard, the defendant distracted the guard and snatched his pistol from his holster. The offense of robbery may be committed by use of force, by intimidation, or by sudden snatching. See Code \u00a7 26-1901. Force is implicit in sudden snatching, both as a fact and as a legal proposition, the force being that effort necessary for \"the robber to transfer the property taken from the owner to his possession.\" Hickey v. State, 125 Ga. 145, 147 (53 SE 1026) (1906). See also Pride v. State, 125 Ga. 748 (54 SE 686) (1906). The evidence adduced at trial was sufficient to enable a rational trier of fact to find the defendant guilty beyond reasonable doubt of taking the pistol by use of force. Baldwin v. State, 153 Ga. App. 35 (264 SE2d 528) (1980).\n2. Next, the defendant contends that the kidnapping count is void on its face because the victim's name is omitted. The indictment describes the victim as \"a person.\" \"One accused of crime has a right, if he demands it by timely demurrer, to have an accusation perfect in form and substance. Harris v. State, 37 Ga. App. 113 (138 SE 922). If the indictment is fatally defective, the sufficiency can be questioned by general demurrer. Woods v. State, 10 Ga. App. 476, 478 (73 SE 608). The defendant in this case did not demur. One who waives the right to be tried upon an indictment perfect in form and substance by failing to demur and takes his chances on an acquittal will not be heard after conviction to urge defects in the indictment unless the defects are so great that the indictment is absolutely void. [Cits.] . . . Every indictment or accusation shall be deemed sufficiently technical and correct which states the offense in the terms of the Code or so plainly that the nature of the offense charged may be easily understood by the jury. Code \u00a7 27-701 . . .\" Mealor v. State, 135 Ga. App. 682, 683 (218 SE2d 683) (1975). The indictment in this case sets out the elements of Code \u00a7 26-1311, and the nature of the offense charged was easily understandable. Therefore, it is not void.\n3. The defendant also complains that the charges of aggravated assault and kidnapping were based on identical evidence and thus merge. The evidence showed that after obtaining the guard's gun, the defendant pointed it at him and ordered him \"to drive.\" The guard then drove the city-owned truck at gunpoint to a location some five miles distant. While the offense of aggravated assault is not included in kidnapping as a matter of law, it does merge as a matter of fact on this evidence. Therefore, only one punishment may be imposed. See generally, State v. Estevez, 232 Ga. 316 (206 SE2d 475) (1974); Code Ann \u00a7 26-506. Even though the sentences were imposed to run *900 concurrently, we direct that the sentence as to aggravated assault be vacated so that there may be no doubt that a single penalty is imposed.\nJudgment affirmed with direction. Deen, P. J., and Carley, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1326673
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Kidnapping"
+}

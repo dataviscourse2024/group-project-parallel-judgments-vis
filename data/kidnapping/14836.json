@@ -1,0 +1,47 @@
+{
+    "id": 1241301,
+    "judges": "Jordan",
+    "date_filed": 79747200000,
+    "date_filed_is_approximate": false,
+    "slug": "chatman-v-caldwell",
+    "case_name_short": "Chatman",
+    "case_name": "Chatman v. Caldwell",
+    "case_name_full": "Chatman v. Caldwell",
+    "attorneys": "Jimmy Chatman, pro se., Arthur K. Bolton, Attorney General, Harold N. Hill, Jr., Executive Assistant Attorney General, Courtney Wilder Stanton, Assistant Attorney General, Thomas W. Greene, Deputy Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted June 12, 1972",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b393-9\">\n    27241.\n   </docketnumber><parties id=\"AEm\">\n    CHATMAN v. CALDWELL.\n   </parties>",
+    "citations": [
+        "191 S.E.2d 63",
+        "229 Ga. 337"
+    ],
+    "opinions": [
+        {
+            "author_str": "Jordan",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4090.0,
+            "opinion_text": "\n229 Ga. 337 (1972)\n191 S.E.2d 63\nCHATMAN\nv.\nCALDWELL.\n27241.\nSupreme Court of Georgia.\nSubmitted June 12, 1972.\nDecided July 12, 1972.\nJimmy Chatman, pro se.\nArthur K. Bolton, Attorney General, Harold N. Hill, Jr., Executive Assistant Attorney General, Courtney Wilder Stanton, Assistant Attorney General, Thomas W. Greene, Deputy Assistant Attorney General, for appellee.\nJORDAN, Justice.\nThis is an appeal in a habeas corpus proceeding from an order remanding the prisoner to custody. He is confined under sentences imposed on January 6, 1970, for the offenses of kidnapping and robbery, four years in each case, to be served consecutively. The record of trial discloses that on or about April 28, 1969, he participated in the robbery of a service station attendant, who was then abducted. The appellant contends (1) that the sentences should be treated as one, or to be served concurrently, because the offenses are based on the same transaction, (2) that he was entitled to appointed counsel in the habeas corpus proceeding, and (3) that the habeas corpus judge erred in departing from the issues presented. Held:\n*338 1. Though at one place in the finding of the habeas corpus judge it is stated that the sentences are to be \"served concurrently,\" it is quite obvious that he intended to find, \"the sentences to be served consecutively,\" for if otherwise he would have ordered the release of the prisoner. The trial record clearly shows that the sentences were to run consecutively. Kidnapping and robbery as defined under the laws in effect in 1969 (former Code \u00a7\u00a7 26-1601, 26-2501, as amended) involve proof of distinct essential elements, and even though here based on one continuing transaction, neither is included within the other. Therefore, it was not unlawful to provide for separate sentences to be served consecutively and not concurrently. See Blair v. State, 81 Ga. 629 (7 S.E. 855). Also, see Blockburger v. United States, 284 U.S. 299 (52 SC 180, 76 LE 306); Gavieres v. United States, 220 U.S. 338 (31 SC 421, 55 LE 489); Gore v. United States, 357 U.S. 386 (78 SC 1280, 2 LE2d 1405).\n2. The petitioner is not entitled as a matter of right to appointed counsel in a state habeas corpus proceeding. Griffin v. Smith, 228 Ga. 177 (3) (184 SE2d 459).\n3. That the habeas corpus judge may have departed from the issues presented and inquired into other matters discloses no basis for reversible error under the circumstances here shown.\nJudgment affirmed. All the Justices concur.\n",
+            "ocr": false,
+            "opinion_id": 1241301
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Kidnapping"
+}

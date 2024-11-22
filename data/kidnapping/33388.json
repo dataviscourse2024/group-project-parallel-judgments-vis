@@ -1,0 +1,46 @@
+{
+    "id": 6026009,
+    "judges": null,
+    "date_filed": 524102400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-suarez",
+    "case_name_short": "Suarez",
+    "case_name": "People v. Suarez",
+    "case_name_full": "The People of the State of New York v. Alejandro Suarez",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "122 A.D.2d 861"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014 Appeal by the People from an order of the Supreme Court, Queens County (Rotker, J.), dated January 4, 1986, which, upon reargument, granted the branch of the defendant\u2019s omnibus motion which was to dismiss the indictment for insufficiency of the evidence before the Grand Jury.\nOrder modified, on the law, by deleting the provision granting the branch of the defendant\u2019s motion which was to dismiss the indictment and substituting therefor a provision adhering to the original determination denying that branch of the motion, and indictment reinstated.\nBy Queens County indictment No. 2973/85, the defendant was charged with murder in the second degree (two counts), kidnapping in the first degree, and criminal possession of a weapon in the second degree. Criminal Term initially denied that branch of the defendant\u2019s omnibus motion which sought dismissal of the indictment based upon insufficient Grand Jury evidence. Subsequently, the People provided defense *862counsel with a police report which contained the substance of a conversation had between an investigating officer and a witness who testified before the Grand Jury. Defense counsel moved to reargue that portion of his prior motion which sought dismissal of the indictment based upon insufficient evidence and additionally upon the ground that portions of the police report contained statements allegedly made by the witness which were either inconsistent with parts of the witness\u2019s Grand Jury testimony, or were exculpatory toward the defendant. The most damaging of the alleged inconsistencies was that before the Grand Jury the witness testified that he had seen the decedent in the defendant\u2019s company just hours before the decedent\u2019s body was discovered with multiple gunshot wounds. In contrast, the police report reflects that the witness had indicated that he last saw the decedent and defendant the day before the decedent\u2019s body was found. Criminal Term granted reargument, and upon reconsideration, dismissed the indictment in its entirety, finding insufficient evidence that any specific crime was committed, and finding that the Grand Jury should have been informed of the witness\u2019s inconsistent statements contained in the police report. We now reverse that order, and reinstate the indictment.\nTo obtain an indictment, the evidence before the Grand Jury must be legally sufficient to establish that the person committed the offense (see, People v Deitsch, 97 AD2d 327). The People do not have the obligation to present to the Grand Jury every piece of evidence which they possess against a suspect, nor must every matter which may have a tendency to reflect upon the credibility of a witness be revealed. The Grand Jury proceeding is not intended to be adversarial in nature or a minitrial of the individual suspected of committing a crime. An indictment will not be dismissed provided that the prosecutor did not withhold any information from the Grand Jury which would have materially influenced its investigation (see, People v Holmes, 118 AD2d 869; People v Thompson, 108 AD2d 942). We find that the inconsistencies reflected in the instant case would not have had a material influence upon the Grand Jury, and as credibility factors, should more appropriately be reserved for presentation to the petit jury. As a result, the indictment was not rendered defective because of the failure to present this information during the Grand Jury proceedings. Furthermore, after reviewing the minutes of the Grand Jury testimony, we find that the evidence was legally sufficient to support the crimes charged in the indictment. Accordingly, the indictment is reinstated. Gibbons, J. P., Bracken, Niehoff and Kunzeman, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5888759
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Kidnapping"
+}

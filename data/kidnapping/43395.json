@@ -1,0 +1,47 @@
+{
+    "id": 8027338,
+    "judges": "Knutson, MacLaughlin, Otis, Todd",
+    "date_filed": 76896000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-evers",
+    "case_name_short": "Evers",
+    "case_name": "State v. Evers",
+    "case_name_full": "STATE v. JEROME LYNN EVERS",
+    "attorneys": "C. Paul Jones, State Public Defender, and G. Thomas Macintosh II and Edgar H. Rex, Jr., Assistant State Public Defenders, for appellant., Warren Spannaus, Attorney General, Robert J. Berens, County Attorney, and William T. O\u2019Connor, Assistant County Attorney, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "293 Minn. 518",
+        "198 N.W.2d 541"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nA jury found defendant guilty of kidnapping in violation of Minn. St. 609.25, aggravated rape in violation of \u00a7 609.291, and indecent liberties *519in violation of \u00a7 609.296. An examination of the record indicates ample evidence to sustain the jury\u2019s verdict. The weight and credibility of disputed evidence is properly determined by the jury. State v. Darrow, 287 Minn. 230, 177 N. W. 2d 778 (1970).\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7983281
+        }
+    ],
+    "court_short_name": "Supreme Court of Minnesota",
+    "court_full_name": "Supreme Court of Minnesota",
+    "court_type": "S",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Kidnapping"
+}

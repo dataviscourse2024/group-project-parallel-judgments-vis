@@ -1,0 +1,47 @@
+{
+    "id": 1326601,
+    "judges": "Birdsong, Shulman, Sognier",
+    "date_filed": 381628800000,
+    "date_filed_is_approximate": false,
+    "slug": "grant-v-state",
+    "case_name_short": "Grant",
+    "case_name": "Grant v. State",
+    "case_name_full": "Grant v. the State",
+    "attorneys": "Larry B. Mims, for appellant., H. Lamar Cole, District Attorney, James B. Thagard, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied February 25, 1982.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b437-5\">\n    62831.\n   </docketnumber><parties id=\"Aru\">\n    GRANT v. THE STATE.\n   </parties>",
+    "citations": [
+        "288 S.E.2d 118",
+        "161 Ga. App. 403"
+    ],
+    "opinions": [
+        {
+            "author_str": "Sognier",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 7184.0,
+            "opinion_text": "\n161 Ga. App. 403 (1982)\n288 S.E.2d 118\nGRANT\nv.\nTHE STATE.\n62831.\nCourt of Appeals of Georgia.\nDecided February 4, 1982.\nRehearing Denied February 25, 1982.\nLarry B. Mims, for appellant.\nH. Lamar Cole, District Attorney, James B. Thagard, Assistant District Attorney, for appellee.\nSOGNIER, Judge.\nGrant was convicted of kidnapping, aggravated assault, rape and motor vehicle theft.\nThe victim was cleaning her car after depositing trash in a dumpster when she was hit over the head with a bottle. When she regained consciousness, she was on the front floor on the passenger side of her car, which was being driven by a person later identified as appellant. Appellant drove to a secluded area, forced the victim into the back seat of the car and had carnal knowledge of her forcibly and against her will. Appellant then took the victim's cigarettes, cigarette lighter and four dollars from her and ran off on foot. Appellant was apprehended later the same night and was immediately picked out of a lineup by the victim the following day.\n1. Appellant contends the trial court erred by overruling his motion to suppress the identification testimony of the victim on the ground that the lineup was impermissibly suggestive. However, this contention is not supported by the evidence. The lineup was conducted approximately 27 hours after the offenses were committed; six persons were in the lineup; and the police said nothing to the victim about the persons in the lineup, and did not indicate that a suspect was in the lineup. The offenses occurred in daylight, and the victim had ample time to observe appellant. Appellant argues that the victim had been knocked unconscious and had to be groggy and have clouded vision. However, this argument is not supported by any evidence. The victim gave the police an accurate description of appellant, including the color of his eyes, his height and his hair style. She also described his clothing in detail. There was nothing impermissibly suggestive in the lineup, and there was no likelihood of irreparable misidentification. See Mitchell v. State, 236 Ga. 251, 255 (2) (223 SE2d 650) (1976). Hence, this enumeration is without merit.\n2. One of the police officers testifying for the state about the investigation he conducted stated that he checked the files at the Moultrie police department to get any personal history on appellant and to obtain \"a photograph [of appellant] where I would know who I was looking for.\" Appellant moved for a mistrial on the ground that *404 this testimony placed his character in issue, as it implied that appellant had a prior police record. Appellant contends that denial of this motion was error. In Woodard v. State, 234 Ga. 901, 902 (2) (218 SE2d 629) (1975), the Supreme Court held that \"the mere statement of the detective that he `decided to pull some pictures of Woodard from our files' would not place the defendant's character into evidence.\" See also Ogles v. State, 238 Ga. 716 (235 SE2d 384) (1977); Creamer v. State, 229 Ga. 704, 708 (2) (194 SE2d 73) (1972). Thus, this enumeration of error has no merit.\n3. Appellant next contends the trial court erred by denying his motion for a directed verdict of acquittal as to the armed robbery charge. While a trial judge may direct a verdict of not guilty in a criminal case, it is never error to fail to do so. Feldschneider v. State, 127 Ga. App. 745, 746 (195 SE2d 184) (1972). Further, the evidence established that the victim was struck on the head by a glass bottle and rendered unconscious. The items were taken after the victim was rendered helpless, which would support a finding that this was one continuing incident culminating when the items were taken and appellant departed.\n4. Finally, appellant contends the trial court erred by failing to charge the jury on the offense of theft by taking. Appellant contends the evidence authorized such a charge as a lesser offense of the armed robbery charge. We do not agree.\nThe items were taken after the victim was hit over the head with a glass bottle and was rendered unconscious and helpless. This was one continuing incident culminating when the items were taken.\nThe evidence as stated above constituted robbery by force and intimidation. There being no evidence of the lesser offense of theft by taking, the defendant having denied participation in the robbery, the trial court did not err in failing to give the requested charge. Shepherd v. State, 234 Ga. 75, 78 (3) (214 SE2d 535) (1975).\nJudgment affirmed. Shulman, P. J., and Birdsong, J., concur.\n",
+            "ocr": false,
+            "opinion_id": 1326601
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Kidnapping"
+}

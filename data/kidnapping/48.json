@@ -1,0 +1,46 @@
+{
+    "id": 7756036,
+    "judges": "Frank, Lazzara, Quince",
+    "date_filed": 818985600000,
+    "date_filed_is_approximate": false,
+    "slug": "parrish-v-state",
+    "case_name_short": "Parrish",
+    "case_name": "Parrish v. State",
+    "case_name_full": "James Edward PARRISH v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Robert D. Rosen, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Angela D. McCravy, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "666 So. 2d 184"
+    ],
+    "opinions": [
+        {
+            "author_str": "Quince",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nQUINCE, Judge.\nJames Edward Parrish challenges his judgments and sentences for attempted first-degree murder and kidnapping. He alleges that there was insufficient evidence to support attempted first-degree murder and that the court erred in imposing certain conditions of probation and costs. We find there was sufficient evidence of both premeditation and an overt act to support the attempted first-degree murder conviction. We reverse, however, on one condition of probation and several cost items.\nThe portion of condition five which states, \u201cyou will not use intoxicants to excess,\u201d is hereby stricken. This is a special condition of probation that was not orally pronounced at sentencing. Tomlinson v. State, 645 So.2d 1 (Fla. 2d DCA 1994). We *185also strike the $2.00 cost for the Criminal Justice Education Fund and the $433.00 fine/ cost assessment. The former is a discretionary cost item that was not orally pronounced. The latter was imposed without reference to any statutory authority. See Reyes v. State, 655 So.2d 111 (Fla. 2d DCA 1995). We further note the judgment and sentence should be corrected to reflect that appellant was found guilty of kidnapping not armed kidnapping.\nAppellant\u2019s convictions for attempted first-degree murder and kidnapping are affirmed. The judgments and sentences must be corrected as indicated in this opinion.\nFRANK, A.C.J., and LAZZARA, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7693428
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Kidnapping"
+}

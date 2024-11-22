@@ -1,0 +1,47 @@
+{
+    "id": 1360695,
+    "judges": "Sears",
+    "date_filed": 1223251200000,
+    "date_filed_is_approximate": false,
+    "slug": "baldwin-v-bedford",
+    "case_name_short": "Baldwin",
+    "case_name": "Baldwin v. Bedford",
+    "case_name_full": "Baldwin v. Bedford",
+    "attorneys": "Brandon Baldwin, pro se., Thurbert E. Baker; Attorney General, DeBra\u00e9 C. Kennedy, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<docketnumber id=\"b429-4\">\n    S08A1041.\n   </docketnumber><parties id=\"A6YN\">\n    BALDWIN v. BEDFORD.\n   </parties><br><citation id=\"b429-5\">\n    (667 SE2d 617)\n   </citation><decisiondate id=\"Akb8\">\n    Decided October 6, 2008.\n   </decisiondate><attorneys id=\"AVYX\">\n    Brandon Baldwin,\n    <em>\n     pro se.\n    </em>\n</attorneys><attorneys id=\"ABG7\">\n<em>\n     Thurbert E.\n    </em>\n    Baker;\n    <em>\n     Attorney General, DeBra\u00e9 C. Kennedy, Assistant Attorney General,\n    </em>\n    for appellee.\n   </attorneys>",
+    "citations": [
+        "667 S.E.2d 617",
+        "284 Ga. 405"
+    ],
+    "opinions": [
+        {
+            "author_str": "Sears",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4097.0,
+            "opinion_text": "\n667 S.E.2d 617 (2008)\nBALDWIN\nv.\nBEDFORD.\nNo. S08A1041.\nSupreme Court of Georgia.\nOctober 6, 2008.\nBrandon Baldwin, pro se.\nThurbert E. Baker, Attorney General, Debra\u00e9 C. Kennedy, Assistant Attorney General, for appellee.\nSEARS, Chief Justice.\nBrandon Baldwin, a repeat felon and defendant in a pending criminal proceeding, is incarcerated in Fulton County on charges of kidnapping, possession of a firearm during the commission of a felony, and possession of a firearm by a convicted felon. On August 14, 2007, acting pro se, he filed a pretrial petition for writ of habeas corpus naming the trial judge in his pending criminal case, the Honorable T. Jackson Bedford, Jr., as the defendant. Judge Bedford filed a motion to dismiss, and after reviewing the pleadings, the habeas court dismissed the writ petition on grounds of failure to state a claim upon which relief can be granted, failure to name the proper defendant (i.e., the jailer, not the trial judge), and absolute judicial immunity. Baldwin filed a timely pro se notice of appeal.\nBaldwin claims his constitutional rights were violated when he was confined to 24-7 lockdown after another inmate reported that he was plotting to assassinate Judge Bedford. In addition, he asserts that Judge Bedford denied him his statutory right to a speedy trial.[1] However, Baldwin admits that he is in the custody of the Fulton County Sheriff and not Judge Bedford, concedes he served the wrong party, and acknowledges his failure to take any steps in the trial court to have the Fulton County Sheriff substituted as a defendant in Judge Bedford's place. No matter how liberally we construe Baldwin's habeas petition, we cannot ignore the fact that he sued the wrong party and that the proper defendant was never served or given a meaningful opportunity to present a defense against Baldwin's claims. Accordingly, the trial court did not err in dismissing the habeas petition.\nJudgment affirmed.\nAll the Justices concur.\nNOTES\n[1]  Baldwin did not appeal Judge Bedford's written order denying his speedy trial motion.\n\n",
+            "ocr": false,
+            "opinion_id": 1360695
+        }
+    ],
+    "court_short_name": "Supreme Court of Georgia",
+    "court_full_name": "Supreme Court of Georgia",
+    "court_type": "S",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Kidnapping"
+}

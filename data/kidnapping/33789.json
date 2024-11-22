@@ -1,0 +1,47 @@
+{
+    "id": 6107061,
+    "judges": "Cardona",
+    "date_filed": 762048000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-hicks",
+    "case_name_short": "Hicks",
+    "case_name": "People v. Hicks",
+    "case_name_full": "The People of the State of New York v. Giordano Hicks",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 1,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "201 A.D.2d 831",
+        "608 N.Y.S.2d 543"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cardona",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCardona, P. J.\nAppeal from a judgment of the County Court of Clinton County (McGill, J.), rendered March 31, 1992, convicting defendant upon his plea of guilty of the crimes of sodomy in the first degree, kidnapping in the second degree and menacing.\nInitially, we note that defendant waived his right to appeal the conviction as part of his guilty plea (see, People v Seaberg, 74 NY2d 1; People v Ross, 182 AD2d 1022, lv dismissed 80 NY2d 934; People v Haynes, 180 AD2d 911) in exchange for an agreed-upon sentence which was not to exceed 6 to 18 years in prison. After County Court imposed the bargained-for sentence, defendant took this appeal.\nOur review of the plea minutes satisfies us that County Court fully apprised defendant of the constitutional rights he was waiving by his guilty plea (see, People v Rogers, 163 AD2d 337, 338, lv denied 76 NY2d 943) and that defendant knowingly, intelligently and voluntarily entered a counseled Alford plea (see, North Carolina v Alford, 400 US 25; People v Serrano, 15 NY2d 304; People v Ross, supra; People v Haynes, supra). Furthermore, by failing to move to withdraw his plea before sentencing under CPL 220.60 (3) or to vacate the judgment of conviction under CPL 440.10, defendant failed to preserve for judicial review his challenge to the plea allocution (see, People v Lopez, 71 NY2d 662, 665; People v Haynes, supra) that County Court failed to advise him that he was waiving a possible defense of insanity. In any event, there is no proof in this record indicating that he was legally insane at the time of the crime. Therefore, County Court was under no obligation to inquire whether defendant was aware of the possible defense of mental disease or defect (see, People v Selnik, 194 AD2d 472; People v Kubik, 186 AD2d 271, lv denied 80 NY2d 1027).\nIn reference to his sentence, although defendant labels his appellate claims as a challenge to its legality, he is really challenging the accuracy of some of the information contained in the presentence report and County Court\u2019s alleged overreliance on deterrence. These claims are really challenges to the procedures \"utilized in determining and imposing sentence\u201d (People v Callahan, 80 NY2d 273, 281). They do not implicate the power of the court (see, supra). Consequently, they were effectively waived by defendant\u2019s bargained-for waiver of appeal (see, supra; People v Rosado, 199 AD2d 833).\nFinally, \"viewing the evidence, the law and the circum*833stances of this case together\u201d (People v Ferguson, 192 AD2d 800, 801, lv denied 82 NY2d 717), we find no merit to defendant\u2019s claim of ineffective representation.\nMercure, Crew III, White and Weiss, JJ., concur. Ordered that the judgment is affirmed.\n",
+            "ocr": true,
+            "opinion_id": 5971768
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Kidnapping"
+}

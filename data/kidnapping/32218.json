@@ -1,0 +1,47 @@
+{
+    "id": 5788213,
+    "judges": "McMurray",
+    "date_filed": 549676800000,
+    "date_filed_is_approximate": false,
+    "slug": "phillips-v-state",
+    "case_name_short": "Phillips",
+    "case_name": "Phillips v. State",
+    "case_name_full": "PHILLIPS v. State",
+    "attorneys": "Donald J. Stein, for appellant., Lewis R. Slaton, District Attorney, Richard E. Hicks, Chris Jensen, Joseph J. Drolet, Assistant District Attorneys, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "183 Ga. App. 194",
+        "358 S.E.2d 480"
+    ],
+    "opinions": [
+        {
+            "author_str": "McMurray",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcMurray, Presiding Judge.\nDefendant was convicted of armed robbery, kidnapping and aggravated assault (with intent to rob). He was sentenced to life imprisonment and two consecutive 20-year terms and this appeal followed. Held:\n1. In his first enumeration of error, defendant contends the pre-evidentiary charge rendered by the trial court minimized the State\u2019s burden of proof. He also asserts that the trial court intimated an opinion concerning the guilt of defendant in the pre-evidentiary charge. Our examination of the pre-evidentiary charge reveals no such defects. Moreover, a complete and accurate charge was given upon the conclusion of the evidence. Accordingly, we find no error. See Levesque v. State, 172 Ga. App. 760 (324 SE2d 580); Farmer v. State, 180 Ga. App. 720, 721 (1) (350 SE2d 583).\n2. One of the State\u2019s witnesses testified that shortly before the crimes were committed a co-defendant said to defendant that \u201cthey had to go hit a lick.\u201d The witness averred that the expression \u201cmeans to take something, steal, to rob, something like that.\u201d Defendant complains that this testimony improperly placed his character in issue. We disagree. The statement tended to establish that defendant was a participant in the crimes for which he was charged. It was not, there*195fore, inadmissible. Davis v. State, 255 Ga. 598, 606 (9) (340 SE2d 869).\nDecided June 3, 1987.\nDonald J. Stein, for appellant.\nLewis R. Slaton, District Attorney, Richard E. Hicks, Chris Jensen, Joseph J. Drolet, Assistant District Attorneys, for appellee.\n*1953. Defendant contends the trial court erred by allowing a co-defendant\u2019s confession into evidence. He argues that he was implicated improperly by the allowance of the confession.\nThe co-defendant\u2019s confession was edited so that the names of defendant and a second co-defendant were omitted. The words \u201canother person\u201d were used in place of defendant\u2019s name and the name of the second co-defendant. What\u2019s more, trial counsel registered no objection when the confession was introduced in evidence. Under these circumstances, we find no error. Fortner v. State, 248 Ga. 107, 108 (1) (281 SE2d 533); Brooks v. State, 169 Ga. App. 543, 545 (5) (314 SE2d 115).\n4. Next, the defendant contends the trial court erred by permitting a victim to identify him following an on-the-scene, one-on-one identification. No objection was interposed by trial counsel to the victim\u2019s testimony. Accordingly, defendant\u2019s contention cannot be raised on appeal. Urban v. State, 152 Ga. App. 110, 111 (2) (262 SE2d 259).\n5. Defendant asserts the trial court erred when it charged the jury on \u201cflight\u201d because the words \u201cif any\u201d or \u201cif proven\u201d were omitted. See in this connection Hale v. State, 135 Ga. App. 625, 626 (2) (218 SE2d 643). At the conclusion of the entire charge the trial court inquired whether there were any objections. Defendant\u2019s trial counsel neither objected nor reserved the right to object later. Accordingly, defendant has waived his right to raise this issue on appeal. Jackson v. State, 246 Ga. 459 (271 SE2d 855); Gaines v. State, 177 Ga. App. 795 (341 SE2d 252).\nWas the error so blatantly apparent and prejudicial that it raises a question as to whether defendant was deprived, to some extent, of a fair trial? See Maynard v. State, 171 Ga. App. 605, 606 (2) (320 SE2d 806); OCGA \u00a7 5-5-24 (c). We think not. The jury was apprised that flight was a \u201ccircumstance not sufficient of itself to establish guilt. . . and at most is only one of a series of circumstances from which guilt might be inferred.\u201d See Hale v. State, 135 Ga. App. 625, supra. Moreover, the evidence of flight in this case was overwhelming. Thus, it cannot be said that the charge on flight was harmful as a matter of law. OCGA \u00a7 5-5-24 (c).\n\nJudgment affirmed.\n\n\nSognier and Beasley, JJ., concur.\n\n",
+            "ocr": true,
+            "opinion_id": 5642619
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Kidnapping"
+}

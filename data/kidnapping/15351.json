@@ -1,0 +1,46 @@
+{
+    "id": 1620880,
+    "judges": "Fulmer",
+    "date_filed": 1131062400000,
+    "date_filed_is_approximate": false,
+    "slug": "warner-v-state",
+    "case_name_short": "Warner",
+    "case_name": "Warner v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 3,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "916 So. 2d 879"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6901.0,
+            "opinion_text": "\n916 So. 2d 879 (2005)\nJohn W. WARNER, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 2D04-4091.\nDistrict Court of Appeal of Florida, Second District.\nNovember 4, 2005.\nRehearing Denied December 19, 2005.\n*880 John W. Warner, pro se.\nCharles J. Crist, Jr., Attorney General, Tallahassee, and William I. Munsey, Jr., Assistant Attorney General, Tampa, for Appellee.\nFULMER, Chief Judge.\nJohn Warner filed a motion for postconviction relief under Florida Rule of Criminal Procedure 3.850, raising seven grounds. Ground 6, in which Warner alleged ineffective assistance of counsel, comprises seven subclaims, one of which concerned the same underlying issues as asserted in Ground 5. The postconviction court denied relief on all grounds and subclaims. Warner appeals all denials. We reverse and remand as to Ground 5 and the related subclaim of Ground 6. We affirm as to all other grounds and subclaims.[1]\nWarner was charged with five offenses arising out of a single criminal episode: robbery, in violation of section 812.13(1), (2)(c), Florida Statutes (2002); grand theft, \u00a7 812.014(1), (2)(c)(1); grand theft auto, \u00a7 812.014(2)(c)(6); kidnapping, \u00a7 787.01(1)(a)(2), Fla. Stat. (2002); and battery, \u00a7 784.03(1), Fla. Stat. (2002). He pleaded nolo contendere to all charges and was sentenced to twenty years' imprisonment.\n*881 In his motion for postconviction relief, Warner alleged in Ground 5 that he was charged three times for the same crime when he was charged with robbery, grand theft, and grand theft auto. He further alleged that a competent attorney would have filed a motion to dismiss the \"surplusage.\" In Ground 6(6), he makes the same underlying claim, alleging that trial counsel was ineffective in not moving to dismiss any \"surplus charges.\" The postconviction court entertained these claims on the merits and denied relief by concluding that the probable cause affidavit and the factual basis presented by the State at the plea hearing supported all of the charges. We cannot agree that the trial court's order refutes Warner's claims because convictions for robbery and grand theft of the same item may violate double jeopardy. See Hayes v. State, 803 So. 2d 695 (Fla.2001); Sirmons v. State, 634 So. 2d 153 (Fla.1994). Further, the trial court failed to undertake a double jeopardy analysis by considering the factors set forth in Hayes. However, our reversal is not based on the trial court's failure to refute Warner's claims. Instead, we reverse because the trial court addressed the claims on the merits when Warner's allegations were facially insufficient.\nWarner's nolo contendere plea to all the charges filed against him was a negotiated plea. In his postconviction motion, he failed to request that his plea agreement be vacated or to allege that he would not have agreed to the plea bargain had he known about the double jeopardy violation. This omission renders his claims facially insufficient. See, e.g., State v. Taylor, 738 So. 2d 988, 989 (Fla. 2d DCA 1999) (noting that a necessary element for obtaining postconviction relief is that the movant must allege that he would not have accepted the plea agreement but for the alleged misadvice of counsel). Therefore, we reverse the trial court's summary denial of Warner's motion as to Grounds 5 and 6(6). On remand, the trial court is directed to dismiss Warner's motion as to these grounds without prejudice to file within sixty days a facially sufficient motion as to only these claims.\nReversed and remanded with directions.\nDAVIS and WALLACE, JJ., Concur.\nNOTES\n[1]  As one of his claims, Warner alleged that his trial counsel failed to file an appeal. This claim was treated as a petition for belated appeal and denied in case number 2D05-3560.\n\n",
+            "ocr": false,
+            "opinion_id": 1620880
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Kidnapping"
+}

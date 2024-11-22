@@ -1,0 +1,57 @@
+{
+    "id": 7765888,
+    "judges": "Benton, Booth, Wolf",
+    "date_filed": 851040000000,
+    "date_filed_is_approximate": false,
+    "slug": "simmons-v-state",
+    "case_name_short": "Simmons",
+    "case_name": "Simmons v. State",
+    "case_name_full": "James Grover SIMMONS v. STATE of Florida",
+    "attorneys": "Joel Hirschhom and Brian H. Bieber, Coral Gables, for Appellant., Robert A. Butterworth, Attorney General, and Daniel A. David, Assistant Attorney General, Department of Legal Affairs, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied March 14, 1997.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "687 So. 2d 1318"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nThis cause is before us on appeal from Appellant\u2019s convictions and sentences for first-degree murder, kidnapping, and sexual battery. We have considered the issues raised relating to jury selection, Appellant\u2019s motion for change of venue, Appellant\u2019s motion for judgment of acquittal, and Appellant\u2019s sentences, and find no basis for reversal. Regarding James Burney\u2019s competence to testify, even if this issue was properly preserved for appellate review, which it was not, we conclude that no error occurred, based on this court\u2019s decision in Simmons v. State, 683 So.2d 1101 (Fla. 1st DCA 1996).\nAFFIRMED.\nBOOTH and WOLF, JJ., concur.\nBENTON, J., dissents with written opinion.\n",
+            "ocr": true,
+            "opinion_id": 7703916
+        },
+        {
+            "author_str": "Benton",
+            "per_curiam": false,
+            "type": "040dissent",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBENTON, Judge,\ndissenting.\nAppellant stood trial for the same crimes against Kristi Hedden of which his brother had earlier been convicted. The trial court erred in denying the challenge for cause in the present case to a prospective juror who had heard a radio report \u201cthat this is the second Hedden trial and the brother had already been convicted.\u201d Asked what he thought when he heard the report, the prospective juror said: \u201c[I]t sounded like a decision had already been made.\u201d Asked whether the report had made an impression on him, he said: \u201cOh, I think it did.\u201d\nWhile he said at one point that he did not think what he had heard would influence him, he later said: \u201cI probably start off bias[ed against appellant.]\u201d Ms. Clary, one of the prosecutors, then asked whether he could lay aside information he had received outside the courtroom in deciding the case. He answered: \u201cI would think.\u201d At this, Ms. Clary inquired: \u201cYou\u2019re not sure?\u201d And the prospective juror answered: \u2018Well, I would say I would think I would.\u201d\n\u201c[T]he mere fact that a juror is exposed to pretrial publicity is not enough to raise the presumption of unfairness.\u201d Boggs v. State, 667 So.2d 765, 768 n. 5 (Fla.1996). \u201cThe test ... is whether the juror can lay aside any bias or prejudice and render his verdict solely upon the evidence ... and the ... law_\u201d Lusk v. State, 446 So.2d 1038, 1041 (Fla.1984). But \u201cif there is basis for any reasonable doubt as to any juror\u2019s possessing that state of mind that will enable him to render an impartial verdict ... he should be excused on motion of a party....\u201d Singer v. State, 109 So.2d 7, 23-24 (Fla.1959).\nThe prospective juror\u2019s responses on voir dire afford a basis for such reasonable doubt here. Like the confession excluded in Reilly v. State, 557 So.2d 1365 (Fla.1990), appellant\u2019s brother\u2019s convictions were not evidence admitted or admissible in appellant\u2019s case. Here the juror conceded he had formed an opinion that appellant was guilty on the basis of the inadmissible information. Asked on voir dire how he would vote \u201cright now,\u201d he answered: Well, I probably could abstain. But I would vote guilty.\u201d The error in denying the challenge for cause was not harmless. Boggs; Reilly. The convictions should be reversed with directions for a new trial.\nUnder my view of the case, it is unnecessary to reach the other grounds urged for reversal. Appellant\u2019s convictions and those of his brother, which were recently affirmed in Simmons v. State, 683 So.2d 1101 (Fla. 1st DCA 1996), hinge on the testimony of a single, mentally retarded witness, James Leonard Burney. A lead investigator agreed \u201cthat the only evidence against James Simmons is what Burney says.\u201d\nAppellant\u2019s trial counsel (who does not represent him on appeal) filed a motion to disqualify witness as incompetent to testify or, in the alternative, for evaluation of witness and to determine admissibility of evidence concerning mental disability. But the record reflects no ruling specific to the present ease on whether Mr. Burney was competent to testify, nor any renewed objection at trial to Mr. Burney\u2019s testimonial competence.\n*1320In the circumstances, the majority\u2019s view that the issue of Mr. Burney\u2019s competence as a witness has not been preserved for decision on direct appeal is understandable. Today\u2019s decision does not, of course, foreclose collateral consideration of whether trial counsel\u2019s failure to secure a ruling on the pretrial challenge to Mr. Burney\u2019s competence to testify and to state an objection at trial amounted to ineffective assistance.\n",
+            "ocr": true,
+            "opinion_id": 7703917
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Kidnapping"
+}

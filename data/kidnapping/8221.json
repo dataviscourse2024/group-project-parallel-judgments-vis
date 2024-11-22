@@ -1,0 +1,47 @@
+{
+    "id": 2458916,
+    "judges": "Dudley, Hickman",
+    "date_filed": 352339200000,
+    "date_filed_is_approximate": false,
+    "slug": "williams-v-state",
+    "case_name_short": null,
+    "case_name": "Williams v. State",
+    "case_name_full": "Gary Lee WILLIAMS v. STATE of Arkansas",
+    "attorneys": "E. Alvin Schay, State Appellate Defender, by: Jack Kearney, Deputy Defender, and Wayne Boyce, Trial Counsel, for appellant., Steve Clark, Atty. Gen., by: Arnold M. Jochums, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b120-3\" pgmap=\"120\">\n    Gary Lee WILLIAMS v. STATE of Arkansas\n   </parties><docketnumber id=\"AFI\" pgmap=\"120\">\n    CR 80-174\n   </docketnumber><citation id=\"Azq\" pgmap=\"120\">\n    612 S.W. 2d 115\n   </citation><br><court id=\"b120-4\" pgmap=\"120\">\n    Supreme Court of Arkansas\n   </court><decisiondate id=\"ARJ\" pgmap=\"120\">\n    Opinion delivered March 2, 1981\n   </decisiondate><br><attorneys id=\"b120-10\" pgmap=\"120\">\n    E. Alvin Schay, State Appellate Defender, by: Jack Kearney, Deputy Defender, and Wayne Boyce, Trial Counsel, for appellant.\n   </attorneys><br><attorneys id=\"b120-11\" pgmap=\"120\">\n    Steve Clark, Atty. Gen., by: Arnold M. Jochums, Asst. Atty. Gen., for appellee.\n   </attorneys>",
+    "citations": [
+        "612 S.W.2d 115",
+        "272 Ark. 98"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hickman",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 3755.0,
+            "opinion_text": "\n612 S.W.2d 115 (1981)\nGary Lee WILLIAMS, Appellant,\nv.\nSTATE of Arkansas, Appellee.\nNo. CR 80-174.\nSupreme Court of Arkansas.\nMarch 2, 1981.\nE. Alvin Schay, State Appellant Defender by Jack Kearney, Deputy State Appellate Defender, Little Rock, and Wayne Boyce, Trial Counsel, Newport, for appellant.\nSteve Clark, Atty. Gen. by Arnold M. Jochums, Asst. Atty. Gen., Little Rock, for appellee.\nHICKMAN, Justice.\nThis is an appeal from a hearing held in the Jackson County Circuit Court on a petition by Gary Lee Williams for post-conviction relief pursuant to Rules of Crim.Proc., Rule 37.\nWilliams had pled guilty to capital felony murder, rape, kidnapping, and use of a firearm in connection with a felony on May 13, 1976. The petition generally alleges that Williams' plea was void because it was entered as a result of duress and without comprehension of the consequences.\nAfter a lengthy hearing on the matter the trial court denied relief. We cannot reach the merits of this matter because the trial court did not enter findings of facts and conclusions of law as required by Rules of Crim.Proc., Rule 37.3. We have held without exception that this rule is mandatory and requires written findings. State v. *116 Maness, 264 Ark. 190, 569 S.W.2d 665 (1978); Robinson &amp; Williams v. State, 264 Ark. 186, 569 S.W.2d 662 (1978).\nOn review, we determine whether these findings are supported by a preponderance of evidence. Unless the findings are clearly erroneous, they will be affirmed. Therefore, we must have specific findings regarding the facts in the case and the conclusions of law so that there can be a meaningful review of those findings.\nReversed and remanded.\nDUDLEY, J., not participating.\n",
+            "ocr": false,
+            "opinion_id": 2458916
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Kidnapping"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 5130658,
+    "judges": "Clifford, Collins, Dana, Glassman, Roberts, Rudman, Wathen",
+    "date_filed": 762566400000,
+    "date_filed_is_approximate": true,
+    "slug": "state-v-owens",
+    "case_name_short": "Owens",
+    "case_name": "State v. Owens",
+    "case_name_full": "STATE of Maine v. Donald OWENS",
+    "attorneys": "Geoffrey Rushlau, Dist. Atty., E. Erick Laurentz, Asst. Dist. Atty., Bath, for State., David McLoon, Bath, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted on Briefs Jan. 27, 1994.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "638 A.2d 64"
+    ],
+    "opinions": [
+        {
+            "author_str": "Wathen",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWATHEN, Chief Justice.\nDefendant Donald Owens appeals from the judgment of the Superior Court (Sagadahoc County, Bradford, J.) convicting him of kidnapping, 17-A M.R.S.A. \u00a7 301(1) (1983). Defendant contends that the court erred when it denied his motion to dismiss the indictment. He further contends that no rational factfinder could have found that he knowingly restrained his wife for a substantial period of time. Finding no error, we affirm the judgment.\nDefendant moved for a dismissal of the indictment arguing that the State had failed to file a bill of particulars within the time specified by the court. His motion was denied. The record reflects that, although late, the State responded with a bill of particulars, and then confined its case to the facts set forth in its response. We find no abuse of discretion nor do we find that defendant has shown that the State\u2019s late response deprived him of a fair trial. State v. Caulk, 543 A.2d 1366, 1370 (Me.1988).\nLikewise, defendant\u2019s challenge to the sufficiency of the evidence must fail. Viewing the evidence in the light most favorable to the State, a factfinder rationally could find that defendant knowingly restrained his wife from that point in the afternoon when he asked her to leave the house, then stopped her from leaving by assaulting her, to the time the victim and defendant went to bed that evening. State v. Tempesta, 617 A.2d 566, 567 (Me.1992). That period of confinement, spanning several hours, satisfies the substantial period of restraint necessary to establish the crime of kidnapping. State v. Estes, 418 A.2d 1108, 1113 (Me.1980).\nThe entry is:\nJudgment affirmed.\nAll concurring.\n",
+            "ocr": true,
+            "opinion_id": 4949751
+        }
+    ],
+    "court_short_name": "Supreme Judicial Court of Maine",
+    "court_full_name": "Supreme Judicial Court of Maine",
+    "court_type": "S",
+    "court_jurisdiction": "Maine, ME",
+    "crime_category": "Kidnapping"
+}

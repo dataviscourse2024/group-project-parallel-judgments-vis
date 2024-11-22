@@ -1,0 +1,47 @@
+{
+    "id": 6136554,
+    "judges": null,
+    "date_filed": 833241600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-matthews",
+    "case_name_short": "Matthews",
+    "case_name": "People v. Matthews",
+    "case_name_full": "The People of the State of New York v. Clifton Matthews",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "227 A.D.2d 313",
+        "642 N.Y.S.2d 682"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJudgment, Supreme Court, New York County (Howard Bell, J.), rendered May 17, 1993, convicting defendant, after a jury trial, of kidnapping in the first degree and six counts of sodomy in the first degree, and sentencing him, as a second felony offender, to concurrent terms of 25 years to life on the kidnapping conviction and 121/2 to 25 years on each of the sodomy convictions, unanimously affirmed.\nThe only issue before us is whether defendant was denied his right to a speedy trial (CPL 30.30). On October 29, 1991, the *314People requested a two-week adjournment, and defense counsel requested an adjournment to November 19, which the court granted. Clearly, defense counsel participated in setting the adjourned date and, accordingly, the court was justified in excluding the additional time requested by defense counsel to accommodate counsel\u2019s schedule (compare, People v Smith, 82 NY2d 676, 678).\nOn December 19, 1991, the assigned prosecutor represented through another Assistant District Attorney that she needed a two-day adjournment, but defense counsel stated \"I\u2019d rather put it over, Judge, past the holidays.\u201d When the court inquired whether December 26 was satisfactory, defense counsel responded \"I was thinking more like January 16 or the 23rd.\u201d It cannot be concluded that defense counsel did not participate in setting the January 16, 1992 adjourned date, or that the date was set either by the court or the prosecution (compare, People v Smith, supra). Defendant\u2019s argument that \"the additional delay was set to accommodate defense counsel\u2019s schedule\u201d, does not require the entire period be charged to the People. As the Court of Appeals noted in People v Smith (supra), there was no justification for excluding the additional time required to accommodate defense counsel\u2019s schedule in that case because defense counsel did not participate in setting the adjourned dates, and the actual dates were set either by the court or the prosecution. That circumstance was not presented here.\nWith respect to the period March 3 to April 28, 1992, the People sufficiently established that the eight-year-old complaining witness was unavailable due to the emotional trauma caused by the kidnapping and repeated sodomy. Thus, the entire period was excludable as an \"exceptional circumstance\u201d under CPL 30.30 (4) (g). Moreover, defendant\u2019s failure to respond to the People\u2019s identification of the exclusion upon which they were relying resulted in the issue not being preserved for review (see, People v Luperon, 85 NY2d 71, 78 [\"the defense must identify any legal or factual impediments to the use of these exclusions\u201d]). We have considered defendant\u2019s remaining contentions and find them to be without merit. Concur \u2014 Sullivan, J. P., Rosenberger, Ellerin and Mazzarelli, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6001845
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Kidnapping"
+}

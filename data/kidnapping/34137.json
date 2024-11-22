@@ -1,0 +1,47 @@
+{
+    "id": 6180247,
+    "judges": null,
+    "date_filed": 951955200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-you",
+    "case_name_short": "You",
+    "case_name": "People v. You",
+    "case_name_full": "The People of the State of New York v. Bablin You, Also Known as You Bab Lin",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "270 A.D.2d 6",
+        "703 N.Y.S.2d 918"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\u2014Judgment, Supreme Court, New York County (Harold Beeler, J., at hearing; Mary McGowan Davis, J., at jury trial and sentence), rendered February 10, 1997, convicting defendant of kidnapping in the first degree, and sentencing him to a term of 22 years to life, unanimously affirmed.\nThe verdict was based on legally sufficient evidence and was not against the weight of the evidence. We see no reason to disturb the jury\u2019s determinations concerning credibility and identification. There was ample evidence supporting each element of kidnapping in the first degree.\nDefendant\u2019s suppression motion was properly denied. We find no evidence of suggestiveness with respect to any identification procedures. The circumstances of the identifications were properly established through the testimony of a detective who stated that at each procedure he spoke with the complainant through an interpreter (see, People v Delances, 262 AD2d 249, lv denied 93 NY2d 1044).\nWe perceive no abuse of sentencing discretion. Concur \u2014 Sullivan, P. J., Rosenberger, Mazzarelli and Andrias, JJ.\n",
+            "ocr": true,
+            "opinion_id": 6046235
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Kidnapping"
+}

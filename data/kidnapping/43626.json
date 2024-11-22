@@ -1,0 +1,46 @@
+{
+    "id": 8069609,
+    "judges": "Baugh, Hon, McKittrick, Warner",
+    "date_filed": 736646400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-gleed",
+    "case_name_short": "Gleed",
+    "case_name": "State v. Gleed",
+    "case_name_full": "STATE OF MONTANA v. HAROLD EDWIN GLEED",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "263 Mont. 25"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOn February 26,1993, the Defendant was sentenced to Count I, ten (10) years for Kidnapping; Count II, twenty (20) years for Burglary; Count III, twenty-five (25) years for Mitigated Deliberate Homicide. The sentences imposed shall run concurrent to each other but consecutive to the sentence for which the defendant is presently incarcerated.\nOn May 6,1993, the Defendant\u2019s application for review of that sentence was heard by the Sentence Review Division of the Montana Supreme Court.\nThe Defendant was present and proceeded pro se. The state was not represented.\nBefore hearing the application, the Defendant was advised that the Sentence Review Division has the authority not only to reduce the sentence or affirm it, but also to increase it if such is possible. The defendant was further advised that there is no appeal from a decision of the Sentence Review Division. The defendant acknowledged that he understood this and stated that he wished to proceed.\nAfter careful consideration, it is the unanimous decision of the Sentence Review Division that the sentence shall be affirmed.\nThe reason for the decision is the sentence imposed by the District Court is presumed correct pursuant to Section 46-18-904(3), MCA. The Division finds that the *26reasons advanced for modification are insufficient to deem inadequate or excessive as required to overcome the presumption per Rule 17 of the Rules of the Sentence Review Division of the Montana Supreme Court.\nDATED this 6th day of May, 1993.\nHon. Thomas McKittrick, Chairman, Hon. G. Todd Baugh, and Hon. John Warner, Judges\nThe Sentence Review Board wishes to thank Mr. Gleed for representing himself in this matter.\n",
+            "ocr": true,
+            "opinion_id": 8028080
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Kidnapping"
+}

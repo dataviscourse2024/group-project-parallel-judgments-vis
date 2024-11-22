@@ -1,0 +1,46 @@
+{
+    "id": 6073220,
+    "judges": null,
+    "date_filed": 673488000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-ballard",
+    "case_name_short": "Ballard",
+    "case_name": "People v. Ballard",
+    "case_name_full": "The People of the State of New York v. George Ballard",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "173 A.D.2d 480"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Juviler, J.), rendered July 10, 1987, convicting him of murder in the second degree, kidnapping in the first degree, and attempted murder in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant contends that the People failed to establish his identity as one of the perpetrators beyond a reasonable doubt. Viewing the evidence in a light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant\u2019s guilt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]).\nThe defendant also contends that the trial court erred in admitting into evidence a redacted version of the defendant\u2019s July 4, 1985, hospital records. Because the redacted version of the defendant\u2019s hospital records contained more than just \"facts which are 'plain to the observation of anyone without expert or professional knowledge\u2019 \u201d (Matter of Grand Jury Investigation, 59 NY2d 130, 134, quoting Klein v Prudential Ins. Co., 221 NY2d 449, 453), we find that the defendant\u2019s physician-patient privilege was violated. However, the error in admitting the defendant\u2019s hospital records into evidence was harmless given the overwhelming evidence of the defendant\u2019s guilt such that there is no significant probability that, had it not been for this error, the jury would have acquitted the defendant (see, People v Crimmins, 36 NY2d 230). Mangano, P. J., Bracken, Kunzeman and Miller, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 5937163
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Kidnapping"
+}

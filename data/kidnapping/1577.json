@@ -1,0 +1,46 @@
+{
+    "id": 8069658,
+    "judges": "Baugh, Hon, McKittrick, Warner",
+    "date_filed": 743385600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-woolfolk",
+    "case_name_short": "Woolfolk",
+    "case_name": "State v. Woolfolk",
+    "case_name_full": "STATE OF MONTANA v. ROGER CARL WOOLFOLK",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "263 Mont. 61"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOn October 27,1992, the Defendant was sentenced to ten (10) years at the Montana State Prison for the revocation of Kidnapping. The Defendant is given credit for two (2) years time served on probation and 90 days credit for time served in pre-sentence incarceration prior to the original sentencing. The defendant, must finish his jail time which he is presently serving out of Columbia Falls, Montana, prior to the execution of this sentence.\nOn July 23,1993, the Defendant\u2019s application for review of that sentence was heard by the Sentence Review Division of the Montana Supreme Court.\nThe Defendant was present and was represented by Kirk Krutilla, Legal Intern from the Montana Defender Project. The state was not represented.\nBefore hearing the application, the Defendant was advised that the Sentence Review Division has the authority not only to reduce the sentence or affirm it, but also to increase it if such is possible. The defendant was further advised that there is no appeal from a decision of the Sentence Review Division. The defendant acknowledged that he understood this and stated that he wished to proceed.\nAfter careful consideration, it is the unanimous decision of the Sentence Review Division that the sentence shall remain the same as originally imposed.\nThe reason for the decision is the sentence imposed by the District Court is presumed correct pursuant to Section 46-18-904(3), MCA. The Division finds that the reasons advanced for modification are insufficient to deem inadequate or excessive as required to overcome the presumption per Rule 17 of the Rules of the Sentence Review Division of the Montana Supreme Court.\nHon. Thomas McKittrick, Chairman, Hon. G. Todd Baugh, and Hon. John Warner, Judges\n*62The Sentence Review Board wishes to thank Kirk Krutilla, Legal Intern from the Montana Defender Project for his assistance to the defendant and to this Court.\n",
+            "ocr": true,
+            "opinion_id": 8028129
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Kidnapping"
+}
