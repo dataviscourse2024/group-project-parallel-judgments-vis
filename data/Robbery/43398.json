@@ -1,0 +1,47 @@
+{
+    "id": 8027495,
+    "judges": null,
+    "date_filed": 131328000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-thomale",
+    "case_name_short": "Thomale",
+    "case_name": "State v. Thomale",
+    "case_name_full": "STATE v. MYRON ANDREW THOMALE",
+    "attorneys": "C. Paul Jones, State Public Defender, for appellant., Warren Spannaus, Attorney General, Robert W. Johnson, County Attorney, and Edward W. Bearse, Assistant County Attorney, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "298 Minn. 569",
+        "215 N.W.2d 809"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nDefendant, who pleaded guilty to an information charging him with burglary, Minn. St. 609.58, subd. 2(3), and who was sentenced by the district court to the maximum term of imprisonment provided by statute (with credit for time spent in jail), appeals from a judgment of conviction, requesting that this court permit him to withdraw his guilty plea. The public defender has filed a brief on defendant\u2019s behalf, notwithstanding the fact that defendant has indicated that he does not wish the public defender to represent him in his appeal. Defendant has not personally filed any brief, but we will consider the brief filed on defendant\u2019s behalf rather than simply dismiss the appeal.\nThe brief refers to a number of rulings below which, it is contended, were erroneous, specifically, the municipal court\u2019s alleged refusal to grant defendant a continuance of the preliminary hearing, the district court\u2019s denial of his request for a copy of the transcript of his codefend-*570ant\u2019s trial, and the district court\u2019s denial of his request to take a pretrial deposition of the complaining officer. Even if some of these rulings were erroneous, which does not appear on the record before us to be the case, that would not be ground for permitting defendant to withdraw his plea. The grounds for permitting withdrawal of guilty pleas are set forth in Chapman v. State, 282 Minn. 13, 162 N. W. 2d 698 (1968). There is no claim before us that any of the grounds set forth is present in this case.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7983450
+        }
+    ],
+    "court_short_name": "Supreme Court of Minnesota",
+    "court_full_name": "Supreme Court of Minnesota",
+    "court_type": "S",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

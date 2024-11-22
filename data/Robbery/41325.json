@@ -1,0 +1,46 @@
+{
+    "id": 7605024,
+    "judges": "Boardman, Danahy, Lehan",
+    "date_filed": 457920000000,
+    "date_filed_is_approximate": false,
+    "slug": "bridenthal-v-state",
+    "case_name_short": "Bridenthal",
+    "case_name": "Bridenthal v. State",
+    "case_name_full": "Jack W. BRIDENTHAL v. STATE of Florida",
+    "attorneys": "Jerry Hill, Public Defender, and William H. Pasch, Asst. Public Defender, Bartow, for appellant., Jim Smith, Atty. Gen., Tallahassee, and Davis G. Anderson, Jr., Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied July 25, 1984.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "453 So. 2d 437"
+    ],
+    "opinions": [
+        {
+            "author_str": "Danahy",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDANAHY, Judge.\nThe defendant appeals his convictions on seven counts of grand larceny, eleven counts of grand theft, and three counts of common law cheat. We find no merit in any of the issues raised by the defendant.\nHowever, in the separate appeals of the defendant\u2019s codefendants, this court has issued an opinion reversing the code-fendants\u2019 convictions on the seven larceny counts on the ground that the larceny counts are barred by the statute of limitations. Maguire v. State, 453 So.2d 438 (Fla. 2d DCA 1984). The statute of limitations is a jurisdictional issue and this court is not foreclosed from considering that issue notwithstanding that the issue was not raised at the trial or appellate level. Mead v. State, 101 So.2d 373 (Fla.1958).\nAccordingly, we reverse the defendant\u2019s convictions on counts 2 through 5 and 18 through 20 in case no. 81-499 as being barred by the statute of limitations. We affirm the defendant\u2019s convictions in all other respects.\nREVERSED IN PART and AFFIRMED IN PART.\nBOARDMAN, A.C.J., and LEHAN, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7535296
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

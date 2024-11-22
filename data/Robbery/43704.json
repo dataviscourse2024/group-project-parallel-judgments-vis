@@ -1,0 +1,47 @@
+{
+    "id": 8084054,
+    "judges": null,
+    "date_filed": 131673600000,
+    "date_filed_is_approximate": false,
+    "slug": "maupin-v-sheriff",
+    "case_name_short": "Maupin",
+    "case_name": "Maupin v. Sheriff",
+    "case_name_full": "BARBARA J. MAUPIN v. SHERIFF, CLARK COUNTY, NEVADA",
+    "attorneys": "Morgan D. Harris, Public Defender, and Thomas D. Beatty, Chief Deputy Public Defender, Clark County, for Appellant., Robert List, Attorney General, Carson City; Roy A. Woof-ter, District Attorney, and H. Leon Simon, Deputy District Attorney, Clark County, for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "90 Nev. 99",
+        "520 P.2d 237"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*100OPINION\n\nPer Curiam:\n\nAppellant and Larry Hanrahan were charged with attempted murder and, after preliminary examination, ordered to stand trial. Appellant then filed a pretrial petition for habeas corpus contending the evidence adduced before the magistrate was insufficient to establish probable cause to hold her for trial. Her argument in support of the habeas petition suggests our decision in Sheriff v. Hicks, 89 Nev. 78, 506 P.2d 766 (1973), is dispositive of her contention.\nThe trial court concluded that probable cause was shown and denied the habeas petition. This appeal was perfected and the same contention is reurged.\nThe record before us reflects, inter alia, that about 5:30 a.m., April 27, 1973, Michael Morabito, Jr., was awakened by appellant knocking on the front door of his residence. Identifying appellant through a \u201cpeephole\u201d, he asked the purpose of her visit; she stated that she wanted to talk to him. He opened the door and observed Larry Hanrahan approaching the door with a pistol in his hand. Michael Morabito, Jr. slammed the door and, together with his father, Michael Mora-bito, Sr., who had just entered the room, \u201chit the floor\u201d. Hanrahan then fired four bullets into the house: two into the door knob, one through the door below the door knob and one through the living room window and into the kitchen.\nAppellant\u2019s reliance on Hicks is misplaced. There the homicide was accomplished by an intended victim of a thwarted burglary attempt. In that case we rejected the State\u2019s contention that the felony-murder rule would have permitted the homicide charges against proponents of the burglary and said: \u201cthe felony-murder rule does not apply when the killing is done by the victim of the crime, because in such a case the malice aforethought necessary for murder is not attributable to the accomplice felon.\u201d 89 Nev. at 81-82, 506 P.2d at 768. Nothing in the record before us suggests appellant to be an intended victim not subject to prosecution under the Hicks rationale.\nIn Hicks the prosecution also sought to charge those appellants with attempted murder, based on the amount of force *101they used in their effort to gain entry. The evidence showed that one of the cohorts involved in the burglary effort struck the intended victim on the head with a gun knocking him to the floor. We noted that the trial judge correctly concluded that such assault and battery was not sufficient evidence to support an attempted murder charge.\nIn the instant case the recited facts are not remotely akin to those in Hicks; instead, they more appropriately fall within our decision in Robertson v. Sheriff, 85 Nev. 681, 462 P.2d 528 (1969), where we said \u201cthat presence, companionship, and conduct before and after the offense are circumstances from which one\u2019s participation in the criminal intent may be inferred.\u201d 85 Nev. at 683, 462 P.2d at 529.\nThe trial court concluded that the state met its burden of showing probable cause to sustain the charge and we find no error in that determination. \u201c[W]e are not now concerned with the prospect that the evidence presently in the record may, by itself, be insufficient to sustain a conviction.\u201d McDonald v. Sheriff, 89 Nev. 326, 327, 512 P.2d 774, 775 (1973).\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 8043770
+        }
+    ],
+    "court_short_name": "Nevada Supreme Court",
+    "court_full_name": "Nevada Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nevada, NV",
+    "crime_category": "Robbery"
+}

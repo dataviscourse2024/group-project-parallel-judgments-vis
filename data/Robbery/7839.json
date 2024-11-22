@@ -1,0 +1,46 @@
+{
+    "id": 9352259,
+    "judges": "Ardini, Hardwick",
+    "date_filed": 1542672000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-backues",
+    "case_name_short": "Backues",
+    "case_name": "State v. Backues",
+    "case_name_full": "STATE of Missouri v. Karen A. BACKUES",
+    "attorneys": "Gregory Barnes, Jefferson City, MO, Counsel for Appellant., Kent Gipson, Kansas City, MO, Counsel for Respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "568 S.W.3d 892"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n--------\nThomas H. Newton, Judge *893This court is reconsidering the decision in State of Missouri v. Karen A. Backues at the direction of the Missouri Supreme Court's October 30, 2018, order re-transferring the case. We decided the case on direct appeal rather than a writ of mandamus that the State filed in our court while the appeal was pending.In a similar factual circumstance, State ex rel. Fite v. Johnson, 530 S.W.3d 508 (Mo. banc 2017), the Missouri Supreme Court held that the trial court erred in granting the defendant's Rule 29.07(d) motion and allowing the defendant to withdraw a plea of guilty for felony stealing. Id. at 510. The State filed an appeal and a writ of prohibition simultaneously. The court decided to dismiss the appeal and resolve the issue by writ.1In our case, a writ division denied the writ of mandamus and a three-judge panel decided the case on direct appeal. The Missouri Supreme Court granted transfer of the case and then re-transferred it to us for reconsideration, citing Fite . The Missouri Supreme Court's order also stated that \"Review is by Writ of Prohibition.\"Upon reconsideration and review of the Fite decision, because our case was decided by direct appeal as opposed to the writ, we dismiss this appeal.2\"Missouri appellate court[s] have repeatedly exercised jurisdiction over appeals from the denial of motions to withdraw guilty pleas under Rule 29.07(d), where the motions were filed subsequent to the defendant's sentencing.\" State v. Wilson , 527 S.W.3d 908, 911 (Mo. App. E.D. 2017) (quoting McCoy v. State , 456 S.W.3d 887, 892 (Mo. App. W.D. 2015) ); see also , e.g. , Gray v. State , 498 S.W.3d 522, 527-28 n.8 (Mo. App. W.D. 2016) ; State v. Onate , 398 S.W.3d 102, 107 n.6 (Mo. App. W.D. 2013) ; Jack v. State , 354 S.W.3d 659, 659 (Mo. App. S.D. 2011) ; State v. Ison , 270 S.W.3d 444, 446-47 (Mo. App. W.D. 2008) ; Elam v. State , 210 S.W.3d 216, 219 &amp; n.9 (Mo. App. W.D. 2006) (dictum); State v. Johnson , 172 S.W.3d 900, 901 n.3 (Mo. App. S.D. 2005) ; State v. Thomas , 96 S.W.3d 834, 838 (Mo. App. W.D. 2002) ; State v. Fensom , 69 S.W.3d 550, 551 (Mo. App. W.D. 2002) (dictum). This case involves a circuit court's grant of a post-sentencing Rule 29.07(d) motion, not the denial of such a motion. Nevertheless, in light of Fite , and the supreme court's re-transfer order in this case, it is unclear whether our prior decisions exercising appellate jurisdiction over the denial of a post-sentencing Rule 29.07(d) motion should continue to be followed.After reconsideration of our opinion issued on July 3, 2018, because of the retransfer order by the Missouri Supreme Court on October 30, 2018, we withdraw our previous opinion.",
+            "ocr": true,
+            "opinion_id": 9347729
+        }
+    ],
+    "court_short_name": "Missouri Court of Appeals",
+    "court_full_name": "Missouri Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

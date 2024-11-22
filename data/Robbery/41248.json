@@ -1,0 +1,46 @@
+{
+    "id": 7591138,
+    "judges": "Hendry, Owen, Ret, Schwartz",
+    "date_filed": 402019200000,
+    "date_filed_is_approximate": false,
+    "slug": "somatra-lines-ltd-v-rayne-intlernational-inc",
+    "case_name_short": null,
+    "case_name": "Somatra Lines, Ltd. v. Rayne Intlernational, Inc.",
+    "case_name_full": "SOMATRA LINES, LTD. v. RAYNE INTERNATIONAL, INC., and Drake Insurance Co. of New York",
+    "attorneys": "Militana, Militana & Militana and John Militana, Miami, for appellant., David M. Goldstein, North Miami Beach, for appellees.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "419 So. 2d 803"
+    ],
+    "opinions": [
+        {
+            "author_str": "Schwartz",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSCHWARTZ, Judge.\nWe may not interfere with the trial judge\u2019s conclusion upon a stipulated statement of facts that the defendant security *804company was not, as alleged, shown to have negligently employed a guard who later stole several vehicles from the plaintiff\u2019s premises.1 Delgado v. Strong, 360 So.2d 73 (Fla.1978); Laufer v. Norma Fashions, Inc., 418 So.2d 437 (Fla. 3d DCA 1982); Friedman v. Mutual Broadcasting System, Inc., 380 So.2d 1313 (Fla. 3d DCA 1980), cert. denied, 388 So.2d 1112 (Fla.1980); Sea Board Air Line R. Co. v. Watson, 94 Fla. 571, 113 So. 716 (1927) (conformance to custom in industry evidence of reasonable care); cf. Mallory v. O\u2019Neil, 69 So.2d 313 (Fla.1954); McArthur Jersey Farm Dairy, Inc. v. Burke, 240 So.2d 198 (Fla. 4th DCA 1970); compare, Williams v. Brooklyn District Telegraph Co., 12 Misc. 565, 33 N.Y.S. 849 (City Ct. of Brooklyn 1895) (jury finding of negligent hiring).\nThere is no occasion to consider any possible alternative theory of liability since no other was contained in the plaintiff\u2019s pleadings. See, Dober v. Worrell, 401 So.2d 1322 (Fla.1981).\nAffirmed.\n\n. The stipulation stated:\n4. That on April 4, 1978, Defendant, RAYNE INTERNATIONAL, INC., entered into a security agreement with Plaintiff, SO-MATRA LINES, LTD., to provide guard services. The parties stipulate that the attached security agreement is a true copy of the agreement mentioned.\n5. That the FBI reports, one night between April 4, 1978, and April 10, 1978, Defendant, RAYNE INTERNATIONAL, INC., supplied the services of a security guard who, unbeknown to the Defendant, RAYNE INTERNATIONAL, was a minor and a convicted felon.\n6. That during the early hours of April 10, 1978, while an employee of Defendant, RAYNE INTERNATIONAL, INC., was on guard duty, the seven aforementioned vehicles were stolen from the area. There was no evidence of knowledge by the RAYNE INTERNATIONAL security guard on duty that night that a theft had taken place or evidence of resistance to the theft. It was further reported, by the FBI, that the original equipment keys were used to steal the vehicles, and that another bag of keys was subsequently found the next day by a fence around the property. Furthermore, the Defendant, RAYNE, and its security guards, had no access to any of the vehicle keys.\n7'. That the theft was caused by the 17 year old minor felon, security guard of Defendant, RAYNE INTERNATIONAL, INC., who was a guard on duty, as reported by the FBI on one of the previous nights. That although the theft was caused by this guard, he was not within the scope of his employment with Defendant, RAYNE INTERNATIONAL, INC., while causing the theft. The 17 year old guard had filled out an application with RAYNE INTERNATIONAL and had not indicated any previous criminal record or that he was under age. He was, in fact, operating under a temporary license issued by the State of Florida, which is a procedure allowed by law and standard and customary in the security industry, and Defendant, RAYNE INTERNATIONAL, was awaiting notification from the State of Florida as to the issuance of a permanent license. The 17 year old minor guard was subsequently convicted of this theft.\n\n",
+            "ocr": true,
+            "opinion_id": 7520382
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

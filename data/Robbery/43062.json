@@ -1,0 +1,46 @@
+{
+    "id": 7961809,
+    "judges": null,
+    "date_filed": -98496000000,
+    "date_filed_is_approximate": false,
+    "slug": "muhly-v-director-of-patuxent-institution",
+    "case_name_short": "Muhly",
+    "case_name": "Muhly v. Director of Patuxent Institution",
+    "case_name_full": "MUHLY v. DIRECTOR OF PATUXENT INSTITUTION",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "244 Md. 704"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nThis is an application for leave to appeal from an order of the lower court dated October 22, 1965, recommitting William M. Muhly, Jr., to Patuxent Institution after a determination by the court, sitting without a jury, that he was still a defective delinquent within the meaning of \u00a7 5 of Art. 31B of the Code (1965 Cum. Sup.).\nThe applicant had previously been convicted of burglary and sentenced on August 4, 1961, to a term of not more than three years in the Reformatory for Males. Subsequently, on July 19, 1963, the applicant was found to be a defective delinquent and was committed to Patuxent. The application for leave to appeal from that finding was denied. See Muhly v. Director, 234 Md. 624. The petition for a redetermination of the status of the applicant was filed on June 16, 1965.\nIn this application for leave to appeal filed by his attorney, the applicant contends: (1) that the evidence was legally insufficient to support a finding of defective delinquency; (2) that Dr. Harold M. Boslow testified contrary to the contents of his written records; and (3) that the interval notes made by staff members at Patuxent were full of errors.\nThe first contention concerns the legal sufficiency of the evidence. In this circumstance, when the case has been tried by the court without a jury, the judgment of the court will not be set aside on the evidence unless clearly erroneous and the record indicates that it was not. Bisesi v. Director, 243 Md. 605, and cases cited. Since both the second and third contentions merely state the conclusions of the applicant neither constitutes a basis for the grant of leave to appeal. Muhly v. Director, supra.\n\nApplication denied.\n\n",
+            "ocr": true,
+            "opinion_id": 7913504
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Robbery"
+}

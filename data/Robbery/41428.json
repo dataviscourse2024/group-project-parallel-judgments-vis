@@ -1,0 +1,46 @@
+{
+    "id": 7625094,
+    "judges": "Edwards, Leblanc, Watkins",
+    "date_filed": 541814400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-johnson",
+    "case_name_short": null,
+    "case_name": "State v. Johnson",
+    "case_name_full": "STATE of Louisiana v. Eddie JOHNSON",
+    "attorneys": "Bryan Bush, Dist. Atty., Baton Rouge by Karen Godwin, Asst. Dist. Atty., for plaintiff-appellee., Paul Knight, Public Defender\u2019s Office, Baton Rouge, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "504 So. 2d 1003"
+    ],
+    "opinions": [
+        {
+            "author_str": "Edwards",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nEDWARDS, Judge.\nEddie Lee Johnson pleaded guilty to two counts of armed robbery, in violation of LSA-R.S. 14:64. He was sentenced to 40 years at hard labor, without benefit of parole, probation or suspension of sentence. Defendant appeals, urging three assignments of error and briefing one. Assignments of error not briefed on appeal are considered abandoned. Uniform Rules\u2014 Courts of Appeal, Rule 2-12.4.\nFACTS\nOn September 10, 1985, the Fina Service Station was robbed by a black male with a noticeable scar on his face. The attendant positively identified the defendant as the man who robbed her. Three days later, the Thrifty-Quick was also robbed. A witness to the robbery obtained the license plate number and a description of the car used by the perpetrators. Although the car was traced to defendant\u2019s mother, the police were apparently unable to locate him at that time.\nApproximately two weeks later, Johnson returned to the Fina Service Station where the same attendant was on duty. Before defendant could enter the building, the clerk locked the door and called the police. Defendant was apprehended a few minutes later and arrested for the robberies of the service station and the convenience store. He subsequently pleaded guilty to two counts of armed robbery.\nWITHDRAWAL OF PLEA\nIn his assignment of error, defendant argues that the trial court erred in denying his motion to withdraw the guilty pleas. He claims that his pleas were not knowingly and intelligently made because there were substantial other factors involved concerning the pleas of which neither defendant nor his counsel were aware at the time the Boykin examination was conducted.\nDefendant pleaded guilty pursuant to an agreement in which the state stipulated that it would not charge defendant as a multiple offender and the court agreed to impose concurrent sentences of forty years, to be served with another sentence imposed for first degree robbery. The terms of the agreement were disclosed in a written document signed by defendant, his attorney, the assistant district attorney, and the trial judge.\nLSA-C.Cr.P. art. 559 allows the court to \u201cpermit a plea of guilty to be withdrawn at any time before the sentence.\u201d A defendant does not have an absolute right to withdraw a guilty plea. State v. Mangano, 464 So.2d 1032, 1034 (La.App. 1st Cir.1985). The trial judge\u2019s decision to permit the withdrawal of a guilty plea is discretionary, \u201csubject to reversal only if he abuses that discretion or exercises it arbitrarily.\u201d State v. Johnson, 461 So.2d 1259, 1261 (La.App. 1st Cir.1984).\nOur examination of the record reveals that the court advised defendant of his constitutional rights and established the voluntary nature of his pleas. In addition, the court questioned defendant as to his understanding of the significance of the pleas. The trial court noted that defendant negotiated \u201clike a seasoned attorney\u201d in connection with the plea bargain and had received a good deal in light of his previous record. The court stated that it had received no information as to why defendant should be permitted to withdraw his pleas, and indicated in its opinion that defendant *1005experienced regret at having entered the guilty pleas only after he received the maximum sentence for his conviction of first degree robbery.\nWe find that the trial court correctly denied the defendant\u2019s motion to withdraw his guilty pleas. Defendant has failed to allege a legal basis for his motion, nor has he set forth any evidence that the pleas were defective in any manner. The bare allegation that substantial factors existed which were unknown at the time the pleas were entered does not entitle a defendant who has pled guilty to withdraw his pleas. Guilty pleas, being convictions, should be afforded a great measure of finality. State v. Bosworth, 451 So.2d 1070, 1074 (La.1984). Accordingly, the conviction and sentence are affirmed.\nAFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 7556799
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 7828376,
+    "judges": "Palmer, Pleus, Sawaya",
+    "date_filed": 1085443200000,
+    "date_filed_is_approximate": false,
+    "slug": "payne-v-state",
+    "case_name_short": "Payne",
+    "case_name": "Payne v. State",
+    "case_name_full": "Ned P. PAYNE v. STATE of Florida",
+    "attorneys": "James B. Gibson, Public Defender, and Rosemarie Farrell, Assistant Public Defender, Daytona Beach, for Appellant., Charles J. Crist, Jr., Attorney General, Tallahassee, and, Timothy D. Wilson, Assistant Attorney General, Daytona Beach, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "885 So. 2d 390"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 7770646
+        },
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "070rehearing",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nON MOTION FOR REHEARING\nNed Payne appealed his sentence which was imposed by the trial court after a jury found him guilty of committing the crime of theft. Having found no merit in the issues raised in Payne\u2019s initial brief, we issued a per curiam affirmance. Payne filed a motion for rehearing requesting that this court recall its decision based upon the fact that defense counsel had not received a copy of the State\u2019s answer brief and therefore he had not had the opportunity to file a reply brief. We granted Payne leave to file a reply brief; however, upon review thereof, we conclude that no reversible error has been demonstrated. Accordingly, we deny Payne's motion for rehearing.\nDENIED.\nSAWAYA, C.J., PLEUS and PALMER, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7770647
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

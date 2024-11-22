@@ -1,0 +1,46 @@
+{
+    "id": 7516717,
+    "judges": "Brady, Gillespie, Patterson, Rodgers, Smith",
+    "date_filed": 29376000000,
+    "date_filed_is_approximate": false,
+    "slug": "anderson-v-state",
+    "case_name_short": "Anderson",
+    "case_name": "Anderson v. State",
+    "case_name_full": "Jimmie Davis ANDERSON v. STATE of Mississippi",
+    "attorneys": "James B. Tucker, Jackson, for appellant., A. F. Summer, Atty. Gen. by Guy N. Rogers, Asst. Atty. Gen., and John M. Kin-ard, Special Asst. Atty. Gen., Jackson, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "241 So. 2d 677"
+    ],
+    "opinions": [
+        {
+            "author_str": "Smith",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSMITH, Justice:\nJimmie Davis Anderson was convicted of the crime of attempted armed robbery in the Circuit Court of the First Judicial District of Hinds County and sentenced to serve a term of ten years in the penitentiary. He appeals from that conviction and sentence.\nThere can be no question that the evidence for the prosecution, as opposed that offered by appellant, was ample to make a factual issue for the jury as to appellant\u2019s guilt or innocence. Of the several assignments of error, however, one is well taken.\nThe prosecution offered in evidence a written confession signed by appellant. On objection, the court properly conducted a preliminary hearing out of the presence of the jury as to its admissibility.\nUpon this hearing, appellant, as well as the officers who took the confession, testified as to their respective versions of the circumstances under which it had been obtained. According to testimony given by the officers, the confession had been free and voluntary and given by appellant after he had been duly warned in accordance with what has become known as the Miranda rule. To the contrary, appellant denied this and testified that he did not confess, that the written statement purporting to be his confession was untrue in fact, and that he had signed it only upon demand of an officer and because he was in fear of physical violence at the hands of the officer if he declined to do so. In other words, the conflicting evidence for the prosecution and the appellant made a factual issue as to the truth as well as to the voluntariness of the alleged confession.\nOn this evidence, the court ruled that the confession was admissible.\nThe jury was returned, the confession was introduced, the officers again testifying as to the facts under which they said it had been obtained. When the defendant took the stand as a witness in his own behalf he was asked by his attorney to give *678his version of such circumstances. However, the court declined to permit him to do so, stating that the court already had ruled upon the admissibility and the circumstances.\nThis was error. While it was the province of the court to rule upon the admissibility of the confession, appellant was entitled to have the jury pass upon the factual issues made by the evidence with respect, to its truth and voluntariness. The weight and credibility of the witnesses as to these matters were for the jury.\nThe defendant is not bound by his extrajudicial confession introduced by the prosecution. He may introduce evidence to show that the confession is not true and he may explain why he made the untrue confession. (Emphasis added). 2 Underhill\u2019s Criminal Evidence (5th ed. 1956) \u00a7 406, p. 1048.\nAn extrajudicial confession is merely prima facie proof. It is not conclusive. The defendant may offer evidence to rebut or impeach the confession. * * * 2 Wharton\u2019s Criminal Evidence (12th ed. 1955) \u00a7 395, p. 141.\n2 Wharton\u2019s Criminal Evidence, (12th ed. 1955) section 396 at pages 142-144, contains this statement of the proposition:\nIn any case, however, the weight of the confession is determined by the jury.\n\n\n\nIn this connection, the difference between the weight and credibility of a confession, and the admissibility of a confession, must be borne in mind, for even in the jurisdictions that hold that the ultimate competency of a confession as determined by its voluntariness is a question for the court. * * * [T]he jury may conclude that the confession, though found by the court to be voluntary, is nevertheless untrue and not entitled to any weight.\nIn Brooks v. State, 178 Miss. 575, 582, 173 So. 409, 411 (1937), this Court said:\nThe admissibility of a confession is for the determination of the trial judge; and, when admitted, the jury may consider it in the light of the evidence by which it was obtained and give it such weight and credibility as they think it is entitled. * * *\nIn a more recent case, Diddlemeyer v. State, 234 So.2d 292, 296 (Miss.1970), the rule is stated thus:\nConfessions are not conclusive and may be of little weight or of great weight according to the circumstances of the case, however, ordinarily, this is a matter for the jury to determine and not for the court. * * *\nFor this error, appellant\u2019s conviction must be reversed and the case remanded for a new trial.\nReversed and remanded.\nGILLESPIE, P. J., and RODGERS, BRADY and PATTERSON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7440491
+        }
+    ],
+    "court_short_name": "Mississippi Supreme Court",
+    "court_full_name": "Mississippi Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Mississippi, MS",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 313607,
+    "judges": "Lay, Matthes, Per Curiam, Ross",
+    "date_filed": 120268800000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-john-marzette",
+    "case_name_short": null,
+    "case_name": "United States v. John Marzette",
+    "case_name_full": "UNITED STATES of America, Appellee, v. John MARZETTE, Appellant",
+    "attorneys": "Ray Carleno, Ferguson, Mo., for appellant., William C. Martin, Asst. U.S. Atty., St. Louis, Mo., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Sept. 13, 1973., Rehearing and Rehearing Eh. Banc Denied Oct. 24, 1973.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 16,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b271-3\">\n    UNITED STATES of America, Appellee, v. John MARZETTE, Appellant.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b271-5\">\n    No. 73-1302.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b271-6\">\n    United States Court of Appeals, Eighth Circuit.\n   </court><br><otherdate data-order=\"3\" data-type=\"otherdate\" id=\"b271-7\">\n    Submitted Sept. 13, 1973.\n   </otherdate><br><decisiondate data-order=\"4\" data-type=\"decisiondate\" id=\"b271-8\">\n    Decided Sept. 26, 1973.\n   </decisiondate><br><otherdate data-order=\"5\" data-type=\"otherdate\" id=\"b271-9\">\n    Rehearing and Rehearing Eh. Banc Denied Oct. 24, 1973.\n   </otherdate><br><attorneys data-order=\"6\" data-type=\"attorneys\" id=\"b271-16\">\n    Ray Carleno, Ferguson, Mo., for appellant.\n   </attorneys><br><attorneys data-order=\"7\" data-type=\"attorneys\" id=\"b271-17\">\n    William C. Martin, Asst. U.S. Atty., St. Louis, Mo., for appellee.\n   </attorneys><br><p data-order=\"8\" data-type=\"judges\" id=\"b271-18\">\n    Before MATTHES, Senior Circuit Judge, and LAY and ROSS, Circuit Judges.\n   </p>",
+    "citations": [
+        "485 F.2d 207"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/485/485.F2d.207.73-1302.html",
+            "author_id": null,
+            "opinion_text": "485 F.2d 207\n    UNITED STATES of America, Appellee,v.John MARZETTE, Appellant.\n    No. 73-1302.\n    United States Court of Appeals,Eighth Circuit.\n    Submitted Sept. 13, 1973.Decided Sept. 26, 1973.Rehearing and Rehearing En Banc Denied Oct. 24, 1973.\n    \n      Ray Carleno, Ferguson, Mo., for appellant.\n      William C. Martin, Asst. U.S. Atty., St. Louis, Mo., for appellee.\n      Before MATTHES, Senior Circuit Judge, and LAY and ROSS, Circuit Judges.\n      PER CURIAM.\n    \n    \n      1\n      Appeal is made from a judgment of conviction arising from violation of 18 U.S.C. Sec. 2113(a) and (b) in the armed robbery of the New Age Federal Savings &amp; Loan Association in St. Louis, Missouri.  In essence it is urged on appeal that: (1) the court unduly restricted defense counsel on his voir dire examination of the jury in not allowing him to examine prospective jurors as to the result reached in a previously tried bank robbery case wherein some of the same veniremen had sat on the jury; (2) the evidence was insufficient to prove that the bank was insured by the Federal Savings &amp; Loan Insurance Corporation; (3) the court erred in excluding defendant's evidence that another person was indicted for the same bank robbery; (4) the court erred in permitting the government to read the indictment to the jury; and (5) the trial judge abused his discretion in sentencing the defendant to a longer sentence than he would have received had he pleaded guilty.  Other alleged errors were claimed but conceded in oral argument not to have been prejudicial.\n    \n    \n      2\n      Upon review of the record, we are satisfied there exists no merit to the claims here presented.  Parenthetically, we observe that counsel's complaint that the sentence was longer than that which would have been given had defendant pleaded guilty is not warranted on the present record.  There is no indication that the district court added any punitive measure to the sentence simply because the defendant chose to exercise his right to trial by jury.  Obviously, if a sentencing court would manifest such a policy in its sentencing procedure there would be grave doubt as to the validity of the sentence.  Cf. Woosley v. United States, 478 F.2d 139 (8th Cir. 1973).  Each case requires individualized sentencing procedures; however, whether a defendant exercises his constitutional right to trial by jury to determine his guilt or innocence must have no bearing on the sentence.  The record here does not sustain the claim.\n    \n    \n      3\n      Judgment affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 313607
+        }
+    ],
+    "court_short_name": "Eighth Circuit",
+    "court_full_name": "Court of Appeals for the Eighth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

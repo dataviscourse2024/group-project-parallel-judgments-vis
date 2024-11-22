@@ -1,0 +1,46 @@
+{
+    "id": 7623966,
+    "judges": "Lehan, Prank, Sanderlin",
+    "date_filed": 540000000000,
+    "date_filed_is_approximate": false,
+    "slug": "lewis-v-state",
+    "case_name_short": "Lewis",
+    "case_name": "Lewis v. State",
+    "case_name_full": "Jerry LEWIS v. STATE of Florida",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "502 So. 2d 489"
+    ],
+    "opinions": [
+        {
+            "author_str": "Prank",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPRANK, Judge.\nJerry Lewis appeals from the summary denial of his motion for postconviction relief. We reverse and remand for further proceedings.\nLewis alleges that in 1976 he pleaded to charges of armed robbery and aggravated battery, and asserts the charges arose from a single criminal episode. He received consecutive sentences, including consecutive minimum mandatory sentences for the use of a firearm. Under Palmer v. State, 438 So.2d 1 (Fla.1983), the \u201cstacking\u201d of minimum mandatory sentences is improper if the offenses arise from a single episode.\nThe trial court held that Lewis should have raised this issue on appeal. However, Lewis\u2019 time to appeal expired long before the Palmer decision. In Cisnero v. State, 458 So.2d 377 (Pla. 2d DCA 1984), we held that Palmer may be applied retroactively. Thus Lewis is not precluded from raising the issue in spite of the substantial lapse between sentencing and the filing of his postconviction motion. See Fla.R.Crim.P. 3.850.\nUpon remand the trial court should first determine whether Lewis\u2019 charges did indeed stem from a single episode. If they did not, the court may again deny the motion, attaching sufficient documentation to support that conclusion, and Lewis must file a notice of appeal within thirty days if he desires further appellate review.\nIf, on the other hand, the trial court agrees that a single episode was involved, it may delete the mandatory portion of the second sentence. However, we stop short of imposing such deletion as an express requirement. Although Lewis\u2019 motion does not specify whether his plea was the result of an agreement with the state, we note that in Daniels v. Smith, 478 So.2d 110 (Pla. 2d DCA 1985), the movant had entered into a plea bargain that took into consideration the likelihood of consecutive minimum mandatory sentences. Like Lewis\u2019 sentence, the plea in Daniels occurred prior to the Palmer decision. Then, after Palmer, Daniels sought to have the minimum mandatory sentences set aside. Because of the plea bargain we declined to order the sentences corrected without affording the prosecution an opportunity to be heard. Similarly, in the present case the state may have a valid reason to object to the deletion of Lewis\u2019 second mandatory sentence, and the trial court should entertain any such objection prior to passing upon Lewis\u2019 motion.\nReversed for further proceedings consistent with this opinion.\nLEHAN, A.C.J., and SANDERLIN, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7555591
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 8055561,
+    "judges": "Sherwood",
+    "date_filed": -2276640000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-murrin",
+    "case_name_short": "Murrin",
+    "case_name": "State v. Murrin",
+    "case_name_full": "State v. Murrin",
+    "attorneys": "Edward C. Crow, Attorney-General, and Sam B. Jeffries, Assistant Attorney-General, for the State.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Appeals: criminal law: no bill-os\u2019 exceptions. When no bill of exceptions is filed and no error appears in the record proper, the judgment will be affirmed on appeal.</p>",
+    "summary": "Appeal from St. Loids City Circuit Court. \u2014 Hon. William Zachritz, Judge.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "141 Mo. 347"
+    ],
+    "opinions": [
+        {
+            "author_str": "Sherwood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSherwood, J.\n\u2014 Grand larceny the charge, a milch cow the subject-matter of the theft, and sentence for three years in the penitentiary, are the component parts of this record in which, as there is no error and no bill of exceptions, judgment affirmed.\nAll concur.\n",
+            "ocr": true,
+            "opinion_id": 8012643
+        }
+    ],
+    "court_short_name": "Supreme Court of Missouri",
+    "court_full_name": "Supreme Court of Missouri",
+    "court_type": "S",
+    "court_jurisdiction": "Missouri, MO",
+    "crime_category": "Robbery"
+}

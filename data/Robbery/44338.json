@@ -1,0 +1,47 @@
+{
+    "id": 8205870,
+    "judges": "Callister, Crockett, Henriod, McDonough, Wade",
+    "date_filed": -174182400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-wood",
+    "case_name_short": "Wood",
+    "case_name": "State v. Wood",
+    "case_name_full": "The STATE of Utah, and v. Virgil Lee WOOD and Robert Colvin, and",
+    "attorneys": "Mitsunaga & Ross, Salt Lake City (Appointed by the Court), for defendants and appellants., A. Pratt Kesler, Atty. Gen., Ronald N. Boyce, Asst. Atty. Gen., Salt Lake City, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "15 Utah 2d 340",
+        "393 P.2d 381"
+    ],
+    "opinions": [
+        {
+            "author_str": "Henriod",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nHENRIOD, Chief Justice.\nAppeal from a robbery and grand larceny conviction in a case tried to a jury.\nAffirmed.\nThis case prematurely was appealed in State v. Wood.1 We remanded because no disposition yet had been made of motions for a new trial. We instructed that this be done. That case was remitted on May 28, 1963. The motions were denied on December 20, 1963. Defendants had counsel up to that time, but theretofore requested no hearing thereon, so that defendant Colvin\u2019s contention that delay in acting thereon deprived him of his constitutional rights is without merit. Colvin, in saying the motion should have been disposed of earlier, would bear the burden of showing that an earlier action would have resulted in a new trial, which he did not do.\nColvin\u2019s other point has to do with insufficiency of evidence, which was the same point raised before. In the Wood case we had the transcript before us, and nothing has been added on the present appeal. There we said:\n\u201cDefendants urge error * * * that the verdicts were contrary to the evidence and the presumption of innocence, and that the court and prosecutor prejudicially abused defendants\u2019 rights by their conduct. The record does not reflect any such abuse, and the only point on appeal appearing to *342have any merit is that we decide here anent prematurity of appeal.\u201d\nAs to Wood\u2019s only point on appeal, that the motion for new trial improperly was denied because an affidavit was filed by a stranger as to what a juror said about a jacket, the trial court properly paid no attention to it, since it was an effort by affidavit of a nonparticipant to impeach the verdict, which normally isn\u2019t done, particularly by hearsay.\nMcDonough, callister and WADE, JJ., concur.\nCROCKETT, J., concurs in the result.\n\n. 14 Utah 2d 192, 381 P.2d 78 (1963).\n\n",
+            "ocr": true,
+            "opinion_id": 8167987
+        }
+    ],
+    "court_short_name": "Utah Supreme Court",
+    "court_full_name": "Utah Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Utah, UT",
+    "crime_category": "Robbery"
+}

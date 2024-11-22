@@ -1,0 +1,47 @@
+{
+    "id": 7874325,
+    "judges": "Holt",
+    "date_filed": 132192000000,
+    "date_filed_is_approximate": false,
+    "slug": "western-casualty-surety-co-v-smith-caldwell-drug-store-inc",
+    "case_name_short": null,
+    "case_name": "Western Casualty & Surety Co. v. Smith-Caldwell Drug Store, Inc.",
+    "case_name_full": "WESTERN CASUALTY & SURETY COMPANY v. SMITH-CALDWELL DRUG STORE, Inc.",
+    "attorneys": "11 \u2019right, Lindsey & Jennings, for appellant., Hall, Tucker & Lovell, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "256 Ark. 196",
+        "506 S.W.2d 116"
+    ],
+    "opinions": [
+        {
+            "author_str": "Holt",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Frank Holt, Justice. The appellee insured sought to recover #997.02 from the appellant insurer as a result of the theft of drugs from its premises after closing hours. The trial court, sitting as a jury, awarded judgment to the appellee. Appellant contends that the trial court erred in not granting its motion for a directed verdict in that the evidence was insufficient to sustain a judgment in favor of appellee. We agree that appellant is entitled to judgment as a matter of law after viewing the evidence and all reasonable inferences deducible therefrom most favorable to the appellee as we must do on appeal. The appellant had issued to the appellee its open stock burglary insurance policy. By an amendatory endorsement, the policy required that a burglary be committed by a \u201cfelonious entry therein by actual force and violence, of which force and violence there are visible marks made by tools, explosives, electricity or chemicals upon, or physical damage to, the exterior of the premises at the place of such entry, or ... \u201d that similar visible signs of force and violence exist as to \u201cthe interior of the premises at the place of exit.\u201d The testimony indicated that the thief went into a bathroom in the drug store during business hours and concealed himself in the bathroom ceiling which is suspended below the roof of the building. The building roof has no opening which would permit an entry into the bathroom ceiling. Visible signs inside the bathroom indicated that the thief managed to climb up and remove a tile in the bathroom ceiling in order to secret himself in that space until the store closed. The place of exit from the store was through the rear door by lifting a steel bar and turning the door knob. There was no evidence of force or violence on the exterior of the premises nor was there any such evidence at the place of exit. The only visible signs as to physical damage about the building indicating the presence of the thief were within the bathroom and ceiling where he hid until the store closed. Although we have no cases in our state directly in point with respect to the language in this particular open stock burglary coverage, the cases in other jurisdictions and secondary authority clearly exclude coverage in similar factual situations. The rationale for recognizing as valid the asserted exclusion of coverage is to prevent liability for \u201cinside jobs\u201d and to protect the insurer from fraud. 10 Couch on Insurance, \u00a7 42:129 (2d Ed. 1962). The cases are uniform in holding that where there are no visible marks or signs of force or violence at the place of entry or at the place of exit, then the unambiguous exclusionary language is controlling. Artress v. State Farm Fire and Casulaty Co., 221 Tenn. 636, 429 S.W. 2d 430 (1968), Leeds, Inc. v. Aetna Casualty and S. Co., 40 F. Supp. 966 (D.C. Md. 1941), Gray v. Great Central Ins. Co. of Peoria, 4 Ill. App. 3d 1084, 283 N.E. 2d 261 (1972), Clemmons v. Glens Falls Ins. Co., 2 N. C. App. 479, 163 S.E. 2d 425 (1968), Lacombe v. Zurich Ins. Co., 210 So. 2d 338 (La. App. 1968), Rauworth v. Commercial Ins. Co., 24 Ill. App. 2d 16, 163 N.E. 2d 846 (1959), and Lee v. Preferred Acci. Ins. Co., 216 App. Div. 453, 215 N.Y.S. 366 (1926). We cannot give to such unambiguous language an unnatural meaning. Cf., Citizens' National Bank v. Union Indemnity Company, 158 Ark. 398, 250 S.W. 329 (1923), where we held that no coverage existed when a safe was not time locked as required by the policy although it was locked by a combination lock. In the instant case since the theft was committed by stealth rather than by force or violence at the place of entry or exit, the plain and unambiguous requirements of the policy were not met and we cannot command coverage. Neither can we agree with appellee\u2019s contention that appellant\u2019s motion for a directed verdict at the close of appellee\u2019s evidence was waived when appellant\u2019 put on evidence and failed to renew the motion after his evidence. Appellee cites the correct rule for jury trials. Price v. Daugherty, 253 Ark. 421, 486 S.W. 2d 528 (1972), McGehee Hatchery v. Rebecca Reed et al. 248 Ark. 104, 450 S.W. 2d 5 (1970), and Granite Mountain Rest Home v. Schwarz, Adm'r, 236 Ark. 46, 364 S.W. 2d 306 (1963). However, in the case at bar we are not dealing with a jury trial. We do not require a renewal of a motion for directed verdict at the close of defendant\u2019s case in a trial where the judge is the finder of fact. Such procedure would be no more than a \u201cuseless gesture.\u201d Manhatten Credit Co., Inc. v. Brewer, 232 Ark. 976, 341 S.W. 2d 765 (1961). Reversed and dismissed. ",
+            "ocr": true,
+            "opinion_id": 7819466
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Robbery"
+}

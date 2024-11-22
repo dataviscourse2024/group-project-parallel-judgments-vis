@@ -1,0 +1,46 @@
+{
+    "id": 7755801,
+    "judges": "Booth, Miner, Webster",
+    "date_filed": 820108800000,
+    "date_filed_is_approximate": false,
+    "slug": "cbh-v-state",
+    "case_name_short": "C.B.H.",
+    "case_name": "C.B.H. v. State",
+    "case_name_full": "C.B.H., a child v. STATE of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender, and P. Douglas Brinkmeyer, Assistant Public Defender, Tallahassee, for Appellant., Robert A Butterworth, Attorney General, and Richard Parker, Assistant Attorney General, Department of Legal Affairs, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "665 So. 2d 356"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAppellant C.B.H. appeals an order of the trial court adjudicating him delinquent *357for burglary of a dwelling in violation of section 810.02(3), Florida Statutes. We reverse, holding that the trial court erred in denying C.B.H.\u2019s motion for judgment of acquittal where the State failed to present evidence inconsistent with C.B.H.\u2019s theory of events. State v. Law, 559 So.2d 187, 189 (Fla.1989). Under the scant evidence presented by the State, it would take several inferences to meet the essential elements of the crime charged. It is well settled that a criminal conviction cannot be based entirely on a series of inferences. Lee v. State, 640 So.2d 126, 127 (Fla. 1st DCA 1994) (citing Weeks v. State, 492 So.2d 719 (Fla. 1st DCA 1986), rev. dismissed, 503 So.2d 328 (Fla.1987)).\nAccordingly, the order of adjudication is REVERSED and REMANDED with directions to dismiss the charge.\nBOOTH, MINER and WEBSTER, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7693169
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

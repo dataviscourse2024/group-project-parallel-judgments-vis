@@ -1,0 +1,46 @@
+{
+    "id": 7745638,
+    "judges": "Diamantis, Sharp, Thompson",
+    "date_filed": 774835200000,
+    "date_filed_is_approximate": false,
+    "slug": "english-v-state",
+    "case_name_short": "English",
+    "case_name": "English v. State",
+    "case_name_full": "Solomon ENGLISH v. STATE of Florida",
+    "attorneys": "Solomon English, pro se., Robert A. Butterworth, Atty. Gen., Tallahassee and Belle B. Turner, Asst. Atty. Gen., Daytona Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Sept. 2, 1994.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "641 So. 2d 914"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nSolomon English appeals the trial court\u2019s summary denial of his rule 3.850 motion for postconviction relief, which raises a total of fourteen grounds. We affirm the court\u2019s denial of English\u2019s motion except with regard to one of the grounds that he has raised.\nEnglish in his motion alleges that his judgment for 90-1346-CFM, a conviction for attempted armed robbery, was incorrectly listed as a first-degree felony instead of a second-degree felony. However, the trial court\u2019s order summarily denied English\u2019s motion without including as an attachment a copy of the judgment conclusively demonstrating that he is not entitled to relief. See Fla.R.App.P. 9.140(g). Therefore, we reverse and remand to the trial court for it either to attach the judgment in lower court ease number 90-1346-CFM to refute English\u2019s claim or to correct the scrivener\u2019s error if his claim is true. See, e.g., Small v. State, 624 So.2d 417 (Fla. 5th DCA 1993). English need not be present for this purpose.\nAFFIRMED in part; REVERSED in part and REMANDED for proceedings consistent herewith.\nW. SHARP, DIAMANTIS and THOMPSON, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7682327
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

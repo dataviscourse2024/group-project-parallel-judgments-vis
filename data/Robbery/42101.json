@@ -1,0 +1,46 @@
+{
+    "id": 7761230,
+    "judges": "Cope, Jorgenson, Nesbitt",
+    "date_filed": 839376000000,
+    "date_filed_is_approximate": false,
+    "slug": "ferguson-v-state",
+    "case_name_short": "Ferguson",
+    "case_name": "Ferguson v. State",
+    "case_name_full": "Anthony FERGUSON v. The STATE of Florida",
+    "attorneys": "Anthony Ferguson, in pro per., Robert A. Butterworth, Attorney General, and Keith S. Kromash, Assistant Attorney General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "677 So. 2d 968"
+    ],
+    "opinions": [
+        {
+            "author_str": "Cope",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCOPE, Judge.\nAnthony Ferguson appeals an order denying his motion for posteonviction relief. We affirm.\nDefendant-appellant Ferguson pled guilty in circuit court case no. 94-38294 and three other cases1 in exchange for agreed concurrent sentences. In case no. 94-38294 the court imposed an agreed sentence of 20 years as a habitual offender.\nDefendant filed a motion for postcon-viction relief contending that he was not advised that the habitual offender adjudication would result in prohibition of eligibility for *969basic gain time and early release. In substance defendant claims that the plea colloquy did not conform to the requirements of Ashley v. State, 614 So.2d 486 (Fla.1993). We conclude that defendant is entitled to no relief on this point.\nFor offenses committed on or after January 1, 1994, the legislature has abolished basic gain time. See \u00a7 944.275(4)(a), (6)(a), Fla. Stat. (1993). For offenses committed on or after January 1, 1994, inmates may earn incentive gain time, but will no longer be given automatic grants of basic gain time. Id. \u00a7 944.275(4)(b)-(c), (6)(b). The date of defendant\u2019s crime in circuit court ho. 94-38294 was October 22, 1994.2 Consequently, \u2022 defendant was not eligible for basic gain time under any circumstances. Adjudicating defendant a habitual offender made no difference.3\nDefendant also complains in essence that the habitual offender adjudication adversely affected his eligibility for the control release program. We disagree. The 1993 version of the habitual offender statute is applicable to defendant. The statute states in part, \u201cThe provisions of s. 947.146 [the control release program] shall be applied to persons sentenced as habitual offenders under paragraph (l)(a), but shall not be applied to persons sentenced as habitual violent felony offenders under paragraph (l)(b).\u201d Id. \u00a7 775.084(4)(e) (emphasis added). Defendant was sentenced as a habitual offender under paragraph (l)(a) of the statute. Id. \u00a7 775.084(l)(a). Consequently defendant\u2019s adjudication as a habitual offender did not exclude him from the control release program.4\nDefendant claims that he was promised a furlough as part of his plea agreement. The record conclusively shows that there was no such promise.\nDefendant claims that his trial attorney was ineffective for failing to meet with a specifically identified alibi witness who, according to defendant, would testify that defendant was with her at the time of the charged crime. In the first place, the plea colloquy shows that the state summarized the facts of the crimes with which defendant was charged. Thereafter the colloquy reflects the following:\nTHE COURT: Mr. Ferguson, you are entering a guilty plea to these charges. That means you are admitting those facts are true, understand?\nTHE DEFENDANT: Yes, sir.\nHaving admitted to committing the charged crimes in open court, it is too late now for the defendant to say otherwise. Furthermore, the file also contains the affidavit of violation of probation filed in two of the companion cases for which defendant was already on probation.5 The affidavit, to which defendant *970also pled guilty, states in part that defendant\u2019s fingerprint was found in the vehicle that was the subject of the armed burglary charged in circuit court case no. 94-38294. Further, the affidavit reveals that the defendant provided a taped confession of his participation in the armed robbery charged in that case. Defendant\u2019s claim of ineffective assistance of counsel is conclusively refuted by the record. See Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).6\nAffirmed.\n\n. Circuit court case nos. 94-1013, 94-21135, and 94-38295.\n\n\n. The offense dates in all four cases were after January 1, 1994.\n\n\n. The state points out that in State v. Will, 645 So.2d 91 (Fla. 3d DCA 1994), this court expressed uncertainty about whether the Ashley decision required loss of eligibility for basic gain time to be covered in a habitual offender plea colloquy. Id. at 94. In light of the Florida Supreme Court\u2019s later decision in State v. Blackwell, 661 So.2d 282 (Fla.1995), it is now clear that loss of eligibility for basic gain time is an issue to be covered, id. at 283, if defendant would otherwise be eligible for basic gain time. As illustrated by the present case, however, loss of eligibility for basic gain time need not be covered for offenses committed on or after January 1, 1994, because there would be no basic gain time in any event.\n\n\n. The state points out that, owing to an increase in Florida prison capacity, the Control Release Authority ceased making early releases effective December 8, 1994. Letter from Judith A. Wol-son, Chairman, Florida Parole Commission, to Governor Lawton Chiles, Dec. 15, 1994. Control release is an early release program which is designed to keep the state prison system within its lawful maximum capacity. \u00a7 947.146(2), Fla. Stat. According to the letter of Chairman Wol-son, the Control Release Authority will continue to monitor the prison population and perform other appropriate functions under section 947.146.\n\"Effective July 1, 1996, all control release dates established prior to such date become void and no inmate shall be eligible for release under any previously established control release date.\u201d Ch. 96-422, \u00a7 19, Laws of Fla., amending \u00a7 947.16, Fla. Stat. Control release will be reactivated if the state correctional system is projected to exceed 99 percent of its total capacity. Id.\n\n\n.Defendant was on probation in circuit court case nos. 94-1013 and 94-21135.\n\n\n. Given that there is no basis for relief, we need not address the fact that defendant entered a package plea agreement for concurrent sentences in four cases, but is only seeking to withdraw from the agreement in one of the four cases.\n\n",
+            "ocr": true,
+            "opinion_id": 7698959
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7610619,
+    "judges": "Chehardy, Du, Fresne, Gaudin",
+    "date_filed": 482371200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-stewart",
+    "case_name_short": "Stewart",
+    "case_name": "State v. Stewart",
+    "case_name_full": "STATE of Louisiana v. Raff STEWART",
+    "attorneys": "John M. Mamoulides, Dist. Atty., James Maxwell, Dorothy A. Pendergast, Asst. Dist. Attys., Gretna, for plaintiff-appellee., John H. Craft, Staff Appellate Counsel, Indigent Defender Bd., Gretna, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "468 So. 2d 32"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gaudin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGAUDIN, Judge.\nRaff Stewart was convicted of theft of merchandise valued at $114.95 and sentenced to two years in the Jefferson Parish prison, the statutorily allowed maximum sentence. He contends, on appeal, that the sentence was excessive.\nWhen the two-year sentence was imposed in the 24th Judicial District Court, the trial judge said:\n\u201cAll right, stand up Mr. Stewart. You are before me to be sentenced relative to the crime of theft of merchandise valued at $114.95. While this is not a monumental offense, it is a shoplifting charge and you come before me having prior convictions to wit: armed robbery.\n\u201cI don\u2019t feel that you should be given any consideration ...\u201d\nSteward does not suggest that he does not have a prior armed robbery conviction. He only argues that he should not have received the maximum for the instant crime.\nWe agree with appellant in that the trial judge did not at length discuss the sentencing guidelines of LSA-C.Cr.P. art. 894.1. However, merely pointing out that Stewart was a second felony offender was sufficient justification for the two-year parish prison sentence, particularly if the first conviction was for armed robbery.\nIf there was a substantial possibility that the trial judge abused his considerable sentencing discretion, we would remand for a more articulate compliance with Art. 894.1. Stewart\u2019s brief does not point out any particular factors indicating why the sentence might have been excessive nor does it (the brief) present any reasons why appellant should have been given favorable consideration by the trial judge.\nAccordingly, we affirm the two-year parish prison sentence imposed in this case.\nAFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 7541303
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

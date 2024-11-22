@@ -1,0 +1,46 @@
+{
+    "id": 230357,
+    "judges": "Bratton, Murrah, Phillips",
+    "date_filed": -542592000000,
+    "date_filed_is_approximate": false,
+    "slug": "myers-v-hunter",
+    "case_name_short": "Myers",
+    "case_name": "Myers v. Hunter",
+    "case_name_full": "Myers v. Hunter",
+    "attorneys": "Irving P. Andrews, Denver, Colo., for appellant., Eugene W. Davis and Ernest J. Rice, Topeka, Kan., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 5,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties data-order=\"0\" data-type=\"parties\" id=\"b710-8\">\n    MYERS v. HUNTER.\n   </parties><br><docketnumber data-order=\"1\" data-type=\"docketnumber\" id=\"b710-9\">\n    No. 4514.\n   </docketnumber><br><court data-order=\"2\" data-type=\"court\" id=\"b710-10\">\n    United States Court of Appeals Tenth Circuit.\n   </court><br><decisiondate data-order=\"3\" data-type=\"decisiondate\" id=\"b710-11\">\n    Oct. 22, 1952.\n   </decisiondate><br><attorneys data-order=\"4\" data-type=\"attorneys\" id=\"b710-16\">\n    Irving P. Andrews, Denver, Colo., for appellant.\n   </attorneys><br><attorneys data-order=\"5\" data-type=\"attorneys\" id=\"b710-17\">\n    Eugene W. Davis and Ernest J. Rice, Topeka, Kan., for appellee.\n   </attorneys><br><p data-order=\"6\" data-type=\"judges\" id=\"b711-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"663\"> \n     *663\n     </span>\n    Before PHILLIPS, Chief Judge, and BRATTON and MURRAH, Circuit Judges.\n   </p>",
+    "citations": [
+        "199 F.2d 662"
+    ],
+    "opinions": [
+        {
+            "author_str": "Murrah",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F2/199/199.F2d.662.4514.html",
+            "author_id": null,
+            "opinion_text": "199 F.2d 662\n    MYERS,v.HUNTER.\n    No. 4514.\n    United States Court of Appeals Tenth Circuit.\n    Oct. 22, 1952.\n    \n      Irving P. Andres, Denver, Colo., for appellant.\n      Eugene W. Davis and Ernest J. Rice, Topeka, Kan., for appellee.\n      Before PHILLIPS, Chief Judge, and BRATTON and MURRAH, Circuit Judges.\n      MURRAH, Circuit Judge.\n    \n    \n      1\n      By this petition to the District Court of Kansas for writ of habeas corpus, the petitioner challenges the validity of his detention by respondent under a parole violator's warrant.  This appeal is from a denial of the writ.  The hearing in the District Court developed the following facts.\n    \n    \n      2\n      On October 12, 1936, the petitioner was sentenced in the District Court for the Northern District of Texas for a term of twenty-five years on an indictment charging attempted bank robbery.  After an appeal, see Meyers v. United States, 5 Cir., 116 F.2d 601, the petitioner was resentenced on April 14, 1941, to a term of fifteen years.  On July 20, 1949, the petitioner having served his term less good time deductions, was conditionally released and immediately taken into custody by the State of Texas.  He was released from Texas custody on February 4, 1950.  Thereafter the petitioner was arrested on a conditional release violator's warrant and remanded to the custody of respondent on September 9, 1950, to serve the unexpired sentence, which with good time allowance, will now expire on July 16, 1955.\n    \n    \n      3\n      The petitioner's contention in the trial court and here is to the effect that when the federal authorities turned him over to the state government, it thereby relinquished all jurisdiction over him under the feral parole laws, and could not thereafter reacquire jurisdiction to revoke his parole and commit him to custody under the original sentence.\n    \n    \n      4\n      Section 4164, Title 18 U.S.C. provides in substance that a prisoner released from custody, less good time deductions, shall 'be treated as if released on parole, and shall be subject to all provisions of law relating to the parole of United States prisoners until the expiration of the maximum term or terms for which he was sentenced.'  And, it further provides that 'This section shall not prevent delivery of a prisoner to the authorities of any State otherwise entitled to his custody.'\n    \n    \n      5\n      In conformity with that statute, we have held that 'either the Federal or the state government may voluntarily surrender its prisoner to the other without the consent of the prisoner.  Whether jurisdiction and custody of a prisoner shall be retained or surrendered depends wholly on the practice of comity between the two sovereigns.'  And if, while under a conditional release from the United States Board of Parole, a releasee or parolee is sentenced to a state institution, his confinement in the state institution is attributable solely to the state sentence, and 'his rights and status with respect to the Federal sentence are analogous to those of an escaped convict * * * .'  Vanderpool v. Hunter, 10 Cir., 177 F.2d 716, 717.  See also Gould v. Sanford, 5 Cir., 167 F.2d 877.  Cf. Rawls v. United States, 10 Cir., 166 F.2d 532.\n    \n    \n      6\n      The judgment is affirmed.\n    \n    ",
+            "ocr": false,
+            "opinion_id": 230357
+        }
+    ],
+    "court_short_name": "Tenth Circuit",
+    "court_full_name": "Court of Appeals for the Tenth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

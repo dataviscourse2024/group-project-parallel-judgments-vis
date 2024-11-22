@@ -1,0 +1,46 @@
+{
+    "id": 7630456,
+    "judges": "Danahy, Lehan, Schoonover",
+    "date_filed": 566611200000,
+    "date_filed_is_approximate": false,
+    "slug": "norton-v-state",
+    "case_name_short": "Norton",
+    "case_name": "Norton v. State",
+    "case_name_full": "Rufus NORTON v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, Bartow, and Allyn Giambalvo, Asst. Public Defender, Clearwater, for appellant., Robert A. Butterworth, Atty. Gen., Tallahassee, and Robert J. Landry, Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "516 So. 2d 1078"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lehan",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nLEHAN, Judge.\nDefendant appeals from the trial court\u2019s denial of defendant\u2019s motion for a new trial, contending that reversible error occurred when during the jury\u2019s deliberations the court communicated with the jury without the presence of, or notice to, defense counsel. We affirm.\nDefendant was being tried on charges of burglary and aggravated assault. During the jury\u2019s deliberations the jury advised the trial judge, through the bailiff, that the jury had a question regarding the burglary charge. The nature of the question was not given. The judge responded, through the bailiff, that the jury would have to rely upon its memory. No record was made of either communication. The jury returned a verdict of not guilty on the burglary charge and guilty on the aggravated assault charge.\nThe communications having concerned the burglary charge on which defendant was found not guilty, we conclude that the error in communicating with the jury without the presence of, or notice to, defense counsel was harmless. We do not conclude that Williams v. State, 488 So.2d 62 (Fla.1986), which involved a trial on only one charge of which defendant was convicted, requires otherwise. Cf. Hitchcock v. State, 413 So.2d 741 (Fla.), cert. denied, 459 U.S. 960, 103 S.Ct. 274, 74 L.Ed.2d 213 (1982).\nAffirmed.\nDANAHY, C.J., and SCHOONOVER, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7562531
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

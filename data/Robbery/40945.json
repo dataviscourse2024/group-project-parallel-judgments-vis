@@ -1,0 +1,46 @@
+{
+    "id": 7528507,
+    "judges": "Chasez, Samuel, Stoulig",
+    "date_filed": 92361600000,
+    "date_filed_is_approximate": false,
+    "slug": "firemans-fund-american-insurance-v-airport-parking-co",
+    "case_name_short": null,
+    "case_name": "Fireman's Fund American Insurance v. Airport Parking Co.",
+    "case_name_full": "FIREMAN'S FUND AMERICAN INSURANCE COMPANIES v. AIRPORT PARKING COMPANY and Zurich Insurance Company",
+    "attorneys": "Montgomery, Barnett, Brown & Read, Daniel Lund, New Orleans, for Airport Parking Co. and Zurich Ins. Co., Dillon & Williams, C. T. Williams, Jr., New Orleans, for Fireman\u2019s Fund American Ins. Co.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Jan. 15, 1973.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "270 So. 2d 889"
+    ],
+    "opinions": [
+        {
+            "author_str": "Chasez",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCHASEZ, Judge.\nThis is a suit by plaintiff, Fireman\u2019s Fund American Insurance Companies, as a party in subrogation, to recover the value of an automobile allegedly stolen from plaintiff\u2019s insured while the vehicle was parked in the long term parking facility at New Orleans International Airport (Mois-ant). Defendant, APCOA Division, ITT Consumer Services Corporation1 (hereinafter referred to as APCOA) operates the parking facility in question. The Zurich Insurance Company is the general liability insurer of APCOA.\nPlaintiff\u2019s claim was subsequently dismissed on a Motion for Summary Judgment. From this adverse judgment plaintiff perfected this appeal.\nEssentially, plaintiff, by original petition, presents two causes of action against the defendant for recovery of the value of the stolen automobile. The first cause of action is based on a relationship of bailor and bailee existing between the defendant parking facility and William Carter, the plaintiff\u2019s insured. The correctness of the Summary Judgment on the theory of bailment and compensated deposit is not contested by the plaintiff in light of this court\u2019s decision in St. Paul Fire &amp; Marine Ins. Co. v. Zurich Insurance Co., 250 So.2d 451 (La.App., 4th Cir., 1971). Accordingly, this issue is treated as abandoned, there being no argument thereon before this court.\nThe second cause of action asserted by the plaintiff is based on the allegation of negligence by APCOA causing the loss of the vehicle. Plaintiff urges that it is entitled to prove its claim on the theory of negligence and the existence of material issues of fact. Specifically, plaintiff in its original petition alleges the following acts of negligence.\n\u201c1) Failing to properly protect the vehicles parked in its lot;\n2) Failing to detect the fact that the vehicle was being stolen from the parking lot;\n3) Failing to provide sufficient personnel to avoid theft in the parking lot.\u201d\nA summary judgment cannot be granted unless there is no genuine issue as to a material fact and the mover is entitled to judgment as a matter of law. LSA-C. C.P. Article 966. Additionally the mover for a summary judgment carries the burden of establishing that there is no material factual issue involved. Louisiana Materials Company v. Turcich, 256 So.2d 719 (LaApp., 4th Cir., 1972).\nThe question of negligence by acts of commission or omission are questions of *891fact which cannot be determined without a trial on the merits. If the facts surrounding the alleged negligence are uncontro-verted, then summary judgment may lie, but where there are allegations of negligence which are neither proved nor disproved by any attendant facts, then summary judgment is not proper.\nIn the present case defendant\u2019s affidavit and ancillary documents in support of the motion for summary judgment do not negate the allegations of negligence as asserted by the plaintiff in his petition and opposition to the summary judgment. We are therefore convinced that remand of this case is necessary to determine material factual issues of negligence which dictate trial on the merits.\nFor the above and foregoing reasons the Summary Judgment of the lower court is reversed in part and affirmed in part with the case remanded for trial on the merits relative to the issue of negligence.\nReversed in part, affirmed in part and remanded.\n\n. By supplemental and amending petition plaintiff\u2019s original petition was changed to reflect the correct name of the defendant.\n\n",
+            "ocr": true,
+            "opinion_id": 7452836
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7752004,
+    "judges": "Benton, Ervin, Miner",
+    "date_filed": 803865600000,
+    "date_filed_is_approximate": false,
+    "slug": "pare-v-state",
+    "case_name_short": "Pare",
+    "case_name": "Pare v. State",
+    "case_name_full": "Bernard R. PARE v. STATE of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender, Erika L. Esan, Certified Legal Intern, Tallahassee, for appellant., Robert A. Butterworth, Atty. Gen., Sonya Roebuck Horbelt, Asst. Atty. Gen., Tallahassee, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "656 So. 2d 602"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nBernard R. Pare appeals his conviction for grand theft, claiming that the trial court erred in excluding certain proffered testimony. We reverse and remand for a new trial.\nPare was charged, by information filed November 5,1993, with one count of grand theft pursuant to section 812.014, Florida Statutes. At trial, the state called Larry Cliett who testified that Pare worked for him in August of 1993, that he (Cliett) signed two blank checks, but did not fill out any other portions, and that he left them both with Pare one day with directions that they be used to pay C.O.D. charges. The parties stipulated that Pare cashed the two signed checks, one for $600 and one for $400, and kept the proceeds.\nCliett testified that he never authorized Pare to cash the two checks and retain the proceeds, and that he never owed Pare as much as $1,000. Called as a witness on his own behalf, Pare testified * that Cliett owed him $1,877 when he and Cliett agreed (after delivery of the blank checks) to settle the debt by Pare\u2019s cashing the two checks (on different days, so funds would be available) for a total of $1,000.\nThe defense proffered the testimony of Mike Strauss who was in charge of the payroll at the company where Cliett and Pare worked. Strauss\u2019 proffered testimony pertained to how employees were paid, Cliett\u2019s memory problems, and Cliett\u2019s reputation in the community for truthfulness and honesty. Strauss also testified on proffer that Cliett owed Pare money. He further testified:\nQ. Did Larry pay [Pare]?\nA. To my knowledge, no.\n[[Image here]]\nQ. But did you have an opportunity to know that Mr. Pare was not paid for the shelving?\nA. Yes.\nThe trial court ruled that Strauss could testify about Cliett\u2019s memory problems and Cliett\u2019s reputation for being truthful and honest, but excluded the remainder of the proffer. The trial court specifically stated:\nTHE COURT: Whether or not [Pare] was owed money has absolutely nothing to do with it. The question is whether or not he was told that he could use those checks.\n[[Image here]]\nTHE COURT: It\u2019s the writing of the checks that is critical, not the owing of money.\nThe jury found Pare guilty as charged and he was sentenced to three years\u2019 probation, *604the first year to be served in the Bay County jail.\n\u201cRelevant evidence is evidence tending to prove or disprove a material fact.\u201d \u00a7 90.401, Fla.Stat. (1993). Whether or not Cliett owed Pare money was relevant to Pare\u2019s defense because, unless the jury found there was a debt, Pare\u2019s testimony that Cliett agreed to settle the debt by authorizing Pare to cash the checks and retain the proceeds was not credible. Strauss\u2019 testimony that he knew Pare was not paid for some work Pare had done corroborated the defense claim \u2014 denied by Cliett \u2014 that Cliett owed Pare money. The exclusion of this portion of Strauss\u2019 testimony was error. \u201c[Wjhere evidence tends in any way, even indirectly, to establish a reasonable doubt of defendant\u2019s guilt, it is error to deny its admission.\u201d Rivera v. State, 561 So.2d 536, 539 (Fla.1990). We cannot say the error was harmless because the jury had to decide whether to believe Cliett\u2019s or Pare\u2019s version of events. We find no error in the exclusion of the other proffered evidence.\nAccordingly, we reverse and remand for a new trial.\nERVIN, MINER, and BENTON, JJ., concur.\n\n On cross examination, the prosecutor approached Pare to review notes Pare was referring to. Pare's trial counsel objected and the trial judge overruled the objection.\nOn appeal, Pare argues that the trial judge erred in permitting the prosecutor to examine Pare\u2019s notes. We find no error with respect to this issue.\nWhen a witness uses a writing or other item to refresh his memory while testifying, an adverse party is entitled to have such writing or other item produced at the hearing, to inspect it, to cross-examine the witness thereon, and to introduce it, or, in the case of a writing, to introduce those portions which relate to the testimony of the witness, in evidence.\n\u00a7 90.613, Fla.Stat. (1993). \"A defendant who takes the stand as a witness in his own behalf occupies the same status as any other witness, and all the rules applicable to other witnesses are likewise applicable to him.\u201d Booker v. State, 397 So.2d 910, 914 (Fla.1981).\n\n",
+            "ocr": true,
+            "opinion_id": 7689133
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

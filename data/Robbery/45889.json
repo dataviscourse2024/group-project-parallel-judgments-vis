@@ -1,0 +1,47 @@
+{
+    "id": 8536640,
+    "judges": "Henry, Marvin, Winch",
+    "date_filed": -1979164800000,
+    "date_filed_is_approximate": true,
+    "slug": "hughes-v-crawford",
+    "case_name_short": "Hughes",
+    "case_name": "Hughes v. Crawford",
+    "case_name_full": "Edmund Hughes v. Leonard W. Crawford",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": "<p>INNKEEPERS.</p> <p>Mutual Liability of Boardinghouse Keeper for Property of Boarder.</p> <p>A boarder, as well as his boardinghouse keeper, is required to exercise ordinary care of property left in his room which may attract thieves. ' \u2022</p> <p>[Syllabus by the court.]</p>",
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "26 Ohio C.C. Dec. 578",
+        "16 Ohio C.C. (n.s.) 230"
+    ],
+    "opinions": [
+        {
+            "author_str": "Winch",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWINCH, J.\nPlaintiff was a boarder in the house of defendant, who kept a few boarders. One morning plaintiff left his watch in his room and his purse with some money in it in his clothes hanging up in his closet, and went to his work.\nThere was no lock on the door of plaintiff\u2019s room.\nSometime that day another man applied for board and was assigned a room near plaintiff\u2019s in which he remained several hours. A lady member of the family having occasion to use the new boarder\u2019s room, asked him to.step into plaintiff\u2019s room *579temporarily, which he did, afterwards leaving the house and never returning. \"When plaintiff came home at night his watch and purse were gone. He brought his action against the boarding house keeper to recover their value. The trial judge directed a verdict for the defendant and the case is now here for review.\nConceding that boardinghouse keepers are bound to exercise ordinary care of the property of boarders left in their rooms of which the former have a certain supervision ahd control, and that the degree of ordinary care is not that degree of care as is demanded of an ordinarily prudent man under similar circumstances, there.was enough evidence in this case to go to the jury, unless the plaintiff himself was so careless and negligent regarding his own property, that a verdict was rightly directly against him.\nOn this point it appears that plaintiff knew that defendant was accustomed to admit strangers to his house as boarders without inquiry concerning them, for he had been so admitted himself. He knew there was no lock on his door; he knew the family and others in the house could and did make some use of his, room, or at least, had free access to his room. Knowing all this he deliberately left his watch in plain view in his room, and this, the evidence shows, he was accustomed to do. Leaving such small objects of value in plain sight, unprotected, we think was not such care of his own property as plaintiff should have taken of it. It created a temptation of theft.\nAs there was no evidence in the case tending to show that any member of,defendant\u2019s family took the watch and purse, we think the judgment was properly against the plaintiff and it is affirmed.\nMarvin and Henry, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 8509200
+        }
+    ],
+    "court_short_name": "Cuyahoga Circuit Court",
+    "court_full_name": "Cuyahoga Circuit Court",
+    "court_type": "ST",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Robbery"
+}

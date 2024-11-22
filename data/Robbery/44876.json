@@ -1,0 +1,47 @@
+{
+    "id": 8326052,
+    "judges": "Burnett, Finney, Moore, Toal, Waller",
+    "date_filed": 900892800000,
+    "date_filed_is_approximate": false,
+    "slug": "phillips-v-state",
+    "case_name_short": "Phillips",
+    "case_name": "Phillips v. State",
+    "case_name_full": "Ronnie L. PHILLIPS v. STATE of South Carolina",
+    "attorneys": "Attorney General Charles M. Condon, Deputy Attorney General John W. McIntosh, and Assistant Deputy Attorney General Teresa A. Knox, Columbia, for petitioner., Wanda H. Haile, of South Carolina Office of Appellate Defense, Columbia, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted May 27, 1998., Refiled Aug. 17, 1996., Rehearing Denied Aug. 27, 1998.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "331 S.C. 482",
+        "504 S.E.2d 111"
+    ],
+    "opinions": [
+        {
+            "author_str": "Finney",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER\nIt is ordered that the opinion heretofore filed in this case, Opinion No. 24820, filed July 20, 1998, be withdrawn and the attached opinion substituted.\nAND IT IS SO ORDERED.\n/s/ Ernest A. Finney, Jr,, C.J.\nFor the Court\nBURNETT, J., not participating.\nON WRIT OF CERTIORARI\nFINNEY, Chief Justice:\nIn this post-conviction relief (PCR) action, the circuit court granted respondent relief, finding the application of a statute denying respondent parole eligibility violated his ex post facto rights. The Court granted the State\u2019s petition for a writ of certiorari. We reverse.\nIn 1986 and 1987, respondent committed numerous crimes, including first degree burglaries. He ultimately pled guilty in 1987 to several charges, including four counts of first degree burglary, all committed after June 3, 1986. Respondent had a 1982 conviction for armed robbery. The Legislature enacted South Carolina Code Ann. \u00a7 16-1-60, which took effect June 3, 1986. Under this statute, both first degree burglary and armed robbery were defined as violent crimes. The parole eligibility statute denied parole to those \u201cserving a sentence for a second or subsequent conviction, for violent crimes.....\u201d S.C.Code Ann. \u00a7 24-21-640 (Supp.1997).1\n*484Respondent brought this PCR action, alleging his ex post facto rights were violated when, as the result of the enactment of \u00a7 16-1-60, his 1982 armed robbery conviction was used to deny him parole eligibility on his 1987 burglary pleas.2 It is not a violation of the ex post facto clause for the legislature to enhance punishment for a later offense based on a prior conviction, even though the enhancement provision was not in effect at the time of the prior offense. State v. Dabney, 301 S.C. 271, 391 S.E.2d 563 (1990). Accordingly, the order granting respondent post-conviction relief is\nREVERSED.\nTOAL, MOORE and WALLER, JJ., concur.\nBURNETT, J., not participating.\n\n. The relevant language has not been altered in the statutory amendments made between 1986 and 1997.\n\n\n. We note that between 1993 and 1995, \u00a7 16-1-60 was amended to provide it had prospective effect only. We express no opinion on the impact of this language on persons committing offenses during this period.\n\n",
+            "ocr": true,
+            "opinion_id": 8293539
+        }
+    ],
+    "court_short_name": "Supreme Court of South Carolina",
+    "court_full_name": "Supreme Court of South Carolina",
+    "court_type": "S",
+    "court_jurisdiction": "South Carolina, SC",
+    "crime_category": "Robbery"
+}

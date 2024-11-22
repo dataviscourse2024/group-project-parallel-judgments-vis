@@ -1,0 +1,46 @@
+{
+    "id": 7573679,
+    "judges": "Being, Calogero, Dennis, Grant, Theft, Under, Watson",
+    "date_filed": 320025600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-morman",
+    "case_name_short": "Morman",
+    "case_name": "State v. Morman",
+    "case_name_full": "STATE of Louisiana v. Alfredia MORMAN",
+    "attorneys": "William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Leon H. Whit-ten, Dist. Atty., George H. Meadors, Asst. Dist. Atty., for plaintiff-appellee.', Robert E. Piper, Jr., Piper & Brown, Shreveport, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "On Denial of Rehearing April 7, 1980.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "380 So. 2d 622"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAffirmed.\nCALOGERO, DENNIS and WATSON, JJ., dissent.\nCALOGERO &amp; DENNIS, J.J., would grant a rehearing.\nWATSON, J., would grant the rehearing, being of the opinion that defendant should have been sentenced under R.S. 14:27(D)(2) for attempted theft.\n",
+            "ocr": true,
+            "opinion_id": 7501671
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

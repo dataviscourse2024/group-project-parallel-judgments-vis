@@ -1,0 +1,46 @@
+{
+    "id": 8641744,
+    "judges": null,
+    "date_filed": 1182297600000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-gonzalez-corporan",
+    "case_name_short": "Gonzalez-Corporan",
+    "case_name": "United States v. Gonzalez-Corporan",
+    "case_name_full": "United States v. Ivan GONZALEZ-CORPORAN",
+    "attorneys": "Eric Johnson, AUSA FAX, Timothy S. Vasquez, Esq., USLV\u2014Office of the U.S. Attorney, Las Vegas, NV, for Plaintiff-Appellee., Mario Valencia, Henderson, NV, Beau Sterling, Esq., Sterling Law, LLC, Las Vegas, NV, for Defendant-Appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued and Submitted Feb. 13, 2007.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "234 F. App'x 700"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMEMORANDUM *\nThe district court did not err in determining that Gonzalez-Corporan was a career offender under U.S.S.G. \u00a7 4B1.1 (2002) due to two prior convictions in Puer-to Rico.\nIn sentencing Gonzalez-Corporan for his 1986 robbery conviction, the Puerto Rico trial court required him to serve 12 years in prison, making him ineligible for parole until August 1990. This parole date is within the applicable time period for purposes of U.S.S.G. \u00a7 4A1.2(e)(1) (2002). The district court correctly relied on the realities of the Puerto Rican parole system, see United States v. Saya, 247 F.3d 929, 939-40 (9th Cir.2001), and did not err in counting the 1986 conviction for enhancement purposes.\nGonzalez-Corporan\u2019s 1991 conviction was categorically a crime of violence. See Taylor v. United States, 495 U.S. 575, 110 S.Ct. 2143, 109 L.Ed.2d 607 (1990). As Gonzalez-Corporan concedes, courts in Puerto Rico apply Puerto Rico Laws Ann. tit. 33, \u00a7 4279 (1974) only to conduct that meets the definition of \u201ccrime of violence\u201d under U.S.S.G. \u00a7 4B1.2 (2002). See Gonzales v. Duenas-Alvarez, \u2014 U.S. -, 127 S.Ct. 815, 822, 166 L.Ed.2d 683 (2007). Nor is section 4279 over-inclusive. The phrase \u201cextenuating circumstances\u201d relates only to a possible reduction in a defendant\u2019s sentence, and does not indicate that a defendant could be convicted with*701out meeting all the elements of the statute. P.R. Laws Ann. tit. 33, \u00a7 4279 (1974).\nBecause the presentence investigation report detailed the facts of Gonzalez-Corporan\u2019s prior convictions, it is irrelevant that the prosecution failed to enter its sentencing memorandum, which sets forth the same facts, into evidence. The district court\u2019s failure to resolve Gonzalez-Corporan\u2019s objections to classifying his prior convictions as \u201ccrimes of violence\u201d was not a plain error, because Gonzalez-Corporan has not shown he was prejudiced by this alleged violation of Rule 32 of the Federal Rules of Criminal Procedure. See United States v. Olano, 507 U.S. 725, 735, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993).\nThe facts of Gonzalez-Corporan\u2019s prior convictions need not be submitted to a jury and proved beyond a reasonable doubt. United States v. Weiland, 420 F.3d 1062, 1079-80 &amp; n. 16 (9th Cir.2005).\nAFFIRMED.\n\n This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36-3.\n\n",
+            "ocr": true,
+            "opinion_id": 8621359
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

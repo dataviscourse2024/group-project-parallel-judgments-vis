@@ -1,0 +1,47 @@
+{
+    "id": 8027301,
+    "judges": "Knutson, Murphy, Otis, Peterson",
+    "date_filed": 69033600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-miller",
+    "case_name_short": null,
+    "case_name": "State v. Miller",
+    "case_name_full": "STATE v. CHARLES FRANCIS MILLER",
+    "attorneys": "C. Paul Jones, State Public Defender, and Kenneth F. Kirwin and Rosalie E. Wahl, Assistant State Public Defenders, for appellant., Warren Spannaus, Attorney General, George M. Scott, County Attorney, and Henry W. McCarr, Jr., and David G. Roston, Assistant County Attorneys, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "292 Minn. 509",
+        "195 N.W.2d 818"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nA jury found defendant guilty of attempted aggravated robbery of a filling station in Minneapolis. On this appeal from the judgment of conviction, defendant contends that the evidence was insufficient to support the verdict and that certain in-custody statements of defendant were inadmissible because they were, as a matter of law, involuntary. The voluntariness of defendant\u2019s inculpatory statements was, by any standard,1 sufficiently established, and the evidence of his guilt was overwhelming.\nAffirmed.\n\n In State v. Keiser, 274 Minn. 265, 143 N. W. 2d 75 (1966), we considered the widely varying judicial opinion as to whether, on the issue of voluntariness of a confession, the state must prove beyond a reasonable doubt, rather than by mere preponderance of the evidence, that the confession was voluntarily made. We concluded that the higher standard of proof was required. In so far as it is an issue under the United States Constitution, it has now been determined that it need be proved only by a preponderance of the evidence. Lego v. Twomey, 404 U. S. 477, 92 S. Ct. 619, 30 L. ed. 2d 618 (1972).\n\n",
+            "ocr": true,
+            "opinion_id": 7983244
+        }
+    ],
+    "court_short_name": "Supreme Court of Minnesota",
+    "court_full_name": "Supreme Court of Minnesota",
+    "court_type": "S",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

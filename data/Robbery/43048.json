@@ -1,0 +1,46 @@
+{
+    "id": 7959998,
+    "judges": null,
+    "date_filed": -227491200000,
+    "date_filed_is_approximate": false,
+    "slug": "fryson-v-state",
+    "case_name_short": "Fryson",
+    "case_name": "Fryson v. State",
+    "case_name_full": "FRYSON v. STATE",
+    "attorneys": "Morris Lee Kaplan, with whom was Michael Lee Kaplan on the brief, for the appellant., Russell R. Reno, Jr., Assistant Attorney General, with whom were Thomas B. Finan, Attorney General, Saul A. Harris, State\u2019s Attorney for Baltimore City, and Howard G. Reamer, Assistant State\u2019s Attorney, on the brief, for the appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "229 Md. 485"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nP\u00aer Curiam.\nAppellant was convicted by a jury of three armed robberies and of one robbery without the use of a weapon. All of the cases were tried together. He urges that the evidence was insufficient to go to the jury and insufficient to sustain a finding of guilt by the jury. There is no merit to the contentions. Each of the four cab drivers who was robbed picked appellant from a lineup, and identified him at the trial.\nAppellant\u2019s claim that the identifications at the lineups were vague and uncertain, attempted to be supported by his testimony and that of two men who had been in the lineup to that effect, was for the jury to weigh and decide, as was the truth of his alibi that on the night when two of the robberies occurred he had been at a party at the High Wide and Social Club. Appellant\u2019s contention that the evidence was insufficient actually amounts to a challenge to its weight and credibility and these are matters for the trier of fact and not this Court to pass on.\n\nJudgments affirmed.\n\n",
+            "ocr": true,
+            "opinion_id": 7911612
+        }
+    ],
+    "court_short_name": "Court of Appeals of Maryland",
+    "court_full_name": "Court of Appeals of Maryland",
+    "court_type": "S",
+    "court_jurisdiction": "Maryland, MD",
+    "crime_category": "Robbery"
+}

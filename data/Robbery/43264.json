@@ -1,0 +1,46 @@
+{
+    "id": 8003386,
+    "judges": "Burns, Fitzgerald, Holbrook",
+    "date_filed": 65318400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-evans",
+    "case_name_short": "Evans",
+    "case_name": "People v. Evans",
+    "case_name_full": "People v. Frederick Evans",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cahalan, Prosecuting Attorney, Dominick R. Garnovale, Chief, Appellate Department, and Patricia J. Boyle, Assistant Prosecuting Attorney, for the people., Thomas A. Maher, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Division 2 December 7, 1971, at Grand Rapids.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "38 Mich. App. 263"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMemorandum Opinion.\nDefendant was convicted by a jury of the offense of armed robbery, MCLA 750.529; MSA 28.797, and was sentenced to a term of 30 to 40 years. The people move to affirm.\nAn examination of the record and briefs discloses no prejudicial error.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7957534
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7987162,
+    "judges": "Grant, Other",
+    "date_filed": -2213136000000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-riede",
+    "case_name_short": "Riede",
+    "case_name": "People v. Riede",
+    "case_name_full": "PEOPLE v. RIEDE",
+    "attorneys": "Mains & Cavanagh, for appellant., Horace M. Oren, Attorney General, and Jesse M. Hatch, Prosecuting Attorney, for the people.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law \u2014 Alibi\u2014Impeachment of Witness.</p> <p>Upon a prosecution for robbery, committed about 10 o\u2019clock at night, respondent\u2019s sister testified that she was at home after 9 o\u2019clock on the evening in question, and that she knew that respondent was there from that time until a quarter to 11 o\u2019clock, when she went to bed. Without any foundation being laid for her impeachment, another witness was allowed to testify that she had told him that respondent was at home \u201call the evening.\u201d Held, that, though it was immaterial whether or not respondent was at home before 9 o\u2019clock or after a quarter to 11 o\u2019clock, it was prejudicial to permit a witness whose testimony was so material to respondent to be discredited before the jury by an unauthorized impeachment, and that, in the absence of an instruction to disregard the impeaching testimony, its reception was reversible error.</p>",
+    "summary": "Error to Calhoun; Smith, J. Joseph Riede was convicted of robbery, and sentenced to imprisonment in the state house of correction at Ionia for 10 years.",
+    "disposition": "Reversed.",
+    "history": null,
+    "other_dates": "Submitted October 26, 1899.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "121 Mich. 700"
+    ],
+    "opinions": [
+        {
+            "author_str": "Grant",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nGrant, C. J.\nRespondent was convicted of robbery from the person, being armed with a dangerous weapon. His co-respondent was one Cotie. The crime was committed about 10 o\u2019clock at night. The defense was an alibi,' \u2014 that the respondents were at the house of Mr. Riede\u2019s father at the time. Johanna Riede, sister of respondent, testified that she left the house after supper on the day the crime was committed, and returned about *7019 o\u2019clock; that respondent and Cotie also went down town after supper, and when she returned they were in the kitchen, playing cards; that she went to bed about a quarter to 11 o\u2019clock, and they were still there playing cards. She was asked no questions about a conversation with one Joseph Shoup. For the purpose of impeaching her testimony, Mr. Shoup was called, and testified that he asked her what time Joe was home, and that she replied \u201che was home all. the evening, playing cards.\u201d Counsel for the people concede the rule in regard to impeaching testimony of this character to be that the witness must first be interrogated as to the time, place, and the conversation. This rule was not complied with. The only reason .now urged to avoid the error is that it was immaterial, and did not prejudice the respondent. Her testimony was very material, for, if true, the respondent was not guilty. It was important for him that the rule in regard to impeachment be observed. It is true that the impeachment was upon an immateral matter, for it was of no consequence whether he was at home before 9 o\u2019clock, or whether she so stated. But the jury were not instructed to disregard Mr. Shoup\u2019s testimony, and may have thought it very material. They may possibly have found that she testified falsely on this point, and therefore have disregarded her testimony entirely. We cannot, therefore, say that it was error without prejudice.\nFor this error the conviction must be reversed, and a new trial ordered. We find no other error.\nThe other Justices concurred.\n",
+            "ocr": true,
+            "opinion_id": 7940310
+        }
+    ],
+    "court_short_name": "Michigan Supreme Court",
+    "court_full_name": "Michigan Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

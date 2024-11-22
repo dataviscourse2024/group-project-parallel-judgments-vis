@@ -1,0 +1,46 @@
+{
+    "id": 8069243,
+    "judges": "Davis, Harkin, Honzel, Review",
+    "date_filed": 554083200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-carey",
+    "case_name_short": "Carey",
+    "case_name": "State v. Carey",
+    "case_name_full": "STATE OF MONTANA v. GARY WAYNE CAREY",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "230 Mont. 21"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDECISION\nThe application of the above-named defendant for a review of the sentence for 2 Counts of Theft, 10 years on each count to be served concurrently; plus credit for 72 days served at the Missoula County Jail; $20.00 surcharge; Recommend Lighthouse Drug Program imposed on March 25,1987, was fully heard and after a careful consid*22eration of the entire matter it is decided that: the sentence shall remain the same as originally imposed.\nDATED this 24th day of July, 1987.\nWe wish to thank Amy Guth of the Montana Defender Project for her assistance to the Defendant and to this Court.\nSENTENCE REVIEW DIVISION\nFrank M. Davis, Chairman, Thomas Honzel, Douglas Harkin, Judges.\n",
+            "ocr": true,
+            "opinion_id": 8027663
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Robbery"
+}

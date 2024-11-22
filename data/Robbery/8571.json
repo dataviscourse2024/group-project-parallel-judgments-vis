@@ -1,0 +1,46 @@
+{
+    "id": 2589690,
+    "judges": "Fuld and Judges Scileppi, Bergen, Breitel, Jasen and Gibson Concur in Per Curiam Opinion Judge Burke Taking No Part",
+    "date_filed": 35683200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-la-brake",
+    "case_name_short": null,
+    "case_name": "People v. La Brake",
+    "case_name_full": "The People of the State of New York, Respondent, v. Floyd Harold La Brake, Appellant",
+    "attorneys": "William F. Maginn, Jr. for appellant., Owens D. Grogan, District Attorney, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued January 20, 1971;",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b661-3\">\n    The People of the State of New York, Respondent,\n    <em>\n     v.\n    </em>\n    Floyd Harold La Brake, Appellant.\n   </parties><br><otherdate id=\"b661-4\">\n    Argued January 20, 1971;\n   </otherdate><decisiondate id=\"A5R\">\n    decided February 18, 1971.\n   </decisiondate><br><attorneys id=\"b662-4\">\n<span citation-index=\"1\" class=\"star-pagination\" label=\"626\"> \n     *626\n     </span>\n<em>\n     William F. Maginn, Jr.\n    </em>\n    for appellant.\n   </attorneys><br><attorneys id=\"b662-5\">\n<em>\n     Owens D. Grogan, District Attorney,\n    </em>\n    for respondent.\n   </attorneys>",
+    "citations": [
+        "28 N.Y.2d 625"
+    ],
+    "opinions": [
+        {
+            "author_str": "Per Curiam",
+            "per_curiam": true,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n28 N.Y.2d 625 (1971)\nThe People of the State of New York, Respondent,\nv.\nFloyd Harold La Brake, Appellant.\nCourt of Appeals of the State of New York.\nArgued January 20, 1971.\nDecided February 18, 1971.\nWilliam F. Maginn, Jr. for appellant.\nOwens D. Grogan, District Attorney, for respondent.\nChief Judge FULD and Judges SCILEPPI, BERGEN, BREITEL, JASEN and GIBSON concur in Per Curiam opinion; Judge BURKE taking no part.\n*626Per Curiam.\nWe conclude for the reasons stated in the dissenting opinion at the Appellate Division that the defendant is entitled to a hearing and we write only to emphasize certain aspects of the case.\nAlthough the Appellate Division found nothing in the \"record\" to indicate that the Public Defender participated in the trial in any way, evidently the reference is to the clerk's minutes and not to the trial record, which, we are told, has not been transcribed, nor, of course, to the papers on the coram nobis application which did not give rise to a hearing such as to generate a record. The uncontradicted factual allegations of the petition, buttressed by exhibits which included letters written by the Trial Judge and the Public Defender, required a hearing (People v. Richetti, 302 N.Y. 290, 294-295), upon which the trial transcript would be a minimal necessity. It is literally true, as the Appellate Division said, that the Public Defender, Mr. Ryan, did not in his private practice represent the victim of the burglary of which defendant was convicted, but, rather, the corporation by which the victim was employed. However, the corporation could act only through its agent who in this case seems to have been its manager, Mr. Vensel, who, on the one hand, retained Mr. Ryan to prosecute a commercial claim of some sort and, on the other, became the complaining witness as to the later burglary of his house and the holdup at knife point of his 15-year-old son, whereby defendant obtained the keys to the automobile in which he fled. Under these circumstances certainly, it is difficult to conceive of Mr. Vensel as a dispassionate, disinterested observer, then or in future. Additionally, defendant *627 asserts, without contradiction, that the corporation was the owner of the automobile which was the subject of the related larceny and hence was a victim according to the test which the Appellate Division applied. Finally, and as evidenced by letters attached to the coram nobis petition, both the Trial Judge and the Public Defender, prior to the trial, seem to have recognized a conflict of interest; and certainly the judgment of the ethical lawyer concerned is often the best test of that issue.\nNecessarily, then, we are obliged to remit for a hearing. It appears to us as preferable, under the somewhat unusual circumstances of this case, that the hearing be conducted by a Judge other than the Judge who heard the trial and decided the subsequent coram nobis application; and that the complete trial transcript be made available at the hearing.\nThe order should be reversed and the matter remitted to the County Court of Franklin County for hearing.\nOrder reversed and the matter remitted to the County Court of Franklin County for further proceedings in accordance with the opinion herein.\n",
+            "ocr": false,
+            "opinion_id": 2589690
+        }
+    ],
+    "court_short_name": "New York Court of Appeals",
+    "court_full_name": "New York Court of Appeals",
+    "court_type": "S",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

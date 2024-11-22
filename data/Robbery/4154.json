@@ -1,0 +1,47 @@
+{
+    "id": 8597106,
+    "judges": "Darden, Ferg\u00fcson, Quinn",
+    "date_filed": -2937600000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-gill",
+    "case_name_short": "Gill",
+    "case_name": "United States v. Gill",
+    "case_name_full": "UNITED STATES v. BENDELL GILL, Airman First Class, U. S. Air Force",
+    "attorneys": "Colonel Bertram Jacobson was on the pleadings for Appellant, Accused. Colonel James M. Bumgarner and Major Donald B. Strickland were on the pleadings for Appellee, United States.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 C.M.A. 93",
+        "19 USCMA 93"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ferg\u00fcson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion of the Court\nFeRG\u00fcson, Judge:\nThe accused was convicted by general court-martial, convened in the Federal Republic of Germany, of the offense of robbery of two German nationals. He was sentenced to a bad-conduct discharge, total forfeitures, confinement at hard labor for six months, and reduction. Intermediate appellate authorities affirmed *94the findings and sentence without change.1 We granted review to determine the validity of the accused\u2019s conviction in light of the Supreme Court\u2019s decision in O\u2019Callahan v Parker, 395 US 258, 23 L Ed 2d 291, 89 S Ct 1683 (1969).\nAuthority for trial by court-martial in the Federal Republic of Germany is contained in the NATO Status of Forces Agreement.\nIn United States v Keaton, 19 USCMA 64, 41 CMR 64, we held that all offenses coming within the purview of the Uniform Code of Military Justice committed in a foreign country were triable by court-martial in that country. See also United States v Easter, 19 USCMA 68, 41 CMR 68; United States v Stevenson, 19 USCMA 69, 41 CMR 69. For the reasons stated in those opinions, equally applicable, here, the constitutional limitations on court-martial jurisdiction referred to in O\u2019Callahan v Parker, supra, do not deprive a court-martial of jurisdiction when trial is held in a foreign country.\nThe decision of the board of review is affirmed.\nChief Judge Quinn concurs.\nJudge DARDEN concurs in the result.\n\n The officer exercising general court-martial jurisdiction over the accused directed that he serve his confinement in the 3320th Retraining Group, Lowry Air Force Base, Colorado.\n\n",
+            "ocr": true,
+            "opinion_id": 8574693
+        }
+    ],
+    "court_short_name": "United States Court of Military Appeals",
+    "court_full_name": "United States Court of Military Appeals",
+    "court_type": "MA",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

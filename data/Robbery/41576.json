@@ -1,0 +1,46 @@
+{
+    "id": 7657882,
+    "judges": "Tyson",
+    "date_filed": 667785600000,
+    "date_filed_is_approximate": false,
+    "slug": "rlv-v-state",
+    "case_name_short": "R.L.V.",
+    "case_name": "R.L.V. v. State",
+    "case_name_full": "R.L.V. v. STATE",
+    "attorneys": "Edward D. Tumlin, Birmingham, for appellant., Don Siegelman, Atty. Gen., and Andrew J. Segal, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied April 11, 1991.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "580 So. 2d 91"
+    ],
+    "opinions": [
+        {
+            "author_str": "Tyson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nTYSON, Judge.\nR.L.V. was arrested for robbery in the first degree in violation of \u00a7 13A-8-41(a)(l), Code of Alabama 1975. *92He was three months short of his 18th birthday at the time of the alleged offense. He appeals from the juvenile court\u2019s transfer order directing that he be tried as an adult. He contends that the juvenile court did not give a meaningful review of, or adequately consider the six factors enumerated in \u00a7 12-15-34(d), Code of Alabama 1975, and, thus, that the order is due to be reversed. We disagree.\nAn order transferring a juvenile to circuit court for criminal prosecution should not be reversed unless it is clearly erroneous. Taylor v. State, 548 So.2d 521 (Ala.Crim.App.1988); Williams v. State, 494 So.2d 887 (Ala.Crim.App.1986); Cruse v. State, 489 So.2d 694 (Ala.Crim.App.1986). In reviewing such an order, this court\u2019s consideration is limited to whether the lower court abused its discretion, considering the totality of the circumstances. Palmer v. State, 485 So.2d 1247 (Ala.Crim.App.1986); Whisenant v. State, 466 So.2d 995 (Ala.Crim.App.1984), rev\u2019d on other grounds, 466 So.2d 1006 (Ala.1985). \u201cEven though some of the factors may indicate that it would be in the best interest of the child and the public to treat the youth as a juvenile, the judge may still order treatment as an adult after weighing all the factors and circumstances involved.\u201d Whi-senant at 998 (emphasis in original). The record reveals that the appellant\u2019s probation officer testified as to the six factors enumerated in \u00a7 12-15-34(d). The juvenile court judge also reviewed the probation officer\u2019s report. The court\u2019s order indicated that the six factors were considered in its determination. We note that a mere restatement of the factors set out in the statute is sufficient. Taylor; Cruse. Although this case is close, the record does not support a finding that the juvenile court abused its judicial discretion.\nFor the reasons set forth above, this case is due to be, and it hereby is, affirmed.\nAFFIRMED.\nAll the Judges concur.\n",
+            "ocr": true,
+            "opinion_id": 7591759
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

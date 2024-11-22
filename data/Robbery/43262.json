@@ -1,0 +1,46 @@
+{
+    "id": 8003244,
+    "judges": "Burns, Fitzgerald, Holbrook",
+    "date_filed": 52012800000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-tennon",
+    "case_name_short": "Tennon",
+    "case_name": "People v. Tennon",
+    "case_name_full": "People v. Tennon",
+    "attorneys": "Frank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, William L. Cahalan, Prosecuting Attorney, Dominick R. Carnonale, Chief, Appellate Department, and Arthur N. Bishop, Assistant Prosecuting Attorney, for the people., William C. Gage, for defendant on appeal.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted Division 1 July 20, 1971, at Grand Rapids.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "35 Mich. App. 605"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nThe defendant was charged with robbery armed. MCLA \u00a7 750.529 (Stat Ann 1971 Cum Supp \u00a7 28.797). He pled guilty to an added count of robbery unarmed. MCLA \u00a7 750.530 (Stat Ann 1954 Rev \u00a7 28.798). He was sentenced to a term of 5 to 15 years in prison.\nThe defendant\u2019s contention that his plea was not freely, understandingly, and voluntarily made because he was not advised of the consequence of his plea, namely, its effect on his probationary status is without merit. The law does not require such advice. People v. Dunn (1968), 380 Mich 693. Further, at the time of his plea the *606defendant stated that he was not on probation, when asked by the judge. It is manifest that the question sought to be reviewed is so unsubstantial that no argument or formal submission is needed.\nThe motion to affirm is granted.\n",
+            "ocr": true,
+            "opinion_id": 7957386
+        }
+    ],
+    "court_short_name": "Michigan Court of Appeals",
+    "court_full_name": "Michigan Court of Appeals",
+    "court_type": "SA",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

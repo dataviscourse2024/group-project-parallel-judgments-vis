@@ -1,0 +1,46 @@
+{
+    "id": 7762299,
+    "judges": "John, Patterson, Scheb, Whatley",
+    "date_filed": 843004800000,
+    "date_filed_is_approximate": false,
+    "slug": "cherry-v-state",
+    "case_name_short": "Cherry",
+    "case_name": "Cherry v. State",
+    "case_name_full": "Nathaniel CHERRY v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Julius J. Aulisio, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Ronald Napolitano, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "679 So. 2d 1256"
+    ],
+    "opinions": [
+        {
+            "author_str": "Schebjohn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSCHEB, JOHN M., Senior Judge.\nThe state charged the appellant with the offense of robbery with a firearm, allegedly occurring on August 7, 1993. The appellant entered a plea of no contest to the lesser charge of robbery. He was sentenced to five years\u2019 incarceration followed by five years\u2019 probation, consecutive to a sentence imposed in another county. Because this is an An-ders appeal, the appellant was given the opportunity to file a pro se brief and he did so. After careful consideration of the issue raised by the appellant pro se, we find that issue to be without merit.\nHowever, we recognize that the trial court erred in imposing a $2 cost pursuant to section 943.25(13), Florida Statutes (1993), *1257because imposition of that cost was not announced at sentencing. Accordingly, we strike the $2 cost item. In all other respects, we affirm.\nAffirmed; $2 cost stricken.\nPATTERSON, A.C.J., and WHATLEY, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7700100
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

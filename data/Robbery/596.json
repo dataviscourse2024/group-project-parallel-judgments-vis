@@ -1,0 +1,47 @@
+{
+    "id": 7870282,
+    "judges": "Addin, Millwee, Robinson",
+    "date_filed": -426643200000,
+    "date_filed_is_approximate": false,
+    "slug": "rhea-v-state",
+    "case_name_short": "Rhea",
+    "case_name": "Rhea v. State",
+    "case_name_full": "Rhea v. State",
+    "attorneys": "Kenneth C. G of felt, for appellant., Tom Gentry, Attorney General, Ben J. Harrison, Asst. Atty. General, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "226 Ark. 664",
+        "291 S.W.2d 521"
+    ],
+    "opinions": [
+        {
+            "author_str": "Robinson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Sam RobiNSON, Associate Justice. Appellant was convicted of the crime of grand larceny; he was charged with stealing an automobile. On appeal, it is contended that the trial court erred in admitting evidence that appellant committed other crimes similar to the one for which he was on trial. In arguing before the trial court the admissibility of evidence of other crimes, the prosecuting attorney said: \u201cThe purpose of calling said witness is to show a scheme or design on the part of defendant in the commission of crimes and for no other purpose. It is a separate and distinct offense.\u201d Over the objection and exception of the appellant, the State was then permitted to introduce evidence that the appellant had stolen two other ears at times subsequent to the offense for which he was then on trial. In many cases, this court has been confronted with the question involved here. In Alford v. State, 223 Ark. 330, 266 S. W. 2d 804, a judgment of conviction was reversed because evidence of the commission of another offense of a similar nature was admitted at the trial. In that case, it was pointed out that the question had been considered by us more than one hundred times, and prior decisions were reviewed extensively. We can add nothing to what was said in the Alford case, and it is controlling here. The evidence of other offenses was not admissible. Reversed. Mr. Justice McF addiN concurs. Mr. Justice Millwee dissents. ",
+            "ocr": true,
+            "opinion_id": 7814804
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1100870,
+    "judges": "Barkett",
+    "date_filed": 542505600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-mestas",
+    "case_name_short": "Mestas",
+    "case_name": "State v. Mestas",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 23,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "507 So. 2d 587"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 172.0,
+            "opinion_text": "\n507 So.2d 587 (1987)\nSTATE of Florida, Petitioner,\nv.\nKimberly MESTAS, Respondent.\nNo. 68489.\nSupreme Court of Florida.\nMarch 12, 1987.\nRobert A. Butterworth, Jr., Atty. Gen. and James A. Young, Asst. Atty. Gen., Tampa, for petitioner.\nJ. Marion Moorman, Public Defender, Tenth Judicial Circuit, and Deborah K. Brueckheimer, Asst. Public Defender, Tampa, for respondent.\nBARKETT, Justice.\nWe have for review Mestas v. State, 484 So.2d 612 (Fla. 2d DCA 1986), because of certified conflict with Davis v. State, 461 So.2d 1003 (Fla. 1st DCA 1984), and Louzon v. State, 460 So.2d 551 (Fla. 5th DCA 1984). We have jurisdiction. Art. V, \u00a7 3(b)(4), Fla. Const.\nThe issue presented is whether a sentence of community control as a condition of probation constitutes a \"departure sentence\" under the sentencing guidelines requiring written reasons for its imposition when the defendant's recommended sentence is any \"nonstate prison sanction.\"\nKimberly Mestas pled guilty to grand theft in the second degree. Her recommended sentence under the guidelines was any \"nonstate prison sanction.\" The trial court sentenced her to a five-year term of probation with the condition that the first two years be served under community control. The district court found that community control was not a \"nonstate prison sanction,\" and therefore viewed Mestas' sentence as a departure. Because there were no written reasons justifying a departure, the district court remanded to the trial court to strike the community control condition of Mestas' probation.\nThe state contends that community control should be considered a \"nonstate prison sanction\" and that therefore the sentence in this case is not a departure sentence. Both parties concede that this Court has recently clarified this issue in the latest amendment to the committee note dealing with the imposition of community control:\nCommunity control is not an alternative sanction from the recommended range of any nonstate prison sanction unless the provisions of Florida Rule of Criminal Procedure 3.701(d)(11) [articulated reasons for departure] are applied.\n*588 The Florida Bar Re: Rules of Criminal Procedure (Sentencing Guidelines, 3.701, 3.988), 482 So.2d 311, 317 (Fla. 1985) (Committee Note (d)(13)).\nThis revision was intended to clarify the intent of the Sentencing Guidelines Commission that community control is not to be considered as a nonstate prison sanction under the guidelines. We decline the state's invitation to reconsider this issue. Community control, which is a harsh and more severe alternative to ordinary probation, is a departure sentence when the guidelines call for any \"nonstate prison sanction.\" Accordingly, we approve the decision below and disapprove Davis and Louzon.\nIt is so ordered.\nMcDONALD, C.J., and OVERTON, EHRLICH and SHAW, JJ., and ADKINS, J. (Ret.), concur.\n",
+            "ocr": false,
+            "opinion_id": 1100870
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

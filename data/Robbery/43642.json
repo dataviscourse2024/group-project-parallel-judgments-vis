@@ -1,0 +1,46 @@
+{
+    "id": 8073266,
+    "judges": "Day, Letton, Morrissey",
+    "date_filed": -1570492800000,
+    "date_filed_is_approximate": false,
+    "slug": "meyers-v-state",
+    "case_name_short": "Meyers",
+    "case_name": "Meyers v. State",
+    "case_name_full": "Benjamin Meyers v. State of Nebraska",
+    "attorneys": "Barnhart \u00e9 Stewart, for plaintiff in error., Clarence A. Davis, Attorney General, and John B. Barnes, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. Criminal Law: Preliminary Hearing. Under section 9068, Rev. St. 1913, persons accused of crime, except fugitives from justice, are guaranteed the right of preliminary hearing, hut this right may bo waived.</p> <p>2. -: \u2014\u25a0-: Waiver. \u201cIt is too late after verdict to raise the objection that a preliminary examination has not been had for the crime charged in the information. Such objection must be raised before going to trial by motion to quash the information or by plea in abatement.\u201d Coffield v. State, 44 Neb. 417.</p> <p>3. Information: .Surplusage. Surplus matter in an information for larceny which describes the manner of entering a building, from which 'it is alleged the property was stolen, does not necessarily change the character of the \u25a0 charge, or render the information defective.</p> <p>4. Larceny: Sufficiency of Evidence. Evidence examined, and held to support the verdict.</p>",
+    "summary": "Error to the district court for Cuming county: Anson A- Welch, Judge.",
+    "disposition": "\nAffirmed.\n",
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "104 Neb. 356"
+    ],
+    "opinions": [
+        {
+            "author_str": "Morrissey",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMorrissey, C. J.\nDefendant prosecutes error from a conviction for grand larceny. The first information filed fixed the time of the commission of the crime at an impossible date. Defendant was arraigned and entered a plea of not guilty. A jury was then impanelled and sworn, but before any testimony was offered the county attorney asked and was given leave to file an amended information, in order to allege the true date. The amended information appears to have been filed instanter. Defendant demanded \u201cthe statutory 24 hours for examination of the information as amended that he may determine what witnesses are necessary to meet the charge made in the information as now amended.\u201d The request was granted. The following day, defendant was duly arraigned on the amended information, and, when asked by the court to plead thereto, stood mute, and the court thereupon entered a plea of not guilty. No motion to quash, plea in bar, or plea in abatement was filed.\nIt is claimed that the court was without jurisdiction to proceed with the trial without having accorded defendant a preliminary examination on the amended information. Persons accused of crime, except fugitives from justice, are guaranteed the right of preliminary hearing, but this right may be waived. Section 9068, Rev. St. 1913. \u201cIt is too late after verdict to raise the objection that a preliminary examination has not been had for the crime charged in the information. Such objection must be raised before going to trial by motion *358to quash the information or by plea in abatement.\u201d Coffield v. State, 44 Neb. 417.\nIt is claimed that the amended information does not properly lay the venue, nor fix the time of the commission of the larceny. It contains surplus matter to the effect that defendant broke and entered the building where the property stolen was situated. This was unnecessary to sustain the charge of larceny, and may have been inserted with the view of charging both larceny and burglary. But the statement as to the building where the property was stored does not change the character of the information, nor make it defective as wanting in definiteness as to time or place.\nBy instruction No. 1, given by the court on its own motion, the court, after stating the substance of the information, told the jury: \u201cThis information at law charges the defendant with the crime of larceny, but does not charge him with the crime of burglary.\u201d This instruction was proper in view of the information filed.\nThe remaining assignment calling for consideration is the insufficiency of the evidence to sustain the verdict. A review of the evidence will add nothing to the law of the state. It has been examined by the court and found amply sufficient to sustain the verdict. The judgment is\nAffirmed.\nLetton and Day, JJ., not sitting.\n",
+            "ocr": true,
+            "opinion_id": 8031992
+        }
+    ],
+    "court_short_name": "Nebraska Supreme Court",
+    "court_full_name": "Nebraska Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nebraska, NE",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 7884586,
+    "judges": "Erickson, Groves, Hodges, Pringle",
+    "date_filed": 124329600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-lutz",
+    "case_name_short": "Lutz",
+    "case_name": "People v. Lutz",
+    "case_name_full": "The People of the State of Colorado v. Jack Travis Lutz",
+    "attorneys": "John P. Moore, Attorney General, John E. Bush, Deputy, David A. Sorenson, Assistant, for plaintiff-appellee., Rollie R. Rogers, State Public Defender, J. D. MacFarlane, Chief Deputy, Thomas M. Van Cleave III, Deputy, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "183 Colo. 312",
+        "516 P.2d 1132"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pringle",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion by\nMR. CHIEF JUSTICE PRINGLE.\nDefendant-Appellant Jack Travis Lutz was in jail awaiting disposition on a charge of aggravated robbery when, during an attempted escape, an incident occurred which gave rise to an assault charge. Lutz pleaded guilty to charges of aggravated robbery, in violation of C.R.S. 1963, 40-5-1, and assault with a deadly weapon, in violation of C.R.S. 1963, 40-2-34, and at that time five other felony charges were dismissed. He was given consecutive sentences in the state penitentiary of not less than four nor more than five years on the assault charge and not less than forty nor more than sixty years on the aggravated robbery charge. Thereafter, under Crim. P. 35(b), he sought to vacate the original sentence on the grounds that when imposing sentence the trial court took into consideration evidence presented at the separate trial of one Bettis, who participated with Lutz in the assault during the escape. In addition he contends here, although he did not raise this issue in his Crim. P. 35(b) motion, that the trial court illegally sentenced him in imposing a sentence on the assault charge in excess of the statutory maximum by, in effect, transferring sentence from the assault charge to the *314aggravated robbery charge. After a hearing the trial judge denied the defendant\u2019s motion under Crim. P. 35(b). We affirm.\nI.\nDefendant\u2019s first contention is that the trial court erred in taking into consideration, in imposing sentence upon him, the testimony presented at the trial of Lutz\u2019 accomplice in the assault, at which the same judge presided. Prior to sentencing Lutz, the trial judge said:\n\u201cI have taken into account the circumstances of the attack on Mr. Tjaden, at the El Paso County Jail; your testimony, and also the testimony that I heard as presiding judge at the trial of the People v. Bettis, and I take in particular account the vicious and mean circumstances of that attack on Mr. Tjaden.\u201d\nThe record indicates that the judge also carefully considered the presentence investigation report and other relevant information. The presentence investigation report contained Lutz\u2019 account of both offenses. In his finding after the Crim. P. 35(b) hearing the trial judge said that the testimony in the Bettis case merely confirmed the fact of an assault and what the defendant had already related to the probation officer for use in the presentence investigation report.\nDefendant Lutz relies on Noland v. People, 175 Colo. 6, 485 P.2d 112, where we found error when the trial court, in imposing sentence, was influenced by information not supported by the record. However, that case is inapposite here since there is no challenge to the accuracy of the presentence investigation report evidenced in the record. In fact, the trial judge, as we have pointed out, specifically stated in his Crim. P. 35(b) findings that the testimony in the Bettis case was merely confirmatory of what defendant had already related in the presentence report. Under the circumstances, we perceive no prejudice. We call attention to the remarks of Mr. Justice Black, speaking in Williams v. New York, 337 U.S. 241, 69 S.Ct. 1079, 93 L.Ed. 1337, where the following is said:\n\u201c. . . a state judge cannot escape his grave responsibility of *315fixing sentence. In determining whether a defendant shall receive a one-year minimum or a twenty-year maximum sentence, we do not think the Federal Constitution restricts the view of the sentencing judge to the information received in open court. The due process clause should not be treated as a device for freezing the evidential procedure of sentencing in the mold of trial procedure. So to treat the due process clause would hinder if not preclude all courts \u2014 state and federal \u2014 from making progressive efforts to improve the administration of criminal justice.\u201d\nII.\nLutz\u2019 second contention is that the trial court sentenced him on the assault charge to a term in excess of the statutory maximum by, in effect, transferring sentence from the assault charge to the aggravated robbery charge, which had a larger possible maximum sentence. Lutz stresses that in remarks made at sentencing the trial judge was particularly concerned about the assault charge, but made no mention of the circumstances surrounding the robbery. The defendant argues that the heavy sentence he received for aggravated robbery resulted from the court\u2019s desire to sentence him on the assault charge to a term in excess of the statutory maximum. The short answer to this contention is that ordinarily if a sentence imposed is within limits fixed by statute, it will not be disturbed on review. Harris v. People, 174 Colo. 483, 484 P.2d 1223. Here the defendant indicated at his sentencing hearing that he would have shot the victim of the robbery if necessary to resist his capture. In addition, the trial court could properly consider defendant\u2019s other convictions, particularly the assault conviction here, in determining the severity of the aggravated robbery sentence. Bush v. People, 68 Colo. 75, 187 P. 528. See Crim. P. 32(a)(2) and C.R.S. 1963, 39-16-2. We find no compelling reason to interfere with the trial court\u2019s sentencing discretion in this case.\nAccordingly, we affirm.\nMR. JUSTICE HODGES, MR. JUSTICE GROVES and MR. JUSTICE ERICKSON concur.\n",
+            "ocr": true,
+            "opinion_id": 7831239
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

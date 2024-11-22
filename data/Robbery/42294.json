@@ -1,0 +1,46 @@
+{
+    "id": 7799579,
+    "judges": "Green, Jorgenson, Schwartz",
+    "date_filed": 986947200000,
+    "date_filed_is_approximate": false,
+    "slug": "henriquez-v-state",
+    "case_name_short": "Henriquez",
+    "case_name": "Henriquez v. State",
+    "case_name_full": "Sean Peter HENRIQUEZ v. The STATE of Florida",
+    "attorneys": "Bennett H. Brummer, Public Defender and Harvey J. Sepler, Assistant Public Defender, for appellant., Robert A. Butterworth, Attorney General, and Michael J. Neimand, and Meredith Balo, Assistant Attorneys General, and Karen D. Hatton, Certified Legal Intern, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied May 9, 2001.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "782 So. 2d 969"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nPursuant to a jury verdict, the appellant was convicted of armed burglary, two-counts of grand theft and criminal mischief as charged. This is an appeal from the trial court\u2019s denial of his motion for judgment of acquittal and a motion to arrest judgment. Contrary to the appellant\u2019s assertion, we find that the evidence was legally sufficient for the jury to conclude he had entered the subject residence without consent. See Baker v. State, 636 So.2d 1342 (Fla.1994); State v. Law, 559 So.2d 187 (Fla.1989); Downer v. State, 375 So.2d 840, 845 (Fla.1979).\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7739969
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

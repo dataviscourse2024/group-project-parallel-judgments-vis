@@ -1,0 +1,46 @@
+{
+    "id": 7577950,
+    "judges": "Barkdull, Baskin, Pearson",
+    "date_filed": 343353600000,
+    "date_filed_is_approximate": false,
+    "slug": "roberts-v-state",
+    "case_name_short": "Roberts",
+    "case_name": "Roberts v. State",
+    "case_name_full": "Noel George ROBERTS v. The STATE of Florida",
+    "attorneys": "Bennett H. Brummer, Public Defender and Bruce A. Rosenthal, Asst. Public Defender, for appellant., Jim Smith, Atty. Gen., and Anthony C. Musto, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Dec. 17, 1980.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "390 So. 2d 769"
+    ],
+    "opinions": [
+        {
+            "author_str": "Baskin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBASKIN, Judge.\nDefendant Noel Roberts appeals his convictions for armed robbery and display of a firearm during the commission of the robbery entered pursuant to his plea of no contest with a reservation of his right to appeal the court\u2019s denial of his motion to suppress. He contends the evidence failed to prove he voluntarily consented to the search by an officer who stopped his car in response to a BOLO (be on the lookout) for two males with a stolen credit card. We affirm.\nTestimony relating to the issue of consent was conflicting. The officer testified that when he asked defendant Roberts if he could search the car, Roberts replied, \u201cSure, I don\u2019t have any credit cards.\u201d Defendant Roberts testified, on the other hand, that he replied, \u201cI don\u2019t know anything about it and I\u2019m not going to let you search my car.\u201d\nIt is fundamental that an appellate court does not sit as a trier of fact. Conflicts in the evidence must be resolved by the trial judge. O\u2019Sullivan v. State, 335 So.2d 869 (Fla. 3d DCA 1976). An appellate court may not substitute its judgment. State v. Nova, 361 So.2d 411 (Fla.1978). The ruling by the trial court comes to this court \u201cwith the presumption of correctness\u201d, and reasonable inferences and deductions are to be interpreted in a manner favorable to sustain the trial court\u2019s ruling. McNamara v. State, 357 So.2d 410 (Fla.1978); e. g. Wigfall v. State, 323 So.2d 587 (Fla. 3d DCA 1975). We find that clear and convincing evidence supported the trial court\u2019s decision.\nWe reject the state\u2019s argument that the issue reserved for appeal is not dispositive and should not be considered. Brown v. State, 376 So.2d 382 (Fla.1979). Our examination of the record discloses that defense counsel included the in-court identification in his motion to suppress all the evidence. It appears to us that without any evidence or in-court identification, the state would be unable to proceed. The issue reserved is dispositive.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7506268
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

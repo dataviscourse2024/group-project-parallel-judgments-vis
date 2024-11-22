@@ -1,0 +1,46 @@
+{
+    "id": 7926082,
+    "judges": "Hus, Parker, Peni, Randall",
+    "date_filed": 526608000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-isenberg",
+    "case_name_short": "Isenberg",
+    "case_name": "State v. Isenberg",
+    "case_name_full": "STATE of Minnesota v. Roger ISENBERG",
+    "attorneys": "Richard L. Ronning, Willmar, for respondent., Roger Isenberg, pro se.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "393 N.W.2d 13"
+    ],
+    "opinions": [
+        {
+            "author_str": "Parker",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOPINION\nPARKER, Judge.\nRoger Isenberg was charged with theft by shoplifting, a misdemeanor. The trial court required bail of $332. Subsequently, the city attorney reduced the charge to a petty misdemeanor. In a trial to the court, Isenberg was found guilty. We affirm.\nFACTS\nWhile shopping at Cashwise Grocery Store, Isenberg was observed with two packs of cigarettes in his hands. At one point, he put one pack into his pocket and later put the second into the same pocket. At the express lane checkout, Isenberg claims, he was so preoccupied with the appearance of the clerk that he was overcome and failed to pay for the cigarettes.\nMr. Anderson, a store employee, followed Isenberg into the parking lot, stopped him and asked him if he had paid for the cigarettes in his pocket. Isenberg then offered to pay for them, but Anderson refused to accept the money. Anderson arrested Isenberg, asked him to accompany him to the store office and called the police.\nUpon arraignment, Isenberg, appearing pro se, refused to enter a plea, and the court entered a plea of not guilty for him. He demanded a grand jury indictment and a jury of 12 persons. The court denied both and scheduled a trial before a jury of six. The city, recognizing the goods involved to be of less than $3 in value, directed the arresting officer to issue a new citation for a petty misdemeanor theft under a Willmar ordinance.\nIsenberg was found guilty of the petty misdemeanor by the court and was fined $100, with a $10 surcharge and $2 in library fees. The fines and fees were taken from the bail Isenberg posted.\nISSUES\n1. Did the trial court err in denying the various demands and motions Isenberg made which he has labeled issues in his brief?\n2. Did the State prove Isenberg guilty beyond a reasonable doubt of the charge of theft?\nDISCUSSION\nI\nIsenberg. has insisted throughout on representing himself. His brief was handwritten and difficult to understand at times. He lists 16 so-called \u201cissues\u201d which do not require treatment as individual issues by this opinion. The various motions Isenberg made are easily considered in groups. Some of the motions are redundant and without merit.\nIsenberg\u2019s issues 1, 2 and 9 deal with the imposition of bail by the trial court. He questions the authority of the trial judge to set bail and to deny his release on personal recognizance. The court has authority to set bail pursuant to Minn.R.Crim.P. 5.05. Bail was reduced when Isenberg was recharged with the petty misdemeanor ordinance violation.\nIsenberg\u2019s issues 3 and 4 question the court\u2019s authority to deny him a certified complaint and a \u201cproperly constituted\u201d court. There is no merit to either allegation. It appears that Isenberg wanted a grand jury indictment. He simply was not entitled to this for a petty misdemeanor. Minn.R.Crim.P. 8.01, 17.01. There is no authority for requiring a \u201ccertified complaint.\u201d See Minn.R.Crim.P. 23 comment, 17.01-.06.\nIsenberg\u2019s issues 5, 6 and 7 are founded, respectively, on his motion to dismiss the case for not having a trial within 60 days; denial of his rights \u201csua sponte;\u201d and refusal of his request for definition of the violation he was charged with.\n*15Isenberg made no demand for a speedy trial as required by Minn.R.Crim.P. 6.06, nor does his brief address the criteria specified in Barker v. Wingo, 407 U.S. 514, 530, 92 S.Ct. 2182, 2192, 33 L.Ed.2d 101 (1972). The trial court did not deny the demand of the accused for his rights \u201csua sponte.\u201d The transcript indicates that the trial court patiently explained the procedure and pertinent law during every stage of the trial.\nIsenberg\u2019s issues 8 and 13 deal with his request for a trial by jury and a grand jury indictment. The indictment issue was discussed above; petty misdemeanors are tried to the court. Minn.R.Crim.P. 23.05, subd. 1.\nIsenberg\u2019s issues 10 and 15 are concerned with his right to legal counsel. He wanted his friend, not a licensed attorney, to act as his legal advisor. The trial court offered the services of an attorney admitted to practice in the State of Minnesota. Only an attorney licensed to practice may represent another in court. Minn.Stat. \u00a7 481.02, subd. 1 (1984); Trovatten v. Minea, 213 Minn. 544, 7 N.W.2d 390 (1942).\nIsenberg\u2019s issues 12,14 and 16 deal, respectively, with retention of bail money after a demand for a stay of execution pending appeal; putting the accused in jail until bail was paid, see Minn.R.Crim.P. 6.02 et seq.; and the failure of the judge to read his motion carefully. The authority of the court to set bail has been discussed above. There is statutory authority for retention of bail money to pay fines. Minn.Stat. \u00a7 629.53 (1984). The record reveals that the trial court gave due consideration to each motion made by the accused.\nII\nThe evidence at trial supported the inference that Isenberg intended to shoplift the cigarettes. When the court sits as finder of fact, its verdict is entitled to the same weight as that accorded a jury. State v. Thurmer, 348 N.W.2d 776 (Minn.Ct.App.1984).\nDECISION\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7875869
+        }
+    ],
+    "court_short_name": "Court of Appeals of Minnesota",
+    "court_full_name": "Court of Appeals of Minnesota",
+    "court_type": "SA",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7918360,
+    "judges": "Martin, Mathews, Porter",
+    "date_filed": -4695667200000,
+    "date_filed_is_approximate": true,
+    "slug": "louisiana-bank-v-bank-united-states",
+    "case_name_short": null,
+    "case_name": "Louisiana Bank v. Bank United States",
+    "case_name_full": "LOUISIANA BANK v. BANK UNITED STATES",
+    "attorneys": "Moreau for the plaintiffs, Duncan for the defants.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Possession is prima facie evidence of property, in a bank note.</p>",
+    "summary": "Appeal from the court of the first district.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "7 Mart. 398"
+    ],
+    "opinions": [
+        {
+            "author_str": "Porter",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPorter, J.\nThe bank of Louisiana sued that of the United States, on a post note, for $ 1000, payable to Harman, cashier of the Louisiana bank, and endorsed by him in blank.\nThe answer states, that one John W. Handley, had alleged, that the note on which the suit was brought, had been lost to him by a late robbery of the mail, and that he had *399cautioned the defendants not to pay it to any other person but him.\nEast'n District.\nMarch, 1821.\nThey further plead, that the question of property in the note, is now at issue, in the suit of Handley vs. the Louisiana bank.\nBy consent, the evidence taken in that case has been made part of the record in this, and considered as testimony in this cause.\nIt shews clearly the loss of the note, and that it was the property of Handley at the time it was taken out of the mail. But it is not so satisfactory, as to the time when it came into the possession of the Louisiana bank; and the conclusions which may be drawn from it, have been much controverted and debated in the argument.\nThere is one thing, however certain, that it does not prove, that the Louisiana bank received the note in question, in bad faith, and with a knowledge that it was stolen; and this proof, I think, is essential to enable the defendants to succeed in the defence they have set up.\nThe law stated in the latest and most esteemed work, on bills of exchange, makes it the duty of the holder of a note, other than a bank note, payable to bearer, to prove that *400he came by it bona fide and for a valuable consideration, Chitty on Bills, 87.\nBut in respect to bank notes, a different system has been established, and it is held, that the person in possession of a security of that description, is not under the necessity of proving, in the first instance, how he acquired it. But that it behoves he who objects to the payment, to establish the facts on which that payment is refused. Chitty on Bills, 393. 13 East. 130. 2 Campb. sec. 5, also note to 13 East, 130.\nThe rule contained in these decisions, although not positive law here, is one which I consider equitable and just, and useful in its application, in a country where bank notes form so large a part of the circulating medium.\nFor these reasons, and for those contained in the opinion of the presiding judge of the court, which I have read, and in which I concur, I am of opinion that the judgment of the district court be affirmed with costs.\nMartin, J.\nWe would look in vain, in the laws.of Spain, for the principles that are to direct us in the transfer of bank paper. Great Britain and the United States are, perhaps, the only countries in which it forms the great*401est part of the circulating medium, and in which questions, like that now under consideration, present themselves.\nSince the establishment of banks in Louisiana, their notes have circulated like the specie which they represent, as generally and freely as in Great Britain and the United States; and this has insensibly introduced so much of the laws, usage, or practice of those countries, as is necessary to regulate the mode in which the affairs of these institutions are transacted, and the circulation and transfer of their notes; perhaps, rendered obsolete, so much of our former laws as is absolutely inconsistent therewith.\nHence, even if that part of the ordinance of Bilbao, which regulates blank endorsements, appeared to have been in force before the establishment of our banks as by far the greatest part of the paper discounted by them, is endorsed in blank; our courts would perhaps, readily recognise the property of a bank, in a note discounted by it, without the endorsement having been filled.\nI therefore think, that the district court did not err in giving judgment for the plaintiffs, although they did not shew from whom, *402when or in what manner they became possessed of the note of the defendant bank. The circulation of such paper would be very much obstructed indeed, if a bank, who receives it, was bound to provide itself with evidence of having fairly come by it.\nI think we ought to affirm the judgment.\nMathews, J.\nThis suit is prosecuted on a note of the bank of the United States, made payable to order, and endorsed in blank. The evidence in the case leaves no doubt of its having been stolen from the mail, on its way from Natchez to New-Orleans, and it is not shewn by the plaintiffs that they received it in good faith, and for a valuable consideration.\nIf this be necessary in regard to bank notes, as it is perhaps in ordinary notes, or bills payable to bearer, and may possibly be also to those endorsed in blank, the plaintiffs have not supported their case.\nBut it is believed, that even admitting that the burden of proof, as to good faith, and consideration in ordinary commercial bills and notes, lies on the holder, an exception is adopted in law in case of bank notes.\nThe facility with which they pass from *403hand to hand, the circumstance of their not being esteemed like bills of exchange, as mere securities of debt, but treated as money in the ordinary course and transaction of business, by the general consent of mankind, (as observed in the case of Miller vs. Rain, 1 Barr. 457) shews, that they may with propriety be placed on a footing, different in some respects, from that of ordinary bills and notes. Possession is prima facie evidence property in them, and the holder is entitled to all the benefits resulting from a rightful ownership, until the contrary be made apparent.\nMoreau for the plaintiffs, Duncan for the defants.\nTesting the judgment of the district court by these rules, and the evidence in the cause, I am unable to discover any error in it.\nIt is therefore ordered, adjudged, and decreed, that it be affirmed with costs.\n",
+            "ocr": true,
+            "opinion_id": 7867589
+        }
+    ],
+    "court_short_name": "Supreme Court of Louisiana",
+    "court_full_name": "Supreme Court of Louisiana",
+    "court_type": "S",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 8769988,
+    "judges": "Barrett",
+    "date_filed": 1222214400000,
+    "date_filed_is_approximate": false,
+    "slug": "ferrarelli-v-federated-fin-corp-of-america",
+    "case_name_short": "Ferrarelli",
+    "case_name": "Ferrarelli v. Federated Fin. Corp. of America",
+    "case_name_full": "Frank FERRARELLI v. FEDERATED FIN. CORP. OF AMERICA",
+    "attorneys": "Steven Charles Shane, Bellevue, KY, Stephen R. Felson, Cincinnati, OH, for Plaintiff., Robert Glenn Knirsch, James Wong Young OH, Robert K. Hogan, Javitch Block Eisen & Rathbone, Cincinnati, OH, for Defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "253 F.R.D. 432"
+    ],
+    "opinions": [
+        {
+            "author_str": "Barrett",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n\nOPINION &amp; ORDER\n\nMICHAEL R. BARRETT, District Judge.\nThis matter is before the Court upon Defendant Federated Financial Corporation of America\u2019s Motion to Bifurcate. (Doc. 12) Plaintiff Frank Ferrarelli has filed a Re*433sponse in Opposition (Doc. 15) and Defendant has filed a Reply (Doc. 17).\nI. BACKGROUND\nPlaintiff Frank Ferrarelli brings this action pursuant to the Fair Credit Reporting Act and Fair Debt Collection Practices Act. (Doe. 1) Ferrarelli alleges that he is a victim of identity theft, the result of which multiple accounts were opened in his name without his knowledge or consent. (Id. at 1\u00cd1I4, 5) One of these accounts was opened with Defendant Federated Financial Corporation\u2019s (\u201cFederated\u201d) predeeessor-in-interest, Advanta Bank Corporation. (Id. at 116) Ferrarelli alleges that the account was being reported to at least two credit agencies as being past-due, and he disputed the account through these agencies. (Id. 11118, 9) Based on the information provided by Federated, the credit agencies \u201cfailed to correct the derogatory false and inaccurate information that plaintiff disputed.\u201d (Id. 111111, 12) Ferrarelli claims that Federated violated the FCRA and the FDCPA by refusing to take remedial action as he requested.\nIn its Motion to Bifurcate, Federated seeks to bifurcate this action by separating the issue of whether or not Federated \u201cwillfully\u201d violated the FCRA\u2014which would entitle Ferrarelli to punitive damages upon such a finding\u2014from the valuation of punitive damages. Federated points out that in a discovery request Ferrarelli has sought Federated\u2019s quarterly profit and loss statements, balance sheets and financial statements, and income tax returns in an effort to establish Federated\u2019s net worth. Federated has not objected to producing these documents. Instead, Federated argues that (1) the finding of liability is wholly unrelated to the issue of Federated\u2019s net worth; and (2) the presentation of Federated\u2019s net worth could have a prejudicial impact on the jury\u2019s determination of liability.\nII. ANALYSIS\nA. Motion for Bifurcation Standard\nPursuant to Federal Rule of Civil Procedure 42(b):\nSeparate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, cross-claims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.\nAs this Court has recognized, where a plaintiff seeks to recover punitive damages, evidence of the financial condition of the defendant is highly relevant. U.S. v. Matusoff Rental Co., 204 F.R.D. 396, 399 (S.D.Ohio 2001), citing City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 270, 101 S.Ct. 2748, 69 L.Ed.2d 616 (1981) (noting that, under federal law, evidence of a defendant\u2019s financial worth is traditionally admissible for the purpose of evaluating the amount of punitive damages that should be awarded); United States v. Big D Enterprises, Inc., 184 F.3d 924, 932 (8th Cir.1999) (same).\nIn Matusoff Rental, this Court ordered separate trials on liability and damages. However, the Court ordered that the two trials be heard by the same jury, with the damages trial beginning within a day or two of the completion of the liability trial, if one or more or all of the defendants were found to be liable. 204 F.R.D. at 401. The Court explained that this manner of bifurcation will help prevent jury confusion, while not inconveniencing and prejudicing the parties or wasting scarce judicial resources. Id. The Court explained further:\nIn addition, resolving liability and damages in separate trials, in the manner as ordered by the Court, will avoid the possibility of prejudice that could result from the introduction of evidence (such as the financial condition of the Defendants) which, although relevant on the issue of punitive damages, is irrelevant on liability. In addition, scheduling the damages trial to commence immediately following the completion of the liability phase, with the same jury, will avoid the alternative pitfalls presented by Defendants\u2019 proposed method of bifurcation, to wit: either empaneling a second jury to hear the damages trial, or risking that the original jury would forget some of the evidence presented at the lia*434bility phase, during the hiatus between the two trials.\n\nId.\n\nThis Court finds the approach followed in Matusoff Rental to be sound. Accordingly, the Court finds that Federated\u2019s Motion is well-taken, and the trial on the issue of the valuation of punitive damages, if necessary shall follow the trial on liability. This does not preclude Plaintiffs from presenting evidence of willfulness during the trial on liability. Indeed, such evidence is necessary in order to have the issue of the valuation of punitive damages presented to the jury.\nIII. CONCLUSION\nBased on the foregoing, it is hereby ORDERED that Defendant Federated Financial Corporation of America\u2019s Motion to Bifurcate (Doe. 12) is hereby GRANTED. The trial on the issue of punitive damages, if necessary shall be scheduled in accordance with this Order.\nIT IS SO ORDERED.\n",
+            "ocr": true,
+            "opinion_id": 8753510
+        }
+    ],
+    "court_short_name": "S.D. Ohio",
+    "court_full_name": "District Court, S.D. Ohio",
+    "court_type": "FD",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Robbery"
+}

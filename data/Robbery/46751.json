@@ -1,0 +1,46 @@
+{
+    "id": 8715713,
+    "judges": "Fong",
+    "date_filed": 726364800000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-cook",
+    "case_name_short": "Cook",
+    "case_name": "United States v. Cook",
+    "case_name_full": "United States v. Gregory K. COOK",
+    "attorneys": "Daniel A. Bent, U.S. Atty., Edward H. Kubo, Asst. U.S. Atty., Honolulu, HI, for plaintiff., Deana Spencer, Asst. Federal Public Defender, Birney Bervar, Asst. Federal Public Defender, Honolulu, HI, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "809 F. Supp. 66"
+    ],
+    "opinions": [
+        {
+            "author_str": "Fong",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nORDER DISMISSING INDICTMENT COUNTS I AND III\nFONG, District Judge.\nOn January 4, 1993, the court held a hearing on defendant Gregory Cook\u2019s motion to dismiss counts I and III of the indictment because these counts do not allege all elements of the offense. The Unit*67ed States admits that the indictment does not allege the statutory sections that Cook refers to, but argues that the omitted allegations are only sentencing enhancement factors rather than elements of the offense.\nCount I of the indictment charges Cook with a violation of 18 U.S.C. \u00a7 2118(a), robbery involving controlled substances. Count III alleges that Cook possessed a firearm during the robbery alleged in count I. 18 U.S.C. \u00a7 2118(a) provides:\nWhoever takes or attempts to take from the person or presence of another by force or violence or by intimidation any material or compound containing any quantity of a controlled substance belonging to or in the care, custody, control, or possession of a person registered with the Drug Enforcement Administration under section 302 of the Controlled Substances Act (21 U.S.C. 822) shall, except as provided in subsection (c),1 be fined not more than $25,000, or imprisoned not more than twenty years, or both, if (1) the replacement cost of the material or compound to the registrant was not less than $500, (2) the person who engaged in such taking traveled in interstate or foreign commerce to facilitate such taking or attempt, or (3) another person was killed or suffered significant bodily injury as a result of such taking or attempt.\nU.S.C.A. (West 1984) (emphasis added).\nThe indictment did not allege that Cook violated any of the three conditions (1), (2), or (3) as emphasized above. The United States contends that this is not a fatal defect in the indictment because the three omitted conditions are sentencing provisions rather than elements of the crime.\nThere is no case law on this point, but the legislative history clearly supports Cook\u2019s position that the three factors are jurisdictional elements of the crime. The section by section analysis of section 2118(a) provides that the three conditions are jurisdictional in nature:\nSubsection (A) creates an offense of robbing or attempting to rob any quantity of a controlled substance possessed by a registrant under the Controlled Substances Act. The Controlled Substances Act requires that all physicians, dentists, podiatrists, veterinarians, hospitals, pharmacies, manufacturers, importers and distributors of psycho-active drugs obtain a registration from the Attorney General (acting through the Drug Enforcement Administration) before such person is allowed to manufacture, distribute, dispense, prescribe or administer such drugs.\nA fine of up to $25,000 and imprisonment of up to 20 years may be imposed.\n\nThere are three jurisdictional limitations:\n\n(1) the replacement cost of the material or compound to the registrant was not less than $500;\n(2) the offender traveled in interstate or foreign commerce to facilitate the commission of the offense; or\n(3) another person was killed or suffered significant bodily injury in the commission of the offense.\n\nMany robberies and burglaries do not warrant federal action. Pharmacy robbery and burglary are already very serious state crimes and are usually best pursued by state and local law enforcement agencies. There are inadequate federal resources to investigate all of these cases. Consequently, the legislation is drafted to provide backup to the states in those significant cases which may exceed the ability of state and local law enforcement agencies because of its interstate nature.\n\nH.R.Rep. No. 644, 98th Cong., 2d Sess. 6 (1984), reprinted in 1984 U.S.C.C.A.N. 521, 526 (emphasis added).\nThe House Report clearly states that subsections (1) \u2014 (3) of section 2118(a) are jurisdictional requirements. As such, they are elements of the offense, and Cook correctly argues that they must be alleged in the indictment. Hamling v. United States, *68418 U.S. 87, 117, 94 S.Ct. 2887, 2907, 41 L.Ed.2d 590 (1974). Thus, the court GRANTS the motion to dismiss counts I and III of the indictment.2\nIT IS SO ORDERED.\n\n. Subsection (c) of 18 U.S.C. \u00a7 2118 provides for longer sentences for persons using a dangerous weapon or killing a person during the commission of the robbery.\n\n\n. Count III is dependent on count I in that it alleges that Cook possessed a firearm during the commission of the offense alleged in count I.\n\n",
+            "ocr": true,
+            "opinion_id": 8698906
+        }
+    ],
+    "court_short_name": "D. Hawaii",
+    "court_full_name": "District Court, D. Hawaii",
+    "court_type": "FD",
+    "court_jurisdiction": "Hawaii, HI",
+    "crime_category": "Robbery"
+}

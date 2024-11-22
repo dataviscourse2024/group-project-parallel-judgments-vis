@@ -1,0 +1,46 @@
+{
+    "id": 9322611,
+    "judges": "Brown",
+    "date_filed": 586051200000,
+    "date_filed_is_approximate": false,
+    "slug": "alic-v-thorngate-uniforms-inc",
+    "case_name_short": "Alic",
+    "case_name": "Alic v. Thorngate Uniforms Inc.",
+    "case_name_full": "Alic v. Thorngate Uniforms Inc.",
+    "attorneys": "Vincent A. Couchara, for plaintiff., David P. Rovner, for defendant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "1 Pa. D. & C.4th 566"
+    ],
+    "opinions": [
+        {
+            "author_str": "Brown",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBROWN, J.,\nPlaintiff, Izet Alie, was beaten on February 11, 1986 by a co-employee while working for defendant, Thorngate Uniforms Inc. The employee responsible for the beating had been hired five months before. He has a criminal record extending over a 13-year period according to the complaint.\nAlie charges his employer with an intentional tort and negligently hiring the assailant. He states the *567employer failed to inquire into the attacker\u2019s background before hiring bim, failed to use due carp in hiring, failed to warn plaintiff and failed to provide a safe place to work. We granted defendant\u2019s motion for summary judgment; plaintiff appeals.\nThe Workers\u2019 Compensation Act provides prompt guaranteed payments to workers injured in the course of employment. Snyder v. Congoleum/Kinder Inc., 664 F. Supp. 975, 976 (E.D. Pa. 1987). In exchange for these payments employers have immunity from common-law suits by employees. Wilson v. Asten-Hill Mfg. Co., 791 F.2d 30, 32 (3d Cir.1986). Section 481(a) of the Workers\u2019 Compensation Act states:\n\u201cExclusiveness of remedy; actions by and actions against third party; contract indemnifying third party \u2014\n\u201c(a) The liability of an employer under this act shall be exclusive and in. place of any and all other liability to such employees, his legal representative, husband or wife, parents, dependents, next of kin or anyone otherwise entitled to damages in any action at law or otherwise on account of any injury or death as defined in section 301(c)(1) and (2) or occupational disease as defined in section 108.\u201d 77 Pa.C.S. \u00a7481(a) (Purdon Supp. 1986).. Appellant contends his case falls within a recognized exception to the exclusive remedy provision of section 481(a).\nSome courts have acknowledged an intentional tort exception in cases where the hazard is one which would not normally be expected in the workplace. Readinger v. Gottshall, 201 Pa. Super. 134, 191 A.2d 694 (1963); McGinn v. Valloti, 363 Pa. Super. 88, 525 A.2d 732 (1987); Jones v. PMA Ins. Co., 343 Pa. Super. 411, 495 A.2d 203 (1985). In these cases, such acts as an intentional assault by *568the employer on the employee, fraudulent misrepresentation and intentional infliction of emotional distress were found to be risks not normally expected in the workplace and hence actionable under the intentional tort exception.\nThe facts here do not meet that exception. Higgins v. Clearing Machine Corp., 344 Pa. Super. 325, 496 A. 2d 818 (1985). No allegation is made that defendant employer intended to injure Alie or any employee. The court in Brooks v. Marriott Corp., 36 Pa. Super. 350, 522 A.2d 618 (1987), stated, \u201cIt is well-settled . . . that an employer is not liable under the intentional torts exception for knowing neglect of safety precautions ... or non-disclosure of the hazards of a particular workplace.\u201d Brooks, supra. In Brooks, an action was brought against an employer for failing to warn a worker, killed during a robbery, of previous burglaries at the place of employment The court held that the employer\u2019s knowing neglect of safety precautions caused a hazard normally expected to be present in the workplace and was not actionable under the intentional tort exception.\nThe Pennsylvania Supreme Court in Poyser v. Newman, 514 Pa. 32, 522 A. 2d 548 (1987) refused to allow the intentional tort exception to section 481(a) when an employer allegedly disregarded governmental safety regulations and forbade workers using a machine safety device. The Poyser court held that the Pennsylvania legislature had the issue of intentional harm in mind when drafting the Workers\u2019 Compensation Act, as evidenced by other provisions of the act, but chose not to mention it in connection with section 481.\nThis case is likewise barred by section 481(a). The claim is that defendant failed to provide a safe place to work by not determining and then disclos*569ing the employee\u2019s dangerous propensities.. This falls within the scope \u00f3f Poyser, Brooks and Higgins, which\u2019clearly show that the intentional tort exception is much more narrowly drawn than the appellant contends.\nSummary judgment shall be granted \u201cif the pleadings, depositions, answers to interrogatories and admissioris on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.\u201d PaR.C.P. 1035(b).\nPlaintiff has failed to state a claim within the intentional tort exception. Defendant\u2019s conduct falls short of the actual intent needed to overcome the exclusive remedy provision of section 481(a).\n",
+            "ocr": true,
+            "opinion_id": 9317920
+        }
+    ],
+    "court_short_name": "Montgomery County Court of Common Pleas",
+    "court_full_name": "Pennsylvania Court of Common Pleas, Montgomery County",
+    "court_type": "ST",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

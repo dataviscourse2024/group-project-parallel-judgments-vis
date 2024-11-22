@@ -1,0 +1,47 @@
+{
+    "id": 2682957,
+    "judges": "Acosta, DeGrasse, Freedman, Gonzalez, Richter",
+    "date_filed": 1404345600000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-moore",
+    "case_name_short": "Moore",
+    "case_name": "People v. Moore",
+    "case_name_full": "The People of the State of New York, Respondent, v. James v. Moore, Appellant",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"ASr\">\n    The People of the State of New York, Respondent, v James\n    <em>\n     V.\n    </em>\n    Moore, Appellant.\n   </parties><citation id=\"Akd\">\n    [988 NYS2d 483]\n   </citation>",
+    "citations": [
+        "119 A.D.3d 403",
+        "988 N.Y.S.2d 483"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2014/2014_05020.htm",
+            "author_id": null,
+            "opinion_text": "People v Moore (2014 NY Slip Op 05020)\r\nPeople v Moore\r\n2014 NY Slip Op 05020\r\nDecided on July 3, 2014\r\nAppellate Division, First Department\r\nPublished by New York State Law Reporting Bureau pursuant to Judiciary Law \u00a7 431.\r\nThis opinion is uncorrected and subject to revision before publication in the Official Reports.\r\nDecided on July 3, 2014Gonzalez, P.J., Acosta, DeGrasse, Freedman, Richter, JJ.\r\n\r\n\r\n5460/09 -2596/10 12948B 4871/11 12948A 12948\r\n\r\n[*1] The People of the State of New York, Respondent,\r\nvJames . Moore, Defendant-Appellant.\r\nRobert S. Dean, Center for Appellate Litigation, New York (Claudia Flores of counsel), for appellant.\r\nCyrus R. Vance, Jr., District Attorney, New York (Jared Wolkowitz of counsel), for respondent.\r\nJudgments, Supreme Court, New York County (Charles H. Solomon, J.), rendered November 7 and December 20, 2011, convicting defendant, upon his pleas of guilty, of identity theft in the first degree (two counts), identity theft in the second degree, and grand larceny in the fourth degree (two counts), and sentencing him to an aggregate term of 7 to 14 years, unanimously modified, as a matter of discretion in the interest of justice,\r\nto the extent of reducing the sentences for the first-degree identity theft convictions to terms of 2 to 4 years, resulting in a new aggregate term of 4 to 8 years, and otherwise affirmed.\r\nWe find the sentence excessive to the extent indicated.\r\nTHIS CONSTITUTES THE DECISION AND ORDER\r\nOF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.\r\nENTERED: JULY 3, 2014\r\nDEPUTY CLERK\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+            "ocr": false,
+            "opinion_id": 2682957
+        }
+    ],
+    "court_short_name": "Appellate Division of the Supreme Court of New York",
+    "court_full_name": "Appellate Division of the Supreme Court of the State of New York",
+    "court_type": "SA",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

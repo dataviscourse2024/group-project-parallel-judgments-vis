@@ -1,0 +1,46 @@
+{
+    "id": 7505696,
+    "judges": "Allen, Mann, Pierce",
+    "date_filed": -40608000000,
+    "date_filed_is_approximate": false,
+    "slug": "richards-v-state",
+    "case_name_short": "Richards",
+    "case_name": "Richards v. State",
+    "case_name_full": "Zackery Jack RICHARDS v. STATE of Florida",
+    "attorneys": "Lee R. Horton, Jr., Public Defender, and J. Michael McCarthy, Special Asst. Public Defender, Lakeland, for appellant., Earl Faircloth, Atty. Gen., Tallahassee, and William D. Roth, Asst. Atty. Gen., Lakeland, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "214 So. 2d 31"
+    ],
+    "opinions": [
+        {
+            "author_str": "Mann",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMANN, Judge.\nAppellant was convicted of breaking and entering, destruction of property and possession of burglary tools after a trial at which he handled his own defense. He complains that counsel was not appointed to defend him after his rejection, for no stated cause, of representation by the public defender. This case differs from Donald v. State, 166 So.2d 4S3 (Fla.App.1964), where the public defender withdrew and no replacement was appointed. It differs from King v. State, 157 So.2d 440 (Fla.App.1963), where the defendant\u2019s rights were not communicated to him. It may not have been smart for Richards to reject counsel but his decision was intelligently (i. e. knowingly) made within the legal meaning of that term. He was advised of his rights. He was offered the services of the public defender or, if he could show cause, other counsel. He was told by the trial judge that he was not equipped to represent himself but he elected to do so anyway. There *32is no error. Nor is error shown in the other questions raised.\nAffirmed.\nALLEN, Acting C. J., and PIERCE, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7428844
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

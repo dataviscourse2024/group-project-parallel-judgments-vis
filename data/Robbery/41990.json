@@ -1,0 +1,46 @@
+{
+    "id": 7740042,
+    "judges": "Barkett, Grimes, Harding, Kogan, McDonald, Overton, Shaw",
+    "date_filed": 754790400000,
+    "date_filed_is_approximate": false,
+    "slug": "cash-v-state",
+    "case_name_short": "Cash",
+    "case_name": "Cash v. State",
+    "case_name_full": "St. Elmo CASH, Jr. v. STATE of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender and Glen P. Gifford, Asst. Public Defender, Second Judicial Circuit, Tallahassee, for petitioner., Robert A. Butterworth, Atty. Gen., James W. Rogers, Bureau Chief \u2014 Criminal Appeals, and Carolyn J. Mosley, Asst. Atty. Gen., Tallahassee, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "628 So. 2d 1100"
+    ],
+    "opinions": [
+        {
+            "author_str": "McDonald",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcDONALD, Justice.\nWe review Cash v. State, 609 So.2d 1356, 1356 (Fla. 1st DCA 1992), in which the district court certified the following questions to be of great public importance:\n1. DOES THE STATE HAVE A POS-SESSORY INTEREST IN LOCAL OPTION GASOLINE TAXES COLLECTED BY A RETAIL SELLER UNDER SECTION 336.025 SUCH THAT THE TAXPAYER\u2019S FAILURE TO PAY SUCH TAXES WHEN DUE CONSTITUTES THE OFFENSE OF GRAND THEFT UNDER SECTION 812.014, FLORIDA STATUTES?\n2. IF THE STATE DOES NOT HAVE A POSSESSORY INTEREST IN THE COLLECTED TAXES, IS A CONVICTION FOR GRAND THEFT UNDER THESE CIRCUMSTANCES FUNDAMENTAL ERROR THAT WARRANTS AN APPELLATE COURT TO REVIEW *1101THE ISSUE EVEN THOUGH THE ISSUE HAS NOT BEEN PROPERLY PRESERVED BY THE DEFENDANT?\nWe have jurisdiction pursuant to article V, section 3(b)(4) of the Florida Constitution. We answer the first question in the affirmative, do not reach the second question, and approve the decision of the district court.\nA jury convicted St. Elmo Cash of one count of grand theft pursuant to section 812.-014, Florida Statutes (1987), for the conversion of more than $37,000.00 in tax receipts belonging to the state. Section 336.025, Florida Statutes (1987), which allows counties to levy a local option gas tax on gasoline sold at retail service stations, authorized Cash to collect the instant tax receipts. This section provides that the tax proceeds, along with a monthly return, are to be sent to the Department of Revenue which will then redistribute the funds to the county of original collection. The instant charges arose out of Cash\u2019s failure, as a retail service station dealer, to pay the above-referenced taxes. At trial Cash admitted that he used the tax proceeds to pay other business and personal debts.\nCash contends that his conviction of grand theft under section 812.014, which requires that the goods appropriated must be the \u201cproperty of another,\u201d was improper because the state had no possessory interest in the instant tax receipts. In support of this argument, Cash contends that the tax proceeds were his personal property and that his failure to remit the proceeds to the government merely created the relationship of debtor and creditor. We find this argument to be without merit.\nSubsection 336.025(2)(a) provides in part: \u201cThe tax shall be collected and remitted\u201d by any retailer. Therefore, under section 336.-025, Cash was merely the conduit between the consumer and the state, collecting and holding the funds in trust for the state. His collecting the receipts did not provide him with an ownership interest in those receipts, and the failure to remit the collected amounts did not create a debtor-creditor relationship between Cash and the state. Rather, Cash\u2019s relationship with the state was that of an agent and principal. Subsection 212.62(2)(a), Florida Statutes (1987), allows for the collection of a fuel sales tax similar to section 336.025 and provides that the sales tax is on the \u201cultimate retail consumer\u201d and that retailers \u201cshall act as agent[s] for the state in the collection of such tax.\u201d Although the instant proceeds were collected under section 336.025, rather than subsection 212.62(2)(a), we believe that both sections make retailers agents of the state by authorizing them to operate and collect and remit the sales tax proceeds to the state. Specifically, under subsection 212.62(1) the authority to sell gasoline at retail in this state is a privilege. In return for this privilege, the general fuel taxing statutes, chapters 206 and 212 (part II), and section 336.-025 require retailers to obtain a license, pay certain taxes, perform certain accounting, collect the local option gas tax, and remit those taxes to the state.\nThis grant of authority enabled Cash to deal in retail fuels and collect the instant tax proceeds. In such capacity, Cash acted as an agent of the state and his use of the instant tax proceeds to pay off personal debts is no different than any other agent and principal relationship where the agent misappropriates the principal\u2019s funds. See People v. Kopman, 358 Ill. 479, 193 N.E. 516, 517 (1934) (\u201cThe statute [authorizing a retail tax on the sale of gasoline impliedly] makes the distributor the agent of the state as a collector of the tax. It comes to his hands while he is acting in a fiduciary capacity as agent of the state for its collection. It in no sense belongs to the distributor but is the property of the state.\u201d); Anderson v. State, 221 Wis. 78, 265 N.W. 210 (1936) (gasoline dealers are agents of the state in collecting and remitting the gas sales tax proceeds).\nWe answer the first certified question in the affirmative and, therefore, do not reach the second question regarding fundamental error. Accordingly, we approve the district court\u2019s decision affirming Cash\u2019s conviction.\nIt is so ordered.\nBARKETT, C.J., and OVERTON, SHAW, GRIMES, KOGAN and HARDING, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7676341
+        }
+    ],
+    "court_short_name": "Supreme Court of Florida",
+    "court_full_name": "Supreme Court of Florida",
+    "court_type": "S",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

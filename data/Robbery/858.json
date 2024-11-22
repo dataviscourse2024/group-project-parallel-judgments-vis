@@ -1,0 +1,46 @@
+{
+    "id": 7925401,
+    "judges": "Foley, Leslie, Popovich, Waived",
+    "date_filed": 490924800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-daschendorf",
+    "case_name_short": "Daschendorf",
+    "case_name": "State v. Daschendorf",
+    "case_name_full": "STATE of Minnesota v. Craig DASCHENDORF",
+    "attorneys": "Hubert H. Humphrey, III, Atty. Gen., St. Paul, John E. Pearson, Becker County Atty., Joseph A. Evans, Asst. County Atty., Detroit Lakes, for respondent., Kenneth J. Kludt, Kludt & Parise, Ltd., Moorhead, for appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "371 N.W.2d 255"
+    ],
+    "opinions": [
+        {
+            "author_str": "Leslie",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSUMMARY OPINION\nLESLIE, Judge.\nFACTS\nIn 1981 appellant Craig Daschendorf pleaded guilty to burglary. Imposition of sentence was stayed and he was placed on probation. On April 15, 1984, a probation violation hearing was held in which appellant admitted that he had two misdemeanor D.W.I. convictions and one gross misdemeanor D.W.I. conviction since he was placed on probation. The trial court subsequently revoked probation and ordered execution of sentence of one year and one day to the Minnesota Commissioner of Corrections. On appeal Daschendorf challenges the revocation of probation.\nDECISION\nThe trial court has broad discretion in determining whether probation should be revoked and that decision will be upset only upon a showing of a clear abuse of discretion. State v. Austin, 295 N.W.2d 246 *256(Minn.1980); State v. Spanyard, 358 N.W.2d 125 (Minn.Ct.App.1984); State v. Hemmings, 371 N.W.2d 44 (Minn.Ct.App.1985).\nThe report of the corrections agent recommended that probation be revoked because of appellant\u2019s continued conduct. Appellant clearly violated a condition of probation by committing several offenses while on probation. The trial court did not abuse its discretion in revoking probation and imposing an executed prison sentence of one year and one day.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7875125
+        }
+    ],
+    "court_short_name": "Court of Appeals of Minnesota",
+    "court_full_name": "Court of Appeals of Minnesota",
+    "court_type": "SA",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

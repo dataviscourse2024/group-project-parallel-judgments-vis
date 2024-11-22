@@ -1,0 +1,46 @@
+{
+    "id": 8483052,
+    "judges": "Walker, Wesley, Winter",
+    "date_filed": 1380067200000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-brown",
+    "case_name_short": "Brown",
+    "case_name": "United States v. Brown",
+    "case_name_full": "United States v. Roxanne BROWN, Robert Anthony Warren",
+    "attorneys": "Marshall A. Mintz, Mintz & Oppenheim LLP, New York, NY, For Appellant., Serr\u00edn Turner, Assistant United States Attorney (Justin Anderson, Assistant United States Attorney, on the brief), for Preet Bharara, United States Attorney for the Southern District of New York, New York, NY, For Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "540 F. App'x 31"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*32SUMMARY ORDER\nRobert Anthony Warren appeals from a judgment of conviction entered on December 1, 2011, in the United States District Court for the Southern District of New York. We assume the parties\u2019 familiarity with the facts and the issues raised on appeal.\nFirst, there was sufficient evidence to support the inference that Warren knew that the tax refund checks that he was stealing were obtained through fraudulent returns. Reviewing a sufficiency challenge, \u201cwe need not find that every reasonable jury would have convicted [Warren]; we affirm \u2018if we find that any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.\u2019 \u201d United States v. Goffer, 721 F.3d 113, 124 (2d Cir.2013) (quoting United States v. Stewart, 590 F.3d 93, 109 (2d Cir.2009)). \u201cThe law has long recognized that criminal intent may be proved by circumstantial evidence alone.\u201d United States v. Heras, 609 F.3d 101, 106 (2d Cir.2010). Moreover, Warren \u201clost \u2018his right to have sufficiency assessed on the basis of the government\u2019s presentation of evidence alone\u2019 when he testified on his own behalf.\u201d United States v. Tran, 519 F.3d 98, 105 (2d Cir.2008) (quoting United States v. Aulicino, 44 F.3d 1102, 1114 (2d Cir.1995)). Between Adams\u2019s testimony and Warren\u2019s testimony in his own defense, there was an ample basis for the jury to infer beyond a reasonable doubt that Warren knew that the easily identified U.S. Treasury checks that he was stealing were the product of fraudulent or false claims. The jury did not need to determine Warren\u2019s precise knowledge of \u201cthe details of the conspiratorial scheme or the identities of all of the conspirators.\u201d United States v. Hawkins, 547 F.3d 66, 71 (2d Cir.2008) (internal quotation mark omitted).\nSecond, the evidence missing from the government\u2019s summary chart did not affect Warren\u2019s substantial rights or \u201c \u2018seriously affect the fairness, integrity or public reputation of judicial proceedings.\u2019 \u201d United States v. Botti, 711 F.3d 299, 314 (2d Cir. 2013) (quoting Johnson v. United States, 520 U.S. 461, 470, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997)). Although some of the specific examples of Warren\u2019s calling co-conspirators\u2019 phones without a preceding call were erroneously listed on the summary chart, the existence of other such examples renders this error harmless and well beyond the reach of our plain error review. So too was the government\u2019s misplaced reliance on the accuracy of its summary chart harmless (and a far cry from prosecutorial misconduct). See, e.g., United States v. Coffey, 823 F.2d 25, 27-28 (2d Cir.1987) (per curiam). Finally, Warren\u2019s substantial rights were not impaired by the absence of an unrequested limiting instruction stating that the charts were not evidence. Because of the surfeit of other evidence of Warren\u2019s guilt, he has not \u201cdemonstrate[d] that [any] error was prejudicial ... [by showing that] there is a reasonable probability that the error affected the outcome of the trial.\u201d United States v. Marcus, 628 F.3d 36, 42 (2d Cir.2010) (internal quotation marks omitted).\nFinally, there was no plain error in the government\u2019s summation. See United States v. Williams, 690 F.3d 70, 77-78 (2d Cir.2012). First, \u201c[w]e do not condone the prosecutors\u2019 use of \u2018we know\u2019 statements in closing argument.... Nonetheless, the record ... confirms that the prosecutors used the phrase \u2018we knov/ to marshal evidence actually admitted at trial and reasonable inferences from that evidence, not to vouch for witness veracity or suggest that evidence not produced would support a witness\u2019s statements.\u201d United States v. *33Younger, 398 F.3d 1179, 1191 (9th Cir.2005). Second, \u201cit is not ordinarily improper for the prosecution to make temperate use of forms of the word \u2018lie\u2019 ... \u2018to characterize disputed testimony* where credibility was clearly an issue.\u201d United States v. Shareef, 190 F.3d 71, 79 (2d Cir.1999) (quoting United States v. Peterson, 808 F.2d 969, 977 (2d Cir.1987)). Finally, the government\u2019s imprecision in characterizing Bailey\u2019s testimony was insignificant; overall, \u201c[t]he prosecutor\u2019s jury summation did no more than marshal the evidence and draw reasonable inferences therefrom. This is permissible and did not deprive appellant[ ] of a fair trial.\u201d United States v. Steinberg, 551 F.2d 510, 515 (2d Cir.1977).\nWe have considered all of Warren\u2019s arguments and find them to be without merit. For the reasons stated above, the judgment of the district court is AFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 8455082
+        }
+    ],
+    "court_short_name": "Second Circuit",
+    "court_full_name": "Court of Appeals for the Second Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

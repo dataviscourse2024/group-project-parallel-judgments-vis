@@ -1,0 +1,46 @@
+{
+    "id": 1667975,
+    "judges": "Taylor",
+    "date_filed": 635731200000,
+    "date_filed_is_approximate": false,
+    "slug": "robinson-v-state",
+    "case_name_short": "Robinson",
+    "case_name": "Robinson v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "562 So. 2d 277"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 6165.0,
+            "opinion_text": "\n562 So.2d 277 (1990)\nPhillip Ace ROBINSON\nv.\nSTATE.\n1 Div. 149.\nCourt of Criminal Appeals of Alabama.\nFebruary 23, 1990.\nPhillip Ace Robinson, pro se.\nDon Siegelman, Atty. Gen., and Robin Blevins, Asst. Atty. Gen., for appellee.\nTAYLOR, Presiding Judge.\nThe appellant, Phillip Ace Robinson, appeals from the denial of his Rule 20 A.R.Cr. P.Temp, petition. Appellant contends that the trial court erred in denying his petition *278 without an evidentiary hearing. The appellant states that he received a ten-year split sentence of three years' imprisonment with five years on probation and two years suspended. In his petition, the appellant claims that his sentence exceeded that which was authorized by the Youthful Offender Act. Appellant was adjudicated a Youthful Offender. The three underlying felonies were two counts of theft of property and one count of burglary. Under the youthful offender Act, the maximum punishment which can be received is a total of three years. See, \u00a7 15-19-6, Code of Alabama 1975.\nEven though appellant did not appeal his adjudication, the issue of the legality of his sentence may still be presented to this court. \"Rule 20.1(b) provides for post-conviction relief where the court was without jurisdiction to render judgment or to impose sentence. A claim of a lack of jurisdiction to render judgment or to impose sentence is not precluded as a basis for relief by Rule 20.2 even though the question of jurisdiction could have been but was not raised at trial or on appeal.\" (Emphasis added.) Ferguson v. State, [Ms. 6 Div. 229, February 2, 1990] ___ So.2d ___, ___ (Ala.Cr.App.1990).\n\"If appellant's allegations are true, the sentence exceeded the authority and jurisdiction of the court and is void.\" Ferguson, ___ So.2d at ___. Appellant is entitled to an evidentiary hearing on the allegations in his petition. The trial court erred in denying his petition without a hearing. This case is remanded to the circuit court so that a hearing may be held on the merits of appellant's Rule 20 petition.\nREVERSED AND REMANDED.\nAll the Judges concur.\n",
+            "ocr": false,
+            "opinion_id": 1667975
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

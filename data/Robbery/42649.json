@@ -1,0 +1,47 @@
+{
+    "id": 7883063,
+    "judges": "Pringle",
+    "date_filed": -151459200000,
+    "date_filed_is_approximate": false,
+    "slug": "mcclenny-v-people",
+    "case_name_short": "McClenny",
+    "case_name": "McClenny v. People",
+    "case_name_full": "Billy E. McClenny v. The People of the State of Colorado",
+    "attorneys": "V. G. Seavy, Jr., for plaintiff in error., Duke W. Dunbar, Attorney General, Frank E. Hickey, Deputy, Richard L. Eason, Assistant, for defendant in error.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing denied April 1, 1965.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "156 Colo. 468",
+        "402 P.2d 615"
+    ],
+    "opinions": [
+        {
+            "author_str": "Pringle",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nOpinion by\nMr. Chief Justice Pringle.\nThe plaintiff in error was jointly charged, with one Vernon C. Reed, with burglary and conspiracy to commit burglary. Reed and McClenny were tried together and convicted, Reed being sentenced to a term in the State Reformatory and McClenny to a term in the State Peni*469tentiary. McClenny seeks review of the judgment against him by separate writ of error from that sought by Reed, but a joint brief has been filed here in behalf of both.\nThe assignments of error here are the same as those raised in Reed v. The People, 156 Colo. 450, 402 P.2d 68, decided this day, opinion by Mr. Justice McWilliams.\nUpon the basis of the decision in that case and the opinion therein written, the judgment in this case is affirmed.\nMr. Justice Day and Mr. Justice McWilliams concur.\n",
+            "ocr": true,
+            "opinion_id": 7829643
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

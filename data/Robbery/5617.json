@@ -1,0 +1,46 @@
+{
+    "id": 8891864,
+    "judges": "Gordon",
+    "date_filed": 388972800000,
+    "date_filed_is_approximate": false,
+    "slug": "weber-v-israel",
+    "case_name_short": "Weber",
+    "case_name": "Weber v. Israel",
+    "case_name_full": "Raymond W. WEBER v. Thomas ISRAEL",
+    "attorneys": "Weiss, Steuer, Berzowski, Brady & Donahue by Douglas A. Woodard, Milwaukee, Wis., for petitioner., Bronson C. LaFollette, Wis. Atty. Gen. by Pamela Magee-Heilprin, Asst. Atty. Gen., Madison, Wis., for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "537 F. Supp. 1182"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gordon",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDECISION and ORDER\nMYRON L. GORDON, District Judge.\nMr. Weber seeks a writ of habeas corpus. He was convicted on four counts of armed robbery (party to a crime) on June 29, 1978 in the circuit court for Milwaukee County. The Wisconsin court of appeals affirmed the convictions on July 28, 1980. State v. Weber, -- Wis.2d -, 297 N.W.2d 513 (Ct.App., 1980); see Return to petition, filed November 5, 1981, exh. G (hereinafter \u201cWeber\u201d). Mr. Weber\u2019s application for review by the Wisconsin state supreme court was denied.\nThe petitioner argues that his right to a jury trial was violated because his plea of not guilty by reason of insanity was never presented to the jury. He also contends that identification evidence that was presented at the trial was not reliable because it stemmed from a suggestive lineup. In addition, the petitioner urges that there was insufficient evidence to support the convictions and that the trial court erred in failing to give a cautionary instruction to the jurors on their duty to separate the evidence as to each count.\nI. THE INSANITY PLEA\nThe state acknowledges that early in the proceedings Mr. Weber \u201capparently entered a plea of not guilty by reason of insanity.\u201d The petitioner claims that this occurred \u201con or about December 14, 1976.\u201d It is clear that thereafter the record does not reflect any discussion of a claim by the petitioner as to any mental disease or defect. Thus, while there was no specific withdrawal of the plea, there was also no objection by Mr. Weber\u2019s counsel to the nature of the trial. Mr. Weber urges that this denied him his fourteenth amendment right to due process and his sixth amendment right to a jury trial. The state court of appeals rejected this claim, finding as follows:\n\u201cThe record clearly reflects that no request for a jury trial on the issue of insanity was made at the trial court level, and no objection was recorded concerning the absence of a jury determination of that issue.\u201d Weber, supra, p. 11.\nIn my opinion, the petitioner\u2019s failure to pursue his plea of mental disease was properly deemed a waiver. Mr. Weber did nothing to demonstrate a continued interest in that plea during the year and a half which transpired between the time he \u201capparently\u201d entered the plea and the trial itself. Although represented by counsel during that period, there was no effort made by the defense to persist in the defense of mental disease; no objection was made to the format of the actual trial.\n*1184While the question is not wholly free of doubt, I find it highly unlikely that Mr. Weber actually meant to go forward with his claim of mental inadequacy. To grant the writ of habeas corpus in favor of the petitioner upon this ground would be giving excessive significance to a plea that was completely forsaken by the petitioner. As a practical matter, Mr. Weber was indeed afforded a jury trial, and I believe he had due process of law. Accordingly, I reject his contention that his random reference to insanity a year and a half before the trial entitles him to the granting of a writ of habeas corpus.\nII. THE IDENTIFICATION EVIDENCE\nTwo of the witnesses, Keith Filter and Paulette Dankert, observed the petitioner at a lineup and subsequently gave evidence at the trial. Although their trial testimony on the question of identification was nebulous, the petitioner claims that he was prejudiced by the suggestive lineup on which their ambivalent evidence was based.\nAt the lineup, Mr. Weber and his accomplice wore plaid flannel shirts, while the other three individuals in the lineup were not so clothed. However, none of the victims or the witnesses had ever mentioned anything about plaid shirts being worn by the robbers. The Wisconsin court of appeals disposed of the issue with the following observations:\n\u201cUnder the factors listed above, it cannot be said that the identification procedure was unnecessarily suggestive. The defendants were shown in the lineup in the same shirts that they were arrested in only one day earlier. The police did not supply those shirts to the defendants; rather, they belonged to Weber and Walensa. The shirts themselves cannot be said to be distinctive because not one witness identified the defendants by the shirts that they wore.\u201d Weber, supra, p. 7.\nI agree with the state court of appeals that there was nothing inappropriate or suggestive in the nature of the clothing worn at the lineup.\nI have considered Neil v. Biggers, 409 U.S. 188, 93 S.Ct. 375, 34 L.Ed.2d 401 (1972), and conclude that the petitioner\u2019s reliance on that^case is misplaced. I think the state court of appeals correctly determined that even applying the \u201ctotality of the circumstances,\u201d the lineup conducted in Mr. Weber\u2019s case was not unduly suggestive. In my opinion, the petitioner was not denied a fair trial by reason of the identification evidence in this case.\nIII. INSUFFICIENT EVIDENCE \u2014 CAUTIONARY INSTRUCTION\nUpon the lengthy record submitted to this court, I find no support whatsoever for the petitioner\u2019s claim that there was either an insufficiency of evidence or a constitutional error in connection with a cautionary instruction. Mr. Weber\u2019s counsel did not request any cautionary instruction, and I find no reason to believe that the jury was confounded by either the conflicting evidence or the existence of nine separate counts.\nPursuant to the rules discussed in Jackson v. Virginia, 443 U.S. 307, 326, 99 S.Ct. 2781, 2792, 61 L.Ed.2d 560 (1979), a rational trier of fact could reasonably have found Mr. Weber guilty of the four counts in question.\nIV. CONCLUSION\nTherefore, IT IS ORDERED that the petitioner\u2019s application for a writ of habeas corpus be and hereby is denied.\n",
+            "ocr": true,
+            "opinion_id": 8878147
+        }
+    ],
+    "court_short_name": "E.D. Wisconsin",
+    "court_full_name": "District Court, E.D. Wisconsin",
+    "court_type": "FD",
+    "court_jurisdiction": "Wisconsin, WI",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7661389,
+    "judges": "Taylor",
+    "date_filed": 685324800000,
+    "date_filed_is_approximate": false,
+    "slug": "gdh-v-state",
+    "case_name_short": "G.D.H.",
+    "case_name": "G.D.H. v. State",
+    "case_name_full": "G.D.H. v. STATE",
+    "attorneys": "Richard R. Williams, Mobile, for appellant., James H. Evans, Atty. Gen., and Jack W. Willis, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "587 So. 2d 1069"
+    ],
+    "opinions": [
+        {
+            "author_str": "Taylor",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nTAYLOR, Judge.\nThe appellant, G.D.H., appeals the transfer of his cause from the juvenile court to the Circuit Court for Mobile County. The appellant was charged with theft of property in the first degree and with criminal mischief in the first degree.\nThe state\u2019s evidence tended to show that the appellant, on July 19, 1989, five days before his eighteenth birthday, stole several aluminum support brackets from the tower of one of Alabama Power Company\u2019s relay stations. He and another individual cut the brackets into pieces and scraped off the identification numbers. The appellant then went to a scrap metal yard and sold the aluminum pieces for $30.00. A spokesman for Alabama Power Company testified that because of the destruction to the relay station, caused by the removal of the brackets, the total cost to repair the station would be over $100,000. Because the tower was an interstate transmission tower, the power company referred the case to the FBI, as it had previously had done on other cases. After the FBI investigated the case for about six months, it declined jurisdiction. In February 1990, the United States Attorney\u2019s office declined to prosecute. Alabama Power Company then went to the district attorney\u2019s office for Mobile County. This office advised the Company to file a complaint. Thus, in April 1991, two complaints were filed against the appellant, one alleging theft of property in the first degree and one alleging criminal mischief in the first degree. Because of the appellant\u2019s age, the case was set for juvenile court. Later in April a transfer hearing was held. The court granted the state\u2019s motion and transferred the case to the Circuit Court for Mobile County.\nThe appellant\u2019s only argument on appeal is that his right to a speedy trial was violated because 21 months elapsed from the time of the criminal conduct to the time of the transfer hearing. He further contends that because he is now over 18, the juvenile court has lost jurisdiction.\nThe state argues, and we agree, that because a transfer hearing is not a criminal prosecution, no right to a speedy trial attaches. As Judge Bowen stated in Cruse v. State, 489 So.2d 694 (Ala.Cr.App.1986):\n\u201cUnder the Sixth Amendment to the Constitution of the United States, \u2018[i]n all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial.\u2019 A transfer hearing is not a trial and does not involve a \u2018criminal prosecution.\u2019 Rather, it is the process by which it is determined whether or not a juvenile will be prosecuted as a criminal and tried as an adult. Since a transfer hearing is not a \u2018criminal prosecution\u2019 within the meaning of the constitutional guaranty of the Sixth Amendment right to a speedy trial, that right does not apply to transfer hearings.\u201d\nCruse, 489 So.2d at 697.\nFurther, the juvenile court did not lose jurisdiction because the appellant is now over the age of 18. The age of the perpetrator at the time of the criminal conduct is the age which is relevant for purposes of the juvenile court jurisdiction. Section 12-15-1(3) Code of Alabama 1975, defines the term \u201cchild\u201d for purposes of the Alabama Juvenile Justice Act as, \u201cAn individual under the age of 18, or under 19 years of age and before the juvenile court for a matter arising before that individual\u2019s 18th birthday.\u201d (Emphasis added.) At the time of the offense the appellant was 17. The defendant is governed by the law applicable at the time of the offense. Ex parte Bracewell, 401 So.2d 123 (Ala.1979).\nWe point out that if the appellant prevails on this issue, his case would be before the circuit court. If he does not prevail on this issue, his case would be before the circuit court. Therefore, he could suffer no harm. See Rule 45, A.R.App.P.\nFor the reasons stated above, the appellant\u2019s transfer to the Circuit Court for Mobile County is due to be affirmed.\nAFFIRMED.\nAll the Judges concur.\n",
+            "ocr": true,
+            "opinion_id": 7595488
+        }
+    ],
+    "court_short_name": "Court of Criminal Appeals of Alabama",
+    "court_full_name": "Court of Criminal Appeals of Alabama",
+    "court_type": "SA",
+    "court_jurisdiction": "Alabama, AL",
+    "crime_category": "Robbery"
+}

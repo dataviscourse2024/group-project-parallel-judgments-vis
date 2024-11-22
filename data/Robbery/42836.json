@@ -1,0 +1,57 @@
+{
+    "id": 7922979,
+    "judges": "Dunn, Morgan, Porter, Wollman, Zastrow",
+    "date_filed": 226800000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-shangreaux",
+    "case_name_short": "Shangreaux",
+    "case_name": "State v. Shangreaux",
+    "case_name_full": "STATE of South Dakota, and v. Percy SHANGREAUX, and",
+    "attorneys": "Peter Lieberman, Asst. Atty. Gen., Pierre, for plaintiff and respondent; William J. Janklow, Atty. Gen., Pierre, on the brief., Mario Gonzalez, Martin, for defendant and appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted on Briefs Oct. 16, 1976.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "251 N.W.2d 419"
+    ],
+    "opinions": [
+        {
+            "author_str": "Dunn",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDUNN, Chief Justice.\nThis is an appeal by the defendant of a grand larceny conviction in the Circuit Court of the Sixth Judicial Circuit. Defendant contends on appeal (1) that the state court did not have jurisdiction of a crime committed by an Indian in Martin, Bennett County, which is alleged to be \u201cIndian country,\u201d and (2) that the evidence was insufficient to support the conviction of grand larceny. We affirm.\nSince the Act of May 27, 1910, 36 Stat. 440, Ch. 257 (1910 Act), that portion of Bennett County, including Martin, South Dakota, has been under the jurisdiction of the State of South Dakota for criminal activities of Indians. This court has consistently held that the 1910 Act severed this portion of Bennett County from the Pine Ridge Indian Reservation and placed it under the jurisdiction of the State of South Dakota. State ex rel. Hollow Horn Bear v. Jameson, 1959, 77 S.D. 527, 95 N.W.2d 181; State ex rel. Swift v. Erickson, 1966, 82 S.D. 60, 141 N.W.2d 1; Cook v. State, 1974, S.D., 215 N.W.2d 832.\nThe federal courts in 1975, after an exhaustive study of the legislative history surrounding the passage of the 1910 Act, have likewise found state jurisdiction over Indian criminal activity in Martin, Bennett County. United States, ex rel. Cook v. Parkinson, 1975, D.C.S.D., 396 F.Supp. 473; United States v. Parkinson, 1975, 8 Cir., 525 F.2d 120; Rosebud Sioux Tribe v. Kneip, 1975, 8 Cir., 521 F.2d 87.\nDefendant\u2019s sole argument here is that certiorari has been granted by the United States Supreme Court in Rosebud Sioux Tribe v. Kneip, supra, and that this case from the Eighth Circuit Court of Appeals may be reversed. This argument is premature at this time. The state has maintained Indian criminal jurisdiction over Martin, Bennett County, for over 65 years, and it had jurisdiction to try the defendant on December 8, 1975, for the crime of grand larceny.\nAs to the second question raised of whether the evidence was sufficient to support defendant\u2019s conviction of grand larceny, this court has consistently held that a jury\u2019s verdict of conviction, justified by state\u2019s evidence, including reasonable inferences which the jury might draw from circumstances presented, cannot be disturbed on appeal. State v. Bates, 1955, 76 S.D. 23, 71 N.W.2d 641. Only where the evidence as a matter of law was insufficient will the *420appellate court interfere. State v. Hemmenway, 80 S.D. 153, 120 N.W.2d 561.\nMr. Little Horse was the owner of a green 1964 Plymouth Valiant which he had driven to Martin on the afternoon of July 9, 1975, and parked facing north pulled against the curb across from the M and M Bar. After a few hours in the bar, Mr. Little Horse could not get the car started, and he left it sit and went to spend the night with a friend. When he returned for the automobile the next morning, it was gone.\nThe deputy sheriff, on a routine patrol, noted this small green automobile in a city alley facing southward. He definitely identified the defendant and his two brothers in the vicinity of the automobile and, from the positions of the three men, he thought the automobile was being pushed. He further testified that one-half hour later the automobile had disappeared; it was later found abandoned a few miles out of Martin stripped of its wheels, tires, battery and other accessories.\nOn July 10, 1975, the morning after the disappearance of the automobile, defendant and his two brothers negotiated a sale of two tires and wheels, which admittedly were taken from the stolen automobile, with a Mr. Long at the Husky Station in Martin.\nThere was ample evidence in the record to justify the jury\u2019s conviction of the defendant.\nAffirmed.\nWOLLMAN and ZASTROW and MORGAN, Justices, concur.\nPORTER, Justice, concurs specially.\n",
+            "ocr": true,
+            "opinion_id": 7872459
+        },
+        {
+            "author_str": "Porter",
+            "per_curiam": false,
+            "type": "030concurrence",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPORTER, Justice\n(concurring specially).\nI concur in the opinion. I do, however, believe these additional facts add significant support to our conclusion that the evidence made a jury case.\nThe two younger brothers of defendant testified that they [with several third parties] took the Valiant car. They did so about 7:30 p. m. They manually moved the car from its parked position so that it could be pushed from behind by another car. Defendant and both brothers testified defendant was not present.\nAt about 7:30 p. m. the deputy sheriff saw the Valiant. It was then in a position from which the jury could infer it had already been manually moved from the place it was parked. The deputy saw defendant and his two brothers standing by the car. At about 8:00 p. m. the deputy noticed the car was gone.\nDefendant was present at the scene, after the car had been manually moved, and at the same time his brothers admitted the car was being taken. Given that evidence, his subsequent possession and sale of the two tires and wheels not only shows a theft of those parts, but also is sufficient to make a case for the jury on the crime charged, i. e., grand larceny of the Valiant car.\n",
+            "ocr": true,
+            "opinion_id": 7872460
+        }
+    ],
+    "court_short_name": "South Dakota Supreme Court",
+    "court_full_name": "South Dakota Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "South Dakota, SD",
+    "crime_category": "Robbery"
+}

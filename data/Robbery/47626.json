@@ -1,0 +1,46 @@
+{
+    "id": 8891225,
+    "judges": "Johnson",
+    "date_filed": -817948800000,
+    "date_filed_is_approximate": false,
+    "slug": "flanagan-v-united-states",
+    "case_name_short": "Flanagan",
+    "case_name": "Flanagan v. United States",
+    "case_name_full": "FLANAGAN v. UNITED STATES",
+    "attorneys": "Star Blake Flanagan, pro se., Herman F. Reich, Asst. U. S. Atty., for United States.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "53 F. Supp. 813"
+    ],
+    "opinions": [
+        {
+            "author_str": "Johnson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nJOHNSON, District Judge.\nThis is a petition for a writ of habeas corpus filed by Star Blake Flanagan, a prisoner at the United States Penitentiary, Lewisburg, Pennsylvania. The allegations therein are somewhat vague, with very few facts alleged. However, certain statements therein summarize the petitioner\u2019s contentions.\nAn examination of the petitioner\u2019s allegations indicates that he was charged with a violation of the National Motor Vehicle Theft Act, 18 U.S.C.A. \u00a7 408, in the United States District Court for the Northern District of West Virginia, and that, after counsel had been duly appointed for him, he entered his plea of guilty. He now alleges that he was driving the stolen car under the impression that it belonged to the person from whom he had borrowed it. Having entered his plea of guilty, the question of whether, had he gone to trial, the evidence would have resulted in a conviction cannot now be raised. Even had he gone to trial and been convicted, this question could not be raised here. The evidence bearing on the guilt or innocence of a defendant is not jurisdictional and is not open to review in habeas corpus proceedings. Harlan v. McGourin, Marshal, 218 U.S. 442, 31 S.Ct. 44, 54 L.Ed. 1101, 21 Ann.Cas. 849.\nThe petitioner then further alleges that after an attorney had been appointed by the court, he followed \u201chis advice to plead guilty\u201d. The very purpose of appointing counsel is that the prisoner would have some one to advise him, and this is not an allegation that his plea of guilty was not freely and voluntarily made.\nPetitioner\u2019s chief complaint is that he was \u201cgiven too much time\u201d. The petition states that he was sentenced to a term of four years. This was within the limits allowed by the statute, and the propriety thereof is not reviewable upon a petition for writ of habeas corpus. Walsh v. White, 8 Cir., 32 F.2d 240; Saylor v. Sanford, 5 Cir., 99 F.2d 605; Cleveland v. Sanford, 5 Cir., 103 F.2d 887.\nThere is nothing in his petition which could be construed as an allegation of a violation of due process.\nNow, therefore, the petition for a writ of habeas corpus is dismissed and the writ is denied.\n",
+            "ocr": true,
+            "opinion_id": 8877465
+        }
+    ],
+    "court_short_name": "M.D. Pennsylvania",
+    "court_full_name": "District Court, M.D. Pennsylvania",
+    "court_type": "FD",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

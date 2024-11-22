@@ -1,0 +1,46 @@
+{
+    "id": 8104415,
+    "judges": "Gummere",
+    "date_filed": -1635465600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-rubin",
+    "case_name_short": "Rubin",
+    "case_name": "State v. Rubin",
+    "case_name_full": "THE STATE, IN ERROR v. JACOB RUBIN, IN ERROR",
+    "attorneys": "For the plaintiff in error, Benjamin M. Weinberg., For the state, William K. Flanagan, assistant prosecutor of the pleas.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>1. A motion to quash an indictment, being addressed to the discretion of the court, is not reviewable on writ of error.</p> <p>2. An indictment containing two counts, the first of which charged the defendant with stealing \u201cone hundred and twenty-five pounds of brass,\u201d &c., and the second of which charged him with unlawfully and feloniously receiving the same goods and chattels, by the same description, knowing them to have been stolen, is not bad for indefiniteness. Brass, like any other metallic substance, may exist in an amorphous mass, or in lumps or scraps having-no definite shape or form, and when brass in such condition is made the subject of theft, it is properly described by the words used in the indictment.</p>",
+    "summary": "On error to the Essex Quarter Sessions.",
+    "disposition": null,
+    "history": null,
+    "other_dates": "Submitted November 30, 1917",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "91 N.J.L. 368"
+    ],
+    "opinions": [
+        {
+            "author_str": "Gummere",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nThe opinion of the court was delivered by\nGummere, Chief Justice.\nThe indictment in the present case contained two counts, the first of which charged the plaintiff in error with stealing \u201cone hundred and twenty-five pounds of brass, each pound of the value of fifty-seven cents, in all of the value of seventy-one dollars and twenty-five cents, of the goods and chattels of Abraham Eothchild.\u201d\nThe second count charged him with unlawfully and feloniously receiving the same goods and chattels, by the same description, knowing them to have been stolen. The jury found him guilty on the second count, and judgment was entered accordingly.\n*369Two reasons are now relied upon for the reversal of this judgment \u2014 first, because the trial court refused to quash the indictment, and second, because it overruled a motion in arrest of judgment. Both of these motions were rested upon the same proposition, namely, that the indictment was bad for indefiniteness, in that it did not describe the nature and form of the alleged stolen materials.\nThe motion to quash being addressed to the discretion of the court is not reviewable (State v. Pisamello, 88 N. J. L. 262); but the refusal of the motion in arrest of judgment is properly before us.\nThe theory of counsel for the plaintiff in error that the indictment is indefinite because it does not specify the nature and form of the brass alleged to have been stolen, seems to ns to be untenable, for it assumes as a fact that brass cannot exist in an unmanufactured condition,. or, at least, without having been given some specific form. That such assumption is wholly unwarranted is plain upon a moment\u2019s thought. Brass, like any other metallic substance, may exist in an amorphous mass, or in lumps or scraps having no definite shape or form. When brass in this condition is made the subject of theft, it is. properly described by the words used by the pleader in the present indictment.\nWhether proof that a defendant had stolen, or had purchased knowing it to be stolen, a manufactured article made of brass would support a conviction on an indictment like that under consideration, is a matter that is not now before us, and which we are not, therefore, called upon to consider. The single question before us being whether the indictment is bad for indefiniteness, and that question being resolved against the plaintiff in error for the reason above set forth, the judgment under review must be affirmed.\n",
+            "ocr": true,
+            "opinion_id": 8064989
+        }
+    ],
+    "court_short_name": "Supreme Court of New Jersey",
+    "court_full_name": "Supreme Court of New Jersey",
+    "court_type": "S",
+    "court_jurisdiction": "New Jersey, NJ",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7810976,
+    "judges": "Gross, Gunther, Stone",
+    "date_filed": 1023235200000,
+    "date_filed_is_approximate": false,
+    "slug": "bb-v-state",
+    "case_name_short": "B.B.",
+    "case_name": "B.B. v. State",
+    "case_name_full": "B.B., a child v. STATE of Florida",
+    "attorneys": "Carey Haughwout, Public Defender, and Susan D. Cline, Assistant Public Defender, West Palm Beach, for appellant., . Robert A. Butterworth, Attorney General, Tallahassee, and Judy Hyman, Assistant Attorney General, West Palm Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied July 29, 2002.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "820 So. 2d 987"
+    ],
+    "opinions": [
+        {
+            "author_str": "Stone",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSTONE, J.\nB.B. appeals a disposition order encompassing juvenile adjudications on charges of possession of both cocaine and marijuana and five counts of violating his community control. We affirm in part and reverse in part.\nAt age fourteen, B.B. already had an extensive record dating back to July of 1996 and, as the Department of Juvenile Justice (the department) put it, he was \u201cbeyond parental control.\u201d B.B. had been on community control for four third-degree felonies (criminal mischief, burglary of a conveyance, grand theft auto, and burglary of a structure), and one second-degree felony (burglary of a dwelling).\nAt the disposition hearing, defense counsel objected to the department\u2019s recommendation that B.B. be committed to a maximum-risk residential program pursuant to section 985.313(2), Florida Statutes (1999), because the relevant provision of that statute is available only for juveniles who are at least thirteen years of age and have previously been \u201ccommitted\u201d at least three times to a delinquency commitment program. B.B. acknowledged that he had been \u201ccommitted\u201d to a residential program by order of the court at least three times before, but claims that he had only physically been placed in a residential facility twice, once in 1998 to a level four facility and again in 1999 to a level eight facility. As stated by defense counsel:\n*988Under Section 2 the statute says that he had to have' been committed three or more times. [B.B.] has only been committed twice. He was committed to a level four facility on March 10th, 1998, he did not begin to serve that commitment until sometime in May or- June, and there was then charges that came in that occurred prior to that level four commitment that occurred on January 29th, 1998, and those charges were then brought in after he received his level four commitment; And the Court, at that time, recommitted him to a level four.\nThe defense contends that despite the separate commitment orders, it amounted to only two commitments, as B.B. physically entered, and completed, a level four placement only once.1\nWe have considered, and deem inapposite, S.C. v. Peterson, 718 So.2d 220 (Fla. 4th DCA 1998). There, we recognized that a home detention, pending placement, was not a \u201ccommitment\u201d as it was not the \u201cjudicial act of placing a juvenile into a custodial program,\u201d for the purpose of computing incarceration time under section 985.231(l)(d), Florida Statutes (1997). Id. at 221.\nHere, we are not concerned with the length of B.B.\u2019s incarceration, but rather, whether he may be committed to a maximum risk (level ten) facility, due to his record of prior residential commitments. We conclude that the statutory language of section 985.313(2) is unambiguous. In the context of this .provision, the term \u201ccommitment\u201d has a clear meaning as it also includes a number of itemized offenses for which maximum-risk commitment is available, irrespective of prior commitments. Therefore, in determining eligibility under this section, it is not necessary to review the dates that a juvenile entered and left prior custodial settings; it is sufficient for the trial court to review the number of prior separate commitment orders entered.\nAlthough we affirm, both parties agree that the order of disposition should be remanded to allow the trial court to correct a clerical error. At the disposition hearing, the court acknowledged that B.B. would not qualify for maximum risk commitment for his adjudication of guilt on the misdemeanor charge. - However, the court\u2019s disposition order does not reflect its oral pronouncement. We remand to allow the court to enter a written order reflecting its ruling.\nGUNTHER and GROSS, JJ\u201e concur.\n\n. The level four commitment and the level eight commitment encompassed all five of the felonies referenced above for which his post-incarceration community control was revoked.\n\n",
+            "ocr": true,
+            "opinion_id": 7752041
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

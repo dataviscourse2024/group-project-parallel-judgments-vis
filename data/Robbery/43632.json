@@ -1,0 +1,46 @@
+{
+    "id": 8070766,
+    "judges": "Curtis, Cybulski, Hon, Langton",
+    "date_filed": 1005264000000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-remillard",
+    "case_name_short": "Remillard",
+    "case_name": "State v. Remillard",
+    "case_name_full": "STATE OF MONTANA v. LOUIS REMILLARD",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Done in open Court this 11th day of October, 2001.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "308 Mont. 96"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nDecision\nOn April 10, 2001, the defendant was sentenced to the following: Count I: Ten (10) years in the Montana State Prison for the offense of Theft, a felony; and Count II: Ten (10) years in the Montana State Prison for the offense of Theft, a felony, to run concurrently with each other and concurrently with the sentence received in Cause Number DC-00-305, and to run consecutively with the sentences received in Cause Numbers DC-00-827 and DC-00-11.\nOn October 11,2001, the defendant's application for review of that sentence was heard by the Sentence Review Division of the Montana Supreme Court.\nThe defendant was present and was represented by Ben Reed. The state was represented by Dan Schwarz.\nBefore hearing the application, the defendant was advised that the Sentence Review Division has the authority not only to reduce the sentence or affirm it, but also increase it. The defendant was further advised that there is no appeal from a decision of the Sentence Review *97Division. The defendant acknowledged that he understood this and stated that he wished to proceed.\nDATED this 9th day of November, 2001.\nDone in open Court this 11th day of October, 2001.\nIt is the unanimous decision of the Sentence Review Division that the sentence shall be amended as follows: Count I: Ten (10) years in the Montana State Prison; and Count II: Ten (10) years in the Montana State Prison, all suspended. The sentences imposed in Counts I and II shall run concurrently to each other, but consecutively to the sentences imposed in Cause Numbers DC-00-305, DC-00-827, and DC-00-11. The defendant is not eligible for parole for the first ten (10) years of said total thirty (30) year term for the sentences imposed in criminal causes DC-00-827, DC-00-11, DC-00-849, DC-00-850, DC-00-777, DC-00-305, and DC-00-458. In summary, the defendant is sentenced to thirty (30) years in the Montana State Prison, with ten (10) years suspended; the defendant is not eligible for parole until he has served ten (10) years of this sentence.\nThe reason for the amendment is that the sentence was clearly inadequate because it did not provide for sufficient community supervision.\nChairman, Hon. Jeffrey H. Langton, Member, Hon. David Cybulski and Member, Hon. Katherine R. Curtis.\n",
+            "ocr": true,
+            "opinion_id": 8029302
+        }
+    ],
+    "court_short_name": "Montana Supreme Court",
+    "court_full_name": "Montana Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Montana, MT",
+    "crime_category": "Robbery"
+}

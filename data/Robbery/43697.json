@@ -1,0 +1,47 @@
+{
+    "id": 8083259,
+    "judges": null,
+    "date_filed": -530409600000,
+    "date_filed_is_approximate": false,
+    "slug": "bigness-v-second-judicial-district-court",
+    "case_name_short": "Bigness",
+    "case_name": "Bigness v. Second Judicial District Court",
+    "case_name_full": "GLENN N. BIGNESS v. THE SECOND JUDICIAL DISTRICT COURT OF THE STATE OF NEVADA, in and for the County of Washoe, Department 1 Thereof",
+    "attorneys": "Morgan Anglim, of Reno, for Petitioner.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "70 Nev. 64",
+        "254 P.2d 447"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*65OPINION\n\nPer Curiam:\n\nThis is on petition for writ of certiorari.\nOn May 22, 1937, petitioner was by respondent court adjudged guilty of the crime of burglary in the first degree and sentenced to serve a term of from 1 to 15 years in the Nevada state prison. Judgment was rendered upon a plea of guilty and waiver of preliminary examination and time for passing of sentence. On the same day he was delivered into the custody of the warden of the state prison where he remained until released upon parole May 4, 1938.\nPetitioner does not now assert his innocence but contends that respondent court was without jurisdiction to enter judgment. This contention is based upon the fact that petitioner was without counsel; that while the court by inquiry ascertained that petitioner did not have or desire counsel, his rights to counsel were not fully or properly explained to him.\nPetitioner had by law six months within which to raise this question by appeal. No action, of any sort was taken until the presentation of this petition nearly 15 years later and after his sentence had been fully served.\nWhile our statutes do not provide any time limit within which to seek review by certiorari it is our view that under all of the circumstances petitioner has failed to act within a reasonable period of time and that our discretion, accordingly, must be exercised in a refusal to grant the writ.\nWrit denied.\n",
+            "ocr": true,
+            "opinion_id": 8042939
+        }
+    ],
+    "court_short_name": "Nevada Supreme Court",
+    "court_full_name": "Nevada Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Nevada, NV",
+    "crime_category": "Robbery"
+}

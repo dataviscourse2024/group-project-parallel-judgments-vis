@@ -1,0 +1,46 @@
+{
+    "id": 8797024,
+    "judges": "Luongo",
+    "date_filed": 15033600000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-ex-rel-cunningham-v-rundle",
+    "case_name_short": "Rundle",
+    "case_name": "United States ex rel. Cunningham v. Rundle",
+    "case_name_full": "UNITED STATES of America ex rel. Ernest CUNNINGHAM v. A. T. RUNDLE, Superintendent",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "314 F. Supp. 1198"
+    ],
+    "opinions": [
+        {
+            "author_str": "Luongo",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\n*1199OPINION\nLUONGO, District Judge.\nErnest Cunningham, a state prisoner, was convicted on charges of larceny and aggravated robbery (Bill Nos. 1287, 1289, April Sessions 1963, Court of Quarter Sessions, Philadelphia). No appeal was taken from that conviction. In 1967 Cunningham filed a petition under the Pennsylvania Post Conviction Hearing Act, 19 P.S. \u00a7 1180-1, et seq., alleging that he was denied the right to appeal his convictions because he was not advised of his right to appeal. The state court appointed counsel to represent Cunningham in the PCHA proceedings. On February 14, 1968, the Honorable Bernard J. Kelley granted him leave to file post trial motions nunc pro tunc.\nOn August 27, 1968, the Honorable Joseph Gold ordered a new trial on the larceny bill, No. 1287, and denied the motions on the aggravated robbery bill, No. 1289. There was no appeal taken from Judge Gold\u2019s order denying the motions for new trial on Bill No. 1289.1\nIn the habeas corpus petition filed in this court, Cunningham asserts that because of court appointed counsel\u2019s failure to communicate with him, he is under the impression that Judge Gold has not as yet handed down a final and appealable order, and he requests that this court take jurisdiction because of the \u201cinordinate delay\u201d in disposing of his petition in the state courts.\nIt is clear that whatever injury relator has suffered in this matter is the result of the alleged ineffective assistance of counsel, and not the result of any attempt by the state courts or other state officials to delay his application.\nRelator has never properly presented to the state court for its consideration the claim that court appointed counsel failed to discharge his duty to prosecute the PCHA petition to conclusion. There are adequate available state remedies for obtaining an order permitting an appeal nunc pro tunc from the adverse PCHA ruling if relator can demonstrate to the state court that the failure to appeal was due to the fault of counsel. See Commonwealth v. Haywood, 436 Pa. 522, 261 A.2d 78 (1970), citing Commonwealth v. Baker, 429 Pa. 209, 239 A.2d 201 (1969).\nThis petition will, therefore, be dismissed, without prejudice, for failure to exhaust available state remedies.\nORDER\nIt is ordered that the Petition of Ernest Cunningham for Writ of Habeas Corpus is dismissed, without prejudice, for failure to exhaust state remedies.\nThere is no probable cause for appeal from this Older.\n\n. Upon motion of the Commonwealth, Bill No. 1287 was nol prossed on March 20,1970.\n\n",
+            "ocr": true,
+            "opinion_id": 8781105
+        }
+    ],
+    "court_short_name": "E.D. Pennsylvania",
+    "court_full_name": "District Court, E.D. Pennsylvania",
+    "court_type": "FD",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

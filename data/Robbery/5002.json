@@ -1,0 +1,46 @@
+{
+    "id": 8764759,
+    "judges": "Patterson",
+    "date_filed": -994982400000,
+    "date_filed_is_approximate": false,
+    "slug": "in-re-marshall",
+    "case_name_short": "In re Marshall",
+    "case_name": "In re Marshall",
+    "case_name_full": "In re MARSHALL",
+    "attorneys": "Stanley Ide LaCov, of New York City (John M. Percy, of New York City, of counsel), for petitioner., Samuel I. Osofsky, of Yonkers, N. Y., for bankrupt.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "24 F. Supp. 1012"
+    ],
+    "opinions": [
+        {
+            "author_str": "Patterson",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPATTERSON, District Judge.\nIsaac Leon Corporation, a creditor of the bankrupt, brought a petition to have the bankruptcy court declare the effect of the discharge granted to the bankrupt and enjoin the bankrupt from using the discharge as a defense to the petitioner\u2019s claim.\nThe facts are not disputed. The petitioner in 1932 brought an action in the New York Supreme Court against Marshall and National Surety Company, alleging in the complaint that Marshall, while in the petitioner\u2019s employ \u201cembezzled, stole, wrongfully converted, dishonestly and fraudulently took\u201d moneys from the petitioner in the amount of $20,686, and that National Surety Company was liable on fidelity bond. The petitioner recovered judgment against Marshall. The judgment, entered May 20, 1933, recites that the action came on for trial, that the defendant National Surety Company made settlement of the claim made against it, and that the defendant Marshall \u201cin open court confessed to judgment in the sum of $20,686\u201d; and the judgment adjudges that the plaintiff have judgment against the defendant Marshall for the sum of $20,686 and $155.35 costs and have execution therefor. Marshall, having meanwhile served in prison for theft from the petitioner, filed voluntary petition in bankruptcy in this court on May 10, 1934, listing the petitioner as a creditor, and received discharge in due course, the petitioner filing no proof of claim and making no appearance. In 1937 the petitioner, in an effort to collect on its judgment, obtained an order from the state court requiring Marshall to appear for examination in proceedings supplementary to execution. Marshall was served but did not obey the order. The petitioner then moved to have him punished for contempt. The state court made an order denying the motion and vacating the order for examination in supplementary proceedings, \u201con ground the judgment was discharged in bankruptcy. Any rights which the judgment creditor claimed to have should have been there asserted.\u201d' On the petitioner\u2019s appeal, the order was affirmed by the Appellate Division, Isaac Leon Corporation v. Marshall, 252 App.Div. 845, 300 N.Y.S. 1000, and leave to appeal to the Court of Appeals was denied by the Appellate Division, 253 App.Div. 715, 1 N.Y.S.2d 651, and later by the Court of Appeals, 13 N.E.2d 479. The petitioner then brought the- present proceeding in the bankruptcy court. It is claimed, first, that the judgment is not barred by discharge in bankruptcy, being a debt \u201cfor willful and malicious injuries to the person or property of another\u201d, second, that the failure of the petitioner to assert non-dischargeability in the bankruptcy proceeding did not prejudice collectability of the claim. But the question of jurisdiction to entertain the petition must be dealt with before these points may be considered.\nThe bankruptcy court has jurisdiction of a proceeding like the present, a pro*1014ceeding to determine whether the bankrupt\u2019s discharge is a bar to a provable debt. Local Loan Co. v. Hunt, 292 U.S. 234, 54 S.Ct. 695, 78 L.Ed. 1230, 93 A.L.R. 195; In re Devereaux, 2 Cir., 76 F.2d 522. The proceeding is treated like an ancillary bill in equity. The exercise of the jurisdiction, however, is reserved for unusual cases, such as cases where the obtaining of relief in the state courts would work a hardship. It is still normal practice for the bankruptcy court merely to determine whether or not the bankrupt is entitled to discharge under section 14 of the Bankruptcy Act, 11 U. S.C.A. \u00a7 32, and to leave it to other courts to decide later the effect of the discharge on particular debts under section 17 of the Act, 11 U.S.C.A. \u00a7 35. In re Devereaux, supra.\nNo special conditions calling for exercise of the jurisdiction are alleged to exist in this case, beyond the claim that the state courts have erred. The issue whether the judgment was discharged in bankruptcy has been fought out in the state courts, and the decision there against the petitioner is res judicata here. The petitioner asserts that it would have been 'useless to have applied for relief from the United States Supreme Court by way of certiorari to the state courts, arguing that the order refusing to punish, for contempt was not a final order. But the sole basis of the order was a construction placed by the state court on the Bankruptcy Act, 11 U.S.C.A. \u00a7 1 et seq. And the order went further than to deny punishment for contempt; it vacated the prior order for supplementary proceedings and put an end to the petitioner\u2019s effort to realize on its judgment against the bankrupt. I am of opinion that the order was sufficiently final to have permitted review in the Supreme Court of the proceedings of the state courts and that the petitioner therefore had a remedy in regular course. If a proceeding such as the present one were to be entertained, it would become a routine matter for a creditor or a bankrupt who was defeated in the state court in litigation over the effect of a discharge in bankruptcy to resort to the bankruptcy court for a review of orders of judgments of the state court. The Circuit Court of Appeals of this circuit made it clear in the Devereaux Case that no such review should be permitted. The petition will be dismissed. Settle order on notice.\n",
+            "ocr": true,
+            "opinion_id": 8748201
+        }
+    ],
+    "court_short_name": "S.D. New York",
+    "court_full_name": "District Court, S.D. New York",
+    "court_type": "FD",
+    "court_jurisdiction": "New York, NY",
+    "crime_category": "Robbery"
+}

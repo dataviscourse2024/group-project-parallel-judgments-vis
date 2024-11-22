@@ -1,0 +1,46 @@
+{
+    "id": 8288287,
+    "judges": null,
+    "date_filed": 1554249600000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-moore",
+    "case_name_short": "Moore",
+    "case_name": "State v. Moore",
+    "case_name_full": "STATE of Iowa v. Derrick Deonte MOORE",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "928 N.W.2d 660"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSee Iowa R. App. P. 6.904\nA defendant appeals convictions for burglary, harassment, domestic abuse assault, and marijuana possession. AFFIRMED.\nAFFIRMED.\n",
+            "ocr": true,
+            "opinion_id": 8254389
+        }
+    ],
+    "court_short_name": "Court of Appeals of Iowa",
+    "court_full_name": "Court of Appeals of Iowa",
+    "court_type": "SA",
+    "court_jurisdiction": "Iowa, IA",
+    "crime_category": "Robbery"
+}

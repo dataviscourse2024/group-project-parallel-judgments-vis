@@ -1,0 +1,46 @@
+{
+    "id": 7830852,
+    "judges": "Farmer, Shahood, Taylor",
+    "date_filed": 1109116800000,
+    "date_filed_is_approximate": false,
+    "slug": "colston-v-state",
+    "case_name_short": "Colston",
+    "case_name": "Colston v. State",
+    "case_name_full": "Marcus L. COLSTON v. STATE of Florida",
+    "attorneys": "Patrick C. Rastatter of Glass & Rastat-ter, P.A., Fort Lauderdale, for appellant., Charles J. Crist, Jr., Attorney General, Tallahassee, and James J, Carney, Assistant Attorney General, West Palm Beach, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "894 So. 2d 300"
+    ],
+    "opinions": [
+        {
+            "author_str": "Shahood",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSHAHOOD, J.\nWe affirm appellant\u2019s, Marcus Colston, conviction and sentence for robbery with a firearm and aggravated battery with a firearm. As his second issue, appellant argues the trial court erred in allowing the state to exercise a peremptory challenge in a manner which excluded prospective black jurors solely based on their race. This issue was not preserved for appeal. But' for the preservation issue we would have a great concern for the striking by the state of prospective juror Corathea Thomas for, among other reasons, having \u201ctwo gold teeth.\u201d\nWe affirm as to the remaining issues raised without further discussion.\nAFFIRMED.\nFARMER, C.J., and TAYLOR, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7773280
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

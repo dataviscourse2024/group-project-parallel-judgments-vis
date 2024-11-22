@@ -1,0 +1,46 @@
+{
+    "id": 7543745,
+    "judges": "Boyer, Johnson, Mills",
+    "date_filed": 163641600000,
+    "date_filed_is_approximate": false,
+    "slug": "deal-v-state",
+    "case_name_short": "Deal",
+    "case_name": "Deal v. State",
+    "case_name_full": "Stephen Wilson DEAL v. STATE of Florida",
+    "attorneys": "Richard W. Ervin, III, Public Defender, and Stephen Wilson Deal, in pro. per., for appellant., Robert L. Shevin, Atty. Gen., and Donald K. Rudser, Asst. Atty. Gen., for appel-lee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "309 So. 2d 43"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAppellant seeks reversal of the order denying his motion to vacate judgment and sentence entered for the offense of robbery.\nWe have carefully examined the record-on-appeal and the briefs submitted by the parties. Upon our consideration thereof, we find that appellant has failed to demonstrate reversible error in the proceedings below, and the order appealed herein is accordingly\nAffirmed.\nJOHNSON, Acting C. J., and BOYER and MILLS, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7468966
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

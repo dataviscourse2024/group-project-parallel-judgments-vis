@@ -1,0 +1,46 @@
+{
+    "id": 8628350,
+    "judges": "Barksdale, Benavides, Davis",
+    "date_filed": 1172188800000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-anchondo",
+    "case_name_short": "Anchondo",
+    "case_name": "United States v. Anchondo",
+    "case_name_full": "United States v. Pedro Alejandro ANCHONDO",
+    "attorneys": "Joseph H. Gay, Jr., Assistant U.S. Attorney, U.S. Attorney\u2019s Office, Western District of Texas, San Antonio, TX, for Plaintiff-Appellee., Federal Public Defender\u2019s Office, Western District of Texas, San Antonio, TX, for Defendant-Appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "220 F. App'x 262"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM: *\nPedro Alejandro Anchondo pleaded guilty to one charge.of bank robbery and was sentenced to 151 months in prison. He contends his sentence is unreasonable because it was more harsh than his co-defendant\u2019s and exceeds the sentencing aims of 18 U.S.C. \u00a7 3553.\nAnchondo\u2019s parity argument is unavailing. See United States v. Duhon, 440 F.3d 711, 721 (5th Cir.2006) (\u201cthe need to avoid disparity ... [concerns] similarly-situated defendants nationwide rather than disparity with [Anchondo\u2019s] differently-situated codefendant\u201d), petition for cert. filed (18 May 2006) (No. 05-11144). Considering Anchondo\u2019s sentence was at the bottom of the career-offender guideline\u2019s range, U.S.S.G. \u00a7 4B1.1, he fails to show it was unreasonable under \u00a7 3553. See United States v. Alonzo, 435 F.3d 551, 554 (5th Cir.2006).\n\nAFFIRMED.\n\n\n Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.\n\n",
+            "ocr": true,
+            "opinion_id": 8607771
+        }
+    ],
+    "court_short_name": "Fifth Circuit",
+    "court_full_name": "Court of Appeals for the Fifth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

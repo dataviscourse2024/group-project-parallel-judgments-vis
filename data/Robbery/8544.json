@@ -1,0 +1,46 @@
+{
+    "id": 666451,
+    "judges": null,
+    "date_filed": 762480000000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-corey-maurice-treadwell",
+    "case_name_short": null,
+    "case_name": "United States v. Corey Maurice Treadwell",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Unpublished",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "19 F.3d 1442"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": "http://bulk.resource.org/courts.gov/c/F3/19/19.F3d.1442.93-50354.html",
+            "author_id": null,
+            "opinion_text": "19 F.3d 1442\n    NOTICE: Ninth Circuit Rule 36-3 provides that dispositions other than opinions or orders designated for publication are not precedential and should not be cited except when relevant under the doctrines of law of the case, res judicata, or collateral estoppel.UNITED STATES of America, Plaintiff-Appellee,v.Corey Maurice TREADWELL, Defendant-Appellant.\n    No. 93-50354.\n    United States Court of Appeals, Ninth Circuit.\n    Submitted Feb. 22, 1994.*Decided March 1, 1994.\n    \n      Before:  SCHROEDER, CANBY, and WIGGINS, Circuit Judges.\n    \n    \n      1\n      MEMORANDUM**\n    \n    \n      2\n      Corey M. Treadwell appeals his conviction, following a jury trial, for armed bank robbery and using a firearm during and in relation to a crime of violence, in violation of 18 U.S.C. Secs. 2113(a), (d) and Secs. 924(c), (d).  We affirm.\n    \n    \n      3\n      Treadwell first argues that the evidence was insufficient to prove that the First Interstate Bank he was charged with robbing was insured by the Federal Deposit Insurance Corporation (FDIC).  We disagree.1  The government's evidence that the victim bank was insured by the FDIC included:  (1) testimony by a bank employee that the bank was federally insured, (2) a certified copy of the bank's FDIC certificate of insurance, dated June 1, 1981, and (3) an FDIC certification of insured status for October 2, 1992, the date of the robbery.  We conclude that this evidence was sufficient to allow a rational jury to find that the First Interstate Bank was insured by the FDIC.   See Jackson v. Virginia, 443 U.S. 307, 319 (1979) (conviction must be upheld if, viewing the evidence and all reasonable inferences drawn from it in the light most favorable to the government, any rational trier of fact could have found the defendant guilty beyond a reasonable doubt);   United States v. Bellucci, 995 F.2d 157, 160 (9th Cir.1993) (bank's FDIC certificate of insurance was sufficient to prove that the bank was federally insured);   United States v. Corbin, 972 F.2d 271, 272 (9th Cir.1992) (\"[w]e have held that bank employees' uncontradicted testimony of a bank's insured status can sufficiently support the jury's conclusion that this element was proven beyond a reasonable doubt\") (citing  United States v. Campbell, 616 F.2d 1151, 1153 (9th Cir.), cert. denied, 447 U.S. 910 (1980)).\n    \n    \n      4\n      Treadwell next argues that the evidence was insufficient to prove that he committed the bank robbery.  This argument fails.  Indeed, the government presented substantial evidence from which the jury rationally could conclude that Treadwell was one of the bank robbers.  First, Treadwell was a passenger in the car used by the robbers to flee the crime scene, and he was apprehended shortly after the robbery occurred.  Moreover, a great deal of physical evidence that connected Treadwell to the robbery was found in the car, including:  two guns, a pillowcase containing money and two electronic tracking devices taken from the bank, and a nylon stocking and shirt worn by one of the robbers.  Treadwell also had a wad of currency in the pocket of his pants;  this currency included the \"bait bills\" stolen from the bank.  Finally, upon being arrested, Treadwell gave a false name and birth date to the police.  We conclude that the evidence amply supports the jury's verdict against Treadwell.   See Jackson, 443 U.S. at 319.\n    \n    \n      5\n      AFFIRMED.\n    \n    \n      \n        *\n         The panel unanimously finds this case suitable for decision without oral argument.  Fed.R.App.P. 34(a);  9th Cir.R. 34-4\n      \n      \n        **\n         This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by 9th Cir.R. 36-3\n      \n      \n        1\n         We decline to consider the government's argument that we should review the sufficiency of the evidence for plain error because we affirm Treadwell's conviction even under the more lenient standard of review that he advocates\n      \n    \n    ",
+            "ocr": false,
+            "opinion_id": 666451
+        }
+    ],
+    "court_short_name": "Ninth Circuit",
+    "court_full_name": "Court of Appeals for the Ninth Circuit",
+    "court_type": "F",
+    "court_jurisdiction": "USA, Federal",
+    "crime_category": "Robbery"
+}

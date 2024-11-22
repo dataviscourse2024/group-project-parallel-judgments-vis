@@ -1,0 +1,46 @@
+{
+    "id": 7509314,
+    "judges": "Barkdull, Pearson, Swann",
+    "date_filed": -17712000000,
+    "date_filed_is_approximate": false,
+    "slug": "morgan-v-state",
+    "case_name_short": "Morgan",
+    "case_name": "Morgan v. State",
+    "case_name_full": "James MORGAN v. The STATE of Florida",
+    "attorneys": "Robert L. Koeppel, Public Defender, and Phillip A. Hubbart, Asst. Public Defender, for appellant., Earl Faircloth, Atty. Gen., and Jesse J. McCrary, Jr., and Melvin Grossman, Asst. Attys. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "223 So. 2d 801"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nThe appellant was charged by information with robbery. He entered a plea of not guilty, and on October 16, 1968, was tried by a jury composed of six members. The jury found the appellant guilty of the lesser offense of grand larceny. The court adjudicated him convicted and sentenced him to five years in the state penitentiary.\nThis appeal presents a single point. \u201cIs it a violation of a criminal defendant\u2019s federal constitutional right to a jury trial * * to try said defendant for the crime of robbery with the jury composed of less than twelve people ? \u201d The point presented was properly raised by timely motions and preserved by appropriate objections below.\nAppellant\u2019s position is not that the federal courts have held that the federal constitutional right to be tried by a 12-man jury is applicable to the states. His argument is that such a holding is logically required by the fact that the United States Supreme Court has held that a jury in a federal criminal trial must be composed of 12 members and that it has recently held in Duncan v. Louisiana, 391 U.S. 145, 194, 88 S.Ct. 1444, 20 L.Ed.2d 491, 522 (1968), that a misdemeanor punishable by two years in prison is a serious crime, not a petty offense, and that consequently the appellant there was entitled to a jury trial in a state court.1\nWe are not persuaded by the appellant\u2019s argument. The provision for a six man jury in all criminal cases except capital cases was first held constitutional by the Supreme Court of Florida in 1877. Gibson v. State, 16 Fla. 291, 300 (1877). See Williams v. State, Fla.App.1969, 224 So.2d 406.* The court in Duncan did not hold that the appellant was entitled to a trial by a 12 member jury. See discussion concerning Maxwell v. Dow, 176 U.S. 581, 20 S.Ct. 448, 44 L.Ed. 597, 598 (1900), in Duncan, 391 U.S. at 154-155, 88 S.Ct. 1444, 20 L.Ed.2d at 499. Moreover, in his concurring opinion Mr. Justice Fortas stated: \u201cI see no reason whatever * * * to assume that our decision today should require us *802to impose federal requirements such as * * * a jury of 12 upon the States,\u201d 391 U.S. at 213, 88 S.Ct. at 1459, 20 L.Ed. 2d at 535.\nAffirmed.\n\n. The rule announced in Duncan does not apply to any trial begun prior to May 20, 1968. Destefano v. Woods, 392 U.S. 631, 88 S.Ct. 2093, 20 L.Ed.2d 1308 (1968). As noted above the trial in the instant case was begun on October 16, 1968.\n\n\n [Third District, filed April 29, 1969.]\n\n",
+            "ocr": true,
+            "opinion_id": 7432635
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

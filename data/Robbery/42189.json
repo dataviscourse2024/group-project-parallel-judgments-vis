@@ -1,0 +1,46 @@
+{
+    "id": 7776149,
+    "judges": "Parker, Quince, Whatley",
+    "date_filed": 898819200000,
+    "date_filed_is_approximate": false,
+    "slug": "harvey-v-state",
+    "case_name_short": "Harvey",
+    "case_name": "Harvey v. State",
+    "case_name_full": "Jose HARVEY v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and John S. Lynch, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Timothy A. Freeland, Assistant Attorney General, Tampa, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "712 So. 2d 796"
+    ],
+    "opinions": [
+        {
+            "author_str": "Whatley",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nWHATLEY, Judge.\nJose Harvey appeals the habitual offender sentence he received in case number 91-541 for his violation of community control. We agree that the sentence is improper and reverse.\nIn 1991, Harvey pleaded no contest to possession of cocaine and was sentenced to 364 days in jail and 2 years of probation. The trial court did not sentence Harvey as a habitual offender at this time. Thereafter, Harvey violated his probation when he committed a burglary. He pleaded no contest to the burglary and violating his probation. The trial court sentenced him to concurrent terms of two years of community control in both cases. In addition, the court sentenced Harvey as a habitual offender for the burglary.\nHarvey then violated community control, and after admitting the violation, he was sentenced as a habitual offender to concurrent ten-year prison sentences for both the possession charge and the burglary charge. Harvey contends, and the State concedes, that it was improper to sentence him as a habitual offender upon his violation of community control when he was not sentenced as a habitual offender on the original offense. See King v. State, 681 So.2d 1136 (Fla.1996) (holding that it is improper to sentence a defendant as a habitual offender upon revocation of probation, where the defendant was not originally sentenced as a habitual offender).\nAccordingly, we reverse Harvey\u2019s habitual offender sentence for possession of cocaine and remand this case for the trial court to impose a sentence pursuant to the guidelines.\nPARKER, C.J., and QUINCE, J., concur.\n",
+            "ocr": true,
+            "opinion_id": 7714905
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

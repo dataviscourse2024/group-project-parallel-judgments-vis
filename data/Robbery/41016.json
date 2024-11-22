@@ -1,0 +1,46 @@
+{
+    "id": 7545220,
+    "judges": "Johnson, Mills, Rawls",
+    "date_filed": 169430400000,
+    "date_filed_is_approximate": false,
+    "slug": "mcduffie-v-state",
+    "case_name_short": "McDuffie",
+    "case_name": "McDuffie v. State",
+    "case_name_full": "Joseph Lee McDUFFIE v. STATE of Florida",
+    "attorneys": "Thomas R. Hess, Ossinsky & Krol, Day-tona Beach, for appellant., Robert L. Shevin, Atty. Gen., for appel-lee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "312 So. 2d 467"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAppellant seeks reversal of his conviction after a jury trial on charges of robbery for which he was sentenced to twenty years.\nWe have heard oral argument in this cause and have carefully examined the record on appeal and the briefs submitted by the parties. Upon our consideration thereof, we conclude that appellant has failed to demonstrate that prejudicial error was committed in the trial court, both with re*468spect to the speedy trial rule and the introduction into evidence of the deposition of the victim. Accordingly, the judgment and sentence appealed herein is affirmed.\nRAWLS, C. J., and JOHNSON and MILLS, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7470529
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

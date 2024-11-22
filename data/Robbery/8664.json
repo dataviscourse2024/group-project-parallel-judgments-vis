@@ -1,0 +1,46 @@
+{
+    "id": 1739920,
+    "judges": "Grimes",
+    "date_filed": 534556800000,
+    "date_filed_is_approximate": false,
+    "slug": "vh-v-state",
+    "case_name_short": "VH",
+    "case_name": "VH v. State",
+    "case_name_full": null,
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 2,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "498 So. 2d 1011"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 4038.0,
+            "opinion_text": "\n498 So. 2d 1011 (1986)\nV.H., a Child, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 86-829.\nDistrict Court of Appeal of Florida, Second District.\nDecember 10, 1986.\nJames Marion Moorman, Public Defender, Bartow, and Deborah K. Brueckheimer, Asst. Public Defender, Tampa, for appellant.\nJim Smith, Atty. Gen., Tallahassee, and Robert J. Krauss, Asst. Atty. Gen., Tampa, for appellee.\nGRIMES, Acting Chief Judge.\nV.H. was arrested for burglary. She was originally referred to the JASP program, but she failed this program. The state attorney then filed a petition for delinquency. At the disposition hearing, the HRS intake worker recommended community control because this was V.H.'s first delinquency offense. Her predispositional report indicated that relatives would be willing to pay restitution of $48, but she stated that she had since learned that it was impossible for any of them to contribute at this time. The hearing then focused on whether V.H. would pay the $48 in restitution. The judge stated that he would be willing to place V.H. on community control but only if she would pay the $48. Her lawyer asserted that she had no money with which to do so. Thereupon, the judge ordered V.H. to be committed.\nA person cannot be imprisoned solely because of his indigency. Tate v. Short, 401 U.S. 395, 91 S. Ct. 668, 28 L. Ed. 2d 130 (1971). From the colloquy, it is unmistakably clear that the decision to commit V.H. depended on whether she paid the $48 in restitution. She had already been determined indigent for purposes of appointing a public defender, and there was no showing that she was able to pay the $48. The sentence imposed here was equivalent to the alternate sentence of imprisonment based on financial ability to pay which was condemned in Tate.\nWe reverse the order of commitment and remand for appropriate disposition.\nSCHOONOVER and LEHAN, JJ., concur.\n",
+            "ocr": false,
+            "opinion_id": 1739920
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

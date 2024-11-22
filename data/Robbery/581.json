@@ -1,0 +1,46 @@
+{
+    "id": 7867526,
+    "judges": "Hart",
+    "date_filed": -1491091200000,
+    "date_filed_is_approximate": false,
+    "slug": "barron-v-state",
+    "case_name_short": "Barron",
+    "case_name": "Barron v. State",
+    "case_name_full": "Barron v. State",
+    "attorneys": "M. P. Huddleston, for appellants., J. S. TJtley, Attorney General, Elbert Godwin and W. T. Hammock, Assistants.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "155 Ark. 80"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hart",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " Hart, J. (after stating the facts). The first assignment of error is that the court erred in giving instruction No. 10, which is as follows: \u201cYou are instructed that the possession of the property recently stolen, without reasonable explanation of that possession, is evidence which goes to you for your consideration, under all the circumstances of the case, to be weighed as tending to show the guilt of one in whose hands such property is found, but such evidence alone does not imperatively impose upon you the duty of convicting, even though it is not rebutted. \u2019 \u2019 Counsel for the defendant relies upon the cases of Duckworth v. State, 83 Ark. 192, and Pearrow v. State, 146 Ark. 182. An examination of the Duckworth case will show that the instruction condemned was materially different from the one now under consideration. The instruction under consideration in that case was No. 5, and an examination of it shows the vice of it was in the court\u2019s telling the jury that the possession of property recently stolen, unexplained, when corroborated by other evidence, was sufficient to convict, and that if the jury believed from the evidence that the defendant was found in the possession of the goods immediately after the store was burned and that the possession was corroborated by other evidence tending to connect the defendants with the larceny, it should find them guilty. The court properly held, that this was a charge upon the weight of the evidence and fell within the prohibition of the Constitution. It was not proper to tell the jury that it was their duty to convict the defendants if they were found in the possession of goods recently stolen and that such possession was corroborated by other evidence. It was within the exclusive province o-*2 \u2018he jury to pass upon the weight to be given to the -evidence. Here the court went no further than to tell the jury that such evidence was for its consideration. The court also told the jury that such evidence alone did not imperatively impose upon it the duty of convicting, even though such evidence was not rebutted. While the form of the instruction is faulty in using the word, \u201cimperatively,\u201d before the words, \u201cimpose upon you the duty of\u201d etc., in the concluding part of the instruction, still, if counsel for the defendant thought that this made the instruction argumentative, a -specific objection should have been made and the defect pointed out to the court. If this had' been done, doubtless the court would have corrected the form of the instruction to meet the objection made to it. So, too, in the Pearrow case the trial court erred in telling the jury that the possession of property recently stolen and unexplained by the defendant afforded presumptive evidence of his guilt. This was a charge upon the weight of the evidence and fell within the ban of the Constitution. As we have already stated, no. such vice appears in the instruction quoted above, and we hold that the assignment of error is not well taken. The court did not err in refusing an instruction asked by the defendant on this point, because the instruction asked was sufficiently covered by the instruction given, and the court is not required to multiply instructions on the same point. Again, it is insisted that the -court erred in allowing the State to ask the defendants if they had not recently been engaged in the business of selling whiskey. There was no error in this regard. It is against the law to-sell whiskey, and the accused in a criminal case may, for the purpose of testing his credibility, be questioned on cross-examination as to his having been a gambler and as to other offenses and immoralities. Shinn v. State, 150 Ark. 215. The indictment against George Barron charged the ownership of the property stolen in Ab Stewart, and the indictment against Earnest Barron charged the ownership in Ad Stewart. This court has repeatedly held that in an indictment for larceny the allegation of ownership is material and must be proved as alleged. \u2022 It appears from the record that Ab Stewart was the owner of the cattle stolen. In. Mooney v. State, 137 Ark. 410, it was held that there was sufficient similarity in the sound of the names \u201cFincher\u201d and \u201cFancher\u201d to bring the case within the well recognized doctrine of idem sonans. So here the words \u201cAb\u201d and \u201cAd\u201d bring the case within this rule. The next assignment of error is that the court erred in refusing to allow Allie Reed t'o testify that he had bought cattle from a dark-complexioned fellow weighing about 180 pounds, and that the cattle which he purchased turned out to have been stolen from one of his neighbors. The defense was that the defendants had bought the stolen cattle in the present case from a large-sized dark-complexioned man, and they contend that the testimony of Allie Reed was competent to corroborate their testimony. In the first place, the occurrence testified to by Allie Reed happened about two years before the Barron boys were charged with stealing the cattle in the present case. It was therefore too remote in point of time to be of any value as corroborating testimony. In the next place, the evidence is too general. Testimony that Reed bought cattle from a dark-complexioned man, heavy in weight, does not establish the fact that the defendants also bought cattle from that man. There is nothing in the record even to show that the men were the same ones, and the testimony of Reed shows that the cattle he bought did not belong to Stewart but to another man in the neighborhood. The same assignment of error is made with regard to the testimony of Jim Melton, which was also excluded from the jury for the same reason. It follows that the judgment must be affirmed. ",
+            "ocr": true,
+            "opinion_id": 7811755
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 8370550,
+    "judges": null,
+    "date_filed": -3094070400000,
+    "date_filed_is_approximate": true,
+    "slug": "wiswell-v-state",
+    "case_name_short": "Wiswell",
+    "case_name": "Wiswell v. State",
+    "case_name_full": "James Wiswell v. The State of Ohio",
+    "attorneys": "Lyman J. Jackson for the motion., Henry A. Sheeran pros, attorney, contra.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": "Motion for the allowance of a writ of error to the court of common pleas of Perry county.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "21 Ohio St. (N.S.) 658"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nBy the Court :\nSection 1 of the \u201c act to provide for the punishment of certain offenses therein named,\u201d passed March 11th, 1857, (S. &amp; C. 1613,) as amended April 11, *6591862, (S. &amp; S. 282,) provides \u201cthat if any person * * * shall pluck off or shall carry away, any cultivated root, or plant, fruit, or any other vegetable production standing or growing on, or attached to the lands of another, in such manner that the taking of the same would amount to larceny if severed from the freehold * * * with intent * * # to defraud the owner of the value thereof,\u201d &amp;c., such person so offending shall be guilty of larceny,\u201d &amp;c. The indictment describes the property charged to have been plucked off and carried away as \u201c one bushel of a certain cultivated plant and vegetable production commonly called corn, of the value,\u201d &amp;c., \u201c the same being then and there attached to the lands of,\u201d &amp;c. Held: That this is, substantially, a charge that ears of corn were plucked off the standing and growing plant, and carried away; and that proof of the stealing of corn from the standing and growing stodk sustained the charge.\nLyman J. Jackson for the motion.\nHenry A. Sheeran pros, attorney, contra.\nMotion overruled.\n",
+            "ocr": true,
+            "opinion_id": 8339644
+        }
+    ],
+    "court_short_name": "Ohio Supreme Court",
+    "court_full_name": "Ohio Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Ohio, OH",
+    "crime_category": "Robbery"
+}

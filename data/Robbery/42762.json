@@ -1,0 +1,46 @@
+{
+    "id": 7904774,
+    "judges": null,
+    "date_filed": 605750400000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-harrell",
+    "case_name_short": "Harrell",
+    "case_name": "State v. Harrell",
+    "case_name_full": "State of Connecticut v. Roger Harrell",
+    "attorneys": "Ernest J. Diette, Jr., for the appellant (defendant)., John O Mear a, deputy assistant state\u2019s attorney, with whom were Daniel A. Lyons, assistant state\u2019s attorney, and, on the brief, Michael Dearington, state\u2019s attorney, for the appellee (state).",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Argued February 28",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "18 Conn. App. 801"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPer Curiam.\nOn September 27, 1983, the defendant was convicted, after a trial to a jury, of the crimes of robbery in the first degree in violation of General Statutes \u00a7 53a-134 (a) (2) and conspiracy to commit robbery in the first degree in violation of General Statutes \u00a7 53a-48 (a). On October 28, 1983, the defendant was sentenced, on the robbery charge, to a term of twenty years, execution suspended after service of fifteen years, and, on the conspiracy to commit robbery charge, to a term of ten years, execution suspended with three years probation.\nOn the day the defendant was sentenced, an application for waiver of fees, costs and expenses and for the appointment of counsel to appeal the judgment of conviction was filed. Despite the appointment of a number of appellate counsel between January, 1984, and February, 1987, nothing was done to perfect the defendant\u2019s appeal. On the basis of the particular facts of this case, the defendant was allowed to file a late appeal.\nHaving thoroughly reviewed the record in this case, we find no error.\nThere is no error.\n",
+            "ocr": true,
+            "opinion_id": 7853360
+        }
+    ],
+    "court_short_name": "Connecticut Appellate Court",
+    "court_full_name": "Connecticut Appellate Court",
+    "court_type": "SA",
+    "court_jurisdiction": "Connecticut, CT",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,47 @@
+{
+    "id": 7877763,
+    "judges": "Purtle",
+    "date_filed": 559785600000,
+    "date_filed_is_approximate": false,
+    "slug": "munnerlyn-v-state",
+    "case_name_short": "Munnerlyn",
+    "case_name": "Munnerlyn v. State",
+    "case_name_full": "Robert Harold MUNNERLYN v. STATE of Arkansas",
+    "attorneys": "Gregory E. Bryant, for appellant., Steve Clark, Att\u2019y Gen., by: J. Blake Hendrix, Asst. Att\u2019y Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "293 Ark. 209",
+        "736 S.W.2d 282"
+    ],
+    "opinions": [
+        {
+            "author_str": "Purtle",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": " John I. Purtle, Justice. A jury found the defendant guilty of aggravated robbery, theft of property, and criminal attempt to commit capital murder. His respective sentences were life, thirty years, and sixty years. He presents three arguments on appeal: (I) the trial court erred in refusing to suppress the defendant\u2019s confession; (II) the trial court erred in failing to provide the appellant with a hearing on the motion to suppress the warrant; and (III) the trial court erred in refusing to grant a mistrial after a witness made an implied reference to defendant\u2019s prior convictions. We are not persuaded that any of the three arguments requires reversal. On December 5,1985, the defendant was arrested pursuant to a warrant supposedly issued by the Little Rock Municipal Court charging the appellant with two counts of aggravated robbery, one count of theft of property in excess of $2,000.00, and one count of criminal attempt to commit capital felony murder. Later that day he gave statements to law enforcement officers implicating himself in the above events as well as other unrelated criminal offenses. Various prosecutions ensued as a result of the confession, and prior to his trials, the defendant filed the same motions to suppress his confession in each case. Only one omnibus hearing was set. After witnesses were heard and evidence presented, the trial court determined that the confession was voluntarily given and admissible. Defendant appealed this decision after being convicted of three aggravated robberies and we affirmed the trial court in Munnerlyn v. State, 292 Ark. 467, 730 S.W.2d 895 (1987).  Defendant again argues that his confession was involuntary, presenting the same arguments from the same omnibus hearing considered in Munnerlyn v. State, supra. We had a somewhat similar situation in Gray v. State, 252 Ark. 404, 479 S.W.2d 560 (1972), where we stated: It is also contended that the confession, just mentioned, was involuntarily made, being coerced by the officers. This same allegation, involving the same confession, was made in an earlier case against Gray, and we upheld the finding of the trial judge that the confession was voluntarily given. No evidence strengthening the contention so as to invalidate the confession was given in the instant case, and in fact, only one paragraph is devoted to this argument. Since no additional authority, facts, or reasons are shown in appellant\u2019s brief which would cause us to view our prior determination of voluntariness of the confession to be suspect, we again affirm the trial court\u2019s decision.  Defendant also argues that the trial court erred in not granting him a hearing on his motion challenging his arrest warrant issued by the municipal court. Since no evidence was offered at the omnibus hearing or at trial concerning the arrest warrant, and the arrest warrant is not abstracted, we are unable to consider this argument on appeal. See Sutherland v. State, 292 Ark. 103, 728 S.W.2d 496 (1987).  Defendant\u2019s last point of appeal arises from a state witness\u2019 testimony, \u201cI went down to the Arkansas State Police files and checked, and sure enough, there was a card on file bearing that name, and I compared those with this, inked, latent impressions that were submitted to me.\u201d Before we will reverse under such circumstances, it must be shown that actual prejudice resulted from the improper conduct. In Hogan v. State, 281 Ark. 250, 663 S.W.2d 726 (1984), the officer testified that Hogan had a prior arrest record and the record contained fingerprints. This Court found that the harm, if any, was insufficient to justify the extreme remedy of a mistrial. Neither has the appellant in this case demonstrated prejudice from this remark. Additionally, an objection to this improper answer was not made until after the witness was passed to the defense; therefore, it was not made at the first opportunity and cannot be considered at this time. Dumond v. State, 290 Ark. 595, 721 S.W.2d 663 (1986). Pursuant to Supreme Court Rule 11(f) and Ark. Stat. Ann. \u00a7 43-2725 (Repl. 1977), we have examined all other objections decided adversely to the appellant and found no error. Therefore, the case will be affirmed. ",
+            "ocr": true,
+            "opinion_id": 7823680
+        }
+    ],
+    "court_short_name": "Supreme Court of Arkansas",
+    "court_full_name": "Supreme Court of Arkansas",
+    "court_type": "S",
+    "court_jurisdiction": "Arkansas, AR",
+    "crime_category": "Robbery"
+}

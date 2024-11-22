@@ -1,0 +1,46 @@
+{
+    "id": 7848525,
+    "judges": "Kelly, Silberman, Whatley",
+    "date_filed": 1193184000000,
+    "date_filed_is_approximate": false,
+    "slug": "gaffney-v-state",
+    "case_name_short": "Gaffney",
+    "case_name": "Gaffney v. State",
+    "case_name_full": "Elton GAFFNEY v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Alisa Smith, Assistant Public Defender, Bartow, for Appellant., Bill McCollum, Attorney General, Tallahassee, and Richard E. MacDonald, Assistant Attorney General, Tampa, for Appel-lee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "974 So. 2d 425"
+    ],
+    "opinions": [
+        {
+            "author_str": "Kelly",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nKELLY, Judge.\nElton Gaffney appeals his judgment and sentence for resisting an officer without violence arguing that the trial court erred in denying his dispositive motion to suppress evidence. We agree with Gaffney that the State did not carry its burden of showing that officers had a reasonable suspicion of criminal activity necessary to justify the investigative detention that led to his arrest, and accordingly, we reverse.\nWithout a founded suspicion of criminal activity, a police officer does not have the right to detain a person absent that person\u2019s consent. Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968); see also Florida v. Royer, 460 U.S. 491, 103 S.Ct. 1319, 75 L.Ed.2d 229 (1983). A stop or brief detention of a person for investigatory purposes is permissible if an officer has a well-founded suspicion, supported by articulable facts, of criminal activity even if the officer lacks probable cause. Terry, 392 U.S. at 21, 88 S.Ct. 1868. Whether an officer\u2019s suspicion is reasonable is determined by the \u201ctotality of the circumstances\u201d that existed at the time of the investigatory detention. United States v. Cortez, 449 U.S. 411, 417, 101 S.Ct. 690, 66 L.Ed.2d 621 (1981).\nThe parties do not dispute that Gaffney was detained by officers as part of their burglary investigation. In attempting to meet its burden to establish reasonable suspicion for the detention, the State did not present any testimony from Officer Back, the officer who initially encountered Gaffney, instead relying on the observations of officers who arrived later at the location where Officer Back and Gaffney were standing. However, those officers did not offer any testimony regarding the circumstances under which Officer Back first encountered Gaffney nor did they explain what, if anything, transpired between Gaffney and Officer Back before they arrived. Without that information, we cannot evaluate whether Gaffney\u2019s detention was justified by a reasonable suspicion of criminal activity because the State did not establish the \u201ctotality of the circumstances\u201d that existed at the time of his detention. See Walker v. State, 846 So.2d 643 (Fla. 2d DCA 2003). Accordingly, we reverse Gaffney\u2019s conviction and sentence for resisting an officer without violence.\nReversed.\nWHATLEY and SILBERMAN, JJ., Concur.\n",
+            "ocr": true,
+            "opinion_id": 7791915
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

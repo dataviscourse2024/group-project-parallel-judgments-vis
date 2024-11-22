@@ -1,0 +1,46 @@
+{
+    "id": 7924266,
+    "judges": "Amdahl",
+    "date_filed": 405907200000,
+    "date_filed_is_approximate": false,
+    "slug": "slaughter-v-state",
+    "case_name_short": "Slaughter",
+    "case_name": "Slaughter v. State",
+    "case_name_full": "Billy D. SLAUGHTER v. STATE of Minnesota",
+    "attorneys": "C. Paul Jones, Public Defender, and Brian I. Rademacher, Asst. Public Defender, Minneapolis, for appellant., Warren Spannaus, Atty. Gen., St. Paul, Thomas L. Johnson, County Atty., and Vernon E. Bergstrom, Asst. County Atty., Minneapolis, for respondent.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "326 N.W.2d 11"
+    ],
+    "opinions": [
+        {
+            "author_str": "Amdahl",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nAMDAHL, Chief Justice.\nThis is an appeal by Billy D. Slaughter, age 24, from an order of the Hennepin County District Court denying his petition for postconviction relief in the form of re-sentencing according to the Minnesota Sentencing Guidelines pursuant to Minn.Stat. \u00a7 590.01, subd. 3 (Supp.1981). We affirm.\nThis proceeding concerns a 5-year prison term imposed in 1979 after petitioner was convicted of burglary. Petitioner was released on parole in April of 1980, but his parole was revoked after he was convicted in 1981 of burglary and sentenced to a consecutive 5-year prison term.\nThe burglary offense is a severity level IV offense. If the Sentencing Guidelines had been in effect at the time of the offense, petitioner\u2019s criminal history score at the time of sentencing in 1979 would have been two. The presumptive sentence for a severity level IV offense by a person with a criminal history score of two is 18 months stayed. Resentencing petitioner to the presumptive term would hasten petitioner\u2019s release from prison by about 6 months.\nPetitioner has a serious record of recidivism. Petitioner had the burden of overcoming that factor and proving that his resentencing to the presumptive term would not present a danger to the public and would not be incompatible with the welfare of society. The district court properly concluded that petitioner failed to meet *12this burden. State v. Champion, 319 N.W.2d 21 (Minn.1982).\nPetitioner remains subject to the jurisdiction of the Commissioner of Corrections.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7873905
+        }
+    ],
+    "court_short_name": "Supreme Court of Minnesota",
+    "court_full_name": "Supreme Court of Minnesota",
+    "court_type": "S",
+    "court_jurisdiction": "Minnesota, MN",
+    "crime_category": "Robbery"
+}

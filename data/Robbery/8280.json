@@ -1,0 +1,47 @@
+{
+    "id": 1396430,
+    "judges": "Hunter, Lewis, Wynn",
+    "date_filed": 974764800000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-van-jordan",
+    "case_name_short": "Jordan",
+    "case_name": "State v. Van Jordan",
+    "case_name_full": "State of North Carolina v. Jerald Van Jordan",
+    "attorneys": "\nAttorney General Michael F. Easley, by Assistant Attorney General Douglas W. Hanna, for the State.\n, \nMichael J. Reece for defendant-appellant.\n",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 4,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": "<parties id=\"b626-7\">\n    STATE OF NORTH CAROLINA v. JERALD VAN JORDAN\n   </parties><br><docketnumber id=\"b626-8\">\n    No. COA99-1484\n   </docketnumber><decisiondate id=\"ALS\">\n    (Filed 21 November 2000)\n   </decisiondate><br><attorneys id=\"b626-12\">\n<em>\n     Attorney General Michael F. Easley, by Assistant Attorney General Douglas W. Hanna, for the State.\n    </em>\n</attorneys><br><attorneys id=\"b626-13\">\n<em>\n     Michael J. Reece for defendant-appellant.\n    </em>\n</attorneys>",
+    "citations": [
+        "537 S.E.2d 843",
+        "140 N.C. App. 594"
+    ],
+    "opinions": [
+        {
+            "author_str": "Lewis",
+            "per_curiam": false,
+            "type": "010combined",
+            "page_count": null,
+            "download_url": null,
+            "author_id": 8018.0,
+            "opinion_text": "\n537 S.E.2d 843 (2000)\nSTATE of North Carolina\nv.\nJerald Van JORDAN.\nNo. COA99-1484.\nCourt of Appeals of North Carolina.\nNovember 21, 2000.\n*844 Attorney General Michael F. Easley, by Assistant Attorney General Douglas W. Hanna, for the State.\nMichael J. Reece, Smithfield, for defendant-appellant.\nLEWIS, Judge.\nDefendant was tried at the 24 May 1999 Criminal Session of Johnston County Superior Court on the charge of first-degree burglary. The jury returned a verdict of guilty on 26 May 1999. After the jury later also found him guilty of being an habitual felon, defendant was sentenced to life imprisonment without the possibility of parole. Defendant now appeals.\nDefendant first contends the trial court erroneously submitted for the jury's consideration an offense that does not exist in North Carolina. First-degree burglary involves breaking and entering at night into an occupied dwelling with the intent to commit a felony therein. State v. Simpson, 303 N.C. 439, 449, 279 S.E.2d 542, 548 (1981). The trial judge submitted second-degree murder as the intended felony here. Based upon our Supreme Court's recent holding in State v. Coble, 351 N.C. 448, 527 S.E.2d 45 (2000), we conclude the trial judge was required to submit first-degree murder as the intended felony because one cannot have the intent to commit second-degree murder. We must therefore award defendant a new trial.\nIn Coble, our Supreme Court addressed the issue of whether the offense of attempted second-degree murder existed in North Carolina. The Court held that no such offense existed. Id. at 453, 527 S.E.2d at 49. The Court began by reaffirming the principle that a specific intent to kill is required for first-degree murder but not for second-degree murder. Id. at 450, 527 S.E.2d at 47. The Court then took it one step further. It rejected this Court's proposition that there are two types of second-degree murder: one without an intent to kill and one with an intent to kill but without premeditation and deliberation. Id. In so doing, the Court necessarily concluded that, not only is an intent to kill not required for second-degree murder, it cannot exist in second-degree murder. Id. at 450-51, 527 S.E.2d at 47-48. Next, the Court reiterated that an attempted crime requires the specific intent to carry out that crime. Id. at 451, 527 S.E.2d at 48. This led the Court to conclude that, because attempt requires an intent to commit the underlying offense and because the offense of second-degree murder does not involve an intent to kill, the crime of attempted second-degree murder is a logical impossibility. Id. Specifically, the Court stated, \"It is logically impossible, therefore, for a person to specifically intend to commit a form of murder which does not have, as an element, specific intent to kill.\" Id.\nThe same logic employed in Coble must also apply here. As stated previously, the crime of first-degree burglary requires the specific intent to commit some underlying offense. In this regard, it is similar to the crime of attempt. When that underlying offense is murder, Coble requires that form of murder to have a specific intent to kill. Because *845 second-degree murder does not involve the intent to kill, it cannot serve as the felonious intent element for purposes of burglary. Just as attempted second-degree murder is a logical impossibility, so too is the felonious intent to commit second-degree murder. \"[A] defendant [cannot] specifically intend what is by definition not a specifically intended result.\" Id. at 452, 527 S.E.2d at 48.\nWe also point out that, in addition to submitting a logical impossibility for the jury's consideration, the trial judge also instructed the jury on second-degree murder in an inherently inconsistent manner. First, the trial judge included deliberation (but not premeditation) as a required element for second-degree murder. This of course is not the law; second-degree murder requires no deliberation. Id. at 449, 527 S.E.2d at 46. Second, in defining intent for the purposes of second-degree murder, the trial judge instructed, \"An intent to kill may be inferred from the nature of the assault, the manner in which it was made, any threats that preceded or accompanied the assault, the conduct of the parties and other relevant circumstances.\" (2 Tr. at 361) (emphasis added). As stated previously, second-degree murder does not involve the intent to kill, and the trial court's instructions were somewhat misleading as a result. Although we note the court's language comes straight from the second-degree murder pattern jury instructions, N.C.P.I., Crim. 206.30, this fact does not obviate the trial judge's duty to instruct the law correctly. See, e.g., Johnson v. Friends of Weymouth, Inc., 120 N.C.App. 255, 258-59, 461 S.E.2d 801, 804 (1995) (ordering a new trial when the pattern jury instructions did not accurately reflect the law), disc. review denied, 342 N.C. 895, 467 S.E.2d 903 (1996). Finally, in instructing on defendant's voluntary intoxication defense, the trial court explained to the jury, \"If, as a result of intoxication, the defendant did not have the specific intent to kill, you must not find the defendant guilty of first-degree burglary.\" (2 Tr. at 362) (emphasis added). The trial court thus instructed that the jury could use defendant's intoxication to negate an element that was not even required in the first place.\nWe simply point out these inconsistencies in the court's instructions to further buttress our holding that the felonious intent to commit second-degree murder is a logical impossibility. We express no opinion on whether the inconsistent instructions, standing alone, would be sufficiently prejudicial to warrant a new trial. Instead, we award a new trial solely on the ground that the trial court used second-degree murder instead of first-degree murder as the intended felony for purposes of defendant's burglary charge.\nIn light of our disposition as to this issue, we need not address defendant's remaining assignments of error.\nNew trial.\nJudges WYNN and HUNTER concur.\n",
+            "ocr": false,
+            "opinion_id": 1396430
+        }
+    ],
+    "court_short_name": "Court of Appeals of North Carolina",
+    "court_full_name": "Court of Appeals of North Carolina",
+    "court_type": "SA",
+    "court_jurisdiction": "North Carolina, NC",
+    "crime_category": "Robbery"
+}

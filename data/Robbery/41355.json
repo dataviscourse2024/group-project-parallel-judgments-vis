@@ -1,0 +1,46 @@
+{
+    "id": 7611807,
+    "judges": "Ferguson, Hendry, Pearson",
+    "date_filed": 489110400000,
+    "date_filed_is_approximate": false,
+    "slug": "toranco-v-state",
+    "case_name_short": "Toranco",
+    "case_name": "Toranco v. State",
+    "case_name_full": "Eduardo TORANCO, a/k/a Eduardo Toranzo v. The STATE of Florida",
+    "attorneys": "Bennett H. Brummer, Public Defender, and Helen Ann Hauser, Sp. Asst. Public Defender, for appellant., Jim Smith, Atty. Gen., and Richard L. Polin, Asst. Atty. Gen., for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "471 So. 2d 1355"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAppellant was tried by the court without a jury and convicted and sentenced for the crimes of burglary of a structure with a firearm and robbery with a firearm.\n*1356Appellant seeks reversal of the convictions and sentences on the grounds that 1) double jeopardy barred his subsequent prosecution for the instant offenses which were initially raised, but later withdrawn by the state, as a basis for revoking his probation; 2) the court erred in permitting the admission into evidence of a witness\u2019 prior inconsistent statement which was not revealed during discovery, although it was referred to in a police report furnished to defense counsel prior to trial; and 3) the circumstantial evidence was insufficient to support his convictions.\nThe grounds relied on by appellant for reversal have been considered in the light of the record, briefs and arguments of counsel and we find that no reversible error has been demonstrated. The record shows that the verdict is supported by the evidence and that the rulings of the trial court challenged by appellant do not constitute harmful error. See Green v. State, 463 So.2d 1139 (Fla.1985); Brumbley v. State, 453 So.2d 381, 384-85 (Fla.1984); State v. Young, 217 So.2d 567, 571 (Fla.1968), cert. denied, 396 U.S. 853, 90 S.Ct. 112, 24 L.Ed.2d 101 (1969); State v. Justice, 451 So.2d 1056 (Fla. 2d DCA 1984); State v. Jones, 425 So.2d 178 (Fla. 1st DCA 1983); State v. Banks, 418 So.2d 1059, 1060 (Fla. 2d DCA), pet. for rev. denied, 424 So.2d 760 (Fla.1982); Floyd v. State, 361 So.2d 802 (Fla. 3d DCA 1978), cert. denied, 368 So.2d 1366 (Fla.1979).\nTherefore, the judgments of conviction and sentences are affirmed.\nAffirmed.\n",
+            "ocr": true,
+            "opinion_id": 7542563
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

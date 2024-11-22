@@ -1,0 +1,46 @@
+{
+    "id": 7713774,
+    "judges": "Chehardy",
+    "date_filed": 1558483200000,
+    "date_filed_is_approximate": false,
+    "slug": "state-v-parks",
+    "case_name_short": "Parks",
+    "case_name": "State v. Parks",
+    "case_name_full": "STATE of Louisiana v. Devin PARKS",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "274 So. 3d 746"
+    ],
+    "opinions": [
+        {
+            "author_str": "Chehardy",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nCHEHARDY, C.J.\nIn this out-of-time appeal, defendant seeks review of his unconditional guilty plea and sentence.1 For the following reasons, we dismiss this appeal.\nFactual and Procedural History\nOn April 13, 2017, the Jefferson Parish District Attorney's Office filed an amended bill of information charging defendant, among others, with three criminal counts: first, armed robbery while armed with \"a firearm, pursuant to La. R.S. 14:64.3(A),\" in violation of La. R.S. 14:64 ; second, aggravated second degree battery \"with a dangerous weapon, by intentionally inflicting serious bodily injury,\" in violation of La. R.S. 14:34.7 ; and, third, possession with intent to distribute marijuana, in violation of La. R.S. 40:966(A).\nOn August 2, 2017, the defendant entered an unconditional guilty plea to all three counts in exchange for the following concurrent sentences: for armed robbery with a firearm, ten years plus an additional five-year enhancement, all fifteen to be served at hard labor without benefit of parole, probation, or suspension of sentence; for aggravated second degree battery, ten years at hard labor; and, for possession with intent to distribute marijuana, five years at hard labor. The trial judge also ordered the defendant to pay $ 6000.00 in restitution.\nOn October 22, 2018, defendant filed a pro se \"Uniform Application for Post-Conviction Relief,\" claiming that his guilty pleas were \"not voluntarily, knowingly, nor intelligently entered due in part to grossly ineffective assistance of counsel.\" The district court dismissed the application for post-conviction relief without prejudice, noting that the application was premature pursuant to La. C.Cr.P. art. 924.1 because defendant had not exhausted his right to appeal. On December 2, 2018, the defendant filed a pro se \"Uniform Application *747for Post-Conviction Relief\" requesting an out-of-time appeal pursuant to State v. Counterman , 475 So.2d 336, 339 (La. 1985), which the district court granted on January 11, 2019.\nOn February 11, 2019, the State filed an application for supervisory review with this Court, seeking review of the district court's grant of defendant's motion for out-of-time appeal.2 On May 1, 2019, this Court granted the State's writ application, vacated the trial court's order granting defendant an out-of-time appeal, and denied the defendant's application for post-conviction relief requesting an out-of-time appeal. State v. Parks , 19-46 (La. App. 5 Cir. 5/1/19), 2019 WL 1949562, --- So.3d ----, rehearing denied.3 Thus, the district court's order granting defendant's out-of-time appeal has been vacated.\nLa. C.Cr.P. art. 916 reads, in pertinent part, that, \"The jurisdiction of the trial court is divested and that of the appellate court attaches upon the entering of the order of appeal.\" We find that, because the order granting defendant's out-of-time appeal was vacated, the jurisdiction of the trial court has not been divested and appellate jurisdiction has, thus, not attached. Accordingly, this appeal is hereby dismissed.\nAPPEAL DISMISSED.\n\nAnders v. State of California , 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed. 2d 493 (1967).\n\n\nThe State cited recent Louisiana Supreme Court decisions in State ex rel. Burton v. State , 17-1915 (La. 1/14/19), 261 So.3d 769 (per curiam ); State v. Johnson , 16-2232 (La. 3/9/18), 237 So.3d 1184 (per curiam ); State ex rel.Payton v. State , 16-1795 (La. 2/9/18), 235 So.3d 1098 (per curiam ); and State ex rel. Rainey , 16-1439 (La. 10/27/17), 228 So.3d 193 (per curiam ).\n\n\nThis Court noted that, while it previously had routinely granted out-of-time appeals, Counterman had never established an absolute requirement for the granting of an out-of-time appeal. Further, in light of the Louisiana Supreme Court's recent decisions, this Court found that defendant's application seeking an out-of-time appeal did not meet the intent or criteria set forth in Counterman , and that the trial judge had erred in summarily granting defendant's application for post-conviction relief seeking an out-of-time appeal.\n\n",
+            "ocr": true,
+            "opinion_id": 7649290
+        }
+    ],
+    "court_short_name": "Louisiana Court of Appeal",
+    "court_full_name": "Louisiana Court of Appeal",
+    "court_type": "SA",
+    "court_jurisdiction": "Louisiana, LA",
+    "crime_category": "Robbery"
+}

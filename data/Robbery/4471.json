@@ -1,0 +1,47 @@
+{
+    "id": 8658652,
+    "judges": "Erwin, Irwin",
+    "date_filed": -3589315200000,
+    "date_filed_is_approximate": false,
+    "slug": "united-states-v-cummings",
+    "case_name_short": null,
+    "case_name": "United States v. Cummings",
+    "case_name_full": "UNITED STATES v. CUMMINGS",
+    "attorneys": null,
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Case No. 14,901.</p> <p>Indictment\u2014Embezzlement bt Postmastbk.</p> <p>[An indictment charging a postmaster with taking a note on a bank from a package in the mail, and converting it to his own use, is fatally defective, without an averment that the note was the property of some person.]</p> <p>[Cited in U. S. v. Laws. Case No. 15,579; U. S. v. Haynes, 29 Fed. 698.]</p>",
+    "summary": "In the case of the United States against Henry Cummings, indicted for mail robbery, which had been certified to the United States circuit court to get the opinion of his honor, Judge Grier, in reference to the motion in arrest of judgment, Judge Shaler remarked that the judge of the circuit court had decided that after a conviction the case could not be properly certified from the one court to the other. It being, therefore, improperly before that tribunal, no opinion as to the matter could be given. He then moved that the case be certified back from the circuit to the district court for further consideration and final action. So ordered by THE COURT, and entered upon the record. [Case No. 14,900.] Judge Shaler then stated that, inasmuch as the argument on the motion in arrest of judgment had been heard, his honor would be pleased to decide upon it.",
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "25 F. Cas. 723",
+        "3 Pitts L.J. 405"
+    ],
+    "opinions": [
+        {
+            "author_str": "Irwin",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nIRWIN, District Judge,\nremarked that he had examined the authorities bearing on the case, and was convinced that the motion should be granted, for the reason that it was not alleged in the indictment that the note taken from the letter was the property of any person. The judgment was therefore arrested. [Cases Nos. 14,901a, 14,901b.]\nThe prosecuting attorney alluded to the fact that a similar point had been decided in the same way by Judge Curtis.\nCol. Black, attorney for Henry Cummings, remarked, in justice to Mr. Shaler, that this question had never before been raised in either the Eastern or Western district of Pennsylvania, and that the uniform custom was to frame the indictments as drawn up by the United States district attorney.\nJudge Shaler stated that he had consulted with government officers on the subject, and deemed it consistent with duty to permit the defendant to enter into recognizance in $2,000, conditioned for his appearance at the October term of that court.\nHenry Cummings and his brother Calvin then entered into the required bond, and the prisoner was released.\nMr. Cummings it will be remembered, was postmaster at Harrison. Potter county, in 1854, and in June of that year it was alleged that Oliver Judd, of Monterey, Mass., addressed a letter, containing two fifty-dollar notes, on the Mahawa Bank, to a relative named Nathaniel Judd, at Harrison, which was never received. In October of the same year, Cummings went west to buy land, arid was arrested at Detriot after having exchanged at a broker\u2019s office a note similar to those alleged to have been stolen. He has been in our jail ever since,\u2014a period of about seventeen months.\n",
+            "ocr": true,
+            "opinion_id": 8638504
+        }
+    ],
+    "court_short_name": "W.D. Pennsylvania",
+    "court_full_name": "District Court, W.D. Pennsylvania",
+    "court_type": "FD",
+    "court_jurisdiction": "Pennsylvania, PA",
+    "crime_category": "Robbery"
+}

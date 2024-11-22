@@ -1,0 +1,46 @@
+{
+    "id": 7997565,
+    "judges": "Bird, Clark, Moore, Sharpe, Steere, Stone, Wiest",
+    "date_filed": -1529107200000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-cahill",
+    "case_name_short": "Cahill",
+    "case_name": "People v. Cahill",
+    "case_name_full": "PEOPLE v. CAHILL",
+    "attorneys": "Thomas J. Mahon (Frank T. Lodge, of counsel), for appellant., Merlin Wiley, Attorney General, Paul W. Voorhies, Prosecuting Attorney, and Herman H. Greenberg, Assistant Prosecuting Attorney, for. the people.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": "<p>Criminal Law \u2014 Burglary\u2014Intoxication as a Defense \u2014 Evidence \u2014 Trial\u2014Instructions\u2014Harmless Error.</p> <p>In a prosecution for breaking and entering a store in the nighttime with intent to commit the crime of larceny, where the evidence shows that at the time of the commission of the offense defendant was not intoxicated, and that, if intoxicated two hours before, he had so far recovered froi\u00e1 its effects as to fully realize what he was doing, and therefore instruction as to intoxication as a defense might well have been omitted, any error therein was without prejudice.</p>",
+    "summary": "Error to recorder\u2019s court of Detroit; Heston (William M.), J. Steve Cahill was convicted of breaking and entering a store in the nighttime, and sentenced to imprisonment for riot less than 5 nor more than 15 years in the State prison at Jackson.",
+    "disposition": "Affirmed.",
+    "history": null,
+    "other_dates": "Submitted June 16, 1921.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "215 Mich. 322"
+    ],
+    "opinions": [
+        {
+            "author_str": "Sharpe",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nSharpe, J.\nThe defendant and John Depew were jointly charged with burglary. Separate trials were had, resulting in the conviction of both of them. Depew\u2019s conviction was affirmed in People v. Depew, ante, 317. The defendants were represented by the same counsel, and the testimony as shown by the' records is as nearly similar as it could well be. We might content ourselves with an approval of what was said by Mr. Chief Justice Steere, in the Depew Case,\nThe charge of the court, however, on the subject of intoxication, in this case was more open to criticism than in the Depew Case. The same witness testified to this defendant\u2019s condition. They were together when he observed them. The identity of the two defendants as the men who broke into the store was fully established. Their conduct was not that of in*324toxicated men. If under the influence of liquor two hours before, it is apparent they had so recovered from its effects as to fully realize what they were then doing*. We think the instruction given might well have been omitted, there being no testimony tending to show intoxication at the time the offense was committed.\nThe judgment will stand affirmed.\nSteere, C. J., and Moore, Wiest, Fellows, Stone, Clark, and Bird, JJ., concurred.\n",
+            "ocr": true,
+            "opinion_id": 7951380
+        }
+    ],
+    "court_short_name": "Michigan Supreme Court",
+    "court_full_name": "Michigan Supreme Court",
+    "court_type": "S",
+    "court_jurisdiction": "Michigan, MI",
+    "crime_category": "Robbery"
+}

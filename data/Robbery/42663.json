@@ -1,0 +1,47 @@
+{
+    "id": 7884734,
+    "judges": "Hodges",
+    "date_filed": 155174400000,
+    "date_filed_is_approximate": false,
+    "slug": "people-v-maestas",
+    "case_name_short": "Maestas",
+    "case_name": "People v. Maestas",
+    "case_name_full": "The People of the State of Colorado v. Michael M. Maestas",
+    "attorneys": "John P. Moore, Attorney General, John E. Bush, Deputy, Donna A. Maranchik, Assistant, for plaintiff-appellee., Rollie R. Rogers, State Public Defender, James F. Dumas, Jr., Chief Deputy, Thomas M. Van Cleave III, Deputy, for defendant-appellant.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "187 Colo. 107",
+        "528 P.2d 916"
+    ],
+    "opinions": [
+        {
+            "author_str": "Hodges",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMR. JUSTICE HODGES\ndelivered the opinion of the Court.\nDefendant was convicted by a jury of second-degree burglary. On this appeal, he contends that the trial court erred in allowing the jury to disperse overnight after the case had been submitted and that the evidence does not support the jury\u2019s guilty verdict. These contentions are without merit, and the judgment is therefore affirmed.\nPolice officers responded to a silent alarm at a tavern which had been closed for the night. The defendant was found in the tavern and was arrested. A window at the rear of the tavern had been forced open, and a side door had been unbolted.\nAfter instructions were read to the jury and closing arguments were made, the jury retired to deliberate at approximately 3:00 p.m. When a verdict had not been reached an hour later, the trial court, after proper instructions and admonitions, allowed the jury to disperse overnight. The jury resumed deliberations the following morning. Defendant makes no showing that the trial court\u2019s action in allowing the jury to disperse overnight was in any way prejudicial to him.\nThe law is settled in Colorado that mere separation of the jury constitutes no ground for reversal. Amis v. People, 83 Colo. 400, 265 P.2d 909 (1928). The trial court is allowed discretion to determine in a non-capital case whether a jury which is deliberating should be allowed to disperse overnight and reconvene the next day. Feldstein v. People, 159 Colo. 107, 410 P.2d 188 (1966). Absent a showing of prejudice, separation or dispersal of a jury is not grounds for reversal. The burden of showing prejudice rests upon the defendant. Tomsak v. People, 166 Colo. 226, 442 P.2d 825 (1968). Since the defendant failed to show any prejudice to him, there is no basis for reversal. See also Crim. P. 24(f) which became effective after the date of this trial.\n*109The same jury procedure as outlined above finds substantial support in the federal courts. See Blackmon v. United States, 474 F.2d 1125 (6th Cir. 1973) cert. denied, 414 U.S. 912, 94 S.Ct. 252, 38 L.Ed.2d 150; United States v. Siragusa, 450 F.2d 592 (2d Cir. 1971), cert. denied, 405 U.S. 974, 92 S.Ct. 1195, 31 L.Ed.2d 248 (1972); United States v. Weiss, 431 F.2d 1402 (10th Cir. 1910); Roth v. United States, 339 F.2d 863 (10th Cir. 1964).\nThe record fails to sustain the defendant\u2019s contention that the evidence is insufficient to convict. The defendant\u2019s motion for judgment of acquittal was properly denied by the trial court.\nThe judgment is affirmed.\nMR. JUSTICE DAY does not participate.\n",
+            "ocr": true,
+            "opinion_id": 7831401
+        }
+    ],
+    "court_short_name": "Supreme Court of Colorado",
+    "court_full_name": "Supreme Court of Colorado",
+    "court_type": "S",
+    "court_jurisdiction": "Colorado, CO",
+    "crime_category": "Robbery"
+}

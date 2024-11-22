@@ -1,0 +1,46 @@
+{
+    "id": 7650778,
+    "judges": "Altenbernd, Lehan, Patterson",
+    "date_filed": 647222400000,
+    "date_filed_is_approximate": false,
+    "slug": "henshaw-v-state",
+    "case_name_short": "Henshaw",
+    "case_name": "Henshaw v. State",
+    "case_name_full": "Thomas E. HENSHAW v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and Stephen Krosschell, Asst. Public Defender, Bartow, for appellant., Robert A. Butterworth, Atty. Gen., Tallahassee, and Brenda S. Taylor, Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "564 So. 2d 540"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nDefendant appeals from his conviction for burglary of a dwelling and from his May 25, 1988 sentencing. We agree with three of defendant\u2019s contentions and disagree with the fourth. The three contentions with which we agree are as follows.\nDefendant contends that he pleaded guilty to burglary of a structure, not burglary of a dwelling, and was thereafter improperly adjudged guilty of burglary of a dwelling; the state concedes error in this regard; we remand for correction of the error. Defendant contends that the trial court, when sentencing him on May 25, 1988 for violation of the community control imposed in February, 1988, improperly departed from the sentencing guidelines by imposing a split sentence of two years community control consecutive to two and one-half years prison; the state concedes error in this regard; we remand for appropriate and proper resentencing. See State v. VanKooten, 522 So.2d 830 (Fla.1988); Pope v. State, 561 So.2d 554 (Fla.1990). Defendant contends that the trial court\u2019s May 25, 1988 written order finding a violation of community control in his escape from the Hillsborough County Jail was improper because the order referred to an escape on April 23, 1988; the state concedes that the trial court did not hear testimony of an escape on that date; we strike the portion of the order referring to that escape.\nThe contention with which we disagree is as follows. Defendant contends that the trial court\u2019s May 25, 1988 sentence of community control for violation of community control illegally modified a six month jail sentence defendant had already begun serving. However, from our review of the record, we conclude that defendant\u2019s jail sentence was not modified. When he was sentenced for violation of community control on May 25 defendant received, as we have said, a sentence of two years community control which was to run consecutive to a two and one-half year prison sentence. Nothing was done to alter the jail sentence previously imposed.\nDefendant may have believed that his six month jail sentence, which was in case number 86-14794, was modified because of an apparent scrivener\u2019s error in the May 25, 1988 judgment in that case. That judgment indicates that he received \u201ctwo (2) years probation each count concurrent but consecutive to FSP [Florida State Prison] on 86-11771.\u201d (Emphasis added.) That may have indicated to defendant that his sentence on the count for which he had received six months jail had been modified. But the record otherwise indicates that defendant received two years community control only on count one of case number 86-14794 and that the six month jail sentence on count two was not altered. On remand the scrivener\u2019s error in the May 25, 1988 judgment should be corrected.\nAffirmed in part, reversed in part, and remanded for proceedings consistent herewith.\nLEHAN, A.C.J., and PATTERSON and ALTENBERND, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7584225
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

@@ -1,0 +1,46 @@
+{
+    "id": 7738944,
+    "judges": "Kahn, Lawrence, Smith",
+    "date_filed": 750384000000,
+    "date_filed_is_approximate": false,
+    "slug": "davis-v-state",
+    "case_name_short": "Davis",
+    "case_name": "Davis v. State",
+    "case_name_full": "Carlton G. DAVIS v. State of Florida",
+    "attorneys": "Nancy A. Daniels, Public Defender, P. Douglas Brinkmeyer, Asst. Public Defender, Tallahassee, for appellant., Robert A. Butterworth, Atty. Gen., Sonya Roebuck Horbelt, Amelia L. Beisner, Asst. Attys. Gen., Tallahassee, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": "Rehearing Denied Nov. 22, 1993.",
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "625 So. 2d 1272"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nAfter a thorough review of the evidence and the applicable law, we agree the trial court did not err in denying appellant\u2019s motion for judgment of acquittal. Further, there was no reversible error in the trial court\u2019s imposition of a habitual offender sentence. State v. Rucker, 613 So.2d 460 (Fla. 1993). However, the state concedes that the judgment should be corrected to reflect that appellant\u2019s conviction for burglary was a third degree felony rather than a second *1273degree felony. The judgment shall be modified accordingly. In all other respects, this appeal is AFFIRMED.\nSMITH, KAHN and LAWRENCE, JJ., concur.\n",
+            "ocr": true,
+            "opinion_id": 7675138
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

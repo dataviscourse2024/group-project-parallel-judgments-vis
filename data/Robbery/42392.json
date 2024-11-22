@@ -1,0 +1,46 @@
+{
+    "id": 7820871,
+    "judges": "Allen, Benton, Davis",
+    "date_filed": 1067472000000,
+    "date_filed_is_approximate": false,
+    "slug": "davenport-v-state",
+    "case_name_short": "Davenport",
+    "case_name": "Davenport v. State",
+    "case_name_full": "Ronnie Eugene DAVENPORT v. STATE of Florida",
+    "attorneys": "Appellant, pro se., Charlie Crist, Attorney General, and Philip W. Edwards, Assistant Attorney General, Tallahassee, for Appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "858 So. 2d 355"
+    ],
+    "opinions": [
+        {
+            "author_str": null,
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nPER CURIAM.\nThe appellant challenges the trial court\u2019s order summarily denying his postconviction motion filed pursuant to Florida Rule of Criminal Procedure 3.850. Because the trial court failed to attach portions of the record to refute the appellant\u2019s claim that his counsel was ineffective for failing to object to the prosecutor\u2019s closing argument, we reverse. We affirm all other issues raised without further discussion.\nThe appellant was convicted of robbery with a firearm and was sentenced to 30 years\u2019 imprisonment. In a motion for postconviction relief, the appellant made a facially sufficient claim that counsel should have objected when the prosecutor made comments about the appellant\u2019s right to remain silent and referred to facts not in evidence during his closing. See Martin v. State, 501 So.2d 1313 (Fla. 1st DCA 1986).\nBecause the trial court failed to refute the appellant\u2019s claim with record attachments, we reverse and remand for an evi-dentiary hearing or the further attachment of record portions that conclusively refute the appellant\u2019s claim. See Ricardo v. State, 756 So.2d 215 (Fla. 4th DCA 2000); Davis v. State, 648 So.2d 1249 (Fla. 4th DCA 1995).\nAFFIRMED, in part, REVERSED, in part, and REMANDED, in part.\nALLEN, DAVIS, and BENTON, JJ., CONCUR.\n",
+            "ocr": true,
+            "opinion_id": 7762673
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}

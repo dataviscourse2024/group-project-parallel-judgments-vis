@@ -1,0 +1,47 @@
+{
+    "id": 7919332,
+    "judges": "McMurray",
+    "date_filed": 936835200000,
+    "date_filed_is_approximate": false,
+    "slug": "jackson-v-state",
+    "case_name_short": null,
+    "case_name": "Jackson v. State",
+    "case_name_full": "JACKSON v. State",
+    "attorneys": "Patricia F. Angel\u00ed, for appellant., Robert E. Keller, District Attorney, Erman J. Tanjuatco, Assistant District Attorney, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "239 Ga. App. 888",
+        "522 S.E.2d 295"
+    ],
+    "opinions": [
+        {
+            "author_str": "McMurray",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nMcMURRAY, Presiding Judge.\nA jury found defendant guilty of aggravated assault with a deadly weapon, a knife, under OCGA \u00a7 16-5-21 (a) (2). The trial court denied his motion for new trial, and this appeal followed. Held:\nIn a single enumeration of error defendant contends the trial court expressed its opinion in favor of the State\u2019s case in violation of OCGA \u00a7 17-8-57 when, in its instructions recharging the jury, the trial court informed the jury that: \u201cSelf-defense is not an issue in this case. The Defendant said he did not do it.\u201d\nIn order to determine whether a trial court has improp*889erly expressed an opinion in its charge as to what has or has not been proved, the whole charge may be considered. (Cits.) OCGA \u00a7 17-8-57 is only violated when the court\u2019s charge assumes certain things as facts and intimates to the jury what the judge believes the evidence to be. (Cits.)\nDecided September 9, 1999.\nPatricia F. Angel\u00ed, for appellant.\nRobert E. Keller, District Attorney, Erman J. Tanjuatco, Assistant District Attorney, for appellee.\n(Punctuation omitted.) Beam v. State, 265 Ga. 853, 857 (5) (463 SE2d 347).\nA review of the entire recharge reveals that the trial court did not intimate any conclusion as to the evidence before the jury. Beam v. State, 265 Ga. at 857 (5), supra; compare Coleman v. State, 211 Ga. 704, 705 (5) (88 SE2d 381) (in which the trial court charged the jury \u201c \u2018the evidence shows that there was a robbery\u2019 \u201d).\nRather, the trial court recharged the jury that defendant, who offered denial as his sole defense,1 was not legally entitled to a justification self-defense charge. Stevens v. State, 8 Ga. App. 217, 218 (68 SE 874). This the trial court properly did. When a jury requests a recharge on any question, it is the duty of the trial court to do so, Matthews v. Taylor, 155 Ga. App. 2, 3 (2) (270 SE2d 247), whether by restating the entire charge or addressing the requested points only. Williams v. State, 151 Ga. App. 765 (1), 766 (261 SE2d 487). \u201c \u2018[I]t is the duty and responsibility of the trial judge to ascertain the law applicable to a case and to instruct the jury of what the law consists.\u2019 \u201d Dunn v. State, 145 Ga. App. 612, 613 (2) (244 SE2d 127); see also Emory Univ. v. Lee, 97 Ga. App. 680, 697 (4) (104 SE2d 234).\n\nJudgment affirmed.\n\n\nJohnson, C. J., and Phipps, J., concur.\n\n\n The defendant repeatedly and emphatically denied having assaulted his victim with a knife, resulting in trial defense counsel\u2019s withdrawal of his requests to charge based upon the affirmative defense of justification. No other evidence presented an issue of justifiable aggravated assault in self-defense.\n\n",
+            "ocr": true,
+            "opinion_id": 7868695
+        }
+    ],
+    "court_short_name": "Court of Appeals of Georgia",
+    "court_full_name": "Court of Appeals of Georgia",
+    "court_type": "SA",
+    "court_jurisdiction": "Georgia, GA",
+    "crime_category": "Robbery"
+}

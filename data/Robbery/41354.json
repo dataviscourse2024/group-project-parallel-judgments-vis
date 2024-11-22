@@ -1,0 +1,46 @@
+{
+    "id": 7611702,
+    "judges": "Grimes, Ryder, Scheb",
+    "date_filed": 488764800000,
+    "date_filed_is_approximate": false,
+    "slug": "macphee-v-state",
+    "case_name_short": "MacPhee",
+    "case_name": "MacPhee v. State",
+    "case_name_full": "Lawrence W. MacPHEE v. STATE of Florida",
+    "attorneys": "James Marion Moorman, Public Defender, and W.C. McLain, Asst. Public Defender, Bartow, for appellant., Jim Smith, Atty. Gen., Tallahassee and Davis G. Anderson, Jr., Asst. Atty. Gen., Tampa, for appellee.",
+    "nature_of_suit": null,
+    "posture": null,
+    "syllabus": null,
+    "headnotes": null,
+    "summary": null,
+    "disposition": null,
+    "history": null,
+    "other_dates": null,
+    "cross_reference": null,
+    "correction": null,
+    "citation_count": 0,
+    "precedential_status": "Published",
+    "arguments": null,
+    "headmatter": null,
+    "citations": [
+        "471 So. 2d 670"
+    ],
+    "opinions": [
+        {
+            "author_str": "Ryder",
+            "per_curiam": false,
+            "type": "020lead",
+            "page_count": null,
+            "download_url": null,
+            "author_id": null,
+            "opinion_text": "\nRYDER, Chief Judge.\nLawrence W. MacPhee appeals his conviction and sentence for armed robbery on the ground that he was denied his right to be present at two pretrial conferences. MacPhee asserts that he was prejudiced by his attorney\u2019s waiver of speedy trial in his absence. We affirm.\nThere were three hearings, designated by the trial court as pretrial conferences. *671MacPhee was not present at the November 8, 1983 hearing where his attorney waived speedy trial and requested a continuance of the trial, which was granted. MacPhee was present at the January 24, 1984 hearing where another defense request for a continuance was granted. MacPhee was again absent at the February 4, 1984 hearing when the trial date was set.\nA defendant\u2019s right to be present at pretrial conferences is not constitutional but, rather, is provided by rule. Florida Rule of Criminal Procedure 3.180(a)(3) provides that a defendant shall be present at any pretrial conference unless waived in writing. MacPhee never waived his presence at either conference in writing.\nThe state argues that none of the hearings were pretrial conferences as contemplated by the rule but can provide no authority supporting this statement. The criminal rules do not define a pretrial conference. Because the trial court itself designated the hearings in question as pretrial conferences, we shall treat them as such.\nBy not requiring MacPhee\u2019s presence at the November 8 and February 14 conferences, the trial court violated rule 3.180(a)(3). We hold, however, that the error was harmless because MacPhee was not prejudiced by his absence. MacPhee\u2019s presence at the January 24 conference, wherein the court granted his motion for a continuance of the trial, cured the error committed at the November 8 conference. A defense-requested continuance waives speedy trial. Fla.R.Crim.P. 3.191(d)(3); State v. Abrams, 350 So.2d 1104 (Fla. 4th DCA 1977). Although a defense attorney may waive speedy trial on his client\u2019s behalf without consulting him and without his presence,1 MacPhee\u2019s presence at the January 24 conference reaffirmed the waiver. Having requested a continuance, MacPhee was not prejudiced by his absence at the February 14 conference, where the only action taken was the setting of the trial date.\nAccordingly, for the reasons stated above, we affirm MacPhee\u2019s conviction and sentence.\nGRIMES and SCHEB, JJ., concur.\n\n. State ex rel. Gutierrez v. Baker, 276 So.2d 470 (Fla. 1973); State v. Abrams, 350 So.2d 1104 (Fla. 4th DCA 1977).\n\n",
+            "ocr": true,
+            "opinion_id": 7542453
+        }
+    ],
+    "court_short_name": "District Court of Appeal of Florida",
+    "court_full_name": "District Court of Appeal of Florida",
+    "court_type": "SA",
+    "court_jurisdiction": "Florida, FL",
+    "crime_category": "Robbery"
+}
