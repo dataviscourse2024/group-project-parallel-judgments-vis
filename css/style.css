@@ -23,48 +23,128 @@ h1 {
 }
 
 /* General table styling */
-#table-area table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 1em;
-    margin-bottom: 20px;
+/* General table styling */
+.table-wrapper {
+    width: 90vw; /* Take up 90% of viewport width */
+    margin: 20px auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Header row styling */
-#table-area th {
+#table-area {
+    max-height: 500px;
+    min-width: 1200px; /* Minimum width to ensure horizontal scroll on smaller screens */
+    overflow-x: auto; /* Enable horizontal scroll */
+    overflow-y: auto; /* Enable vertical scroll */
+    position: relative;
+    border: 1px solid #ddd;
+}
+
+#table-area table {
+    width: 100%;
+    table-layout: fixed; /* This ensures columns maintain their widths */
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+/* Sticky header styling */
+#table-area thead th {
+    position: sticky;
+    top: 0;
     background-color: #4CAF50;
     color: white;
     padding: 12px;
     text-align: left;
     font-size: 1.1em;
+    z-index: 1;
+    border-bottom: 2px solid #ddd;
 }
 
-/* Data row styling */
+/* Data cell styling */
+#table-area th,
 #table-area td {
     padding: 12px;
     border: 1px solid #ddd;
-    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
-/* Alternate row background color for readability */
+/* Specific column widths */
+#table-area td:first-child {
+    min-width: 50px;
+    width: 50px;
+}
+
+#table-area td:nth-child(2) {
+    min-width: 200px;
+}
+
+/* Alternate row styling */
 #table-area tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
-/* Tooltip for long jurisdiction names */
-#table-area td span {
-    cursor: help;  /* Shows the tooltip icon when hovering */
-    border-bottom: 1px dotted #333;  /* Underline text with dotted border */
+/* Hover effects */
+#table-area tbody tr:hover {
+    background-color: #f0f7ff;
 }
 
-/* Style for the "Cites To" column with scrollable content */
-#table-area td div {
-    max-height: 100px;  /* Limit the height */
-    overflow-y: auto;  /* Add vertical scroll for overflow */
-    border: 1px solid #ddd;  /* Add border to make it distinct */
-    padding: 10px;
-    background-color: #fafafa;
+#table-area td:hover {
+    white-space: normal;
+    overflow: visible;
+    background-color: #f5f5f5;
+    position: relative;
+    z-index: 1;
 }
+
+/* Truncated content styling */
+.truncate {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Tooltip styling */
+#table-area td span {
+    cursor: help;
+    border-bottom: 1px dotted #333;
+}
+
+/* Scrollbar styling for better visibility */
+#table-area::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+#table-area::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+#table-area::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+#table-area::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Specific column widths */
+.col-select { width: 50px; }
+.col-case-name { width: 200px; }
+.col-docket { width: 150px; }
+.col-date { width: 120px; }
+.col-court { width: 150px; }
+.col-jurisdiction { width: 120px; }
+.col-citations { width: 200px; }
+.col-word-count { width: 120px; }
+.col-page-range { width: 120px; }
+.col-judges { width: 200px; }
+.col-attorneys { width: 200px; }
 /* Radar chart container styling */
 #radar-chart-area {
     width: 600px;
@@ -118,11 +198,11 @@ h1 {
 /* Tooltip styling (optional) */
 .tooltip {
     position: absolute;
-    background-color: #333;
+    background-color: rgba(0, 0, 0, 0.8);
     color: #fff;
-    padding: 5px;
-    border-radius: 3px;
-    font-size: 0.9em;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 12px;
     pointer-events: none;
     opacity: 0;
     transition: opacity 0.3s;
@@ -152,4 +232,46 @@ h1 {
 #parallel-coordinates-area g.axis text {
     font-size: 12px;
     fill: black;
+}
+.gridCircle {
+    opacity: 0.8;
+}
+
+.axis text {
+    font-family: 'Arial', sans-serif;
+}
+
+.radarArea:hover {
+    fill-opacity: 0.7;
+    transition: fill-opacity 0.2s;
+}
+
+.radarPoints circle:hover {
+    r: 6;
+    transition: r 0.2s;
+}
+.bar-segment {
+    transition: opacity 0.2s;
+}
+
+.bar-segment:hover {
+    opacity: 1;
+}
+
+#similarity-chart-area .alert {
+    color: #666;
+    font-style: italic;
+}
+
+#similarity-chart-area .tooltip {
+    position: absolute;
+    padding: 12px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    color: #333;
+    font-size: 12px;
+    line-height: 1.4;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    pointer-events: none;
 }

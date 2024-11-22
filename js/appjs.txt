@@ -225,7 +225,7 @@ function processRadarData(data) {
             name: d.name || 'Unknown Case',
             citations: (d.citations ? d.citations.length : 0) / maxCitations,
             cites_to: (d.cites_to ? d.cites_to.length : 0) / maxCitesTo,
-            decision_year: (new Date().getFullYear() - year) / (new Date().getFullYear() - minYear) // Relative case age (older cases are higher)
+            decision_year: (year - minYear) / (maxYear - minYear)
         };
     });
 }
@@ -376,14 +376,11 @@ function createRadarChart(data) {
         .style("stroke", "#888")
         .style("stroke-width", 2)
         .on("mouseover", function(event, d) {
-            console.log("Mouseover:", d);
             // Show tooltip
             tooltip.transition()
                 .duration(200)
                 .style("opacity", .9);
             
-            console.log(`Tooltip Content: ${d.axis}: ${d.value.toFixed(2)}`);
-        
             // Set tooltip content
             tooltip.html(`<strong>${d.axis}:</strong> ${d.value.toFixed(2)}`)
                 .style("left", (event.pageX + 10) + "px")
