@@ -201,12 +201,18 @@ function createTable(data) {
             createRadarChart(processRadarData(selectedData));
             createParallelCoordinatesPlot(processParallelData(selectedData));
             createSimilarityChart(selectedData);
+        } else {
+            // Clear the visualizations if no data is selected
+            d3.select("#radar-chart-area").selectAll("*").remove();
+            d3.select("#parallel-coordinates-area").selectAll("*").remove();
+            d3.select("#similarity-chart-area").selectAll("*").remove();
         }
     }
 
     // Initial update with default selection
     updateVisualizations();
-}/**
+}
+/**
  * Function to process and normalize data for the radar chart
  * @param {Array} data - Raw case data from JSON files
  * @returns {Array} - Processed and normalized data for radar chart
@@ -239,7 +245,7 @@ function createRadarChart(data) {
     const margin = { top: 40, right: 80, bottom: 40, left: 80 };
     const radius = Math.min(width, height) / 2 - Math.max(margin.top, margin.right);
 
-    // Clear existing chart
+    // Clear existing chart but retain the tooltip
     d3.select("#radar-chart-area").selectAll("svg").remove();
 
     // Create SVG container
@@ -251,10 +257,31 @@ function createRadarChart(data) {
         .attr("transform", `translate(${width / 2},${height / 2})`);
 
     const axes = ['citations', 'cites_to', 'decision_year'];
-    const numAxes = axes.length;
-    const angleSlice = (Math.PI * 2) / numAxes;
+    const angleSlice = (Math.PI * 2) / axes.length;
 
-    // Create proper scales for each dimension
+    // Create scales for each axis
+    const scales = createScales(data, axes, radius);
+
+    // Ensure the tooltip is persistent
+    let tooltip = d3.select("#radar-chart-area .radar-tooltip");
+    if (tooltip.empty()) {
+        tooltip = createTooltip("#radar-chart-area", "radar-tooltip");
+    }
+
+    // Draw circular grid
+    drawCircularGrid(chartArea, radius, 5);
+
+    // Draw axes
+    drawAxes(chartArea, axes, scales, radius, angleSlice, tooltip);
+
+    // Draw radar areas
+    drawRadarAreas(chartArea, data, axes, scales, angleSlice);
+
+    // Draw radar circles
+    drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip);
+}
+
+function createScales(data, axes, radius) {
     const scales = {};
     axes.forEach(axis => {
         const values = data.map(d => d[axis]);
@@ -262,46 +289,44 @@ function createRadarChart(data) {
             .domain([0, d3.max(values)])
             .range([0, radius]);
     });
+    return scales;
+}
 
-    // Draw circular grid with labels
-    const levels = 5;
+function createTooltip(container, className) {
+    return d3.select(container)
+        .append("div")
+        .attr("class", className)
+        .style("opacity", 0)
+        .style("position", "absolute")
+        .style("background", "rgba(0, 0, 0, 0.8)")
+        .style("color", "#fff")
+        .style("padding", "8px")
+        .style("border-radius", "6px")
+        .style("font-size", "12px")
+        .style("pointer-events", "none")
+        .style("z-index", "1000");
+}
+
+function drawCircularGrid(chartArea, radius, levels) {
     const axisGrid = chartArea.append("g").attr("class", "axisWrapper");
-    
     for (let j = 0; j < levels; j++) {
         const levelFactor = (j + 1) / levels;
-        
-        // Draw the circular grid lines
         axisGrid.append("circle")
             .attr("r", radius * levelFactor)
             .attr("class", "gridCircle")
             .style("fill", "none")
             .style("stroke", "#CDCDCD")
             .style("stroke-width", "0.5");
-
-        // Add grid level labels for each axis
-        axes.forEach((axis, i) => {
-            const maxValue = d3.max(data, d => d[axis]);
-            const value = maxValue * levelFactor;
-            
-            axisGrid.append("text")
-                .attr("x", radius * levelFactor * Math.cos(angleSlice * i - Math.PI / 2) * 1.1)
-                .attr("y", radius * levelFactor * Math.sin(angleSlice * i - Math.PI / 2) * 1.1)
-                .style("font-size", "8px")
-                .style("fill", "#737373")
-                .text(axis === 'decision_year' ? 
-                    Math.round(value) : 
-                    d3.format(".0f")(value));
-        });
     }
+}
 
-    // Draw the axes
-    const axis = axisGrid.selectAll(".axis")
+function drawAxes(chartArea, axes, scales, radius, angleSlice, tooltip) {
+    const axis = chartArea.selectAll(".axis")
         .data(axes)
         .enter()
         .append("g")
         .attr("class", "axis");
 
-    // Draw axis lines
     axis.append("line")
         .attr("x1", 0)
         .attr("y1", 0)
@@ -310,7 +335,6 @@ function createRadarChart(data) {
         .style("stroke", "#CDCDCD")
         .style("stroke-width", "1px");
 
-    // Add axis labels
     axis.append("text")
         .attr("class", "legend")
         .attr("text-anchor", "middle")
@@ -319,23 +343,26 @@ function createRadarChart(data) {
         .attr("y", (d, i) => radius * 1.15 * Math.sin(angleSlice * i - Math.PI / 2))
         .style("font-size", "12px")
         .style("fill", "#333")
-        .text(d => d);
+        .text(d => d)
+        .on("mouseover", function(event, d) {
+            tooltip.transition().duration(200).style("opacity", 1);
+            tooltip.html(getDescription(d))
+                .style("left", `${event.pageX + 10}px`)
+                .style("top", `${event.pageY - 28}px`);
+        })
+        .on("mouseout", function() {
+            tooltip.transition().duration(500).style("opacity", 0);
+        });
+}
 
-    // Create the radar line function
+function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
     const radarLine = d3.lineRadial()
         .curve(d3.curveLinearClosed)
         .radius((d, i) => scales[axes[i]](d.value))
         .angle((d, i) => i * angleSlice);
 
-    // Format data for radar chart
-    const radarData = data.map(d => {
-        return axes.map(axis => ({
-            axis: axis,
-            value: d[axis]
-        }));
-    });
+    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name })));
 
-    // Draw the radar areas
     chartArea.selectAll(".radarArea")
         .data(radarData)
         .enter()
@@ -346,67 +373,47 @@ function createRadarChart(data) {
         .style("fill-opacity", 0.5)
         .style("stroke", (d, i) => d3.schemeCategory10[i % 10])
         .style("stroke-width", 2);
+}
 
-    // Add tooltips for data points
-    const tooltip = d3.select("#radar-chart-area")
-        .append("div")
-        .attr("class", "tooltip")
-        .style("opacity", 0)
-        .style("position", "absolute")
-        .style("background", "white")
-        .style("padding", "5px")
-        .style("border", "1px solid #999")
-        .style("border-radius", "3px");
+function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
+    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name }))).flat();
 
-    console.log("Radar Data:", radarData);
-    // Add data points with tooltips
-    chartArea.selectAll(".radarPoints")
+    chartArea.selectAll(".radarCircle")
         .data(radarData)
         .enter()
-        .append("g")
-        .attr("class", "radarPoints")
-        .selectAll("circle")
-        .data(d => d)
-        .enter()
         .append("circle")
+        .attr("class", "radarCircle")
         .attr("r", 4)
         .attr("cx", (d, i) => scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2))
         .attr("cy", (d, i) => scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2))
-        .style("fill", "#fff")
+        .style("fill", "orange")
+        .style("fill-opacity", 0.8)
         .style("stroke", "#888")
         .style("stroke-width", 2)
         .on("mouseover", function(event, d) {
-            console.log("Mouseover:", d);
-            // Show tooltip
-            tooltip.transition()
-                .duration(200)
-                .style("opacity", .9);
-            
-            console.log(`Tooltip Content: ${d.axis}: ${d.value.toFixed(2)}`);
-        
-            // Set tooltip content
-            tooltip.html(`<strong>${d.axis}:</strong> ${d.value.toFixed(2)}`)
-                .style("left", (event.pageX + 10) + "px")
-                .style("top", (event.pageY - 28) + "px");
-            
-            // Highlight the hovered data point
-            d3.select(this)
-                .style("fill", "orange")
-                .attr("r", 6);
+            console.log("Tooltip Data:", d); // Debugging statement
+            tooltip.transition().duration(200).style("opacity", 1);
+            tooltip.html(`<strong>Case:</strong> ${d.name}<br><strong>${d.axis}:</strong> ${d.value}`)
+                .style("left", `${event.pageX + 10}px`)
+                .style("top", `${event.pageY - 20}px`);
+        })
+        .on("mousemove", function(event) {
+            tooltip.style("left", `${event.pageX + 10}px`)
+                .style("top", `${event.pageY - 20}px`);
         })
         .on("mouseout", function() {
-            // Hide tooltip
-            tooltip.transition()
-                .duration(500)
-                .style("opacity", 0);
-            
-            // Remove highlight from the data point
-            d3.select(this)
-                .style("fill", "#fff")
-                .attr("r", 4);
+            tooltip.transition().duration(500).style("opacity", 0);
         });
 }
 
+function getDescription(axis) {
+    const descriptions = {
+        "citations": "Number of citations this case has received.",
+        "cites_to": "Number of cases this case references.",
+        "decision_year": "Year of the case normalized for comparison."
+    };
+    return descriptions[axis] || "No description available.";
+}
 /**
  * Process and structure data for the parallel coordinates plot
  * @param {Array} data - Raw case data from JSON files
@@ -478,31 +485,98 @@ function createParallelCoordinatesPlot(data) {
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
+    // Add a legend container
+    // Add an info icon for the legend
+    if (d3.select(".legend-tooltip-trigger").empty()) {
+        d3.select("#parallel-coordinates-area")
+            .append("div")
+            .attr("class", "legend-tooltip-trigger")
+            .html(`<span>ℹ️</span>`); // Add the info icon
+    }
+
+    const tooltip = d3.select("body")
+        .append("div")
+        .attr("class", "legend-tooltip")
+    
+    d3.select(".legend-tooltip-trigger")
+        .on("mouseover", function (event) {
+            tooltip.transition().duration(200).style("opacity", 1);
+            tooltip.html(`
+                <strong>Legend:</strong><br>
+                <span style="color: #69b3a2;">Lines</span>: Represent cases normalized across dimensions.<br>
+                <strong>Axes:</strong> Opinion Length, Cite Ratio, Jurisdiction Level.<br>
+                <em>Hover over a line for detailed values.</em>
+            `)
+                .style("left", `${event.pageX + 15}px`)
+                .style("top", `${event.pageY + 15}px`);
+        })
+        .on("mouseout", function () {
+            tooltip.transition().duration(500).style("opacity", 0);
+        });
+    
 
     // Line generator for each case
     function path(d) {
         return d3.line()(dimensions.map(p => [xScale(p), yScales[p](d[p])]));
     }
 
-    // Draw lines for each case in the data
+    // Draw lines for each case
     svg.selectAll("myPath")
         .data(data)
         .enter()
         .append("path")
         .attr("d", path)
         .style("fill", "none")
-        .style("stroke", "#69b3a2")
-        .style("opacity", 0.7);
+        .style("stroke", "#69b3a2") // Default color
+        .style("stroke-width", 4)
+        .style("opacity", 0.3) // Default opacity
+        .on("mouseover", function (event, d) {
+            d3.selectAll("path").style("opacity", 0.1); // Dim all lines
+            d3.select(this).style("opacity", 1); // Highlight the hovered line
+
+            // Add dynamic labels for each axis
+            dimensions.forEach(dim => {
+                svg.append("text")
+                    .attr("class", "hover-label")
+                    .attr("x", xScale(dim))
+                    .attr("y", yScales[dim](d[dim]) - 10) // Position above the line
+                    .style("text-anchor", "middle")
+                    .style("fill", "black")
+                    .style("font-size", "12px")
+                    .text(d[dim].toFixed(2)); // Display value rounded to 2 decimals
+            });
+
+            // Show tooltip with case details
+            tooltip.transition().duration(200).style("opacity", 1);
+            tooltip.html(`
+                <strong>Case Name:</strong> ${d.name}<br>
+                <strong>Opinion Length:</strong> ${d.opinion_length.toFixed(2)}<br>
+                <strong>Cite Ratio:</strong> ${d.cite_ratio.toFixed(2)}<br>
+                <strong>Jurisdiction Level:</strong> ${d.jurisdiction_level.toFixed(2)}
+            `);
+        })
+        .on("mousemove", function (event) {
+            // Position the tooltip dynamically near the cursor
+            tooltip.style("left", `${event.pageX + 15}px`)
+                   .style("top", `${event.pageY + 15}px`);
+        })
+        .on("mouseout", function () {
+            d3.selectAll("path").style("opacity", 0.3); // Reset all lines
+            d3.selectAll(".hover-label").remove(); // Remove the labels
+
+            // Hide the tooltip
+            tooltip.transition().duration(500).style("opacity", 0);
+        });
 
     // Draw the axes for each dimension
     dimensions.forEach(dimension => {
         svg.append("g")
             .attr("transform", `translate(${xScale(dimension)},0)`)
-            .each(function(d) { d3.select(this).call(d3.axisLeft(yScales[dimension])); })
+            .each(function () { d3.select(this).call(d3.axisLeft(yScales[dimension])); })
             .append("text")
             .style("text-anchor", "middle")
-            .attr("y", -9)
-            .text(dimension.replace(/_/g, " "))  // Replace underscores with spaces for labels
+            .attr("y", -20)
+            .text(dimension.replace(/_/g, " ")) // Replace underscores with spaces for labels
             .style("fill", "black");
     });
 }

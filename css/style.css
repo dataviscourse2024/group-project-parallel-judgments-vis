@@ -159,6 +159,20 @@ h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Radar chart tooltip styling */
+.radar-tooltip {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    pointer-events: none; /* Prevent interaction */
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.3s ease-in-out;
+    z-index: 1000; /* Ensure visibility over other elements */
+}
+
 /* Radar chart circles (grid lines) */
 .axisWrapper circle {
     stroke: #e0e0e0;  /* Light gray for grid circles */
@@ -194,22 +208,9 @@ h1 {
     fill: orange;
     fill-opacity: 0.8;
 }
-
-/* Tooltip styling (optional) */
-.tooltip {
-    position: absolute;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #fff;
-    padding: 8px;
-    border-radius: 4px;
-    font-size: 12px;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
 /* Parallel coordinates plot container */
 #parallel-coordinates-area {
+    position: relative;
     width: 900px;
     margin: 20px auto;
     border: 1px solid #ccc;
@@ -220,19 +221,61 @@ h1 {
 /* Styling for lines in the plot */
 #parallel-coordinates-area path {
     stroke-width: 2;
+    opacity: 0.3; /* Default opacity for all lines */
+    transition: opacity 0.3s ease-in-out; /* Smooth transition on hover */
 }
 
 #parallel-coordinates-area path:hover {
-    stroke: orange;
+    stroke: orange; /* Highlight color */
     stroke-width: 4;
-    opacity: 1;
+    opacity: 1; /* Fully visible on hover */
 }
+
 
 /* Axis label styling */
 #parallel-coordinates-area g.axis text {
     font-size: 12px;
     fill: black;
 }
+
+.legend-tooltip {
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    pointer-events: none;
+    opacity: 0; /* Hidden by default */
+    z-index: 10;
+    transition: opacity 0.3s ease-in-out; /* Smooth fade-in and fade-out */
+}
+
+.legend-tooltip-trigger {
+    position: absolute; /* Change from relative to absolute */
+    right: 10px; /* Position it within the container */
+    top: 10px; /* Top-align it within the container */
+    font-size: 16px;
+    cursor: pointer;
+    z-index: 10; /* Ensure it stays on top of other elements */
+    pointer-events: auto; /* Allow interaction */
+}
+
+.case-tooltip {
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    pointer-events: none; /* Prevent tooltip from interfering with hover */
+    opacity: 0; /* Hidden by default */
+    z-index: 10;
+    transition: opacity 0.3s ease-in-out; /* Smooth fade-in/out */
+}
+
 .gridCircle {
     opacity: 0.8;
 }
