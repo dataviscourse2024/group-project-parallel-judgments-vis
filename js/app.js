@@ -531,8 +531,8 @@ function processParallelData(data) {
  * @param {Array} data - Array of structured data objects for parallel plot
  */
 function createParallelCoordinatesPlot(data) {
-    const margin = { top: 40, right: 50, bottom: 10, left: 50 };
-    const width = 900 - margin.left - margin.right;
+    const margin = { top: 40, right: 100, bottom: 10, left: 10 };
+    const width = 700 - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
 
     // Clear any existing SVG in the container to prevent duplicates
@@ -744,7 +744,7 @@ function createSimilarityChart(selectedData) {
     }
 
     const width = 600;
-    const height = 400;
+    const height = 450;
     const margin = { top: 40, right: 160, bottom: 60, left: 60 };
     const innerWidth = width - margin.left - margin.right;
     const innerHeight = height - margin.top - margin.bottom;
@@ -787,7 +787,7 @@ function createSimilarityChart(selectedData) {
 
     // Add title
     svg.append("text")
-        .attr("x", width / 2)
+        .attr("x", (width / 2)-30)
         .attr("y", margin.top / 2)
         .attr("text-anchor", "middle")
         .style("font-size", "16px")
@@ -876,15 +876,15 @@ function createSimilarityChart(selectedData) {
     // Add y-axis label
     g.append("text")
         .attr("transform", "rotate(-90)")
-        .attr("y", -margin.left + 20)
-        .attr("x", -innerHeight / 2)
+        .attr("y", -margin.left+20)
+        .attr("x", (-innerHeight / 2))
         .attr("text-anchor", "middle")
         .text("Citation-based Similarity");
 
     // Add legend
     const legend = svg.append("g")
         .attr("class", "legend")
-        .attr("transform", `translate(${width - margin.right + 10}, ${margin.top})`);
+        .attr("transform", `translate(${width - margin.right - 20}, ${margin.top+40})`);
 
     [
         { label: "Citation Similarity", color: "#2196F3" },
