@@ -294,11 +294,15 @@ function createRadarChart(data) {
         .append("g")
         .attr("transform", `translate(${width / 2},${height / 2})`);
 
-    const axes = ['citations', 'cites_to', 'decision_year'];
+    const axes = [
+        { id: 'citations', label: 'Citations' },
+        { id: 'cites_to', label: 'Cites To' },
+        { id: 'decision_year', label: 'Decision Year' }
+    ];
     const angleSlice = (Math.PI * 2) / axes.length;
 
     // Create scales for each axis
-    const scales = createScales(data, axes, radius);
+    const scales = createScales(data, axes.map(a => a.id), radius);
 
     // Ensure the tooltip is persistent
     let tooltip = d3.select("#radar-chart-area .radar-tooltip");
@@ -313,10 +317,13 @@ function createRadarChart(data) {
     drawAxes(chartArea, axes, scales, radius, angleSlice, tooltip);
 
     // Draw radar areas
-    drawRadarAreas(chartArea, data, axes, scales, angleSlice);
+    drawRadarAreas(chartArea, data, axes.map(a => a.id), scales, angleSlice);
 
     // Draw radar circles
-    drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip);
+    drawRadarCircles(chartArea, data, axes.map(a => a.id), scales, angleSlice, tooltip);
+
+    // Add a legend
+    addLegend(chartArea, width, height);
 }
 
 function createScales(data, axes, radius) {
@@ -381,10 +388,10 @@ function drawAxes(chartArea, axes, scales, radius, angleSlice, tooltip) {
         .attr("y", (d, i) => radius * 1.15 * Math.sin(angleSlice * i - Math.PI / 2))
         .style("font-size", "12px")
         .style("fill", "#333")
-        .text(d => d)
+        .text(d => d.label)
         .on("mouseover", function(event, d) {
             tooltip.transition().duration(200).style("opacity", 1);
-            tooltip.html(getDescription(d))
+            tooltip.html(getDescription(d.id))
                 .style("left", `${event.pageX + 10}px`)
                 .style("top", `${event.pageY - 28}px`);
         })
@@ -451,6 +458,38 @@ function getDescription(axis) {
         "decision_year": "Year of the case normalized for comparison."
     };
     return descriptions[axis] || "No description available.";
+}
+
+function addLegend(chartArea, width, height) {
+    const legend = chartArea.append("g")
+        .attr("class", "legend")
+        .attr("transform", `translate(${width / 2 - 50}, ${height / 2 + 20})`);
+
+    const legendData = [
+        { color: d3.schemeCategory10[0], label: "Citations" },
+        { color: d3.schemeCategory10[1], label: "Cites To" },
+        { color: d3.schemeCategory10[2], label: "Decision Year" }
+    ];
+
+    legend.selectAll("rect")
+        .data(legendData)
+        .enter()
+        .append("rect")
+        .attr("x", 0)
+        .attr("y", (d, i) => i * 20)
+        .attr("width", 10)
+        .attr("height", 10)
+        .attr("fill", d => d.color);
+
+    legend.selectAll("text")
+        .data(legendData)
+        .enter()
+        .append("text")
+        .attr("x", 20)
+        .attr("y", (d, i) => i * 20 + 9)
+        .text(d => d.label)
+        .style("font-size", "12px")
+        .style("fill", "#333");
 }
 /**
  * Process and structure data for the parallel coordinates plot
