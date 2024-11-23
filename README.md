@@ -110,6 +110,3 @@ http://localhost:8000
 - CourtListener API
 - Caselaw Access Project
 - D3.js community
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
