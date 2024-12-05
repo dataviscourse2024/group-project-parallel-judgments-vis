@@ -23,6 +23,50 @@ h1 {
 }
 
 
+/* Left Column (Buttons + Table/Map) */
+#left-column {
+    display: flex;
+    flex-direction: column; /* Stack buttons and table/map vertically */
+    gap: 10px; /* Space between buttons and table/map */
+    width: 45%; /* Allocate 60% of the width for this column */
+}
+
+
+/* View Switcher Buttons */
+#view-switcher {
+    margin: 20px 0;
+    text-align: left;
+}
+
+#view-switcher button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px 5px 5px 0; /* Ensure spacing between buttons */
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    display: inline-block; /* Ensure buttons stay inline */
+}
+
+#view-switcher button:hover {
+    background-color: #45a049;
+}
+
+
+#map-area {
+    height: 500px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: none; /* Hidden by default */
+}
+
+
+
 /* Wrapper for the table and charts */
 #content-wrapper {
     display: flex;

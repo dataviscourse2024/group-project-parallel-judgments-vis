@@ -38,6 +38,11 @@ function loadData() {
         // Call function to create table
         createTable(allData);  // Create the table
 
+
+        // Set up the view switcher //sam
+        setupViewSwitcher(allData);
+
+
         // Add event listener for date range slider
         dateRangeSlider.noUiSlider.on('update', function(values) {
             const selectedMinYear = parseInt(values[0]);
@@ -250,6 +255,64 @@ function createTable(data) {
     updateVisualizations();
     
 }
+
+
+//////////////////sam
+// Function to initialize and update the map
+function initializeMap() {
+    if (!window.caseMap) {
+        window.caseMap = L.map('map-area').setView([37.7749, -122.4194], 5); // Default center
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(window.caseMap);
+    }
+    if (window.caseMarkers) {
+        window.caseMarkers.forEach(marker => window.caseMap.removeLayer(marker));
+    }
+    window.caseMarkers = [];
+}
+
+// Function to add markers to the map
+function updateMap(data) {
+    initializeMap();
+
+    data.forEach(caseData => {
+        if (caseData.city && caseData.state) {
+            const latitude = caseData.latitude || 37.7749; // Placeholder latitude
+            const longitude = caseData.longitude || -122.4194; // Placeholder longitude
+
+            const marker = L.marker([latitude, longitude]).addTo(window.caseMap);
+            marker.bindPopup(`<strong>${caseData.name || "Unknown Case"}</strong>`);
+            window.caseMarkers.push(marker);
+        }
+    });
+
+    if (window.caseMarkers.length) {
+        const group = L.featureGroup(window.caseMarkers);
+        window.caseMap.fitBounds(group.getBounds());
+    }
+}
+
+// Function to set up view switcher
+function setupViewSwitcher(data) {
+    const tableButton = document.getElementById('table-view-button');
+    const mapButton = document.getElementById('map-view-button');
+    const tableArea = document.getElementById('table-area');
+    const mapArea = document.getElementById('map-area');
+
+    tableButton.addEventListener('click', () => {
+        tableArea.style.display = 'block';
+        mapArea.style.display = 'none';
+    });
+
+    mapButton.addEventListener('click', () => {
+        tableArea.style.display = 'none';
+        mapArea.style.display = 'block';
+        updateMap(data); // Update map with current data
+    });
+}
+
+////////////////////////sam
 /**
  * Function to process and normalize data for the radar chart
  * @param {Array} data - Raw case data from JSON files
