@@ -465,3 +465,21 @@ h1 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     pointer-events: none;
 }
+
+.top-right-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #FF0000; /* YouTube red */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.top-right-button:hover {
+    background-color: #CC0000; /* Darker red on hover */
+}

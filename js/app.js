@@ -1111,3 +1111,7 @@ function createSimilarityChart(selectedData) {
 
 // Load the data when the script is executed
 loadData();
+
+document.getElementById('youtube-button').addEventListener('click', function() {
+    window.open('https://youtu.be/5fxkzTyYewM', '_blank');
+});
