@@ -578,7 +578,7 @@ function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
 
     const radarData = data.map(d => axes.map(axis => ({ 
         axis, 
-        value: d[axis].normalized, 
+        value: d[axis], 
         name: d.name 
     })));
 
@@ -612,39 +612,13 @@ function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
         .append("circle")
         .attr("class", "radarCircle")
         .attr("r", 4)
-        .attr("cx", (d, i) => {
-            const cx = scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2);
-            // Debug: Log circle positions
-            console.log("Circle cx calculation:", {
-                axis: d.axis,
-                value: d.value,
-                scale: scales[d.axis](d.value),
-                finalCx: cx
-            });
-            return cx;
-        })
-        .attr("cy", (d, i) => {
-            const cy = scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2);
-            // Debug: Log circle positions
-            console.log("Circle cy calculation:", {
-                axis: d.axis,
-                value: d.value,
-                scale: scales[d.axis](d.value),
-                finalCy: cy
-            });
-            return cy;
-        })
+        .attr("cx", (d, i) => scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2))
+        .attr("cy", (d, i) => scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2))
         .style("fill", "orange")
         .style("fill-opacity", 0.8)
         .style("stroke", "#888")
         .style("stroke-width", 2)
         .on("mouseover", function(event, d) {
-            // Debug: Log hover data
-            console.log("Hover data:", {
-                data: d,
-                originalValue: d.originalValue,
-                normalizedValue: d.value
-            });
             
             tooltip.transition().duration(200).style("opacity", 1);
             tooltip.html(`
@@ -655,8 +629,8 @@ function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
                 <strong>Axis:</strong> ${d.axis} <br/>
                 <strong>Value:</strong> ${d.value}
             `)
-                .style("left", `${event.pageX + 10}px`)
-                .style("top", `${event.pageY - 20}px`);
+            .style("left", `${event.pageX + 10}px`)
+            .style("top", `${event.pageY - 20}px`);
         })
         .on("mousemove", function(event) {
             tooltip.style("left", `${event.pageX + 10}px`)
