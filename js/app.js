@@ -35,12 +35,12 @@ function loadData() {
             step: 1,
         });
 
-        // Call function to create table
-        createTable(allData);  // Create the table
-
 
         // Set up the view switcher //sam
         setupViewSwitcher(allData);
+
+        // Call function to create table
+        createTable(allData);  // Create the table
 
 
         // Add event listener for date range slider
@@ -84,7 +84,7 @@ const jurisdictionLevels = {
     "N.Y.": 2,         // New York (state level example)
     // Add more states or jurisdictions as needed
     "Local": 1,        // Placeholder for municipal/local levels
-    "Municipal": 1
+    "Municipal": 1    
 };
 
 // Function to get jurisdiction level
@@ -259,6 +259,8 @@ function createTable(data) {
 
 //////////////////sam
 // Function to initialize and update the map
+
+
 function initializeMap() {
     if (!window.caseMap) {
         window.caseMap = L.map('map-area').setView([37.7749, -122.4194], 5); // Default center
@@ -273,6 +275,8 @@ function initializeMap() {
 }
 
 // Function to add markers to the map
+
+/*
 function updateMap(data) {
     initializeMap();
 
@@ -292,6 +296,88 @@ function updateMap(data) {
         window.caseMap.fitBounds(group.getBounds());
     }
 }
+*/
+
+async function geocodeCourtNameWithNominatim(courtName) {
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(courtName)}&format=json&addressdetails=1&limit=1`;
+
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        if (data && data.length > 0) {
+            const { lat, lon } = data[0];
+            return { latitude: parseFloat(lat), longitude: parseFloat(lon) };
+        } else {
+            console.error(`No results found for: ${courtName}`);
+            return null;
+        }
+    } catch (error) {
+        console.error(`Error during geocoding for: ${courtName}`, error);
+        return null;
+    }
+}
+
+async function updateMap(data) {
+    initializeMap();
+
+    for (const caseData of data) {
+        const courtName = caseData.court?.name;
+        if (!courtName) continue;
+
+        const location = await geocodeCourtNameWithCache(courtName);
+
+        if (location) {
+            const { latitude, longitude } = location;
+
+            // Add a marker for the court
+            const marker = L.marker([latitude, longitude]).addTo(window.caseMap);
+            marker.bindPopup(`
+                <strong>${courtName}</strong><br>
+                ${caseData.name || "Unknown Case"}<br>
+                Decision Date: ${caseData.decision_date || "N/A"}
+            `);
+            window.caseMarkers.push(marker);
+        } else {
+            console.warn(`Could not locate court: ${courtName}`);
+        }
+    }
+
+    if (window.caseMarkers.length) {
+        const group = L.featureGroup(window.caseMarkers);
+        window.caseMap.fitBounds(group.getBounds());
+    }
+}
+
+
+const geocodingCache = {};
+
+const courtLocationCache = {
+    "Texas Court of Criminal Appeals": { latitude: 30.2747, longitude: -97.7404 }, // Austin, Texas
+    "Supreme Court of the United States": { latitude: 38.8977, longitude: -77.0365 }, // Washington, D.C.
+    "Supreme Court of Indiana": { latitude: 39.7684, longitude: -86.1581 }, // Indianapolis, Indiana
+    "United States Court of Appeals for the Eighth Circuit": { latitude: 38.6270, longitude: -90.1994 }, // St. Louis, Missouri
+    "United States Court of Appeals for the Ninth Circuit": { latitude: 37.7749, longitude: -122.4194 }, // San Francisco, California
+    "United States Court of Appeals for the Eleventh Circuit": { latitude: 33.7490, longitude: -84.3880 } // Atlanta, Georgia
+};
+
+
+
+async function geocodeCourtNameWithCache(courtName) {
+    // Check the cache first
+    if (courtLocationCache[courtName]) {
+        console.log(`Using cached location for: ${courtName}`);
+        return courtLocationCache[courtName];
+    }
+
+    // If not cached, attempt to geocode using Nominatim
+    const location = await geocodeCourtNameWithNominatim(courtName);
+    if (location) {
+        courtLocationCache[courtName] = location; // Cache the result
+    }
+    return location;
+}
+
 
 // Function to set up view switcher
 function setupViewSwitcher(data) {
@@ -305,12 +391,13 @@ function setupViewSwitcher(data) {
         mapArea.style.display = 'none';
     });
 
-    mapButton.addEventListener('click', () => {
+    mapButton.addEventListener('click', async () => {
         tableArea.style.display = 'none';
         mapArea.style.display = 'block';
-        updateMap(data); // Update map with current data
+        await updateMap(data); // Dynamically fetch and display court locations
     });
 }
+
 
 ////////////////////////sam
 /**
