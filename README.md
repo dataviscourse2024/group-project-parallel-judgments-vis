@@ -5,6 +5,7 @@ Parallel Judgments is an interactive visualization tool designed to help legal p
 
 ## Live Demo
 [View Live Demo (YouTube)](https://youtu.be/5fxkzTyYewM)
+[Website Link](https://dataviscourse2024.github.io/group-project-parallel-judgments-vis/)
 
 ## Features
 
