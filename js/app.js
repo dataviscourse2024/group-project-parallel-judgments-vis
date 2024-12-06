@@ -319,7 +319,6 @@ function setupViewSwitcher(data) {
  * @returns {Array} - Processed and normalized data for radar chart
  */
 function processRadarData(data) {
-    // Calculate max values for normalization
     const maxCitations = d3.max(data, d => d.citations ? d.citations.length : 0);
     const maxCitesTo = d3.max(data, d => d.cites_to ? d.cites_to.length : 0);
     const minYear = d3.min(data, d => new Date(d.decision_date).getFullYear());
@@ -332,7 +331,10 @@ function processRadarData(data) {
             name: d.name || 'Unknown Case',
             citations: (d.citations ? d.citations.length : 0) / maxCitations,
             cites_to: (d.cites_to ? d.cites_to.length : 0) / maxCitesTo,
-            decision_year: (new Date().getFullYear() - year) / (new Date().getFullYear() - minYear) // Relative case age (older cases are higher)
+            decision_year: (new Date().getFullYear() - year) / (new Date().getFullYear() - minYear), // Relative case age (older cases are higher)
+            originalCitations: d.citations ? d.citations.length : 0,  // Include original citation count
+            originalCitesTo: d.cites_to ? d.cites_to.length : 0,      // Include original cites_to count
+            originalDecisionDate: d.decision_date                   // Include original decision date
         };
     });
 }
@@ -499,7 +501,16 @@ function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
 }
 
 function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
-    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name }))).flat();
+    const radarData = data.map(d => 
+        axes.map(axis => ({
+            axis, 
+            value: d[axis], 
+            name: d.name, 
+            originalCitations: d.originalCitations,
+            originalCitesTo: d.originalCitesTo,
+            originalDecisionDate: d.originalDecisionDate
+        }))
+    ).flat();
 
     chartArea.selectAll(".radarCircle")
         .data(radarData)
@@ -516,7 +527,14 @@ function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
         .on("mouseover", function(event, d) {
             console.log("Tooltip Data:", d); // Debugging statement
             tooltip.transition().duration(200).style("opacity", 1);
-            tooltip.html(`<strong>Case:</strong> ${d.name}<br><strong>${d.axis}:</strong> ${d.value}`)
+            tooltip.html(`
+                <strong>Case Name:</strong> ${d.name} <br/>
+                <strong>Original Citations:</strong> ${d.originalCitations} <br/>
+                <strong>Original Cites To:</strong> ${d.originalCitesTo} <br/>
+                <strong>Decision Date:</strong> ${d.originalDecisionDate} <br/>
+                <strong>Axis:</strong> ${d.axis} <br/>
+                <strong>Value:</strong> ${d.value}
+            `)
                 .style("left", `${event.pageX + 10}px`)
                 .style("top", `${event.pageY - 20}px`);
         })
