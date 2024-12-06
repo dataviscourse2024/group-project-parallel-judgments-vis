@@ -328,11 +328,18 @@ function processRadarData(data) {
     // Normalize and structure data for radar chart
     return data.map(d => {
         const year = new Date(d.decision_date).getFullYear();
+        const citationsCount = d.citations ? d.citations.length : 0;
+        const citesToCount = d.cites_to ? d.cites_to.length : 0;
+
         return {
             name: d.name || 'Unknown Case',
-            citations: (d.citations ? d.citations.length : 0) / maxCitations,
-            cites_to: (d.cites_to ? d.cites_to.length : 0) / maxCitesTo,
-            decision_year: (new Date().getFullYear() - year) / (new Date().getFullYear() - minYear) // Relative case age (older cases are higher)
+            citations: citationsCount / maxCitations,
+            cites_to: citesToCount / maxCitesTo,
+            decision_year: (new Date().getFullYear() - year) / (new Date().getFullYear() - minYear),
+            // Add original values as separate properties
+            originalCitations: citationsCount,
+            originalCitesTo: citesToCount,
+            originalYear: year
         };
     });
 }
@@ -484,7 +491,11 @@ function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
         .radius((d, i) => scales[axes[i]](d.value))
         .angle((d, i) => i * angleSlice);
 
-    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name })));
+    const radarData = data.map(d => axes.map(axis => ({ 
+        axis, 
+        value: d[axis].normalized, 
+        name: d.name 
+    })));
 
     chartArea.selectAll(".radarArea")
         .data(radarData)
@@ -499,7 +510,31 @@ function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
 }
 
 function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
-    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name }))).flat();
+    console.log("Input data to drawRadarCircles:", data);
+    console.log("Axes:", axes);
+    console.log("Scales:", scales);
+    
+    const radarData = data.map(d => axes.map(axis => {
+        let originalValue;
+        if (axis === 'citations') {
+            originalValue = d.originalCitations;
+        } else if (axis === 'cites_to') {
+            originalValue = d.originalCitesTo;
+        } else if (axis === 'decision_year') {
+            originalValue = d.originalYear;
+        }
+        
+        const mappedData = {
+            axis,
+            value: d[axis],
+            originalValue: originalValue,
+            name: d.name
+        };
+
+        // Debug: Log mapped data for each point
+        console.log("Mapped radar point:", mappedData);
+        return mappedData;
+    })).flat();
 
     chartArea.selectAll(".radarCircle")
         .data(radarData)
@@ -507,16 +542,53 @@ function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
         .append("circle")
         .attr("class", "radarCircle")
         .attr("r", 4)
-        .attr("cx", (d, i) => scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2))
-        .attr("cy", (d, i) => scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2))
+        .attr("cx", (d, i) => {
+            const cx = scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2);
+            // Debug: Log circle positions
+            console.log("Circle cx calculation:", {
+                axis: d.axis,
+                value: d.value,
+                scale: scales[d.axis](d.value),
+                finalCx: cx
+            });
+            return cx;
+        })
+        .attr("cy", (d, i) => {
+            const cy = scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2);
+            // Debug: Log circle positions
+            console.log("Circle cy calculation:", {
+                axis: d.axis,
+                value: d.value,
+                scale: scales[d.axis](d.value),
+                finalCy: cy
+            });
+            return cy;
+        })
         .style("fill", "orange")
         .style("fill-opacity", 0.8)
         .style("stroke", "#888")
         .style("stroke-width", 2)
         .on("mouseover", function(event, d) {
-            console.log("Tooltip Data:", d); // Debugging statement
+            // Debug: Log hover data
+            console.log("Hover data:", {
+                data: d,
+                originalValue: d.originalValue,
+                normalizedValue: d.value
+            });
+            
             tooltip.transition().duration(200).style("opacity", 1);
-            tooltip.html(`<strong>Case:</strong> ${d.name}<br><strong>${d.axis}:</strong> ${d.value}`)
+            
+            let valueText;
+            if (d.axis === 'decision_year') {
+                valueText = `Year: ${d.originalValue}`;
+            } else {
+                valueText = `${d.axis}: ${d.originalValue} (${(d.value * 100).toFixed(1)}%)`;
+            }
+
+            tooltip.html(`
+                <strong>Case:</strong> ${d.name}<br>
+                <strong>${valueText}</strong>
+            `)
                 .style("left", `${event.pageX + 10}px`)
                 .style("top", `${event.pageY - 20}px`);
         })
