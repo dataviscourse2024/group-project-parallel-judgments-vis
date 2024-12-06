@@ -414,6 +414,9 @@ function processRadarData(data) {
     // Normalize and structure data for radar chart
     return data.map(d => {
         const year = new Date(d.decision_date).getFullYear();
+        const citationsCount = d.citations ? d.citations.length : 0;
+        const citesToCount = d.cites_to ? d.cites_to.length : 0;
+
         return {
             name: d.name || 'Unknown Case',
             citations: (d.citations ? d.citations.length : 0) / maxCitations,
@@ -573,7 +576,11 @@ function drawRadarAreas(chartArea, data, axes, scales, angleSlice) {
         .radius((d, i) => scales[axes[i]](d.value))
         .angle((d, i) => i * angleSlice);
 
-    const radarData = data.map(d => axes.map(axis => ({ axis, value: d[axis], name: d.name })));
+    const radarData = data.map(d => axes.map(axis => ({ 
+        axis, 
+        value: d[axis].normalized, 
+        name: d.name 
+    })));
 
     chartArea.selectAll(".radarArea")
         .data(radarData)
@@ -605,14 +612,40 @@ function drawRadarCircles(chartArea, data, axes, scales, angleSlice, tooltip) {
         .append("circle")
         .attr("class", "radarCircle")
         .attr("r", 4)
-        .attr("cx", (d, i) => scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2))
-        .attr("cy", (d, i) => scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2))
+        .attr("cx", (d, i) => {
+            const cx = scales[d.axis](d.value) * Math.cos(angleSlice * i - Math.PI / 2);
+            // Debug: Log circle positions
+            console.log("Circle cx calculation:", {
+                axis: d.axis,
+                value: d.value,
+                scale: scales[d.axis](d.value),
+                finalCx: cx
+            });
+            return cx;
+        })
+        .attr("cy", (d, i) => {
+            const cy = scales[d.axis](d.value) * Math.sin(angleSlice * i - Math.PI / 2);
+            // Debug: Log circle positions
+            console.log("Circle cy calculation:", {
+                axis: d.axis,
+                value: d.value,
+                scale: scales[d.axis](d.value),
+                finalCy: cy
+            });
+            return cy;
+        })
         .style("fill", "orange")
         .style("fill-opacity", 0.8)
         .style("stroke", "#888")
         .style("stroke-width", 2)
         .on("mouseover", function(event, d) {
-            console.log("Tooltip Data:", d); // Debugging statement
+            // Debug: Log hover data
+            console.log("Hover data:", {
+                data: d,
+                originalValue: d.originalValue,
+                normalizedValue: d.value
+            });
+            
             tooltip.transition().duration(200).style("opacity", 1);
             tooltip.html(`
                 <strong>Case Name:</strong> ${d.name} <br/>
